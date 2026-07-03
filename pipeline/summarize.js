@@ -102,8 +102,11 @@ async function summarizeGemini(a) {
       generationConfig: {
         responseMimeType: 'application/json',
         responseSchema: GEMINI_SCHEMA,
-        maxOutputTokens: 800,
+        maxOutputTokens: 1200,
         temperature: 0.3,
+        // Gemini 2.5 Flash "thinks" by default and spends the output budget on it,
+        // truncating the JSON. Disable it — this is a simple structured task.
+        thinkingConfig: { thinkingBudget: 0 },
       },
     });
   const cand = data.candidates?.[0];
@@ -151,7 +154,7 @@ async function summarizeClaude(a) {
 const IMPL = { gemini: summarizeGemini, xai: summarizeGrok, anthropic: summarizeClaude };
 const RATE = { gemini: { in: 0, out: 0 }, xai: { in: 0.20, out: 0.50 }, anthropic: { in: 1, out: 5 } }; // $/1M
 const MODEL = { gemini: GEMINI_MODEL, xai: XAI_MODEL, anthropic: ANTHROPIC_MODEL };
-const PACE = PROVIDER === 'gemini' ? 4500 : 300; // Gemini free tier has a low req/min cap
+const PACE = PROVIDER === 'gemini' ? 7000 : 300; // Gemini free tier caps req/min; stay well under
 
 const summarize = IMPL[PROVIDER];
 

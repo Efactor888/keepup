@@ -86,7 +86,8 @@
     }
   ],
   "limits": {
-    "maxNewPerSourcePerRun": 8,
-    "maxAgeDays": 45
+    "maxNewPerSourcePerRun": 6,
+    "maxAgeDays": 45,
+    "maxKeep": 80
   }
 }

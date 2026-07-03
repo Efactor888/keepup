@@ -132,9 +132,24 @@ for (const source of config.sources) {
   console.log(`${source.id}: ${items.length} found, ${added} new`);
 }
 
+// Drop scraper junk (nav labels, bare category/byline lines, version stubs, too-short titles).
+const junkTitle = (t) => {
+  t = (t || '').trim();
+  if (t.length < 18) return true;
+  if (/^(customers|ideas|research|product|company|enterprise|pricing|blog|news|docs|more)$/i.test(t)) return true;
+  if (/^(view all|read more|see all|load more|next|previous|older|newer)\b/i.test(t)) return true;
+  if (/^\d+(\.\d+)?\s+(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)/i.test(t)) return true;
+  if (!/[a-z]/i.test(t)) return true;
+  return false;
+};
+const beforePrune = store.articles.length;
+store.articles = store.articles.filter((a) => !junkTitle(a.title));
 store.articles.sort((a, b) => (b.publishedAt || '').localeCompare(a.publishedAt || ''));
+// Cap the store so it doesn't grow unbounded; keep the newest maxKeep.
+const maxKeep = config.limits.maxKeep || 100;
+if (store.articles.length > maxKeep) store.articles = store.articles.slice(0, maxKeep);
 saveStore(store);
-console.log(`\nTotal new articles: ${totalNew}. Store size: ${store.articles.length}.`);
+console.log(`\nTotal new articles: ${totalNew}. Pruned ${beforePrune - store.articles.length}. Store size: ${store.articles.length}.`);
 if (failures.length) {
   console.log(`Sources that failed (consider WebFetch fallback): ${failures.join('; ')}`);
 }

@@ -60,3 +60,10 @@ jobs:
 
       - id: deploy
         uses: actions/deploy-pages@v4
+        continue-on-error: true
+
+      # The Pages backend intermittently returns "try again later" on the first
+      # attempt; a single retry clears it.
+      - name: Retry deploy if the first attempt flaked
+        if: steps.deploy.outcome == 'failure'
+        uses: actions/deploy-pages@v4

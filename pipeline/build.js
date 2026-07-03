@@ -23,14 +23,23 @@ const articles = store.articles.map((a) => ({
   excerpt: a.summary ? null : (a.contentText || '').slice(0, 220),
 }));
 
+// Keep the page itself light: embed only the newest EMBED_RECENT articles in
+// index.html; the rest ship as a static archive.json the page fetches on demand
+// (search, filters, or "load older stories"). Storage is cheap — page weight isn't.
+const EMBED_RECENT = Number(process.env.EMBED_RECENT) || 200;
+articles.sort((a, b) => (b.publishedAt || '').localeCompare(a.publishedAt || ''));
+const embedded = articles.slice(0, EMBED_RECENT);
+const archived = articles.slice(EMBED_RECENT);
+
 const generatedAt = new Date().toISOString();
 const template = readFileSync(join(ROOT, 'site-src', 'template.html'), 'utf8');
 const html = template
   .replace('__GENERATED_AT__', generatedAt)
-  .replace('"__DATA__"', JSON.stringify({ generatedAt, articles }));
+  .replace('"__DATA__"', JSON.stringify({ generatedAt, articles: embedded, archiveCount: archived.length }));
 
 mkdirSync(join(ROOT, 'site'), { recursive: true });
 writeFileSync(join(ROOT, 'site', 'index.html'), html);
+writeFileSync(join(ROOT, 'site', 'archive.json'), JSON.stringify(archived));
 writeFileSync(join(ROOT, 'site', '.nojekyll'), ''); // tell GitHub Pages to serve files as-is
 
 // Copy static assets (photos, etc.) from site-src/assets → site/assets so they
@@ -46,4 +55,4 @@ if (existsSync(assetSrc)) {
     assetCount += 1;
   }
 }
-console.log(`Built site/index.html with ${articles.length} articles (${articles.filter((a) => a.summary).length} summarized). Copied ${assetCount} asset(s).`);
+console.log(`Built site/index.html with ${embedded.length} embedded + ${archived.length} archived articles (${articles.filter((a) => a.summary).length}/${articles.length} summarized). Copied ${assetCount} asset(s).`);

@@ -88,6 +88,6 @@
   "limits": {
     "maxNewPerSourcePerRun": 6,
     "maxAgeDays": 45,
-    "maxKeep": 80
+    "retentionDays": 365
   }
 }

@@ -144,10 +144,13 @@ const junkTitle = (t) => {
 };
 const beforePrune = store.articles.length;
 store.articles = store.articles.filter((a) => !junkTitle(a.title));
+// Retention: keep a rolling year of coverage. Age-based (not count-based) so
+// summarized articles are never churned out and re-fetched while feeds still list them.
+const retentionDays = config.limits.retentionDays || 365;
+const keepCutoff = Date.now() - retentionDays * 24 * 3600 * 1000;
+store.articles = store.articles.filter((a) => !a.publishedAt || Date.parse(a.publishedAt) >= keepCutoff);
 store.articles.sort((a, b) => (b.publishedAt || '').localeCompare(a.publishedAt || ''));
-// Cap the store so it doesn't grow unbounded; keep the newest maxKeep.
-const maxKeep = config.limits.maxKeep || 100;
-if (store.articles.length > maxKeep) store.articles = store.articles.slice(0, maxKeep);
+if (store.articles.length > 6000) store.articles = store.articles.slice(0, 6000); // safety valve only
 saveStore(store);
 console.log(`\nTotal new articles: ${totalNew}. Pruned ${beforePrune - store.articles.length}. Store size: ${store.articles.length}.`);
 if (failures.length) {

@@ -318,6 +318,14 @@
   .read-link:hover { text-decoration: underline; }
   .empty { text-align: center; color: var(--muted); padding: 70px 0; font-size: 15px; }
   .empty .serif { font-size: 24px; display: block; margin-bottom: 6px; }
+  .feed-more { text-align: center; padding: 28px 0 6px; }
+  .more-btn {
+    border: 1px solid var(--accent); color: var(--accent-ink); background: transparent;
+    padding: 10px 24px; font: 700 12px "JetBrains Mono", ui-monospace, monospace;
+    letter-spacing: .06em; text-transform: uppercase; cursor: pointer; transition: all .15s;
+  }
+  .more-btn:hover { background: var(--accent); color: var(--bg); }
+  .more-btn[disabled] { opacity: .5; cursor: default; }
 
   /* ---------- Footer ---------- */
   .site-foot { border-top: 1px solid var(--rule); margin-top: 64px; }
@@ -408,7 +416,31 @@ const GROUPS = [
 ];
 const groupOf = (src) => GROUPS.slice(1).find((g) => g.match(src)) || GROUPS[6];
 // route: 'feed' (news pages, uses state.group) | 'security' | 'learn' | 'about'
-const state = { q: '', group: 'all', tag: null, route: 'feed', level: localStorage.getItem('keepup-level') || 'beginner' };
+const RENDER_STEP = 250; // stories rendered per "show more" click — keeps the DOM light
+const state = { q: '', group: 'all', tag: null, route: 'feed', renderLimit: RENDER_STEP, level: localStorage.getItem('keepup-level') || 'beginner' };
+
+/* ---------- Archive (older stories, lazy-loaded) ----------
+   The page embeds only the newest articles; the rest live in archive.json.
+   Loaded once on demand (button, search, tag, or vendor filter) so search
+   and filters cover the full year without bloating the initial page. */
+let archiveLoaded = (DATA.archiveCount || 0) === 0;
+let archivePromise = null;
+function loadArchive() {
+  if (archiveLoaded) return Promise.resolve();
+  if (!archivePromise) {
+    archivePromise = fetch('archive.json')
+      .then((r) => (r.ok ? r.json() : []))
+      .then((arr) => {
+        const seen = new Set(DATA.articles.map((a) => a.id));
+        for (const a of arr) if (!seen.has(a.id)) DATA.articles.push(a);
+        DATA.articles.sort((x, y) => (y.publishedAt || '').localeCompare(x.publishedAt || ''));
+        archiveLoaded = true;
+        render();
+      })
+      .catch(() => { archiveLoaded = true; }); // e.g. file:// — degrade to recent-only
+  }
+  return archivePromise;
+}
 
 function esc(s) { return (s || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
 
@@ -461,7 +493,9 @@ function setLevel(lvl) {
 // Navigate to a news (feed) page for a given source group.
 function goFeed(g) {
   state.route = 'feed'; state.group = g; state.tag = null; state.q = '';
+  state.renderLimit = RENDER_STEP;
   const q = document.getElementById('q'); if (q) q.value = '';
+  if (g !== 'all') loadArchive(); // vendor pages should cover the full year
   window.scrollTo(0, 0); render();
 }
 // Navigate to a standalone page: 'security' | 'learn' | 'about'.
@@ -473,7 +507,9 @@ function goPage(p) {
 function setTag(t) {
   state.tag = state.tag === t ? null : t;
   state.route = 'feed'; state.group = 'all'; state.q = '';
+  state.renderLimit = RENDER_STEP;
   const q = document.getElementById('q'); if (q) q.value = '';
+  if (state.tag) loadArchive(); // tag results should cover the full year
   window.scrollTo(0, 0); render();
 }
 // Jump from a cross-page list (Latest news, Security watch) to a story in the feed.
@@ -501,7 +537,7 @@ function renderNav() {
     `<span class="nav-sep"></span>
      <button class="nav-link jump ${state.route === 'security' ? 'on' : ''}" onclick="goPage('security')">Security desk</button>
      <button class="nav-link jump ${state.route === 'learn' ? 'on' : ''}" onclick="goPage('learn')">AI, decoded</button>
-     <div class="nav-search"><input id="q" type="search" placeholder="Search" value="${esc(state.q)}" oninput="state.q=this.value; state.route='feed'; render()"></div>`;
+     <div class="nav-search"><input id="q" type="search" placeholder="Search" value="${esc(state.q)}" oninput="state.q=this.value; state.route='feed'; state.renderLimit=RENDER_STEP; if(this.value.trim()) loadArchive(); render()"></div>`;
   const ta = document.getElementById('tag-active');
   if (state.tag) {
     ta.style.display = 'block';
@@ -831,9 +867,12 @@ function render() {
 
   const feed = document.getElementById('feed');
   if (!items.length) {
-    feed.innerHTML = '<div class="empty"><span class="serif">Nothing here yet</span>Try clearing the search or picking another section.</div>';
+    feed.innerHTML = archiveLoaded
+      ? '<div class="empty"><span class="serif">Nothing here yet</span>Try clearing the search or picking another section.</div>'
+      : '<div class="empty"><span class="serif">Searching the archive…</span>Older stories are loading.</div>';
     return;
   }
+  const shown = items.slice(0, state.renderLimit);
   let html = '';
   let lastDay = '';
   let dayItems = [];
@@ -842,7 +881,7 @@ function render() {
     html += `<div class="feed-grid">${dayItems.join('')}</div>`;
     dayItems = [];
   };
-  for (const a of items) {
+  for (const a of shown) {
     const day = (a.publishedAt || '').slice(0, 10);
     if (day !== lastDay) {
       flush();
@@ -852,6 +891,12 @@ function render() {
     dayItems.push(storyHtml(a));
   }
   flush();
+  // Footer controls: paginate what's rendered; offer the archive when exhausted.
+  if (items.length > shown.length) {
+    html += `<div class="feed-more"><button class="more-btn" onclick="state.renderLimit += RENDER_STEP; render()">Show more (${items.length - shown.length} remaining)</button></div>`;
+  } else if (!archiveLoaded) {
+    html += `<div class="feed-more"><button class="more-btn" onclick="this.disabled = true; this.textContent = 'Loading…'; loadArchive()">Load older stories (${DATA.archiveCount})</button></div>`;
+  }
   feed.innerHTML = html;
 }
 

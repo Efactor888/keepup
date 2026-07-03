@@ -18,6 +18,17 @@ const sourceArg = args.includes('--source') ? args[args.indexOf('--source') + 1]
 const { maxNewPerSourcePerRun, maxAgeDays } = config.limits;
 const cutoff = Date.now() - maxAgeDays * 24 * 3600 * 1000;
 
+// Pull a "Jan 5, 2026" / "January 5, 2026" style date out of scraped text.
+// Returns a date-only ISO string (rendered by its UTC calendar day on the site).
+function extractDate(text) {
+  const m = (text || '').match(/\b(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\.?\s+(\d{1,2}),?\s+(20\d{2})\b/);
+  if (!m) return null;
+  const months = { jan: 0, feb: 1, mar: 2, apr: 3, may: 4, jun: 5, jul: 6, aug: 7, sep: 8, oct: 9, nov: 10, dec: 11 };
+  const d = new Date(Date.UTC(Number(m[3]), months[m[1].toLowerCase()], Number(m[2])));
+  if (Number.isNaN(d.getTime()) || d.getTime() > Date.now() + 86400000) return null;
+  return d.toISOString().slice(0, 10);
+}
+
 function parseRss(xml) {
   const items = [];
   const blocks = xml.match(/<(?:item|entry)[\s>][\s\S]*?<\/(?:item|entry)>/g) || [];
@@ -108,6 +119,14 @@ for (const source of config.sources) {
       if (!excerpt) excerpt = page.text;
     }
     if (!title) continue;
+
+    // Scraped pages (xAI, Cursor) often carry no machine-readable date, which would
+    // default to "now" and make old posts look current. Extract a "Jan 5, 2026"-style
+    // date from the title/text instead, and apply the age cutoff to it.
+    if (!publishedAt) {
+      publishedAt = extractDate(title) || extractDate((excerpt || '').slice(0, 1200));
+      if (publishedAt && Date.parse(publishedAt) < cutoff) continue;
+    }
 
     known.add(id);
     store.articles.push({

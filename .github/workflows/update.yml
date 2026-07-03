@@ -5,7 +5,12 @@ name: Update & deploy KeepUp
 on:
   schedule:
     - cron: '7 13,21 * * *'   # ~twice daily (13:07 & 21:07 UTC). GitHub cron is best-effort.
-  workflow_dispatch: {}         # lets you run it manually from the Actions tab
+  workflow_dispatch:            # manual runs from the Actions tab
+    inputs:
+      limit:
+        description: 'Max articles to summarize this run'
+        required: false
+        default: '25'
 
 permissions:
   contents: write   # commit refreshed data/ and site/ back to the repo
@@ -39,7 +44,8 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         # Cap per run so it stays fast and within the free tier. Any remaining
         # backlog is drained by the next run; steady-state is ~15 new/run anyway.
-        run: node pipeline/summarize.js --limit 25
+        # Manual runs can pass a higher limit to drain a backlog in one go.
+        run: node pipeline/summarize.js --limit ${{ github.event.inputs.limit || 25 }}
 
       - name: Build site
         run: node pipeline/build.js

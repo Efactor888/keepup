@@ -37,7 +37,9 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: node pipeline/summarize.js
+        # Cap per run so it stays fast and within the free tier. Any remaining
+        # backlog is drained by the next run; steady-state is ~15 new/run anyway.
+        run: node pipeline/summarize.js --limit 25
 
       - name: Build site
         run: node pipeline/build.js

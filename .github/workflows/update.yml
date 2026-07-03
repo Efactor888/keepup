@@ -32,8 +32,9 @@ jobs:
       - name: Fetch new articles
         run: node pipeline/fetch.js
 
-      - name: Summarize new articles (Grok or Claude API)
+      - name: Summarize new articles (Gemini / Grok / Claude)
         env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: node pipeline/summarize.js

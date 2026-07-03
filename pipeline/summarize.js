@@ -3,25 +3,28 @@
 // fetch.js and before build.js — this replaces the manual summarization pass so
 // the pipeline is fully automated.
 //
-// Provider is chosen from whichever key is present (xAI/Grok takes precedence):
+// Provider is chosen from whichever key is present (first match wins):
+//   GEMINI_API_KEY     -> Google Gemini (free tier, no card). Model: $GEMINI_MODEL or gemini-2.5-flash.
 //   XAI_API_KEY        -> Grok (api.x.ai, OpenAI-compatible). Model: $XAI_MODEL or grok-4.1-fast.
 //   ANTHROPIC_API_KEY  -> Claude (Haiku 4.5).
-//   neither            -> skip gracefully (build/deploy still run).
+//   none               -> skip gracefully (build/deploy still run).
 //
-// Usage: XAI_API_KEY=... node pipeline/summarize.js [--limit N]
+// Usage: GEMINI_API_KEY=... node pipeline/summarize.js [--limit N]
 
 import { loadStore, saveStore, fetchArticleText } from './util.js';
 
+const GEMINI_KEY = process.env.GEMINI_API_KEY;
 const XAI_KEY = process.env.XAI_API_KEY;
 const ANTHROPIC_KEY = process.env.ANTHROPIC_API_KEY;
-const PROVIDER = XAI_KEY ? 'xai' : (ANTHROPIC_KEY ? 'anthropic' : null);
+const PROVIDER = GEMINI_KEY ? 'gemini' : XAI_KEY ? 'xai' : ANTHROPIC_KEY ? 'anthropic' : null;
 
 if (!PROVIDER) {
   // Skip rather than fail — new articles show as "just in" until a run has a key.
-  console.warn('No XAI_API_KEY or ANTHROPIC_API_KEY set — skipping summarization for this run.');
+  console.warn('No GEMINI_API_KEY / XAI_API_KEY / ANTHROPIC_API_KEY set — skipping summarization.');
   process.exit(0);
 }
 
+const GEMINI_MODEL = process.env.GEMINI_MODEL || 'gemini-2.5-flash';
 const XAI_MODEL = process.env.XAI_MODEL || 'grok-4.1-fast';
 const ANTHROPIC_MODEL = 'claude-haiku-4-5';
 const args = process.argv.slice(2);
@@ -33,6 +36,7 @@ const TAGS = [
   'workforce', 'consumer', 'hardware', 'learning', 'digest',
 ];
 
+// JSON Schema (Anthropic-style) for Claude structured outputs.
 const SCHEMA = {
   type: 'object',
   additionalProperties: false,
@@ -44,6 +48,20 @@ const SCHEMA = {
     tags: { type: 'array', items: { type: 'string', enum: TAGS } },
   },
   required: ['summary', 'enterpriseAngle', 'beginner', 'advanced', 'tags'],
+};
+
+// Gemini responseSchema uses UPPERCASE types and no additionalProperties.
+const GEMINI_SCHEMA = {
+  type: 'OBJECT',
+  properties: {
+    summary: { type: 'STRING' },
+    enterpriseAngle: { type: 'STRING' },
+    beginner: { type: 'STRING' },
+    advanced: { type: 'STRING' },
+    tags: { type: 'ARRAY', items: { type: 'STRING', enum: TAGS } },
+  },
+  required: ['summary', 'enterpriseAngle', 'beginner', 'advanced', 'tags'],
+  propertyOrdering: ['summary', 'enterpriseAngle', 'beginner', 'advanced', 'tags'],
 };
 
 const SYSTEM = `You are the editor of KeepUp, an enterprise-AI news briefing written for both newcomers and expert practitioners. For the given article, return a single JSON object with exactly these keys:
@@ -63,7 +81,7 @@ async function postJSON(url, headers, body) {
   for (let attempt = 0; attempt < 4; attempt++) {
     const res = await fetch(url, { method: 'POST', headers, body: JSON.stringify(body) });
     if (res.status === 429 || res.status >= 500) {
-      const wait = (Number(res.headers.get('retry-after')) || 2 ** attempt) * 1000;
+      const wait = (Number(res.headers.get('retry-after')) || 2 ** attempt * 3) * 1000;
       await new Promise((r) => setTimeout(r, wait));
       continue;
     }
@@ -71,6 +89,30 @@ async function postJSON(url, headers, body) {
     return await res.json();
   }
   throw new Error('exhausted retries');
+}
+
+// Google Gemini — free tier, structured JSON via responseSchema.
+async function summarizeGemini(a) {
+  const data = await postJSON(
+    `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent`,
+    { 'x-goog-api-key': GEMINI_KEY, 'content-type': 'application/json' },
+    {
+      system_instruction: { parts: [{ text: SYSTEM }] },
+      contents: [{ role: 'user', parts: [{ text: userPrompt(a) }] }],
+      generationConfig: {
+        responseMimeType: 'application/json',
+        responseSchema: GEMINI_SCHEMA,
+        maxOutputTokens: 800,
+        temperature: 0.3,
+      },
+    });
+  const cand = data.candidates?.[0];
+  if (!cand || cand.finishReason === 'SAFETY' || data.promptFeedback?.blockReason) {
+    return { refused: true, usage: { in: 0, out: 0 } };
+  }
+  const text = cand.content?.parts?.map((p) => p.text || '').join('') || '';
+  const u = data.usageMetadata || {};
+  return { parsed: JSON.parse(text), usage: { in: u.promptTokenCount || 0, out: u.candidatesTokenCount || 0 } };
 }
 
 // Grok (xAI) — OpenAI-compatible chat completions with JSON mode.
@@ -106,14 +148,17 @@ async function summarizeClaude(a) {
   return { parsed: JSON.parse(text), usage: { in: u.input_tokens || 0, out: u.output_tokens || 0 } };
 }
 
-const summarize = PROVIDER === 'xai' ? summarizeGrok : summarizeClaude;
-const RATE = PROVIDER === 'xai' ? { in: 0.20, out: 0.50 } : { in: 1, out: 5 }; // $/1M tokens
-const modelName = PROVIDER === 'xai' ? XAI_MODEL : ANTHROPIC_MODEL;
+const IMPL = { gemini: summarizeGemini, xai: summarizeGrok, anthropic: summarizeClaude };
+const RATE = { gemini: { in: 0, out: 0 }, xai: { in: 0.20, out: 0.50 }, anthropic: { in: 1, out: 5 } }; // $/1M
+const MODEL = { gemini: GEMINI_MODEL, xai: XAI_MODEL, anthropic: ANTHROPIC_MODEL };
+const PACE = PROVIDER === 'gemini' ? 4500 : 300; // Gemini free tier has a low req/min cap
+
+const summarize = IMPL[PROVIDER];
 
 const store = loadStore();
 let pending = store.articles.filter((a) => !a.summary);
 if (Number.isFinite(limit)) pending = pending.slice(0, limit);
-console.log(`${pending.length} article(s) to summarize via ${PROVIDER} (${modelName}).`);
+console.log(`${pending.length} article(s) to summarize via ${PROVIDER} (${MODEL[PROVIDER]}).`);
 
 let inTok = 0, outTok = 0, done = 0, failed = 0;
 for (const a of pending) {
@@ -137,9 +182,10 @@ for (const a of pending) {
     failed++;
     console.log(`  FAIL: ${a.title} — ${e.message}`);
   }
-  await new Promise((r) => setTimeout(r, 300));
+  await new Promise((r) => setTimeout(r, PACE));
 }
 
 saveStore(store);
-const cost = (inTok / 1e6) * RATE.in + (outTok / 1e6) * RATE.out;
-console.log(`\nSummarized ${done}, failed ${failed}. Tokens: ${inTok} in / ${outTok} out (~$${cost.toFixed(4)} on ${modelName}).`);
+const cost = (inTok / 1e6) * RATE[PROVIDER].in + (outTok / 1e6) * RATE[PROVIDER].out;
+const costStr = PROVIDER === 'gemini' ? '$0 (free tier)' : `~$${cost.toFixed(4)}`;
+console.log(`\nSummarized ${done}, failed ${failed}. Tokens: ${inTok} in / ${outTok} out (${costStr} on ${MODEL[PROVIDER]}).`);

@@ -163,14 +163,19 @@ let pending = store.articles.filter((a) => !a.summary);
 if (Number.isFinite(limit)) pending = pending.slice(0, limit);
 console.log(`${pending.length} article(s) to summarize via ${PROVIDER} (${MODEL[PROVIDER]}).`);
 
-let inTok = 0, outTok = 0, done = 0, failed = 0;
+let inTok = 0, outTok = 0, done = 0, failed = 0, quotaStrikes = 0;
 for (const a of pending) {
+  if (quotaStrikes >= 5) {
+    console.log('Stopping early: provider quota appears exhausted (5 consecutive retry failures). Remaining articles will be picked up next run.');
+    break;
+  }
   if (!a.contentText || a.contentText.length < 200) {
     const page = await fetchArticleText(a.url);
     if (page.text) a.contentText = page.text;
   }
   try {
     const { parsed, refused, usage } = await summarize(a);
+    quotaStrikes = 0;
     if (usage) { inTok += usage.in; outTok += usage.out; }
     if (refused || !parsed) { failed++; console.log(`  skip (refused/empty): ${a.title}`); continue; }
     a.summary = parsed.summary;
@@ -183,6 +188,7 @@ for (const a of pending) {
     console.log(`  ok: ${a.title}`);
   } catch (e) {
     failed++;
+    if (/exhausted retries/.test(e.message)) quotaStrikes++;
     console.log(`  FAIL: ${a.title} — ${e.message}`);
   }
   await new Promise((r) => setTimeout(r, PACE));

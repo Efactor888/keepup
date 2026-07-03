@@ -55,8 +55,14 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data site
-          git commit -m "chore: refresh news $(date -u +%FT%TZ) [skip ci]" || echo "No changes to commit"
-          git push || echo "Nothing to push"
+          if git commit -m "chore: refresh news $(date -u +%FT%TZ) [skip ci]"; then
+            # Rebase in case anything landed on main mid-run; fail loudly if push
+            # still can't go through — silently dropping data cost us summaries once.
+            git pull --rebase origin main
+            git push
+          else
+            echo "No changes to commit"
+          fi
 
       - uses: actions/configure-pages@v5
 

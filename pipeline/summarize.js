@@ -9,8 +9,11 @@ import { loadStore, saveStore, fetchArticleText } from './util.js';
 
 const API_KEY = process.env.ANTHROPIC_API_KEY;
 if (!API_KEY) {
-  console.error('ANTHROPIC_API_KEY is not set. In GitHub Actions add it under Settings → Secrets and variables → Actions.');
-  process.exit(1);
+  // Skip gracefully rather than failing the build/deploy. New articles will
+  // simply show as "just in" until a run has the key. Add it under
+  // Settings → Secrets and variables → Actions to enable auto-summaries.
+  console.warn('ANTHROPIC_API_KEY not set — skipping summarization for this run.');
+  process.exit(0);
 }
 
 const MODEL = 'claude-haiku-4-5'; // cheapest model; plenty for short summaries ($1/$5 per 1M tok)

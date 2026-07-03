@@ -1,0 +1,92 @@
+{
+  "sources": [
+    {
+      "id": "anthropic",
+      "name": "Anthropic",
+      "tier": "realtime",
+      "type": "sitemap",
+      "url": "https://www.anthropic.com/sitemap.xml",
+      "pathPrefixes": ["/news/", "/engineering/"],
+      "homepage": "https://www.anthropic.com/news"
+    },
+    {
+      "id": "openai",
+      "name": "OpenAI",
+      "tier": "realtime",
+      "type": "rss",
+      "url": "https://openai.com/news/rss.xml",
+      "homepage": "https://openai.com/news"
+    },
+    {
+      "id": "google-ai",
+      "name": "Google AI",
+      "tier": "realtime",
+      "type": "rss",
+      "url": "https://blog.google/technology/ai/rss/",
+      "homepage": "https://blog.google/technology/ai/"
+    },
+    {
+      "id": "deepmind",
+      "name": "Google DeepMind",
+      "tier": "realtime",
+      "type": "rss",
+      "url": "https://blog.google/technology/google-deepmind/rss/",
+      "homepage": "https://blog.google/technology/google-deepmind/"
+    },
+    {
+      "id": "xai",
+      "name": "xAI (Grok)",
+      "tier": "realtime",
+      "type": "scrape-links",
+      "url": "https://x.ai/news",
+      "linkPattern": "/news/",
+      "homepage": "https://x.ai/news"
+    },
+    {
+      "id": "cursor",
+      "name": "Cursor",
+      "tier": "realtime",
+      "type": "scrape-links",
+      "url": "https://cursor.com/blog",
+      "linkPattern": "/blog/",
+      "homepage": "https://cursor.com/blog"
+    },
+    {
+      "id": "cursor-changelog",
+      "name": "Cursor Changelog",
+      "tier": "realtime",
+      "type": "scrape-links",
+      "url": "https://cursor.com/changelog",
+      "linkPattern": "/changelog/",
+      "homepage": "https://cursor.com/changelog"
+    },
+    {
+      "id": "techcrunch-ai",
+      "name": "TechCrunch AI",
+      "tier": "daily",
+      "type": "rss",
+      "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "homepage": "https://techcrunch.com/category/artificial-intelligence/"
+    },
+    {
+      "id": "venturebeat-ai",
+      "name": "VentureBeat AI",
+      "tier": "daily",
+      "type": "rss",
+      "url": "https://venturebeat.com/category/ai/feed/",
+      "homepage": "https://venturebeat.com/category/ai/"
+    },
+    {
+      "id": "mit-tr-ai",
+      "name": "MIT Technology Review",
+      "tier": "daily",
+      "type": "rss",
+      "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "homepage": "https://www.technologyreview.com/topic/artificial-intelligence/"
+    }
+  ],
+  "limits": {
+    "maxNewPerSourcePerRun": 8,
+    "maxAgeDays": 45
+  }
+}

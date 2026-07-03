@@ -1,0 +1,867 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>KeepUp — Enterprise AI, explained</title>
+<link rel="icon" type="image/jpeg" href="assets/erik-profile.jpg">
+<link rel="apple-touch-icon" href="assets/erik-profile.jpg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@500;600;700&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  /* Light — "IT Security Pro": clean white, navy ink, professional blue accent */
+  :root {
+    --bg: #ffffff; --ink: #14233a; --muted: #566579; --faint: #8794a6;
+    --rule: #e7ebf1; --rule-dark: #16396b; --tint: #f4f7fb;
+    --accent: #1b57a6; --accent-ink: #164a8f;
+    --lens-ink: #5a3fc4;
+    --c-anthropic: #b0532a; --c-openai: #0b7d62; --c-google: #2f63c4;
+    --c-xai: #46536b; --c-cursor: #5b4fce; --c-outside: #8a6d10;
+    --bar-bg: #0f294a; --bar-ink: #d3ddec;
+    --glow: none;
+  }
+  /* Dark — clean navy: soft professional blue on deep navy */
+  html.dark {
+    --bg: #0e1a2b; --ink: #eaf1f9; --muted: #98aac2; --faint: #647890;
+    --rule: #223349; --rule-dark: #4f9ae4; --tint: #16233699;
+    --accent: #4f9ae4; --accent-ink: #74b2ef;
+    --lens-ink: #a394ff;
+    --c-anthropic: #e0905f; --c-openai: #35cfa6; --c-google: #6ea8ff;
+    --c-xai: #a6b4c8; --c-cursor: #b09cff; --c-outside: #d4bd5e;
+    --bar-bg: #0a1526; --bar-ink: #c6d6ea;
+    --glow: 0 0 10px rgba(79, 154, 228, .3);
+  }
+  ::selection { background: rgba(79, 154, 228, .28); }
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body {
+    margin: 0; background: var(--bg); color: var(--ink);
+    font: 15px/1.6 Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  /* Subtle depth only in dark mode; clean white in light for maximum legibility */
+  html.dark body::before {
+    content: ''; position: fixed; inset: 0; z-index: -1; pointer-events: none;
+    background-image: radial-gradient(80% 45% at 50% -12%, color-mix(in srgb, var(--accent) 10%, transparent), transparent 70%);
+  }
+  h1,h2,h3,.serif { font-family: "Space Grotesk", "Segoe UI", sans-serif; }
+  a { color: inherit; }
+  .wrap { max-width: 1140px; margin: 0 auto; padding: 0 24px; }
+
+  /* small-caps section label, used everywhere */
+  .slug { font-family: "JetBrains Mono", ui-monospace, monospace; font-size: 11px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; }
+
+  /* ---------- Utility bar ---------- */
+  .utility { background: var(--bar-bg); color: var(--bar-ink); font-size: 12px; }
+  .utility .wrap { display: flex; align-items: center; gap: 16px; padding-top: 7px; padding-bottom: 7px; }
+  .u-date { font-weight: 600; letter-spacing: .02em; }
+  .u-updated { display: flex; align-items: center; gap: 7px; opacity: .8; }
+  .pulse { width: 6px; height: 6px; border-radius: 50%; background: var(--accent); animation: pulse 2.4s infinite; box-shadow: var(--glow); }
+  @keyframes pulse { 0%,100% { box-shadow: 0 0 0 0 color-mix(in srgb, var(--accent) 55%, transparent);} 55% { box-shadow: 0 0 0 5px transparent;} }
+  .u-right { margin-left: auto; display: flex; align-items: center; gap: 4px; }
+  .u-right .lbl { opacity: .55; margin-right: 4px; }
+  .u-btn {
+    border: 0; background: transparent; color: var(--bar-ink); opacity: .65; cursor: pointer;
+    font: 600 12px Inter, sans-serif; padding: 3px 8px; border-radius: 3px;
+  }
+  .u-btn:hover { opacity: 1; }
+  .u-btn.on { opacity: 1; background: rgba(255,255,255,.14); }
+
+  /* ---------- Masthead ---------- */
+  .masthead { text-align: center; padding: 30px 0 22px; }
+  .logo { font-family: "Space Grotesk", sans-serif; font-size: 52px; font-weight: 700; letter-spacing: -1.5px; line-height: 1; margin: 0; }
+  .logo em { font-style: normal; color: var(--accent); text-shadow: var(--glow); }
+  .logo-sub { margin-top: 8px; color: var(--muted); font-size: 11px; font-weight: 600; letter-spacing: .2em; text-transform: uppercase; font-family: "JetBrains Mono", ui-monospace, monospace; }
+
+  /* ---------- Section nav ---------- */
+  .nav-bar { border-top: 1px solid var(--rule-dark); border-bottom: 1px solid var(--rule); position: sticky; top: 0; z-index: 20; background: var(--bg); }
+  .nav-inner { display: flex; align-items: stretch; gap: 0; overflow-x: auto; scrollbar-width: none; }
+  .nav-inner::-webkit-scrollbar { display: none; }
+  .nav-link {
+    border: 0; background: transparent; color: var(--ink); cursor: pointer; white-space: nowrap;
+    font: 700 12px Inter, sans-serif; letter-spacing: .1em; text-transform: uppercase;
+    padding: 13px 15px; position: relative;
+  }
+  .nav-link:hover { color: var(--accent-ink); }
+  .nav-link.on::after { content: ''; position: absolute; left: 12px; right: 12px; bottom: -1px; height: 3px; background: var(--accent); }
+  .nav-link.jump { color: var(--muted); }
+  .nav-link.jump:hover { color: var(--accent-ink); }
+  .nav-sep { width: 1px; background: var(--rule); margin: 10px 6px; flex: 0 0 auto; }
+  .nav-search { margin-left: auto; display: flex; align-items: center; padding: 6px 0 6px 12px; flex: 0 0 auto; }
+  .nav-search input {
+    border: 0; border-bottom: 1px solid var(--rule); background: transparent; color: var(--ink);
+    font: 500 13px Inter, sans-serif; padding: 5px 2px 5px 22px; width: 150px; outline: none;
+    background-image: none; position: relative;
+  }
+  .nav-search { position: relative; }
+  .nav-search::before { content: '⌕'; position: absolute; left: 14px; top: 50%; transform: translateY(-50%); color: var(--faint); font-size: 16px; pointer-events: none; }
+  .nav-search input:focus { border-bottom-color: var(--accent); }
+  .tag-active { display: none; padding: 8px 0 0; font-size: 12.5px; color: var(--muted); }
+  .tag-active button { border: 0; background: var(--accent); color: #fff; border-radius: 2px; padding: 3px 12px; font-size: 12px; cursor: pointer; font-weight: 700; font-family: Inter, sans-serif; }
+
+  /* ---------- Section block header (thick rule + slug) ---------- */
+  .block-head { border-top: 3px solid var(--rule-dark); margin-top: 40px; padding-top: 10px; display: flex; align-items: baseline; gap: 14px; flex-wrap: wrap; }
+  .block-head .slug { color: var(--accent-ink); }
+  .block-head h2 { margin: 0; font-size: 24px; font-weight: 700; letter-spacing: -0.3px; }
+  .block-head .more { margin-left: auto; font: 600 12px Inter, sans-serif; color: var(--muted); text-decoration: none; cursor: pointer; border: 0; background: none; }
+  .block-head .more:hover { color: var(--accent-ink); }
+  .block-sub { color: var(--muted); font-size: 13.5px; margin: 4px 0 0; }
+
+  /* ---------- Lead package ---------- */
+  .lead { display: grid; grid-template-columns: 1fr 340px; gap: 0; margin-top: 26px; }
+  @media (max-width: 900px) { .lead { grid-template-columns: 1fr; } }
+  .featured { padding-right: 36px; }
+  @media (max-width: 900px) { .featured { padding-right: 0; } }
+  .kicker { display: flex; gap: 10px; align-items: baseline; margin-bottom: 12px; }
+  .kicker .cat { color: var(--accent-ink); }
+  .kicker .meta { font-size: 12px; color: var(--muted); font-weight: 500; }
+  .featured h1 { margin: 0 0 14px; font-size: clamp(30px, 4vw, 44px); line-height: 1.08; font-weight: 700; letter-spacing: -1px; }
+  .featured h1 a { text-decoration: none; }
+  .featured h1 a:hover { color: var(--accent-ink); }
+  .featured .sum { font-size: 17px; line-height: 1.65; margin: 0 0 18px; max-width: 62ch; color: color-mix(in srgb, var(--ink) 90%, var(--muted)); }
+  .featured .lens-line {
+    font-size: 13.5px; line-height: 1.6; color: var(--lens-ink); background: var(--tint);
+    border-left: 3px solid var(--lens-ink); padding: 12px 16px; max-width: 60ch;
+  }
+  .featured .lens-line b { text-transform: uppercase; font-size: 10.5px; letter-spacing: .12em; font-family: Inter, sans-serif; display: block; margin-bottom: 4px; }
+  .rail { border-left: 1px solid var(--rule); padding-left: 28px; }
+  @media (max-width: 900px) { .rail { border-left: 0; padding-left: 0; margin-top: 34px; } }
+  .rail-head { border-top: 3px solid var(--rule-dark); padding-top: 9px; margin-bottom: 4px; }
+  .rail-head .slug { color: var(--ink); }
+  .rail ol { list-style: none; margin: 0; padding: 0; }
+  .rail li { padding: 12px 0; border-bottom: 1px solid var(--rule); }
+  .rail li:last-child { border-bottom: 0; }
+  .rail a { text-decoration: none; }
+  .rail .r-title { font-family: "Space Grotesk", sans-serif; font-size: 15.5px; font-weight: 650; line-height: 1.3; display: block; }
+  .rail a:hover .r-title { color: var(--accent-ink); }
+  .rail .r-meta { font-size: 11px; color: var(--muted); font-weight: 600; margin-top: 4px; display: block; font-family: Inter, sans-serif; }
+  .rail .r-src { text-transform: uppercase; letter-spacing: .08em; color: var(--src, var(--muted)); }
+
+  /* ---------- Primer strip ---------- */
+  details.primer { border-top: 1px solid var(--rule); border-bottom: 1px solid var(--rule); margin-top: 34px; }
+  details.primer summary {
+    cursor: pointer; list-style: none; display: flex; align-items: center; gap: 12px; padding: 13px 2px;
+  }
+  details.primer summary::-webkit-details-marker { display: none; }
+  details.primer summary .slug { color: var(--accent-ink); }
+  details.primer summary .q { font-family: "Space Grotesk", sans-serif; font-size: 15.5px; font-weight: 650; }
+  details.primer summary::after { content: '+'; margin-left: auto; font-size: 19px; color: var(--muted); transition: transform .2s; }
+  details.primer[open] summary::after { transform: rotate(45deg); }
+  .primer-body { padding: 6px 2px 20px; columns: 2; column-gap: 44px; }
+  .primer-body > * { break-inside: avoid; }
+  .primer-body h4 { margin: 12px 0 5px; font-size: 11px; text-transform: uppercase; letter-spacing: .12em; color: var(--accent-ink); font-family: Inter, sans-serif; }
+  .primer-body p, .primer-body li { font-size: 13.5px; line-height: 1.6; }
+  .primer-body p { margin: 5px 0; }
+  .primer-body ul { padding-left: 18px; margin: 5px 0; }
+  @media (max-width: 800px) { .primer-body { columns: 1; } }
+
+  /* ---------- Security desk ---------- */
+  .sec-grid { display: grid; grid-template-columns: 1.25fr 1fr; gap: 0; margin-top: 18px; }
+  @media (max-width: 860px) { .sec-grid { grid-template-columns: 1fr; } }
+  .sec-col { padding-right: 32px; }
+  .sec-col h3, .sec-watch h3 { margin: 0 0 12px; font-size: 11.5px; font-family: Inter, sans-serif; font-weight: 800; text-transform: uppercase; letter-spacing: .12em; color: var(--lens-ink); }
+  .sec-items { display: grid; gap: 0; }
+  .sec-item { display: flex; gap: 13px; font-size: 13.5px; line-height: 1.6; padding: 10px 0; border-top: 1px solid var(--rule); }
+  .sec-item:first-child { border-top: 0; }
+  .sec-item .ico { flex: 0 0 auto; font-size: 16px; padding-top: 1px; }
+  .sec-item b { font-weight: 700; }
+  .sec-watch { border-left: 1px solid var(--rule); padding-left: 28px; }
+  @media (max-width: 860px) { .sec-watch { border-left: 0; padding-left: 0; margin-top: 22px; } }
+  .sec-watch ol { list-style: none; margin: 0; padding: 0; }
+  .sec-watch li { padding: 10px 0; border-top: 1px solid var(--rule); }
+  .sec-watch li:first-child { border-top: 0; }
+  .sec-watch a { text-decoration: none; }
+  .sec-watch .r-title { font-family: "Space Grotesk", sans-serif; font-size: 15px; font-weight: 650; line-height: 1.3; display: block; }
+  .sec-watch a:hover .r-title { color: var(--lens-ink); }
+  .sec-watch .r-meta { font-size: 11px; color: var(--muted); font-weight: 600; margin-top: 3px; display: block; }
+  .sec-all {
+    margin-top: 14px; display: inline-block; border: 1px solid var(--lens-ink); color: var(--lens-ink);
+    background: transparent; padding: 8px 18px; font: 700 12px Inter, sans-serif; letter-spacing: .06em;
+    text-transform: uppercase; cursor: pointer; transition: all .15s;
+  }
+  .sec-all:hover { background: var(--lens-ink); color: var(--bg); }
+
+  /* ---------- About (editorial split hero) ---------- */
+  #about { margin-top: 36px; }
+  .about-hero { display: grid; grid-template-columns: 1.05fr 0.95fr; gap: 0; align-items: stretch; }
+  @media (max-width: 860px) { .about-hero { grid-template-columns: 1fr; } }
+  .about-left { padding: 8px 44px 20px 0; display: flex; flex-direction: column; }
+  @media (max-width: 860px) { .about-left { padding-right: 0; order: 2; } }
+  .about-rule { height: 3px; width: 62%; background: var(--accent); box-shadow: var(--glow); margin-bottom: 22px; }
+  .about-title { font-size: clamp(38px, 5.4vw, 66px); line-height: 1.03; font-weight: 700; letter-spacing: -1.8px; margin: 0 0 20px; }
+  .about-title .dot { color: var(--accent); text-shadow: var(--glow); }
+  .about-lede { font-size: clamp(18px, 2.2vw, 22px); line-height: 1.35; font-weight: 800; font-family: Inter, sans-serif; letter-spacing: -0.3px; margin: 0 0 18px; }
+  .about-left p { font-size: 15px; line-height: 1.72; margin: 0 0 14px; color: color-mix(in srgb, var(--ink) 90%, var(--muted)); max-width: 52ch; }
+  .about-tags { margin-top: 8px; display: flex; flex-wrap: wrap; gap: 6px; }
+  .about-tags span { font-size: 11px; font-weight: 600; font-family: Inter, sans-serif; color: var(--accent-ink); border: 1px solid var(--rule); padding: 3px 10px; border-radius: 2px; }
+  .about-contact { margin-top: 20px; }
+  .about-contact a {
+    display: inline-flex; align-items: center; gap: 9px; color: var(--bg); background: var(--accent); font: 800 12px Inter, sans-serif;
+    letter-spacing: .06em; text-transform: uppercase; text-decoration: none; padding: 8px 20px 8px 8px; border-radius: 2px;
+    transition: filter .15s;
+  }
+  .about-contact a:hover { filter: brightness(1.1); }
+  .about-contact a .li-avatar {
+    width: 24px; height: 24px; border-radius: 50%; object-fit: cover; display: block;
+    box-shadow: 0 0 0 1.5px color-mix(in srgb, var(--bg) 70%, transparent);
+  }
+  .about-photo { position: relative; display: flex; align-items: center; justify-content: center; min-height: 420px; --hex: polygon(25% 1%, 75% 1%, 100% 50%, 75% 99%, 25% 99%, 0% 50%); }
+  @media (max-width: 860px) { .about-photo { order: 1; min-height: auto; margin-bottom: 26px; } }
+  .about-photo img {
+    width: 100%; aspect-ratio: 1 / 1; height: auto; object-fit: cover; object-position: 60% 42%; display: block;
+    clip-path: var(--hex);
+    filter: drop-shadow(0 0 2px color-mix(in srgb, var(--accent) 55%, transparent)) drop-shadow(0 6px 16px rgba(15, 35, 65, .18));
+  }
+  .about-photo.noimg img { display: none; }
+  .photo-fallback { display: none; }
+  .about-photo.noimg .photo-fallback {
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+    gap: 10px; text-align: center; padding: 30px; width: 100%; aspect-ratio: 1 / 1;
+    clip-path: var(--hex);
+    filter: drop-shadow(0 0 3px color-mix(in srgb, var(--accent) 70%, transparent));
+    background:
+      radial-gradient(120% 90% at 50% 0%, color-mix(in srgb, var(--accent) 16%, transparent), transparent 60%),
+      repeating-linear-gradient(0deg, transparent 0 3px, color-mix(in srgb, var(--accent) 5%, transparent) 3px 4px),
+      var(--tint);
+  }
+  .photo-fallback .mark {
+    font: 700 clamp(56px, 9vw, 104px)/1 "Space Grotesk", sans-serif; letter-spacing: -2px;
+    color: var(--accent); text-shadow: var(--glow);
+  }
+  .photo-fallback .fb-name { font: 700 12px "JetBrains Mono", monospace; letter-spacing: .28em; text-transform: uppercase; color: var(--ink); }
+  .photo-fallback .fb-cap { font: 500 11px "JetBrains Mono", monospace; letter-spacing: .1em; color: var(--muted); }
+
+  /* ---------- Vendor security desk ---------- */
+  .vsec-note { font-size: 13px; color: var(--muted); font-style: italic; padding: 10px 0; }
+  .vsec-reading li { padding: 10px 0; border-top: 1px solid var(--rule); }
+  .vsec-reading li:first-child { border-top: 0; }
+  .vsec-reading .r-desc { font-size: 12.5px; color: var(--muted); line-height: 1.5; margin-top: 3px; display: block; font-family: Inter, sans-serif; }
+  .vsec-reading .ext { font-size: 10px; color: var(--faint); font-weight: 700; letter-spacing: .08em; text-transform: uppercase; margin-left: 6px; }
+
+  /* ---------- Learning desk ---------- */
+  .learn-tabs { display: flex; gap: 2px; margin-top: 16px; border-bottom: 1px solid var(--rule); overflow-x: auto; scrollbar-width: none; }
+  .learn-tabs::-webkit-scrollbar { display: none; }
+  .learn-tab {
+    border: 0; background: transparent; color: var(--muted); cursor: pointer; white-space: nowrap;
+    font: 700 12px Inter, sans-serif; letter-spacing: .08em; text-transform: uppercase;
+    padding: 10px 14px; position: relative;
+  }
+  .learn-tab:hover { color: var(--accent-ink); }
+  .learn-tab.on { color: var(--ink); }
+  .learn-tab.on::after { content: ''; position: absolute; left: 10px; right: 10px; bottom: -1px; height: 3px; background: var(--accent); }
+  .terms { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0 32px; margin-top: 4px; }
+  @media (max-width: 960px) { .terms { grid-template-columns: repeat(2, 1fr); } }
+  @media (max-width: 640px) { .terms { grid-template-columns: 1fr; } }
+  .term { border-bottom: 1px solid var(--rule); }
+  .term summary {
+    list-style: none; cursor: pointer; padding: 12px 2px; display: flex; align-items: center; gap: 10px;
+    font-family: "Space Grotesk", sans-serif; font-size: 15px; font-weight: 650;
+  }
+  .term summary::-webkit-details-marker { display: none; }
+  .term summary .t-ico { font-size: 15px; }
+  .term summary::after { content: '+'; margin-left: auto; color: var(--faint); font-size: 16px; font-weight: 400; font-family: Inter, sans-serif; transition: transform .2s; }
+  .term[open] summary::after { transform: rotate(45deg); }
+  .term summary:hover { color: var(--accent-ink); }
+  .term-body { padding: 0 2px 14px; font-size: 13px; line-height: 1.65; color: color-mix(in srgb, var(--ink) 86%, var(--muted)); }
+  .term-body .pro { margin-top: 8px; padding: 8px 12px; background: var(--tint); border-left: 2px solid var(--accent); font-size: 12.5px; color: var(--muted); }
+  .term-body .pro b { color: var(--accent-ink); font-size: 10px; text-transform: uppercase; letter-spacing: .12em; font-family: Inter, sans-serif; display: block; margin-bottom: 2px; }
+  .lessons { margin-top: 26px; border-top: 1px solid var(--rule); padding-top: 16px; }
+  .lessons h3 { margin: 0 0 14px; font-size: 11.5px; font-family: Inter, sans-serif; font-weight: 800; text-transform: uppercase; letter-spacing: .12em; color: var(--accent-ink); }
+  .lesson-row { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0; }
+  @media (max-width: 960px) { .lesson-row { grid-template-columns: repeat(2, 1fr); } }
+  @media (max-width: 640px) { .lesson-row { grid-template-columns: 1fr; } }
+  .lesson { font-size: 12.5px; line-height: 1.55; padding: 0 24px 12px 0; }
+  .lesson + .lesson { border-left: 1px solid var(--rule); padding-left: 24px; }
+  @media (max-width: 960px) { .lesson:nth-child(3) { border-left: 0; padding-left: 0; } }
+  @media (max-width: 640px) { .lesson { border-left: 0 !important; padding-left: 0 !important; } }
+  .lesson .l-num { font-family: "Space Grotesk", sans-serif; font-weight: 700; font-size: 22px; color: var(--accent); display: block; margin-bottom: 4px; }
+  .lesson b { display: block; font-family: "Space Grotesk", sans-serif; font-size: 15px; margin-bottom: 3px; }
+  .lesson span { color: var(--muted); }
+
+  /* ---------- Feed ---------- */
+  .day-head { border-top: 3px solid var(--rule-dark); margin-top: 40px; padding-top: 10px; }
+  .day-head .slug { color: var(--ink); }
+  .feed-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 0 44px; }
+  @media (max-width: 860px) { .feed-grid { grid-template-columns: 1fr; } }
+  .story { padding: 20px 0 18px; border-bottom: 1px solid var(--rule); }
+  .story-kicker { display: flex; gap: 10px; align-items: baseline; }
+  .story-kicker .cat { font-size: 10.5px; font-weight: 800; letter-spacing: .12em; text-transform: uppercase; color: var(--src, var(--accent-ink)); font-family: Inter, sans-serif; }
+  .story-kicker .meta { font-size: 11.5px; color: var(--faint); font-weight: 500; }
+  .story-kicker .justin { font-size: 11px; color: var(--lens-ink); font-weight: 700; margin-left: auto; }
+  .story h3 { margin: 8px 0 7px; font-size: 21px; line-height: 1.22; letter-spacing: -0.3px; font-weight: 700; }
+  .story h3 a { text-decoration: none; }
+  .story h3 a:hover { color: var(--accent-ink); }
+  .story .summary { margin: 0; font-size: 14px; line-height: 1.62; color: color-mix(in srgb, var(--ink) 84%, var(--muted)); }
+  .insight { margin-top: 10px; }
+  .insight summary {
+    cursor: pointer; list-style: none; display: flex; align-items: center; gap: 7px;
+    font: 700 11px Inter, sans-serif; letter-spacing: .1em; text-transform: uppercase; color: var(--lens-ink);
+    padding: 6px 0;
+  }
+  .insight summary::-webkit-details-marker { display: none; }
+  .insight summary::after { content: '▸'; font-size: 11px; transition: transform .2s; }
+  .insight[open] summary::after { transform: rotate(90deg); }
+  .insight-body { border-left: 2px solid var(--lens-ink); background: var(--tint); padding: 10px 14px; font-size: 13px; line-height: 1.6; margin-top: 2px; }
+  .insight-body .row + .row { margin-top: 8px; padding-top: 8px; border-top: 1px dashed var(--rule); }
+  .insight-body b { display: block; font-size: 10px; text-transform: uppercase; letter-spacing: .12em; font-family: Inter, sans-serif; margin-bottom: 2px; }
+  .insight-body .row.lens b { color: var(--lens-ink); }
+  .insight-body .row.take b { color: var(--accent-ink); }
+  .story-foot { display: flex; align-items: center; gap: 6px; margin-top: 10px; flex-wrap: wrap; }
+  .tag {
+    font-size: 10.5px; color: var(--faint); border: 0; font-family: Inter, sans-serif;
+    padding: 0; cursor: pointer; background: transparent; font-weight: 600; letter-spacing: .04em;
+  }
+  .tag:hover, .tag.on { color: var(--accent-ink); }
+  .tag + .tag::before { content: '· '; color: var(--faint); }
+  .read-link { margin-left: auto; font: 700 11px Inter, sans-serif; letter-spacing: .06em; text-transform: uppercase; text-decoration: none; color: var(--accent-ink); white-space: nowrap; }
+  .read-link:hover { text-decoration: underline; }
+  .empty { text-align: center; color: var(--muted); padding: 70px 0; font-size: 15px; }
+  .empty .serif { font-size: 24px; display: block; margin-bottom: 6px; }
+
+  /* ---------- Footer ---------- */
+  .site-foot { border-top: 1px solid var(--rule); margin-top: 64px; }
+  .site-foot .wrap { padding-top: 22px; padding-bottom: 30px; font: 500 12px "JetBrains Mono", ui-monospace, monospace; letter-spacing: .05em; color: var(--faint); }
+</style>
+</head>
+<body>
+
+<div class="utility">
+  <div class="wrap">
+    <span class="u-date" id="u-date"></span>
+    <span class="u-updated"><span class="pulse"></span>Updated <span id="updated"></span></span>
+    <div class="u-right">
+      <span class="lbl">Reading level</span>
+      <button class="u-btn" id="lvl-beginner" onclick="setLevel('beginner')">Beginner</button>
+      <button class="u-btn" id="lvl-advanced" onclick="setLevel('advanced')">Advanced</button>
+      <button class="u-btn" onclick="toggleTheme()" title="Toggle light/dark">◐</button>
+    </div>
+  </div>
+</div>
+
+<header class="masthead wrap">
+  <h1 class="logo" style="font-size:52px">Keep<em>Up</em></h1>
+  <div class="logo-sub">The Enterprise AI Briefing</div>
+</header>
+
+<nav class="nav-bar">
+  <div class="wrap nav-inner" id="nav"></div>
+</nav>
+<div class="wrap tag-active" id="tag-active"></div>
+
+<main class="wrap">
+
+  <section class="lead" id="hero"></section>
+
+  <details class="primer" id="primer">
+    <summary><span class="slug">🎓 Start here</span><span class="q">New to AI? Enterprise AI in five minutes</span></summary>
+    <div class="primer-body">
+      <h4>The big picture</h4>
+      <p>Large language models (LLMs) — the technology behind Claude, ChatGPT, Gemini, and Grok — are systems trained on huge amounts of text that can read, write, reason, and increasingly <em>act</em>: using tools, browsing, writing code, and completing multi-step tasks as "agents." Enterprises use them for customer support, coding, document analysis, research, and workflow automation. What's state-of-the-art changes every few months — which is exactly why this site exists.</p>
+      <h4>The security angle</h4>
+      <ul>
+        <li><b>Prompt injection</b> — attackers hide instructions in content an AI reads, tricking it into leaking data or acting badly.</li>
+        <li><b>Data leakage</b> — what goes into an AI tool may leave your control; no-training guarantees matter.</li>
+        <li><b>Shadow AI</b> — employees using unapproved tools. Governance beats prohibition.</li>
+        <li><b>Agent permissions</b> — an AI that can act needs least-privilege thinking, like a new hire's account.</li>
+      </ul>
+      <h4>The product angle</h4>
+      <ul>
+        <li><b>Build on APIs, differentiate on your data and workflow</b> — your integration and evals are the moat.</li>
+        <li><b>Evals before vibes</b> — measure output quality on <em>your</em> tasks before and after every model swap.</li>
+        <li><b>Human-in-the-loop</b> — ship AI features with review steps first; remove them as confidence grows.</li>
+      </ul>
+      <h4>Learn the language</h4>
+      <p>Every term you'll meet in these stories is explained in plain English in the <a href="javascript:goPage('learn')">AI, decoded</a> page.</p>
+    </div>
+  </details>
+
+  <section id="security"></section>
+
+  <section id="vendor-security"></section>
+
+  <section id="learn"></section>
+
+  <section id="feed-wrap">
+    <div id="feed"></div>
+  </section>
+
+  <section id="about"></section>
+
+</main>
+
+<footer class="site-foot">
+  <div class="wrap">© 2026 Erik Huang. All rights reserved.</div>
+</footer>
+
+<script id="data" type="application/json">"__DATA__"</script>
+<script>
+const DATA = JSON.parse(document.getElementById('data').textContent);
+const GROUPS = [
+  { id: 'all', label: 'Latest', color: null, match: () => true },
+  { id: 'anthropic', label: 'Anthropic', color: 'var(--c-anthropic)', match: (s) => s === 'anthropic' },
+  { id: 'openai', label: 'OpenAI', color: 'var(--c-openai)', match: (s) => s === 'openai' },
+  { id: 'google', label: 'Google', color: 'var(--c-google)', match: (s) => s === 'google-ai' || s === 'deepmind' },
+  { id: 'xai', label: 'xAI', color: 'var(--c-xai)', match: (s) => s === 'xai' },
+  { id: 'cursor', label: 'Cursor', color: 'var(--c-cursor)', match: (s) => s === 'cursor' || s === 'cursor-changelog' },
+  { id: 'outside', label: 'Beyond the labs', color: 'var(--c-outside)', match: (s) => !['anthropic','openai','google-ai','deepmind','xai','cursor','cursor-changelog'].includes(s) },
+];
+const groupOf = (src) => GROUPS.slice(1).find((g) => g.match(src)) || GROUPS[6];
+// route: 'feed' (news pages, uses state.group) | 'security' | 'learn' | 'about'
+const state = { q: '', group: 'all', tag: null, route: 'feed', level: localStorage.getItem('keepup-level') || 'beginner' };
+
+function esc(s) { return (s || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
+
+// Publish dates without a real time component ("2026-06-30" or midnight-UTC ISO)
+// must be labeled by their UTC calendar day, or they shift back a day in western timezones.
+const isDateOnly = (iso) => /^\d{4}-\d{2}-\d{2}$/.test(iso || '') || /T00:00:00(\.000)?Z$/.test(iso || '');
+function ago(iso) {
+  if (!iso) return '';
+  if (isDateOnly(iso)) {
+    const days = Math.round((Date.now() - new Date(iso)) / 86400000);
+    if (days <= 0) return 'today';
+    if (days === 1) return 'yesterday';
+    if (days < 14) return days + ' days ago';
+    return new Date(iso).toLocaleDateString(undefined, { month: 'short', day: 'numeric', timeZone: 'UTC' });
+  }
+  const mins = Math.max(1, Math.round((Date.now() - new Date(iso)) / 60000));
+  if (mins < 60) return mins + 'm ago';
+  const h = Math.round(mins / 60);
+  if (h < 24) return h + 'h ago';
+  const d = Math.round(h / 24);
+  if (d === 1) return 'yesterday';
+  if (d < 14) return d + ' days ago';
+  return new Date(iso).toLocaleDateString(undefined, { month: 'short', day: 'numeric' });
+}
+function dayLabel(iso) {
+  const dateOnly = isDateOnly(iso);
+  const d = new Date(iso);
+  const localISO = (x) => x.toLocaleDateString('sv');
+  const dayStr = dateOnly ? iso.slice(0, 10) : localISO(d);
+  if (dayStr === localISO(new Date())) return 'Today';
+  if (dayStr === localISO(new Date(Date.now() - 86400000))) return 'Yesterday';
+  return d.toLocaleDateString(undefined, { weekday: 'long', month: 'long', day: 'numeric', ...(dateOnly ? { timeZone: 'UTC' } : {}) });
+}
+
+/* ---------- Theme / level ---------- */
+function applyTheme(t) {
+  document.documentElement.classList.toggle('dark', t === 'dark');
+  localStorage.setItem('keepup-theme', t);
+}
+function toggleTheme() { applyTheme(document.documentElement.classList.contains('dark') ? 'light' : 'dark'); }
+applyTheme(localStorage.getItem('keepup-theme') || 'light');
+
+function setLevel(lvl) {
+  state.level = lvl;
+  localStorage.setItem('keepup-level', lvl);
+  document.getElementById('lvl-beginner').classList.toggle('on', lvl === 'beginner');
+  document.getElementById('lvl-advanced').classList.toggle('on', lvl === 'advanced');
+  render();
+}
+// Navigate to a news (feed) page for a given source group.
+function goFeed(g) {
+  state.route = 'feed'; state.group = g; state.tag = null; state.q = '';
+  const q = document.getElementById('q'); if (q) q.value = '';
+  window.scrollTo(0, 0); render();
+}
+// Navigate to a standalone page: 'security' | 'learn' | 'about'.
+function goPage(p) {
+  state.route = p; state.tag = null; state.q = '';
+  const q = document.getElementById('q'); if (q) q.value = '';
+  window.scrollTo(0, 0); render();
+}
+function setTag(t) {
+  state.tag = state.tag === t ? null : t;
+  state.route = 'feed'; state.group = 'all'; state.q = '';
+  const q = document.getElementById('q'); if (q) q.value = '';
+  window.scrollTo(0, 0); render();
+}
+// Jump from a cross-page list (Latest news, Security watch) to a story in the feed.
+function jumpTo(id) {
+  if (state.route !== 'feed') { state.route = 'feed'; state.group = 'all'; state.tag = null; state.q = ''; render(); }
+  const el = document.getElementById('a-' + id);
+  if (!el) return;
+  el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  el.style.outline = '2px solid var(--accent)'; el.style.outlineOffset = '4px';
+  setTimeout(() => { el.style.outline = ''; }, 1600);
+}
+
+/* ---------- Nav ---------- */
+function renderNav() {
+  const el = document.getElementById('nav');
+  const onFeed = (g) => state.route === 'feed' && state.group === g && !state.tag && !state.q;
+  el.innerHTML =
+    `<button class="nav-link ${state.route === 'about' ? 'on' : ''}" onclick="goPage('about')">About</button>
+     <span class="nav-sep"></span>` +
+    GROUPS.map((g) => {
+      const n = g.id === 'all' ? null : DATA.articles.filter((a) => g.match(a.source)).length;
+      if (n === 0) return '';
+      return `<button class="nav-link ${onFeed(g.id) ? 'on' : ''}" onclick="goFeed('${g.id}')">${g.label}</button>`;
+    }).join('') +
+    `<span class="nav-sep"></span>
+     <button class="nav-link jump ${state.route === 'security' ? 'on' : ''}" onclick="goPage('security')">Security desk</button>
+     <button class="nav-link jump ${state.route === 'learn' ? 'on' : ''}" onclick="goPage('learn')">AI, decoded</button>
+     <div class="nav-search"><input id="q" type="search" placeholder="Search" value="${esc(state.q)}" oninput="state.q=this.value; state.route='feed'; render()"></div>`;
+  const ta = document.getElementById('tag-active');
+  if (state.tag) {
+    ta.style.display = 'block';
+    ta.innerHTML = `Filtering by topic: <button onclick="setTag(null)">#${esc(state.tag)} ✕</button>`;
+  } else ta.style.display = 'none';
+}
+
+/* ---------- Lead package ---------- */
+function pickFeatured() {
+  const summarized = DATA.articles.filter((a) => a.summary);
+  return summarized.find((a) => (a.tags || []).includes('model-release'))
+      || summarized.find((a) => groupOf(a.source).id !== 'outside')
+      || summarized[0];
+}
+const FEATURED = pickFeatured();
+
+function renderHero() {
+  const hero = document.getElementById('hero');
+  const homepage = state.route === 'feed' && state.group === 'all' && !state.q.trim() && !state.tag;
+  if (!FEATURED || !homepage) { hero.style.display = 'none'; return; }
+  hero.style.display = '';
+  const pool = DATA.articles.filter((a) => a.id !== FEATURED.id);
+  const latest = [];
+  for (const g of GROUPS.slice(1)) {
+    const hit = pool.find((a) => g.match(a.source) && !latest.includes(a));
+    if (hit) latest.push(hit);
+  }
+  for (const a of pool) { if (latest.length >= 7) break; if (!latest.includes(a)) latest.push(a); }
+  latest.sort((a, b) => (b.publishedAt || '').localeCompare(a.publishedAt || ''));
+  hero.innerHTML = `
+    <article class="featured">
+      <div class="kicker"><span class="slug cat">★ Top story</span><span class="meta">${esc(FEATURED.sourceName)} · ${ago(FEATURED.publishedAt)}</span></div>
+      <h1><a href="${esc(FEATURED.url)}" target="_blank" rel="noopener">${esc(FEATURED.title)}</a></h1>
+      <p class="sum">${esc(FEATURED.summary)}</p>
+      ${FEATURED.enterpriseAngle ? `<div class="lens-line"><b>Why it matters</b>${esc(FEATURED.enterpriseAngle)}</div>` : ''}
+    </article>
+    <aside class="rail">
+      <div class="rail-head"><span class="slug">Latest news</span></div>
+      <ol>${latest.map((a) => `<li><a href="javascript:jumpTo('${a.id}')"><span class="r-title">${esc(a.title)}</span><span class="r-meta"><span class="r-src" style="--src:${groupOf(a.source).color}">${esc(a.sourceName)}</span> · ${ago(a.publishedAt)}</span></a></li>`).join('')}</ol>
+    </aside>`;
+}
+
+/* ---------- Security desk ---------- */
+const SEC_CONTENT = {
+  beginner: {
+    sub: 'AI is rewriting both sides of the security equation — here\'s the plain-English version, plus the latest security stories.',
+    items: [
+      { ico: '🎣', html: '<b>Scams get supercharged.</b> AI writes flawless phishing emails and clones voices and faces, so "it looked legit" is no longer a defense — verification habits matter more than ever.' },
+      { ico: '📥', html: '<b>AI assistants can be tricked.</b> Hidden instructions in an email, document, or webpage can hijack an AI that reads it ("prompt injection") — the newest way attackers get inside.' },
+      { ico: '🔓', html: '<b>Data can quietly leak.</b> What employees paste into unapproved AI tools may leave the company\'s control — the biggest everyday AI risk in most workplaces.' },
+      { ico: '🛡', html: '<b>Defenders get AI too.</b> AI now reviews code for vulnerabilities in seconds, spots suspicious activity, and handles security busywork — companies using it catch problems faster.' },
+      { ico: '🏷', html: '<b>Fakes are getting labels.</b> "Content credentials" — tamper-evident tags showing how media was made — are rolling out to help tell AI fakes from the real thing.' },
+    ],
+  },
+  advanced: {
+    sub: 'The AI security posture checklist, updated as the landscape moves — plus the latest security stories.',
+    items: [
+      { ico: '📥', html: '<b>Treat every agent input as untrusted.</b> Docs, tickets, emails, and web pages an agent reads are injection vectors — sanitize, sandbox, and least-privilege every agent the way you would a new hire\'s account.' },
+      { ico: '🧩', html: '<b>Extensions are supply chain.</b> MCP connectors, skills, and plugins run with agent-level access — allowlist them centrally (per-team registries) instead of letting one-click installs sprawl.' },
+      { ico: '⚔️', html: '<b>Autonomous vuln discovery cuts both ways.</b> Frontier models now headline cyber capability (and get capability-gated for it) — assume adversaries wield some version, and get AI-assisted AppSec scanning your code first.' },
+      { ico: '🛡', html: '<b>Shift AI review left.</b> Always-on AI code and security review is now fast and cheap enough to run pre-push — pilot it alongside SAST, and measure catch rate before making it a gate.' },
+      { ico: '📋', html: '<b>Instrument everything agents do.</b> Named human owner per agent, full action audit trails, and an incident playbook that covers AI-initiated actions — before the first incident, not after.' },
+    ],
+  },
+};
+
+function renderSecurity() {
+  const el = document.getElementById('security');
+  if (state.route !== 'security') { el.style.display = 'none'; return; }
+  el.style.display = '';
+  const c = SEC_CONTENT[state.level];
+  const stories = DATA.articles.filter((a) => (a.tags || []).includes('security') && a.summary).slice(0, 5);
+  el.innerHTML = `
+    <div class="block-head">
+      <span class="slug" style="color:var(--lens-ink)">🛡 Security desk</span>
+      <h2>How this affects cybersecurity</h2>
+      <button class="more" onclick="setTag('security')">All security coverage →</button>
+    </div>
+    <p class="block-sub">${c.sub}</p>
+    <div class="sec-grid">
+      <div class="sec-col">
+        <h3>${state.level === 'beginner' ? 'What\'s changing' : 'Posture checklist'}</h3>
+        <div class="sec-items">
+          ${c.items.map((i) => `<div class="sec-item"><span class="ico">${i.ico}</span><span>${i.html}</span></div>`).join('')}
+        </div>
+      </div>
+      <div class="sec-watch">
+        <h3>Security watch — latest stories</h3>
+        <ol>${stories.map((a) => `<li><a href="javascript:jumpTo('${a.id}')"><span class="r-title">${esc(a.title)}</span><span class="r-meta">${esc(a.sourceName)} · ${ago(a.publishedAt)}</span></a></li>`).join('')}</ol>
+        <button class="sec-all" onclick="setTag('security')">See all security coverage</button>
+      </div>
+    </div>`;
+}
+
+/* ---------- Vendor security desk ---------- */
+const VENDOR_SEC = {
+  anthropic: {
+    blurb: 'How Anthropic\'s releases and safeguards change the security picture — and its key security publications.',
+    links: [
+      { t: 'Zero Trust for AI agents', d: 'Anthropic\'s framework for securing autonomous agents: task-scoped permissions, poison-resistant memory, and a three-tier maturity model.', u: 'https://claude.com/blog/zero-trust-for-ai-agents' },
+      { t: 'Anthropic Trust Center', d: 'Compliance documentation, certifications, and security practices for Claude enterprise deployments.', u: 'https://trust.anthropic.com' },
+      { t: 'Responsible Scaling Policy', d: 'The capability-gating system that decides which safeguards ship with each model tier (why Mythos 5 is restricted).', u: 'https://www.anthropic.com/news/anthropics-responsible-scaling-policy' },
+    ],
+  },
+  openai: {
+    blurb: 'OpenAI\'s security posture, cyber-defense programs, and the frameworks that gate its frontier releases.',
+    links: [
+      { t: 'Security and privacy at OpenAI', d: 'The umbrella page for OpenAI\'s security controls, compliance activities, and data-handling commitments.', u: 'https://openai.com/security-and-privacy/' },
+      { t: 'Preparedness Framework', d: 'How OpenAI measures and gates severe-harm capabilities (including cyber) before releasing frontier models.', u: 'https://openai.com/index/updating-our-preparedness-framework/' },
+      { t: 'Trusted Access for Cyber', d: 'OpenAI\'s program giving vetted defenders scaled access to frontier cyber capabilities for defensive use.', u: 'https://openai.com/index/trusted-access-for-cyber/' },
+      { t: 'OpenAI Trust Portal', d: 'Compliance documentation and security FAQs for enterprise buyers.', u: 'https://trust.openai.com/' },
+    ],
+  },
+  google: {
+    blurb: 'Google\'s AI security frameworks and provenance work — the largest deployed AI security surface in the industry.',
+    links: [
+      { t: 'Secure AI Framework (SAIF)', d: 'Google\'s conceptual framework for securing AI systems, from model supply chain to deployment controls.', u: 'https://safety.google/cybersecurity-advancements/saif/' },
+      { t: 'Frontier Safety Framework', d: 'DeepMind\'s protocol for detecting and mitigating severe risks (including cyber capability) in frontier models.', u: 'https://deepmind.google/discover/blog/updating-the-frontier-safety-framework/' },
+      { t: 'Safety & security news', d: 'Google\'s running coverage of its security engineering, threat intelligence, and content-provenance work.', u: 'https://blog.google/technology/safety-security/' },
+    ],
+  },
+  xai: {
+    blurb: 'xAI\'s security commitments and risk management for Grok — plus security-relevant developments as they land.',
+    links: [
+      { t: 'Security: Data Protection & Trust', d: 'xAI\'s security page covering safeguards, compliance, and data-handling for Grok and the xAI API.', u: 'https://x.ai/security' },
+      { t: 'xAI Trust Center', d: 'Compliance documentation and security practices for enterprise Grok deployments.', u: 'https://trust.x.ai' },
+      { t: 'xAI Risk Management Framework', d: 'xAI\'s framework addressing malicious use and loss-of-control risks, with thresholds and procedures.', u: 'https://data.x.ai/2025-08-20-xai-risk-management-framework.pdf' },
+    ],
+  },
+  cursor: {
+    blurb: 'Coding agents touch your source code, secrets, and CI — Cursor\'s security posture and controls matter accordingly.',
+    links: [
+      { t: 'Security at Cursor', d: 'Cursor\'s security page: infrastructure, data handling, privacy mode, and how agent requests are processed.', u: 'https://cursor.com/security' },
+      { t: 'Cursor Trust Center', d: 'Certifications and compliance documentation for enterprise rollouts.', u: 'https://trust.cursor.com' },
+    ],
+  },
+  outside: {
+    blurb: 'The standards, frameworks, and independent research shaping AI security beyond any single vendor.',
+    links: [
+      { t: 'OWASP GenAI Security Project', d: 'The community-standard Top 10 risks for LLM applications — the shared vocabulary for AI AppSec.', u: 'https://genai.owasp.org' },
+      { t: 'NIST AI Risk Management Framework', d: 'The US standards body\'s framework for governing AI risk — the reference point for enterprise AI policy.', u: 'https://www.nist.gov/itl/ai-risk-management-framework' },
+      { t: 'CISA guidance on AI', d: 'The US cyber-defense agency\'s advisories and secure-by-design guidance for AI systems.', u: 'https://www.cisa.gov/ai' },
+    ],
+  },
+};
+
+function renderVendorSecurity() {
+  const el = document.getElementById('vendor-security');
+  const conf = VENDOR_SEC[state.group];
+  const show = state.route === 'feed' && conf && !state.q.trim() && !state.tag;
+  if (!show) { el.style.display = 'none'; return; }
+  el.style.display = '';
+  const group = GROUPS.find((g) => g.id === state.group);
+  const stories = DATA.articles.filter((a) =>
+    group.match(a.source) && a.summary &&
+    ((a.tags || []).includes('security') || (a.tags || []).includes('governance'))
+  ).slice(0, 5);
+  el.innerHTML = `
+    <div class="block-head">
+      <span class="slug" style="color:var(--lens-ink)">🛡 ${esc(group.label)} · Security desk</span>
+      <h2>Cybersecurity developments</h2>
+    </div>
+    <p class="block-sub">${conf.blurb}</p>
+    <div class="sec-grid">
+      <div class="sec-col">
+        <h3>Latest security developments</h3>
+        ${stories.length
+          ? `<ol class="vsec-reading" style="list-style:none;margin:0;padding:0">${stories.map((a) => `<li><a href="javascript:jumpTo('${a.id}')" style="text-decoration:none"><span class="r-title serif" style="font-size:15px;font-weight:650;line-height:1.3;display:block">${esc(a.title)}</span><span class="r-desc">${esc((a.enterpriseAngle || a.summary || '').split('. ')[0])}.</span><span class="r-meta" style="font-size:11px;color:var(--muted);font-weight:600;margin-top:3px;display:block">${ago(a.publishedAt)}</span></a></li>`).join('')}</ol>`
+          : '<div class="vsec-note">No security-tagged stories from this source yet — they\'ll appear here automatically as coverage lands.</div>'}
+      </div>
+      <div class="sec-watch">
+        <h3>Essential reading</h3>
+        <ol class="vsec-reading">${conf.links.map((l) => `<li><a href="${esc(l.u)}" target="_blank" rel="noopener"><span class="r-title">${esc(l.t)}<span class="ext">↗</span></span><span class="r-desc">${esc(l.d)}</span></a></li>`).join('')}</ol>
+      </div>
+    </div>`;
+}
+
+/* ---------- Learning desk ---------- */
+const TERM_CATS = ['The basics', 'Building with AI', 'Agents & automation', 'Risks & safety'];
+const TERMS = [
+  { cat: 0, ico: '🧠', term: 'LLM (large language model)', def: 'The engine behind Claude, ChatGPT, and Gemini. It read a huge chunk of the internet during training and learned to predict what comes next — which turns out to be enough to write, summarize, reason, and code.', pro: 'Under the hood it\'s next-token prediction over a transformer; everything else (chat, tools, agents) is scaffolding around that core.' },
+  { cat: 0, ico: '🧩', term: 'Token', def: 'The bite-sized chunks AI reads and writes — roughly ¾ of a word each. AI pricing is per token, so it\'s like paying for text by the syllable.', pro: 'Budget both directions: long documents in and verbose answers out both cost you. Caching repeated context can cut input costs dramatically.' },
+  { cat: 0, ico: '🗒', term: 'Context window', def: 'The AI\'s working memory — how much it can "hold in mind" during one conversation. Like a desk: a bigger desk fits more papers, but pile on too much and things get lost.', pro: 'Long context ≠ perfect recall; retrieval quality degrades mid-context. Put critical instructions at the start or end, and don\'t stuff what you can retrieve.' },
+  { cat: 0, ico: '💬', term: 'Prompt', def: 'Whatever you type to the AI — your question plus any instructions. Clearer briefs get better work, exactly like delegating to a person.', pro: 'System prompts (standing instructions the user never sees) do the heavy lifting in products; treat them as versioned, tested artifacts.' },
+  { cat: 0, ico: '⚡', term: 'Inference', def: 'Running the AI to get an answer — as opposed to training it. When companies pay for "AI compute," most of the day-to-day bill is inference.', pro: 'Inference cost per unit of capability keeps falling ~an order of magnitude per year — re-run your cost models quarterly, not annually.' },
+  { cat: 0, ico: '🌫', term: 'Hallucination', def: 'When AI states something false with total confidence — like a friend who\'d rather invent an answer than say "I don\'t know."', pro: 'Mitigate with retrieval + citations, constrained outputs, and evals that measure groundedness; you manage it down, you don\'t eliminate it.' },
+  { cat: 0, ico: '🏔', term: 'Frontier model', def: 'The most capable model tier a lab offers — the flagship. Below it sit cheaper, faster siblings that are usually last year\'s frontier quality at a fraction of the price.', pro: 'Default to a mid-tier model and escalate to frontier only where evals show it pays; the gap narrows every release.' },
+  { cat: 0, ico: '🎨', term: 'Multimodal', def: 'AI that handles more than text — it can look at images, listen to audio, watch video, and generate them too.', pro: 'Vision input is production-grade for document/UI understanding; treat generated media as a separate risk surface (provenance, deepfakes).' },
+  { cat: 1, ico: '🔌', term: 'API', def: 'The socket your software plugs into to use an AI model — you send text, you get answers back, you pay per use. It\'s how companies add AI without building any of it themselves.', pro: 'Keep a thin abstraction over providers so you can swap models; vendor SDK lock-in is cheap to avoid early and expensive later.' },
+  { cat: 1, ico: '📚', term: 'RAG (retrieval-augmented generation)', def: 'Instead of hoping the AI memorized your company\'s facts, you hand it the right documents at question time — like an open-book exam. This is how most "chat with your data" products work.', pro: 'Retrieval quality caps answer quality; invest in chunking, hybrid search, and reranking before touching the model.' },
+  { cat: 1, ico: '🎛', term: 'Fine-tuning', def: 'Extra training to specialize a model on your examples — teaching an experienced hire your house style. Powerful, but often overkill when simply showing it your documents (RAG) would do.', pro: 'Reach for it for format/style/latency wins, not knowledge injection; knowledge belongs in retrieval where you can update it.' },
+  { cat: 1, ico: '📏', term: 'Evals', def: 'Standardized tests you build for AI on your own tasks — the report card that tells you if a new model or prompt actually got better, instead of trusting gut feel.', pro: 'The single highest-leverage AI engineering investment. Version them, run them on every model/prompt change, and include your ugliest real cases.' },
+  { cat: 1, ico: '🔗', term: 'MCP (Model Context Protocol)', def: 'A universal adapter that lets AI assistants connect to tools and data — email, databases, calendars — the way USB lets any device plug into any computer.', pro: 'Treat MCP servers as supply chain: allowlist centrally, pin versions, and scope credentials per connector.' },
+  { cat: 1, ico: '🧮', term: 'Embeddings', def: 'A way to turn text into coordinates so a computer can measure meaning — "invoice" lands near "bill," far from "birthday." It\'s the math that powers AI search.', pro: 'Embedding model choice quietly determines retrieval quality; re-embedding your corpus after an upgrade is usually worth the cost.' },
+  { cat: 2, ico: '🤖', term: 'Agent', def: 'An AI that doesn\'t just answer — it does. Give it a goal and it plans steps, uses tools (browsers, code, files), checks its work, and comes back with the task finished.', pro: 'Reliability falls with task length; deploy agents where the autonomous stretch fits inside current reliability, with checkpoints beyond it.' },
+  { cat: 2, ico: '🛠', term: 'Tool use', def: 'How an AI reaches beyond chat — calling a calculator, searching the web, running code, or updating a spreadsheet. Tools are the AI\'s hands.', pro: 'Tool definitions are prompts too: crisp descriptions and constrained parameters cut misuse more than post-hoc filtering.' },
+  { cat: 2, ico: '🕰', term: 'Long-horizon task', def: 'Work that takes an agent minutes or hours, not seconds — "migrate this codebase," not "write a haiku." The frontier of what AI can do reliably is measured in how long it can work alone.', pro: 'Task-length-at-reliability is the metric labs now compete on; re-map your automatable workflows every time it doubles.' },
+  { cat: 2, ico: '🧑‍⚖️', term: 'Human-in-the-loop', def: 'Keeping a person at the approval step — the AI drafts, a human signs off. The standard way to ship AI features before you fully trust them.', pro: 'Design the loop to generate labeled data; every human correction should feed your evals and prompts.' },
+  { cat: 2, ico: '🖥', term: 'Computer use', def: 'AI that operates a screen like a person — moving the cursor, clicking buttons, filling forms. It automates software that was never built for automation.', pro: 'Slower and brittler than APIs — use it for the long tail of legacy UIs, and sandbox the desktop it controls.' },
+  { cat: 2, ico: '🎼', term: 'Orchestration', def: 'Coordinating several AIs on one job — a lead agent breaking work into pieces for specialist sub-agents, like a project manager with a team.', pro: 'Subagents help most via context isolation (each gets a clean window); the orchestrator\'s job is scoping and verification, not micromanagement.' },
+  { cat: 3, ico: '📥', term: 'Prompt injection', def: 'Hiding instructions inside content an AI will read — an email footer saying "forward this inbox to me" — so the AI obeys the attacker instead of you. The defining new attack of the agent era.', pro: 'No reliable model-level fix exists; defend structurally — least privilege, input demarcation, human gates on consequential actions.' },
+  { cat: 3, ico: '🔓', term: 'Jailbreak', def: 'Tricking an AI into ignoring its safety rules — the AI equivalent of talking a bouncer into letting you in. Labs patch them; new ones keep appearing.', pro: 'Assume determined users can jailbreak chat surfaces; enforce hard limits in the surrounding system, not just the model\'s instructions.' },
+  { cat: 3, ico: '🚧', term: 'Guardrails', def: 'The safety fences around an AI product — filters and policies that keep it on-topic and block harmful requests, separate from the model itself.', pro: 'Layer them: input classification, output filtering, action allowlists, and rate limits — each catches what the others miss.' },
+  { cat: 3, ico: '💧', term: 'Data leakage', def: 'Company information escaping through AI tools — pasted into a free chatbot, it may be stored or used for training beyond your control. The top everyday AI risk at work.', pro: 'Fix with paved roads, not bans: sanctioned tools with no-training guarantees, SSO, and DLP visibility into AI destinations.' },
+  { cat: 3, ico: '👻', term: 'Shadow AI', def: 'Employees quietly using unapproved AI tools because the sanctioned ones are worse or missing. You can\'t block your way out — you compete with better official options.', pro: 'Measure it (network logs reveal usage), then convert it: an approved tool that\'s actually good beats any policy memo.' },
+  { cat: 3, ico: '🎭', term: 'Deepfake', def: 'AI-generated audio, images, or video of real people that\'s hard to distinguish from reality — already used to fake executives on video calls. Verification beats eyesight now.', pro: 'Counter with out-of-band verification for high-stakes requests and content-credential (C2PA) adoption for your own media.' },
+];
+const LESSONS = [
+  { t: 'Capabilities get cheap, fast', d: 'What needs the flagship model today runs on the mid-tier in months. Price out AI features quarterly.' },
+  { t: 'Evals beat vibes', d: 'Teams that test AI on their own tasks ship confidently; teams that demo-and-hope ship surprises.' },
+  { t: 'Data readiness comes first', d: 'Most failed AI projects were data projects in disguise. Clean, connected data is the prerequisite.' },
+  { t: 'Trust is structural', d: 'Reliable AI products come from permissions, review steps, and audit trails — not from hoping the model behaves.' },
+];
+const learnState = { cat: 0 };
+function setLearnCat(i) { learnState.cat = i; renderLearn(); }
+function renderLearn() {
+  const el = document.getElementById('learn');
+  if (state.route !== 'learn') { el.style.display = 'none'; return; }
+  el.style.display = '';
+  const terms = TERMS.filter((t) => t.cat === learnState.cat);
+  el.innerHTML = `
+    <div class="block-head">
+      <span class="slug">🎓 Learning desk</span>
+      <h2>AI, decoded</h2>
+    </div>
+    <p class="block-sub">The jargon in these stories, explained like you'd explain it to a friend. Tap a term${state.level === 'advanced' ? ' — practitioner notes included' : ''}.</p>
+    <div class="learn-tabs">${TERM_CATS.map((c, i) => `<button class="learn-tab ${i === learnState.cat ? 'on' : ''}" onclick="setLearnCat(${i})">${c}</button>`).join('')}</div>
+    <div class="terms">${terms.map((t) => `
+      <details class="term">
+        <summary><span class="t-ico">${t.ico}</span>${esc(t.term)}</summary>
+        <div class="term-body">${esc(t.def)}${state.level === 'advanced' && t.pro ? `<div class="pro"><b>Practitioner note</b>${esc(t.pro)}</div>` : ''}</div>
+      </details>`).join('')}
+    </div>
+    <div class="lessons">
+      <h3>Big lessons so far</h3>
+      <div class="lesson-row">${LESSONS.map((l, i) => `<div class="lesson"><span class="l-num">0${i + 1}</span><b>${esc(l.t)}</b><span>${esc(l.d)}</span></div>`).join('')}</div>
+    </div>`;
+}
+
+/* ---------- About ---------- */
+function renderAbout() {
+  const el = document.getElementById('about');
+  if (state.route !== 'about') { el.style.display = 'none'; return; }
+  el.style.display = '';
+  el.innerHTML = `
+    <div class="about-hero">
+      <div class="about-left">
+        <div class="about-rule"></div>
+        <h1 class="about-title">Hi there! I'm <span class="dot">Erik Huang.</span></h1>
+        <p class="about-lede">I'm passionate about innovation and driven by outcomes.</p>
+        <p>I'm a product leader focused on enterprise cybersecurity, product development, and bringing AI into the enterprise in ways that make sense. I like working on hard problems and ideas that translate to the real world.</p>
+        <p>Everything here is read through a security-and-product lens. Feel free to reach out. ✌️</p>
+        <div class="about-tags">
+          <span>Product leadership</span><span>Cybersecurity</span><span>Enterprise AI</span>
+        </div>
+        <div class="about-contact">
+          <a href="https://www.linkedin.com/in/erikhuang/" target="_blank" rel="noopener"><img class="li-avatar" src="assets/erik-profile.jpg" alt="Erik Huang">Connect on LinkedIn ↗</a>
+        </div>
+      </div>
+      <figure class="about-photo" style="margin:0">
+        <img src="assets/erik-presenting.jpg" alt="Erik presenting at EAH" onerror="this.closest('.about-photo').classList.add('noimg')">
+        <div class="photo-fallback">
+          <div class="mark">EH</div>
+          <div class="fb-name">Erik Huang</div>
+          <div class="fb-cap">// photo coming soon</div>
+        </div>
+      </figure>
+    </div>`;
+}
+
+/* ---------- Feed ---------- */
+function storyHtml(a) {
+  const g = groupOf(a.source);
+  const take = state.level === 'beginner' ? a.beginner : a.advanced;
+  const takeLabel = state.level === 'beginner' ? 'If you\'re new to this' : 'For practitioners';
+  const hasInsight = a.enterpriseAngle || take;
+  return `<article class="story" id="a-${a.id}" style="--src:${g.color}">
+    <div class="story-kicker">
+      <span class="cat">${esc(a.sourceName)}</span>
+      <span class="meta">${ago(a.publishedAt)}</span>
+      ${a.summary ? '' : '<span class="justin">Just in — summary coming shortly</span>'}
+    </div>
+    <h3><a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.title)}</a></h3>
+    ${a.summary ? `<p class="summary">${esc(a.summary)}</p>` : (a.excerpt ? `<p class="summary" style="color:var(--muted)">${esc(a.excerpt)}…</p>` : '')}
+    ${hasInsight ? `<details class="insight">
+      <summary>Why it matters — security &amp; product view</summary>
+      <div class="insight-body">
+        ${a.enterpriseAngle ? `<div class="row lens"><b>Enterprise lens</b>${esc(a.enterpriseAngle)}</div>` : ''}
+        ${take ? `<div class="row take"><b>${takeLabel}</b>${esc(take)}</div>` : ''}
+      </div>
+    </details>` : ''}
+    <div class="story-foot">
+      ${(a.tags || []).map((t) => `<button class="tag ${state.tag === t ? 'on' : ''}" onclick="setTag('${esc(t)}')">${esc(t)}</button>`).join('')}
+      <a class="read-link" href="${esc(a.url)}" target="_blank" rel="noopener">Read original ↗</a>
+    </div>
+  </article>`;
+}
+
+function render() {
+  renderNav();
+  renderHero();
+  renderSecurity();
+  renderVendorSecurity();
+  renderLearn();
+  renderAbout();
+
+  // Page vs. feed: hide the primer and news feed on standalone pages.
+  const onFeed = state.route === 'feed';
+  const homepage = onFeed && state.group === 'all' && !state.q.trim() && !state.tag;
+  document.getElementById('primer').style.display = homepage ? '' : 'none';
+  document.getElementById('feed-wrap').style.display = onFeed ? '' : 'none';
+  if (!onFeed) return;
+
+  const group = GROUPS.find((g) => g.id === state.group);
+  const q = state.q.trim().toLowerCase();
+  const defaultView = state.group === 'all' && !q && !state.tag;
+  const items = DATA.articles.filter((a) => {
+    if (defaultView && FEATURED && a.id === FEATURED.id) return false;
+    if (!group.match(a.source)) return false;
+    if (state.tag && !(a.tags || []).includes(state.tag)) return false;
+    if (q) {
+      const hay = [a.title, a.summary, a.enterpriseAngle, a.beginner, a.advanced, (a.tags || []).join(' '), a.sourceName].join(' ').toLowerCase();
+      if (!hay.includes(q)) return false;
+    }
+    return true;
+  });
+
+  const feed = document.getElementById('feed');
+  if (!items.length) {
+    feed.innerHTML = '<div class="empty"><span class="serif">Nothing here yet</span>Try clearing the search or picking another section.</div>';
+    return;
+  }
+  let html = '';
+  let lastDay = '';
+  let dayItems = [];
+  const flush = () => {
+    if (!dayItems.length) return;
+    html += `<div class="feed-grid">${dayItems.join('')}</div>`;
+    dayItems = [];
+  };
+  for (const a of items) {
+    const day = (a.publishedAt || '').slice(0, 10);
+    if (day !== lastDay) {
+      flush();
+      lastDay = day;
+      html += `<div class="day-head"><span class="slug">${dayLabel(a.publishedAt)}</span></div>`;
+    }
+    dayItems.push(storyHtml(a));
+  }
+  flush();
+  feed.innerHTML = html;
+}
+
+document.getElementById('updated').textContent = ago(DATA.generatedAt);
+document.getElementById('u-date').textContent = new Date().toLocaleDateString(undefined, { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
+if (!localStorage.getItem('keepup-primer-seen')) {
+  document.getElementById('primer').open = true;
+  localStorage.setItem('keepup-primer-seen', '1');
+}
+setLevel(state.level);
+</script>
+</body>
+</html>

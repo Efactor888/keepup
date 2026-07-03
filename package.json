@@ -1,0 +1,18 @@
+{
+  "name": "keepup",
+  "version": "1.0.0",
+  "description": "KeepUp — enterprise AI news, releases, and innovation tracker with plain-English summaries",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "fetch": "node pipeline/fetch.js",
+    "fetch:realtime": "node pipeline/fetch.js --tier realtime",
+    "pending": "node pipeline/pending.js",
+    "apply": "node pipeline/apply-summaries.js",
+    "summarize": "node pipeline/summarize.js",
+    "build": "node pipeline/build.js",
+    "serve": "node pipeline/serve.js",
+    "update": "node pipeline/fetch.js && node pipeline/build.js",
+    "update:auto": "node pipeline/fetch.js && node pipeline/summarize.js && node pipeline/build.js"
+  }
+}

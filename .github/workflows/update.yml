@@ -45,7 +45,7 @@ jobs:
         # Cap per run so it stays fast and within the free tier. Any remaining
         # backlog is drained by the next run; steady-state is ~15 new/run anyway.
         # Manual runs can pass a higher limit to drain a backlog in one go.
-        run: node pipeline/summarize.js --limit ${{ github.event.inputs.limit || 25 }}
+        run: node pipeline/summarize.js --limit ${{ github.event.inputs.limit || 50 }}
 
       - name: Build site
         run: node pipeline/build.js

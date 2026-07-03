@@ -548,9 +548,11 @@ function renderNav() {
 /* ---------- Lead package ---------- */
 function pickFeatured() {
   const summarized = DATA.articles.filter((a) => a.summary);
-  return summarized.find((a) => (a.tags || []).includes('model-release'))
-      || summarized.find((a) => groupOf(a.source).id !== 'outside')
-      || summarized[0];
+  // Only genuinely fresh stories qualify for Top Story; fall back to newest.
+  const fresh = summarized.filter((a) => Date.now() - Date.parse(a.publishedAt) < 14 * 86400000);
+  return fresh.find((a) => (a.tags || []).includes('model-release'))
+      || fresh.find((a) => groupOf(a.source).id !== 'outside')
+      || fresh[0] || summarized[0];
 }
 const FEATURED = pickFeatured();
 

@@ -161,6 +161,26 @@ const junkTitle = (t) => {
   if (!/[a-z]/i.test(t)) return true;
   return false;
 };
+// Re-derive dates for entries that defaulted publishedAt to fetch time (scraped
+// sources with no date). Tries title/stored text first, then refetches the page
+// once (marks dateChecked so pages with no date aren't refetched every run).
+for (const a of store.articles) {
+  if (a.dateChecked) continue;
+  const defaulted = a.publishedAt && a.fetchedAt &&
+    Math.abs(Date.parse(a.publishedAt) - Date.parse(a.fetchedAt)) < 5 * 60 * 1000;
+  if (!defaulted) continue;
+  let real = extractDate(a.title) || extractDate((a.contentText || '').slice(0, 1200));
+  if (!real) {
+    const page = await fetchArticleText(a.url);
+    real = extractDate(page.title) || extractDate((page.text || '').slice(0, 1500));
+    a.dateChecked = true; // don't refetch again if the page simply has no date
+  }
+  if (real) {
+    a.publishedAt = real;
+    console.log(`re-dated: ${a.title.slice(0, 60)} -> ${real}`);
+  }
+}
+
 const beforePrune = store.articles.length;
 store.articles = store.articles.filter((a) => !junkTitle(a.title));
 // Retention: keep a rolling year of coverage. Age-based (not count-based) so

@@ -297,6 +297,17 @@
   .story h3 a { text-decoration: none; }
   .story h3 a:hover { color: var(--accent-ink); }
   .story .summary { margin: 0; font-size: 14px; line-height: 1.62; color: color-mix(in srgb, var(--ink) 84%, var(--muted)); }
+  /* Reading-level takeaway — always visible so the Beginner/Advanced toggle has a clear effect. */
+  .takeaway {
+    margin-top: 11px; padding: 9px 12px; border-radius: 6px; font-size: 13.5px; line-height: 1.55;
+    border-left: 3px solid var(--tk); background: color-mix(in srgb, var(--tk) 9%, transparent);
+  }
+  .takeaway.beginner { --tk: var(--accent); }
+  .takeaway.advanced { --tk: var(--lens-ink); }
+  .takeaway .tk-label {
+    display: block; font: 800 10px Inter, sans-serif; letter-spacing: .1em; text-transform: uppercase;
+    color: var(--tk); margin-bottom: 3px;
+  }
   .insight { margin-top: 10px; }
   .insight summary {
     cursor: pointer; list-style: none; display: flex; align-items: center; gap: 7px;
@@ -819,7 +830,6 @@ function storyHtml(a) {
   const g = groupOf(a.source);
   const take = state.level === 'beginner' ? a.beginner : a.advanced;
   const takeLabel = state.level === 'beginner' ? 'If you\'re new to this' : 'For practitioners';
-  const hasInsight = a.enterpriseAngle || take;
   return `<article class="story" id="a-${a.id}" style="--src:${g.color}">
     <div class="story-kicker">
       <span class="cat">${esc(a.sourceName)}</span>
@@ -828,11 +838,11 @@ function storyHtml(a) {
     </div>
     <h3><a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.title)}</a></h3>
     ${a.summary ? `<p class="summary">${esc(a.summary)}</p>` : (a.excerpt ? `<p class="summary" style="color:var(--muted)">${esc(a.excerpt)}…</p>` : '')}
-    ${hasInsight ? `<details class="insight">
+    ${take ? `<div class="takeaway ${state.level}"><span class="tk-label">${takeLabel}</span>${esc(take)}</div>` : ''}
+    ${a.enterpriseAngle ? `<details class="insight">
       <summary>Why it matters — security &amp; product view</summary>
       <div class="insight-body">
-        ${a.enterpriseAngle ? `<div class="row lens"><b>Enterprise lens</b>${esc(a.enterpriseAngle)}</div>` : ''}
-        ${take ? `<div class="row take"><b>${takeLabel}</b>${esc(take)}</div>` : ''}
+        <div class="row lens"><b>Enterprise lens</b>${esc(a.enterpriseAngle)}</div>
       </div>
     </details>` : ''}
     <div class="story-foot">

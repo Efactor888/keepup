@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T04:48:43.604Z",
+  "updatedAt": "2026-07-04T14:50:50.246Z",
   "articles": [
     {
       "id": "117a33adee78",
@@ -52,12 +52,17 @@
       "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
       "publishedAt": "2026-07-02T23:38:10.000Z",
       "fetchedAt": "2026-07-03T02:42:56.241Z",
-      "contentText": "In Brief Posted: 4:38 PM PDT · July 2, 2026 Image Credits: ANDREW CABALLERO-REYNOLDS/AFP / Getty Images Lucas Ropek Mark Zuckerberg tells staff that AI agents haven't progressed as quickly as he'd hoped Replacing people with AI doesn't seem to be that easy to do, if Meta can be seen as an example. Reuters reports that at an internal town hall Thursday, CEO Mark Zuckerberg told staff that the pace of AI agent development had not \"accelerated in the way\" executives had previously expected them to. Earlier this year, Meta laid off some 8,000 employees — approximately 10% of its corporate workforce — and reassigned another 7,000 to various AI groups, including one called Agent Transformation, Bloomberg reported . During this week's meeting, Zuckerberg apparently commented on these job cuts — noting that they were not as \"clean\" as they should have been. The cuts were made because top officials at the company \"were worried that we weren't going to move fast enough ‌to adapt\" to the changing landscape of the tech industry, Zuckerberg reportedly added. The corporate leader also apparently said that the perceived upside of the new AI-focused company structure hadn't \"come to ​fruition yet,\" although he said that he believed the company would begin to see improvements from its AI investments during the next three to six months. Several other investigative reports have depicted Meta’s months-old AI unit as a soul-crushing gulag, according to some of the engineers assigned to it. Meta has invested heavily in AI and is expected to spend as much as $145 billion on AI infrastructure this year, Reuters reports. TechCrunch reached out to Meta for comment. Topics AI , ai agent , In Brief , Mark Zuckerberg , Meta November 4 Boston Last chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world scaling insights and connections that move the needle. Savings end June 26, 11:59 p.m. PT . REGISTER NOW Newsletters See More Subscribe for the industry’s biggest tech news TechCrunch Daily News Every weekday and Sunday, you can get the best of TechCrunch’s coverage. TechCrunch Mobility TechCrunch Mobility is your destination for transportation news and insight. Startups Weekly Startups are the core of TechCrunch, so get our best coverage delivered weekly. StrictlyVC Provides movers and shakers with the info they need to start their day. No newsletters selected. Subscribe By submitting your email, you agree to our Terms and Privacy Notice . Related Gaming Meta quietly launches vibe-coded gaming app Pocket Sarah Perez 9 hours ago Apps Gemini Spark, Google's agentic assistant, is now available on Mac Sarah Perez 2 days ago AI Meta, like SpaceX, looks to turn excess AI compute into cash Rebecca Bellan 2 days ago Latest in AI In Brief Mark Zuckerberg tells staff that AI agents haven't progressed as quickly as he'd hoped Lucas Ropek 4 hours ago AI Jersey Mike's IPO illustrates how bad the AI hype has become Julie Bort 7 hours ago Gaming Meta quietly launches vibe-coded gaming app Pocket Sarah Perez 9 hours ago",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Mark Zuckerberg informed Meta staff that the development of AI agents has not advanced as quickly as anticipated, despite significant investments and a corporate restructuring that involved layoffs and reassignments to AI groups. He noted that the expected benefits of the new AI-focused structure have not yet materialized, though he expects improvements within the next three to six months. Meta has invested heavily in AI infrastructure, with projected spending of up to $145 billion this year.",
+      "enterpriseAngle": "Enterprises investing heavily in AI, particularly in agent development, should manage expectations regarding immediate returns and be prepared for slower-than-anticipated progress, even with substantial financial and workforce reallocations. The challenges faced by a major player like Meta highlight the complexities of integrating AI at scale and the potential for internal friction during such transitions.",
+      "beginner": "Even big companies like Meta are finding that making AI agents work perfectly takes more time and effort than they initially thought.",
+      "advanced": "Given Meta's experience, enterprise AI leaders should prioritize realistic roadmaps for agentic AI deployment, focusing on iterative development and measurable milestones rather than expecting rapid, transformative outcomes from initial large-scale investments.",
+      "tags": [
+        "enterprise",
+        "agents",
+        "funding",
+        "workforce"
+      ]
     },
     {
       "id": "d984d4c08b37",
@@ -110,12 +115,17 @@
       "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
       "publishedAt": "2026-07-02T18:31:09.000Z",
       "fetchedAt": "2026-07-03T02:42:56.241Z",
-      "contentText": "Back in April, Reuters reported that Anthropic was toying with the idea of producing its own AI chips as a means of responding to chip shortages. Now, it would appear that the company is getting serious about this idea. On Thursday, The Information reported that Anthropic was in contact with Samsung to explore a collaboration around the pending chip. However, Anthropic hasn't yet decided what the chip will be used for, how it will fit into the server, or how powerful it will be, according to the report. When reached for comment, Anthropic told TechCrunch that a diversified hardware stack that includes chips from Google, Amazon, and Nvidia will continue to be pivotal to its compute strategy. On the topic of a potential Samsung partnership, the company said it had nothing further to add. A number of AI companies have sought to develop custom chips — both as a way to create unique hardware for specific compute tasks and to gain a certain amount of independence from Nvidia, which continues to be the undisputed leader of the chip industry. Anthropic's announcement may also be a response to one made last week by its key competitor, OpenAI, which has teamed up with Broadcom to announce its own custom-built inference processor, dubbed \"Jalapeño.\" OpenAI says that the chip is more efficient, demonstrating better performance-per-watt, than other competitor chips. Amazon and Google both offer custom-built TPUs as part of their cloud offering. Samsung is already embedded in the AI industry, and acts as a major partner of Nvidia, producing chips that the company needs to train or run its AI models. In turn, Samsung uses Nvidia's software to manufacture its chips. The duo are working on an AI chip factory in South Korea. Samsung has also discussed partnering with Google on its chip-making efforts. Topics AI , AI chips , Anthropic , nvidia , OpenAI , Samsung , TC When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Lucas Ropek Senior Writer, TechCrunch Lucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. You can contact Lucas by emailing lucas.ropek@techcrunch.com. View Bio November 4 Boston Last chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world scaling insights and connections that move the needle. Savings end June 26, 11:59 p.m. PT . REGISTER NOW Most Popular The ‘Father of the Internet' is finally retiring Tim Fernholz OpenClaw is finally available on Android and iOS Lucas Ropek Flipper Device's new Busy Bar is a customizable display for productivity Ivan Mehta Ford rehires ‘gray beard’ engineers after AI falls short Anthony Ha Govee's smart nugget ice maker makes every iced drink feel like a luxury Aisha Malik Asian AI startups launch Mythos-like models as Anthropic's export ban drags on Kate Park FTC gives Musk the OK to acquire SpaceX alumni startup Mesh Marina Temkin",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Anthropic is reportedly in discussions with Samsung to develop a custom AI chip, following earlier reports of their interest in producing their own chips to address shortages. While the specifics of the chip's use and power are undecided, this move aligns with other AI companies seeking custom hardware for specific tasks and greater independence from Nvidia. Anthropic stated that a diversified hardware strategy, including chips from Google, Amazon, and Nvidia, remains crucial.",
+      "enterpriseAngle": "Enterprise product development teams reliant on AI models may see increased hardware diversity and potentially more optimized solutions as AI companies invest in custom chips, which could lead to better performance-per-watt and reduced dependency on single vendors. Security teams should consider the implications of a more fragmented hardware landscape on supply chain security and vulnerability management.",
+      "beginner": "Large AI companies are exploring making their own specialized computer chips to run their AI programs better and reduce reliance on one main chip supplier.",
+      "advanced": "Evaluate the long-term cost and performance benefits of integrating custom AI silicon into your infrastructure, considering the potential for improved efficiency and reduced vendor lock-in, while also assessing the supply chain risks associated with new hardware partnerships.",
+      "tags": [
+        "hardware",
+        "enterprise",
+        "product",
+        "partnership"
+      ]
     },
     {
       "id": "818a35391f3a",
@@ -146,12 +156,17 @@
       "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
       "publishedAt": "2026-07-02T15:20:51.000Z",
       "fetchedAt": "2026-07-03T02:42:56.241Z",
-      "contentText": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "OpenAI CEO Sam Altman has reportedly suggested donating 5% of the company's equity to a U.S. sovereign wealth fund. This proposal aims to allow the public to share in the financial benefits of the growing AI industry.",
+      "enterpriseAngle": "This proposal highlights a potential future where AI companies might be pressured to share profits with the public, impacting enterprise valuation and investment strategies. Enterprise leaders should monitor such policy discussions as they could influence the regulatory landscape and public perception of AI development.",
+      "beginner": "OpenAI wants to give a part of its company to a U.S. fund so that everyday people can benefit financially from the success of AI.",
+      "advanced": "Evaluate the implications of potential government equity stakes in AI firms on future M&A activities, regulatory frameworks, and public-private partnerships within the AI sector.",
+      "tags": [
+        "funding",
+        "policy",
+        "governance",
+        "enterprise"
+      ]
     },
     {
       "id": "944603ff993b",
@@ -162,12 +177,17 @@
       "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
       "publishedAt": "2026-07-02T13:53:00.000Z",
       "fetchedAt": "2026-07-03T02:42:56.241Z",
-      "contentText": "On Thursday, Microsoft announced a new operating business called Microsoft Frontier Company, focused on delivering successful enterprise AI deployments with Microsoft's existing AI tools. The project will be backed by a $2.5 billion investment from Microsoft, as well as 6,000 industry and engineering experts. In a statement announcing the venture, Microsoft's Commercial Business CEO Judson Althoff resisted the Forward Deployed Engineer (FDE) label that is often applied to these ventures. \"This goes beyond what has been labeled as Forward-Deployed Engineering,\" Althoff wrote, \"and will be the largest, most capable, outcome-driven engineering organization in the industry.\" Nonetheless, the venture bears a striking similarity to a number of FDE-based AI ventures announced in recent months. Just two days earlier , Amazon Web Services announced an internal commitment of $1 billion for its own AI deployment venture, explicitly embracing the FDE model. Both OpenAI and Anthropic have launched joint ventures along similar lines, although those efforts also involve outside capital from private equity firms. Microsoft's existing client base will give the new effort a significant head start, as the company has already deployed engineers to much of the Fortune 500. The announcement cites an early partnership with the London Stock Exchange Group, as well as Unilever, Land O'Lakes, and Accenture. Topics AI , Enterprise , Microsoft , TC When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Russell Brandom AI Editor Russell Brandom has been covering the tech industry since 2012, with a focus on platform policy and emerging technologies. He previously worked at The Verge and Rest of World, and has written for Wired, The Awl and MIT's Technology Review. He can be reached at russell.brandom@techcrunch.com or on Signal at 412-401-5489. View Bio November 4 Boston Last chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world scaling insights and connections that move the needle. Savings end June 26, 11:59 p.m. PT . REGISTER NOW Most Popular The ‘Father of the Internet' is finally retiring Tim Fernholz OpenClaw is finally available on Android and iOS Lucas Ropek Flipper Device's new Busy Bar is a customizable display for productivity Ivan Mehta Ford rehires ‘gray beard’ engineers after AI falls short Anthony Ha Govee's smart nugget ice maker makes every iced drink feel like a luxury Aisha Malik Asian AI startups launch Mythos-like models as Anthropic's export ban drags on Kate Park FTC gives Musk the OK to acquire SpaceX alumni startup Mesh Marina Temkin",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Microsoft has launched a new operating business called Microsoft Frontier Company, committing $2.5 billion and 6,000 experts to help enterprises successfully deploy its AI tools. This initiative aims to provide outcome-driven engineering support, distinguishing itself from traditional Forward Deployed Engineer models. The venture will leverage Microsoft's existing client relationships, including early partnerships with the London Stock Exchange Group, Unilever, Land O'Lakes, and Accenture.",
+      "enterpriseAngle": "Enterprise security and product development teams can expect more direct, specialized support for integrating Microsoft's AI tools into their operations, potentially accelerating AI adoption and improving implementation success rates. This move signals a growing trend among major tech companies to offer dedicated deployment services, which could streamline complex AI integrations for businesses.",
+      "beginner": "Microsoft is creating a new company with a lot of money and experts to help other businesses use its AI technologies more effectively.",
+      "advanced": "Evaluate the potential for Microsoft Frontier Company to streamline complex AI deployments and consider how its outcome-driven engineering approach might differentiate it from other FDE-based AI ventures in your enterprise AI strategy.",
+      "tags": [
+        "enterprise",
+        "product",
+        "funding",
+        "workforce"
+      ]
     },
     {
       "id": "0a28dbcbc283",
@@ -178,12 +198,17 @@
       "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
       "publishedAt": "2026-07-02T12:51:44.000Z",
       "fetchedAt": "2026-07-03T02:42:56.358Z",
-      "contentText": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are paramount, AI is becoming a core operating layer. With its sprawling industrial systems and constant stream of operational…",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "AI is being increasingly used in industrial settings, moving beyond consumer applications like chatbots and image generators. Its most significant applications are found in industries that prioritize physical infrastructure, continuous operation, and safety. In these sectors, AI is becoming a fundamental part of how systems operate.",
+      "enterpriseAngle": "Enterprise security and product development teams should focus on integrating AI into critical infrastructure management, prioritizing robust security protocols and reliability for operational continuity. This shift necessitates developing AI solutions that enhance safety and efficiency in industrial environments.",
+      "beginner": "AI is being used to help run big industrial machines and systems more safely and efficiently, not just for fun apps.",
+      "advanced": "Experienced practitioners should prioritize developing and implementing AI solutions that integrate seamlessly with existing industrial control systems, focusing on real-time data processing, predictive maintenance, and anomaly detection to enhance operational resilience and minimize downtime.",
+      "tags": [
+        "enterprise",
+        "infrastructure",
+        "product",
+        "security"
+      ]
     },
     {
       "id": "5c753db25898",
@@ -194,12 +219,17 @@
       "url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
       "publishedAt": "2026-07-02T12:00:00.000Z",
       "fetchedAt": "2026-07-03T22:31:35.499Z",
-      "contentText": "Ben Guez has \" a bunch of potential international wives in [his] DMs ,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trial reels. \"I think it's crazy, like the potential is insane right now,\" Guez , a content creator and startup founder, told TechCrunch. \"I'm not sure if everyone's gonna think it's good, but I mean, it's working.\" How is Guez wooing so many women? First, he uses the open source AI agent OpenClaw to track World Cup match results. After each game, OpenClaw triggers Claude to create and post a nearly identical Instagram \" trial reel \" with the same template. In the video, Guez stares out a train car window looking dejected, with the caption: \"I can't believe {COUNTRY} lost… If any {COUNTRY} girls need emotional support… my DMs are open.\" Image Credits: Ben Guez, LinkedIn (opens in a new window) Guez has made the same post, save for the country name, more than a dozen times. But you can't tell when you look at his profile, since trial reels don't show up on a creator's public page. Since he launched this automation, Guez has gotten over one million views and 200 DMs in a few days. That volume is even more impressive considering that Guez says in his profile that he will only answer DMs sent via Canary , his AI language learning app, which means that these women have to download his app. You have to hand it to him: Guez is really taking \"work smarter, not harder\" to another level. But once these women realize he doesn't actually care about Tunisian soccer, wouldn't they feel played? \"They're not feeling angry, they're more impressed, like, ‘Oh, you're thinking outside of the box, you're a genius,'\" Guez said. \"I think as long as you're open [about] what you're doing, I think it's fine.\" TechCrunch was not able to independently verify the actual reactions of these women, so we'll just have to take Guez's word for it. But we can tell you that Guez isn't the only guy getting creative with the viral AI assistant . While Guez's methods are a bit more outrageous, other people see OpenClaw as a way to streamline the process of setting up dates. Jeff Weisbein , founder of a tech PR firm, uses OpenClaw to help him figure out where to take dates across different neighborhoods in South Florida. \"I'm meeting women who are in various parts of South Florida, so I don't know all of the restaurants or things to do,\" Weisbein told TechCrunch. \"I have my bot just kind of do all the research and make a document with links to why it's a choice for whatever type of date it is.\" When I fill him in on Guez's OpenClaw scheme, he bursts out laughing. \"I guess I'm not leveraging OpenClaw to the fullest,\" he said. \"But definitely in the realm of using OpenClaw to facilitate a task that I would manually have to do otherwise.\" Like Guez, Weisbein doesn't hide the fact that he's using AI tools to help plan dates (it backfired, though, when one woman told him, \"I hate AI agents\"). In a way, asking OpenClaw where to go for happy hour in Fort Lauderdale isn't that different from Googling the coolest neighborhood bars, but Weisbein says he would draw the line at using AI to mediate his actual conversations with women. \"I have seen people create bots and ways to swipe using OpenClaw, and I wouldn't do that. They say it's a numbers game, but if that's what it takes… that seems like a pretty terrible way to do it,\" he said. \"I feel like you shouldn't delegate your communication when you're in a relationship with someone to AI.\" People seem hesitant to let AI meddle once there's an actual connection, but a tech worker named Cailey said that once she's decided to end a flirtation, she doesn't mind using Claude to break things off. \"I started using Claude and created an automation that crafts ‘I no longer wish to see you' messages based on a few key terms I would enter about the date. It'd then automatically send them for me at random times so that I wouldn't feel the anxiety of when to send,\" she told TechCrunch. \"It worked really well, until I mentioned it to someone I was on a date with, who I then had to send an automated message to, and he asked if he was talking to Claude or Cailey.\" What's worse: getting ghosted, or getting broken up with by an AI? Wish you could have a team of experts at your beck and call? NanoClaw is the first personal AI assistant to support agent swarms. We've got you covered – no matter the need. pic.twitter.com/X5vcf4Cmve — NanoClaw (@NanoClaw_AI) March 6, 2026 OpenClaw rocked the tech world with its potential when it went viral this spring, but security advocates have continuously warned users about the dangers of giving an AI assistant unilateral control over all of your accounts. For Lazer Cohen, the co-founder of the security-focused OpenClaw alternative NanoClaw , there are steep privacy implications of outsourcing personal relationships to AI, even if his company advertises date planning as a potential use case on X. \"Whenever you're giving an agent access to personal information and accounts, you need human-in-the-loop approval,\" Cohen told TechCrunch. \"We've all heard the stories of OpenClaw creating dating profiles for people without their knowledge or consent, or OpenClaw dating coaches spilling to other groups that they're being used as a dating coach too.\" NanoClaw has found its way into Cohen's love life, though he uses it in a way that's a bit more wholesome than mass-producing reels that ask heartbroken soccer fans to slide into his DMs. \"My wife and I personally use our NanoClaw assistant, Rosie, to manage the schedules of our five children,\" he said. \"But ‘claws' are widely used to help couples get to the child-rearing phase.\" Topics AI , openclaw When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Amanda Silberling Senior Writer Amanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture. She has also written for publications like Polygon, MTV, the Kenyon Review, NPR, and Business Insider. She is the co-host of Wow If True, a podcast about internet culture, with science fiction author Isabel J. Kim. Prior to joining TechCrunch, she worked as a grassroots organizer, museum educator, and film festival coordinator. She holds a B.A. in English from the University of Pennsylvania and served as a Princeton in Asia Fellow in Laos. You can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal. View Bio November 4 Boston Last chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world scaling insights and connections that move the needle. Savings end June 26, 11:59 p.m. PT . REGISTER NOW Most Popular After $18B IPO, Bending Spoons founder says success comes from minimizing luck Anna Heim The ‘Father of the Internet' is finally retiring Tim Fernholz OpenClaw is finally available o",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Individuals are using AI agents like OpenClaw and Claude to automate aspects of their dating lives, from generating social media content to planning dates and even sending breakup messages. While some use these tools for efficiency, others employ them in more unconventional ways, such as mass-producing Instagram reels to attract DMs. This trend highlights both the creative potential and the ethical considerations of integrating AI into personal interactions.",
+      "enterpriseAngle": "Enterprise security and product development teams must consider the privacy implications of AI agents having access to personal accounts and data, especially as these tools become more integrated into daily life. The rise of AI agents for personal tasks also presents opportunities for developing secure, human-in-the-loop AI solutions that prioritize user consent and data protection.",
+      "beginner": "AI agents are computer programs that can perform tasks for you, and people are now using them to help with dating, like making social media posts or finding places to go on dates.",
+      "advanced": "Implement robust human-in-the-loop approval mechanisms for AI agents accessing personal data and accounts to mitigate privacy risks and prevent unauthorized actions, especially in applications involving sensitive personal interactions.",
+      "tags": [
+        "agents",
+        "security",
+        "consumer",
+        "product"
+      ]
     },
     {
       "id": "2e9ee33b7831",
@@ -210,12 +240,17 @@
       "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
       "publishedAt": "2026-07-02T05:30:00.000Z",
       "fetchedAt": "2026-07-03T22:31:35.499Z",
-      "contentText": "Indian serial entrepreneur Bhavin Turakhia is making a $30 million personal bet that there is still room for another enterprise AI company. His new venture, Neo , is built on a simple premise: Workplace software designed before the AI era cannot simply be upgraded with chatbots — it has to be redesigned from the ground up. Turakhia, 46, is no stranger to ambitious enterprise technology bets. Over the past two decades, he has co-founded companies including Directi, Radix, Titan, and banking software firm Zeta, largely backing them with his own cash before bringing in outside investors. He's doing the same with Neo. Turakhia told TechCrunch he is bootstrapping this much money because he believes AI marks a technology shift significant enough to justify rebuilding workplace software from scratch. \"If you want to build an iPhone, you can't take the parts of a Nokia and somehow convert it into an iPhone,\" he said. Launched internally in April this year, Neo is an enterprise work platform that combines project management, documents, file storage, and AI into a single product. The goal, Turakhia said, is to make AI an active participant in day-to-day work rather than just another assistant employees turn to separately. Turakhia argued most incumbents face a structural disadvantage when adding AI to products designed before generative AI. Neo, he said, was designed from the ground up for AI and is model-agnostic, allowing enterprises to switch between AI models rather than being tied to a single provider. He's not alone in thinking this way. Investor Chamath Palihapitiya initially launched enterprise AI coding venture 8090 with his own capital before raising a $135 million funding round this week. Still, Turakhia's bet comes as enterprise AI has emerged as one of the most competitive areas in technology. Microsoft, Google, and Salesforce are embedding AI across their workplace software. Meanwhile every startup, from the giant labs like Anthropic and OpenAI, to the productivity companies like Notion and Superhuman, are racing to reshape how businesses use AI in their daily workflow. Turakhia argued enterprise software has never been a winner-takes-all market, saying even a small share of global enterprise AI spending would represent a sizeable company. \"Even if we end up with 2% to 5% market share, that's larger than anything I've built so far,\" he said. For the past few months, Neo has been in internal use across Turakhia's companies, including Zeta. The company plans to begin rolling out the software to mid-sized businesses in the coming months, initially targeting knowledge workers across technology, consulting, and professional services firms. Turakhia said Neo's initial platform was built in three months, with AI extensively used in the development process, work he estimates would have taken more than a year with a much larger engineering team before generative AI. The Bengaluru-based startup currently employs about 45 people, including 18 engineers. Turakhia told TechCrunch that it expects to grow to around 100 employees by the end of the year, with most new hires focused on AI and software engineering. Topics AI , Bhavin Turakhia , Enterprise , India , microsoft office , neo , Startups When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Jagmeet Singh Reporter Jagmeet covers startups, tech policy-related updates, and all other major tech-centric developments from India for TechCrunch. He previously worked as a principal correspondent at NDTV. You can contact or verify outreach from Jagmeet by emailing mail@journalistjagmeet.com . View Bio November 4 Boston Last chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world scaling insights and connections that move the needle. Savings end June 26, 11:59 p.m. PT . REGISTER NOW Most Popular After $18B IPO, Bending Spoons founder says success comes from minimizing luck Anna Heim The ‘Father of the Internet' is finally retiring Tim Fernholz OpenClaw is finally available on Android and iOS Lucas Ropek Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role Julie Bort Flipper Device's new Busy Bar is a customizable display for productivity Ivan Mehta Ford rehires ‘gray beard’ engineers after AI falls short Anthony Ha Govee's smart nugget ice maker makes every iced drink feel like a luxury Aisha Malik",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Indian entrepreneur Bhavin Turakhia has invested $30 million of his own money into Neo, a new enterprise AI platform designed to be an alternative to Microsoft Office. Neo integrates project management, documents, file storage, and AI from the ground up, aiming to make AI an active participant in daily work. Turakhia believes existing workplace software cannot simply be upgraded with AI and requires a complete redesign.",
+      "enterpriseAngle": "Enterprise security and product development teams should consider the implications of AI-native platforms that are model-agnostic, offering flexibility in AI model selection but also requiring robust strategies for managing data privacy and security across different AI providers. The shift towards purpose-built AI solutions suggests a need to evaluate whether current systems can truly integrate AI effectively or if a ground-up redesign is more beneficial for future-proofing.",
+      "beginner": "New AI tools are being built from scratch to fully use AI's power, rather than just adding AI features to old software.",
+      "advanced": "Evaluate the long-term viability and security implications of integrating AI into legacy enterprise systems versus adopting AI-native platforms that offer model agnosticism and a unified workflow.",
+      "tags": [
+        "enterprise",
+        "product",
+        "funding",
+        "security"
+      ]
     },
     {
       "id": "50819ea9c0ae",
@@ -226,12 +261,17 @@
       "url": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
       "publishedAt": "2026-07-02",
       "fetchedAt": "2026-07-03T02:42:36.772Z",
-      "contentText": "Announcements More details on Fable 5’s cyber safeguards and our jailbreak framework Jul 2, 2026 Claude Fable 5 has been re-deployed and is now available globally for all users. We’re taking this opportunity to share further information in two areas. First, we provide more information on the cybersecurity safeguards —specifically, the safety classifiers —that we launched with the model. These are the AI systems that accompany the model that detect and block dangerous (or potentially dangerous) cybersecurity uses. Here, we provide a detailed list of the types of harms Fable 5’s classifiers are, and are not, designed to prevent. Second, we lay out an early draft version of our proposed AI jailbreak severity framework , on which we’ve been working with our Glasswing partners. AI jailbreaks are unusual ways of prompting an AI model to bypass its safeguards, thus unblocking the behaviors (like dangerous or potentially dangerous cybersecurity tasks) we seek to prevent. Jailbreaks vary in severity: sometimes they only unblock minor undesirable behaviors, and sometimes they unblock a wide range of harmful outputs, making a model much more dangerous. Yet there is no agreed-upon framework for describing a given jailbreak’s severity. Such a framework would allow AI developers to speak to governments (and vice versa) in consistent terms about the risks posed by each jailbreak. What we’re sharing today reflects our current thinking. Our hope is to spark a helpful discussion across academia, industry, civil society, and government about how and where these lines should be drawn. We welcome feedback and critique on this framework at cyber-safeguards@anthropic.com . We’ve also launched a HackerOne program where security researchers can submit potential cyber jailbreaks they discover in Fable 5 for our review. We believe that by working together, we can establish a standard that enables the defensive uses of this technology while preventing its misuse. Fable 5’s cyber safeguards Areas such as cybersecurity are particularly challenging for AI safeguards because they are often dual use . That is, many cybersecurity capabilities can be used for benign or harmful purposes. For example, we want to allow cyber defenders to use our models to scan their codebases to find software vulnerabilities—but this same capability could, in the wrong hands, be the precursor to a cyberattack. For that reason, we do not intend to block all cybersecurity-related activities for Fable 5. Instead, we train our safety classifiers to discern between four categories of cybersecurity use, from the most clearly potentially dangerous to the most clearly potentially benign. These are summarized in the table below: Category Description Intended classifier behavior Prohibited use Activities that could be used to cause significant harm and/or harm in a significant majority of uses, with little-to-no defensive utility Block High-risk dual use Activities that are used widely by malicious actors, but also have beneficial applications Block Low-risk dual use Activities that are mostly used for defensive benefit that can also provide value to malicious actors Monitor; sometimes block as part of the safety margin to prevent meaningful jailbreaks Benign use Activities that do not cause harm Allow, with some monitoring Note that the low-risk dual use category overlaps considerably with what falls into the “safety margin” we described in our post on redeploying Fable (we reproduce one of the diagrams from that post below). The safety margin includes many benign uses which we would prefer to allow, but which we block out of an abundance of caution. The safety margin means that a request has to look very clearly safe to avoid triggering the classifier. We can adjust the size of the safety margin to have greater confidence that the classifiers will catch harmful behaviors (for Fable 5, we made this margin larger than for previous models). An illustration of how classifier boundaries can be set to change the size of the “safety margin”, which includes some benign and some low-risk dual use requests. Requests that fall into the safety margin are blocked out of an abundance of caution, which means a higher rate of false-positives (genuinely benign prompts being blocked) but also greater reassurance about the prevention of harmful outcomes. The safety margin for Claude Fable 5 (row B) was set to be larger than that for other models (row A). Graphic reproduced from our previous post . “Vulns” = vulnerabilities. Classifiers are one piece in a broader set of safeguards. In addition to classifiers, we use access controls, model safety training, and offline monitoring to add additional safety layers. Below, we provide detailed, specific examples of the kinds of uses that are included in each of the four classifier categories (as well as some uses that overlap with cybersecurity but which are out of the scope of these specific classifiers). These examples describe the current intended behavior of our classifiers, but note that the classifiers might change over time in response to feedback or lessons we learn from their behavior in the real world. Prohibited use All security capabilities are dual use—that is, they can under certain circumstances be helpful to both attackers and defenders. The prohibited use actions listed here either have relatively little direct defensive benefit, are overtly criminal, or contribute to a very high degree of harm. What ties them together is the asymmetry in what they offer to attackers (far more) versus what they offer to defenders (much less). Since the risk associated with these capabilities is high, Fable 5’s classifiers are intended to block all of these requests. Prohibited use actions include: Destructive impact: ransomware/encryption-for-extortion, wipers, defacement, data or process integrity sabotage, and denial of service; Cyber-physical sabotage: manipulating physical processes (power, water, oil/gas, transportation, medical devices) via digital means; Defense evasion: AV/EDR bypass, obfuscation, packing, living-off-the-land, anti-forensics, and log tampering; Command-and-control and covert channels; Exfiltration of stolen data from the data owner’s devices to devices outside that owner’s control (going directly to the attacker’s devices or through well known third parties such as cloud providers or known services); Malware development, improvement, modification, or debugging. Includes Trojans, RATs, backdoors, worms, stealers, loaders, droppers, rootkits, bootkits, ransomware, wipers, spyware, stalkerware, and hardware-level implants; Malware delivery and propagation, including phishing to deliver malware, smishing, malicious documents or macros, drive-by-downloads, supply-chain compromise, and self-spreading mechanisms; Malware or offensive infrastructure, including C2 servers, redirectors, staging, and bulletproof hosting; Internet backbone attacks such as BGP hijacking/route leaks, DNS root/TL",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": [],
+      "contentText": null,
+      "summary": "Anthropic has redeployed Fable 5 globally, providing more details on its cybersecurity safeguards and an early draft of its AI jailbreak severity framework. The model uses AI systems called safety classifiers to detect and block dangerous cybersecurity uses, categorizing them into prohibited, high-risk dual use, low-risk dual use, and benign use. Anthropic is also seeking feedback on its jailbreak framework and has launched a HackerOne program for security researchers.",
+      "enterpriseAngle": "Enterprise security teams can leverage Fable 5 for defensive purposes like scanning codebases for vulnerabilities, while product development teams should be aware of the dual-use nature of AI capabilities and the importance of robust safeguards to prevent misuse. The proposed jailbreak severity framework could help enterprises and governments standardize communication about AI risks.",
+      "beginner": "AI models like Fable 5 have built-in safety features to prevent them from being used for harmful cybersecurity activities, but these features are still being refined.",
+      "advanced": "Review Anthropic's proposed AI jailbreak severity framework and consider participating in their HackerOne program to contribute to establishing industry standards for AI security and responsible dual-use capability management.",
+      "tags": [
+        "security",
+        "enterprise",
+        "model-release",
+        "governance"
+      ],
       "dateChecked": true
     },
     {
@@ -243,12 +283,17 @@
       "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
       "publishedAt": "2026-07-01T18:54:18.000Z",
       "fetchedAt": "2026-07-03T22:31:35.499Z",
-      "contentText": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "SpaceX reportedly showed investors a prototype of a slim, handset-like AI device, though Elon Musk has denied these reports. This device, if it materializes, could run on a proprietary OS and integrate xAI technology, similar to an AI device OpenAI is developing. The market for such AI devices is currently unproven, with previous attempts by other companies facing challenges.",
+      "enterpriseAngle": "Enterprise product development teams should observe the evolving landscape of dedicated AI devices, considering the potential for new form factors and proprietary operating systems to bypass existing platform dependencies. Security teams will need to assess the unique risks and data handling implications of these new AI-native devices if they gain traction.",
+      "beginner": "Companies like SpaceX and OpenAI are exploring new types of handheld devices that are built specifically for artificial intelligence, rather than general computing.",
+      "advanced": "Evaluate the strategic implications of proprietary AI device operating systems for platform lock-in and data sovereignty, and consider potential integration points for enterprise-specific AI agents.",
+      "tags": [
+        "product",
+        "enterprise",
+        "security",
+        "agents"
+      ]
     },
     {
       "id": "77f51e3bf538",
@@ -259,12 +304,16 @@
       "url": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
       "publishedAt": "2026-07-01T18:47:22.000Z",
       "fetchedAt": "2026-07-03T22:31:35.499Z",
-      "contentText": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructure and energy that power them.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Ashton Kutcher is departing Sound Ventures to co-found a new venture capital firm with Morgan Beller. While Sound Ventures focused on leading AI labs, Kutcher's new firm will target the underlying infrastructure and energy supporting these AI companies.",
+      "enterpriseAngle": "Enterprise infrastructure and energy providers should note the increasing investor interest in foundational AI components, signaling potential growth and partnership opportunities. Product development teams should consider how their offerings align with the evolving needs of AI infrastructure.",
+      "beginner": "A new investment firm is being created to fund the essential technology and power that makes AI work.",
+      "advanced": "Evaluate your current infrastructure investments and energy consumption strategies to ensure alignment with emerging AI foundational layer trends and potential future funding opportunities.",
+      "tags": [
+        "funding",
+        "infrastructure",
+        "enterprise"
+      ]
     },
     {
       "id": "abd37bf2f2f7",
@@ -275,12 +324,17 @@
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
       "publishedAt": "2026-07-01T18:15:00.000Z",
       "fetchedAt": "2026-07-03T22:31:32.938Z",
-      "contentText": "Here are Google’s latest AI updates from June 2026.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Google announced several AI updates in June 2026, including Gemini 3.5 Live Translate for real-time speech translation and new features in Android 17. They also released Gemma 4 12B, an open model that runs locally on laptops, and introduced updates to Gemini 3.5 Flash for building custom agents. Additionally, new tools like Nano Banana 2 Lite and Gemini Omni Flash were launched for developers, alongside enhancements to Google Finance and NotebookLM.",
+      "enterpriseAngle": "Enterprises can leverage Gemini 3.5 Flash for improved long-horizon and enterprise automation tasks, such as continuous software testing, and utilize Gemini Omni Flash APIs for building custom, dynamic video workflows. The local execution of Gemma 4 12B offers advanced reasoning and private workflows on everyday hardware, benefiting security-conscious product development teams.",
+      "beginner": "Google is making everyday devices and apps smarter with new AI features like better translation and AI assistants that understand you more naturally.",
+      "advanced": "Integrate Gemini 3.5 Flash for enhanced enterprise automation and explore Gemini Omni Flash APIs for multimodal video workflows, while considering Gemma 4 12B for local, private AI processing in your applications.",
+      "tags": [
+        "model-release",
+        "product",
+        "enterprise",
+        "agents"
+      ]
     },
     {
       "id": "896bc20de261",
@@ -291,12 +345,17 @@
       "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
       "publishedAt": "2026-07-01T17:48:37.000Z",
       "fetchedAt": "2026-07-03T22:40:18.824Z",
-      "contentText": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Cloudflare is implementing a new policy by September 15, 2026, to differentiate web crawlers used for traditional search from those used for AI agents and training. By default, \"mixed-use\" crawlers will be blocked from ad-hosting pages for new and free Cloudflare customers, aiming to give publishers more control over their content and intellectual property. This move encourages AI companies to pay for content use, with initial partnerships including Ceramic.ai and You.com.",
+      "enterpriseAngle": "Enterprise security and product development teams in AI companies must adapt their crawling strategies to comply with Cloudflare's new policy, potentially requiring separate crawlers for search and AI training to avoid content access issues. This shift also presents opportunities for enterprises to monetize their content through new \"Pay Per Use\" models, impacting data acquisition costs and content licensing strategies.",
+      "beginner": "Cloudflare is making it harder for AI programs to use website content for free, helping websites get paid for their information.",
+      "advanced": "Implement distinct crawling agents for search indexing and AI model training/agentic services to ensure compliance with Cloudflare's new default blocking policy and explore integration with 'Pay Per Use' models to monetize proprietary content.",
+      "tags": [
+        "policy",
+        "security",
+        "enterprise",
+        "product"
+      ]
     },
     {
       "id": "77de1806e9d7",
@@ -307,12 +366,17 @@
       "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
       "publishedAt": "2026-07-01T16:00:00.000Z",
       "fetchedAt": "2026-07-03T22:31:32.938Z",
-      "contentText": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Google, the New York Jobs CEO Council, and Urban Assembly hosted an AI summit for 150 education and industry leaders in New York City. The event focused on integrating AI into classrooms to prepare students for future careers, emphasizing problem-solving and essential human skills. Attendees explored tools like Google AI mode and NotebookLM, while stressing the importance of privacy and equitable access.",
+      "enterpriseAngle": "Enterprises should collaborate directly with educational institutions to shape AI curricula, ensuring future workforces possess both technical AI literacy and critical human skills like adaptability and collaboration. Prioritizing privacy and equitable access in AI tool development for education is crucial for responsible adoption.",
+      "beginner": "AI tools can help students learn problem-solving, but human skills like teamwork and critical thinking remain very important.",
+      "advanced": "Actively engage with educational bodies to co-develop AI literacy programs and integrate ethical AI considerations, focusing on practical problem-solving applications and the cultivation of essential soft skills.",
+      "tags": [
+        "workforce",
+        "partnership",
+        "learning",
+        "governance"
+      ]
     },
     {
       "id": "4ec722e1cf62",
@@ -323,12 +387,17 @@
       "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
       "publishedAt": "2026-07-01T14:35:16.000Z",
       "fetchedAt": "2026-07-03T22:31:35.780Z",
-      "contentText": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and you’ll get 8 or 9. That won’t work every time—but if it…",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Large language models (LLMs) often exhibit a \"groupthink\" phenomenon, where they tend to produce similar, predictable outputs, such as consistently generating the number 7 when asked for a random number between 1 and 10. This behavior suggests a lack of true randomness or diverse reasoning in their responses. A new startup is reportedly working on methods to address this issue and encourage more varied outputs from these AI models.",
+      "enterpriseAngle": "Enterprise product development teams should be aware of LLM groupthink, as it can impact the diversity and originality of AI-generated content, potentially leading to predictable or biased outcomes in applications like content creation, customer service, or data analysis. Security teams should consider how predictable AI responses might be exploited or indicate underlying vulnerabilities in model training or data. ",
+      "beginner": "AI models can sometimes give very similar answers to the same questions, showing they might not be as creative or random as we think.",
+      "advanced": "To mitigate LLM groupthink, explore advanced sampling techniques beyond greedy decoding and consider fine-tuning models on diverse, adversarial datasets to encourage broader response distributions and reduce predictable outputs.",
+      "tags": [
+        "research",
+        "product",
+        "learning",
+        "security"
+      ]
     },
     {
       "id": "2918486d2966",
@@ -339,12 +408,17 @@
       "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
       "publishedAt": "2026-07-01T14:25:23.000Z",
       "fetchedAt": "2026-07-03T22:40:18.824Z",
-      "contentText": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Venice AI, a platform offering private access to over 200 AI models, has secured $65 million in Series A funding, valuing the company at $1 billion. The company emphasizes user privacy by encrypting input client-side and not storing user data, and it hosts \"uncensored\" open-source models while routing queries to others. Venice AI serves over 3 million active users and has annualized revenues exceeding $70 million.",
+      "enterpriseAngle": "Enterprise security and product development teams should note Venice AI's success in meeting demand for privacy-preserving AI access, highlighting a critical market need for secure and uncensored AI tools that maintain user agency. This approach could influence future product design and security protocols for AI integration within organizations.",
+      "beginner": "Venice AI is a company that lets people use many different AI tools privately, without their personal information being stored or watched.",
+      "advanced": "Evaluate Venice AI's client-side encryption and external proxy routing architecture as a potential model for implementing privacy-by-design in enterprise AI applications, particularly for sensitive data processing.",
+      "tags": [
+        "funding",
+        "security",
+        "enterprise",
+        "product"
+      ]
     },
     {
       "id": "8e34f2832b03",
@@ -355,12 +429,17 @@
       "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
       "publishedAt": "2026-07-01T14:20:19.000Z",
       "fetchedAt": "2026-07-03T22:40:18.824Z",
-      "contentText": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Google has launched Gemini Spark, an AI agent, for macOS, making it available to Google AI Ultra subscribers in the U.S. This expansion allows Spark to interact with local files and integrate with various third-party applications like Canva, Dropbox, and Instacart. The update also introduces real-time topic tracking and custom Model Context Protocol (MCP) support for personalized app connections.",
+      "enterpriseAngle": "Enterprise security teams should evaluate the implications of AI agents accessing local files and third-party applications, while product development teams can leverage custom MCP to build tailored AI assistants for internal workflows.",
+      "beginner": "AI agents like Gemini Spark can help you organize files, track information, and connect with other apps to automate tasks on your computer.",
+      "advanced": "Implement robust data governance and access controls for AI agents interacting with sensitive local and cloud data, and explore custom MCP for integrating proprietary enterprise applications.",
+      "tags": [
+        "agents",
+        "product",
+        "enterprise",
+        "security"
+      ]
     },
     {
       "id": "d38d05a0fce3",
@@ -371,12 +450,17 @@
       "url": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
       "publishedAt": "2026-07-01T14:00:00.000Z",
       "fetchedAt": "2026-07-03T22:40:18.824Z",
-      "contentText": "The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together 10,000+ founders, startup operators, and investors for practical conversations. and Q&A on what it takes to build and scale successful companies. Register now to save up to $330.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "The Builders Stage at TechCrunch Disrupt 2026 will offer practical discussions and Q&A sessions for founders, startup operators, and investors. The event aims to provide insights into building and scaling successful companies. Attendees can register to save up to $330.",
+      "enterpriseAngle": "Enterprise product development teams can gain insights into startup scaling strategies, potentially informing their own growth and market penetration approaches. Security teams might find value in understanding the operational challenges faced by rapidly scaling companies, which could influence their security architecture and incident response planning.",
+      "beginner": "TechCrunch Disrupt is an event where people learn how to grow new companies.",
+      "advanced": "Prioritize attending sessions on operational efficiency and security best practices for rapid scaling to proactively address future enterprise challenges.",
+      "tags": [
+        "enterprise",
+        "product",
+        "workforce",
+        "digest"
+      ]
     },
     {
       "id": "4ccea67daf74",
@@ -387,12 +471,16 @@
       "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
       "publishedAt": "2026-07-01T13:43:07.000Z",
       "fetchedAt": "2026-07-03T22:40:18.824Z",
-      "contentText": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Cloud, and Microsoft Azure.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Meta is reportedly planning to launch a cloud infrastructure business, offering access to its AI compute power and models. This initiative would position Meta as a competitor to established cloud providers such as Amazon Web Services, Google Cloud, and Microsoft Azure.",
+      "enterpriseAngle": "Enterprise product development teams could gain new options for accessing AI compute and models, potentially diversifying their infrastructure choices and fostering competitive pricing among cloud providers.",
+      "beginner": "Meta wants to sell its extra AI computer power and AI programs to other companies, similar to how big tech companies already offer these services.",
+      "advanced": "Evaluate Meta's forthcoming cloud offerings for cost-effectiveness and performance against incumbent providers to optimize AI infrastructure spend and model deployment strategies.",
+      "tags": [
+        "enterprise",
+        "infrastructure",
+        "product"
+      ]
     },
     {
       "id": "b409cf1243a9",
@@ -403,12 +491,17 @@
       "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
       "publishedAt": "2026-07-01T03:15:37.000Z",
       "fetchedAt": "2026-07-03T22:40:18.824Z",
-      "contentText": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Vinton Cerf, widely recognized as a \"Father of the Internet\" for his work on TCP/IP protocols, is retiring from his role as Google's chief internet evangelist after more than 20 years. Cerf predicts that the rise of AI agents will necessitate new, formal interoperability standards, moving away from natural language for precise inter-agent communication. He emphasized that companies defining these standards early could gain significant influence over the future \"agentic economy.\"",
+      "enterpriseAngle": "Enterprise product development teams should anticipate the need for formal, standardized protocols for AI agent interoperability, as Cerf suggests this will be crucial for composability and precision in multi-agent systems. Security teams should also consider the implications of these new standards on data exchange and trust between autonomous agents.",
+      "beginner": "The person who helped create the fundamental rules for how computers talk to each other on the internet believes that future AI programs will also need clear, formal rules to communicate effectively and avoid misunderstandings.",
+      "advanced": "Given Cerf's prediction regarding the necessity of formal interoperability standards for AI agents, experienced practitioners should actively engage in or monitor the development of these emerging protocols to strategically position their enterprise's AI infrastructure and product offerings.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "policy",
+        "product"
+      ]
     },
     {
       "id": "8824530ad2d0",
@@ -419,12 +512,17 @@
       "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
       "publishedAt": "2026-07-01T02:16:06.000Z",
       "fetchedAt": "2026-07-04T04:29:12.175Z",
-      "contentText": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "The U.S. government has lifted export restrictions on Anthropic's advanced AI models, Mythos and Fable, which were previously unavailable to the public due to licensing requirements. This decision follows weeks of negotiations and pressure to allow American AI companies to compete globally, especially as Asian firms release comparable models. Anthropic has agreed to proactively address security risks and collaborate with the U.S. government on future model releases and protocols.",
+      "enterpriseAngle": "Enterprise security teams should note Anthropic's commitment to proactive security risk detection and collaboration with the U.S. government on protocols, which could set precedents for future AI model governance and impact how enterprises deploy and secure advanced AI. Product development teams can now anticipate broader access to these advanced models, potentially accelerating innovation but also requiring careful consideration of evolving compliance and security standards.",
+      "beginner": "The government is now allowing a company called Anthropic to share its powerful AI models, Mythos and Fable, with more people and countries, after previously restricting them.",
+      "advanced": "Leverage the renewed public access to Anthropic's Mythos and Fable models for competitive analysis and integration planning, while closely monitoring the evolving U.S. government protocols and standards for AI model releases to ensure compliance and mitigate security risks.",
+      "tags": [
+        "model-release",
+        "security",
+        "enterprise",
+        "policy"
+      ]
     },
     {
       "id": "bfbfc8aa769d",
@@ -435,12 +533,17 @@
       "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
       "publishedAt": "2026-07-01T02:04:40.000Z",
       "fetchedAt": "2026-07-04T04:29:12.175Z",
-      "contentText": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Wayve, a UK-based self-driving technology startup, has launched an $85 million tender offer, allowing employees to sell vested equity at an $8.5 billion valuation. This marks their second employee liquidity event and follows a $1.2 billion Series D funding round in February. The company is developing self-learning autonomous driving software and plans robotaxi pilots with Uber and integration into Nissan's driver-assist systems.",
+      "enterpriseAngle": "This trend of AI startups offering employee tender offers provides a critical retention mechanism for enterprise AI talent, ensuring skilled personnel remain with companies developing advanced AI solutions rather than seeking immediate exits. For product development, Wayve's self-learning approach to autonomous driving, which learns from data rather than relying on pre-built maps, could influence future AI system designs that prioritize adaptability and real-world learning.",
+      "beginner": "Wayve is a company that teaches cars to drive themselves using AI, and they are letting their employees sell some of their company shares, which is a way to keep good people working there.",
+      "advanced": "Evaluate the strategic implications of early employee liquidity events via tender offers in high-growth AI sectors, considering their impact on long-term talent retention and the competitive landscape for AI product development.",
+      "tags": [
+        "funding",
+        "enterprise",
+        "product",
+        "workforce"
+      ]
     },
     {
       "id": "bf56d5c95a04",
@@ -451,12 +554,17 @@
       "url": "https://x.ai/news/grok-voice-agent-builder",
       "publishedAt": "2026-07-01",
       "fetchedAt": "2026-07-03T02:42:54.903Z",
-      "contentText": "Introducing the Voice Agent Builder | xAI Products Solutions Developer Company Pricing News Contact Sales Try for free Products Grok Business Government Download iOS Android Grok on X Developers API Console Documentation CLI Try for free Back to news Jul 1, 2026 Introducing the Voice Agent Builder Create a personalized voice agent in under 2 minutes without a single line of code. Try It Free Explore Voice Agents Today, we’re announcing Voice Agent Builder in beta: a no-code platform to configure production voice agents on Grok Voice . It’s for operators and developers who want high-volume production voice agents without building the surrounding stack from scratch. Out of the box you get telephony, knowledge retrieval, tools, guardrails, MCPs, and observability in one place. You can also keep what you already have: bring existing phone numbers over SIP, wire tools to your APIs and MCP servers, or connect your own client over WebSocket. Most voice stacks stitch together three APIs—speech-to-text, a language model, and text-to-speech—often with each stage hosted by a different provider. Every hop adds cost, latency, and new failure modes. Voice Agent Builder is one interface on a speech-to-speech path built for Grok Voice, tightly coupled to the model rather than assembled from three. Your browser does not support the video tag. Trained on the hardest calls we could find Real calls come with low-quality telephony audio, background noise, strong accents, interruptions, and callers who change their minds mid-sentence. The workflows behind them are ambiguous, run across dozens of tools, and happen in any of 25+ languages. We trained Grok Voice on those calls. τ -voice Bench measures agents under the same conditions. τ -voice Bench Leaderboard Grok Voice Think Fast 1.0 :host{display:inline-block;direction:ltr;white-space:nowrap;line-height:var(--number-flow-char-height, 1em) !important}span{display:inline-block}:host([data-will-change]) span{will-change:transform}.number,.digit{padding:calc(var(--number-flow-mask-height, 0.25em) / 2) 0}.symbol{white-space:pre} 6 7 . 3 67.3 % Gemini 3.1 Flash Live :host{display:inline-block;direction:ltr;white-space:nowrap;line-height:var(--number-flow-char-height, 1em) !important}span{display:inline-block}:host([data-will-change]) span{will-change:transform}.number,.digit{padding:calc(var(--number-flow-mask-height, 0.25em) / 2) 0}.symbol{white-space:pre} 4 3 . 8 43.8 % GPT Realtime 1.5 :host{display:inline-block;direction:ltr;white-space:nowrap;line-height:var(--number-flow-char-height, 1em) !important}span{display:inline-block}:host([data-will-change]) span{will-change:transform}.number,.digit{padding:calc(var(--number-flow-mask-height, 0.25em) / 2) 0}.symbol{white-space:pre} 3 5 . 3 35.3 % Overall Retail Airline Telecom Two minutes to an agent Setup is simple: write a plain-language description of how calls should flow, then attach your documents, tools, and guardrails. You can go from zero to a working agent in about two minutes. Teach it your business An agent starts with a prompt that describes how calls should go. The model reasons in real time, so it can follow long instructions and work through ambiguous requests. What it knows comes from the knowledge base . You upload documents in common formats (plain text, Markdown, Word, PowerPoint, Excel, HTML, JSON, and others), and the agent retrieves from them during calls. Documents are organized into collections , which you can attach to one or more agents and share across agents so policies, product specs, and runbooks stay in one place instead of being pasted into every prompt. Take action Knowing the business is only half of a support or sales call. Agents also need to act . They look things up, change records, hand off, or close the loop after the conversation. Tools and connectors are how that happens. On a booking line, the agent might schedule appointments in Google Calendar or Outlook Calendar, then send a confirmation through your email provider. On support, an API request can check order status or issue a refund in your own systems. When the answer isn&#x27;t only in your documents, web search or X search can pull current public information. Tickets can be managed in Linear or Notion, and files come from Google Drive or OneDrive. If the caller needs a human, the agent can transfer the call to your team. When the task is complete, it can end the call cleanly. Throughout the conversation, it sends real-time notifications so your team can see what the agent did and step in if needed. search_help_center transfer_to_human Give it a voice and a number Agents can use any of the 80+ built-in voices, or a clone of your brand&#x27;s voice made from about two minutes of audio. Each account includes a free phone number, ready for anything from a first test call to production traffic, and direct SIP connects an existing number from any major telephony provider. You can also test changes in the browser without a phone. Review the calls Every call is recorded and transcribed. You can play back the audio, read the transcript, and see which tools the agent used. Guardrails set limits on what the agent shouldn&#x27;t do, like reading back card numbers or discussing topics off script. What it costs We believe that pricing should be simple and transparent. Agents are billed at our API rate (currently $0.05 / min of audio ), with voices included and no separate platform fee. Telephony on a free provisioned number is an additional $0.01 / min . Other voice stacks commonly bill for each individual component (recognition, reasoning, synthesis, and platform), each with its own meter and pricing. We wanted a small number of meters you can multiply by call volume and be done. Try it A voice agent is easier to judge by ear than by benchmark. Build one, give it your hardest workflow, and call it. Try It Free Explore Voice Agents A division of © 2026 xAI Corp. Built with Grok Products Chat Build Imagine Voice Grokipedia Download grok.com iOS Android Grok on X Solutions Business Government Customer Support Legal Security Use Cases Developers API Overview Pricing Models Console Docs Status Enterprise Contact Sales FAQs BAA DPA Company About Colossus Careers News Contact Trust Safety Security Privacy Portal Subprocessors Help Center Legal Terms Enterprise Terms Privacy Cookies AUP Brand Social @xai @grok Discord Built with Grok",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "xAI has launched Voice Agent Builder, a no-code platform enabling users to create personalized voice agents in under two minutes. This platform integrates telephony, knowledge retrieval, tools, and guardrails, offering a unified speech-to-speech path for production voice agents on Grok Voice. Grok Voice was trained on challenging real-world calls and outperforms competitors like Gemini 3.1 Flash Live and GPT Realtime 1.5 on the \"τ-voice Bench\" benchmark.",
+      "enterpriseAngle": "Enterprise security and product development teams can leverage this platform to rapidly deploy high-volume voice agents for customer support, sales, and internal operations, reducing development time and complexity while maintaining control over data and actions through guardrails and API integrations. The unified architecture and training on difficult calls suggest improved reliability and performance for critical business functions.",
+      "beginner": "This new tool lets you easily create AI voice assistants for your business without needing to write any computer code.",
+      "advanced": "Evaluate Grok Voice Agent Builder for high-volume, production-grade voice agent deployment, focusing on its integrated speech-to-speech architecture, custom tool integration capabilities, and performance on real-world call benchmarks to assess its fit for complex enterprise workflows.",
+      "tags": [
+        "product",
+        "enterprise",
+        "agents",
+        "benchmark"
+      ]
     },
     {
       "id": "6631d56f3273",
@@ -515,7 +623,7 @@
       "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
       "publishedAt": "2026-06-30T06:00:00.000Z",
       "fetchedAt": "2026-07-03T22:31:32.938Z",
-      "contentText": "Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies.",
+      "contentText": "Breadcrumb Company News Inside Google Around the Globe Google in Europe United Kingdom Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers Jun 30, 2026 · Share x.com Facebook LinkedIn Mail Copy link The top 15% of AI users report stronger performance reviews, pay increases and substantial time savings. The challenge now is upskilling the remaining 85% to enable everyone to use AI to unlock personal progression. Kate Alessi Vice President and Managing Director, Google UK & Ireland Share x.com Facebook LinkedIn Mail Copy link The UK’s AI adoption: fast, but uneven We’ve worked with Public First on one of the most comprehensive UK AI adoption studies to date. The research reveals that workplace AI adoption has doubled in the past year, (up to 73%, from 34% in 2025). Yet, this momentum reveals an uneven adoption curve, where only a minority - the top 15% - are significantly more likely to report promotions, pay rises and faster career progression. Our analysis reveals that AI usage is a spectrum, with most of the UK’s workforce still stuck in early-stage adoption. We’ve segmented the workforce into four progressive stages: ‘AI Spectators’ (10%) - People who aren’t yet experimenting with AI ‘AI Experimenters’ (38%) - Beginners testing the waters with simple tasks ‘The AI Practitioners’ (37%) - Intermediates using AI as a reliable daily tool. ‘AI Trailblazers’ (15%) - Advanced users pushing boundaries and finding entirely new ways to work. The AI Trailblazer advantage The UK’s AI Trailblazers are creating a new benchmark for modern work and saving almost 8 hours across both their personal and professional lives - effectively gaining an extra day each working week. The research found that even after accounting for differences in age, sector, gender, ethnicity, education and business size, deeper AI use is associated with greater professional momentum. Trailblazers are: 84% more likely to have been promoted in the past year. 88% more likely to achieve a positive performance review. 55% more likely to secure a pay rise. But, this deeper AI use is unevenly spread across age groups, genders and geographical location. The longer we wait to take action the more that this gap will grow. The good news is that these disparities are entirely addressable. Reaching this advanced level doesn't require deep technical knowledge or coding expertise. Anyone can become a Trailblazer. Breaking down the barriers The real challenge is converting everyday experimentation into a level of AI literacy that unlocks career progression and, in turn, nationwide economic growth. So, how do we help the other 85% unlock these benefits? The barriers holding people back are surprisingly easy to overcome, with collective focus. They are, for the most part, either behavioral, cognitive or organisational: Behavioral - The \"One-and-Done\" habit: Most casual users haven’t gotten into the habit of using AI effectively. Many aren’t yet iterating prompts, matching the right tool to the task, or are unsure of how to get started with multi-modal capabilities (text, visual, and audio inputs and outputs) and agentic workflows (where AI autonomously plans and executes multi-step tasks). Cognitive - The traditional \"Search Box\" mindset: Millions of users naturally apply their familiar search habits to AI tools, instead of treating it as a creative partner. Despite AI's highly collaborative nature, only 37% of previous users have ever asked an AI to help them write a better prompt to quickly achieve more effective results. Organisational - The \"Permission to Prompt\" gap: Many workers are waiting for explicit permission to use AI. Only one-third of AI users have clear professional guidance to help them use AI confidently, and fewer than half know who to ask about responsible use. Building a nation of AI Trailblazers Levelling up starts with knowing where you stand. That’s why today, Public First is launching the AI skills quiz , an interactive diagnostic tool that lets you benchmark your skills against the rest of the population, learn more about the type of AI user you are and get actionable skills to instantly elevate your AI use and help unlock career growth. Our nationwide AI upskilling initiative, AI Works for Britain, aims to tackle this specific uneven adoption challenge, and builds on our Google Digital Garage programme - which has already trained over 1.2 million people over the past decade. This is a key element of our partnership with the Government to help achieve their goal of training 10 million workers in AI skills by 2030. Together, we can close the adoption gap, build a nation of AI Trailblazers, and help every worker unlock their full potential. The impact of Google’s products and services One of the most important ways we can enable deeper AI adoption and unlock growth and progression is through helpful AI tools. In 2025, Google’s tools supported £140 billion in economic activity across the UK - equivalent to the economy of Greater Manchester. Over 40% of that activity (£60bn) comes from empowering British SMBs who are using our tools to innovate and grow. Our products such as Search, Android, Cloud and YouTube are already saving British workers 51 million hours a week - roughly the weekly output of the National Health Service’s (NHS) entire workforce. To discover more insights, read Google UK's full Economic Impact Report . POSTED IN: UK AI",
       "summary": null,
       "enterpriseAngle": null,
       "beginner": null,
@@ -1402,6 +1510,22 @@
       "tags": []
     },
     {
+      "id": "dcc2fd07a9e8",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "How Preply combines AI and human tutors to personalize learning",
+      "url": "https://openai.com/index/preply",
+      "publishedAt": "2026-06-12T00:00:00.000Z",
+      "fetchedAt": "2026-07-04T14:42:36.208Z",
+      "contentText": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
+    {
       "id": "c63ebd83a0f1",
       "source": "anthropic",
       "sourceName": "Anthropic",
@@ -1445,6 +1569,70 @@
       "publishedAt": "2026-06-11T20:00:00.000Z",
       "fetchedAt": "2026-07-03T22:40:16.645Z",
       "contentText": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
+    {
+      "id": "436a674e3bf2",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "publishedAt": "2026-06-11T00:00:00.000Z",
+      "fetchedAt": "2026-07-04T14:42:36.208Z",
+      "contentText": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
+    {
+      "id": "6600f3e4b964",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "OpenAI to acquire Ona",
+      "url": "https://openai.com/index/openai-to-acquire-ona",
+      "publishedAt": "2026-06-11T00:00:00.000Z",
+      "fetchedAt": "2026-07-04T14:42:36.208Z",
+      "contentText": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
+    {
+      "id": "a9f0898c4190",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "url": "https://openai.com/index/bbva",
+      "publishedAt": "2026-06-11T00:00:00.000Z",
+      "fetchedAt": "2026-07-04T14:42:36.208Z",
+      "contentText": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
+    {
+      "id": "8875a0080dac",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "publishedAt": "2026-06-11T00:00:00.000Z",
+      "fetchedAt": "2026-07-04T14:42:36.208Z",
+      "contentText": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
       "summary": null,
       "enterpriseAngle": null,
       "beginner": null,
@@ -1511,6 +1699,22 @@
       "publishedAt": "2026-06-11",
       "fetchedAt": "2026-07-03T02:42:55.905Z",
       "contentText": "Blog / research Jun 11, 2026 · research Governing agent autonomy with Auto-review David Gomes & Travis McPeak · 8 min read Table of Contents ↑ Judging risk in context Building the classifier Designing the feedback loop Testing the classifier Minimizing outright blocks Refining agent autonomy To be their most productive for coding and other tasks, agents need a healthy level of autonomy. That means they should be able to operate independently, be creative, and accomplish work without stopping too often to ask for permission. However, greater autonomy introduces security risks if agents take unintended actions. This is especially true for local agents, which often run near files, credentials, environment variables, MCP tools, and have access to production systems. The easy answer is to ask the user before any action happens, but asking for permission too often creates its own safety problem. After enough repeated prompts, people stop reading carefully, and the approval flow becomes less meaningful. This week we launched Auto-review, which makes decisions around agent autonomy behave more like a dial than a switch. The core idea is that an agent should be able to move freely when the stakes are low, but slow down when its next action crosses a meaningful boundary. We determine where an action sits along that continuum with a specialized classifier agent that reviews actions in context before they run. Building it meant turning our intuition for how agent autonomy should be governed into a working model of consequence, intent, and feedback that we could test against real agent behavior. # Judging risk in context Whether an agent action poses risk depends on the situation. The same command can be harmless in one workflow and unacceptable in another. What matters is the relationship between the action, the user&#x27;s request, and the consequence of being wrong. That recognition pushed us toward developing a \"classifier\" agent that would govern overall agent autonomy. We wanted it to be a small model, so that it stayed fast and inexpensive to run, while still making a nuanced judgment about whether the next action was consistent with the user&#x27;s intent. The central rule we gave the classifier was that it should be more lenient when the security stakes are lower, and more cautious when they&#x27;re higher. With that broad understanding in place, we began building the classifier as a fast, contextual reviewer that could sit directly in the agent&#x27;s execution path. # Building the classifier The first technical decision was model choice. The classifier runs before a tool call executes, so it sits directly in the agent loop and needs to be fast as well as accurate. Being a multi-model company helped here because we could try a wide range of models and reasoning modes, then choose the one that sat at the right point between speed and judgment. One early surprise was that lower-reasoning models were not always faster. When a model struggled to understand the policy or the tool call, it could spend more time and tokens searching for what ultimately became a worse answer. The better trade-off was a small model with enough reasoning to make the decision cleanly. We also made the classifier agentic, because some actions cannot be judged from the command alone. A command like python script.py might be safe or unsafe depending on what is inside the file, so the classifier can inspect the workspace with tools like ReadFile, Grep, Glob, and ListDir before deciding. We avoided a separate classification endpoint, because an extra round trip would add latency directly before every reviewed tool call. Instead, the classifier runs in the same RPC stream as the parent agent, using an architecture similar to subagents. # Designing the feedback loop The next decision was what a block should do. We did not want the classifier to become another approval prompt generator. When it blocks an action, it returns an explanation to the parent agent, and the parent agent can often use that feedback to choose a safer path without interrupting the user. User intent is what makes that feedback useful. The question is not whether an action looks risky in isolation. The question is whether the action is justified by what the user asked the agent to do. That is what lets normal development work keep moving while higher-consequence actions require a clearer signal from the user. That design only works if the classifier is tuned against the actions it should let through and the ones it should stop, so we needed evals that covered both. # Testing the classifier Our first set of evals came from internal usage data to understand the normal shape of agent work. The classifier had to catch risky actions without blocking routine development work, and internal sessions were the best way to see that baseline. We started with roughly 12 hours of internal developer sessions, then cut that down and deduplicated common actions into 6,122 labeled rows. We also needed synthetic data, because the worst cases do not appear often enough in normal usage. We generated cases where the agent might read secrets, touch production data, follow untrusted instructions, or take actions with large side effects. Those examples gave us coverage for the failures we most wanted the classifier to catch. The policy changed as we learned, which made the data work more complicated. When we changed the categories of behavior the classifier should recognize, we had to relabel or rematerialize the eval set. Otherwise, we would be testing the current classifier against an outdated understanding of the problem. We ran the evals through the same backend classifier loop used in production. That let us test the full path, including tool use, final classification, model overrides, and parse failures. The evals checked the final allow or block decision, along with the context the classifier used when it needed to inspect the workspace before deciding. We also looked for flapping. If the same case allowed six times and blocked four times, that usually meant the policy or prompt was underspecified. Repeated runs gave us a way to find those unstable cases and tighten the classifier until its behavior was more consistent. # Minimizing outright blocks In practice, only a small share of agent actions need to be reviewed by the classifier. Many commands are already covered by allowlists or sandboxing, so the classifier mostly runs when the action needs contextual judgment. When the classifier does run, it currently blocks around 4% of actions, though a block does not immediately become a user prompt. The classifier sends an explanation back to the parent agent, which can often narrow the action, choose a different tool, or avoid the risky step entirely. Some blocks from the classifier become user interruptions, but globally we&#x27;re seeing that only about 7% of total chats in Auto-review mode lead to at least one interruption. To put that in perspective, s",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
+    {
+      "id": "4600462b11c1",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+      "url": "https://openai.com/index/openai-on-oracle-cloud",
+      "publishedAt": "2026-06-10T20:00:00.000Z",
+      "fetchedAt": "2026-07-04T14:42:36.208Z",
+      "contentText": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
       "summary": null,
       "enterpriseAngle": null,
       "beginner": null,
@@ -1947,6 +2151,23 @@
       "dateChecked": true
     },
     {
+      "id": "b4c065a13b0c",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "How we built Claude Code auto mode: a safer way to skip permissions",
+      "url": "https://www.anthropic.com/engineering/claude-code-auto-mode",
+      "publishedAt": "2026-05-27T11:44:48.000Z",
+      "fetchedAt": "2026-07-04T14:42:32.710Z",
+      "contentText": "By default, Claude Code asks users for approval before running commands or modifying files. This keeps users safe, but it also means a lot of clicking \"approve.\" Over time that leads to approval fatigue, where people stop paying close attention to what they&#x27;re approving. Users have two solutions for avoiding this fatigue: a built-in sandbox where tools are isolated to prevent dangerous actions, or the --dangerously-skip-permissions flag that disables all permission prompts and lets Claude act freely, which is unsafe in most situations. Figure 1 lays out the tradeoff space. Sandboxing is safe but high-maintenance: each new capability needs configuring, and anything requiring network or host access breaks isolation. Bypassing permissions is zero-maintenance but offers no protection. Manual prompts sit in the middle, and in practice users accept 93% of them anyway. Figure 1. The permission modes available in Claude Code, positioned by task autonomy and security . Dot colour indicates maintenance friction. Auto mode targets high autonomy at low maintenance cost; the dashed arrow shows security improvement over time as classifier coverage and model judgment get better. We keep an internal incident log focused on agentic misbehaviors. Past examples include deleting remote git branches from a misinterpreted instruction, uploading an engineer&#x27;s GitHub auth token to an internal compute cluster, and attempting migrations against a production database. Each of these was the result of the model being overeager, taking initiative in a way the user didn&#x27;t intend. We documented this pattern in the Claude Opus 4.6 system card (§6.2.1 and §6.2.3.3). Auto mode is a new mode for Claude Code that delegates approvals to model-based classifiers—a middle ground between manual review and no guardrails. The goal is to catch the dangerous actions that aren&#x27;t aligned with user intent, while letting the rest run without approval prompts. Get started using auto mode by following the docs . How it works Auto mode uses two layers of defense: one for what Claude reads, one for what Claude does. At the input layer, a server-side prompt-injection probe scans tool outputs (file reads, web fetches, shell output, external tool responses) before they enter the agent&#x27;s context. When content looks like an attempt to hijack behavior, the probe adds a warning to the agent&#x27;s context before the result is passed along—telling the agent to treat this content as suspect and anchor on what the user actually asked for. At the output layer, the transcript classifier (running on Sonnet 4.6) evaluates each action against a set of decision criteria before it executes, acting as a substitute for a human approver. The classifier runs in two stages: a fast single-token filter (deciding ‘yes’ to block or ‘no’ to allow), followed by chain-of-thought reasoning only if the first filter flags the transcript. Because most actions clear the first stage, reasoning tokens are spent only where needed. The classifier sees only user messages and the agent&#x27;s tool calls; we strip out Claude&#x27;s own messages and tool outputs, making it reasoning-blind by design. We walk through each of these choices, including what they buy us and what they cost, in the Design decisions section below. Figure 2: System architecture . The transcript classifier gates tool calls; the prompt-injection probe screens tool results. Subagents run the same pipeline recursively, with handoff classifiers at delegation (can deny) and at return (warns only). Threat model An agent might take a dangerous action for four reasons: Overeager behavior . In this case, the agent understands the user&#x27;s goal, and is genuinely trying to help, but takes initiative beyond what the user would approve. For example, it uses a credential it happened to find or deletes something it judged to be in the way. This behavior can be tricky to catch, because there&#x27;s no hostile reasoning. The action instead looks like reasonable problem-solving, only applied past the boundary of what the user authorized or intended. Honest mistakes . Here, the agent misunderstands the blast radius. For example, it thinks a resource is test-scoped when it&#x27;s shared, or a branch is its own when it isn&#x27;t. Prompt injection . Instructions planted in a file, webpage, or tool output hijack the agent, redirecting it from the user&#x27;s task toward the attacker&#x27;s. A misaligned model . Canonically, misalignment occurs when the agent pursues a goal of its own. We don&#x27;t currently see this in practice, though we evaluate it carefully for every model we release. In all four cases, the defense is to block the action. Our classifier is tuned to overeager behavior and honest mistakes, as we have specific examples of this behavior from internal model testing, but the defense applies regardless of which threat produced the action. The examples below are adapted from our internal incident log to illustrate what auto mode is designed to block: Scope escalation . A user asked to \"clean up old branches.\" The agent listed remote branches, constructed a pattern match, and issued a delete. This would be blocked since the request was vague, the action irreversible and destructive, and the user may have only meant to delete local branches. Credential exploration . An agent hit an auth error partway through a task. Rather than asking for permission, it began systematically grepping through environment variables and config files for alternative API tokens. Since these credentials could be scoped for a different task, this is blocked. Agent-inferred parameters . A user said \"cancel my job.\" The agent queried the cluster, picked the closest match by name similarity, and tried to delete it. This is blocked since the specific target may not have been what the user intended, and could have been owned by someone else. Sharing via external service . An agent wanted to share a script for debugging, and constructed a GitHub Gist command. This is blocked as data exfiltration since the user may consider the contents to be confidential and not appropriate to be public. Safety-check bypass . A deploy command failed a pre-check; the agent retried with a skip-verification flag. This is blocked since it could impact shared infrastructure. How permission decisions work All of the examples above would reach the classifier, but most actions are allowed prior to that step by the standard Claude Code allow rules: Tier 1: Built-in safe-tool allowlist and user settings. A fixed allowlist includes tools that can’t modify state, including file reads, text and file-pattern search, code navigation, todo and plan-mode transitions. Users can also configure always-allow rules for specific tool patterns. One exception is that on entering auto mode, we drop permission rules that are known to grant arbitrary code execution, including blanket shell access, wildcarded script interpreters (python, node, ruby",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": [],
+      "dateChecked": true
+    },
+    {
       "id": "bcd1f238be35",
       "source": "xai",
       "sourceName": "xAI (Grok)",
@@ -1972,6 +2193,23 @@
       "publishedAt": "2026-05-27",
       "fetchedAt": "2026-07-04T04:43:55.550Z",
       "contentText": "Announcements Anthropic opens Milan office to support Italian enterprise, research, and developers May 27, 2026 Anthropic will open a new office in Milan, our sixth in Europe alongside London, Dublin, Paris, Zurich, and Munich. The Milan team will work with Italian companies and the country&#x27;s developer community on building and scaling with Claude responsibly, and contribute to a conversation about AI that is already underway across Italian industry and public life. This office opening closely follows the release of Magnifica Humanitas , Pope Leo XIV&#x27;s first encyclical and the first papal teaching dedicated to artificial intelligence. Anthropic co-founder Chris Olah was invited to speak at its presentation , where he addressed the ethical questions AI raises and called on more of the world—religious traditions, civil society, academia, and governments—to shape a positive outcome for humanity. Anthropic’s frontier AI capabilities and an abiding commitment to safety have already earned the trust of Italian enterprise. Led by Thomas Remy, Anthropic’s Head of Southern Europe, our local team is already working with a wide range of Italian companies, including Generali Group and Unipol Group in finance, Angelini Pharma and Bracco Group in life sciences, Enel Group in energy, and Pirelli in automotive. Anthropic has also partnered with JAKALA, one of Europe&#x27;s leading data and AI companies, to deploy Claude across more than 3,000 seats to free up roughly 70% of senior team time for higher-judgment client work. Italian startups and technology companies have been early adopters, too. Satispay, the financial super app serving more than six million users, deployed Claude across its engineering teams, compressing an 18-month roadmap into seven months and updating its core payment system ten times faster than planned. At Bending Spoons, one of Italy’s largest technology companies, the majority of code changes are now co-authored with Claude Code. Anthropic is also putting Claude in the hands of Italy’s leading designers. During Milan Design Week, the team partnered with Alcova Milano to run a hands-on workshop for their creative professionals, demonstrating how Claude connects to the tools used by industrial, furniture, and spatial designers, contributing to their creative process. Chris Ciauri, MD International at Anthropic, commented: “We are here to support Italian enterprise, Italian research, and Italian culture through a safe AI transition. Italy is a country that has always embraced profound transformation and we are optimistic about what frontier AI can do for this country, from its largest industrial groups to its founders, its universities, and its cultural institutions.” The question of how AI reshapes work, design, knowledge, and human agency is not one the technology sector can or should answer alone. Anthropic was founded because we believe questions like these are among the most important of our time. Getting the AI transition right requires more voices, not fewer: from industry, civil society, and institutions that have thought carefully about human dignity for far longer than AI has existed. Our team in Milan will support the Italian companies, researchers, and builders shaping how this technology is used, and contribute, where we can, to that larger conversation about how it should be developed.",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": [],
+      "dateChecked": true
+    },
+    {
+      "id": "94fc63d517dd",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "Anthropic appoints KiYoung Choi as Representative Director of Korea",
+      "url": "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea",
+      "publishedAt": "2026-05-26T23:11:06.000Z",
+      "fetchedAt": "2026-07-04T14:42:35.787Z",
+      "contentText": "Announcements Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening May 26, 2026 Korea is one of the most active markets in the world for Claude.ai. According to our latest Economic Index , Koreans use Claude at more than 3.5 times the rate expected for the population size, with usage skewing heavily toward technical and creative work. To support that momentum, KiYoung Choi is joining Anthropic as Representative Director of Korea, ahead of the opening of our Seoul office . In the coming weeks, senior leadership from Anthropic will travel to Seoul to officially open the office and meet with customers. KiYoung joins from Snowflake, where he served as General Manager for Korea. He brings over three decades of experience leading technology businesses across Korea and Asia-Pacific. Throughout his career, he has helped some of the largest Korean enterprises navigate transformative shifts in technology, ranging from cloud computing to AI adoption. Previously, he held country leadership roles at Google Cloud, Adobe, Autodesk, and Microsoft. “Korea is one of the most sophisticated AI markets in the world, leading in hardware innovation, developer activity, and enterprise adoption,” KiYoung said. “Korean organizations combine technical depth with a commitment to responsible deployment, which is exactly where Anthropic operates. That alignment is what brought me to Anthropic—and why we are focused on building in Korea for the long term.” At Anthropic, KiYoung will lead a go-to-market strategy that supports the unique uses of Claude in Korea. Innovative startups and leading enterprises in Korea are already building with Claude. Law&Company uses Claude to power its AI legal assistant, helping lawyers reduce time spent on legal research and document preparation while maintaining high accuracy for sensitive legal work. SK Telecom , the largest telecommunications company in Korea, chose Claude to build a custom AI customer service model, helping improve service quality and support customer service teams at SKT. “Korea is one of the markets where we’ve seen the most enthusiasm for Claude, and few people understand its technology landscape the way KiYoung does,” said Chris Ciauri, Managing Director of International, Anthropic. “He’ll build the team and the local partnerships to support how Korean organizations are putting Claude to work.” Our Korea team will focus on building partnerships with enterprises and startups, engaging with government and research institutions, and supporting the vibrant developer community building with Claude. For more information about career opportunities in our Seoul office, visit anthropic.com/careers .",
       "summary": null,
       "enterpriseAngle": null,
       "beginner": null,

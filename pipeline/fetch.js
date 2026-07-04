@@ -161,21 +161,26 @@ const junkTitle = (t) => {
   if (!/[a-z]/i.test(t)) return true;
   return false;
 };
-// Re-derive dates for entries that defaulted publishedAt to fetch time (scraped
-// sources with no date). Tries title/stored text first, then refetches the page
-// once (marks dateChecked so pages with no date aren't refetched every run).
+// Re-derive dates for entries whose stored date isn't the real publish date:
+//  - scraped sources with no date default publishedAt to fetch time
+//  - Anthropic sitemap dates are lastmod, not publish (old posts look new)
+// Tries title/stored text first, then refetches the page once (dateChecked
+// marks entries so pages with no findable date aren't refetched every run).
 for (const a of store.articles) {
   if (a.dateChecked) continue;
   const defaulted = a.publishedAt && a.fetchedAt &&
     Math.abs(Date.parse(a.publishedAt) - Date.parse(a.fetchedAt)) < 5 * 60 * 1000;
-  if (!defaulted) continue;
+  const lastmodSuspect = a.source === 'anthropic';
+  if (!defaulted && !lastmodSuspect) continue;
+  // Anthropic pages open with "Announcements <title> <publish date> ..." — the
+  // first date in the text is the publish date, so restrict to the header area.
   let real = extractDate(a.title) || extractDate((a.contentText || '').slice(0, 1200));
   if (!real) {
     const page = await fetchArticleText(a.url);
     real = extractDate(page.title) || extractDate((page.text || '').slice(0, 1500));
-    a.dateChecked = true; // don't refetch again if the page simply has no date
   }
-  if (real) {
+  a.dateChecked = true; // one pass per article, refetch at most once
+  if (real && real !== (a.publishedAt || '').slice(0, 10)) {
     a.publishedAt = real;
     console.log(`re-dated: ${a.title.slice(0, 60)} -> ${real}`);
   }

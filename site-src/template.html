@@ -651,6 +651,14 @@ function renderSecurity() {
 
 /* ---------- Vendor security desk ---------- */
 const VENDOR_SEC = {
+  all: {
+    blurb: 'The security and product-development angle on the latest AI news, across every source we track.',
+    links: [
+      { t: 'OWASP GenAI Security Project', d: 'The community-standard Top 10 risks for LLM applications — the shared vocabulary for AI AppSec.', u: 'https://genai.owasp.org' },
+      { t: 'NIST AI Risk Management Framework', d: 'The US standards body\'s framework for governing AI risk — the reference point for enterprise AI policy.', u: 'https://www.nist.gov/itl/ai-risk-management-framework' },
+      { t: 'CISA guidance on AI', d: 'The US cyber-defense agency\'s advisories and secure-by-design guidance for AI systems.', u: 'https://www.cisa.gov/ai' },
+    ],
+  },
   anthropic: {
     blurb: 'How Anthropic\'s releases and safeguards change the security picture — and its key security publications.',
     links: [
@@ -712,6 +720,15 @@ function renderVendorSecurity() {
     group.match(a.source) && a.summary &&
     ((a.tags || []).includes('security') || (a.tags || []).includes('governance'))
   ).slice(0, 5);
+  const takeLabel = state.level === 'beginner' ? 'If you\'re new to this' : 'For practitioners';
+  const storyItem = (a) => {
+    const take = state.level === 'beginner' ? a.beginner : a.advanced;
+    return `<li><a href="javascript:jumpTo('${a.id}')" style="text-decoration:none">` +
+      `<span class="r-title serif" style="font-size:15px;font-weight:650;line-height:1.3;display:block">${esc(a.title)}</span>` +
+      `<span class="r-meta" style="font-size:11px;color:var(--muted);font-weight:600;margin-top:3px;display:block">${esc(a.sourceName)} · ${ago(a.publishedAt)}</span></a>` +
+      (take ? `<div class="takeaway ${state.level}"><span class="tk-label">${takeLabel}</span>${esc(take)}</div>` : '') +
+      `</li>`;
+  };
   el.innerHTML = `
     <div class="block-head">
       <span class="slug" style="color:var(--lens-ink)">🛡 ${esc(group.label)} · Security desk</span>
@@ -722,7 +739,7 @@ function renderVendorSecurity() {
       <div class="sec-col">
         <h3>Latest security developments</h3>
         ${stories.length
-          ? `<ol class="vsec-reading" style="list-style:none;margin:0;padding:0">${stories.map((a) => `<li><a href="javascript:jumpTo('${a.id}')" style="text-decoration:none"><span class="r-title serif" style="font-size:15px;font-weight:650;line-height:1.3;display:block">${esc(a.title)}</span><span class="r-desc">${esc((a.enterpriseAngle || a.summary || '').split('. ')[0])}.</span><span class="r-meta" style="font-size:11px;color:var(--muted);font-weight:600;margin-top:3px;display:block">${ago(a.publishedAt)}</span></a></li>`).join('')}</ol>`
+          ? `<ol class="vsec-reading" style="list-style:none;margin:0;padding:0">${stories.map(storyItem).join('')}</ol>`
           : '<div class="vsec-note">No security-tagged stories from this source yet — they\'ll appear here automatically as coverage lands.</div>'}
       </div>
       <div class="sec-watch">

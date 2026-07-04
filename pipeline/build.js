@@ -3,7 +3,7 @@
 
 import { readFileSync, writeFileSync, mkdirSync, existsSync, readdirSync, copyFileSync } from 'node:fs';
 import { join } from 'node:path';
-import { ROOT, loadStore } from './util.js';
+import { ROOT, loadStore, decodeEntities } from './util.js';
 
 const store = loadStore();
 
@@ -20,7 +20,7 @@ const articles = store.articles.map((a) => ({
   beginner: a.beginner,
   advanced: a.advanced,
   tags: a.tags || [],
-  excerpt: a.summary ? null : (a.contentText || '').slice(0, 220),
+  excerpt: a.summary ? null : decodeEntities(a.contentText || '').slice(0, 220),
 }));
 
 // Keep the page itself light: embed only the newest EMBED_RECENT articles in

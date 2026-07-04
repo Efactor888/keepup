@@ -186,6 +186,14 @@ for (const a of store.articles) {
   }
 }
 
+// Normalize any HTML entities left in stored text (e.g. &#x27; -> ') so old
+// records get cleaned even without a re-fetch. Idempotent for already-clean text.
+for (const a of store.articles) {
+  for (const k of ['title', 'summary', 'enterpriseAngle', 'beginner', 'advanced', 'contentText']) {
+    if (a[k] && /&[#a-zA-Z]/.test(a[k])) a[k] = decodeEntities(a[k]);
+  }
+}
+
 const beforePrune = store.articles.length;
 store.articles = store.articles.filter((a) => !junkTitle(a.title));
 // Retention: keep a rolling year of coverage. Age-based (not count-based) so

@@ -8,7 +8,7 @@
 <link rel="apple-touch-icon" href="assets/erik-profile.jpg">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@500;600;700&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@500;600;700&family=Inter:wght@400;500;600;700;800&family=Wallpoet&display=swap" rel="stylesheet">
 <style>
   /* Light — "IT Security Pro": clean white, navy ink, professional blue accent */
   :root {
@@ -20,6 +20,7 @@
     --c-xai: #46536b; --c-cursor: #5b4fce; --c-outside: #8a6d10;
     --bar-bg: #0f294a; --bar-ink: #d3ddec;
     --glow: none;
+    --logo-accent: #0b9048; --logo-glow: none;
   }
   /* Dark — clean navy: soft professional blue on deep navy */
   html.dark {
@@ -31,6 +32,7 @@
     --c-xai: #a6b4c8; --c-cursor: #b09cff; --c-outside: #d4bd5e;
     --bar-bg: #0a1526; --bar-ink: #c6d6ea;
     --glow: 0 0 10px rgba(79, 154, 228, .3);
+    --logo-accent: #35e879; --logo-glow: 0 0 16px rgba(53, 232, 121, .45);
   }
   ::selection { background: rgba(79, 154, 228, .28); }
   * { box-sizing: border-box; }
@@ -70,8 +72,12 @@
 
   /* ---------- Masthead ---------- */
   .masthead { text-align: center; padding: 30px 0 22px; }
-  .logo { font-family: "Space Grotesk", sans-serif; font-size: 52px; font-weight: 700; letter-spacing: -1.5px; line-height: 1; margin: 0; }
-  .logo em { font-style: normal; color: var(--accent); text-shadow: var(--glow); }
+  /* Wordmark: stencil-cut cyber display face with a neon-green brand accent */
+  .logo {
+    font-family: "Wallpoet", "Space Grotesk", sans-serif; font-size: 40px; font-weight: 400;
+    letter-spacing: .03em; text-transform: uppercase; line-height: 1.1; margin: 0;
+  }
+  .logo em { font-style: normal; color: var(--logo-accent); text-shadow: var(--logo-glow); }
   .logo-sub { margin-top: 8px; color: var(--muted); font-size: 11px; font-weight: 600; letter-spacing: .2em; text-transform: uppercase; font-family: "JetBrains Mono", ui-monospace, monospace; }
 
   /* ---------- Section nav ---------- */
@@ -348,7 +354,7 @@
 </div>
 
 <header class="masthead wrap">
-  <h1 class="logo" style="font-size:52px">Stay <em>Curious</em></h1>
+  <h1 class="logo">Stay <em>Curious</em></h1>
   <div class="logo-sub">The Enterprise AI Briefing</div>
 </header>
 

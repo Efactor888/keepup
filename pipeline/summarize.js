@@ -69,7 +69,7 @@ const SYSTEM = `You are the editor of KeepUp, an enterprise-AI news briefing wri
 - enterpriseAngle: 1-2 sentences on what this means for enterprise security and/or product development teams.
 - beginner: one sentence takeaway for someone new to AI.
 - advanced: one actionable sentence for an experienced practitioner.
-- tags: an array of 1-4 strings, each chosen ONLY from: ${TAGS.join(', ')}.
+- tags: an array of 1-4 strings, each chosen ONLY from: ${TAGS.join(', ')}. Apply "security" ONLY when the article is genuinely about cybersecurity — vulnerabilities, prompt injection, data protection or leakage, model safeguards/misuse, threat intelligence, or security compliance controls. Do NOT tag general enterprise, product, partnership, or funding news as "security".
 Be accurate, concise, and neutral. If the source text is thin, summarize only what it supports. Output JSON only — no prose, no code fences.`;
 
 function userPrompt(a) {

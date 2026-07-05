@@ -716,9 +716,10 @@ function renderVendorSecurity() {
   if (!show) { el.style.display = 'none'; return; }
   el.style.display = '';
   const group = GROUPS.find((g) => g.id === state.group);
+  // Strictly security-tagged, newest first (DATA is date-sorted) — the latest
+  // security developments for this topic, not general policy/governance news.
   const stories = DATA.articles.filter((a) =>
-    group.match(a.source) && a.summary &&
-    ((a.tags || []).includes('security') || (a.tags || []).includes('governance'))
+    group.match(a.source) && a.summary && (a.tags || []).includes('security')
   ).slice(0, 5);
   const takeLabel = state.level === 'beginner' ? 'If you\'re new to this' : 'For practitioners';
   const storyItem = (a) => {

@@ -56,10 +56,16 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data site
           if git commit -m "chore: refresh news $(date -u +%FT%TZ) [skip ci]"; then
-            # Rebase in case anything landed on main mid-run; fail loudly if push
-            # still can't go through — silently dropping data cost us summaries once.
-            git pull --rebase origin main
-            git push
+            # Push with retry. If main moved mid-run, rebase preferring THIS run's
+            # freshly-generated files (-X theirs = the commits being replayed) so a
+            # site/data conflict auto-resolves instead of failing the deploy.
+            for i in 1 2 3; do
+              if git pull --rebase -X theirs origin main && git push; then
+                echo "pushed"; break
+              fi
+              git rebase --abort 2>/dev/null || true
+              echo "push race, retry $i"; sleep 5
+            done
           else
             echo "No changes to commit"
           fi

@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-07-05T15:01:02.567Z",
+  "updatedAt": "2026-07-05T22:17:02.921Z",
   "articles": [
+    {
+      "id": "a36af4403d8c",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Amazon will stop accepting new customers for Mechanical Turk",
+      "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+      "publishedAt": "2026-07-05T17:43:36.000Z",
+      "fetchedAt": "2026-07-05T22:08:43.164Z",
+      "contentText": null,
+      "summary": "Amazon's Mechanical Turk, a crowdsourcing service launched in 2005, will stop accepting new customers on July 30, 2026, though existing customers can continue using it. The service, which paid people for simple tasks like CAPTCHA completion and data annotation for AI training, has faced challenges including ethical debates, bot usage, and fraud. This decision effectively puts the service on life support, with no new features planned.",
+      "enterpriseAngle": "Enterprises that relied on Mechanical Turk for data annotation and other human-in-the-loop tasks will need to find alternative solutions for future projects, while current users can continue but should be aware of the platform's declining investment and potential future shutdown. The platform's struggles with bots and AI-generated work highlight the ongoing challenge of ensuring data quality in crowdsourced annotation for AI model development.",
+      "beginner": "Mechanical Turk was a service where people did small, simple tasks online for companies, often to help train AI, but it's now closing to new users.",
+      "advanced": "Given the cessation of new customer intake and lack of new features for Mechanical Turk, enterprises should audit their reliance on the platform for data annotation and explore alternative, more robust human-in-the-loop or synthetic data generation solutions to mitigate future operational risks and ensure data quality for AI model training.",
+      "tags": [
+        "enterprise",
+        "product",
+        "workforce",
+        "governance"
+      ]
+    },
     {
       "id": "833f4202db7e",
       "source": "techcrunch-ai",
@@ -922,12 +943,16 @@
       "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
       "publishedAt": "2026-06-29T07:00:00.000Z",
       "fetchedAt": "2026-07-03T22:31:32.758Z",
-      "contentText": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "A new report from OpenAI analyzes how artificial intelligence might transform the job market within the European Union, identifying specific roles that could be automated, experience growth, or undergo workflow modifications.",
+      "enterpriseAngle": "Enterprise leaders should use this report to proactively assess their workforce's susceptibility to AI-driven changes and plan for reskilling or upskilling initiatives to maintain competitiveness and productivity.",
+      "beginner": "AI will change many jobs in Europe, making some tasks automatic, growing other roles, and altering how people work.",
+      "advanced": "Leverage the report's insights to conduct a granular impact analysis on your organization's specific job families and develop targeted talent strategies for AI integration and workforce adaptation.",
+      "tags": [
+        "workforce",
+        "research",
+        "enterprise"
+      ]
     },
     {
       "id": "519893dab662",
@@ -1746,7 +1771,7 @@
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
       "publishedAt": "2026-06-11T20:00:00.000Z",
       "fetchedAt": "2026-07-03T22:40:16.645Z",
-      "contentText": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
+      "contentText": "Breadcrumb Innovation & AI Infrastructure & Cloud Global Network Virginia has been a home for Google for more than a decade, with an office in Reston and data centers in Loudoun and Prince William Counties. Today, we’re deepening our commitment to the Commonwealth with new community investments that will support thousands of local jobs, prepare the next-generation workforce and expand energy affordability. To prepare Virginians for skilled jobs created by infrastructure growth across the state, we’re funding the electrical training ALLIANCE (etA) to support local electrical apprenticeship training facilities. With this funding, they aim to increase training capacity to support an additional 2,741 apprentices by 2030. This builds on our existing local support and is part of a national commitment from Google.org to prepare over 300,000 skilled tradespeople . As we responsibly build data centers in Virginia, we have invested in over 500 megawatts of new energy capacity, collaborating with partners to bring more power to the grid. To support energy affordability at the local level, we're also launching a $15 million Energy Impact Fund. This will help drive down monthly utility bills for Virginians by funding critical community projects like home repairs, weatherization and energy-efficiency upgrades. Read our full announcement. POSTED IN: Global Network AI Google.org Creating opportunity Related stories",
       "summary": null,
       "enterpriseAngle": null,
       "beginner": null,
@@ -1961,12 +1986,17 @@
       "url": "https://cursor.com/blog/bugbot-updates-june-2026",
       "publishedAt": "2026-06-10",
       "fetchedAt": "2026-07-03T02:42:55.945Z",
-      "contentText": "Blog / product Jun 10, 2026 · product Bugbot is now over 3x faster, 22% cheaper, and finds 10% more bugs Jason Smale, Yuri Volkov & Michael Zhao · 4 min read Table of Contents ↑ Run Bugbot before you push Only review what's new in your PR How we got here Learn more Today we're shipping our biggest set of improvements yet to Bugbot. Bugbot is now over 3x faster to run, 22% cheaper, and finds 10% more bugs per review. In practice, 90% of Bugbot runs now finish in under three minutes. A faster, less expensive, more thorough Bugbot allows you to find issues sooner and merge code faster. # Run Bugbot before you push You can now run Bugbot and Security Review with /review before pushing code. /review prompts you to choose which agents to run, or use /review-bugbot and /review-security directly. This is a great way to catch and fix issues before pushing the code. /review also syncs with Bugbot on GitHub and GitLab. If you run /review and then open a PR with the same diff, Bugbot recognizes it, skips the review, and leaves a comment noting it has already reviewed that diff. Available in Cursor 3.7+ and on cursor.com/agents , with support in CLI coming soon. # Only review what's new in your PR Bugbot by default re-reviews the entire PR every time a change is pushed. This can result in new flags on code it had already reviewed and approved. You can now configure Bugbot to only review what's new since the last review, keeping feedback focused on your latest updates. # How we got here These performance gains are made possible by harness improvements and progress we've made training Composer 2.5, which now powers Bugbot. Our model training work is one part of how we will continue to improve Bugbot over time. Bugbot respects model block lists. If your organization has opted out of Composer 2.5, Bugbot will automatically fall back to the next best available model. Speed and performance can vary depending on your configuration. # Learn more Try Bugbot here and read the Bugbot docs to learn more. Filed under: product Author s : Jason Smale, Yuri Volkov & Michael Zhao",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Cursor's Bugbot, an AI-powered code review tool, has received significant updates, making it over three times faster, 22% cheaper, and 10% more effective at finding bugs. These improvements allow developers to run Bugbot before pushing code and configure it to review only new changes in a pull request, streamlining the development workflow.",
+      "enterpriseAngle": "Enterprise development and security teams can leverage the enhanced Bugbot to integrate faster and more thorough code reviews earlier in the development cycle, potentially reducing the cost and time associated with identifying and fixing bugs and security vulnerabilities.",
+      "beginner": "AI tools like Bugbot can automatically check your code for mistakes, making software development quicker and more reliable.",
+      "advanced": "Integrate Bugbot's pre-push review and diff-only analysis capabilities into your CI/CD pipeline to optimize feedback loops and reduce review overhead, leveraging Composer 2.5's performance gains while respecting model block lists.",
+      "tags": [
+        "product",
+        "coding",
+        "enterprise",
+        "security"
+      ]
     },
     {
       "id": "d484de5576e8",
@@ -2662,6 +2692,38 @@
       "tags": []
     },
     {
+      "id": "8337eeb248ea",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Strengthening societal resilience with Rosalind Biodefense",
+      "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+      "publishedAt": "2026-05-29T03:00:00.000Z",
+      "fetchedAt": "2026-07-05T22:08:40.905Z",
+      "contentText": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
+    {
+      "id": "33e1df4abe4e",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "A shared playbook for trustworthy third party evaluations",
+      "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+      "publishedAt": "2026-05-29T00:00:00.000Z",
+      "fetchedAt": "2026-07-05T22:08:40.905Z",
+      "contentText": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
+    {
       "id": "79ae92d8dc3d",
       "source": "xai",
       "sourceName": "xAI (Grok)",
@@ -2687,6 +2749,54 @@
       "publishedAt": "2026-05-28T15:00:00.000Z",
       "fetchedAt": "2026-07-04T04:29:09.836Z",
       "contentText": "Here are 12 of the biggest Google I/O 2026 keynote moments, including news about Gemini Omni, Gemini 3.5 Flash and more.",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
+    {
+      "id": "c4a9a577612d",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "How Endava builds an agentic organization with Codex",
+      "url": "https://openai.com/index/endava",
+      "publishedAt": "2026-05-28T12:00:00.000Z",
+      "fetchedAt": "2026-07-05T22:08:40.905Z",
+      "contentText": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
+    {
+      "id": "cb031b5cf3e3",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "url": "https://openai.com/index/mufg",
+      "publishedAt": "2026-05-28T00:00:00.000Z",
+      "fetchedAt": "2026-07-05T22:08:40.905Z",
+      "contentText": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
+    {
+      "id": "3e9dde27d098",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "OpenAI’s Frontier Governance Framework",
+      "url": "https://openai.com/index/openai-frontier-governance-framework",
+      "publishedAt": "2026-05-28T00:00:00.000Z",
+      "fetchedAt": "2026-07-05T22:08:40.905Z",
+      "contentText": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
       "summary": null,
       "enterpriseAngle": null,
       "beginner": null,
@@ -2743,6 +2853,22 @@
       "advanced": null,
       "tags": [],
       "dateChecked": true
+    },
+    {
+      "id": "a1f161b6a344",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+      "url": "https://openai.com/index/cisco",
+      "publishedAt": "2026-05-27T11:00:00.000Z",
+      "fetchedAt": "2026-07-05T22:08:40.905Z",
+      "contentText": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
     },
     {
       "id": "bcd1f238be35",

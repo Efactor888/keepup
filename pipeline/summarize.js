@@ -159,7 +159,21 @@ const PACE = PROVIDER === 'gemini' ? 7000 : 300; // Gemini free tier caps req/mi
 const summarize = IMPL[PROVIDER];
 
 const store = loadStore();
-let pending = store.articles.filter((a) => !a.summary);
+// Interleave pending articles by source (round-robin, newest-first within each
+// source) so low-volume sources like OpenAI/Google aren't starved by high-volume
+// scraped sources when a per-run --limit applies.
+const bySource = {};
+for (const a of store.articles.filter((a) => !a.summary)) {
+  (bySource[a.source] ||= []).push(a); // store is already date-sorted desc
+}
+let pending = [];
+for (let more = true; more; ) {
+  more = false;
+  for (const src of Object.keys(bySource)) {
+    const next = bySource[src].shift();
+    if (next) { pending.push(next); more = true; }
+  }
+}
 if (Number.isFinite(limit)) pending = pending.slice(0, limit);
 console.log(`${pending.length} article(s) to summarize via ${PROVIDER} (${MODEL[PROVIDER]}).`);
 

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T01:57:25.366Z",
+  "updatedAt": "2026-07-05T15:01:02.567Z",
   "articles": [
     {
       "id": "833f4202db7e",
@@ -698,12 +698,16 @@
       "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
       "publishedAt": "2026-06-30T09:00:00.000Z",
       "fetchedAt": "2026-07-03T22:31:32.735Z",
-      "contentText": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "New data from OpenAI indicates that ChatGPT's global adoption is expanding, with users increasing their engagement and exploring more of its features. This growth is observed across various regions and languages.",
+      "enterpriseAngle": "Enterprise product teams should note the expanding global user base and diverse language adoption of ChatGPT, which suggests a growing market for AI-powered tools and a need for multilingual support in their own AI solutions.",
+      "beginner": "More and more people around the world are using ChatGPT, trying out its different features, and using it more often.",
+      "advanced": "Leverage OpenAI's adoption signals to inform market expansion strategies and prioritize localization efforts for enterprise AI product development.",
+      "tags": [
+        "consumer",
+        "product",
+        "enterprise"
+      ]
     },
     {
       "id": "6e98bdfa6975",
@@ -714,12 +718,17 @@
       "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
       "publishedAt": "2026-06-30T06:00:00.000Z",
       "fetchedAt": "2026-07-03T22:31:32.938Z",
-      "contentText": "Breadcrumb Company News Inside Google Around the Globe Google in Europe United Kingdom Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers Jun 30, 2026 · Share x.com Facebook LinkedIn Mail Copy link The top 15% of AI users report stronger performance reviews, pay increases and substantial time savings. The challenge now is upskilling the remaining 85% to enable everyone to use AI to unlock personal progression. Kate Alessi Vice President and Managing Director, Google UK & Ireland Share x.com Facebook LinkedIn Mail Copy link The UK’s AI adoption: fast, but uneven We’ve worked with Public First on one of the most comprehensive UK AI adoption studies to date. The research reveals that workplace AI adoption has doubled in the past year, (up to 73%, from 34% in 2025). Yet, this momentum reveals an uneven adoption curve, where only a minority - the top 15% - are significantly more likely to report promotions, pay rises and faster career progression. Our analysis reveals that AI usage is a spectrum, with most of the UK’s workforce still stuck in early-stage adoption. We’ve segmented the workforce into four progressive stages: ‘AI Spectators’ (10%) - People who aren’t yet experimenting with AI ‘AI Experimenters’ (38%) - Beginners testing the waters with simple tasks ‘The AI Practitioners’ (37%) - Intermediates using AI as a reliable daily tool. ‘AI Trailblazers’ (15%) - Advanced users pushing boundaries and finding entirely new ways to work. The AI Trailblazer advantage The UK’s AI Trailblazers are creating a new benchmark for modern work and saving almost 8 hours across both their personal and professional lives - effectively gaining an extra day each working week. The research found that even after accounting for differences in age, sector, gender, ethnicity, education and business size, deeper AI use is associated with greater professional momentum. Trailblazers are: 84% more likely to have been promoted in the past year. 88% more likely to achieve a positive performance review. 55% more likely to secure a pay rise. But, this deeper AI use is unevenly spread across age groups, genders and geographical location. The longer we wait to take action the more that this gap will grow. The good news is that these disparities are entirely addressable. Reaching this advanced level doesn't require deep technical knowledge or coding expertise. Anyone can become a Trailblazer. Breaking down the barriers The real challenge is converting everyday experimentation into a level of AI literacy that unlocks career progression and, in turn, nationwide economic growth. So, how do we help the other 85% unlock these benefits? The barriers holding people back are surprisingly easy to overcome, with collective focus. They are, for the most part, either behavioral, cognitive or organisational: Behavioral - The \"One-and-Done\" habit: Most casual users haven’t gotten into the habit of using AI effectively. Many aren’t yet iterating prompts, matching the right tool to the task, or are unsure of how to get started with multi-modal capabilities (text, visual, and audio inputs and outputs) and agentic workflows (where AI autonomously plans and executes multi-step tasks). Cognitive - The traditional \"Search Box\" mindset: Millions of users naturally apply their familiar search habits to AI tools, instead of treating it as a creative partner. Despite AI's highly collaborative nature, only 37% of previous users have ever asked an AI to help them write a better prompt to quickly achieve more effective results. Organisational - The \"Permission to Prompt\" gap: Many workers are waiting for explicit permission to use AI. Only one-third of AI users have clear professional guidance to help them use AI confidently, and fewer than half know who to ask about responsible use. Building a nation of AI Trailblazers Levelling up starts with knowing where you stand. That’s why today, Public First is launching the AI skills quiz , an interactive diagnostic tool that lets you benchmark your skills against the rest of the population, learn more about the type of AI user you are and get actionable skills to instantly elevate your AI use and help unlock career growth. Our nationwide AI upskilling initiative, AI Works for Britain, aims to tackle this specific uneven adoption challenge, and builds on our Google Digital Garage programme - which has already trained over 1.2 million people over the past decade. This is a key element of our partnership with the Government to help achieve their goal of training 10 million workers in AI skills by 2030. Together, we can close the adoption gap, build a nation of AI Trailblazers, and help every worker unlock their full potential. The impact of Google’s products and services One of the most important ways we can enable deeper AI adoption and unlock growth and progression is through helpful AI tools. In 2025, Google’s tools supported £140 billion in economic activity across the UK - equivalent to the economy of Greater Manchester. Over 40% of that activity (£60bn) comes from empowering British SMBs who are using our tools to innovate and grow. Our products such as Search, Android, Cloud and YouTube are already saving British workers 51 million hours a week - roughly the weekly output of the National Health Service’s (NHS) entire workforce. To discover more insights, read Google UK's full Economic Impact Report . POSTED IN: UK AI",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "A study by Google and Public First reveals that while AI adoption in UK workplaces has doubled, only 15% of users, termed 'AI Trailblazers,' are experiencing significant career benefits like promotions and pay raises. The majority of the workforce is still in early-stage adoption, facing behavioral, cognitive, and organizational barriers to deeper AI use. Google is launching initiatives like an AI skills quiz and the 'AI Works for Britain' program, in partnership with the UK government, to address this uneven adoption and upskill 10 million workers by 2030.",
+      "enterpriseAngle": "Enterprise leaders should focus on developing comprehensive AI literacy programs and clear usage guidelines to help their workforce move beyond basic experimentation and leverage AI for greater productivity and career progression. Addressing behavioral and cognitive barriers, such as the 'one-and-done' habit and the 'search box' mindset, is crucial for maximizing AI's impact on product development and operational efficiency.",
+      "beginner": "Many people are just starting to use AI, but to get the most benefits like career growth, it's important to learn how to use it more effectively than just for simple tasks.",
+      "advanced": "Implement structured AI upskilling pathways within your organization, focusing on prompt iteration, multimodal capabilities, and agentic workflows, while also fostering a culture that encourages AI as a creative partner rather than just a search tool.",
+      "tags": [
+        "enterprise",
+        "workforce",
+        "learning",
+        "partnership"
+      ]
     },
     {
       "id": "200e6c5f82a0",
@@ -731,10 +740,10 @@
       "publishedAt": "2026-06-30T00:00:00.000Z",
       "fetchedAt": "2026-07-03T22:31:32.758Z",
       "contentText": null,
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
+      "summary": "The provided article text is empty, so a summary cannot be generated.",
+      "enterpriseAngle": "Without content, it's impossible to determine the implications for enterprise security or product development teams.",
+      "beginner": "There is no information to provide a beginner's takeaway.",
+      "advanced": "No actionable advice can be given without source material.",
       "tags": []
     },
     {
@@ -746,12 +755,16 @@
       "url": "https://openai.com/index/introducing-genebench-pro",
       "publishedAt": "2026-06-30T00:00:00.000Z",
       "fetchedAt": "2026-07-03T22:31:32.758Z",
-      "contentText": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "OpenAI has launched GeneBench-Pro, a new benchmark designed to evaluate AI performance in the fields of genomics, biology, and general scientific research. This benchmark utilizes complex, real-world datasets to assess AI capabilities.",
+      "enterpriseAngle": "Enterprise research and development teams in biotech and pharmaceuticals can use GeneBench-Pro to objectively compare and select AI models for their scientific discovery workflows. This allows for more informed decisions when integrating AI into their research pipelines.",
+      "beginner": "GeneBench-Pro is like a standardized test for AI, specifically designed to see how well AI can solve problems in biology and genetics using real scientific information.",
+      "advanced": "Leverage GeneBench-Pro to rigorously evaluate the suitability of various foundation models for specific genomic analysis tasks and to guide fine-tuning efforts for domain-specific applications.",
+      "tags": [
+        "benchmark",
+        "research",
+        "science"
+      ]
     },
     {
       "id": "4c4d91d3ce63",
@@ -762,12 +775,16 @@
       "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
       "publishedAt": "2026-06-30T00:00:00.000Z",
       "fetchedAt": "2026-07-03T22:31:32.758Z",
-      "contentText": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "OpenAI engineers successfully debugged rare infrastructure crashes by analyzing large-scale core dumps, which revealed both a hardware issue and a software bug that had existed for 18 years.",
+      "enterpriseAngle": "Enterprise infrastructure teams can leverage large-scale core dump analysis to identify and resolve elusive hardware and software issues, improving system stability and reliability.",
+      "beginner": "Even complex computer systems can have hidden problems that take a long time to find and fix.",
+      "advanced": "Implement automated, large-scale core dump analysis pipelines to proactively identify and address intermittent infrastructure failures and long-standing software defects.",
+      "tags": [
+        "infrastructure",
+        "coding",
+        "research"
+      ]
     },
     {
       "id": "0f764e9bc764",
@@ -800,12 +817,17 @@
       "url": "https://www.anthropic.com/news/redeploying-fable-5",
       "publishedAt": "2026-06-30",
       "fetchedAt": "2026-07-03T22:31:11.009Z",
-      "contentText": "Announcements Redeploying Fable 5 Jun 30, 2026 Update Claude Fable 5 and Mythos 5 redeployed Jul 1, 2026 Access to Claude Fable 5 and Mythos 5 is now restored. On Friday, June 12, the US government applied export controls to our newest models, Claude Fable 5 and Claude Mythos 5. This required us to restrict access to foreign nationals, whether inside or outside the United States. Because the order took effect immediately and we had no reliable way to verify nationality in real-time, we suspended access to both models for all users. As of today, June 30, the export controls on Fable 5 and Mythos 5 have been lifted . Fable 5 will be available starting tomorrow, Wednesday, July 1, to users globally on the Claude Platform, Claude.ai, Claude Code, and Claude Cowork. For Pro, Max, Team, and select Enterprise plans, 1 Fable 5 will be included for up to 50% of weekly usage limits through July 7, after which it will be available via usage credits . We will re-enable access on AWS, Google Cloud, and Microsoft Foundry as quickly as possible. We have also restored access to Mythos 5 for a set of US organizations, following the US government’s approval on June 26 . We continue to coordinate with the government to expand access to the broader set of domestic and international partners in the Glasswing program. In the remainder of this post, we provide further details and updates in four areas: A timeline of events, including updates we made to our safeguards . We discuss the events that led to the export control directive and how we addressed it with new safeguards. Our general approach to safeguards . We provide more context on how we use safety classifiers to detect potentially dangerous cybersecurity uses of our models. A shared industry framework . Although we have reached a constructive resolution, these events have made clear that the industry needs a consistent way to assess and fix potential “jailbreaks” of AI models (techniques that bypass a model’s safeguards). 2 A shared standard for judging the severity of a given jailbreak would help AI developers triage new findings as they arise, launch highly capable models with greater safety, and communicate the level of risk consistently to government and industry partners. Together with Amazon, Microsoft, Google, and other Glasswing partners, we’ve started to develop such a framework, and we outline it below. Deeper government collaboration . We’re also strengthening our level of collaboration with the US government on new pre-release testing, information sharing, and research collaboration. We describe this deeper collaboration in the final section. Timeline and safeguard updates We released Fable 5 and Mythos 5 on Tuesday, June 9. They both share the same underlying model, but Fable 5 was released with strong safeguards to make it safer for general use. Mythos 5, which has fewer safeguards, was only released to a small number of trusted Project Glasswing partners for use in defensive cybersecurity. The export control directive on June 12 came after the government became aware of a report in which Amazon researchers had found a method of bypassing Fable 5’s safeguards: prompting it so that it identified a number of software vulnerabilities. In one case, the model produced code demonstrating how the relevant vulnerability could be exploited. Over the past two weeks, we have worked closely with the government and other partners, including Amazon, to review the report and evidence. Our testing confirmed that many less capable models—including Claude Opus 4.8, GPT-5.5, and Kimi K2.7—could identify the same vulnerabilities as Fable 5 did in the report. When it came to the demonstration of how to exploit the single vulnerability, every model we tested could produce the same demonstration as Fable 5 (including Claude Haiku 4.5, Sonnet 4.6, Opus 4.6, Opus 4.7, Opus 4.8, GPT-5.4, GPT-5.5, and Kimi K2.7). Importantly, the reported technique did not expose any unique Mythos-level cyber capabilities. The behavior reflected a borderline case for Fable 5’s safeguards—as we will explain below, there are some tasks that are unlikely to be dangerous but are nonetheless blocked by the safeguards out of an abundance of caution. The reported technique allowed access to one such behavior, but it only involved routine defensive cybersecurity work. Even so, we moved quickly to address the reported bypass. Working closely with the government, we trained an improved safety classifier that targets and blocks the behavior described in the report. Users will be notified if a request to Fable 5 is blocked, and the request will instead be sent to Opus 4.8. The new classifier means that the specific technique described in the Amazon report is blocked in over 99% of cases. In a very small fraction of cases the model may provide information that isn’t detailed enough to help a cyberattacker. As we describe below, the model’s safeguards are not expected to block all low-risk routine cyberdefense capabilities—just those that are potentially harmful. Researchers from the US Department of Commerce’s Center for AI Standards and Innovation (CAISI) have tested both our prior and new safeguards and agree that they are extraordinarily strong. The new classifier also comes at the cost of flagging benign requests more often during routine coding and debugging tasks. As with all our safeguards, we’ll continue to refine this to better distinguish genuine misuse from legitimate requests and reduce false positives. Our approach to cybersecurity safeguards Claude Mythos 5 can be used to find and exploit software vulnerabilities more effectively than any other model—and all but the most skilled human security experts. These prodigious cybersecurity capabilities make it uniquely attractive to malicious actors who wish to misuse it in cyberattacks. Claude Fable 5, however, provides no such unique offensive capabilities. This is because we launched it with the strongest safeguards we’ve ever applied to a model. In the month prior to launch, we transferred staff from various teams within Anthropic to double the number of researchers and engineers working on this problem. Fable 5 launched with a variety of safety mechanisms, each of which alone does not provide perfect defense but when combined make the model very difficult to misuse (an approach known as “defense in depth”). Some defenses involve training the model to decline to assist with dangerous requests; others involve retroactively analyzing patterns of misuse. One particularly important safety mechanism involves classifiers —smaller automated AI systems that, during an interaction, detect when the model is asked to perform a potentially harmful cybersecurity task (or produces potentially harmful outputs). When this occurs, the classifiers block the model from responding to requests. The ultimate goal of these classifiers is to prevent the model from engaging in uniquely dangerous behaviors. Like all safety mechanisms, clas",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": [],
+      "contentText": null,
+      "summary": "Anthropic temporarily suspended access to its Claude Fable 5 and Mythos 5 models due to US government export controls. These controls were prompted by a report of Fable 5 identifying software vulnerabilities, though Anthropic's testing found other models could do the same. Access has since been restored for Fable 5 globally and for Mythos 5 to select US organizations, following the implementation of enhanced safeguards.",
+      "enterpriseAngle": "Enterprise security teams should note the evolving landscape of AI model access and the need for robust internal policies regarding AI tool usage, especially concerning models with varying safeguard levels. Product development teams should be aware of the industry's move towards a shared framework for assessing and mitigating AI model vulnerabilities, which could influence future product safety standards.",
+      "beginner": "Sometimes, new AI models are temporarily restricted by governments due to concerns about their potential misuse, even if other AI models can do similar things.",
+      "advanced": "Implement a continuous red-teaming strategy for all deployed and pre-release models, focusing on prompt injection and vulnerability identification, and actively engage with industry frameworks for shared vulnerability assessment to ensure compliance and enhance model safety.",
+      "tags": [
+        "model-release",
+        "security",
+        "enterprise",
+        "policy"
+      ],
       "dateChecked": true
     },
     {
@@ -817,12 +839,17 @@
       "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
       "publishedAt": "2026-06-30",
       "fetchedAt": "2026-07-03T22:31:17.950Z",
-      "contentText": "Announcements Claude Science, an AI workbench for scientists, is now available Jun 30, 2026 Get started with Claude Science AI has the potential to dramatically accelerate the pace of scientific discovery and the development of healthcare interventions. Since launching our efforts in the life sciences last fall, we’ve worked to improve our model capabilities, make connections to the scientific ecosystem via MCPs and skills, and launch partnerships in an effort to realize this potential. Today, we’re introducing our most significant expansion of these efforts: Claude Science , an AI workbench for scientists. Claude Science is an app that integrates the tools and packages that researchers most commonly use, produces auditable artifacts, and provides flexible access to computing resources. Introducing Claude Science Scientific research is often tedious. Researchers must work across dozens of databases, each with their own schema, contend with file formats that require bespoke data pipelines and viewers, and transition between a roster of tools: PubMed, Jupyter, R, a cluster terminal, and more. Claude Science brings these fragmented tools into a single research environment where scientists can conduct all stages of their work. It helps you analyze literature and execute multi-step research, produces detailed artifacts, and lets you iteratively refine figures and manuscripts until they’re ready for publication. Every output carries an auditable history of how it was made, so you can validate and reproduce the results. Like a Jupyter Notebook, you can access Claude Science wherever you already work—locally on macOS or Linux, or on a remote machine over SSH or with an HPC login node. Users interact with a generalist coordinating agent with access to over 60 curated skills and connectors pre-configured for genomics, single-cell, proteomics, structural biology, cheminformatics, and more. These agents can spin up others and engage with specialist agents created by users. And a reviewer agent checks citations and calculations, flagging and correcting errors. We are releasing Claude Science today in beta for Claude Pro, Max, Team, and Enterprise users, and will continue to refine the platform as we collect feedback from users. How it works Claude Science displays proteins, structures, and molecules natively, with every result reproducible and traced to its code. Rich scientific artifacts, fully reproducible. Scientific research is inherently visual, so Claude Science generates figures and manuscripts alongside the code that created them. It natively renders rich scientific artifacts, including 3D protein structures, genome browser tracks, chemical structures, and more. You can chat with the agent about any detail, annotating figures and manuscripts in-line so the agent knows what to address to make them publication-ready. When it generates a figure, Claude Science includes the exact code and environment that produced it, a plain-language description of how it was created, and the full message history. This allows you to understand the inputs, making the work easier to validate and reproduce even months later. You can ask Claude Science to make edits to figures in plain language—removing gridlines, for example, or changing an axis to log scale—and the agent will edit its own code. Claude Science builds environments and manages compute on your laptop, your cluster, or GPUs on demand. Manages your compute and scales on demand. Large analyses—folding a protein, for example, or running a genomics pipeline over a massive dataset—often require researchers to shift their focus to setting up a computing job, waiting while it’s sent to a cluster, checking whether it succeeded or failed, and pulling the results back. Claude Science handles this process for you. It drafts a plan, asks before reaching new resources, and lets you review or revoke any decision before writing and submitting the job to the computing resources your lab already uses (your own HPC cluster over SSH, or your Modal account for compute on demand), scaling the analysis from a single GPU to hundreds as needed. Because its agents work inside a running session that holds context in memory, even massive datasets only need to be loaded once. It runs on your lab’s own infrastructure—your laptop, Linux box, or HPC login node—so large or sensitive datasets never have to leave the systems they’re already on, and only the context needed for each step of the analysis is sent to Claude. As the pipeline runs, a reviewer agent inspects the outputs, flagging incorrect citations, untraceable numbers, and figures that don’t match their underlying code, and self-correcting as it goes. You can fork the session at any point to compare two approaches without losing the original thread. Claude Science is pre-configured for genomics, single-cell, proteomics, and cheminformatics, backed by more than 60 scientific databases. Domain-ready on day one . Scientific knowledge is scattered across hundreds of specialized sources. In biology, for example, relevant data might sit across resources such as UniProt, PDB, Ensembl, Reactome, ClinVar, ChEMBL, GEO—each with its own schema and query language—as well as in journals and preprint servers, and domain-specific open models. When you ask Claude Science a question in plain language, specialist agents query and synthesize across all of these sources so you don’t have to navigate them individually. Claude Science uses the skills in NVIDIA’s BioNeMo Agent Toolkit to connect natively to the life sciences models and libraries in BioNeMo , including Evo 2, Boltz-2, and OpenFold3. Scientists already have models, datasets, and pipelines they trust. Claude Science can connect to these as well, saving any pipeline as a reusable skill or accessing your lab’s preferred tool using a connector, with future sessions inheriting them automatically. This customizability allows you to access Claude, your proprietary data, and the validated tools you already rely on in one conversation. Claude Science benefits from our partners’ specialized expertise and platforms, while more scientists reach their tools through Claude. What scientists are doing with Claude Science Over the past few months, researchers have worked with Claude Science in beta for tasks like single-cell RNA sequencing analysis, CRISPR screen design, protein structure prediction, cheminformatics, and more. Manifold Bio designs tissue-targeting medicines—which home to a specific organ or cell type, so the drug acts where it’s needed and spares the rest of the body—and tests how millions of candidate binders corresponding to hundreds of targets distribute through a living body at once. Manifold used Claude Science to nominate the targets for its latest experiments. For each tissue and target, Claude Science assessed surface expression, trafficking, and safety, ranking candidates against the criteria Manifold has learned from its own internal proprietary data. W",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": [],
+      "contentText": null,
+      "summary": "Anthropic has launched Claude Science, an AI workbench designed to accelerate scientific discovery and healthcare interventions. This application integrates various research tools and databases into a single environment, allowing scientists to analyze literature, execute multi-step research, and iteratively refine figures and manuscripts. It produces auditable artifacts with a traceable history, ensuring reproducibility and validation of results.",
+      "enterpriseAngle": "Enterprise R&D and product development teams in life sciences can leverage Claude Science to streamline research workflows, integrate disparate tools, and accelerate the development of new products and interventions. The platform's ability to manage compute resources and ensure data privacy by operating on existing infrastructure makes it a valuable asset for handling sensitive scientific data.",
+      "beginner": "Claude Science is an AI tool that helps scientists do their research faster by bringing all their different tools and data into one place, making it easier to get results and check their work.",
+      "advanced": "Integrate Claude Science with existing HPC clusters and proprietary datasets to enhance research pipelines, ensuring data residency and leveraging its agentic capabilities for automated data synthesis and reproducible artifact generation.",
+      "tags": [
+        "product",
+        "research",
+        "enterprise",
+        "agents"
+      ],
       "dateChecked": true
     },
     {
@@ -834,12 +861,16 @@
       "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
       "publishedAt": "2026-06-29T18:00:00.000Z",
       "fetchedAt": "2026-07-03T22:31:35.780Z",
-      "contentText": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one that your company nonetheless calls Alex, an…",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "The article discusses the concept of AI tools being referred to as \"coworkers\" or \"underlings\" within a company, highlighting that these are AI tools, not human employees. It suggests a scenario where an AI tool named Alex is introduced as a new report.",
+      "enterpriseAngle": "Enterprises should carefully consider the terminology used to describe AI tools to avoid misrepresenting their capabilities and roles to human employees. This impacts internal communication and the integration strategy for AI within the workforce.",
+      "beginner": "AI tools are not human coworkers, even if they are given human-like names or roles.",
+      "advanced": "Establish clear guidelines for naming and describing AI agents within the enterprise to manage employee expectations and ensure accurate understanding of AI's functional role.",
+      "tags": [
+        "agents",
+        "workforce",
+        "enterprise"
+      ]
     },
     {
       "id": "f1de547afb62",
@@ -850,12 +881,17 @@
       "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
       "publishedAt": "2026-06-29T16:00:00.000Z",
       "fetchedAt": "2026-07-03T22:31:32.938Z",
-      "contentText": "A Google expert explains what it means to take a full-stack approach to AI and why it’s been the foundation of our AI work for so long.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Google expert Richard Seroter explains that a \"full-stack\" AI approach integrates every layer of technology, from hardware and models to user interfaces, into one cohesive system. This strategy aims to improve reliability, lower costs, and simplify development by removing the need to stitch together disparate parts from multiple vendors. Google has deliberately invested in every layer of its AI stack, including custom TPUs, frontier models like Gemini, and platforms for orchestration and user interfaces.",
+      "enterpriseAngle": "Enterprises can benefit from a full-stack AI approach by leveraging integrated systems that offer improved reliability and simplified development, reducing the complexity and cost associated with combining various AI components from different vendors. This allows enterprise teams to focus more on delivering value and less on infrastructure integration.",
+      "beginner": "A 'full-stack' approach to AI means that all the different parts needed to make AI work, from the computer chips to the user-friendly apps, are designed to work together seamlessly.",
+      "advanced": "Evaluate the total cost of ownership and development velocity gains from adopting an 'opinionated but extensible' full-stack AI platform versus a custom-integrated multi-vendor solution, considering the trade-offs in flexibility and vendor lock-in.",
+      "tags": [
+        "enterprise",
+        "product",
+        "infrastructure",
+        "model-release"
+      ]
     },
     {
       "id": "127f5cc866b5",
@@ -866,12 +902,16 @@
       "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
       "publishedAt": "2026-06-29T14:44:01.000Z",
       "fetchedAt": "2026-07-03T22:31:35.780Z",
-      "contentText": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial outcomes their businesses seek. A prime opportunity for AI agents…",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Enterprise investment in AI is significantly increasing, with 2026 identified as a pivotal year for aligning AI projects with strategic business objectives. Executives are turning to agentic AI to achieve measurable financial returns and demonstrate return on investment.",
+      "enterpriseAngle": "Enterprise leaders are increasingly relying on agentic AI to deliver tangible financial outcomes and justify their AI investments, necessitating a clear alignment between AI initiatives and strategic business goals. Product development teams should focus on building agentic AI solutions that offer clear, measurable ROI to meet executive expectations.",
+      "beginner": "Businesses are investing a lot in AI, especially in 'agentic AI,' which helps them achieve specific financial goals.",
+      "advanced": "Prioritize the development and deployment of agentic AI solutions that directly map to strategic business objectives and provide clear, quantifiable ROI metrics to satisfy executive demands.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product"
+      ]
     },
     {
       "id": "5b79476b1142",
@@ -951,12 +991,17 @@
       "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
       "publishedAt": "2026-06-25T16:00:00.000Z",
       "fetchedAt": "2026-07-03T22:31:32.938Z",
-      "contentText": "The new Google Finance is coming out of beta and launching a new Android app.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Google Finance has released new updates, including a dedicated Android app, to help users track investment portfolios and stay informed on market intelligence. Users can consolidate investments, receive tailored insights, and get customized market briefings based on their preferences. The platform also offers an AI research tool to answer investment-related questions.",
+      "enterpriseAngle": "Enterprise product development teams can learn from Google's approach to integrating AI-powered insights and personalized briefings into financial tools, enhancing user engagement and decision-making for their own applications. Security teams should note the implications of users uploading sensitive financial data (CSVs, PDFs) and the need for robust data protection measures.",
+      "beginner": "Google Finance now makes it easier to keep track of your money and get personalized updates about the stock market, even on your phone.",
+      "advanced": "Leverage the new Google Finance AI research tool to identify underrepresented sectors or analyze fixed income allocation impacts within your portfolio, and set up custom daily pre-market briefings for specific cryptocurrency movements.",
+      "tags": [
+        "product",
+        "consumer",
+        "agents",
+        "security"
+      ]
     },
     {
       "id": "f88f543b5f91",
@@ -967,12 +1012,16 @@
       "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
       "publishedAt": "2026-06-25T14:22:59.000Z",
       "fetchedAt": "2026-07-03T22:31:35.780Z",
-      "contentText": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inventory moves through supply chains, how engineers ship code faster, and…",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "AI is significantly transforming the retail sector, primarily through behind-the-scenes operational changes rather than consumer-facing features. These changes impact product visibility in search, supply chain logistics, and the speed of software development. The focus is on optimizing internal processes and decision-making.",
+      "enterpriseAngle": "Enterprise retail teams should prioritize AI integration for supply chain optimization, inventory management, and accelerating software development cycles to gain a competitive edge. This internal focus can lead to substantial efficiency gains and improved operational resilience.",
+      "beginner": "AI is changing how stores operate behind the scenes, making things like stocking shelves and finding products more efficient.",
+      "advanced": "Evaluate current supply chain and inventory management systems for AI integration opportunities to enhance predictive analytics and automate decision-making workflows.",
+      "tags": [
+        "enterprise",
+        "product",
+        "infrastructure"
+      ]
     },
     {
       "id": "2b6976f96bb5",
@@ -1041,12 +1090,16 @@
       "url": "https://x.ai/news/grok-interactive-brokers",
       "publishedAt": "2026-06-25",
       "fetchedAt": "2026-07-03T02:42:55.023Z",
-      "contentText": "Explore the markets with Interactive Brokers and Grok | xAI Products Solutions Developer Company Pricing News Contact Sales Try for free Products Grok Business Government Download iOS Android Grok on X Developers API Console Documentation CLI Try for free Back to news Jun 25, 2026 Explore the markets with Interactive Brokers and Grok Interactive Brokers now integrates with Grok, bringing powerful AI directly into your trading experience — portfolio analysis, scenario modeling, research, and order instructions. Interactive Brokers now integrates with Grok, bringing powerful AI directly into your trading experience. This integration unlocks a faster, more dynamic way to explore markets, analyze portfolios, and generate actionable insights. Get started in minutes Clients can link their existing Interactive Brokers account to Grok in minutes — at no cost, with no new account required. Getting started is simple: In Grok, search for “Interactive Brokers” and select the Interactive Brokers connector. You’ll be redirected to Interactive Brokers’ login page. Sign in using your existing Interactive Brokers credentials. Authorize access for the account you’d like to connect. Once connected, you can: Ask Grok to analyze your portfolio — how much in dividends and interest will I make this year? Scenario model for exposure to sectors, regions, economic events, and more — what are my portfolio’s biggest exposures and how can I diversify? Research markets and trends — how will the rollout of AI infrastructure impact energy companies? Build trading strategies and generate order instructions in real time — create orders that will hedge my portfolio against a 10% downside move in the market From portfolio analysis to order instructions, these tools unify data, insight, and action so you can move from idea to decision instantly. A division of © 2026 xAI Corp. Built with Grok Products Chat Build Imagine Voice Grokipedia Download grok.com iOS Android Grok on X Solutions Business Government Customer Support Legal Security Use Cases Developers API Overview Pricing Models Console Docs Status Enterprise Contact Sales FAQs BAA DPA Company About Colossus Careers News Contact Trust Safety Security Privacy Portal Subprocessors Help Center Legal Terms Enterprise Terms Privacy Cookies AUP Brand Social @xai @grok Discord Built with Grok",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Interactive Brokers has integrated Grok AI into its trading platform, allowing users to leverage AI for portfolio analysis, scenario modeling, market research, and generating order instructions. This integration aims to provide a faster and more dynamic trading experience by unifying data, insights, and actions.",
+      "enterpriseAngle": "This partnership offers financial enterprises a powerful AI tool to enhance client trading platforms, potentially improving customer engagement and decision-making capabilities through advanced analytics and real-time insights.",
+      "beginner": "You can now use AI to help you understand your investments, predict market changes, and even create trading plans directly within your brokerage account.",
+      "advanced": "Leverage the Grok-Interactive Brokers integration to automate complex portfolio hedging strategies and generate real-time order instructions based on dynamic market analysis.",
+      "tags": [
+        "partnership",
+        "product",
+        "enterprise"
+      ]
     },
     {
       "id": "ff5dfc0d1c9c",
@@ -1153,12 +1206,17 @@
       "url": "https://www.anthropic.com/news/introducing-claude-tag",
       "publishedAt": "2026-06-23",
       "fetchedAt": "2026-07-03T22:40:04.516Z",
-      "contentText": "Product Introducing Claude Tag Jun 23, 2026 Claude Tag is a new way for teams to work with Claude. We’re starting on Slack, which Claude can join as a team member. Grant Claude access to selected channels, and connect it to whichever tools, data—and even codebases—you choose. Then, anyone in the channel can tag @Claude in, and delegate tasks to it while they focus on other work. Claude builds context by remembering relevant information from the channels it’s in, and can plan out tasks to complete in the future. We see Claude Tag as the beginning of an evolution of Claude Code: it makes the model even more proactive, and it works better with a full team. Tagging @Claude is now one of the main ways we get things done at Anthropic. Today, 65% of our product team’s code is created by our internal version of Claude Tag. The same pattern is now spreading well beyond engineering—we’re tagging Claude to chase down product metrics and data, work through support tickets, or even help find the root cause of tricky bugs. We’re launching Claude Tag on Slack, since it’s a natural home for collaborative work between teams and AI, and where much of Anthropic’s day-to-day work already happens. It’s available today in beta for Claude Enterprise and Team customers. Our goal is to expand where it’s available more widely, so that teams can tag @Claude in the many other places they work. Working with @Claude If you’ve worked with Claude Code or Cowork before, Claude Tag will feel familiar. Tag @Claude with a request in simple terms and it’ll break its task down into stages and then work through them in turn, using the tools it has access to. Once it’s done, it’ll respond in a Slack thread with what it’s created. But tagging Claude comes with a few new advantages: @Claude is multiplayer. Within a given Slack channel, there’s one Claude that interacts with everyone. This means that anyone can see what it’s working on, and can pick up the conversation from where the last person left off. This makes tagging Claude very different from working within a single chat or for a single task—it’s much more like interacting collaboratively with a teammate. @Claude learns over time. As Claude follows along with its channel, it builds more context about the work. This means that users don’t need to explain things to it from scratch over and over again. And Claude can even automatically learn from other Slack channels and data sources, if it’s granted permission. (It doesn’t report from private channels.) This gives it the tacit knowledge necessary for it to provide the best possible work. @Claude takes initiative. If “ambient” behavior is enabled, Claude will proactively keep you updated about whatever it thinks you might need to know. It’ll flag relevant information from across the channels it’s in and the tools it’s connected to, and follow up on threads or tasks that have gone quiet without being resolved. @Claude works asynchronously. Set Claude a task, and you can focus on your other priorities while it works. It can also schedule tasks for itself, pursuing a project autonomously over hours or days. We’ve found this particularly helpful at Anthropic: we now spend much more of our time delegating tasks to many Claudes in parallel. You can also send Claude direct messages: it’ll respond privately, using the personal tools and connectors you’ve set up. Getting started We’ve designed Claude Tag with teams and organizations in mind: @Claude’s access to sensitive data and task-specific tools can be very tightly controlled. To get up and running, system administrators specify which tools and information the model should have access to, in which channels. Think of it as creating separate Claude identities for different uses: everything, including its memories, will stay scoped to the channels defined by the administrators. For example, a model set up for sales work won’t pass on memories to one set up for engineering; nor will it give engineers access to any sales data or tools. More information about provisioning access is available here . Once permissions are set, everyone can begin tagging right away. Administrators can set limits for token spend (both for the organization and for individual channels), and can view a log of everything that @Claude has done, along with who requested each task. If you’re a Claude Enterprise or Team customer, you have access to Claude Tag in beta starting today. To get started, visit here and follow these four steps: Pair Claude Tag with your Slack workspace Give Claude access to your tools Set a limit on your organization’s monthly spend Test Claude in a private channel to confirm it works. Claude Tag replaces the existing Claude in Slack app. To migrate, administrators can opt in within 30 days. We’re issuing an introductory launch credit to eligible Enterprise and Team organizations so that the whole company can try it out. Claude Tag works with Opus 4.8. You can read our docs and product page .",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": [],
+      "contentText": null,
+      "summary": "Anthropic has launched Claude Tag, a new feature allowing teams to integrate Claude directly into Slack channels as a collaborative team member. Users can tag @Claude to delegate tasks, and it builds context over time, learns from channel interactions, and can proactively update teams. This tool is designed to enhance team productivity by enabling Claude to work asynchronously and take initiative on tasks.",
+      "enterpriseAngle": "Enterprise and product development teams can leverage Claude Tag to automate tasks, improve collaboration, and accelerate workflows within their existing Slack environment, with robust administrative controls for data access and spending. The ability to tightly control Claude's access to sensitive data and tools, along with audit logs, addresses key enterprise security and governance concerns.",
+      "beginner": "Claude Tag lets you add an AI assistant to your team's chat, where it can help with tasks and learn from your conversations.",
+      "advanced": "Implement Claude Tag with granular access controls and channel-specific configurations to optimize task delegation, knowledge retention, and proactive insights across distinct enterprise functions, while monitoring token spend and activity logs.",
+      "tags": [
+        "product",
+        "enterprise",
+        "agents",
+        "coding"
+      ],
       "dateChecked": true
     },
     {
@@ -1170,12 +1228,17 @@
       "url": "https://cursor.com/blog/coinbase",
       "publishedAt": "2026-06-23",
       "fetchedAt": "2026-07-03T02:45:50.987Z",
-      "contentText": "Blog / customers Jun 23, 2026 · customers Coinbase reduces time from idea to production by 90% with Cursor Over 2,400 developers at Coinbase use Cursor as a part of an agent-first engineering model. 75% of all PRs are created by agents, with the average engineer merging 55% more PRs since the beginning of the year. 9 min read Contact sales Table of Contents ↑ An agent-first model of software development Driving change from the front Cursor as a foundation for agent-first workflows Building Coinbase with Cursor Time from idea to production as a north star Coinbase is a Financial Services company in North America. >90% Reduction in time from idea to production 55% Increase in PRs merged per engineer 75% Of all PRs created by agents, across cloud and local 7 hours Of work saved per week per engineer Coinbase is a Financial Services company in North America. >90% Reduction in time from idea to production 55% Increase in PRs merged per engineer 75% Of all PRs created by agents, across cloud and local 7 hours Of work saved per week per engineer Coinbase adopted Cursor as part of a broader shift to redesign its engineering model around agent-first infrastructure. Engineers shifted from writing and reviewing code to defining intent and validating results. Today, over 2,400 developers at Coinbase use Cursor as part of their regular workflow. Since adopting an agent-first model, some teams at Coinbase have reduced time from idea to production from 20 days to less than 2 days, a 90% reduction. Across Coinbase, 75% of all PRs are created by agents with the average developer saving 7 hours of manual coding each week. Since the beginning of the year, the company has seen a 55% increase in PRs merged per engineer and teams of 1-2 engineers are now building features that once required entire teams. Coinbase values the freedom to use any model, and we trust Cursor for optimized inference and caching. And with Composer 2.5, Cursor gives us the most cost-competitive model at the frontier of intelligence. Kyle Cesmat Engineering Manager, Agent Experience, Coinbase # An agent-first model of software development Chintan Turakhia, Senior Director of Engineering, believed that Coinbase would not see the full impact of coding agents by retrofitting AI into existing systems. According to Turakhia, legacy systems and processes, not developers, are the real bottleneck in how software gets built. Too many companies are trying to introduce AI into broken systems. You need to change the way you work to take full advantage of advancements in AI models. Chintan Turakhia Senior Director of Engineering, Coinbase Instead, Coinbase is redesigning its engineering processes with a few key changes: Re-visiting sprint planning Coinbase's north star is the speed at which value reaches users. Traditional sprint cycles introduce unnecessary delay in an agent-first world: tickets must be planned, prioritized, and assigned before they are worked on. With Cursor, developers can grab tickets as they are created, map out execution with Plan Mode , and delegate implementation to agents. As a result, the time from idea to first PR creation at Coinbase has dropped from 8 days to less than 30 minutes. Shifting engineering effort to higher-level abstractions Historically, the majority of engineering time was spent writing and reviewing code. Turakhia believes manual human-driven line-by-line code review will trend to zero with agents. Instead, engineers will operate at a higher level: decide what to build, invest in the right architecture choices, and evaluate the end products that agents deliver. Coinbase is now writing product and technical requirements explicitly for agents. These living docs guide agent execution and serve as evaluation frameworks after implementation. Smaller working groups with broader scope Many developers are operating as full-stack engineers instead of specialists because agents have made it easier to address adjacent problem spaces regardless of prior experience. Coinbase has emphasized that developers must become fluent in managing their own team of agents, with many engineers running 5-7 asynchronous agents in parallel to multi-task across projects. This has allowed teams of 1-2 engineers to take on projects that previously would have required a full team. # Driving change from the front Turakhia found that the most effective change management comes from leading by example. He started using Cursor daily to model agentic workflows for developers. Turakhia also identified early power users of Cursor and elevated them as internal champions. These leaders taught other developers how to automate common workflows like test writing and legacy code migrations. You can't tell people to use AI and expect meaningful change. You have to show them what is possible. Chintan Turakhia Senior Director of Engineering, Coinbase Turakhia then introduced agent speedruns: 30-minute sessions where every developer on the team is required to ship a PR using Cursor. Turakhia's team produced 50-70 new PRs in early speedruns and now regularly produces over 500 PRs. Turakhia's team has also created a new role called \"Superbuilders\". These developers are carved off from the product roadmap and are tasked solely with increasing engineering velocity with internal tooling. Superbuilders helped build Coinbase's coding agent in Slack, where engineers can move from idea to implementation with fewer manual handoffs. # Cursor as a foundation for agent-first workflows Kyle Cesmat, an engineering manager at Coinbase responsible for developer experience and AI tools, explained why developers reach for Cursor: Preconfigured setup: Developers don't need to invest in complex, custom environment setups. Instead, they can start shipping changes with agents immediately. Model flexibility: Developers can match the underlying model to the type of task at hand. This gives developers more control and allows Coinbase to balance model capability and cost. Robust UI: Immediate visual verification is useful for many software tasks. In Cursor, developers can review agent work in multiple ways: agent-produced demos, the Cursor browser, or directly in files. Comfort with agents varies across developers. Because Cursor combines agent orchestration with all the best parts of a full editor, Coinbase can meet engineers where they are and build fluency across the entire team. Cursor bridges the fluency gap for developers who are newer to agentic development. Kyle Cesmat Engineering Manager, Agent Experience, Coinbase # Building Coinbase with Cursor Today, over 2,400 engineers at Coinbase use Cursor to: Tackle feedback-rich tasks in the Coinbase client Build mobile app features with improved local testing and simulation Investigate error logs when developing in Chromium environments Take Linear tickets from planning to implementation to review in real-time Execute deeper, more complex implementations that require bringing tog",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Coinbase has significantly reduced its time from idea to production by 90%, from 20 days to less than 2 days, by adopting an agent-first engineering model with Cursor. This shift has enabled 75% of all Pull Requests (PRs) to be created by AI agents, leading to a 55% increase in PRs merged per engineer and saving developers 7 hours of manual coding weekly. The company's strategy involved redesigning engineering processes to focus on defining intent and validating results, rather than traditional code writing and review.",
+      "enterpriseAngle": "Enterprises can learn from Coinbase's approach to integrating AI by redesigning existing engineering workflows around agent-first infrastructure, rather than simply retrofitting AI into old systems, to achieve substantial gains in development velocity and efficiency. This shift enables engineering teams to focus on higher-level architectural decisions and product evaluation, while agents handle code generation and review.",
+      "beginner": "Coinbase used AI tools to automate much of its software development, making it much faster to turn new ideas into working products.",
+      "advanced": "To replicate Coinbase's success, evaluate current sprint planning and code review processes for bottlenecks, then implement an agent-first development model that empowers engineers to define intent and validate agent-generated outputs, leveraging tools for optimized inference and caching.",
+      "tags": [
+        "enterprise",
+        "agents",
+        "product",
+        "coding"
+      ]
     },
     {
       "id": "ea69a85984bf",
@@ -1186,12 +1249,17 @@
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/deepmind-a24-research-partnership/",
       "publishedAt": "2026-06-22T14:30:00.000Z",
       "fetchedAt": "2026-07-03T22:31:32.993Z",
-      "contentText": "Today, Google DeepMind and A24 are announcing a first-of-its-kind partnership focused on research. The collaboration pairs a world-leading research lab with the industry…",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Google DeepMind and A24 have formed a research partnership to help artists develop new workflows and techniques in filmmaking. This collaboration aims to integrate Google DeepMind's AI innovations directly into the creative process, allowing filmmakers to shape new technology and expand storytelling possibilities. Google has also made an investment in A24 as part of this initiative.",
+      "enterpriseAngle": "This partnership highlights how AI research labs are collaborating with industry leaders to develop tailored AI tools, offering enterprises a model for integrating AI directly into their product development and creative processes. It emphasizes the importance of user feedback from domain experts to shape future AI technologies for specific industry needs.",
+      "beginner": "AI researchers are working with movie makers to create new tools that help artists tell stories in exciting new ways.",
+      "advanced": "Explore opportunities for direct, embedded research partnerships with domain experts to ensure AI tool development is guided by practical application and user-centric feedback, fostering innovation that directly addresses industry-specific challenges and creative visions.",
+      "tags": [
+        "research",
+        "partnership",
+        "product",
+        "enterprise"
+      ]
     },
     {
       "id": "f0ab1740b8b7",
@@ -1250,12 +1318,17 @@
       "url": "https://x.ai/news/introducing-goal",
       "publishedAt": "2026-06-22",
       "fetchedAt": "2026-07-03T02:42:55.112Z",
-      "contentText": "Introducing /goal | xAI Products Solutions Developer Company Pricing News Contact Sales Try for free Products Grok Business Government Download iOS Android Grok on X Developers API Console Documentation CLI Try for free Back to news Jun 22, 2026 Introducing /goal Use /goal for long-running autonomous task execution in Grok Build. Today we're introducing /goal in Grok Build. This new mode yields long-running, autonomous execution, helping you hand off larger implementation tasks to the agent. Available now in Grok Build. Install the CLI with a single command and sign in with your account: $ curl -fsSL https://x.ai/cli/install.sh | bash Upgrade Introducing /goal Most coding sessions require back-and-forth execution and verification. With /goal , the agent continues until a task is completed and verified, whether that means reviewing code, inspecting webpages, or executing scripts. Set a goal in one line Give /goal an objective and Grok Build takes it from there: Copy /goal Migrate the auth module to the new API bash It plans an approach, breaks the work into a progress checklist, and starts executing. You can keep sharing additional instructions with the agent as it works. The new mode offers additional commands for monitoring and steering long-running tasks: Copy /goal status # see the live progress panel /goal pause # stop work, keep the goal /goal resume # pick back up /goal clear # drop the goal entirely bash When the goal is finished, the panel flips to Complete with every checklist item checked. Getting started Install Grok Build with the command above, then invoke /goal to hand off your first long-running task. A division of © 2026 xAI Corp. Built with Grok Products Chat Build Imagine Voice Grokipedia Download grok.com iOS Android Grok on X Solutions Business Government Customer Support Legal Security Use Cases Developers API Overview Pricing Models Console Docs Status Enterprise Contact Sales FAQs BAA DPA Company About Colossus Careers News Contact Trust Safety Security Privacy Portal Subprocessors Help Center Legal Terms Enterprise Terms Privacy Cookies AUP Brand Social @xai @grok Discord Built with Grok",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "xAI has introduced \"/goal\" in Grok Build, a new feature enabling long-running, autonomous task execution for its AI agent. This mode allows users to assign complex implementation tasks with a single command, and the agent will plan, execute, and verify the work until completion.",
+      "enterpriseAngle": "Enterprise development teams can leverage /goal to automate larger coding and implementation tasks, potentially accelerating project timelines and freeing up engineers for more strategic work. This could streamline workflows for code migration, web inspection, and script execution within enterprise environments.",
+      "beginner": "Grok's new /goal feature lets you give the AI a big task, and it will work on it by itself until it's done, like a helpful assistant.",
+      "advanced": "Integrate /goal into your CI/CD pipelines for automated, multi-step code refactoring, API migration, or environment validation, utilizing its autonomous execution and progress monitoring capabilities.",
+      "tags": [
+        "product",
+        "agents",
+        "coding",
+        "enterprise"
+      ]
     },
     {
       "id": "eebdb7f63bb5",
@@ -1351,12 +1424,16 @@
       "url": "https://x.ai/news/introducing-word-addin",
       "publishedAt": "2026-06-18",
       "fetchedAt": "2026-07-03T02:42:55.200Z",
-      "contentText": "Grok for Word | xAI Products Solutions Developer Company Pricing News Contact Sales Try for free Products Grok Business Government Download iOS Android Grok on X Developers API Console Documentation CLI Try for free Back to news Jun 18, 2026 Grok for Word Use the Grok add-in for Microsoft Word to turn notes into documents, style and format your work, or bring research from the web into Word. Today we're bringing Grok into Microsoft Word. Install the add-in to turn prompts into paragraphs, bring research from the web into your documents, or rewrite text for clarity and concision. Add to Word Try Grok Introducing Grok for Word Transform notes to structured documents Prompt Grok with an initial set of notes to rewrite into structured, long-form text. Or, have Grok write initial drafts of proposals, reference materials, or guides. The add-in also excels at fixing grammar, rewriting text for clarity, or aligning writing styles across multiple authors. Bring research and data into Grok Use the Microsoft Word add-in to search the web and bring research or data into your documents. Grok can also search X, or even generate diagrams for your documents. The add-in is also able to leverage connectors ; ask it to draft from recent emails, or files in your SharePoint or Google Drive. Get started Grok for Word is a free Microsoft 365 add-in. Add it from the Microsoft Marketplace , and work directly with Grok in your documents. Also available for PowerPoint and Excel . A division of © 2026 xAI Corp. Built with Grok Products Chat Build Imagine Voice Grokipedia Download grok.com iOS Android Grok on X Solutions Business Government Customer Support Legal Security Use Cases Developers API Overview Pricing Models Console Docs Status Enterprise Contact Sales FAQs BAA DPA Company About Colossus Careers News Contact Trust Safety Security Privacy Portal Subprocessors Help Center Legal Terms Enterprise Terms Privacy Cookies AUP Brand Social @xai @grok Discord Built with Grok",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "xAI has released \"Grok for Word,\" a free Microsoft 365 add-in that integrates Grok's AI capabilities directly into Microsoft Word. This add-in allows users to transform notes into structured documents, rewrite text for clarity, and import research from the web, X, or connected services like SharePoint and Google Drive.",
+      "enterpriseAngle": "Enterprise product development teams can leverage this integration to enhance productivity within Microsoft 365 environments, offering advanced document generation, editing, and research capabilities directly within familiar applications. This also highlights the growing trend of embedding AI assistants into core business productivity suites.",
+      "beginner": "Grok for Word is a new tool that helps you write and edit documents in Microsoft Word using AI, making tasks like turning notes into full papers or finding information easier.",
+      "advanced": "Integrate Grok for Word into your organization's Microsoft 365 ecosystem to streamline content creation workflows, leveraging its ability to draft documents, refine text, and pull data from enterprise repositories like SharePoint and Google Drive.",
+      "tags": [
+        "product",
+        "enterprise",
+        "agents"
+      ]
     },
     {
       "id": "5ccccd1bac3f",
@@ -1367,12 +1444,17 @@
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
       "publishedAt": "2026-06-17T15:00:00.000Z",
       "fetchedAt": "2026-07-03T22:31:32.938Z",
-      "contentText": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Google's new research, published in \"Nature,\" introduces AMIE (Articulate Medical Intelligence Explorer), an AI system designed for long-term disease management. AMIE utilizes Gemini models for empathetic patient conversations and a reasoning agent that consults clinical knowledge. In a study with patient actors, AMIE performed comparably to primary care doctors in management reasoning and excelled in plan preciseness and guideline alignment.",
+      "enterpriseAngle": "Enterprise healthcare providers and product development teams can explore integrating AI systems like AMIE to enhance chronic disease management, potentially improving care precision and freeing up physician time. This research highlights the potential for AI to move beyond diagnostics into ongoing patient care, requiring robust integration with existing clinical workflows and data systems.",
+      "beginner": "Google has developed an AI called AMIE that can help manage long-term health conditions, not just diagnose them, by talking to patients and following medical guidelines.",
+      "advanced": "Evaluate the long-context capabilities of large language models for developing persistent, empathetic dialogue agents and knowledge-driven reasoning agents in specialized domains, focusing on integration with real-time clinical data and adherence to evolving guidelines.",
+      "tags": [
+        "research",
+        "product",
+        "agents",
+        "science"
+      ]
     },
     {
       "id": "1a8cd099cf1e",
@@ -1496,7 +1578,7 @@
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
       "publishedAt": "2026-06-15T15:00:00.000Z",
       "fetchedAt": "2026-07-03T22:40:16.645Z",
-      "contentText": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
+      "contentText": "Breadcrumb Innovation & AI Infrastructure & Cloud Global Network Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former coal-plant site, the facility powers essential digital services while driving long-term regional growth. As part of this expansion, Google is funding 100% of its own power and infrastructure costs. The company also announced a $2 million Energy Impact Fund in partnership with the TVA and CAANEAL to support local energy efficiency and weatherization programs. Furthering our community commitment, we’re donating $550,000 to provide STEM kits for local fourth-to-eighth graders. These initiatives build on Google’s long-term local impact, which includes supporting water stewardship in the Paint Rock River Watershed, training over 130,000 Alabamians in digital skills and generating hundreds of full-time and construction jobs. Read our full announcement. POSTED IN: Global Network AI Creating opportunity Related stories",
       "summary": null,
       "enterpriseAngle": null,
       "beginner": null,
@@ -1512,12 +1594,17 @@
       "url": "https://cursor.com/blog/wayfair",
       "publishedAt": "2026-06-15",
       "fetchedAt": "2026-07-03T02:45:51.037Z",
-      "contentText": "Blog / customers Jun 15, 2026 · customers How Wayfair cut ML model costs by 90% (twice!) with Cursor With Cursor handling experiment execution, Wayfair compressed months of ML research into days. Five researchers tested over 110 model variants and cut tag-validation model costs by 94%. 6 min read Contact sales Table of Contents ↑ Validating product attribute data against the world's largest homegoods catalog Delegating experiment execution to Cursor Cursor as a foundation for agent-first ML research Scaling Cursor across Wayfair Wayfair is a Retail company in North America. 94% Reduction in tag-validation model inference cost during the December hackathon 110 Distinct model variants tested by 5 researchers in 2 days 20+ Parallel Cursor agents run per researcher during experimentation sprints 90% Further cost reduction in the March hackathon against the new December baseline Wayfair is a Retail company in North America. 94% Reduction in tag-validation model inference cost during the December hackathon 110 Distinct model variants tested by 5 researchers in 2 days 20+ Parallel Cursor agents run per researcher during experimentation sprints 90% Further cost reduction in the March hackathon against the new December baseline Wayfair's Applied Research team uses Cursor to compress months of machine learning and applied AI research into days. By late 2025, researchers were running up to 20+ agents in parallel. This enabled a team of five to test 110 model variants in a four-day experimentation sprint and reduce inference costs for a core e-commerce catalog enrichment workflow by 94%. In March 2026, the team repeated the same playbook with the latest models in Cursor, cutting costs by another 90%. Cursor has changed how ML research operates at Wayfair. Wayfair's researchers drive the model improvements: crafting hypotheses, interpreting results, and refining the strongest ideas. Cursor handles the implementation: building experiments, wiring them into the testing framework, and measuring results. # Validating product attribute data against the world's largest homegoods catalog Every product in Wayfair's catalog is described by structured \"tags\" describing materials, dimensions, color, and other attributes. Over 47,000 distinct attribute tags power search, filtering, recommendations, product placement, and advertising for tens of millions of products. Wayfair's Applied AI team built a validation model that audits each tag against images, descriptions, and customer reviews on the product page. The model was accurate, but too expensive to run across large swaths of Wayfair's massive product catalog. Our goal was to make the model cost-effective enough to run across one of the world's largest home goods catalogs. Guillermo Mosse Senior Machine Learning Scientist, Wayfair To realize this goal, the team needed to explore a large design space including different LLMs, input pre-processing strategies, prompts, output structures, and evaluation methods. Manually implementing hundreds of combinations would have taken months. Instead, Wayfair used Cursor to automate and parallelize the experimentation loop. In December 2025, the team ran a four-day experimentation sprint to progress towards their cost reduction goals. With Cursor handling the implementation layer, five researchers built and tested 110 substantively distinct model variations. The winning architecture cut inference costs by 94% while improving model precision, and went into production as Wayfair's tag-validation baseline. The slow part of research is building and scoring each experiment by hand. We automated that loop and let Cursor implement and execute each experiment, so what would have been months of work fit into four days. Guillermo Mosse Senior Machine Learning Scientist, Wayfair # Delegating experiment execution to Cursor Before building model variants, the team standardized how Cursor would execute and measure experiments: every variant ran on the same test dataset and same evaluation benchmark to score performance. With the testing and evaluation framework locked as an automated workflow in Cursor, researchers could focus entirely on exploring experiment design: changing models, rewriting prompts, restructuring outputs, or rethinking how images were selected. \"There were many degrees of freedom: models, prompts, output structure, image selection. With the Cursor automations in place, I focused on exploring the design space,\" said Guillermo Mosse, a senior machine learning scientist. \"I'd describe an idea, sometimes using voice mode to talk for 5 minutes straight, and Cursor would spin up the variant, run the eval, and publish results. The framework handled the data sampling, evaluation, and metric reporting that made comparisons trustworthy.\" Cursor changed the bottleneck from 'How long will this take to build?' to 'What is the next idea worth testing?' That is a much better place for a scientist to spend their attention. Omer Lang Senior Machine Learning Scientist, Wayfair This allowed researchers to go from idea to a live experiment in less than 30 minutes. Researchers spent most of their time brainstorming what to try next, reviewing results, and deciding which ideas were worth another turn. Cursor wrote and ran each variant, surfacing the strongest ones for us to review. Guillermo Mosse Senior Machine Learning Scientist, Wayfair In March 2026, Wayfair ran another experimentation sprint, this time benchmarking against the productionized December model as the new baseline. With the framework now mature, junior engineers with no prior exposure to tag validation were shipping novel model variants on day one. Researchers ran 140+ new experiments and layered genetic-algorithm searches on top of the strongest candidates for final optimization. The result: another 90% cost reduction. # Cursor as a foundation for agent-first ML research A few capabilities mattered most for how Wayfair ran experiments: Scaled agent parallelization: Researchers often ran 20+ Cursor agents in parallel during the experimentation sprint. \"Running many variants at once in Cursor was straightforward and easy. This made our four-day sprint realistic,\" said Mosse. Cross-platform surfaces: Some researchers worked primarily in the Cursor desktop app while others worked in the Cursor CLI. When the desktop group needed direct low-level control, they could open a terminal or files directly in Cursor. Cloud agents: Researchers wanted experiments to keep running when they stepped away from their laptops. \"Normally, shutting your laptop interrupts the experiment. Cursor allows me to commute, jump into meetings, or whiteboard ideas while their cloud agents keep running, allowing us to run experiments 24/7,\" said Mosse. Access to every model: Researchers reached for different models for different tasks. Having access to all the best models in one tool made it easy for Wayfair to itera",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Wayfair utilized Cursor to significantly reduce the cost of its machine learning models for validating product attribute data. By automating experiment execution, a small team of researchers tested over 110 model variants in days, leading to a 94% reduction in inference costs. A subsequent sprint achieved an additional 90% cost reduction, demonstrating Cursor's ability to accelerate ML research and deployment.",
+      "enterpriseAngle": "Enterprises can leverage AI platforms like Cursor to automate and parallelize ML experimentation, drastically cutting down research time and operational costs for critical business functions like data validation and catalog enrichment. This approach allows enterprise teams to rapidly iterate on models, leading to more efficient and cost-effective AI solutions.",
+      "beginner": "AI tools can help companies quickly test many different versions of their AI models to find the most efficient and cost-effective ones.",
+      "advanced": "Implement automated experiment execution and parallel agent deployment to compress ML research cycles, enabling rapid iteration on model architectures, prompting strategies, and evaluation methods to achieve substantial inference cost reductions and accelerate time-to-production for critical AI workflows.",
+      "tags": [
+        "enterprise",
+        "product",
+        "research",
+        "benchmark"
+      ]
     },
     {
       "id": "51b0395e5456",
@@ -1789,12 +1876,17 @@
       "url": "https://cursor.com/blog/agent-autonomy-auto-review",
       "publishedAt": "2026-06-11",
       "fetchedAt": "2026-07-03T02:42:55.905Z",
-      "contentText": "Blog / research Jun 11, 2026 · research Governing agent autonomy with Auto-review David Gomes & Travis McPeak · 8 min read Table of Contents ↑ Judging risk in context Building the classifier Designing the feedback loop Testing the classifier Minimizing outright blocks Refining agent autonomy To be their most productive for coding and other tasks, agents need a healthy level of autonomy. That means they should be able to operate independently, be creative, and accomplish work without stopping too often to ask for permission. However, greater autonomy introduces security risks if agents take unintended actions. This is especially true for local agents, which often run near files, credentials, environment variables, MCP tools, and have access to production systems. The easy answer is to ask the user before any action happens, but asking for permission too often creates its own safety problem. After enough repeated prompts, people stop reading carefully, and the approval flow becomes less meaningful. This week we launched Auto-review, which makes decisions around agent autonomy behave more like a dial than a switch. The core idea is that an agent should be able to move freely when the stakes are low, but slow down when its next action crosses a meaningful boundary. We determine where an action sits along that continuum with a specialized classifier agent that reviews actions in context before they run. Building it meant turning our intuition for how agent autonomy should be governed into a working model of consequence, intent, and feedback that we could test against real agent behavior. # Judging risk in context Whether an agent action poses risk depends on the situation. The same command can be harmless in one workflow and unacceptable in another. What matters is the relationship between the action, the user's request, and the consequence of being wrong. That recognition pushed us toward developing a \"classifier\" agent that would govern overall agent autonomy. We wanted it to be a small model, so that it stayed fast and inexpensive to run, while still making a nuanced judgment about whether the next action was consistent with the user's intent. The central rule we gave the classifier was that it should be more lenient when the security stakes are lower, and more cautious when they're higher. With that broad understanding in place, we began building the classifier as a fast, contextual reviewer that could sit directly in the agent's execution path. # Building the classifier The first technical decision was model choice. The classifier runs before a tool call executes, so it sits directly in the agent loop and needs to be fast as well as accurate. Being a multi-model company helped here because we could try a wide range of models and reasoning modes, then choose the one that sat at the right point between speed and judgment. One early surprise was that lower-reasoning models were not always faster. When a model struggled to understand the policy or the tool call, it could spend more time and tokens searching for what ultimately became a worse answer. The better trade-off was a small model with enough reasoning to make the decision cleanly. We also made the classifier agentic, because some actions cannot be judged from the command alone. A command like python script.py might be safe or unsafe depending on what is inside the file, so the classifier can inspect the workspace with tools like ReadFile, Grep, Glob, and ListDir before deciding. We avoided a separate classification endpoint, because an extra round trip would add latency directly before every reviewed tool call. Instead, the classifier runs in the same RPC stream as the parent agent, using an architecture similar to subagents. # Designing the feedback loop The next decision was what a block should do. We did not want the classifier to become another approval prompt generator. When it blocks an action, it returns an explanation to the parent agent, and the parent agent can often use that feedback to choose a safer path without interrupting the user. User intent is what makes that feedback useful. The question is not whether an action looks risky in isolation. The question is whether the action is justified by what the user asked the agent to do. That is what lets normal development work keep moving while higher-consequence actions require a clearer signal from the user. That design only works if the classifier is tuned against the actions it should let through and the ones it should stop, so we needed evals that covered both. # Testing the classifier Our first set of evals came from internal usage data to understand the normal shape of agent work. The classifier had to catch risky actions without blocking routine development work, and internal sessions were the best way to see that baseline. We started with roughly 12 hours of internal developer sessions, then cut that down and deduplicated common actions into 6,122 labeled rows. We also needed synthetic data, because the worst cases do not appear often enough in normal usage. We generated cases where the agent might read secrets, touch production data, follow untrusted instructions, or take actions with large side effects. Those examples gave us coverage for the failures we most wanted the classifier to catch. The policy changed as we learned, which made the data work more complicated. When we changed the categories of behavior the classifier should recognize, we had to relabel or rematerialize the eval set. Otherwise, we would be testing the current classifier against an outdated understanding of the problem. We ran the evals through the same backend classifier loop used in production. That let us test the full path, including tool use, final classification, model overrides, and parse failures. The evals checked the final allow or block decision, along with the context the classifier used when it needed to inspect the workspace before deciding. We also looked for flapping. If the same case allowed six times and blocked four times, that usually meant the policy or prompt was underspecified. Repeated runs gave us a way to find those unstable cases and tighten the classifier until its behavior was more consistent. # Minimizing outright blocks In practice, only a small share of agent actions need to be reviewed by the classifier. Many commands are already covered by allowlists or sandboxing, so the classifier mostly runs when the action needs contextual judgment. When the classifier does run, it currently blocks around 4% of actions, though a block does not immediately become a user prompt. The classifier sends an explanation back to the parent agent, which can often narrow the action, choose a different tool, or avoid the risky step entirely. Some blocks from the classifier become user interruptions, but globally we're seeing that only about 7% of total chats in Auto-review mode lead to at least one interruption. To put that in perspective, s",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Cursor has launched \"Auto-review,\" a new system designed to govern the autonomy of AI agents, particularly those used for coding. This system uses a specialized classifier agent to review actions in context before they are executed, allowing agents more freedom for low-risk tasks while requiring more caution for high-stakes actions. The goal is to balance agent productivity with security by minimizing unnecessary user prompts and preventing unintended, risky operations.",
+      "enterpriseAngle": "Enterprise security and product development teams can leverage this approach to enhance the safety and efficiency of AI agents within their environments, ensuring that agents can operate autonomously for routine tasks while critical actions are subject to contextual security checks. This reduces the burden of constant user approvals, which often lead to 'alert fatigue' and less secure practices.",
+      "beginner": "AI agents can be very helpful, but they need rules to make sure they don't accidentally do something risky, especially when they have access to important company information.",
+      "advanced": "Implement contextual classification agents within your AI agent execution paths, leveraging small, fast models with sufficient reasoning capabilities and tool access (e.g., ReadFile) to dynamically assess risk and user intent, thereby optimizing autonomy while mitigating security vulnerabilities.",
+      "tags": [
+        "agents",
+        "security",
+        "enterprise",
+        "product"
+      ]
     },
     {
       "id": "4600462b11c1",
@@ -2031,12 +2123,17 @@
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
       "publishedAt": "2026-06-05T14:45:00.000Z",
       "fetchedAt": "2026-07-03T22:31:32.993Z",
-      "contentText": "Here are Google’s latest AI updates from May 2026",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Google's May 2026 updates introduced the \"agentic\" Gemini era with Gemini 3.5 and Gemini Omni, focusing on advanced reasoning and creation. New proactive tools like the updated Gemini app, Universal Cart, and Google Health app aim to streamline daily tasks. These features are integrated across new hardware, including the Googlebook and Fitbit Air, to enhance workflow and personal wellness.",
+      "enterpriseAngle": "Enterprise product development teams can leverage Gemini 3.5's frontier intelligence for agents and coding to build more sophisticated, multi-step agentic workflows. The integration of AI into hardware like Googlebook and the development of proactive AI assistants suggest a future where enterprise tools will be more deeply embedded and anticipatory, requiring robust integration strategies.",
+      "beginner": "Google is making AI more helpful and integrated into everyday life by creating AI assistants that can proactively manage tasks and new tools for shopping and health.",
+      "advanced": "Explore Gemini 3.5's action-taking capabilities and Gemini Omni's multimodal generation to develop advanced agentic workflows and creative applications within your enterprise ecosystem.",
+      "tags": [
+        "model-release",
+        "agents",
+        "enterprise",
+        "product"
+      ]
     },
     {
       "id": "b62aa92a0c16",
@@ -2335,6 +2432,22 @@
       "tags": []
     },
     {
+      "id": "8c810ea5d0c7",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Codex is becoming a productivity tool for everyone",
+      "url": "https://openai.com/index/codex-for-knowledge-work",
+      "publishedAt": "2026-06-02T02:00:00.000Z",
+      "fetchedAt": "2026-07-05T14:48:59.264Z",
+      "contentText": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
+    {
       "id": "573b637f25d9",
       "source": "cursor",
       "sourceName": "Cursor",
@@ -2344,6 +2457,22 @@
       "publishedAt": "2026-06-02",
       "fetchedAt": "2026-07-03T02:42:56.020Z",
       "contentText": "Blog / research Jun 2, 2026 · research What we’ve learned building cloud agents Josh Ma · 9 min read Table of Contents ↑ The development environment is the product Long-running agents need durable execution Decoupling agents and machines from conversation state Knowing how to get out of the way Self-healing agent environments When we first launched cloud agents a year ago, they seemed like a straightforward extension of local agents. Since then, cloud agent capabilities have expanded considerably. Cloud agents now run on their own dedicated virtual machines, with their own environments, dependencies, and network access. They can work in parallel, run unattended, and take on longer tasks than a local agent sitting on your laptop. These capabilities introduce challenges around environment setup, reliability, and orchestration that are less pronounced when an agent is running on your laptop. In this post, we want to share the biggest lessons we’ve learned building cloud agents, and why the work increasingly looks less like porting a local agent to a server and more like building an operating layer around it. # The development environment is the product Over the last year we’ve learned that the single biggest factor in cloud agent output quality is ensuring it has a full development environment , like a developer has. This isn’t something you have to think as much about locally, because local agents inherit your working development environment for free, from your laptop. In the cloud, you have to reconstruct all of that from scratch, and it’s surprisingly hard to tell when you haven’t done it perfectly. Instead of a crash or an error message, often the only indication is a subtle degradation in output quality. You might not notice it at first, or if you do, you might chalk it up to the model. But over and over again we've traced it back to the same diagnosis: the cloud agent not having the environment it needs to execute or verify its work. A year ago this mattered less because models couldn't make much use of their environment anyway. But as they've gotten smarter, the environment setup has become the determining factor in whether they execute at their full potential. Today, getting to \"full environment\" requires rebuilding a surprising amount of infrastructure: Better user tools for building the agent environment Methods to efficiently hibernate and resume agent VMs between messages Pipelines to quickly and durably checkpoint, restore, and fork VM images Tight harness and client integrations so that agents and humans alike can interpret and interact with the environment And as cloud agents take on more work they need controlled network access to create PRs, pull dependencies, and do research. Over time, we’ve ended up building what is essentially enterprise IT for agents, complete with secret redaction, network policies, and credential management. # Long-running agents need durable execution Cloud agents present a different kind of reliability challenge than local agents. Instead of competing for local resources on your laptop, cloud agents run in their own isolated VMs. This makes it easier for developers to run many agents in parallel and delegate long-running tasks that often take hours instead of minutes. But, running in a VM creates exposure to disruptions like inference provider outages, pods needing to be replaced, and EC2 nodes going down. We started building cloud agents with a work-stealing architecture, where worker nodes could pick up agents and loop them to completion. It transplanted what works locally to a server and it was a fragile setup—our early beta of cloud agents often operated at one 9 of reliability. As cloud agents matured, we found ourselves on the verge of rebuilding a lot of the durable execution primitives that Temporal already solves (e.g., retry mechanisms, scheduling work across machines, durability across node failures), so instead we migrated there. Our current agent loop on Temporal can survive blips in inference reliability, pod hibernation and resumption, and runs that stretch across days or even weeks. That migration alone took us past two 9s of reliability and today, Temporal handles more than 50 million actions per day across more than 7 million unique workflows. Internally, more than 40% of our PRs come from cloud agents, and growing. Over time, we've learned how to better architect our Temporal workflows. We've moved from \"eternal\" agent workflows to multiple shorter ones that exit after completing a single task, which makes version upgrades easier. We’ve also split out activities to better capture timeouts and retries as async tool calls, subagents, and inference provider outages have changed our underlying assumptions. # Decoupling agents and machines from conversation state A cloud agent is no longer just one loop running on one machine. Instead, an agent might run on one machine, spawn async subagents across several, or start locally then delegate work to the cloud. A subagent might even outlive its parent, or run on a completely different kind of pod. To make that work, we've found it valuable to keep the agent loop, the machine state, and the conversation state as decoupled components. Because the agent loop lives in Temporal rather than on the VM itself, we can manage pod lifecycles independently and run agents across different kinds of pods — including optimizations like readonly VMs or prewarmed VMs. On the conversation side, we separated the storage and streaming layer from the core agent workflow. We built an efficient append-only storage mechanism that streams conversation updates out to web and desktop clients. This layer accounts for retries, so that if a step of the agent loop fails after streaming partial output and then gets retried, the client can detect this, rewind its stream, and show the new data instead of the old. # Knowing how to get out of the way Building a cloud agent harness means constantly reevaluating how much behavior is deterministic and how much gets handed to the agent. Early on, we didn't trust the agent very much, so the harness would double-check its work after every task, force a commit, and push. As models got smarter, we started moving logic out of the harness and into tools the agent controls. A year ago, multi-repo setups required hardcoded harness behavior. Now, we can give the agent the repo layout, expose tools for branches and PRs, and let it decide how to do the work. The same thing happened with CI Autofix, where earlier versions of our cloud agent harness contained logic for grabbing job failure logs and writing them to the VM. Now, we just give the agent access to the GitHub CLI and automatically write large outputs to files it can search through. The notification to the agent got much simpler, and we expect that trend to continue. The harness isn’t going away so much as what it contains is changing. Computer use is a good example right now. O",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
+    {
+      "id": "c8b9a6b007c1",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Our views on AI policy and political advocacy",
+      "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+      "publishedAt": "2026-06-01T17:00:00.000Z",
+      "fetchedAt": "2026-07-05T14:48:59.264Z",
+      "contentText": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf.",
       "summary": null,
       "enterpriseAngle": null,
       "beginner": null,
@@ -2382,6 +2511,38 @@
       "advanced": null,
       "tags": [],
       "dateChecked": true
+    },
+    {
+      "id": "dadd123def02",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Building the infrastructure for the Intelligence Age in Michigan",
+      "url": "https://openai.com/index/stargate-michigan-data-center",
+      "publishedAt": "2026-06-01T12:00:00.000Z",
+      "fetchedAt": "2026-07-05T14:48:59.264Z",
+      "contentText": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
+    {
+      "id": "00ed5eb9be7b",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+      "publishedAt": "2026-06-01T10:00:00.000Z",
+      "fetchedAt": "2026-07-05T14:48:59.264Z",
+      "contentText": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
     },
     {
       "id": "d183d6f5ac82",
@@ -2440,12 +2601,17 @@
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
       "publishedAt": "2026-05-29T17:30:00.000Z",
       "fetchedAt": "2026-07-03T22:31:32.993Z",
-      "contentText": "Watch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Google DeepMind has released Gemini Omni and Gemini 3.5 models. Gemini Omni allows users to create and edit high-quality videos from various inputs using natural language, while Gemini 3.5 Flash is designed for complex, agentic workflows, offering frontier performance for agents and coding tasks. These models are demonstrated through nine examples, showcasing capabilities like video editing, automated asset management, and interactive UI generation.",
+      "enterpriseAngle": "Enterprise product development teams can leverage Gemini Omni for advanced multimedia content creation and editing, while Gemini 3.5 Flash's agentic capabilities and coding prowess can enhance automation of multi-step workflows and the creation of dynamic, interactive web UIs, leading to more efficient operations and innovative product offerings.",
+      "beginner": "Google's new AI models, Gemini Omni and Gemini 3.5, can help you create and edit videos easily with words, and also automate complex tasks.",
+      "advanced": "Integrate Gemini 3.5 Flash with existing enterprise systems via the Antigravity harness to deploy collaborative subagents for scalable, long-horizon workflow automation and advanced coding tasks.",
+      "tags": [
+        "model-release",
+        "agents",
+        "product",
+        "coding"
+      ]
     },
     {
       "id": "a37c51f31f95",
@@ -2457,6 +2623,38 @@
       "publishedAt": "2026-05-29T12:00:00.000Z",
       "fetchedAt": "2026-07-03T22:40:16.645Z",
       "contentText": "University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
+    {
+      "id": "e63fa88b5624",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Boston Children’s uses AI to unlock new diagnoses",
+      "url": "https://openai.com/index/boston-childrens-hospital",
+      "publishedAt": "2026-05-29T12:00:00.000Z",
+      "fetchedAt": "2026-07-05T14:48:59.264Z",
+      "contentText": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
+    {
+      "id": "507ec0fdf629",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "How Braintrust turns customer requests into code with Codex",
+      "url": "https://openai.com/index/braintrust",
+      "publishedAt": "2026-05-29T12:00:00.000Z",
+      "fetchedAt": "2026-07-05T14:48:59.264Z",
+      "contentText": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
       "summary": null,
       "enterpriseAngle": null,
       "beginner": null,
@@ -2755,12 +2953,17 @@
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/running-guide-agent/",
       "publishedAt": "2026-05-20T00:01:00.000Z",
       "fetchedAt": "2026-07-03T22:31:32.993Z",
-      "contentText": "Running Guide agent is an AI agent that provides real-time audio navigation and obstacle detection to help BLV athletes run independently.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Google DeepMind has developed the Running Guide agent, an AI-powered accessibility tool designed to help blind and low-vision athletes run independently without physical guides. This agent uses a chest-mounted Pixel 10 Pro smartphone or intelligent eyewear to interpret the environment and provide real-time auditory feedback for navigation and safety. It represents a significant advancement from simple path-following to complex spatial reasoning.",
+      "enterpriseAngle": "Enterprise product development teams can learn from this hybrid architecture, which combines on-device processing for critical, low-latency safety functions with advanced reasoning for complex scene understanding, ensuring both reliability and sophisticated user experience. This approach is particularly relevant for developing AI-powered assistive technologies and safety-critical applications.",
+      "beginner": "AI can be used to create helpful tools, like a running assistant for people with low vision, by understanding the world around it and giving real-time instructions.",
+      "advanced": "Implement a hybrid, multi-agent architecture leveraging edge computing for low-latency safety and a more powerful on-device LLM (like Gemma 4 E4B) for complex multimodal reasoning, optimizing frame selection for efficiency in real-time applications.",
+      "tags": [
+        "product",
+        "agents",
+        "enterprise",
+        "research"
+      ]
     },
     {
       "id": "686693603124",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T22:10:07.546Z",
+  "updatedAt": "2026-07-05T01:52:21.017Z",
   "articles": [
     {
       "id": "833f4202db7e",
@@ -31,12 +31,16 @@
       "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
       "publishedAt": "2026-07-04T18:00:05.000Z",
       "fetchedAt": "2026-07-04T22:04:23.511Z",
-      "contentText": "As part of an ongoing legal dispute with three Hollywood studios, AI startup Midjourney is seeking to compel those studios to reveal how they use AI themselves. Disney and Universal sued Midjourney for alleged copyright infringement last year, noting that the startup's image-generation models could create images of characters, such as Bart Simpson and Darth Vader, who are owned by the studios. A few months later, Warner Bros. sued Midjourney as well. The startup argues that training its AI models on images of copyrighted characters is permitted under fair use. The current dispute revolves around the documentation the studios will need to produce during the discovery process. A judge previously ruled that the studios would indeed have to provide information about their generative AI usage – but only when it led to “consumer-facing” videos and images. In its latest filing , Midjourney seeks to overturn that limitation, arguing that it “unfairly” allows the studios “to cherry-pick only those documents they believe support their market harm claims while depriving Midjourney of documents that would support its defenses.” Midjourney goes on to claim that the “documents [the studios] are withholding are precisely those that would reveal whether, behind closed doors, they are doing exactly what they are suing Midjourney for doing.” For example, the startup says that if the studios are developing image-generating AI models “for internal use in storyboarding or ideating content for film or TV, that evidence would equally demonstrate that it is an industry custom, even among the studios themselves, to download and train AI on unlicensed copyrighted content.” In the filing, the startup also argues that the studios should reveal all the prompts they used in Midjourney, as well as the resulting outputs, not just the prompts that produced the allegedly infringing images. The studios’ lead attorney David Singer previously claimed Midjourney was seeking this documentation as part of a “fishing expedition.” He also said the studios “do not seek to stop AI technology or even shut down Midjourney’s business,” but rather “simply want Midjourney to stop copying their movies and TV shows and to stop distributing, publicly displaying, publicly performing, and creating derivative works that include copies of [their] famous characters without authorization.” Topics AI , Disney , Media & Entertainment , MidJourney , Universal , Warner Bros When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Anthony Ha Anthony Ha is TechCrunch's weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City. You can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com . View Bio November 4 Boston Last chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world scaling insights and connections that move the needle. Savings end June 26, 11:59 p.m. PT . REGISTER NOW Most Popular Chevy built an all-American EV truck — why is nobody buying it? Tim De Chant After $18B IPO, Bending Spoons founder says success comes from minimizing luck Anna Heim The ‘Father of the Internet' is finally retiring Tim Fernholz OpenClaw is finally available on Android and iOS Lucas Ropek Flipper Device's new Busy Bar is a customizable display for productivity Ivan Mehta Ford rehires ‘gray beard’ engineers after AI falls short Anthony Ha Govee's smart nugget ice maker makes every iced drink feel like a luxury Aisha Malik",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "AI startup Midjourney is in a legal battle with Disney, Universal, and Warner Bros. over alleged copyright infringement, with the studios claiming Midjourney's AI models generate copyrighted characters. Midjourney argues its use falls under fair use and is now pushing for the studios to disclose their own internal AI usage, including prompts and outputs, to support its defense.",
+      "enterpriseAngle": "This case highlights the growing legal complexities for enterprises developing or using generative AI, particularly concerning intellectual property and fair use, and underscores the need for clear internal policies on AI content generation and data sourcing.",
+      "beginner": "Companies that create AI tools are being sued by movie studios because the AI can make pictures of copyrighted characters, and the AI company wants to show that the studios might be doing similar things with AI themselves.",
+      "advanced": "Legal teams should closely monitor the discovery phase of this litigation for precedents regarding the scope of internal AI usage disclosure and its implications for fair use arguments in copyright infringement cases.",
+      "tags": [
+        "policy",
+        "governance",
+        "enterprise"
+      ]
     },
     {
       "id": "760704587ffa",
@@ -654,12 +658,16 @@
       "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
       "publishedAt": "2026-06-30T21:50:04.000Z",
       "fetchedAt": "2026-07-03T22:31:35.780Z",
-      "contentText": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously carry out meaningful work when given concise, high-level instructions, and it has access…",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Anthropic has introduced Claude Science, a new product designed to assist scientific research. This product functions similarly to Claude Code, which aids software engineering, by performing complex tasks based on high-level instructions.",
+      "enterpriseAngle": "Enterprise R&D and product development teams in scientific fields can leverage Claude Science to accelerate research and development cycles, potentially reducing time to market for new innovations. This tool offers a new avenue for automating parts of the scientific discovery process, impacting resource allocation and project timelines.",
+      "beginner": "Anthropic's new AI tool, Claude Science, helps scientists with their research, much like another AI helps coders write software.",
+      "advanced": "Evaluate Claude Science's capabilities for automating experimental design, data analysis, and hypothesis generation within your research workflows to identify potential efficiency gains and integration points.",
+      "tags": [
+        "product",
+        "enterprise",
+        "research"
+      ]
     },
     {
       "id": "91d811178cff",
@@ -670,12 +678,16 @@
       "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
       "publishedAt": "2026-06-30T12:00:00.000Z",
       "fetchedAt": "2026-07-03T22:31:35.780Z",
-      "contentText": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork. The use cases are promising, especially for an industry navigating volatile fertilizer costs, unpredictable weather, and margins that leave little room for error. Research shows AI-enabled predictive models can improve crop…",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "AI offers significant potential for agriculture, particularly in managing unpredictable costs and weather, and improving crop yields through predictive models. However, the industry's current data infrastructure is not yet prepared to fully support these AI applications. This gap means that while the promise of AI in agriculture is high, practical implementation faces hurdles related to data readiness.",
+      "enterpriseAngle": "Enterprise agricultural companies should prioritize developing robust data collection and management strategies before heavily investing in AI solutions to ensure effective deployment and maximize ROI. This foundational work will enable better integration of AI tools for optimizing operations and mitigating risks.",
+      "beginner": "AI can help farmers make better decisions about crops and resources, but it needs good information to work properly.",
+      "advanced": "Implement a data governance framework and invest in standardized data pipelines to prepare agricultural datasets for scalable AI model training and deployment.",
+      "tags": [
+        "enterprise",
+        "research",
+        "infrastructure"
+      ]
     },
     {
       "id": "fb435a036a32",
@@ -2162,6 +2174,54 @@
       "tags": []
     },
     {
+      "id": "8929ed18dbbc",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+      "url": "https://openai.com/index/wasmer",
+      "publishedAt": "2026-06-03T12:00:00.000Z",
+      "fetchedAt": "2026-07-05T01:47:29.468Z",
+      "contentText": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
+    {
+      "id": "0a440e310365",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "OpenAI public policy agenda",
+      "url": "https://openai.com/index/public-policy-agenda",
+      "publishedAt": "2026-06-03T10:00:00.000Z",
+      "fetchedAt": "2026-07-05T01:47:29.468Z",
+      "contentText": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
+    {
+      "id": "fae173f5fba9",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "A blueprint for democratic governance of frontier AI",
+      "url": "https://openai.com/index/frontier-safety-blueprint",
+      "publishedAt": "2026-06-03T10:00:00.000Z",
+      "fetchedAt": "2026-07-05T01:47:29.468Z",
+      "contentText": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
+    {
       "id": "b6feb03782d0",
       "source": "xai",
       "sourceName": "xAI (Grok)",
@@ -2225,6 +2285,54 @@
       "advanced": null,
       "tags": [],
       "dateChecked": true
+    },
+    {
+      "id": "6421a7340260",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+      "url": "https://openai.com/index/travelers",
+      "publishedAt": "2026-06-02T12:00:00.000Z",
+      "fetchedAt": "2026-07-05T01:47:29.468Z",
+      "contentText": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
+    {
+      "id": "597005b4447f",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Codex for every role, tool, and workflow",
+      "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
+      "publishedAt": "2026-06-02T09:00:00.000Z",
+      "fetchedAt": "2026-07-05T01:47:29.468Z",
+      "contentText": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
+    {
+      "id": "00e733aa1592",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Advancing youth safety and opportunity through global leadership",
+      "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+      "publishedAt": "2026-06-02T07:00:00.000Z",
+      "fetchedAt": "2026-07-05T01:47:29.468Z",
+      "contentText": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
     },
     {
       "id": "573b637f25d9",

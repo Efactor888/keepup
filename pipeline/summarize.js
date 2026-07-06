@@ -30,7 +30,7 @@ if (!PROVIDER) {
 }
 
 const GEMINI_MODEL = process.env.GEMINI_MODEL || 'gemini-2.5-flash';
-const XAI_MODEL = process.env.XAI_MODEL || 'grok-4.1-fast';
+const XAI_MODEL = process.env.XAI_MODEL || 'grok-4.3';
 const ANTHROPIC_MODEL = 'claude-haiku-4-5';
 const args = process.argv.slice(2);
 const limit = args.includes('--limit') ? Number(args[args.indexOf('--limit') + 1]) : Infinity;
@@ -157,7 +157,7 @@ async function summarizeClaude(a) {
 }
 
 const IMPL = { gemini: summarizeGemini, xai: summarizeGrok, anthropic: summarizeClaude };
-const RATE = { gemini: { in: 0, out: 0 }, xai: { in: 0.20, out: 0.50 }, anthropic: { in: 1, out: 5 } }; // $/1M
+const RATE = { gemini: { in: 0, out: 0 }, xai: { in: 1.25, out: 2.50 }, anthropic: { in: 1, out: 5 } }; // $/1M
 const MODEL = { gemini: GEMINI_MODEL, xai: XAI_MODEL, anthropic: ANTHROPIC_MODEL };
 const PACE = PROVIDER === 'gemini' ? 7000 : 300; // Gemini free tier caps req/min; stay well under
 

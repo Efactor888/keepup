@@ -41,6 +41,7 @@ mkdirSync(join(ROOT, 'site'), { recursive: true });
 writeFileSync(join(ROOT, 'site', 'index.html'), html);
 writeFileSync(join(ROOT, 'site', 'archive.json'), JSON.stringify(archived));
 writeFileSync(join(ROOT, 'site', '.nojekyll'), ''); // tell GitHub Pages to serve files as-is
+writeFileSync(join(ROOT, 'site', 'CNAME'), 'erikhuang.ai\n'); // custom domain (GitHub Pages reads this)
 
 // Copy static assets (photos, etc.) from site-src/assets → site/assets so they
 // survive rebuilds and are served alongside index.html.

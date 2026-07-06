@@ -11,6 +11,10 @@ on:
         description: 'Max articles to summarize this run'
         required: false
         default: '25'
+      provider:
+        description: 'Force summarizer provider (gemini | xai | anthropic); blank = auto'
+        required: false
+        default: ''
 
 permissions:
   contents: write   # commit refreshed data/ and site/ back to the repo
@@ -42,6 +46,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SUMMARIZE_PROVIDER: ${{ github.event.inputs.provider }}
         # Cap per run so it stays fast and within the free tier. Any remaining
         # backlog is drained by the next run; steady-state is ~15 new/run anyway.
         # Manual runs can pass a higher limit to drain a backlog in one go.

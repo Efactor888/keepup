@@ -16,7 +16,12 @@ import { loadStore, saveStore, fetchArticleText } from './util.js';
 const GEMINI_KEY = process.env.GEMINI_API_KEY;
 const XAI_KEY = process.env.XAI_API_KEY;
 const ANTHROPIC_KEY = process.env.ANTHROPIC_API_KEY;
-const PROVIDER = GEMINI_KEY ? 'gemini' : XAI_KEY ? 'xai' : ANTHROPIC_KEY ? 'anthropic' : null;
+// Auto-precedence Gemini -> Grok -> Claude, unless SUMMARIZE_PROVIDER forces one
+// (useful when Gemini's daily free quota is exhausted and a fallback key is set).
+const KEYS = { gemini: GEMINI_KEY, xai: XAI_KEY, anthropic: ANTHROPIC_KEY };
+const FORCE = (process.env.SUMMARIZE_PROVIDER || '').toLowerCase();
+const PROVIDER = (FORCE && KEYS[FORCE]) ? FORCE
+  : (GEMINI_KEY ? 'gemini' : XAI_KEY ? 'xai' : ANTHROPIC_KEY ? 'anthropic' : null);
 
 if (!PROVIDER) {
   // Skip rather than fail — new articles show as "just in" until a run has a key.

@@ -1,6 +1,117 @@
 {
-  "updatedAt": "2026-07-06T16:39:59.072Z",
+  "updatedAt": "2026-07-06T22:25:28.460Z",
   "articles": [
+    {
+      "id": "de9ac07ba87e",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
+      "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+      "publishedAt": "2026-07-06T19:49:10.000Z",
+      "fetchedAt": "2026-07-06T22:20:30.948Z",
+      "contentText": null,
+      "summary": "Vercel CEO Guillermo Rauch notes a shift in AI from prototyping to practical application, with a focus on production challenges like data security and auditability for agents. He identifies coding agents and internal corporate agents as key applications, highlighting the need for secure data access and control. Vercel's tools, Eve and Sandbox, address these issues by allowing policy application and data control for agents.",
+      "enterpriseAngle": "Enterprises are moving beyond AI prototypes to focus on secure, auditable agent deployments, necessitating robust frameworks for data access control and policy enforcement. Product development teams should prioritize creating modular AI components that allow for flexible integration with various models and infrastructure, rather than monolithic solutions.",
+      "beginner": "AI agents are becoming essential tools for businesses, helping with tasks like writing code and analyzing internal data, but it's crucial to control what information they can see and share.",
+      "advanced": "Implement agent sandboxing and granular access controls to mitigate data leakage risks and ensure auditability, while architecting for model agnosticism to optimize for price/performance and leverage open-source alternatives in production environments.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product",
+        "security"
+      ]
+    },
+    {
+      "id": "96edd13ea63b",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "You can now customize Siri's pace and expressivity in the latest iOS 27 beta",
+      "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+      "publishedAt": "2026-07-06T19:01:59.000Z",
+      "fetchedAt": "2026-07-06T22:20:30.948Z",
+      "contentText": "In Brief Posted: 12:01 PM PDT · July 6, 2026 Image Credits: Artur Widak/NurPhoto / Getty Images Sarah Perez You can now customize Siri's pace and expressivity in the latest iOS 27 beta With the latest iOS 27 developer beta, Apple is giving testers an early look at one of the upcoming improvements to its AI-powered Siri : the ability to adjust how quickly and expressively the AI assistant speaks. In iOS 27 beta 3, out today, Apple has enabled the voice controls for \"Pace\" and \"Expressivity\" that were previously labeled as \"Coming soon\" in the first developer beta releases. The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI. Like ChatGPT and others offering voice AI assistants, letting users customize how the AI sounds is an important aspect in helping connect people with the new technology. However, ChatGPT's voice-customization options allow users to go even further, as the ability to adjust the AI's warmth and enthusiasm was rolled out in December 2025 , alongside options to configure the base style and tone. The latter lets users adjust OpenAI's assistant to be more friendly, professional, candid, or quirky, among other styles. This is reflected not only in how ChatGPT speaks, but also in how it presents information to the user. You can customize Siri’s voice in iOS 27 beta 3 pic.twitter.com/qFV8L1e7di — Liam (@LiamFromOrlando) July 6, 2026 First introduced at Apple's Worldwide Developers Conference (WWDC 26) in June, Siri's voice controls let users personalize their Siri experience beyond just choosing a male- or female-sounding assistant. Now beta testers will be able to switch between a range of voices with different accents, and then use sliders to change how slowly or quickly Siri speaks and how much human-like emotion its voice conveys. As you make the adjustments, Siri will practice saying some common things, like \"You have one new message,\" so you can get a sense of how the different voices sound. The AI version of Siri is deeply integrated across the updated version of iOS, where it will allow iPhone owners to start conversations by speaking, swiping down from the Dynamic Island at the top of the screen and typing, tapping on the phone's side button, or even by using the brand-new stand-alone Siri app. Other, more minor updates are also rolling out with iOS 27 beta 3, including an updated Reminders app icon. (We should note some people on X are also reporting losing access to the new Siri after updating, or seeing their phone again begin indexing their data — typically, the first step in optimizing Siri AI for search.) Topics AI , Apps , iOS 27 , siri , siri ai November 4 Boston Last chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world scaling insights and connections that move the needle. Savings end June 26, 11:59 p.m. PT . REGISTER NOW Newsletters See More Subscribe for the industry’s biggest tech news TechCrunch Daily News Every weekday and Sunday, you can get the best of TechCrunch’s coverage. TechCrunch Mobility TechCrunch Mobility is your destination for transportation news and insight. Startups Weekly Startups are the core of TechCrunch, so get our best coverage delivered weekly. StrictlyVC Provides movers and shakers with the info they need to start their day. No newsletters selected. Subscribe By submitting your email, you agree to our Terms and Privacy Notice . Related AI If you use Google, you're training its AI. Here's how to opt out. Sarah Perez 5 hours ago Startups Smart glasses maker Even Realities hits $1B valuation with $150M funding led by Meituan, Tencent Kate Park 13 hours ago Gadgets 5 desk gadgets that can make your workday better Aisha Malik 1 day ago Latest in AI AI Vercel CEO Guillermo Rauch on the fight to split off models from agents Russell Brandom 2 hours ago In Brief You can now customize Siri's pace and expressivity in the latest iOS 27 beta Sarah Perez 3 hours ago AI Every major tech layoff in 2026 that has name-checked AI Rebecca Bellan Connie Loizos 3 hours ago",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
+    {
+      "id": "2902cfd98ebb",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities",
+      "url": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
+      "publishedAt": "2026-07-06T19:00:35.000Z",
+      "fetchedAt": "2026-07-06T22:20:19.924Z",
+      "contentText": null,
+      "summary": "The Government of Alberta used Anthropic's Claude Code, specifically Opus and Sonnet models, to identify and fix cybersecurity vulnerabilities across its systems. This initiative allowed them to scan 466 million lines of code in 20 hours, remediate security gaps, and build new tools, a process estimated to take years with traditional methods. The project also involved rebuilding outdated code in modern languages and establishing continuous security reviews using specialized Claude agents.",
+      "enterpriseAngle": "Enterprise security teams can leverage large language models like Claude Code to rapidly assess and remediate vulnerabilities in vast, complex, and often legacy codebases, significantly reducing the time and cost associated with traditional security audits and modernization efforts. Product development teams can integrate AI agents for continuous security review and automated test generation, improving code quality and accelerating secure software delivery.",
+      "beginner": "AI can help governments and companies find and fix security problems in their computer systems much faster than humans can alone.",
+      "advanced": "Implement a multi-stage AI-driven code review pipeline, leveraging autonomous agents for initial vulnerability scanning and automated remediation, while ensuring human oversight for patch approval and complex architectural refactoring.",
+      "tags": [
+        "security",
+        "enterprise",
+        "product",
+        "coding"
+      ],
+      "dateChecked": true
+    },
+    {
+      "id": "506f3c6ff46a",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Every major tech layoff in 2026 that has name-checked AI",
+      "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "publishedAt": "2026-07-06T18:35:00.000Z",
+      "fetchedAt": "2026-07-06T22:20:30.948Z",
+      "contentText": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
+    {
+      "id": "c43ecca2c4a6",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "Your family's $300 stake in OpenAI",
+      "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+      "publishedAt": "2026-07-06T18:00:00.000Z",
+      "fetchedAt": "2026-07-06T22:20:31.230Z",
+      "contentText": null,
+      "summary": "OpenAI CEO Sam Altman has frequently discussed his vision for Americans to share in the wealth generated by artificial intelligence. This topic recently resurfaced in the news, with the Financial Times reporting on Altman's ongoing efforts regarding this promise.",
+      "enterpriseAngle": "Enterprises should monitor discussions around wealth distribution from AI, as potential future models for public ownership or dividends could influence public perception and regulatory landscapes for AI companies.",
+      "beginner": "Sam Altman, the head of OpenAI, wants everyone in America to benefit financially from the success of AI technology.",
+      "advanced": "Track the evolving discourse and potential mechanisms for AI wealth distribution, as these could foreshadow future regulatory frameworks or public-private partnership models impacting AI development and adoption.",
+      "tags": [
+        "policy",
+        "governance",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "524024212bc7",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "If you use Google, you're training its AI. Here's how to opt out.",
+      "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+      "publishedAt": "2026-07-06T17:04:58.000Z",
+      "fetchedAt": "2026-07-06T22:20:30.948Z",
+      "contentText": "Consider this a belated PSA: A recent change to Google’s privacy settings is allowing the company to store more of your data, including media such as “images, files, and audio and video recordings,” to improve its AI models.",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
     {
       "id": "9a2aac1c8f00",
       "source": "techcrunch-ai",
@@ -19,6 +130,22 @@
         "workforce",
         "enterprise"
       ]
+    },
+    {
+      "id": "01e02031e105",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Reddit is using LLMs to solve a problem LLMs largely created",
+      "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+      "publishedAt": "2026-07-06T15:22:08.000Z",
+      "fetchedAt": "2026-07-06T22:20:30.948Z",
+      "contentText": "In the AI era, platforms have no choice but to fight fire with fire to cull spam.",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
     },
     {
       "id": "76b3470890a3",
@@ -1270,12 +1397,16 @@
       "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
       "publishedAt": "2026-06-23T13:00:00.000Z",
       "fetchedAt": "2026-07-03T22:40:16.482Z",
-      "contentText": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "OpenAI is contributing to the development of shared standards for advanced AI. This effort involves supporting evaluation frameworks and safety practices. These initiatives are facilitated through global cooperation via the Appia Foundation.",
+      "enterpriseAngle": "Enterprises should monitor these developing AI standards to ensure their internal AI deployments and products align with emerging best practices for safety and evaluation. Adhering to these standards can help mitigate risks and build trust in enterprise AI solutions.",
+      "beginner": "OpenAI is working with others to create common rules and safety guidelines for advanced AI.",
+      "advanced": "Actively participate in or monitor the Appia Foundation's initiatives to integrate emerging AI safety and evaluation standards into your organization's AI governance framework and product development lifecycle.",
+      "tags": [
+        "governance",
+        "policy",
+        "enterprise"
+      ]
     },
     {
       "id": "40502edc9dc7",

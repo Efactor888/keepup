@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T22:17:02.921Z",
+  "updatedAt": "2026-07-06T05:06:16.121Z",
   "articles": [
     {
       "id": "a36af4403d8c",
@@ -984,12 +984,16 @@
       "url": "https://openai.com/index/hp-frontier-partnership",
       "publishedAt": "2026-06-28T17:00:00.000Z",
       "fetchedAt": "2026-07-03T22:31:32.758Z",
-      "contentText": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "HP Inc. is expanding its strategic partnership with OpenAI to integrate AI into various aspects of its business, including customer experiences, software development, and internal enterprise operations.",
+      "enterpriseAngle": "This partnership signifies a growing trend of major enterprises leveraging AI to enhance product offerings, streamline development processes, and optimize operational efficiency.",
+      "beginner": "Large companies like HP are using AI to improve how they interact with customers and make their internal work more efficient.",
+      "advanced": "Enterprise architects should evaluate how similar AI partnerships could be integrated into existing infrastructure to drive innovation in customer engagement and operational workflows.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "product"
+      ]
     },
     {
       "id": "adbd50c1b1db",
@@ -2871,6 +2875,54 @@
       "tags": []
     },
     {
+      "id": "9da64821c60f",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Building self-improving tax agents with Codex",
+      "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+      "publishedAt": "2026-05-27T07:00:00.000Z",
+      "fetchedAt": "2026-07-06T05:01:37.496Z",
+      "contentText": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
+    {
+      "id": "b36c91942c4f",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Warp’s big bet on building open source with GPT-5.5",
+      "url": "https://openai.com/index/warp",
+      "publishedAt": "2026-05-27T00:00:00.000Z",
+      "fetchedAt": "2026-07-06T05:01:37.496Z",
+      "contentText": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
+    {
+      "id": "fae225528858",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Election information and safeguards in 2026",
+      "url": "https://openai.com/index/election-safeguards-2026",
+      "publishedAt": "2026-05-27T00:00:00.000Z",
+      "fetchedAt": "2026-07-06T05:01:37.496Z",
+      "contentText": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
+    {
       "id": "bcd1f238be35",
       "source": "xai",
       "sourceName": "xAI (Grok)",
@@ -2930,6 +2982,22 @@
       "publishedAt": "2026-05-26",
       "fetchedAt": "2026-07-03T02:45:51.303Z",
       "contentText": "Blog / customers May 26, 2026 · customers Faire doubles PR throughput with Cursor Cloud Agents Faire selected Cursor as its platform for coding agents, replacing an in-house background agent system. 8 min read Contact sales Table of Contents ↑ Cloud unlocks scaled agent parallelism Development environments give agents more autonomy Programmatic agents with Cursor Automations Automating legacy migrations with parallelized agents Standing up build previews in less than a day Faire is an E-commerce company in North America. 2x Increase in weekly PR throughput, driven by cloud agents 18 month Migration for a full team reduced to one engineer and a fleet of agents 2,000+ Automated agent runs per week without any manual prompting 25+ Cursor Automations for bug fixes, CI investigations, and code review Faire is an E-commerce company in North America. 2x Increase in weekly PR throughput, driven by cloud agents 18 month Migration for a full team reduced to one engineer and a fleet of agents 2,000+ Automated agent runs per week without any manual prompting 25+ Cursor Automations for bug fixes, CI investigations, and code review Faire doubled weekly PR throughput and collapsed an 18-month migration down to a single engineer managing a fleet of agents. Cursor's cloud agents made this possible through scaled parallelization and autonomy. Cloud agents run without the memory and resource constraints of a local machine, and each one gets its own development environment—just like an engineer—to write code, test and verify its work, and ship software. Cursor is now Faire's recommended platform for agentic development, replacing an in-house background agent system. The team also uses Cursor Automations to kick off more than 2,000 autonomous agent runs per week to save time on repetitive tasks like triaging bug reports in Slack, fixing CI failures, and routing code reviews. # Cloud unlocks scaled agent parallelism Running multiple agents in parallel on a local machine quickly runs into constraints on local resources: each agent competes for the same compute and managing 10 in-flight tasks across separate terminals becomes its own job. \"There are ways to parallelize agents on your local machine, but it's much more complicated,\" says Luke Bjerring, a principal engineer. Initially, Faire tried solving this by building an in-house cloud agent system called Samurai that ran on self-hosted infrastructure. But getting the developer experience right requires substantial investment. \"Standing up our own servers is a significant investment. It requires hiring talent, bootstrapping machines, and maintaining complex infrastructure. We'd rather have engineers focused on adding value to our end users,\" says Bjerring. Faire went looking for a platform that would give them the flexibility to run cloud agents on managed infrastructure or self-hosted machines. They selected Cursor for that deployment flexibility, close integration with tools like GitHub, agent reliability, a clean interface for managing agents in parallel, and seamless handoffs between local and cloud. Cursor is now Faire's recommended platform for agentic development across the company. Cursor's cloud offering is a lot better than running local agents with worktrees or 10 remote environments you're shelling into. It's a streamlined UX for managing multiple concurrent agents. Luke Bjerring Principal Engineer, Faire # Development environments give agents more autonomy Parallelization only pays off if agents can operate like engineers: pulling dependencies, hitting internal services, running code, and verifying changes. Without a configured development environment, an agent can write code but can't close the loop on its work. Faire's development environment makes cloud agent setup challenging. Backend and frontend live in separate repos with their own internal package dependencies, managed through Gradle and Bazel, and gated behind separate AWS credentials. To simplify this complexity, Faire uses Cursor's agent-led onboarding: Cursor inspects each repo, figures out the required toolchain and dependencies, and produces an environment configuration that the team can edit and version. For workflows that require tighter control, Faire can define and manage development environments via Dockerfile. We let Cursor onboard itself on every repo in our codebase. That takes a lot of the overhead out of new session starts and lets agents tackle tasks just like an engineer would. Blair McAlpine Senior Engineer, Faire Faire's designers use an internal tool called Playground to translate design systems in Figma into React components in code. With a fully-configured development environment, Cursor can run the Playground server, produce React components, and record video demos for designers to review the agent's work. Faire is a Slack-heavy company and a lot of engineering work starts as a question or bug report in a channel. Engineers often call @cursor directly from Slack threads, handing off conversation context to a cloud agent that can investigate and return with a PR. A lot of our work comes from ideas and discussions in Slack. You can see the message, kick off @cursor in the same context, and you get a PR a few minutes later. This helps me avoid jumping between tools and context while the agent does the work. Luke Bjerring Principal Engineer, Faire # Programmatic agents with Cursor Automations Beyond running parallel agents, Faire needed agents that could take on repetitive engineering work autonomously to save the team time. Faire has set up more than 25 Cursor Automations and now executes more than 2,000 autonomous agent runs per week without any manual prompting. The most common use cases are: Triage bugs reported in Slack. Automations monitor designated Slack channels for bug reports. When an issue comes in, a cloud agent is kicked off to investigate, open a PR with fixes, and provide a summary of its work. PR auto-healing. When CI fails on a PR, an automation kicks off, investigates the failure, pushes fixes, and updates the PR. PR routing. An agent labels every PR by author, risk, and size, then routes the PR to a tailored code review workflow. The concept of automations has been long-lived at Faire, but setting them up was painful and complicated. Cursor Automations makes spinning up always-on agents accessible to every user. Blair McAlpine Senior Engineer, Faire # Automating legacy migrations with parallelized agents When Faire needed to migrate a large, retailer-facing application from MobX to native React state management, the team built an agent coordination system on top of Cursor called Swarm. First, a scraper finds every detected usage of MobX in the codebase and writes the list to S3. Swarm then reads the list and delegates migration tasks to Cursor cloud agents, each running in its own isolated VM on Cursor's infrastructure. As one agent completes its work and merges",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
+    {
+      "id": "2958e44acb3b",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+      "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+      "publishedAt": "2026-05-25T00:00:00.000Z",
+      "fetchedAt": "2026-07-06T05:01:37.496Z",
+      "contentText": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
       "summary": null,
       "enterpriseAngle": null,
       "beginner": null,

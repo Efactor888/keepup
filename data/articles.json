@@ -1,6 +1,108 @@
 {
-  "updatedAt": "2026-07-06T22:25:28.460Z",
+  "updatedAt": "2026-07-07T15:55:00.346Z",
   "articles": [
+    {
+      "id": "4093f7458e11",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Savi's app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
+      "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+      "publishedAt": "2026-07-07T12:00:00.000Z",
+      "fetchedAt": "2026-07-07T15:46:27.959Z",
+      "contentText": null,
+      "summary": "Savi Security, founded by brothers Patrick and Ryan Coughlin, has launched an app to protect consumers from sophisticated AI-generated scams, including realistic voice cloning and spoofed caller IDs. The company secured $7 million in seed funding and offers a paid app for iOS and Android that screens texts, voicemails, and provides live-call monitoring for suspicious conversations. This initiative was inspired by a personal incident where their mother was targeted by an AI-powered kidnapping scam.",
+      "enterpriseAngle": "Enterprise security teams should recognize that the same AI sophistication previously aimed at governments and large corporations is now readily available to cybercriminals targeting consumers, highlighting the need for robust employee education on AI-driven social engineering. Product development teams can learn from Savi's approach to real-time AI-powered threat detection and consider integrating similar protective measures into consumer-facing applications.",
+      "beginner": "AI makes it much easier for scammers to create very convincing fake calls, texts, and emails, making it harder to tell what's real.",
+      "advanced": "Implement real-time, multi-modal AI detection capabilities for inbound communications to counter sophisticated social engineering attacks leveraging generative AI, and integrate continuous threat intelligence from consumer-facing scam trends to inform enterprise security posture.",
+      "tags": [
+        "security",
+        "product",
+        "consumer",
+        "funding"
+      ]
+    },
+    {
+      "id": "2f853f2f2b26",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "The foundational elements of AI architecture that IT leaders need to scale",
+      "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+      "publishedAt": "2026-07-07T11:10:52.000Z",
+      "fetchedAt": "2026-07-07T15:46:28.403Z",
+      "contentText": null,
+      "summary": "As AI capabilities and agentic systems rapidly advance, organizations are expanding their use cases, which introduces new risks and challenges for IT leaders regarding future investments. The article suggests a return to foundational elements of AI architecture to address these concerns.",
+      "enterpriseAngle": "Enterprise IT leaders must prioritize foundational AI architecture elements to ensure scalable and future-proof investments amidst rapid technological evolution and the increasing adoption of agentic systems. This approach helps mitigate risks associated with constantly changing AI capabilities and use cases.",
+      "beginner": "As AI gets smarter and more common, businesses need to build strong, basic foundations for their AI systems to make sure they work well now and in the future.",
+      "advanced": "Focus on establishing robust, modular AI architectural patterns that support dynamic agentic system integration and provide abstraction layers to future-proof against rapid model and framework evolution.",
+      "tags": [
+        "enterprise",
+        "infrastructure",
+        "agents"
+      ]
+    },
+    {
+      "id": "22b92e70fc9f",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "The first American autonomous ground vehicles are fighting in Ukraine",
+      "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+      "publishedAt": "2026-07-07T09:00:00.000Z",
+      "fetchedAt": "2026-07-07T15:46:27.959Z",
+      "contentText": null,
+      "summary": "Forterra, a U.S. autonomous vehicle builder, has deployed over 100 self-driving ATVs in Ukraine for nine months, marking what it believes is the largest combat deployment of autonomous ground vehicles by a U.S. defense tech company. These gas-powered Lancer vehicles, funded by U.S. defense dollars, have completed over 1,100 missions, carrying supplies and evacuating casualties, demonstrating their utility in conflict zones. While currently often teleoperated due to the complexities of combat, Forterra is working to integrate generative AI to enhance their autonomous capabilities.",
+      "enterpriseAngle": "This deployment highlights the critical need for robust, adaptable autonomous systems in challenging environments and underscores the importance of real-world testing for defense technology. Enterprise product development teams can learn from Forterra's experience in rapidly iterating and modifying products (like adding Starlink) based on direct user feedback from high-stakes operational settings.",
+      "beginner": "Self-driving vehicles are being used in war zones to help move supplies and people, but they still need human control for many dangerous situations.",
+      "advanced": "Integrate real-world combat data and user feedback loops into your autonomous system development to identify and address critical operational 'seams' and enhance resilience against electronic warfare and unexpected threats, focusing on hybrid control models where full autonomy is not yet feasible.",
+      "tags": [
+        "product",
+        "enterprise",
+        "research",
+        "agents"
+      ]
+    },
+    {
+      "id": "e9c34c77de00",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "The ‘first' AI-run ransomware attack still needed a human",
+      "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+      "publishedAt": "2026-07-06T23:56:14.000Z",
+      "fetchedAt": "2026-07-07T15:46:27.959Z",
+      "contentText": null,
+      "summary": "An AI agent recently executed the technical steps of a ransomware attack, marking the first known instance of its kind in a real-world scenario. However, a human actor was still responsible for selecting the target, establishing the necessary infrastructure, and providing stolen credentials, indicating the attack was not fully autonomous.",
+      "enterpriseAngle": "Enterprise security teams should recognize that while AI can automate parts of cyberattacks, human oversight and initial setup remain critical components of sophisticated threats. This highlights the need for robust defense strategies that account for both AI-assisted and human-driven attack vectors.",
+      "beginner": "Even with AI involved, humans are still making key decisions in cyberattacks, like choosing who to target.",
+      "advanced": "Prioritize threat intelligence on AI-assisted attack frameworks to identify human-AI handoff points and develop detection strategies for both automated execution and pre-attack human reconnaissance/infrastructure setup.",
+      "tags": [
+        "security",
+        "agents"
+      ]
+    },
+    {
+      "id": "47614c3927b1",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+      "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+      "publishedAt": "2026-07-06T23:21:03.000Z",
+      "fetchedAt": "2026-07-07T15:46:27.959Z",
+      "contentText": null,
+      "summary": "SK Hynix, a South Korean memory chipmaker, plans to offer American depositary receipts (ADRs) in a U.S. IPO, potentially raising around $28 billion. The company, like its competitor Micron, is experiencing significant growth in revenue and stock price due to high demand for memory chips used in AI systems. This surge in demand has led to a shortage of chips like HBM, DRAM, and NAND, prompting major investments in manufacturing capacity.",
+      "enterpriseAngle": "Enterprise product development teams building AI systems will continue to face high demand and potentially volatile pricing for memory components, impacting hardware costs and supply chain stability. Security teams should note that the rapid expansion of AI infrastructure and the associated hardware demands could introduce new supply chain risks.",
+      "beginner": "AI systems need a lot of special memory chips, and companies that make these chips are seeing huge growth because of the high demand.",
+      "advanced": "Monitor the HBM, DRAM, and NAND market for pricing and supply fluctuations, and consider diversifying memory chip suppliers to mitigate risks associated with the ongoing 'RAMageddon' and potential future oversupply.",
+      "tags": [
+        "hardware",
+        "infrastructure",
+        "funding",
+        "enterprise"
+      ]
+    },
     {
       "id": "de9ac07ba87e",
       "source": "techcrunch-ai",
@@ -186,6 +288,27 @@
         "funding",
         "governance",
         "product"
+      ]
+    },
+    {
+      "id": "bf7ecf7e78c0",
+      "source": "xai",
+      "sourceName": "xAI (Grok)",
+      "tier": "realtime",
+      "title": "Jul 6, 2026 21 New Flagship Grok Voices Jul 6, 2026 21 New Flagship Grok Voices New multilingual voices for Grok Voice, plus improved naturalness for the original five. Read More",
+      "url": "https://x.ai/news/new-flagship-voices",
+      "publishedAt": "2026-07-06",
+      "fetchedAt": "2026-07-07T15:46:24.060Z",
+      "contentText": null,
+      "summary": "xAI has released 21 new multilingual voices for Grok Voice, bringing the total to 26. These new voices are designed for various use cases like customer support, advertising, and education, and are available through the Voice Agent API, Text to Speech API, and the new Grok Voice Agent Builder. Additionally, the original five Grok voices have been updated for improved naturalness in pacing, phrasing, and emphasis.",
+      "enterpriseAngle": "Enterprise product development teams can leverage these new multilingual voices and the Grok Voice Agent Builder to create more natural and versatile AI-powered voice agents for global customer support, marketing, and educational applications. The ability to control delivery with speech tags and clone custom voices offers significant flexibility for brand consistency and specialized use cases.",
+      "beginner": "Grok Voice now has many more computer-generated voices that sound more natural and can speak multiple languages, making AI assistants more helpful for different jobs and people around the world.",
+      "advanced": "Utilize the Grok Voice Agent Builder and the new multilingual voices to rapidly prototype and deploy specialized voice agents, paying close attention to speech tags and custom voice cloning for nuanced brand representation and enhanced user experience across diverse linguistic contexts.",
+      "tags": [
+        "product",
+        "enterprise",
+        "model-release",
+        "agents"
       ]
     },
     {
@@ -499,6 +622,27 @@
         "infrastructure",
         "product",
         "security"
+      ]
+    },
+    {
+      "id": "9b279587f65e",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "Building the foundation for an autonomous enterprise",
+      "url": "https://www.technologyreview.com/2026/07/02/1138433/building-the-foundation-for-an-autonomous-enterprise/",
+      "publishedAt": "2026-07-02T12:51:44.000Z",
+      "fetchedAt": "2026-07-07T15:46:28.403Z",
+      "contentText": null,
+      "summary": "While AI is widely known for consumer applications like chatbots, its most significant impact is emerging in industrial sectors. Here, AI is being integrated as a fundamental operational layer, particularly in industries that rely heavily on physical infrastructure, continuous operations, and stringent safety protocols.",
+      "enterpriseAngle": "Enterprise product development teams should focus on building AI solutions that address the unique challenges of industrial environments, prioritizing reliability, safety, and integration with existing physical infrastructure. Security teams must ensure these AI-powered operational layers are robust against cyber threats, given their critical role in maintaining continuity and safety.",
+      "beginner": "AI is not just for fun apps; it's becoming essential for running big industrial systems safely and efficiently.",
+      "advanced": "Prioritize the development of AI-driven control systems with built-in redundancy and explainability for critical industrial applications to meet both operational demands and regulatory compliance.",
+      "tags": [
+        "enterprise",
+        "product",
+        "infrastructure",
+        "agents"
       ]
     },
     {
@@ -1437,12 +1581,16 @@
       "url": "https://openai.com/index/omio",
       "publishedAt": "2026-06-23T00:00:00.000Z",
       "fetchedAt": "2026-07-03T22:40:16.482Z",
-      "contentText": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Omio is leveraging OpenAI's technology to create conversational travel experiences. This collaboration aims to speed up product development and help Omio transition into an AI-native organization.",
+      "enterpriseAngle": "Enterprises can learn from Omio's strategy to integrate AI for enhanced customer interaction and accelerated product cycles, fostering a shift towards becoming AI-native.",
+      "beginner": "Companies like Omio are using AI to make talking to customers easier and faster, especially for things like planning trips.",
+      "advanced": "Evaluate the potential for integrating conversational AI platforms to streamline customer service and product development workflows within your organization, focusing on measurable efficiency gains and user experience improvements.",
+      "tags": [
+        "enterprise",
+        "product",
+        "partnership"
+      ]
     },
     {
       "id": "2a799425b04b",
@@ -1517,12 +1665,17 @@
       "url": "https://openai.com/index/patch-the-planet",
       "publishedAt": "2026-06-22T10:00:00.000Z",
       "fetchedAt": "2026-07-04T04:29:09.572Z",
-      "contentText": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "OpenAI has launched \"Patch the Planet,\" an initiative under its Daybreak program. This program aims to assist open-source maintainers in identifying, validating, and resolving vulnerabilities using a combination of AI tools and expert human review.",
+      "enterpriseAngle": "Enterprise security teams can leverage this initiative to improve the security posture of their open-source dependencies, potentially reducing risks associated with software supply chains. Product development teams can benefit from more secure open-source components, leading to more robust and reliable products.",
+      "beginner": "OpenAI is using AI to help people who maintain free software fix security problems faster.",
+      "advanced": "Integrate findings from Patch the Planet into your organization's vulnerability management and secure development lifecycle to proactively address open-source software risks.",
+      "tags": [
+        "security",
+        "enterprise",
+        "product",
+        "coding"
+      ]
     },
     {
       "id": "f7e9d38ae732",
@@ -1533,12 +1686,17 @@
       "url": "https://openai.com/index/daybreak-securing-the-world",
       "publishedAt": "2026-06-22T10:00:00.000Z",
       "fetchedAt": "2026-07-04T04:29:09.572Z",
-      "contentText": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "OpenAI has launched new Daybreak tools, Codex Security and GPT-5.5-Cyber, designed to assist organizations in identifying, confirming, and resolving security vulnerabilities efficiently. These tools aim to enhance the ability of companies to manage their security posture at scale.",
+      "enterpriseAngle": "Enterprise security teams can leverage these new OpenAI tools to automate and accelerate their vulnerability management processes, potentially reducing the time and resources needed to secure their systems. This could lead to more robust defenses against cyber threats and improved compliance.",
+      "beginner": "New AI tools from OpenAI can help companies find and fix computer security problems faster.",
+      "advanced": "Integrate OpenAI's Codex Security and GPT-5.5-Cyber into existing DevSecOps pipelines to automate vulnerability discovery, validation, and patch deployment workflows.",
+      "tags": [
+        "security",
+        "product",
+        "enterprise",
+        "model-release"
+      ]
     },
     {
       "id": "6fdda2fdc1d8",
@@ -1886,12 +2044,17 @@
       "url": "https://x.ai/news/grok-warp",
       "publishedAt": "2026-06-15",
       "fetchedAt": "2026-07-03T02:45:50.294Z",
-      "contentText": "Use Grok in Warp | xAI Products Solutions Developer Company Pricing News Contact Sales Try for free Products Grok Business Government Download iOS Android Grok on X Developers API Console Documentation CLI Try for free Back to news Jun 15, 2026 Use Grok in Warp Use your Grok and X Premium subscription inside Warp. You can now use your Grok or X Premium subscription inside Warp , an agentic development environment built on the terminal and used by almost one million developers. Your existing subscription provides access to Grok models, including grok-build-0.1 , the model powering the Grok Build CLI . Setup Download Warp from warp.dev/download and open it. Open the \"Agent > Warp Agent\" settings page and click \"Connect SuperGrok subscription\" Switch to the grok-build-0.1 model and start prompting. That's it! More agents and integrations are coming soon to SuperGrok and X Premium subscribers. To subscribe, visit the pricing page . A division of © 2026 xAI Corp. Built with Grok Products Chat Build Imagine Voice Grokipedia Download grok.com iOS Android Grok on X Solutions Business Government Customer Support Legal Security Use Cases Developers API Overview Pricing Models Console Docs Status Enterprise Contact Sales FAQs BAA DPA Company About Colossus Careers News Contact Trust Safety Security Privacy Portal Subprocessors Help Center Legal Terms Enterprise Terms Privacy Cookies AUP Brand Social @xai @grok Discord Built with Grok",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "xAI has announced that Grok, including the grok-build-0.1 model, can now be used within Warp, an agentic development environment. This integration is available to existing Grok and X Premium subscribers. Users can connect their subscriptions within Warp's settings to access Grok's capabilities.",
+      "enterpriseAngle": "Enterprise development teams using Warp can now integrate Grok's AI capabilities directly into their terminal-based workflows, potentially streamlining coding and development tasks. This partnership offers a new avenue for enterprises to leverage AI within their existing developer environments.",
+      "beginner": "You can now use xAI's Grok AI, which helps with coding, directly inside a popular developer tool called Warp if you have a subscription.",
+      "advanced": "Integrate grok-build-0.1 via the Warp Agent settings to leverage Grok's agentic capabilities within your terminal-based development workflows, and monitor for upcoming agent and integration releases.",
+      "tags": [
+        "product",
+        "coding",
+        "partnership",
+        "enterprise"
+      ]
     },
     {
       "id": "74e694667f61",
@@ -2015,12 +2178,17 @@
       "url": "https://www.anthropic.com/news/fable-mythos-access",
       "publishedAt": "2026-06-12",
       "fetchedAt": "2026-07-03T22:40:16.064Z",
-      "contentText": "Announcements Statement on the US government directive to suspend access to Fable 5 and Mythos 5 Jun 12, 2026 The US government, citing national security authorities, has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States, including foreign national Anthropic employees. The net effect of this order is that we must abruptly disable Fable 5 and Mythos 5 for all our customers to ensure compliance. Access to all other Anthropic models will not be affected. We received the directive from the government today at 5:21pm (ET). The letter did not provide specific details of its national security concern. Our understanding is that the government believes it has become aware of a method of bypassing, or “jailbreaking” Fable 5. We reviewed a demonstration of this specific technique being used to identify a small number of previously known, minor vulnerabilities. These vulnerabilities all appear relatively simple, and we have found that other publicly-available models are able to discover them as well without requiring a bypass. Anthropic’s posture with respect to Fable’s safeguards, as laid out in our launch blog post , is the following: We have instituted strong safeguards that greatly reduce the likelihood that Fable is misused for tasks related to cybersecurity (among others). In fact, our safeguards are so strong that many users have complained that they are overly broad. In the weeks leading up to the launch of Fable, Anthropic worked with the US government, the UK AISI, multiple private third-party organizations and internal teams to red-team Fable’s safeguards for thousands of hours in total. These tests showed that Fable’s safeguards are substantially more effective than those of any previously deployed model. No testers have yet been able to find a universal jailbreak —a jailbreak method that can very broadly bypass the model’s safeguards, unblocking a wide range of cyber capabilities. We suspect that perfect jailbreak resistance is not currently possible for any model provider. Every safeguard used in the industry is vulnerable to non-universal jailbreaks (which can elicit some cyber information in specific circumstances), and it is likely that universal jailbreaks will eventually be found in the future. We stated this clearly when we released Fable 5. Given that perfect jailbreak resistance does not appear to be possible today, Anthropic adopted a defense in depth strategy with Fable 5. We aimed to make jailbreaks either narrow (in the case of non-universal jailbreaks) or very expensive to produce (in the case of universal jailbreaks), and to combine this with thorough monitoring to quickly detect and shut down any successful attacks. This is also why Anthropic has required 30-day retention of customer data with Fable—a policy change that carries real costs for us with customers , but that allows us to research and mitigate jailbreaks. We stand by this defense in depth strategy. It reduces the risks posed by Fable, making them comparable to the risks of existing models already deployed across the industry. We have not even received a disclosure of a concerning non-universal potential jailbreak that led to a harmful result. The potential jailbreaks that have been disclosed to us are either entirely benign responses or are minor findings that provide no Mythos-specific uplift. To date, the government has only given us verbal evidence of a potential narrow, non-universal jailbreak, which essentially consists of asking the model to read a specific codebase and fix any software flaws. Our understanding is that one potential jailbreak was shared with the government. We have reviewed a report that we believe is the basis of the government's directive and validated that the level of capability displayed there is widely available from other models (including OpenAI’s GPT-5.5 ), and is used every day by the defenders who keep systems safe. We will share more details over the next 24 hours. We are complying with the government’s legal directive and are removing access to Fable 5 and Mythos 5 for all users. However, we disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people. If this standard was applied across the industry, we believe it would essentially halt all new model deployments for all frontier model providers. As we have stated publicly , we believe the government should have the ability to block unsafe deployments, as part of a statutory process that is transparent, fair, clear, and grounded in technical facts. This action does not adhere to those principles. We apologize for this disruption to our customers. We believe this is a misunderstanding and are working to restore access as soon as possible.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": [],
+      "contentText": null,
+      "summary": "The US government has ordered Anthropic to suspend access to its Fable 5 and Mythos 5 models for all foreign nationals, citing national security concerns. This directive has led Anthropic to disable these models for all customers globally to ensure compliance. The government's concern appears to stem from a method of bypassing Fable 5's safeguards, though Anthropic states the identified vulnerabilities are minor and discoverable by other publicly available models.",
+      "enterpriseAngle": "Enterprise security teams must be aware that even with extensive red-teaming and safeguards, models can be subject to government-mandated shutdowns due to perceived vulnerabilities, impacting product availability and development. Product development teams should consider the potential for regulatory intervention and the need for robust, transparent processes for addressing security concerns in AI deployments.",
+      "beginner": "Even advanced AI models can have security weaknesses, and governments can step in to limit their use if they believe there's a risk.",
+      "advanced": "Implement a defense-in-depth strategy for model safeguards, focusing on making jailbreaks narrow or expensive, and ensure robust monitoring and data retention policies to research and mitigate potential bypasses, while also advocating for transparent and technically grounded regulatory processes.",
+      "tags": [
+        "security",
+        "policy",
+        "enterprise",
+        "model-release"
+      ],
       "dateChecked": true
     },
     {
@@ -2139,12 +2307,17 @@
       "url": "https://www.anthropic.com/news/dxc-anthropic-alliance",
       "publishedAt": "2026-06-11",
       "fetchedAt": "2026-07-03T22:31:32.176Z",
-      "contentText": "Announcements DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on Jun 11, 2026 We’re announcing a multi-year global alliance with DXC Technology, one of the world’s largest IT services companies. DXC will train tens of thousands of Claude-certified forward-deployed engineers (FDEs)—engineers embedded directly inside customer organizations—to bring Claude into the systems DXC operates for the world’s largest banks, airlines, insurers, manufacturers, and government agencies. These systems, which DXC has run for decades, handle the transactions, claims, and operations businesses depend on, under strict security and compliance requirements. Before bringing Claude to these businesses, DXC worked with Claude inside its own operations, comprising some 115,000 employees across 70 countries, with similarly stringent requirements—including collaborating with Claude to write more than 95% of the code for DXC OASIS, its new AI-native orchestration platform for managed services. DXC is also now part of the Claude Partner Network , our network of consulting and services firms that bring Claude to enterprise clients. Bringing Claude to DXC's own operations DXC worked with Claude in its own systems before rolling it out to clients. For example, in April 2026, DXC launched DXC OASIS, its tool for running customers' IT systems, where AI agents handle much of the routine work. Claude is now the default foundation model powering the platform’s agentic workflows. Claude was also the primary tool DXC used to build the platform. The firm estimates that Claude sped up software development by a factor of 10. More than 95% of the code was generated by Claude, then reviewed by software engineers. OASIS now serves over 50 DXC customers, and the firm plans to roll it out to customers around the world. “DXC helps the world’s largest banks, airlines, insurers, and government agencies put new technology to work,” said Paul Smith, Chief Commercial Officer, Anthropic. “They proved Claude inside their own operations first, under the same security and compliance requirements their customers face. Now we’re bringing Claude inside those environments together, industry by industry, with engineers who have already done it themselves.” Building a team of Claude-certified engineers For its FDE program, DXC will recruit engineers from its existing development teams and certify them through Anthropic Academy , our training and certification program for partner engineers. DXC has added its own curriculum on top of Anthropic Academy, with training specific to the mission-critical systems its customers operate. The alliance will begin in four areas where DXC already runs large operations for customers, and where Claude can do useful work today: Insurance: DXC will use Claude to provide agentic solutions and modernize core systems, taking into account each customer’s business context, operating model, and strategic needs. Modernization as a Service (MaaS): DXC is using Claude to help enterprise customers analyze, refactor, and modernize legacy codebases. Working with Claude will help them do so faster and with greater accuracy than would have been possible with traditional approaches. Cybersecurity : For OASIS, DXC is developing an always-on security engineer subagent, built on Claude Security, that will be deployed across its security operations centers (SOCs). Application services: Finally, DXC is using Claude to develop OASIS agents that embed Claude directly into the application maintenance and management environments DXC operates for its enterprise customers. “For more than 50 years, DXC and the companies it was built from run the systems that run the world,” said Raul Fernandez, President and CEO, DXC Technology. “We know what it takes to deliver in these environments. This alliance with Anthropic combines trust and experience with the most advanced AI technology available, and gives our customers something they cannot get anywhere else. We are already using Claude across our own operations and our new OASIS platform. Now we are scaling that capability directly into the mission-critical technology systems we run for our customers. This is a defining moment for DXC and for the industry.” To learn more about the Claude Partner Network, visit anthropic.com/partners .",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": [],
+      "contentText": null,
+      "summary": "DXC Technology, a major IT services company, is partnering with Anthropic to integrate Claude into the critical systems used by regulated industries like banking and airlines. DXC will train thousands of its engineers to deploy Claude within these customer environments, which have strict security and compliance requirements. This follows DXC's successful internal use of Claude, including developing its AI-native orchestration platform, DXC OASIS, where Claude generated over 95% of the code.",
+      "enterpriseAngle": "Enterprise security and product development teams in highly regulated sectors can leverage this partnership to integrate advanced AI, like Claude, into their mission-critical systems, potentially accelerating development and modernizing legacy infrastructure while adhering to stringent compliance standards. The focus on 'forward-deployed engineers' and specialized training highlights a model for secure and compliant AI adoption within complex enterprise environments.",
+      "beginner": "Large companies are using advanced AI like Claude to help manage and improve the essential computer systems that banks, airlines, and other big businesses rely on, making these systems more efficient and secure.",
+      "advanced": "Evaluate the potential for AI-driven code generation and agentic workflows, as demonstrated by DXC's 10x speedup and 95% Claude-generated code for OASIS, to accelerate modernization and enhance operational security within your own regulated enterprise environments.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "product",
+        "coding"
+      ],
       "dateChecked": true
     },
     {
@@ -2156,12 +2329,17 @@
       "url": "https://x.ai/news/grok-plugin-marketplace",
       "publishedAt": "2026-06-11",
       "fetchedAt": "2026-07-03T02:45:50.323Z",
-      "contentText": "Grok Build Plugin Marketplace | xAI Products Solutions Developer Company Pricing News Contact Sales Try for free Products Grok Business Government Download iOS Android Grok on X Developers API Console Documentation CLI Try for free Back to news Jun 11, 2026 Grok Build Plugin Marketplace Launching the built-in plugin marketplace for Grok Build. Today we're launching the Grok Build Plugin Marketplace - a set of built-in plugins for Grok Build . A plugin bundles skills , slash commands, agents, hooks, MCP servers, and LSPs into one installable package. The marketplace is built into Grok Build, so you can browse, install, and update plugins without leaving your terminal. Available at launch The marketplace opens with plugins from partners across the stack: MongoDB — Explore data, manage collections, and optimize queries. Vercel — Manage deployments, check build status, and configure domains. Sentry — Analyze stack traces and debug production errors. Chrome DevTools — Control a live browser, record performance traces, and inspect network requests. Cloudflare — Skills for Workers, Durable Objects, and more. Superpowers — Popular agent-driven workflows. Install in seconds Inside Grok Build, type /marketplace to browse the catalog and press i to install a plugin. Or use the CLI directly: Copy grok plugin marketplace list grok plugin install < nam e > --trust bash Every remote plugin in the catalog is pinned to a specific commit SHA, and Grok Build verifies the pin at install time. Publish your own The marketplace is an open catalog. If you've built a plugin you want to share, submit a pull request to xai-org/plugin-marketplace . Getting started New to Grok Build? Visit x.ai/cli to get started. A division of © 2026 xAI Corp. Built with Grok Products Chat Build Imagine Voice Grokipedia Download grok.com iOS Android Grok on X Solutions Business Government Customer Support Legal Security Use Cases Developers API Overview Pricing Models Console Docs Status Enterprise Contact Sales FAQs BAA DPA Company About Colossus Careers News Contact Trust Safety Security Privacy Portal Subprocessors Help Center Legal Terms Enterprise Terms Privacy Cookies AUP Brand Social @xai @grok Discord Built with Grok",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "xAI has launched the Grok Build Plugin Marketplace, offering a collection of built-in plugins for its Grok Build platform. These plugins integrate various functionalities like skills, agents, and commands into single installable packages. Users can browse, install, and update these plugins directly from their terminal within Grok Build.",
+      "enterpriseAngle": "Enterprise development teams can leverage this marketplace to integrate Grok Build with essential tools for data management, deployment, error debugging, and infrastructure control, streamlining their workflows and enhancing productivity.",
+      "beginner": "Grok Build now has a store where you can easily add new features and tools to help you with your work.",
+      "advanced": "Utilize the /marketplace command within Grok Build or the CLI to integrate partner plugins like MongoDB, Vercel, and Sentry, and consider contributing custom plugins to the open catalog via pull requests to xai-org/plugin-marketplace.",
+      "tags": [
+        "product",
+        "enterprise",
+        "coding",
+        "agents"
+      ]
     },
     {
       "id": "922dce3d4e61",
@@ -2241,12 +2419,17 @@
       "url": "https://x.ai/news/grok-etoro",
       "publishedAt": "2026-06-10",
       "fetchedAt": "2026-07-03T02:45:50.359Z",
-      "contentText": "Bringing real-time market sentiment to Tori, from eToro | xAI Products Solutions Developer Company Pricing News Contact Sales Try for free Products Grok Business Government Download iOS Android Grok on X Developers API Console Documentation CLI Try for free Back to news Jun 10, 2026 Bringing real-time market sentiment to Tori, from eToro Tori, eToro’s AI agent, uses models from SpaceXAI to embed real-time market sentiment directly into Tori’s investing workflow. Open API docs Tori, eToro’s AI agent, uses models from SpaceXAI to embed real-time market sentiment directly into Tori’s investing workflow. SpaceXAI and eToro are proud to announce that Tori, an AI agent, is now powered by real-time information from X. Tori can now read market moods as they shift, track live signals and analyze information with SpaceXAI's state-of-the-art text models. Markets Move at the Speed of X The latest information is out first on X. SpaceXAI's models and platform bring first party support to that platform, thereby enabling eToro users to ask and analyze market sentiment using Tori. For close to two decades, eToro has built a place where people invest together, and today has more than 40 million registered users across 75 countries. Powering Tori with SpaceXAI models furthers this vision to bring the best information on demand to all users. Built on SpaceXAI APIs The same real-time intelligence and live X awareness helping to power Tori is available to any team through the API console . Whether you're building a research copilot, a sentiment dashboard, or an assistant for your daily briefings, you can get set up in minutes through the API console. A division of © 2026 xAI Corp. Built with Grok Products Chat Build Imagine Voice Grokipedia Download grok.com iOS Android Grok on X Solutions Business Government Customer Support Legal Security Use Cases Developers API Overview Pricing Models Console Docs Status Enterprise Contact Sales FAQs BAA DPA Company About Colossus Careers News Contact Trust Safety Security Privacy Portal Subprocessors Help Center Legal Terms Enterprise Terms Privacy Cookies AUP Brand Social @xai @grok Discord Built with Grok",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "eToro's AI agent, Tori, now integrates real-time market sentiment into its investing workflow by utilizing models from SpaceXAI. This partnership allows Tori to analyze live market signals and information, leveraging data from the X platform where information is often first released. This enhancement aims to provide eToro's 40 million users with immediate market insights.",
+      "enterpriseAngle": "Enterprise product development teams can leverage similar real-time AI capabilities and APIs to integrate dynamic data analysis into their own applications, enhancing decision-making tools and customer-facing agents. This partnership demonstrates a strategic move to embed advanced AI for competitive advantage in financial services.",
+      "beginner": "AI agents like Tori can now understand what people are feeling about the stock market right now, helping investors make quicker decisions.",
+      "advanced": "Integrate real-time social media sentiment analysis via API-driven AI models to augment existing financial analytics platforms and provide dynamic, up-to-the-minute market intelligence.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "partnership",
+        "product"
+      ]
     },
     {
       "id": "dda9f2948c44",
@@ -2326,12 +2509,17 @@
       "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
       "publishedAt": "2026-06-09",
       "fetchedAt": "2026-07-03T22:31:12.000Z",
-      "contentText": "Announcements Claude Fable 5 and Claude Mythos 5 Jun 9, 2026 Update Claude Mythos 5 and Fable 5 redeployed Jul 1, 2026 Claude Fable 5 and Mythos 5 are now available. Read more Claude Mythos 5 and Fable 5 access unavailable Jun 12, 2026 We are suspending access to Claude Fable 5 and Claude Mythos 5. We apologize for this disruption to our customers and are working to restore access as soon as possible. Read more Today we’re launching Claude Fable 5 : a Mythos-class 1 model that we’ve made safe for general use. Fable 5’s capabilities exceed those of any model we’ve ever made generally available. It is state-of-the-art on nearly all tested benchmarks of AI capability, showing exceptional performance in software engineering, knowledge work, vision, scientific research, and many other areas. The longer and more complex the task, the larger Fable 5’s lead over our other models. Releasing a model this capable comes with risks. Without safeguards, Fable 5’s capabilities in areas like cybersecurity could be misused to cause serious damage. We’ve therefore launched the model with safeguards that mean queries on some topics will instead receive a response from our next-most-capable model, Claude Opus 4.8. To release the model both safely and quickly, we’ve tuned these safeguards conservatively—they’ll sometimes catch harmless requests, though they trigger, on average, in less than 5% of sessions. With more capable models arriving in the coming months, we’re working to improve our safeguards and reduce false positives as quickly as we can. For a small group of cyberdefenders and infrastructure providers, we’re also launching Claude Mythos 5 . It’s the same underlying model as Fable 5, but with the safeguards lifted in some areas. 2 Mythos 5 will initially be deployed through Project Glasswing , in collaboration with the US government, as an upgrade to Claude Mythos Preview. It has the strongest cybersecurity capabilities of any model in the world. Soon, we intend to expand access to Mythos 5 through a broader trusted access program. The capabilities of models like Fable 5 and Mythos 5 have the potential to do profound good for the world. We’ve seen the beginnings of this in Project Glasswing, where the models have helped cyber defenders secure critically important software. We’ve also seen it in life sciences research, where the models are positing novel hypotheses and speeding up the development of new therapeutics. Fable 5 and Mythos 5 are being offered at $10 per million input tokens and $50 per million output tokens—less than half the price of Claude Mythos Preview. Today’s joint launch is another step towards our goal of bringing advanced AI capabilities to as many users as possible, as quickly and as safely as we can. Evaluating Claude Fable 5 and Claude Mythos 5 The table below compares the capabilities of Fable 5 and Mythos 5 to other leading models. Fable 5 and Mythos 5 can work autonomously for longer than any previous Claude models. Below we discuss how these skills apply to software engineering, and cover the model’s improved capabilities in knowledge work, vision, memory, and life sciences research. Software engineering. During early testing, Stripe reported that Fable 5 compressed months of engineering into days. In a 50-million-line Ruby codebase, the model performed a codebase-wide migration in a day that would otherwise have taken a whole team over two months by hand. Fable 5 is also more token-efficient than past Claude models: on Cognition’s FrontierCode evaluation, which tests whether models can pass difficult coding tasks while meeting the standards of high-quality production codebases, Fable 5 scores highest among frontier models, even at medium effort. Knowledge work . Fable 5 shows strong performance on complex analytical tasks. On Hebbia ’s Finance Benchmark for senior-level reasoning, Fable 5 has the highest score of any model, with substantial gains in document-based reasoning, chart and table interpretation, and problem solving. IMC noted that Fable 5 aced their trading-analysis evaluations nearly across the board, including factual lookup, conceptual reasoning, root-cause analysis, and expected-value analysis. Vision. Fable 5 is the new state-of-the-art model for tasks involving vision. It can extract precise numbers from detailed scientific figures and can perform complex vision-based tasks like rebuilding a web app’s source code from screenshots alone. It also needs less scaffolding: for example, previous Claude models struggled to play Pokémon FireRed even with harnesses that gave them additional helpful tools, but Fable 5 beat FireRed with a minimal, vision-only harness. A time-lapse of Claude playing Pokémon FireRed from start to finish using only raw game screenshots—with no maps, navigation aids, or extra game-state information. Earlier Claude models needed a complex helper harness to play Pokémon; Claude Fable 5 completed the game with vision alone. Memory and long-context. Fable 5 stays focused across millions of tokens in long-running tasks and improves its outputs using its own notes. When we had the model play the deck-building game Slay the Spire , giving it access to persistent file-based memory improved its performance three times more than for Opus 4.8; Fable also reached the game’s final act three times more often. Solar eclipses Factorio VibeCAD Fluid with Classical EDM Claude Fable 5 built this simulation of the solar system, deriving the planets' orbital motion from physics first principles and using it to predict solar eclipses. Claude Fable 5 autonomously plays Factorio, the factory-building game beloved by engineers, strategizing and building an automated factory on its own. Claude Fable 5 designs a complete 3D-printable model in a browser-based CAD editor. The editor itself was also created by Fable 5, including the built-in AI copilot that does the modeling. A fluid simulation coded by Claude Fable 5 where the motion is synchronized to the beat of a classical music EDM remix—which Claude Fable 5 produced using code, having never heard music before. Drug design: Using Mythos 5, our internal protein design experts accelerated aspects of the drug design process by around 10 times. In one example, they found that Mythos 5, with protein design and bioinformatics tools but no human assistance, matches or beats skilled human operators. In doing so, the model executes all of the tasks that are normally completed by a scientist: choosing binding sites, selecting and running protein design tools, and recovering from failures along the way. Nine of the 14 protein targets from this study (shown below) yielded strong candidates for drug design that we’re currently investigating. Protein complexes designed by Mythos 5. Targets include immune checkpoints, growth-factor and receptor signaling, neurodegeneration, muscle disease, and harder structural targets. Novel hypotheses in molecular biology. Mythos 5 is our first model to consistent",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": [],
+      "contentText": null,
+      "summary": "Anthropic has released Claude Fable 5, a new state-of-the-art AI model with advanced capabilities in software engineering, knowledge work, vision, and scientific research. It also launched Claude Mythos 5, an identical underlying model with fewer safeguards, specifically for cyberdefenders and infrastructure providers, initially through Project Glasswing with the US government. Both models are priced significantly lower than previous versions, aiming to make advanced AI more accessible.",
+      "enterpriseAngle": "Enterprise product development teams can leverage Fable 5's advanced capabilities for accelerated software engineering, complex data analysis, and vision-based applications, potentially compressing development cycles and improving efficiency. Security teams and critical infrastructure providers can utilize Mythos 5's enhanced cybersecurity capabilities for defense, though they should be aware of its less restrictive safeguards.",
+      "beginner": "Anthropic has released two powerful new AI models, Fable 5 for general use and Mythos 5 for cybersecurity experts, which can do amazing things like write code, analyze data, and understand images.",
+      "advanced": "Evaluate the integration of Fable 5 for automating complex software migrations and enhancing analytical workflows, while exploring Mythos 5's potential for advanced threat intelligence and defensive operations within a controlled, secure environment.",
+      "tags": [
+        "model-release",
+        "enterprise",
+        "security",
+        "product"
+      ],
       "dateChecked": true
     },
     {
@@ -2907,12 +3095,17 @@
       "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
       "publishedAt": "2026-05-29T19:00:00.000Z",
       "fetchedAt": "2026-07-03T22:40:16.645Z",
-      "contentText": "Breadcrumb Innovation & AI Technology AI Heads up, builders and devs: You can test your knowledge of our I/O 2026 announcements with this vibe coded quiz built in Google AI Studio. In case you missed it, at Google I/O 2026 , we announced new ways and places you can use Google AI Studio . With Google AI Studio, powered by the Antigravity coding agent, you can bring ideas to life with the latest Gemini models even if you’re not a seasoned developer. As a case in point, I vibe coded this quiz myself — and I'm an editor with zero coding background, not a developer. To make the quiz, I used Gemini to generate a prompt for Google AI Studio to build the exact quiz I envisioned. I uploaded sources including announcements and design inspiration. Gemini delivered a helpful, creative, highly specific prompt I took to Google AI Studio. I refined the prompt based on the previews, and added the actual quiz text. Check out the quiz to get to know Google AI Studio, then try building something yourself . POSTED IN: AI Developer tools Related stories",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Google AI has released a quiz about its I/O 2026 announcements, which was created using Google AI Studio and the Antigravity coding agent. The quiz demonstrates how non-developers can use these tools with Gemini models to bring ideas to life. An editor with no coding background successfully built the quiz by using Gemini to generate and refine a prompt for Google AI Studio.",
+      "enterpriseAngle": "Enterprise product development teams can leverage Google AI Studio and Gemini models to empower non-technical staff to prototype and develop applications, significantly broadening who can contribute to product creation. This approach can accelerate development cycles and foster innovation across the organization.",
+      "beginner": "Even without coding skills, you can use AI tools like Google AI Studio and Gemini to create interactive applications by describing what you want.",
+      "advanced": "Explore integrating Google AI Studio and the Antigravity coding agent into your development workflow to enable rapid prototyping and content generation by non-developers, thereby freeing up engineering resources for more complex tasks.",
+      "tags": [
+        "product",
+        "coding",
+        "enterprise",
+        "agents"
+      ]
     },
     {
       "id": "5a93c5b9d88d",
@@ -2944,12 +3137,17 @@
       "url": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
       "publishedAt": "2026-05-29T12:00:00.000Z",
       "fetchedAt": "2026-07-03T22:40:16.645Z",
-      "contentText": "Breadcrumb Innovation & AI Technology AI What if you could learn Japanese through custom AI-generated stories, or practice sign language with an AI tutor that gives real-time feedback? These are working prototypes built by students in the Google-funded Futures Lab, a partnership with the University of Waterloo . Each lab is an eight-week intensive AI and user experience prototyping workshop. Students from diverse fields like computer science, business and natural sciences develop tools designed to reshape how we learn. A few highlights from the last two labs include: Kanji Garden: An app that teaches Japanese through immersive, AI-generated stories and visuals instead of rote memorization. SignFluent: A real-time American Sign Language learning tool that provides instant feedback on your form. MuscleMemory: An on-the-go calisthenics training tool that uses AI camera tracking to provide instant audio feedback on your exercise form, helping prevent injuries. Led by Dr. Edith Law, the Google Chair in the Future of Work and Learning, this partnership moves beyond theory, helping students co-create the very technology that will define the future of education and work. See the projects in action and hear the students' key insights: The MuscleMemory team learned that non-technical skills such as applied communications skills can be valuable to a product prototyping project. The Kanji Garden team learned to approach challenges with a user-centered mindset. The SignFluent team learned product design at the intersection of accessibility and technology. POSTED IN: AI Learning & Education Related stories",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "The Google-funded Futures Lab, in partnership with the University of Waterloo, is an intensive eight-week workshop where students develop AI and user experience prototypes. These prototypes aim to transform learning, with examples including an app for learning Japanese through AI-generated stories, a real-time American Sign Language tutor, and an AI-powered calisthenics training tool. The program emphasizes practical application and user-centered design, led by Dr. Edith Law.",
+      "enterpriseAngle": "Enterprise product development teams can draw inspiration from the Futures Lab's approach to rapid prototyping and user-centered design, especially when exploring AI applications for training, accessibility, and skill development within their organizations. The focus on practical, real-time feedback tools demonstrates potential for enhancing corporate learning and development programs.",
+      "beginner": "Students in a special lab are using AI to create new ways to learn things like languages and exercises, making learning more interactive and personalized.",
+      "advanced": "Leverage rapid prototyping methodologies and user-centered design principles, as demonstrated by the Futures Lab, to quickly iterate on AI-powered solutions for internal training, accessibility, and operational efficiency, ensuring early user feedback drives product evolution.",
+      "tags": [
+        "research",
+        "product",
+        "learning",
+        "partnership"
+      ]
     },
     {
       "id": "e63fa88b5624",
@@ -3040,12 +3238,17 @@
       "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
       "publishedAt": "2026-05-28T15:00:00.000Z",
       "fetchedAt": "2026-07-04T04:29:09.836Z",
-      "contentText": "Breadcrumb Innovation & AI Technology AI Catch up on 12 major I/O 2026 moments May 28, 2026 · Share x.com Facebook LinkedIn Mail Copy link Relive some of our top onstage moments this year, including the debut of our newest models, updates to Search and more. Zahra Thompson Contributing writer Share x.com Facebook LinkedIn Mail Copy link Your browser does not support the audio element. Listen to article This content is generated by Google AI. Generative AI is experimental [[duration]] minutes Voice Speed Voice Speed 0.75X 1X 1.5X 2X Our biggest, boldest new developments took center stage at Google I/O 2026 . We announced technical breakthroughs, like Gemini Omni’s ability to create anything from any input, starting with video. And we shared product updates to help you day-to-day, like the brand new, intelligent Search box that will let you search across modalities, using text, images, files, videos or Chrome tabs as inputs. (And with plenty of other big I/O announcements , there’s a lot more where that came from!) In case you missed it, here are some of our most exciting I/O keynote reveals this year. 1. Gemini Omni Gemini Omni is our new model that can create anything from any input — starting with video. With Omni, you can combine images, audio, video and text as input and generate high-quality videos grounded in Gemini's real-world knowledge. You can also easily edit your videos through conversation. First, we’re launching the first model in the Omni family: Gemini Omni Flash. Gemini Omni Flash is rolling out to all Google AI Plus, Pro and Ultra subscribers globally through the Gemini app and Google Flow . It’s also rolling out at no cost to users on YouTube Shorts and YouTube Create App . 2. Gemini 3.5 Flash Our new Gemini 3.5 family of models combines frontier intelligence with action. We’re kicking off the series by releasing Gemini 3.5 Flash, which delivers frontier performance for agents and coding, excelling at complex long-horizon tasks that deliver real-world utility. Gemini 3.5 Flash is generally available via Google Antigravity , the Gemini API in Google AI Studio and Android Studio , Gemini Enterprise Agent Platform and Gemini Enterprise . It’s also available for everyone in AI Mode in Search and now rolling out to everyone globally in the Gemini app . We’re also hard at work on Gemini 3.5 Pro. It’s already being used internally, and we look forward to rolling it out next month. 3. Information agents in Search We’re entering the era of Search agents , where you can easily create, customize and manage multiple AI agents for your many tasks, right in Search. We’re starting with information agents, which operate in the background, 24/7, to intelligently reason across the web, like blogs, news sites and social posts (plus our freshest data, such as real-time info on finance, shopping and sports). Information agents will help you stay updated on whatever matters most to you, sending a comprehensive update with exactly what you need at exactly the right moment, along with helpful links to explore further on the web. Information agents are rolling out this summer, starting first with Google AI Pro and Ultra subscribers . Simply add “keep me updated” to your search to create an information agent, and view your active agents via the side panel in AI Mode in Search . 4. Google Antigravity-powered experiences in Search We’re bringing Antigravity and the agentic coding capabilities of Gemini 3.5 Flash right into Search , so Search can build you the ideal format exactly for your question, completely custom, on the fly. You can get dynamic layouts, interactive visuals and entire experiences, all created just for you. These generative UI capabilities will be available for everyone in Search this summer, free of charge. Some projects aren’t one-off questions — they're ongoing tasks. Also with Antigravity, Search will also code entire custom experiences, like tools, dashboards or trackers, just for you. It’s like building your own mini apps with Search. They’re especially awesome for those long-running tasks where you want to keep coming back, like planning a wedding or managing your home move. You’ll be able to build custom experiences with Antigravity, right in Search in the coming months, starting first for Google AI Pro and Ultra subscribers in the U.S. 5. Daily Brief Daily Brief in the Gemini app is a new agent that gives you a personalized morning brief and organizes exactly what you need to know to start your day. This personalized digest is designed to be your first stop every morning. Once you opt in, Gemini works across your connected apps in the background. It gathers urgent updates from your Gmail inbox, tracks upcoming events from your Calendar and compiles relevant follow-up details into a skimmable briefing. It goes far beyond a simple summary. Daily Brief actively organizes and prioritizes based on your specific goals, even suggesting immediate next steps. You can easily steer it by giving responses a quick thumbs up or down over time. Daily Brief is rolling out to all Google AI subscribers (18+) in the Gemini app, starting in the U.S. In order to use Daily Brief, Google AI subscribers must have chosen to connect their Google apps. 6. Universal Cart Our new Universal Cart is a truly intelligent shopping cart and your new hub for shopping on Google. It works across merchants and across services, so you can add things to your cart while you’re browsing Search, chatting with Gemini, watching YouTube or even reading your Gmail. The moment you add a product, your cart goes to work for you in the background. It finds deals and price drops, gives you insights on price history and alerts you when something comes back in stock. Universal Cart is rolling out across Search and the Gemini app in the U.S. this summer, with YouTube and Gmail to follow. 7. Neural Expressive We've completely redesigned the Gemini experience from the ground up with Neural Expressive, our stunning new design language you’ll see from the moment you open the Gemini app or visit the site. The interface features fluid animations, vibrant colors, new typography and haptic feedback throughout. Model responses are where Neural Expressive truly comes alive. Instead of a wall of text, Gemini now designs tailored responses in real time — incorporating rich imagery, interactive timelines, narrated videos and dynamic graphics. Neural Expressive is now rolling out in the Gemini app on Android, iOS and the web to everyone. 8. Gemini Spark This 24/7 personal AI agent in the Gemini app helps you navigate your digital life, takes action on your behalf and is under your direction. It’s integrated with Google’s suite of tools, like Gmail, Docs, Slides and more, and because it’s a cloud-based agent, it’s able to keep working in the background, even when you close your laptop or lock your phone. With Spark, you can set recurring tasks, teach it new skills and create complete workflows. You choose whether to tur",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Google I/O 2026 introduced significant AI advancements, including Gemini Omni, a new model capable of creating video from various inputs, and Gemini 3.5 Flash, designed for agents and coding. The event also unveiled new intelligent Search features, such as customizable information agents and Antigravity-powered experiences that generate custom UIs and mini-apps. Additionally, Google announced personalized AI agents like Daily Brief in the Gemini app and a Universal Cart for intelligent shopping across Google services.",
+      "enterpriseAngle": "Enterprise product development teams can leverage Gemini Omni and Gemini 3.5 Flash for advanced content generation and agentic coding, while enterprise security teams should consider the implications of AI agents operating in the background and accessing connected apps for data privacy and compliance.",
+      "beginner": "Google is making its AI smarter and more helpful, allowing you to create videos, get personalized updates, and even shop more easily with new AI tools.",
+      "advanced": "Explore the Gemini Enterprise Agent Platform and Gemini API in Google AI Studio for integrating Gemini 3.5 Flash's agentic coding capabilities into your enterprise applications and workflows.",
+      "tags": [
+        "model-release",
+        "agents",
+        "enterprise",
+        "product"
+      ]
     },
     {
       "id": "c4a9a577612d",
@@ -3269,12 +3472,17 @@
       "url": "https://cursor.com/blog/faire",
       "publishedAt": "2026-05-26",
       "fetchedAt": "2026-07-03T02:45:51.303Z",
-      "contentText": "Blog / customers May 26, 2026 · customers Faire doubles PR throughput with Cursor Cloud Agents Faire selected Cursor as its platform for coding agents, replacing an in-house background agent system. 8 min read Contact sales Table of Contents ↑ Cloud unlocks scaled agent parallelism Development environments give agents more autonomy Programmatic agents with Cursor Automations Automating legacy migrations with parallelized agents Standing up build previews in less than a day Faire is an E-commerce company in North America. 2x Increase in weekly PR throughput, driven by cloud agents 18 month Migration for a full team reduced to one engineer and a fleet of agents 2,000+ Automated agent runs per week without any manual prompting 25+ Cursor Automations for bug fixes, CI investigations, and code review Faire is an E-commerce company in North America. 2x Increase in weekly PR throughput, driven by cloud agents 18 month Migration for a full team reduced to one engineer and a fleet of agents 2,000+ Automated agent runs per week without any manual prompting 25+ Cursor Automations for bug fixes, CI investigations, and code review Faire doubled weekly PR throughput and collapsed an 18-month migration down to a single engineer managing a fleet of agents. Cursor's cloud agents made this possible through scaled parallelization and autonomy. Cloud agents run without the memory and resource constraints of a local machine, and each one gets its own development environment—just like an engineer—to write code, test and verify its work, and ship software. Cursor is now Faire's recommended platform for agentic development, replacing an in-house background agent system. The team also uses Cursor Automations to kick off more than 2,000 autonomous agent runs per week to save time on repetitive tasks like triaging bug reports in Slack, fixing CI failures, and routing code reviews. # Cloud unlocks scaled agent parallelism Running multiple agents in parallel on a local machine quickly runs into constraints on local resources: each agent competes for the same compute and managing 10 in-flight tasks across separate terminals becomes its own job. \"There are ways to parallelize agents on your local machine, but it's much more complicated,\" says Luke Bjerring, a principal engineer. Initially, Faire tried solving this by building an in-house cloud agent system called Samurai that ran on self-hosted infrastructure. But getting the developer experience right requires substantial investment. \"Standing up our own servers is a significant investment. It requires hiring talent, bootstrapping machines, and maintaining complex infrastructure. We'd rather have engineers focused on adding value to our end users,\" says Bjerring. Faire went looking for a platform that would give them the flexibility to run cloud agents on managed infrastructure or self-hosted machines. They selected Cursor for that deployment flexibility, close integration with tools like GitHub, agent reliability, a clean interface for managing agents in parallel, and seamless handoffs between local and cloud. Cursor is now Faire's recommended platform for agentic development across the company. Cursor's cloud offering is a lot better than running local agents with worktrees or 10 remote environments you're shelling into. It's a streamlined UX for managing multiple concurrent agents. Luke Bjerring Principal Engineer, Faire # Development environments give agents more autonomy Parallelization only pays off if agents can operate like engineers: pulling dependencies, hitting internal services, running code, and verifying changes. Without a configured development environment, an agent can write code but can't close the loop on its work. Faire's development environment makes cloud agent setup challenging. Backend and frontend live in separate repos with their own internal package dependencies, managed through Gradle and Bazel, and gated behind separate AWS credentials. To simplify this complexity, Faire uses Cursor's agent-led onboarding: Cursor inspects each repo, figures out the required toolchain and dependencies, and produces an environment configuration that the team can edit and version. For workflows that require tighter control, Faire can define and manage development environments via Dockerfile. We let Cursor onboard itself on every repo in our codebase. That takes a lot of the overhead out of new session starts and lets agents tackle tasks just like an engineer would. Blair McAlpine Senior Engineer, Faire Faire's designers use an internal tool called Playground to translate design systems in Figma into React components in code. With a fully-configured development environment, Cursor can run the Playground server, produce React components, and record video demos for designers to review the agent's work. Faire is a Slack-heavy company and a lot of engineering work starts as a question or bug report in a channel. Engineers often call @cursor directly from Slack threads, handing off conversation context to a cloud agent that can investigate and return with a PR. A lot of our work comes from ideas and discussions in Slack. You can see the message, kick off @cursor in the same context, and you get a PR a few minutes later. This helps me avoid jumping between tools and context while the agent does the work. Luke Bjerring Principal Engineer, Faire # Programmatic agents with Cursor Automations Beyond running parallel agents, Faire needed agents that could take on repetitive engineering work autonomously to save the team time. Faire has set up more than 25 Cursor Automations and now executes more than 2,000 autonomous agent runs per week without any manual prompting. The most common use cases are: Triage bugs reported in Slack. Automations monitor designated Slack channels for bug reports. When an issue comes in, a cloud agent is kicked off to investigate, open a PR with fixes, and provide a summary of its work. PR auto-healing. When CI fails on a PR, an automation kicks off, investigates the failure, pushes fixes, and updates the PR. PR routing. An agent labels every PR by author, risk, and size, then routes the PR to a tailored code review workflow. The concept of automations has been long-lived at Faire, but setting them up was painful and complicated. Cursor Automations makes spinning up always-on agents accessible to every user. Blair McAlpine Senior Engineer, Faire # Automating legacy migrations with parallelized agents When Faire needed to migrate a large, retailer-facing application from MobX to native React state management, the team built an agent coordination system on top of Cursor called Swarm. First, a scraper finds every detected usage of MobX in the codebase and writes the list to S3. Swarm then reads the list and delegates migration tasks to Cursor cloud agents, each running in its own isolated VM on Cursor's infrastructure. As one agent completes its work and merges",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Faire, an e-commerce company, has significantly increased its weekly pull request (PR) throughput and accelerated a major migration project by adopting Cursor Cloud Agents. These agents operate in parallel within their own development environments, allowing them to autonomously write, test, and ship code. Faire replaced its in-house agent system with Cursor, leveraging its cloud capabilities and automations for various engineering tasks.",
+      "enterpriseAngle": "Enterprises can significantly boost developer productivity and accelerate complex projects by implementing cloud-based coding agents that offer parallel processing and autonomous development environments. This approach reduces the need for extensive in-house infrastructure and allows engineers to focus on higher-value tasks rather than repetitive coding or infrastructure maintenance.",
+      "beginner": "AI agents can now work like human engineers, writing and testing code in their own virtual workspaces to help companies complete coding tasks much faster.",
+      "advanced": "Evaluate the integration of cloud-native agentic development platforms with existing CI/CD pipelines and internal tooling to maximize parallelization benefits and automate repetitive engineering workflows, focusing on secure environment provisioning and seamless context handoffs.",
+      "tags": [
+        "enterprise",
+        "agents",
+        "product",
+        "coding"
+      ]
     },
     {
       "id": "2958e44acb3b",
@@ -3350,12 +3558,17 @@
       "url": "https://cursor.com/blog/cursor-leads-gartner-mq-2026",
       "publishedAt": "2026-05-22",
       "fetchedAt": "2026-07-03T02:45:50.777Z",
-      "contentText": "Blog / company May 22, 2026 · company Cursor named a Leader in the 2026 Gartner® Magic Quadrant™ for Enterprise AI Coding Agents 3 min read Contact sales Gartner has named Cursor a Leader in the 2026 Magic Quadrant™ for Enterprise AI Coding Agents, with the furthest placement on Completeness of Vision. Over 70% of the Fortune 500 now use Cursor to deploy and manage coding agents across the software development lifecycle. We believe the trust they place in Cursor, and this recognition from Gartner, reflect the platform we've been building for the next era of AI software development : one where developers orchestrate large teams of agents that do most of the work of building and maintaining software. # Continuing to push the frontier The next year of Cursor is about making that platform more intelligent, efficient, and flexible. We're focusing on three areas: Frontier intelligence. We're scaling up our in-house model training to push frontier capabilities for long-running coding agents, most recently with Composer 2.5 . To accelerate this work, Cursor is partnering with SpaceXAI to build a future model from scratch. Agent automation across the SDLC. Cursor agents already review and fix pull requests with Bugbot , find and patch vulnerabilities through dedicated security agents , and run on triggers and schedules via Automations . Teams can build their own with the Cursor SDK . Enterprise controls, collaboration, and flexibility. We're deepening enterprise controls with new admin integrations, agent controls, and analytics dashboards, and extending self-hosted cloud agents to more regulated industries and regions. Download a complimentary copy of the 2026 Gartner® Magic Quadrant™ here . If you're bringing AI coding agents into your engineering organization, please reach out to our team to get started with Cursor. Gartner, Magic Quadrant™ for Enterprise AI Coding Agents, Philip Walsh, Nitish Tyagi, Keith Holloway, Matt Brasier, Neha Agarwal, 20 May 2026 Gartner and Magic Quadrant are trademarks of Gartner, Inc. and/or its affiliates. This graphic was published by Gartner, Inc. as part of a larger research document and should be evaluated in the context of the entire document. The Gartner document is available upon request from Cursor. Gartner does not endorse any company, vendor, product or service depicted in its publications, and does not advise technology users to select only those vendors with the highest ratings or other designation. Gartner publications consist of the opinions of Gartner's business and technology insights organization and should not be construed as statements of fact. Gartner disclaims all warranties, expressed or implied, with respect to this publication, including any warranties of merchantability or fitness for a particular purpose. Filed under: company Author : Cursor Team",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Cursor has been recognized as a Leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, noted for its completeness of vision. The company states that over 70% of Fortune 500 companies utilize its platform for deploying and managing coding agents across the software development lifecycle. Cursor plans to enhance its platform by focusing on frontier intelligence through in-house model training and a partnership with SpaceXAI, expanding agent automation across the SDLC, and improving enterprise controls and flexibility.",
+      "enterpriseAngle": "Enterprise security and product development teams can leverage Cursor's AI coding agents for automating tasks like vulnerability patching and pull request reviews, while new enterprise controls and self-hosted options address compliance and security needs for regulated industries. The focus on frontier intelligence and agent automation aims to streamline software development and maintenance, potentially increasing efficiency and reducing manual effort.",
+      "beginner": "AI coding agents are tools that help developers write and maintain software, and Cursor is a leading company in providing these tools to large businesses.",
+      "advanced": "Evaluate Cursor's SDK for building custom agents to integrate with existing CI/CD pipelines and assess the new enterprise controls and self-hosted cloud agent options for compliance in regulated environments.",
+      "tags": [
+        "enterprise",
+        "agents",
+        "product",
+        "partnership"
+      ]
     },
     {
       "id": "ef09c51e6046",
@@ -3510,12 +3723,17 @@
       "url": "https://cursor.com/blog/composer-2-5",
       "publishedAt": "2026-05-18",
       "fetchedAt": "2026-07-03T02:45:50.843Z",
-      "contentText": "Blog / research May 18, 2026 · research Introducing Composer 2.5 7 min read Table of Contents ↑ Training Composer 2.5 Targeted RL with textual feedback Synthetic data Sharded Muon and dual mesh HSDP Try Composer 2.5 Composer 2.5 is now available in Cursor. It's a substantial improvement in intelligence and behavior over Composer 2 . It is better at sustained work on long-running tasks, follows complex instructions more reliably, and is more pleasant to collaborate with. We improved Composer by scaling training, generating more complex RL environments, and introducing new learning methods. In addition to training Composer 2.5 on more difficult tasks, we improved behavioral aspects of the model like communication style and effort calibration. These dimensions are not well captured by existing benchmarks, but we find that they matter for real-world usefulness. Composer 2.5 is built on the same open-source checkpoint as Composer 2, Moonshot's Kimi K2.5 . Together with SpaceXAI , we're training a significantly larger model from scratch, using 10x more total compute. With Colossus 2's million H100-equivalents and our combined data and training techniques, we expect this to be a major leap in model capability. # Training Composer 2.5 Composer 2.5 contains several new improvements to our training stack. These changes target both model intelligence and usability. # Targeted RL with textual feedback Credit assignment during RL is becoming an increasingly difficult challenge as rollouts can span hundreds of thousands of tokens. When a reward is computed over an entire rollout, it may be hard for the model to tell which specific decision helped or hurt the outcome. This is especially limiting when we want to discourage a localized behavior, such as a bad tool call, a confusing explanation, or a style violation. The final reward can tell us that something went wrong, but it is a noisy signal for where it went wrong. To address this, we trained Composer 2.5 with targeted textual feedback. 1 The idea is to provide feedback directly at the point in the trajectory where the model could have behaved better. For a target model message, we construct a short hint describing the desired improvement, insert that hint into the local context, and use the resulting model distribution as a teacher. We use the policy with the original context as the student and add an on-policy distillation KL loss that moves the student's token probabilities toward the teacher's. This gives us a localized training signal for the behavior we want to change, while still retaining the broader RL objective over the full trajectory. As an illustration of the text feedback process, consider a long rollout that includes a tool call error where the model attempts to call a tool that is not available. During the rollout, the model will receive a “Tool not found” error and continue making additional valid tool calls. The fact that it hit one error in the process of hundreds of tool calls will have a minimal impact on its final reward. With text feedback, we can target this specific mistake by inserting a hint in the context of the problematic turn, such as “Reminder: Available tools…” with a list of available tools. This hint changes the probabilities for the teacher, lowering those for the wrong tool and increasing those for a valid replacement. For that turn only, we then update the student weights towards to the new probabilities. During the Composer 2.5 run, we applied this method to a variety of model behaviors, from coding style to model communication. # Synthetic data During RL training, Composer's coding ability improves substantially to the point where it begins to get most training problems correct. To continue increasing intelligence, we both select for and create harder tasks dynamically throughout the run. Composer 2.5 is trained with 25x more synthetic tasks than Composer 2. We use a range of approaches for creating synthetic tasks that are grounded in real codebases. For example, one synthetic approach is feature deletion. For these tasks the agent is given a codebase with a large set of tests, and asked to delete code and files in such a way that the codebase remains functional while specific testable features are removed. The synthetic task is to reimplement the feature, and the tests are used as a verifiable reward. One downstream consequence of large scale synthetic task creation is that it can cause unexpected reward hacking. As the model became more adept, Composer 2.5 was able to find increasingly sophisticated workarounds to solve the task at hand. In one example, the model found a leftover Python type-checking cache and reverse-engineered the format to find a deleted function signature. In another, it was able to find and decompile Java bytecode to reconstruct a third-party API. We were able to find and diagnose these problems using agentic monitoring tools, but they demonstrate the increasing care necessary for large scale RL. # Sharded Muon and dual mesh HSDP For continued pretraining, we use Muon with distributed orthogonalization. After forming the momentum update, we run Newton-Schulz at the model's natural granularity: per attention head for attention projections, and per expert for stacked MoE weights. The main cost is orthogonalizing expert weights. For sharded parameters, we batch same-shaped tensors, all-to-all shards into complete matrices, run Newton-Schulz, then all-to-all the result back to the original sharded layout. These transfers are asynchronous: while one task is waiting on communication, the optimizer runtime advances other Muon tasks, overlapping network and compute. This is equivalent to full-matrix Muon, but keeps the shard group busy; on the 1T model, optimizer step time is 0.2s. This interacts closely with how we use HSDP for MoE models. HSDP forms multiple FSDP replicas and all-reduces gradients across corresponding shards. We use separate HSDP layouts for non-expert and expert weights: non-expert weights are comparatively small, so their FSDP groups can stay narrow, often within a node or rack, while expert weights hold most of the parameters and most of the Muon compute, so they use a wider expert sharding mesh. Keeping these layouts separate also lets independent parallelism dimensions overlap: CP=2 and EP=8 can run on 8 GPUs instead of requiring 16 in a single shared mesh. This avoids wide communication for small non-expert state while spreading expert optimizer work over many GPUs. # Try Composer 2.5 Composer 2.5 is priced at $0.50/M input and $2.50/M output tokens. There's also a faster variant with the same intelligence at $3.00/M input and $15.00/M output tokens, a lower cost than the fast tiers of other frontier models. Similar to Composer 2, fast is the default option. See our model docs for full details. Composer 2.5 includes double usage for the first week. For more background on this approach see Self-Distillatio",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Cursor has released Composer 2.5, an improved AI model that excels at long-running tasks and complex instructions, building on the open-source Kimi K2.5 checkpoint. The improvements stem from advanced training techniques, including targeted reinforcement learning with textual feedback and the use of 25 times more synthetic data. Cursor is also collaborating with SpaceXAI to train a significantly larger model using 10x more compute.",
+      "enterpriseAngle": "Enterprise product development teams can leverage Composer 2.5 for more reliable and sustained AI assistance in complex coding tasks, potentially accelerating development cycles and improving code quality. The ongoing research into advanced training methods and larger models suggests future AI tools will offer even greater capabilities for enterprise applications.",
+      "beginner": "AI models like Composer 2.5 are getting smarter and better at understanding what you want them to do, even for complicated projects.",
+      "advanced": "Implement targeted textual feedback mechanisms in your RL training pipelines to provide localized error signals, improving model behavior and reducing the impact of noisy global rewards, especially for long-running agentic tasks.",
+      "tags": [
+        "model-release",
+        "research",
+        "product",
+        "enterprise"
+      ]
     },
     {
       "id": "21c4d9567dc3",
@@ -3990,6 +4208,23 @@
       "publishedAt": "2025-08-21",
       "fetchedAt": "2026-07-03T22:40:12.337Z",
       "contentText": "Announcements Frontier Red Team Developing nuclear safeguards for AI through public-private partnership Aug 21, 2025 Read the full post on red.anthropic.com Nuclear technology is inherently dual-use: the same physics principles that power nuclear reactors can be misused for weapons development. As AI models become more capable, we need to keep a close eye on whether they can provide users with dangerous technical knowledge in ways that could threaten national security. Information relating to nuclear weapons is particularly sensitive, which makes evaluating these risks challenging for a private company acting alone. That’s why last April we partnered with the U.S. Department of Energy (DOE)’s National Nuclear Security Administration (NNSA) to assess our models for nuclear proliferation risks and continue to work with them on these evaluations. Now, we’re going beyond assessing risk to build the tools needed to monitor for it. Together with the NNSA and DOE national laboratories, we have co-developed a classifier—an AI system that automatically categorizes content—that distinguishes between concerning and benign nuclear-related conversations with 96% accuracy in preliminary testing. We have already deployed this classifier on Claude traffic as part of our broader system for identifying misuse of our models. Early deployment data suggests the classifier works well with real Claude conversations. We will share our approach with the Frontier Model Forum , the industry body for frontier AI companies, in hopes that this partnership can serve as a blueprint that any AI developer can use to implement similar safeguards in partnership with NNSA. Along with the concrete importance of securing frontier AI models against nuclear misuse, this first-of-its-kind effort shows the power of public-private partnerships. These partnerships combine the complementary strengths of industry and government to address risks head-on, making AI models more reliable and trustworthy for all their users. Full details about our NNSA partnership and the safeguards development can be found on our red.anthropic.com blog, the home for research from Anthropic’s Frontier Red Team (and occasionally other teams at Anthropic) on what frontier AI models mean for national security. Click here to read more.",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": [],
+      "dateChecked": true
+    },
+    {
+      "id": "4da7c4fa446c",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "Building safeguards for Claude",
+      "url": "https://www.anthropic.com/news/building-safeguards-for-claude",
+      "publishedAt": "2025-08-12",
+      "fetchedAt": "2026-07-07T15:46:14.227Z",
+      "contentText": "Product Building safeguards for Claude Aug 12, 2025 Claude empowers millions of users to tackle complex challenges, spark creativity, and deepen their understanding of the world. We want to amplify human potential while ensuring our models’ capabilities are channeled toward beneficial outcomes. This means continuously refining how we support our users’ learning and problem-solving, while preventing misuse that could cause real-world harm. This is where our Safeguards team comes in: we identify potential misuse, respond to threats, and build defenses that help keep Claude both helpful and safe. Our Safeguards team brings together experts in policy, enforcement, product, data science, threat intelligence, and engineering who understand how to build robust systems and how bad actors try to break them. We operate across multiple layers: developing policies, influencing model training, testing for harmful outputs, enforcing policies in real-time, and identifying novel misuses and attacks. This approach spans the entire lifecycle of our models, ensuring Claude is trained and built with protections that are effective in the real world. Figure 1: Safeguards’ approach to building effective protections throughout the lifecycle of our models Policy development Safeguards designs our Usage Policy —the framework that defines how Claude should and shouldn’t be used. The Usage Policy informs how we address critical areas like child safety, election integrity, and cybersecurity while providing nuanced guidance for Claude’s use in industries like healthcare and finance. Two mechanisms guide our policy development and iteration process: Unified Harm Framework: This evolving framework helps our team understand potentially harmful impacts from Claude use across five dimensions: physical, psychological, economic, societal, and individual autonomy. Rather than a formal grading system, the framework serves as a structured lens and considers the likelihood and scale of misuse when developing policies and enforcement procedures. Policy Vulnerability Testing: We partner with external domain experts to identify areas of concern, and then stress-test these concerns against our policies by assessing the output of our models under challenging prompts. Our partners include experts in terrorism, radicalization, child safety, and mental health. The findings from these stress tests directly shape our policies, training, and detection systems. For example, during the 2024 U.S. election, we partnered with the Institute for Strategic Dialogue to understand when Claude might provide outdated information. We then added a banner pointing Claude.ai users seeking election information to authoritative sources like TurboVote . Figure 2: Banner displayed during 2024 U.S. election cycle for accurate voting information as a result of our policy vulnerability testing with the Institute for Strategic Dialogue Claude’s training Safeguards works closely with our fine-tuning teams through a collaborative process to help prevent harmful behavior and responses from Claude. This involves extensive discussion about what behaviors Claude should and shouldn't exhibit, which helps to inform decisions about which traits to build into the model during training. Our evaluation and detection processes also identify potentially harmful outputs. When issues are flagged, we can work with fine-tuning teams on solutions like updating our reward models during training or adjusting system prompts for deployed models. We also work with domain specialists and experts to refine Claude’s understanding of sensitive areas. For example, we partner with ThroughLine , a leader in online crisis support, to develop a deep understanding of where and how models should respond in situations related to self-harm and mental health. We feed these insights back to our training team to help influence the nuance in Claude’s responses, rather than having Claude refuse to engage completely or misinterpreting a user’s intent in these conversations. Through this collaborative process, Claude develops several important skills. It learns to decline assistance with harmful illegal activities, and it recognizes attempts to generate malicious code, create fraudulent content, or plan harmful activities. It learns how to discuss sensitive topics with care, and how to distinguish between these and attempts to cause actual harm. Testing and evaluation Before releasing a new model, we evaluate its performance and capabilities. Our evaluations include: Figure 3: We test each model via safety evaluations, risk assessments, and bias evaluations prior to deployment Safety evaluations: We assess Claude’s adherence to our Usage Policy on topics like child exploitation or self-harm. We test a variety of scenarios, including clear usage violations, ambiguous contexts, and extended multi-turn conversations. These evaluations leverage our models to grade Claude’s responses, with human review as an additional check for accuracy. Risk assessments: For high-risk domains, such as those associated with cyber harm, or chemical, biological, radiological, and nuclear weapons and high-yield explosives (CBRNE), we conduct AI capability uplift testing in partnership with government entities and private industry. We define threat models that could arise from improved capabilities and assess the performance of our safeguards against these threat models. Bias evaluations: We check whether Claude consistently provides reliable, accurate responses across different contexts and users. For political bias, we test prompts with opposing viewpoints and compare the responses, scoring them for factuality, comprehensiveness, equivalency, and consistency. We also test responses on topics such as jobs and healthcare to identify whether the inclusion of identity attributes like gender, race, or religion result in biased outputs. This rigorous pre-deployment testing helps us verify whether training holds up under pressure, and signals whether we might need to build additional guardrails to monitor and protect against risks. During pre-launch evaluations of our computer use tool, we determined it could augment spam generation and distribution. In response, prior to launch we developed new detection methods and enforcement mechanisms, including the option to disable the tool for accounts showing signs of misuse, and new protections for our users against prompt injection . The results of our evaluations are reported in our system cards , released with each new model family. Real-time detection and enforcement We use a combination of automated systems and human review to detect harm and enforce our Usage Policy once models are deployed. Our systems for detection and enforcement are powered by a set of prompted or specially fine-tuned Claude models called \" classifiers,\" which are designed to detect specific types of policy violations in real-time. We can deploy a number of different classifiers simultaneously, ",
       "summary": null,
       "enterpriseAngle": null,
       "beginner": null,

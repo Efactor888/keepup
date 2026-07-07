@@ -1,6 +1,75 @@
 {
-  "updatedAt": "2026-07-07T15:55:00.346Z",
+  "updatedAt": "2026-07-07T22:22:15.792Z",
   "articles": [
+    {
+      "id": "f6e145185112",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Why the rise of open source AI isn't hurting Anthropic … yet",
+      "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+      "publishedAt": "2026-07-07T20:04:32.000Z",
+      "fetchedAt": "2026-07-07T22:17:04.528Z",
+      "contentText": null,
+      "summary": "A new theory suggests that expensive frontier AI models and cheaper open-source models are not direct competitors but rather serve different phases of the AI lifecycle. Frontier models are used for initial use case discovery, while open-source models handle mature production tasks. Despite the rising usage of open-source models, overall spending on frontier models remains high, indicating a growing market for AI-addressable tasks.",
+      "enterpriseAngle": "Enterprise product development teams can leverage expensive frontier models for initial proof-of-concept and discovery, then transition to more cost-effective open-source alternatives for scaling mature applications, optimizing both innovation and budget.",
+      "beginner": "Big, powerful AI models help discover new ways to use AI, and then smaller, cheaper AI models take over once those uses are well-understood.",
+      "advanced": "Implement a tiered AI strategy, utilizing frontier models for exploratory R&D and rapidly migrating validated use cases to optimized open-source solutions to manage costs while maintaining innovation velocity.",
+      "tags": [
+        "enterprise",
+        "product",
+        "model-release",
+        "research"
+      ]
+    },
+    {
+      "id": "f9e4ca71e2bb",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+      "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+      "publishedAt": "2026-07-07T19:58:20.000Z",
+      "fetchedAt": "2026-07-07T22:17:04.528Z",
+      "contentText": "In Brief Posted: 12:58 PM PDT · July 7, 2026 Image Credits: JASON REDMOND/AFP / Getty Images Lucas Ropek Microsoft joins AI cost-cutting trend by relying more on its own models As AI costs continue to rise , companies are looking for ways to cut back. The most recent example is Microsoft, which has reportedly begun to deploy a cost-savings strategy by relying less on software from OpenAI and Anthropic and instead deploying its own in-house models. Indeed, when it comes to two of its most widely used programs — Excel and Word — Microsoft has begun to use its homemade MAI models to respond to a certain percentage of user prompts, Bloomberg reported Tuesday. In the past, the company had advertised the fact that large parts of Office 365 are powered by models from both OpenAI and Anthropic . While Microsoft still relies on those third-party models, it has also increasingly sought to stand up its own AI agents. Last month, at its annual Build conference, the company announced the launch of seven new MAI models , including an agentic coder and a text-to-image generator. When reached for comment by TechCrunch, Microsoft said that it had nothing further to share. Microsoft's apparent cutbacks are part of a broader trend. After a brief blitz of \"tokenmaxxing\" earlier this year, the last few months have seen a news cycle awash in stories about tech companies acting significantly more thrifty. Other large companies — like Amazon , Uber , Meta , and Accenture — have also reportedly made moves to curb spending. The immense cost of providing and buying AI services has become a controversial part of the industry. The sticker shock has gotten so bad in some parts of Silicon Valley that some companies are reportedly looking to Chinese models for more affordable agentic solutions — despite some concerns over potential security issues . Topics AI , Anthropic , In Brief , Microsoft , OpenAI , tokens November 4 Boston Last chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world scaling insights and connections that move the needle. Savings end June 26, 11:59 p.m. PT . REGISTER NOW Newsletters See More Subscribe for the industry’s biggest tech news TechCrunch Daily News Every weekday and Sunday, you can get the best of TechCrunch’s coverage. TechCrunch Mobility TechCrunch Mobility is your destination for transportation news and insight. Startups Weekly Startups are the core of TechCrunch, so get our best coverage delivered weekly. StrictlyVC Provides movers and shakers with the info they need to start their day. No newsletters selected. Subscribe By submitting your email, you agree to our Terms and Privacy Notice . Related AI Why the rise of open source AI isn't hurting Anthropic … yet Russell Brandom 2 hours ago AI Claude Cowork expands to mobile and web Rebecca Bellan 6 hours ago Enterprise Microsoft lays off nearly 5,000 employees across Xbox, commercial sales Rebecca Bellan 1 day ago Latest in AI AI Why the rise of open source AI isn't hurting Anthropic … yet Russell Brandom 2 hours ago In Brief Microsoft joins AI cost-cutting trend by relying more on its own models Lucas Ropek 2 hours ago AI Discord admits AI moderation bug wrongfully banned users over harmless images Lauren Forristal 3 hours ago",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
+    {
+      "id": "3a5bf3a3618d",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
+      "url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+      "publishedAt": "2026-07-07T19:28:38.000Z",
+      "fetchedAt": "2026-07-07T22:17:04.528Z",
+      "contentText": "The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and fixed the problem.",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
+    {
+      "id": "3d4c1a01fdd5",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Claude Cowork expands to mobile and web",
+      "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+      "publishedAt": "2026-07-07T16:27:18.000Z",
+      "fetchedAt": "2026-07-07T22:17:04.528Z",
+      "contentText": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed.",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
     {
       "id": "4093f7458e11",
       "source": "techcrunch-ai",
@@ -61,6 +130,47 @@
         "enterprise",
         "research",
         "agents"
+      ]
+    },
+    {
+      "id": "f7eb2a868aac",
+      "source": "google-ai",
+      "sourceName": "Google AI",
+      "tier": "realtime",
+      "title": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+      "publishedAt": "2026-07-07T08:54:00.000Z",
+      "fetchedAt": "2026-07-07T22:17:02.607Z",
+      "contentText": null,
+      "summary": "Google AI has introduced new capabilities for Managed Agents in the Gemini API, including support for background execution for asynchronous tasks and direct integration with remote Model Context Protocol (MCP) servers. These updates also enable custom function calling and credential refreshing to help developers build more reliable and production-ready AI agents. The enhancements aim to address developer feedback and product needs by allowing agents to operate as asynchronous workers within secure, isolated cloud sandboxes.",
+      "enterpriseAngle": "Enterprise development teams can leverage these expanded capabilities to build more robust and secure AI agents that can handle long-running tasks, access internal APIs and databases securely, and integrate custom business logic, all while maintaining credential hygiene. This reduces the need for custom middleware and enhances the reliability of AI-powered applications within an enterprise environment.",
+      "beginner": "Google's AI tools now let computer programs do more complex tasks in the background and connect to private company systems more easily.",
+      "advanced": "Utilize the new background execution and remote MCP server integration features in the Gemini API to decouple long-running agent operations from client applications and securely extend agent access to internal enterprise resources, respectively.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product",
+        "coding"
+      ]
+    },
+    {
+      "id": "60d1b56766e3",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+      "url": "https://openai.com/index/australian-payments-plus",
+      "publishedAt": "2026-07-07T00:00:00.000Z",
+      "fetchedAt": "2026-07-07T22:17:02.407Z",
+      "contentText": null,
+      "summary": "Australian Payments Plus (AP+) is leveraging ChatGPT Enterprise and Codex to enhance its operational speed and efficiency in managing complex payment systems. This adoption has resulted in time savings and improved quality while maintaining human oversight in decision-making processes.",
+      "enterpriseAngle": "Enterprise product development and security teams can learn from AP+'s approach to integrating AI, focusing on how these tools can accelerate development cycles and improve code quality without compromising human judgment or control. This also highlights the growing trend of enterprises adopting advanced AI for operational efficiency.",
+      "beginner": "Large companies like Australian Payments Plus are using AI tools to help them work faster and better, especially with complicated tasks.",
+      "advanced": "Evaluate the integration of large language models like ChatGPT Enterprise and Codex into your development workflows to identify opportunities for accelerating code generation, improving quality assurance, and streamlining complex operational tasks.",
+      "tags": [
+        "enterprise",
+        "product",
+        "coding"
       ]
     },
     {
@@ -1389,6 +1499,22 @@
       ]
     },
     {
+      "id": "3d01237da505",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Designing Organisations That Can Keep Up With AI",
+      "url": "https://openai.com/deployco/news/designing-organisations-that-can-keep-up-with-ai",
+      "publishedAt": "2026-06-25T12:00:00.000Z",
+      "fetchedAt": "2026-07-07T22:17:02.407Z",
+      "contentText": "Why organisational latency is becoming the biggest barrier to fully realising AI’s benefits",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
+    {
       "id": "2b6976f96bb5",
       "source": "openai",
       "sourceName": "OpenAI",
@@ -1551,6 +1677,22 @@
         "policy",
         "enterprise"
       ]
+    },
+    {
+      "id": "5297eb2b11b4",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Meta-Harness R&D: Enterprise-Grade Self-Improvement for Long-Horizon AI Workflows",
+      "url": "https://openai.com/deployco/news/meta-harness-enterprise-self-improvement-long-horizon-ai-workflows",
+      "publishedAt": "2026-06-23T12:00:00.000Z",
+      "fetchedAt": "2026-07-07T22:17:02.407Z",
+      "contentText": "How autonomous code improvement can be made disciplined enough for enterprise use",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
     },
     {
       "id": "40502edc9dc7",
@@ -3260,6 +3402,22 @@
       "publishedAt": "2026-05-28T12:00:00.000Z",
       "fetchedAt": "2026-07-05T22:08:40.905Z",
       "contentText": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
+    {
+      "id": "aa0c148c160e",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Responses are the Easy Part: What We’ve Learned Building Real-time Voice Experiences at Scale",
+      "url": "https://openai.com/deployco/news/building-realtime-voice-experiences-at-scale",
+      "publishedAt": "2026-05-28T12:00:00.000Z",
+      "fetchedAt": "2026-07-07T22:17:02.408Z",
+      "contentText": "Timing, interruption, silence and recovery shape the experience as much as words",
       "summary": null,
       "enterpriseAngle": null,
       "beginner": null,

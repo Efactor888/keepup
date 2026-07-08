@@ -1,6 +1,90 @@
 {
-  "updatedAt": "2026-07-07T22:22:15.792Z",
+  "updatedAt": "2026-07-08T15:37:30.254Z",
   "articles": [
+    {
+      "id": "fcbb5886d3a9",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
+      "url": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
+      "publishedAt": "2026-07-08T12:00:00.000Z",
+      "fetchedAt": "2026-07-08T15:28:01.642Z",
+      "contentText": null,
+      "summary": "Kevin Weil, a former OpenAI executive, has joined the board of Stoke Space, a startup developing reusable rockets to compete with SpaceX. Weil, an early investor in Stoke, will help the company scale as it aims to launch its fully reusable Nova rocket this year. His experience in fundraising, product development, and government relations is expected to support Stoke's growth in the competitive space launch market.",
+      "enterpriseAngle": "Enterprises in the space industry, particularly those reliant on launch services, will benefit from increased competition and the potential for more affordable, rapidly reusable rockets. This development could also enable new business models, such as space-based data centers, by reducing the cost of orbital deployment.",
+      "beginner": "A former leader at OpenAI is now helping a company build rockets that can be used many times, making space travel potentially cheaper and more common.",
+      "advanced": "Evaluate Stoke Space's progress on full, rapid rocket reusability as a potential enabler for future space infrastructure, including distributed data centers, and monitor their engagement with military contracts for strategic partnership opportunities.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "product",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "2e1d33d54662",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+      "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+      "publishedAt": "2026-07-08T08:00:00.000Z",
+      "fetchedAt": "2026-07-08T15:28:01.642Z",
+      "contentText": null,
+      "summary": "French startup ZML has launched ZML/LLMD, a free inference-performance software designed to optimize the speed of open-source large language models across various AI chips, including those from Nvidia, AMD, Google, Apple, and Intel. The company aims to break vendor lock-in and allow enterprises to utilize a mix of chips for AI workloads, potentially reducing costs and energy consumption. ZML has secured $20 million in funding and is backed by prominent figures in the AI and tech industry.",
+      "enterpriseAngle": "Enterprise security and product development teams can leverage ZML/LLMD to achieve greater flexibility and efficiency in deploying AI models by utilizing diverse hardware, potentially lowering operational costs and reducing reliance on a single vendor. This could also enable enterprises to integrate AI more broadly by optimizing performance across existing and future infrastructure.",
+      "beginner": "ZML's new software helps make AI models run faster on different computer chips, giving companies more choices and potentially saving them money.",
+      "advanced": "Evaluate ZML/LLMD for optimizing inference workloads across heterogeneous hardware environments to enhance cost-efficiency and performance, particularly for open-source LLMs, and consider its potential for co-designing silicon for future AI infrastructure.",
+      "tags": [
+        "product",
+        "enterprise",
+        "infrastructure",
+        "funding"
+      ]
+    },
+    {
+      "id": "4238b4b67de1",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+      "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+      "publishedAt": "2026-07-08T07:16:00.000Z",
+      "fetchedAt": "2026-07-08T15:28:01.642Z",
+      "contentText": null,
+      "summary": "SambaNova Systems, an AI chip company, has raised $1 billion in Series F funding, valuing it at $11 billion. This funding round follows a previous $350 million Series E round and the unveiling of its SN50 chip. The company also announced a partnership with JPMorgan Chase to provide secure, on-premises AI inference infrastructure.",
+      "enterpriseAngle": "Enterprises, particularly in finance and government, are increasingly seeking secure, on-premises AI inference solutions to handle sensitive data, moving away from complete reliance on cloud services. This trend signals a growing market for specialized AI hardware and infrastructure that can support large, complex models within private environments.",
+      "beginner": "AI chip companies like SambaNova are raising a lot of money to build special computer chips that help run advanced AI programs faster and more securely, especially for big companies.",
+      "advanced": "Evaluate on-premises AI inference solutions like SambaNova's SN40L and SN50 for deploying multi-trillion-parameter models, prioritizing secure, high-performance execution within private infrastructure to address data sensitivity and regulatory compliance.",
+      "tags": [
+        "funding",
+        "enterprise",
+        "product",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "283528023d88",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
+      "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+      "publishedAt": "2026-07-07T22:18:10.000Z",
+      "fetchedAt": "2026-07-08T15:28:01.642Z",
+      "contentText": null,
+      "summary": "Meta has launched Muse Image, a new AI image generator that allows users to create and manipulate images, including the ability to use public Instagram photos of other users to generate new AI images. This feature has sparked privacy concerns due to its opt-out default and Meta's history with user data. Muse Image also offers features for custom ads, interior decorating ideas, and prompt-based image editing, with a video generator, Muse Video, already in development.",
+      "enterpriseAngle": "Enterprise product teams developing AI-powered features must prioritize user consent and transparent data practices, especially when integrating with existing user-generated content platforms, to avoid privacy backlashes and regulatory scrutiny. Security teams need to be vigilant about the implications of AI features that allow manipulation of user data, ensuring robust controls and clear opt-out mechanisms are in place.",
+      "beginner": "Meta's new AI tool can make pictures, but it also lets people use others' public photos to create new AI images, which has raised privacy worries.",
+      "advanced": "Implement granular, opt-in consent mechanisms for AI features that utilize user-generated content, and conduct thorough privacy impact assessments to mitigate risks associated with data co-option and potential misuse, especially given Meta's past regulatory issues.",
+      "tags": [
+        "product",
+        "security",
+        "consumer",
+        "governance"
+      ]
+    },
     {
       "id": "f6e145185112",
       "source": "techcrunch-ai",
@@ -47,7 +131,7 @@
       "url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
       "publishedAt": "2026-07-07T19:28:38.000Z",
       "fetchedAt": "2026-07-07T22:17:04.528Z",
-      "contentText": "The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and fixed the problem.",
+      "contentText": "Discord has acknowledged that a bug in its AI moderation system mistakenly banned more than 8,000 users over the past two months, after harmless images—including spreadsheets, chessboards, game textures, as well as white and gray transparent backgrounds—were incorrectly flagged as harmful content. The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and fixed the problem. All affected accounts are currently in the process of being restored. The incident highlights one of the growing challenges surrounding AI-assisted moderation as many platforms increasingly rely on automated systems to identify illegal or abusive material at scale. In a detailed thread on X , Discord explained that its automated safety system works by matching uploaded content against databases of known harmful material. While the technology is designed to catch illegal content, the company acknowledged that it can sometimes generate false positives. A human moderator reviews the content, but a bug caused the system to immediately ban affected accounts. “We’re working on better safeguards so this can’t happen again,” the company wrote. Our systems flag content by matching it against known harmful material. This kind of similarity matching can produce false positives, which is why a member of our Trust & Safety team always reviews flagged content before any action is taken. The intended behavior is to… — Discord Support (@discord_support) July 7, 2026 Across X and Reddit , users have claimed they had been permanently suspended simply for uploading images containing square grid patterns. Several users speculated that Discord's AI moderation tools have become increasingly sensitive to grid-like patterns because they have previously been used in attempts to obscure or disguise NSFW and child exploitation content from automated detection systems. Affected users have been expressing frustration on social media, with some arguing that permanent account bans based solely on automated detection can have serious consequences, particularly for users who rely on Discord for work, gaming communities, or long-distance social connections. “Losing a Discord account to something as unfair as this can be extremely devastating and affect users severely, and every day millions of users are affected by false AI bans. This needs to be stopped,” one X user wrote . My account was wrongfully banned from your platform due to a bug in your AI automod detecting my GAME TEXTURES as CSAM. I need my account back as I'm a game director and use Discord for all my communication. I have requested a review of my suspension. @discord @discord_support pic.twitter.com/QfAkCIJo6S — JDBRYANT 🎂 TODAY (@jdbryantdev) July 4, 2026 Discord isn't alone in facing moderation troubles due to automated systems. Last year, users of Instagram and Facebook Groups reported widespread unexplained account suspensions that many believed were caused by AI moderation systems. Although users pointed to automation as the likely culprit, Meta never publicly confirmed whether AI errors were responsible. Now Meta's Oversight Board is pushing for increased transparency. Tumblr last year also faced complaints from users who said their accounts had been mass-suspended without clear explanations. Topics AI , Apps , discord , Social When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Lauren Forristal Lauren covers media, streaming, apps and platforms at TechCrunch. You can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal. View Bio November 4 Boston Last chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world scaling insights and connections that move the needle. Savings end June 26, 11:59 p.m. PT . REGISTER NOW Most Popular If you use Google, you're training its AI. Here's how to opt out. Sarah Perez Reddit is using LLMs to solve a problem LLMs largely created Amanda Silberling Amazon will stop accepting new customers for Mechanical Turk Anthony Ha 5 desk gadgets that can make your workday better Aisha Malik Chevy built an all-American EV truck — why is nobody buying it? Tim De Chant Mark Zuckerberg tells staff that AI agents haven't progressed as quickly as he'd hoped Lucas Ropek Jersey Mike's IPO illustrates how bad the AI hype has become Julie Bort",
       "summary": null,
       "enterpriseAngle": null,
       "beginner": null,
@@ -1507,12 +1591,15 @@
       "url": "https://openai.com/deployco/news/designing-organisations-that-can-keep-up-with-ai",
       "publishedAt": "2026-06-25T12:00:00.000Z",
       "fetchedAt": "2026-07-07T22:17:02.407Z",
-      "contentText": "Why organisational latency is becoming the biggest barrier to fully realising AI’s benefits",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "The article suggests that the primary obstacle to fully leveraging the advantages of AI is organizational latency. This refers to the delay or slowness within an organization's processes and structures.",
+      "enterpriseAngle": "Enterprise leaders must prioritize re-evaluating and streamlining internal processes to reduce organizational latency, ensuring their companies can adapt quickly to integrate and benefit from AI technologies.",
+      "beginner": "Organizations need to speed up their internal operations to make the most of AI.",
+      "advanced": "Implement agile methodologies and cross-functional teams to minimize organizational latency and accelerate AI adoption and value realization.",
+      "tags": [
+        "enterprise",
+        "workforce"
+      ]
     },
     {
       "id": "2b6976f96bb5",
@@ -1687,12 +1774,17 @@
       "url": "https://openai.com/deployco/news/meta-harness-enterprise-self-improvement-long-horizon-ai-workflows",
       "publishedAt": "2026-06-23T12:00:00.000Z",
       "fetchedAt": "2026-07-07T22:17:02.407Z",
-      "contentText": "How autonomous code improvement can be made disciplined enough for enterprise use",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "OpenAI is researching \"Meta-Harness R&D,\" focusing on making autonomous code improvement reliable enough for enterprise applications. The goal is to enable self-improving AI systems to handle complex, long-term tasks within a structured enterprise environment.",
+      "enterpriseAngle": "This research aims to provide enterprises with AI systems that can autonomously improve their code, potentially streamlining product development and operational workflows. It addresses the critical need for disciplined and trustworthy AI self-improvement in business contexts.",
+      "beginner": "AI systems are being developed to fix and improve their own code, making them more useful for businesses.",
+      "advanced": "Investigate frameworks like Meta-Harness R&D to integrate disciplined autonomous code improvement into your long-horizon AI workflow development, focusing on robust validation and governance.",
+      "tags": [
+        "research",
+        "enterprise",
+        "coding",
+        "agents"
+      ]
     },
     {
       "id": "40502edc9dc7",
@@ -1849,12 +1941,16 @@
       "url": "https://openai.com/index/codex-maxxing-long-running-work",
       "publishedAt": "2026-06-22T00:00:00.000Z",
       "fetchedAt": "2026-07-04T04:29:09.572Z",
-      "contentText": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Jason Liu leverages Codex to maintain context and oversee intricate projects, enabling work to persist across multiple prompts. This approach helps manage complex tasks more effectively.",
+      "enterpriseAngle": "Enterprise product development teams can adopt similar strategies to enhance the efficiency of AI-assisted coding, particularly for large-scale or multi-stage software projects.",
+      "beginner": "AI tools like Codex can help programmers keep track of their work even when tasks are complicated or take a long time.",
+      "advanced": "Integrate context preservation techniques with large language models to streamline multi-prompt coding workflows and improve project continuity.",
+      "tags": [
+        "coding",
+        "product",
+        "enterprise"
+      ]
     },
     {
       "id": "676577ce317b",
@@ -1886,12 +1982,16 @@
       "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
       "publishedAt": "2026-06-21T23:00:00.000Z",
       "fetchedAt": "2026-07-04T04:29:09.572Z",
-      "contentText": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Samsung Electronics is rolling out OpenAI's ChatGPT Enterprise and Codex to its employees globally. This initiative represents one of the largest enterprise-wide deployments of OpenAI's AI technologies to date.",
+      "enterpriseAngle": "This deployment by Samsung highlights a growing trend of major enterprises integrating advanced AI tools like ChatGPT and Codex into their internal operations to enhance productivity and innovation across their workforce. Enterprise security teams will need to ensure robust data governance and privacy controls are in place for such large-scale AI adoption.",
+      "beginner": "Large companies are starting to give their employees AI tools like ChatGPT to help them with their work.",
+      "advanced": "Evaluate the implications of large-scale LLM deployment on your organization's data security posture and develop a comprehensive strategy for secure integration and employee training.",
+      "tags": [
+        "enterprise",
+        "product",
+        "workforce"
+      ]
     },
     {
       "id": "217d8a1a56f1",
@@ -1902,12 +2002,15 @@
       "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
       "publishedAt": "2026-06-18T17:00:00.000Z",
       "fetchedAt": "2026-07-04T04:29:09.572Z",
-      "contentText": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "OpenAI has launched new spend controls and usage analytics specifically for its ChatGPT Enterprise offering. These features are designed to assist organizations in managing their expenditures and confidently expanding their AI implementations.",
+      "enterpriseAngle": "Enterprise security and product development teams can leverage these new controls to better monitor and allocate resources for AI initiatives, ensuring cost-effectiveness and controlled scaling of AI tools within their operations.",
+      "beginner": "OpenAI is making it easier for companies to keep track of how much they spend on AI and how it's being used.",
+      "advanced": "Implement the new spend controls and usage analytics to optimize budget allocation and track AI adoption rates across enterprise departments.",
+      "tags": [
+        "enterprise",
+        "product"
+      ]
     },
     {
       "id": "33383567514a",
@@ -2673,12 +2776,17 @@
       "url": "https://x.ai/news/grok-gopuff",
       "publishedAt": "2026-06-09",
       "fetchedAt": "2026-07-03T02:45:50.390Z",
-      "contentText": "Powering Gopuff's Go agent | xAI Products Solutions Developer Company Pricing News Contact Sales Try for free Products Grok Business Government Download iOS Android Grok on X Developers API Console Documentation CLI Try for free Back to news Jun 9, 2026 Powering Gopuff's Go agent Gopuff and SpaceXAI launched Go, an AI-powered shopping assistant built into the Gopuff app and powered by Grok text, audio, and image models. The SpaceXAI team has collaborated closely with Gopuff to launch the Go agent - a personal shopping assistant that knows what you want and delivers in minutes - using frontier text, image, and audio models. Go pairs Grok's frontier reasoning, voice, and image generation with Gopuff's 13 years of demand intelligence based on hundreds of millions of orders. Through SpaceXAI API tools, Go also leverages real-time signals from X and the web. The result is a shopping experience that anticipates what you need and delivers it in minutes from Gopuff's network of micro-fulfillment centers. Building Go Gopuff and SpaceXAI worked closely to build multimodal capabilities into the new Go agent. Go can build personalized carts for you before you open the app using past preferences and external signals like the weather. Over time, Go learns what you like and dislike, helping you order critical necessities when you need them. Go also includes a new, visual shopping feed based on Grok Imagine. Using state-of-the-art image models, Go generates hyper-realistic scenes from Gopuff inventory, helping you visualize shopping carts and orders. Go learns on every order to help you shop faster and more efficiently in the future. Go is available now in the Gopuff app on iOS and Android, starting in the US with the UK to follow. A division of © 2026 xAI Corp. Built with Grok Products Chat Build Imagine Voice Grokipedia Download grok.com iOS Android Grok on X Solutions Business Government Customer Support Legal Security Use Cases Developers API Overview Pricing Models Console Docs Status Enterprise Contact Sales FAQs BAA DPA Company About Colossus Careers News Contact Trust Safety Security Privacy Portal Subprocessors Help Center Legal Terms Enterprise Terms Privacy Cookies AUP Brand Social @xai @grok Discord Built with Grok",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Gopuff and xAI have partnered to launch \"Go,\" an AI-powered shopping assistant integrated into the Gopuff app. Go utilizes xAI's Grok text, audio, and image models to offer personalized shopping experiences, including anticipating user needs and generating visual shopping feeds. The assistant learns from past preferences and real-time signals to help users order items efficiently.",
+      "enterpriseAngle": "This partnership demonstrates how enterprises can leverage advanced multimodal AI models to create highly personalized customer experiences and streamline operations, particularly in e-commerce and logistics. Product development teams can learn from the integration of reasoning, voice, and image generation with existing demand intelligence to build more intuitive and predictive agent-based solutions.",
+      "beginner": "AI is being used to create smart shopping assistants that can predict what you want to buy and show you realistic pictures of products.",
+      "advanced": "Evaluate integrating multimodal AI agents with existing enterprise data and real-time external signals to enhance predictive capabilities and personalize user interactions within your product offerings.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "partnership",
+        "product"
+      ]
     },
     {
       "id": "41e74c1497e4",
@@ -2737,12 +2845,17 @@
       "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
       "publishedAt": "2026-06-06T00:28:16.000Z",
       "fetchedAt": "2026-07-04T04:28:51.134Z",
-      "contentText": "Twelve months ago, we'd have rejected out of hand the idea of granting Claude access sufficient to take down an internal Anthropic service. Today that level of access is routine, and Anthropic developers are more productive for it. The risk of these deployments has two components: how likely a failure is, and how much damage one could do. Progress on safeguards and model training has steadily driven down the first; the second—the theoretical blast radius—only grows as capabilities and access expand. Yet as agents become capable of doing work that once required a person or even a team, the cost of not deploying grows large enough that the risk-reward calculation tips heavily toward adoption, as long as products can be made safe. The engineering question becomes how to cap the blast radius. When bounds can be placed on the relative damage of an autonomous agent—such as through control over its environment—high-utility capabilities can motivate deployment. Claude Mythos Preview is an example of a model whose blast radius was deemed too high to ship in April 2026. However, we expect broader release of models with similar levels of capability to become appropriate as defenders harden critical systems and safeguards mature—even though some risk will always remain. Model capability is an important factor in the total risk of an agent’s deployment. There are broadly two ways to do this. The first is to supervise the agent’s behavior via a human-in-the-loop. Claude Code previously protected against agents taking unintended actions by asking users for permission at each turn. Theoretically that works, but we’ve found the approach to be fallible. Our telemetry showed users approved roughly 93% of permission prompts. The more approvals a user sees, the less attention they pay to each, becoming over time much less diligent in their supervision. We recently built Claude Code auto mode, which automates safer approvals in order to reduce this approval fatigue. Still, vulnerabilities remain—any probabilistic defense has a non-zero miss rate. 1 The second approach to capping the blast radius—and the focus of much of this post—is containment. Rather than supervising what the agent does, we supervise what it’s able to do by enforcing access boundaries through, for example, sandboxes, virtual machines, and egress controls. This is where Anthropic engineering has devoted the most effort, and also where many of the most surprising security failures have occurred. Over the past two years, we’ve shipped three primary agentic products: claude.ai , Claude Code, and Claude Cowork. Each serves a different audience, requiring a different containment architecture. This article shares what’s held up, what’s broken, and what we’ve learned about agent security along the way. Three types of risk, three components of defense Security risks to agents fall into one of three categories: User misuse: A user—either maliciously or through carelessness—directs the agent to do something harmful. This includes everything from asking the agent to bypass a check they find annoying, to running a destructive command they don’t understand, to specifying intentional harm. Model misbehavior: The agent takes a harmful action no one asked for. As our models have improved, they have become more aligned on most behavior evaluations, but this doesn’t mean risk necessarily shrinks. Less capable models are more likely to misread a situation and make obvious errors. More capable models make fewer mistakes, but they’re also better at finding unexpected paths to a goal, often by routing around restrictions nobody thought to write down. At Anthropic, we’ve seen Claude models “helpfully” escape a sandbox in order to complete a task, examine git history to find answers to a coding test , and spontaneously identify the benchmark it was being run on in order to decrypt its answer key . Each model brings a new set of capabilities that are sometimes put to work in unexpected ways. External attackers: The agent is attacked through external vectors such as tools, files, or network access. This category includes both prompt injection and conventional attacks on the agent's runtime, orchestration layer, or proxy. When building containment and defense systems, we apply defenses to three main components: The environment in which the agent runs. We constrain where and how an agent can act with process sandboxes, VMs, filesystem boundaries, and egress controls. The goal is to set a hard boundary on what an agent can reach. For example, if credentials never enter the sandbox, they can't be exfiltrated, regardless of whether the cause is a user, a model finding a “creative” path, or an attacker. A tight perimeter also means you can relax oversight. Claude Code’s reference devcontainer exists precisely so that the agent can run unattended, without per-action approvals. The model the agent consults. The mechanisms here include system prompts, classifiers, probes, and training modifications. Because models are probabilistic, these shape only what the agent tends to do, not what it is theoretically capable of doing. These defenses are strong. On Gray Swan's Agent Red Teaming benchmark, which tests susceptibility to prompt injection, Claude Opus 4.7 holds attack success to roughly 0.1% on single attempts, and around 5–6% after 100 adaptive attempts. Claude Code auto mode catches roughly 83% of overeager behaviors before they execute . Yet even with best-in-class defenses, protection in the model layer will never be 100% effective, which is why it can't stand alone. The external content the agent can reach. MCP servers, third-party plugins, and web search tools all feed content into the agent’s context from sources you don’t control. An audited connector isn’t the same as audited data—a GitHub connector, for instance, can load a poisoned README straight into the model’s context despite passing malware checks. Granularly limiting tool permissions can help limit the blast radius. An agent with read-only DB access, for instance, can be deployed far more broadly than one that writes to prod. Defenses should overlap and complement each other. When environmental defenses aren’t available, the model layer has to pick up the slack (this is precisely what Claude Code’s auto mode is designed for). Locally, the environment and model defenses can guard against malicious tool outputs, but defenses can be added higher up the chain by limiting the tool’s capabilities and access. Three components to defend: the model, the environment in which it runs, and the external content the agent can reach. Patterns for containing agents Focusing on the environment layer, we describe three isolation patterns and how they’re tailored for each Claude platform— claude.ai , Claude Code, and Cowork. We arrived at each design gradually, after finding the balance between the capabilities we need from the agent and the degree of intervention required from the u",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": [],
+      "contentText": null,
+      "summary": "Anthropic is increasingly granting its AI agent, Claude, greater access to internal services to boost developer productivity, despite the growing \"blast radius\" of potential damage from failures. To manage this risk, they are moving away from human-in-the-loop supervision due to user fatigue and focusing on robust containment strategies like sandboxing and egress controls. This approach aims to cap the potential damage an autonomous agent can cause by strictly controlling its environment and access.",
+      "enterpriseAngle": "Enterprise security and product development teams deploying AI agents must prioritize containment strategies over human supervision to mitigate risks from user misuse, model misbehavior, and external attacks. Implementing strict environmental controls like sandboxes and egress controls is crucial for safely expanding agent capabilities and reducing the 'blast radius' of potential failures.",
+      "beginner": "AI agents are becoming more powerful, so companies are building strong digital fences around them to prevent them from causing harm, rather than relying on people to constantly watch over them.",
+      "advanced": "Implement granular containment architectures, including process sandboxes, VMs, and egress controls, to enforce hard boundaries on agent actions and mitigate risks from probabilistic model defenses and external content vectors, thereby enabling safer deployment of high-utility autonomous agents.",
+      "tags": [
+        "agents",
+        "security",
+        "enterprise",
+        "product"
+      ],
       "dateChecked": true
     },
     {
@@ -2844,12 +2957,17 @@
       "url": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
       "publishedAt": "2026-06-03T16:18:23.000Z",
       "fetchedAt": "2026-07-04T04:29:03.630Z",
-      "contentText": "Policy Frontier Red Team What we learned mapping a year’s worth of AI-enabled cyber threats Jun 3, 2026 As AI transforms the nature of and methods behind cyberattacks, how well do the techniques and frameworks used by the security community hold up? In a new report, we seek to answer that question. We examine 832 accounts that were banned for malicious cyber activity between March 2025 and March 2026 and map them onto MITRE ATT&CK , a longstanding database of the tactics and techniques used by cyberattackers. We published some of these results in Verizon’s 2026 Data Breach Investigations Report (DBIR), and are sharing a more detailed analysis here. These 832 cases are just a subset of the total number of accounts banned during this period, but they represent those where we had enough detail to conduct a thorough assessment of the attackers’ techniques. There were three main conclusions from our analysis: Malicious actors are using AI in ways that make them more dangerous. More specifically, threat actors are using AI in the later, more complex stages of their cyber operations. Cyberattacks are becoming more autonomous, and the fact that AI can be used to chain together many parts of the attack means that the old ways of differentiating high- from low-risk actors are no longer as effective. The MITRE ATT&CK framework does not fully capture the tools and activities that make AI-enabled attackers so dangerous. Below we provide a summary of each of these conclusions. You can read a longer analysis on our Frontier Red Team blog . How AI makes attackers more dangerous The most common AI-enabled activities in our database related to preparing for a cyberattack, such as writing malware (560 of the 832 accounts we studied, or 67.3%, used AI for this purpose). A smaller number of actors use AI for more complex activities—for example, 54 of the 832 actors (6.5%) used AI to assist with “lateral movement,” which involves navigating deep inside a compromised network. We found evidence consistent with AI being used to help increase the threat level of attackers. In the first six-month period of our analysis, 33% of actors were classified by our risk-scoring system as medium risk or higher. But by the second six-month period, that share had jumped to 56%—a roughly 1.7-fold increase. Across the period we studied, attackers’ use of AI shifted from techniques to gain initial access to a system towards activity carried out once they were inside the system. For example, the use of AI for account discovery—identifying valid accounts inside a compromised environment—rose 8.9%, while AI-assisted phishing—a common technique to gain access to a system—fell 8.6%. This suggests that attackers are increasingly applying AI deeper in the attack life cycle. These sorts of “post-compromise” techniques used to be restricted to actors with the technical knowledge to carry them out. Our investigation shows that AI can now be made to perform these activities on behalf of less sophisticated actors. Why it’s harder to assess an actor’s threat level How do security teams assess the risk level of a cyberattacker? Traditionally, they’ve used information like how many different techniques they employ and what tools or interfaces they use. But our analysis suggests that these signals no longer paint an accurate picture of the risk level of a given threat actor. Now that AI can perform highly technical tasks on an actor’s behalf, there’s little correlation between the skill of a threat actor and how many techniques they use: the least-skilled actors in our dataset used about 16 distinct techniques on average, whereas the most skilled used about 20. Likewise, the specific platform used—Claude Code, an API, or a chat interface—also did not correlate with an actor’s risk level. What often helps distinguish higher-risk actors is where in the attack life cycle they apply AI. For example, they concentrate their use of AI on more operationally demanding techniques—those that require significant time, oversight, or real-time decision making to carry out—like account discovery, lateral movement, and privilege escalation, rather than just on tasks that allow them to gain initial access to the system. But even that signal is already eroding: as discussed in the previous section, those operational techniques are exactly where the broader population is heading as more actors get classified as higher risk. The more durable differentiator is the type of scaffolding attackers build around the model: higher-risk actors design architectures that allow models to chain together discrete stages of a cyberattack and carry them out with minimal human input. Why security frameworks need to change Many of the behaviors that distinguish the highest-risk actors—such as the use of AI to orchestrate steps in the attack chain sequentially, make real-time decisions about what to do next, and execute without human intervention—are not yet included as attacker techniques in the MITRE ATT&CK framework. Consider the state-sponsored cyber espionage operation we disrupted in November 2025 . In that case, a malicious actor manipulated Claude Code into attempting to infiltrate targets around the world, with little human intervention. Mapping it against the MITRE ATT&CK framework shows that the actor used 30 techniques across 13 tactics, which was comparable to many medium-risk actors in our dataset. Clearly, focusing on the number of techniques this actor used underplays how dangerous they really were (by contrast, applying our risk-scoring methodology to this attack earns it the maximum risk score of 100). In that attack, the model worked as an autonomous agent: it executed commands, exploited vulnerabilities, stole credentials, and made tactical decisions, only requiring human input at a few key moments. There is no ATT&CK ID for this type of agentic orchestration—yet these are precisely the behaviors we expect to see much more of as AI agents become more capable. Looking ahead The findings from this analysis helped inform the safeguards we build into our models. For example, we’ve developed and deployed cyber safeguards on our most capable models to detect and block some of the activities uncovered here, like developing malware or mass data exfiltration. Following on from our work with Verizon, we’re also in discussions with MITRE about how the ATT&CK framework might evolve to include the AI-enabled behaviors we observed. Frontier models are rapidly changing the tools both attackers and defenders have at their disposal. We are committed to helping defenders get ahead of these evolving tactics, and to putting the most powerful tools in the hands of defenders first. We’ll continue to share what we learn from Project Glasswing , from datasets like the one we gathered here, and from our other cybersecurity activities. In our Red blog post , we share an interactive visualization of the techniques used by attackers, in order to help defenders stay ahead",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": [],
+      "contentText": null,
+      "summary": "A new report from Anthropic analyzed 832 AI-enabled cyberattacks over a year, revealing that malicious actors are increasingly using AI for more complex, post-compromise stages of attacks. This shift makes attackers more dangerous and autonomous, challenging traditional risk assessment methods. The study also found that the MITRE ATT&CK framework does not fully capture the advanced, AI-driven techniques now being employed.",
+      "enterpriseAngle": "Enterprise security teams must update their threat assessment models, as traditional indicators of attacker skill and risk are becoming less reliable due to AI's ability to automate complex tasks. Product development teams should consider how AI agents might be used in sophisticated, autonomous attacks when designing security features and frameworks.",
+      "beginner": "AI is making cyberattacks more advanced and harder to detect, as attackers use it to automate complex steps that used to require human expertise.",
+      "advanced": "Integrate AI-driven behavioral analytics focusing on agentic orchestration and post-compromise activities into your threat detection systems, and advocate for updates to standard frameworks like MITRE ATT&CK to include AI-specific attack patterns.",
+      "tags": [
+        "security",
+        "research",
+        "enterprise",
+        "agents"
+      ],
       "dateChecked": true
     },
     {
@@ -2861,12 +2979,17 @@
       "url": "https://www.anthropic.com/news/services-track-partner-hub",
       "publishedAt": "2026-06-03T15:30:11.000Z",
       "fetchedAt": "2026-07-04T04:29:09.285Z",
-      "contentText": "Announcements Introducing the Services Track and Partner Hub of the Claude Partner Network Jun 3, 2026 Almost every large enterprise is moving AI into production, and many have discovered something important: a successful pilot is not the same as a system a business can run on. The real work—and the real opportunity—is in the integration, the evaluation, and the way people's work evolves. That's why the companies getting AI integration right are doing it with partners who have done it before. In March, we launched the Claude Partner Network—a program, backed by a $100 million investment in partner training, technical support, and shared marketing, for the firms that help enterprises put Claude into production. Since then, more than 40,000 firms have applied to join and more than 10,000 consultants have earned a Claude certification—a credential, held by an individual, that signals they've been trained to build and deploy Claude in production. The largest professional-services firms in the world are building their own practices around Claude — putting it into production for clients while getting it into the hands of their own people. Accenture is training 30,000 professionals on the model. Cognizant has rolled Claude out to roughly 350,000 associates. Deloitte is making it available to 470,000 people across its global network. KPMG is integrating Claude across a workforce of more than 276,000. Infosys is building Claude-powered agents for specific industries, and PwC is rolling out Claude Code and Cowork starting with its US teams and expanding towards a global workforce in the hundreds of thousands. Today we’re announcing two things that make this ecosystem easier for customers to navigate. The Services Track is a tiered structure that reflects what a firm has actually built and delivered with Claude. The Claude Partner Hub is a portal where partners see exactly where they stand against the program's requirements, and customers find the firms most qualified for the scope of their project. The best partners have firsthand experience with Claude. They use the newest models for their own work before they put it in front of a client. This way, when they tell a customer what it takes, they’re speaking from experience. The Services Track is built to give customers confidence in a firm’s ability to help them bring Claude into their businesses. About the Services Track The Services Track has three tiers, each reflecting how deep a firm's Claude practice runs. Select: where partnership begins. At least 10 active certified individuals, at least 2 joint customers deployed in production in the trailing 12 months, and at least 1 public customer story. Preferred: for firms with deeper Claude practices. At least 100 active certified individuals, at least 15 deployed joint customers, and at least 3 public stories. Global Premier: the top tier for firms running the deepest Claude practices. At least 1,000 active certified individuals, at least 100 deployed joint customers across three or more regions, at least 15 public customer stories, and a joint business plan with named executive sponsors. Every firm is measured against the same requirements, whether it's a ten-person AI-native shop or a global consultancy. Size doesn't lower the bar or raise the tier; a smaller firm climbs by growing its certified bench. And because the ladder counts adoption and enablement work, firms that specialize in getting customers live on Claude can qualify early. Certified practitioners : How many of the firm’s people hold a current Anthropic certification and have used Claude in the past 90 days. Certifications belong to individual people, not firms, and are earned through Anthropic Partner Academy exams. Customers running Claude in production : How many customers the firm has taken live with Claude. Public endorsements of the firm’s work : How many customers will vouch for the firm’s work in a published customer story. Every firm's dashboard shows the same numbers we see, and we verify standing every quarter. Detailed requirements for each tier are published at claude.com/partners . About the Claude Partner Hub The Claude Partner Hub allows each partner to see its own standing against the published requirements, refreshed daily. It’s also where customers looking for Claude expertise find the firms most qualified to help. Every partner’s standing—their tier, certified team, customer deployments, and public references—is visible in the Hub’s public directory, so anyone evaluating partners can see what a firm has built and delivered. Partners can connect the Partner Hub to Claude through a new MCP connector , and from there information about the partnership becomes a conversation. For example, ask Claude where your firm stands against the next tier, the status of a registered deal, or how many of your consultants hold an active certification, and act on the answer within Claude. What this means for partners For firms building a Claude practice, this program is meant to reward real work and to be predictable enough to plan around. Four things hold true for every partner: You always know where you stand. A firm can see its standing against the published requirements and exactly what the next tier requires. This information is refreshed daily in the Claude Partner Hub. Building a practice and bringing us business are two different things, and we credit them separately. Tier standing measures the practice a firm has built: certified practitioners, production deployments, and customers willing to vouch for them. Sending new business to Anthropic is rewarded on its own track, through referral credit and deal protection. A firm is never forced to choose between the two. The ladder moves on a schedule you can see in advance. Promotions are processed twice a year, on January 1 and July 1, with an additional review on October 1, 2026, in this first year. A firm moves down only at the annual review on December 31, only if it no longer meets its tier’s published requirements, and only after 90 days’ notice and a chance to close the gap. The narrow exceptions are spelled out in the Program Guide. The $100 million we committed in March funds partner training, dedicated technical support, and shared marketing. Firms that join now also get priority access to new certifications as we introduce them. What’s next Specializations for specific industries and use cases are coming, along with rewards that grow as a partner’s deployments grow. Getting started is free. Firms gain Anthropic Partner Academy access, including certification exams, with tiered partners receiving discounted rates on their first attempt, and new applicants start at Registered, the program’s entry level, with a minimum commitment to 10 certified practitioners. Partnership begins at Select. The requirements are the same for every firm. Learn more at claude.com/partners .",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": [],
+      "contentText": null,
+      "summary": "Anthropic has launched the Services Track and Partner Hub within its Claude Partner Network, a program backed by a $100 million investment. The Services Track introduces a tiered structure (Select, Preferred, Global Premier) for firms based on their experience and deployments with Claude, while the Partner Hub provides a portal for partners to track their progress and for customers to find qualified firms. This initiative aims to streamline the integration of Claude into enterprise operations, with major professional services firms like Accenture, Cognizant, Deloitte, KPMG, Infosys, and PwC already training large numbers of their staff on the model.",
+      "enterpriseAngle": "Enterprise security and product development teams can leverage this structured partner network to find validated expertise for integrating Claude into their systems, ensuring more reliable deployments and potentially faster time-to-market for AI-powered products. The tiered system and transparent metrics in the Partner Hub offer a clear path for enterprises to select partners with proven experience, reducing risks associated with AI adoption and integration.",
+      "beginner": "Anthropic is making it easier for businesses to use its AI, Claude, by creating a system where companies that help integrate Claude are ranked by their experience, and customers can easily find the best help.",
+      "advanced": "Utilize the Claude Partner Hub's public directory and Services Track tiers to identify and engage firms with demonstrated production deployments and certified practitioners, ensuring robust and scalable Claude integrations for your enterprise solutions.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "product",
+        "workforce"
+      ],
       "dateChecked": true
     },
     {
@@ -2962,12 +3085,17 @@
       "url": "https://x.ai/news/grok-vapi",
       "publishedAt": "2026-06-03",
       "fetchedAt": "2026-07-03T02:45:50.457Z",
-      "contentText": "Grok Becomes the Voice of Vapi | xAI Products Solutions Developer Company Pricing News Contact Sales Try for free Products Grok Business Government Download iOS Android Grok on X Developers API Console Documentation CLI Try for free Back to news Jun 3, 2026 Grok Becomes the Voice of Vapi Bringing frontier voice quality to millions of Vapi agents. Listen to this blog post Try on Vapi Grok Voice API Docs Try on Vapi Grok Voice API Docs Listen to this blog post Today, we're excited to announce a partnership with Vapi to serve as the default engine for Vapi's 12 core voices, bringing a new level of naturalness and emotional range to the 2.5M+ voice agents built on the Vapi platform. Quality That Wins Vapi conducted an independent, blind evaluation comparing Grok Voice against other providers. In their head-to-head arena, Grok took the #1 spot. The results aligned with what we've seen. In a side-by-side poll on X, over 4,500 users were split 50/50 when guessing which voice was the Grok AI clone versus the human original. View on X Decide for Yourself Don't take our word for it. Listen to how this new Grok-powered voice compares to the previous generation. Elliot Version 1 Version 2 Okay, so I'm pulling up your account right now, and it looks like— oh, wait, that's not the right one. What This Means for Vapi Developers If you're already building on Vapi, your agents can now use Grok to power Vapi's text-to-speech. Select it from the dropdown and take it for a spin. You'll immediately get more natural, emotionally resonant conversations. Additionally, Grok Speech-to-Text and Text-to-Speech are now available in the Vapi Dashboard. New voices and advanced customization options (including custom voice cloning) are also available through the Grok Voice API for teams that want to integrate it directly in use cases like narration, podcasts, advertising, voiceover, and more. Ready To Start Building? Head over to your Vapi dashboard — the new default voices are live now. Or try Grok Voice directly via the API if you're building outside of Vapi. We're thrilled to be powering the voice layer for one of the leading voice AI platforms and can't wait to see what you build with it. Try on Vapi Grok Voice API Docs A division of © 2026 xAI Corp. Built with Grok Products Chat Build Imagine Voice Grokipedia Download grok.com iOS Android Grok on X Solutions Business Government Customer Support Legal Security Use Cases Developers API Overview Pricing Models Console Docs Status Enterprise Contact Sales FAQs BAA DPA Company About Colossus Careers News Contact Trust Safety Security Privacy Portal Subprocessors Help Center Legal Terms Enterprise Terms Privacy Cookies AUP Brand Social @xai @grok Discord Built with Grok",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "xAI's Grok has partnered with Vapi to become the default voice engine for Vapi's core voices, enhancing the naturalness and emotional range of over 2.5 million voice agents. An independent evaluation by Vapi and a user poll on X both indicated Grok Voice's superior quality, with users finding it difficult to distinguish from human speech. This integration allows Vapi developers to immediately access Grok's text-to-speech capabilities, with additional speech-to-text and customization options available.",
+      "enterpriseAngle": "Enterprise product development teams using Vapi can now leverage Grok's advanced voice AI for more natural and engaging customer interactions, potentially improving user experience and operational efficiency in areas like customer support and content creation. This partnership offers new tools for creating highly realistic voice applications, impacting how businesses design and deploy conversational AI.",
+      "beginner": "Grok AI is now making the computer voices used by many online assistants sound much more like real people, making conversations feel more natural.",
+      "advanced": "Integrate Grok's voice API directly or via Vapi to enhance conversational AI agents with frontier voice quality, leveraging custom voice cloning and advanced text-to-speech/speech-to-text for richer user experiences in diverse applications.",
+      "tags": [
+        "partnership",
+        "product",
+        "enterprise",
+        "agents"
+      ]
     },
     {
       "id": "1f57478941aa",
@@ -2978,12 +3106,17 @@
       "url": "https://x.ai/news/grok-imagine-1-5",
       "publishedAt": "2026-06-03",
       "fetchedAt": "2026-07-03T02:45:50.422Z",
-      "contentText": "Grok Imagine 1.5 Preview | xAI Products Solutions Developer Company Pricing News Contact Sales Try for free Products Grok Business Government Download iOS Android Grok on X Developers API Console Documentation CLI Try for free Back to news Jun 3, 2026 Grok Imagine 1.5 Preview grok-imagine-video-1.5-preview, our latest image-to-video model, is now available via the xAI API in preview. Create API key Our latest image-to-video model, grok-imagine-video-1.5-preview , is now available via the xAI API in preview. grok-imagine-video-1.5-preview turns a single still image into fluid, cinematic video. Give it a starting frame and a prompt describing the motion, and it animates the scene, including camera moves, atmosphere, and physics, while staying faithful to your source image. You can generate clips at up to 720p. Your browser does not support the video tag. Direct the shot with natural-language prompts. Describe the camera move, the pacing, and the sound design, then set your resolution and clip length. The model holds detail and lighting from the input frame, so the result continues the original image rather than reinterpreting it. The model also works well for sequences. Stage each frame, animate it, and chain the shots together into longer scenes that keep a consistent look across an entire project. Your browser does not support the video tag. Animate an image in a few lines of code. Copy import os import xai_sdk client = xai_sdk.Client( api_key = os.getenv( \"XAI_API_KEY\" )) response = client.video.generate( prompt = \"Slow cinematic push-in as embers drift across the battlefield and the helmet's crest stirs in the wind\" , model = \"grok-imagine-video-1.5-preview\" , image_url = \"https://your-host.com/helmet.jpg\" , duration = 10 , resolution = \"720p\" , ) print (response.url) python A division of © 2026 xAI Corp. Built with Grok Products Chat Build Imagine Voice Grokipedia Download grok.com iOS Android Grok on X Solutions Business Government Customer Support Legal Security Use Cases Developers API Overview Pricing Models Console Docs Status Enterprise Contact Sales FAQs BAA DPA Company About Colossus Careers News Contact Trust Safety Security Privacy Portal Subprocessors Help Center Legal Terms Enterprise Terms Privacy Cookies AUP Brand Social @xai @grok Discord Built with Grok",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "xAI has released Grok Imagine 1.5 Preview, an image-to-video model now accessible through the xAI API. This model can transform a single still image into a cinematic video, allowing users to direct motion, camera movements, and atmosphere using natural language prompts. It maintains fidelity to the original image and can generate clips up to 720p, also supporting the creation of longer, consistent scenes from multiple animated frames.",
+      "enterpriseAngle": "Enterprise product development teams can leverage Grok Imagine 1.5 Preview to rapidly prototype and create visual content for marketing, training, or internal communications, potentially reducing the time and cost associated with traditional video production. This tool offers a new avenue for businesses to generate dynamic visual assets from existing static imagery, enhancing their content creation capabilities.",
+      "beginner": "xAI's new tool lets you turn a picture into a short video by simply telling it what you want to happen in the video.",
+      "advanced": "Integrate the Grok Imagine 1.5 Preview API into your content pipeline to automate the generation of dynamic video assets from static image libraries, focusing on prompt engineering for consistent brand aesthetics and narrative flow across sequences.",
+      "tags": [
+        "model-release",
+        "product",
+        "enterprise",
+        "coding"
+      ]
     },
     {
       "id": "6ac50bb76bdc",
@@ -3014,12 +3147,17 @@
       "url": "https://www.anthropic.com/news/expanding-project-glasswing",
       "publishedAt": "2026-06-02T14:03:15.000Z",
       "fetchedAt": "2026-07-04T04:43:34.425Z",
-      "contentText": "Announcements Expanding Project Glasswing Jun 2, 2026 Project Glasswing is our collaborative effort to secure the world’s most important software. In early April, we announced that roughly 50 initial partners had access to Claude Mythos Preview, and since then, they’ve been deploying the model to scan their codebases for vulnerabilities. We recently described how these partners have so far found more than 10,000 high- or critical-severity security flaws. We’re now expanding Project Glasswing. Following several weeks of close collaboration with our Project Glasswing partners, the security industry, open-source software maintainers, and the US government, we’re extending the partnership to approximately 150 new organizations. Each one will need to meet our security requirements before they gain access. The organizations in this new group are based in more than 15 countries, and most provide critical infrastructure to many more. (In the future, we intend to expand our geographical reach much further.) The group covers several industries that weren’t well represented in our initial cohort, such as power, water, healthcare, communications, and hardware. And many of the new partners are vendors—companies or nonprofits that maintain codebases that are relied upon by lots of other organizations around the world, including governments. What each partner has in common is that a successful attack on their codebase could be catastrophic. For most partners, we estimate that a major attack could affect more than 100 million people, with important ramifications for both global and national security. This expansion is the next step toward our long-term goals: for AI to make all software more secure, and for us to help the industry adjust to how AI could change many of the core assumptions of cybersecurity. The role of Project Glasswing Project Glasswing and the capabilities of Claude Mythos Preview have sparked broad conversations—both within the software industry and with governments—about how AI is changing cybersecurity. These conversations have informed how we’ve expanded the program. They’ve also shaped our thinking about the very purpose of Project Glasswing. Cheap, fast AI models with powerful cyber capabilities are around the corner. We want Project Glasswing to spur institutions toward operating norms that reflect this reality. Mythos Preview continues a long-term trend that we’ve been warning about for some time: within 6 to 12 months, we expect that many other AI companies will have Mythos-class models, and they could release them without safeguards that prevent misuse. In that world, cyberattacks could occur much more often, and in much more unpredictable forms. It’s imperative that cyberdefenders adapt to maintain pace . We see our role as twofold. First, to help the software industry adapt by safely providing wide access to better models, tools, and common infrastructure. Second, to steadily shift the support we provide, from finding vulnerabilities to disclosing, fixing, and deploying patched software. We’ll now discuss each of these in turn. Supporting cyberdefenders So far, companies, nonprofits, maintainers, and researchers have acted quickly. Within the first weeks of Project Glasswing, each member began using Mythos Preview at large scale, sharing information and best practices with other partners, and working with third parties to triage the model’s findings. These organizations’ methods for adapting to new tools can, and should, be replicated widely across the millions of organizations and developers who are vulnerable to cyberattacks. To support this, we recently released Claude Security , a product that uses our latest public frontier models, like Claude Opus 4.8, to scan codebases and suggest patches. We're also releasing—on request, to trusted security teams— the tools we developed to help Project Glasswing’s partners find vulnerabilities more quickly. We intend to go much further: our longer-term aim is to support the industry in creating new initiatives, standards, and infrastructure for the era of powerful cyber models. Accelerating patching and the rest of security As we’ve previously discussed , the bottleneck in cybersecurity is now verifying, disclosing, and patching the large numbers of vulnerabilities that Mythos-class models can surface. Mythos Preview itself can help. Many of Project Glasswing’s partners now use the model to write patches, as well as for pre-release checks that prevent vulnerabilities from appearing in the first place. Models like Mythos Preview can also be used for penetration testing (simulating a cyberattack to identify how vulnerabilities might be exploited), automating threat detection and response, and rebuilding legacy codebases in memory-safe languages, among many other defensive tasks. We’re in discussions with third parties about how we might substantially scale up the reviewing and patching of vulnerabilities in open-source software. We’re also working on sharing ideas and best practices for disclosing vulnerabilities to open-source maintainers, with the intent of making these reports easier to triage and to act upon. The path ahead To address the scale of this coming challenge, hundreds of thousands of organizations, researchers, and maintainers will likely need access to the most advanced cyber capabilities and tools available. We’re working as quickly as we can to safely release Mythos-level capabilities in general access. To do so, we’ll need highly robust safeguards that prevent the model’s cyber capabilities from being misused—safeguards that we (and, to our knowledge, all other AI developers) have yet to develop. Because cybersecurity has both helpful and destructive uses, making safeguards that are both strong and precise enough is a major challenge. In the meantime, we plan to expand Project Glasswing even further—prioritizing additional essential infrastructure providers, maintainers of critical open-source software, and safety testers. We intend for future expansions to cover organizations in the US and overseas, just as this one does. We also intend to scale up our Cyber Verification Program, which would grant Mythos-class capabilities to many more organizations for specific cyberdefense tasks. In the future, frontier model releases will become increasingly high-stakes. Capabilities will continue to improve across all domains, including many that—like cybersecurity—can empower attackers and defenders alike. This will not be the last time we need to confront a challenge like this one. But Project Glasswing has taught us a great deal about how to respond when models cross important capability thresholds. If we’re successful, we hope to enable a permanent advantage for defenders.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": [],
+      "contentText": null,
+      "summary": "Anthropic is expanding Project Glasswing, a collaborative initiative using its Claude Mythos Preview model to identify and fix software vulnerabilities. The project, which has already found over 10,000 high- or critical-severity flaws, is now extending access to approximately 150 new organizations, primarily critical infrastructure providers and software vendors across various industries and countries. This expansion aims to prepare the cybersecurity industry for the widespread availability of powerful AI models that could both enhance defense and increase the risk of sophisticated cyberattacks.",
+      "enterpriseAngle": "Enterprise security teams can leverage AI models like Claude Mythos Preview and Claude Security to proactively scan codebases, identify vulnerabilities, and automate patching, significantly enhancing their defensive capabilities against increasingly complex cyber threats. Product development teams should integrate AI-powered security checks into their CI/CD pipelines to prevent vulnerabilities from reaching production and accelerate the remediation process.",
+      "beginner": "AI is being used to find and fix security weaknesses in computer programs, making them safer from attacks.",
+      "advanced": "Integrate AI-powered code scanning and automated patching tools into your DevSecOps pipeline to proactively identify and remediate vulnerabilities at scale, focusing on pre-release checks and the rapid deployment of patches for critical infrastructure and open-source dependencies.",
+      "tags": [
+        "security",
+        "enterprise",
+        "product",
+        "model-release"
+      ],
       "dateChecked": true
     },
     {
@@ -3221,12 +3359,17 @@
       "url": "https://x.ai/news/composer-2-5",
       "publishedAt": "2026-06-01",
       "fetchedAt": "2026-07-03T02:45:50.488Z",
-      "contentText": "Composer 2.5 | xAI Products Solutions Developer Company Pricing News Contact Sales Try for free Products Grok Business Government Download iOS Android Grok on X Developers API Console Documentation CLI Try for free Back to news Jun 1, 2026 Composer 2.5 Composer 2.5 is now available in Grok Build. Try it from the /models menu. $ curl -fsSL https://x.ai/cli/install.sh | bash Available to SuperGrok and X Premium+ Composer 2.5 is now available in Grok Build. Composer 2.5 is a fast, state-of-the-art model that excels on long-running tasks and following complex instructions. ❯ Grok Build (current) xAI's latest coding model ❯ Composer 2.5 Fast and intelligent ❯ /model <model> [effort] Grok Build · always-approve Enter : select │ ↑↓ : navigate │ Esc : close Try it by typing /model and then selecting Composer 2.5 in the menu. A division of © 2026 xAI Corp. Built with Grok Products Chat Build Imagine Voice Grokipedia Download grok.com iOS Android Grok on X Solutions Business Government Customer Support Legal Security Use Cases Developers API Overview Pricing Models Console Docs Status Enterprise Contact Sales FAQs BAA DPA Company About Colossus Careers News Contact Trust Safety Security Privacy Portal Subprocessors Help Center Legal Terms Enterprise Terms Privacy Cookies AUP Brand Social @xai @grok Discord Built with Grok",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "xAI has released Composer 2.5, a new model now available within Grok Build. This model is designed for speed and intelligence, particularly excelling at long-running tasks and complex instructions. It is accessible to SuperGrok and X Premium+ users through the /models menu in Grok Build.",
+      "enterpriseAngle": "Enterprise product development teams can leverage Composer 2.5's capabilities for complex, long-running coding tasks, potentially accelerating development cycles and improving the efficiency of AI-powered applications. Its availability within Grok Build offers a new tool for developers building solutions on the xAI platform.",
+      "beginner": "xAI has a new, faster AI model called Composer 2.5 that helps with complicated tasks and coding.",
+      "advanced": "Integrate Composer 2.5 into your Grok Build workflows for enhanced performance on intricate, multi-step coding projects, specifically targeting its strengths in handling complex instructions and extended task durations.",
+      "tags": [
+        "model-release",
+        "product",
+        "coding",
+        "enterprise"
+      ]
     },
     {
       "id": "62c816ddc9f9",
@@ -3700,12 +3843,17 @@
       "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
       "publishedAt": "2026-05-22T18:00:00.000Z",
       "fetchedAt": "2026-07-04T04:29:09.836Z",
-      "contentText": "Breadcrumb Innovation & AI Technology AI This week at I/O, the Dialogues stage brought together Google leaders, scientific minds and creative visionaries on the technological breakthroughs helping to shape society and our future. Highlights include: Beyond the Keynote: Google CEO Sundar Pichai sat down with Matt Berman, Creator and Founder of Future Forward, to unpack the vision behind I/O's biggest announcements. AI Agents: Google’s Josh Woodward, Koray Kavukcuoglu, Liz Reid, and Jeff Dean joined Logan Kilpatrick to discuss how proactive AI agents are transforming productivity. Quantum & AI: Google’s Hartmut Neven and James Manyika explored the intersection of quantum computing and AI. Science: Google DeepMind CEO Demis Hassabis sat down with Axios’ Mike Allen to highlight AI's role in solving complex scientific problems. Robotics: Google DeepMind’s Kanishka Rao and Boston Dynamics’ Alberto Rodriguez unpacked the leap in embodied physical AI with NothingButTech’s Jacklyn Dallas. Creativity: Director Doug Liman and 30 Ninjas’ Jed Weintrob and Julina Tatlock sat down with Google's Mira Lane to examine AI's role in pushing the boundaries of cinematic storytelling. Watch all the Dialogues on YouTube . POSTED IN: AI Googlers Related stories",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "The Dialogues stage at Google I/O 2026 featured discussions with Google leaders and experts on various AI topics, including the vision behind major announcements, the impact of proactive AI agents on productivity, and the intersection of quantum computing and AI. Other sessions explored AI's role in scientific problem-solving, advancements in embodied physical AI and robotics, and its application in cinematic storytelling.",
+      "enterpriseAngle": "Enterprise product development teams should note the emphasis on proactive AI agents for productivity and the advancements in embodied physical AI, which could lead to new automation and physical interaction solutions. The discussions on AI's role in scientific problem-solving and quantum computing also signal future areas of innovation for enterprise research and development.",
+      "beginner": "Google I/O's Dialogues stage showed how AI is being used in many ways, from making us more productive to helping solve big science problems and even creating movies.",
+      "advanced": "Explore integrating proactive AI agents into existing enterprise workflows to enhance productivity and investigate potential applications of embodied physical AI for automation and physical task execution.",
+      "tags": [
+        "enterprise",
+        "agents",
+        "research",
+        "product"
+      ]
     },
     {
       "id": "5fb0ccf48010",
@@ -3758,12 +3906,17 @@
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
       "publishedAt": "2026-05-20T20:40:00.000Z",
       "fetchedAt": "2026-07-04T04:29:09.836Z",
-      "contentText": "Breadcrumb Innovation & AI Infrastructure & Cloud Global Network As we deepen our roots in Missouri with a new data center in Montgomery County, we’re expanding infrastructure responsibly, advancing energy affordability, and creating new career pathways. Through our Capacity Commitment Framework agreement with Ameren, we’re supporting the development of more than 500 megawatts of additional capacity, helping to ensure we cover our own operational and infrastructure costs. We’re also establishing a $20 million Energy Impact Fund to help lower utility bills for families through targeted home weatherization and efficiency initiatives. Our data centers act as economic engines, generating nine local jobs for every direct position created. To prepare Missourians for skilled roles, we're funding local workforce programs, including helping the Laborers and Contractors Training Center train thousands of new construction laborers and apprentices in Montgomery County through support to Construction Laborers and Contractors Joint Training Fund of Eastern Missouri. Read our full announcement. POSTED IN: Global Network AI Google.org Creating opportunity Related stories",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Google is investing in Missouri by building a new data center in Montgomery County, which will create local jobs and support workforce development programs. They are also establishing a $20 million Energy Impact Fund to help reduce utility costs for families through home weatherization and efficiency initiatives. Additionally, Google is partnering with Ameren to develop over 500 megawatts of additional energy capacity.",
+      "enterpriseAngle": "This investment signifies Google's continued expansion of its data center infrastructure, which is critical for supporting enterprise cloud services and AI workloads. The focus on local workforce development and energy efficiency initiatives also highlights a growing trend of tech companies addressing community impact alongside infrastructure growth.",
+      "beginner": "Google is building a new computer data center in Missouri, which will create jobs and help local families save money on their energy bills.",
+      "advanced": "Evaluate the long-term implications of Google's Capacity Commitment Framework with Ameren for future energy procurement strategies and the potential for similar public-private partnerships in other regions to secure sustainable power for expanding data center footprints.",
+      "tags": [
+        "infrastructure",
+        "enterprise",
+        "workforce",
+        "funding"
+      ]
     },
     {
       "id": "e60b5229c9cf",
@@ -3774,12 +3927,17 @@
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
       "publishedAt": "2026-05-20T19:30:00.000Z",
       "fetchedAt": "2026-07-04T04:29:09.836Z",
-      "contentText": "Breadcrumb Innovation & AI Technology AI 100 things we announced at I/O 2026 May 20, 2026 · Share x.com Facebook LinkedIn Mail Copy link We've been busy! Here’s a rundown of the top announcements, launches and demos at I/O 2026. Keyword Team Share x.com Facebook LinkedIn Mail Copy link This week at Google I/O 2026, we unveiled new models, agents and tools to help you build, search, create, discover, shop and get more done. You can dig into our I/O announcements — including an edited transcript of Google CEO Sundar Pichai’s remarks from the stage. And for a TL;DR (of sorts), keep scrolling for our annual list of 100 highlights from the event. Create and build with our most advanced models Gemini 3.5 1. We launched Gemini 3.5 Flash : the first in our latest series of models combining frontier intelligence with action. 2. Gemini 3.5 Flash is generally available today via our agent-first development platform Google Antigravity the Gemini API in Google AI Studio and Android Studio . 3. Gemini 3.5 Flash delivers intelligence that rivals large flagship models at speeds you expect from the Flash series. It outperforms Gemini 3.1 Pro on challenging coding and agentic benchmarks like Terminal-Bench 2.1 (76.2%), GDPval-AA (1656 Elo) and MCP Atlas (83.6%). 4. Landing in the top-right quadrant of the Artificial Analysis index, 3.5 Flash delivers frontier-level intelligence at exceptional speed — proving you no longer have to trade quality for latency. 5. Gemini 3.5 Flash is ideal for tackling long-horizon agentic tasks. What used to take a developer days or an auditor weeks, 3.5 Flash can now help complete in a fraction of the time, often at less than half the cost of other frontier models. It rapidly plans, builds and iterates to solve real-world problems, whether it’s developing new applications, maintaining codebases or helping to prepare financial documents. Building on the strong multimodal foundation of Gemini 3, 3.5 Flash generates richer, more interactive web UIs and graphics. 6. We’re also hard at work on Gemini 3.5 Pro. It’s already being used internally and we look forward to rolling it out next month. Gemini Omni 7. Gemini Omni is our new model that can create anything from any input — starting with video. It combines Gemini’s intelligence with the best of our generative media models for a new level of world understanding, multimodality and editing. We’re starting with video outputs now, but over time, Gemini Omni will be able to generate any output from any input. 8. Gemini Omni combines an intuitive understanding of physics with Gemini's knowledge of history, science and culture, bridging the gap from photorealism to meaningful storytelling. It has an improved understanding of forces like gravity, kinetic energy and fluid dynamics, allowing you to create more realistic scenes. 9. Videos created with Omni include our imperceptible SynthID digital watermark . You can easily verify content through the Gemini app, Gemini in Chrome and Search. 10. You can reference anything. Gemini Omni turns any reference — image, text, video or audio — into a single, cohesive output. While only voice references will be supported for audio to start, we’ll roll out other types of audio inputs soon. Gemini Omni in the Gemini app, Google Flow and YouTube 11. Gemini Omni Flash is rolling out now to all Google AI Plus, Pro and Ultra subscribers globally through the Gemini app and Google Flow. It’s also available today in YouTube Shorts Remix and the YouTube Create app to users (18+) at no cost. 12. Creating, remixing and editing a video is easier than ever. Gemini Omni in the Gemini app offers a fluid, conversational way to create and edit videos — like applying cinematic zooms or changing backgrounds with a simple prompt. 13. You can upload any photo or video from your camera roll, apply built-in templates with a single click and experience the magic without needing expensive equipment or technical jargon. You can even drop yourself into the action by creating a custom AI avatar that looks and sounds like you. 14. For creatives using Google Flow , Omni Flash allows you to blend real-world inspiration with generated content and iterate conversationally. Gemini Omni Flash also improves character consistency, meaning identity and voice are preserved across every scene. 15. And you can try the new Gemini Omni model at no cost in YouTube Shorts Remix, with an exciting new upgrade that lets you step directly into your favorite Shorts. Just select an eligible Short, prompt what you want changed — like adding yourself or any visual reference — and get a fresh new version with your edits. Search, shop and discover exactly what you’re looking for AI Search 16. AI Mode is our most powerful AI Search, and it has surpassed more than 1 billion monthly users. And today we’re upgrading the experience with Gemini 3.5 Flash as the new default model, globally. We’re seeing incredible momentum, with AI Mode queries more than doubling every quarter since launch. And last quarter, we saw Search queries reach an all-time high. 17. Today we’re launching the biggest upgrade to our Search box in over 25 years — a new, intelligent Search box, now completely reimagined with AI. You can search using text, images, files, videos and Chrome tabs and Search reasons across them all. You’ll continue to get a range of results from Search, just like you do today. 18. We’re also making it even easier to continue the conversation with Search, bringing AI Overviews and AI Mode into one, seamless AI Search experience. You can flow effortlessly from your question, to a search results page with an AI Overview, to a follow-up in AI Mode, all with links to learn more. The new seamless AI Search experience is live today across desktop and mobile, worldwide. Information agents 19. We’re entering the era of Search agents , where you can easily create, customize and manage multiple AI agents for your many tasks, right in Search. And we’re starting with information agents, which operate in the background 24/7 so you can stay updated on any topic, task or project that matters to you. 20. Your agent will intelligently look across everything on the web, like blogs, news sites and social posts, plus our freshest data, such as real-time info on finance, shopping and sports, to monitor for changes related to your specific question. And your agent will send you an intelligent, synthesized update, with the ability to take action. You can spin up multiple information agents in Search simultaneously to get updated and make progress on all the things that matter to you. 21. You’ll be able to put information agents to work for you this summer, rolling out first to Google AI Pro and Ultra subscribers. Generative UI and Antigravity in Search 22. With the power of Google Antigravity and the agentic coding capabilities of Gemini 3.5 Flash, Search can build you the ideal format exactly for your question, completely custom, on the fly. 23. You can get custom",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Google I/O 2026 introduced Gemini 3.5 Flash, a new model combining advanced intelligence with speed, outperforming previous versions on coding and agentic benchmarks. The event also unveiled Gemini Omni, a multimodal model capable of generating diverse outputs, starting with video, and featuring imperceptible SynthID watermarking. These advancements are integrated into Google's AI Search, which now uses Gemini 3.5 Flash as its default model and introduces an intelligent search box for varied inputs.",
+      "enterpriseAngle": "Enterprise product development teams can leverage Gemini 3.5 Flash for faster and more cost-effective development of applications, codebase maintenance, and financial document preparation, reducing development time significantly. Security teams should note the integration of SynthID digital watermarks in Gemini Omni-generated content, which can aid in content verification and provenance tracking.",
+      "beginner": "Google has released new AI models that are faster and smarter, making it easier to create videos and find information online.",
+      "advanced": "Integrate Gemini 3.5 Flash via Google Antigravity or the Gemini API for long-horizon agentic tasks to achieve frontier-level intelligence with reduced latency and cost, and utilize SynthID for content authenticity in multimodal generative applications.",
+      "tags": [
+        "model-release",
+        "agents",
+        "product",
+        "enterprise"
+      ]
     },
     {
       "id": "1ff323739ad3",
@@ -3790,12 +3948,16 @@
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/",
       "publishedAt": "2026-05-20T16:45:00.000Z",
       "fetchedAt": "2026-07-04T04:29:09.836Z",
-      "contentText": "Breadcrumb Innovation & AI Models & research Google Research A new experiment brings better group meetings to Google Beam May 20, 2026 · Share x.com Facebook LinkedIn Mail Copy link See and hear your colleagues in true-to-life size and sound, making hybrid meetings feel more inclusive and connected. Mohamed Abdelgany Google Beam, Group Product Manager Share x.com Facebook LinkedIn Mail Copy link Sorry, your browser doesn't support embedded videos, but don't worry, you can download it and watch it with your favorite video player! While video conferencing tools keep us connected, users can still struggle to feel included in the conversation. Trying to read subtle emotions in a sea of tiny boxes may leave remote participants feeling like observers rather than engaged participants. Google Beam , our true-to-life video communication platform, helps you solve this problem by turning your meetings into a more active exchange. Today, we’re sharing a new experiment that brings better group meetings to Google Beam across more devices. Using HP Dimension’s immersive display, Google Beam renders participants joining from non-Beam devices in their true size, positioned as if they were sitting around a table with you. Paired with spatial audio that anchors each voice directly to the person speaking, colleagues look, sound, and feel more like they are in the same room. This optimization happens automatically, whether you join a meeting from home or the office. Our research suggests approaches like these help close the hybrid 'inclusion gap' by facilitating a 50% stronger sense of social connection and a 21% increase in reported ability to contribute to conversations. We’re also continuing to work with Google Workspace and Zoom to help elevate the meetings you have today on Google Beam. Stay tuned for more at beam.google . Elevating standard group meetings on Google Beam via Zoom. An experimental look at remote participants in true-to-life proportions on Google Beam. An experimental view of a hybrid meeting on Google Beam. POSTED IN: Google Research Google Workspace AI",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Google Beam is experimenting with new features to enhance group meetings, making remote participants appear true-to-life size and sound as if they are in the same room. This aims to improve inclusivity and connection in hybrid meetings, with research suggesting a stronger sense of social connection and increased ability to contribute. The platform is also integrating with Google Workspace and Zoom.",
+      "enterpriseAngle": "Enterprise product development teams can leverage these advancements to create more immersive and inclusive hybrid meeting solutions, potentially boosting employee engagement and collaboration across distributed workforces. Security teams should consider the implications of enhanced video and audio data processing for privacy and data protection.",
+      "beginner": "Google Beam is making online meetings feel more like in-person meetings by showing people life-sized and making their voices sound like they are in the room.",
+      "advanced": "Integrate Google Beam's enhanced spatial audio and true-to-life rendering capabilities with existing enterprise communication platforms to mitigate the hybrid 'inclusion gap' and improve remote collaboration metrics.",
+      "tags": [
+        "product",
+        "enterprise",
+        "research"
+      ]
     },
     {
       "id": "9f93c7d79357",
@@ -3935,12 +4097,17 @@
       "url": "https://cursor.com/blog/cloud-agent-development-environments",
       "publishedAt": "2026-05-13",
       "fetchedAt": "2026-07-03T02:45:50.894Z",
-      "contentText": "Blog / product May 13, 2026 · product Development environments for your cloud agents Samantha Whitmore, David Wetterau & Nick Bradford · 7 min read Table of Contents ↑ Multi-repo environments Environment configuration as code Improved agent-led environment setup Environment governance and security controls What's next Cloud agents are easier to parallelize than local agents, continue working when your laptop is closed, and can run autonomously in response to programmatic triggers. But agents are only as capable as the environments they run in. An agent that can write code but can't run tests, query services, or reach APIs cannot close the loop on its work. To take engineering tasks from start to finish, cloud agents need a development environment similar to the setup on your laptop: cloned repositories, installed dependencies, credentials for internal toolchains, and access to build systems. Effective development environments give agents full context on your codebase and organization, so they can test and verify their work. Today we're shipping new tools for configuring cloud agent development environments. Cursor also can use these tools to set up and maintain your environments. Together, this release makes it easier for teams to run fleets of parallelized agents that handle tasks end-to-end, inside development environments you fully control. # Multi-repo environments Most engineering work in the enterprise spans multiple codebases and repositories. Larger organizations running microservices often have many repos that need to move in tandem. An agent confined to a single repo has limited usefulness because it can't reason across all the required context. Cloud agents and automations now support multi-repo environments, building off our work on multi-root workspaces . You can configure a single environment with all the repositories an agent needs for its work, with re-use across sessions. With multiple repos in scope, agents can reason about how a change in one part of the codebase affects others and work across repos to deliver, test, and verify changes. Hear directly from some of our customers using multi-repo environments: Amplitude Decagon Snyk BILT We run Cursor Automations across public Slack channels at Amplitude. Multi-repo support is what makes them actually useful. An agent can investigate a reported issue, figure out which repos it touches, and open a PR with the fix in the right places with full context. Steven Cheng Senior Engineering Manager, Amplitude # Environment configuration as code To make it easier to change, debug, and review environment definitions, we have improved Dockerfile-based configuration. This includes support for build secrets, making it easy to securely access private package registries directly from Dockerfiles. Build secrets are scoped to the build step and aren't passed to the running agent's environment. We've also upgraded layer caching, so that only the updated layers of your image rebuild when you change the Dockerfile. Builds that hit the cache run 70% faster. For teams that don't want to write Dockerfiles from scratch, Cursor can configure the Dockerfile for you. Cursor will inspect your repos, figure out the tools and dependencies required, and produce a configuration you can edit and version. This feature is in private beta and will be rolling out to Enterprise teams over the coming weeks. # Improved agent-led environment setup As Cursor configures your environment, it will ask you questions, flag missing credentials, and validate that your environment is set up properly. Cursor is also more aware of development environments. It will show you the version of the environment your agent is running in. If your environment configuration fails, Cursor will default to a base image with clear warning signs so that your cloud agents can keep running instead of immediately failing. # Environment governance and security controls Every development environment now has its own version history that users can review and roll back. Admins can also restrict rollback permissions to admins only. An audit log captures every action team members take on environments, giving security teams full visibility into who changed what. Egress and secrets can now be scoped at the development environment level. Teams can restrict outbound network access to a specific allowlist for one environment while leaving a different environment more permissive. Additionally, secrets configured for one environment aren't accessible from any other. # What's next Today, environments are configured at a point in time and rebuilt when they fall out of sync with the codebase. We are building towards environment setups that evolve autonomously as your codebase evolves. To get started with cloud agent development environments, read the docs or visit your cloud agents dashboard . Filed under: product Author s : Samantha Whitmore, David Wetterau & Nick Bradford",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Cursor has released new tools for configuring cloud agent development environments, enabling agents to operate across multiple code repositories and perform end-to-end engineering tasks. These enhancements allow agents to run tests, query services, and access APIs within environments that mirror local development setups. The update also includes improved Dockerfile-based configuration, faster builds, and enhanced security controls for environment governance.",
+      "enterpriseAngle": "Enterprise development and security teams can leverage these tools to deploy fleets of parallelized cloud agents for complex, multi-repository engineering tasks, while maintaining granular control over environment configurations, access, and security. The ability to audit environment changes and scope egress/secrets at the environment level significantly enhances security posture and compliance.",
+      "beginner": "Cloud agents are like smart assistants that can do coding tasks even when your computer is off, and these new tools help them work better by giving them all the necessary files and tools to complete their jobs.",
+      "advanced": "Implement multi-repo cloud agent environments with Dockerfile-based configuration and scoped egress/secrets to enhance autonomous engineering workflows and bolster security controls for enterprise-grade AI deployments.",
+      "tags": [
+        "product",
+        "agents",
+        "enterprise",
+        "security"
+      ]
     },
     {
       "id": "5e9b7fbac397",
@@ -3951,12 +4118,17 @@
       "url": "https://cursor.com/blog/paypal",
       "publishedAt": "2026-05-11",
       "fetchedAt": "2026-07-03T02:47:51.858Z",
-      "contentText": "Blog / customers May 11, 2026 · customers Beyond efficiency: PayPal expands what's possible to build with AI PayPal could deliver 40% more capabilities in 2026. High-adoption teams are now deploying daily and completed a 3,000-app Java upgrade 6x faster. 4 min read Contact sales Table of Contents ↑ Start with high-impact teams New ways of working Measuring what matters The intelligence shift PayPal is a Financial Services company in North America, EMEA, and Asia-Pacific. 40% Potential increase in capabilities delivered 6x Faster Java upgrade across 3,000 applications Daily Deployment cadence, up from monthly release cycle PayPal is a Financial Services company in North America, EMEA, and Asia-Pacific. 40% Potential increase in capabilities delivered 6x Faster Java upgrade across 3,000 applications Daily Deployment cadence, up from monthly release cycle PayPal has its startup energy again. Here's one measure of the change: PayPal recently completed a Java upgrade across 3,000 applications in two months. Previously it would have taken eight to twelve months. With 8,000 developers and a codebase spanning decades, that kind of acceleration seemed impossible. But it's happening because of how the company adopted Cursor. For the first time we're able to see a real path to being as scrappy as a startup, but with all the funding and maturity of a large enterprise. Michelle Chance Head of Developer Platforms, PayPal # Start with high-impact teams PayPal recognized early on that AI needed to be an intrinsic part of its products and how it worked. But it also needed to move carefully. The company moves money for more than 400 million customers around the world, and the cost of mistakes is high. So when they rolled out Cursor, they started with their highest-impact teams building the most impactful products where speed to market was essential. Within two weeks, those teams were deploying daily instead of weekly or biweekly. Cursor has been critical in accelerating our timelines from doing something in four sprints to getting it done in one. Michelle Chance Head of Developer Platforms, PayPal Adoption spread organically across the organization as engineers saw what their peers were accomplishing with Cursor. Teams with high Cursor adoption rates—many exceeding 90%—showed dramatic improvements in deployment frequency and lead time. Teams with high adoption are deploying faster and shipping with shorter lead times. Michelle Chance Head of Developer Platforms, PayPal # New ways of working Software development has fundamentally changed too. The old linear software development lifecycle—design, code, build, deploy—has given way to something more iterative. Teams move from idea to working prototype in hours, then iterate from there. That process has collapsed traditional role boundaries. Product managers are bringing functioning prototypes to engineers instead of just PRDs while engineers are replying with their own prototypes of what the product could look like. Roles that used to be very finite are blurring and we're seeing better product ideas come out of it. Michelle Chance Head of Developer Platforms, PayPal This shift, in process and in how roles are defined, is changing what matters in engineering. Now it's much more about creativity and problem-solving. Prakhar Mehrotra, Global Head of AI at PayPal, compares engineers using Cursor to superheroes who can move beyond hypersonic speeds but still have to decide where to apply their powers. Engineers still have to decide what problem to solve. But you're getting there much faster. Prakhar Mehrotra SVP, Global Head of AI, PayPal # Measuring what matters While the way PayPal builds software has changed, the company has continued measuring what has always mattered: deployment frequency, lead time from idea to production, change failure rate. They also deliberately avoid metrics that could distort how people work. If you measure it, you impact it. If you tell a developer their success is based on what percentage of code was generated by AI, they'll just ask AI to write verbose functions. Michelle Chance Head of Developer Platforms, PayPal Teams with high Cursor adoption are deploying multiple times per day instead of once per week. Lead times have shrunk. Change failure rates have dropped. Based on those metrics, Chance believes PayPal could even be ready to deliver 40% more capabilities in 2026 than it shipped in 2025. # The intelligence shift Mehrotra sees what's happening at PayPal as the leading edge of a larger shift. The last 20 years were about organizing and distributing information. Something different is underway now. AI is about intelligence, not information. It's a fundamentally different technology stack. Prakhar Mehrotra SVP, Global Head of AI, PayPal A fast, full embrace of that shift is allowing PayPal to transform its business, from payments to commerce more broadly. That expanded sense of possibility is pulling engineers in and making them want to contribute to what PayPal is doing. The most important thing is our developers are participating in the AI journey. They want to come work for us because PayPal supports tools like Cursor. Prakhar Mehrotra SVP, Global Head of AI, PayPal If you're excited about leveraging agents to transform your engineering team's velocity, please reach out to our team to start a free Cursor trial. Filed under: customers Author : Cursor Team PayPal is a Financial Services company in North America, EMEA, and Asia-Pacific. 40% Potential increase in capabilities delivered 6x Faster Java upgrade across 3,000 applications Daily Deployment cadence, up from monthly release cycle PayPal is a Financial Services company in North America, EMEA, and Asia-Pacific. 40% Potential increase in capabilities delivered 6x Faster Java upgrade across 3,000 applications Daily Deployment cadence, up from monthly release cycle",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "PayPal has significantly accelerated its software development using Cursor's AI tools, completing a Java upgrade across 3,000 applications six times faster than before. This adoption has led to daily deployments for high-impact teams and a potential 40% increase in capabilities delivered in 2026. The company emphasizes creativity and problem-solving in its new iterative development process.",
+      "enterpriseAngle": "Enterprises can leverage AI tools like Cursor to dramatically improve development velocity, enabling faster deployment cycles and quicker delivery of new features, while also fostering a more iterative and collaborative product development environment. This shift can lead to substantial gains in efficiency and product innovation.",
+      "beginner": "AI tools can help companies build software much faster, allowing them to release new features and updates more frequently.",
+      "advanced": "Evaluate AI-powered development platforms for their ability to integrate into existing large-scale codebases and measure their impact on deployment frequency, lead time, and change failure rate, while carefully avoiding vanity metrics that could distort developer behavior.",
+      "tags": [
+        "enterprise",
+        "product",
+        "coding",
+        "agents"
+      ]
     },
     {
       "id": "b55bb23dbf0c",

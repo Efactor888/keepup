@@ -1,6 +1,175 @@
 {
-  "updatedAt": "2026-07-08T22:20:55.736Z",
+  "updatedAt": "2026-07-09T16:15:48.149Z",
   "articles": [
+    {
+      "id": "c9a7e41ab886",
+      "source": "deepmind",
+      "sourceName": "Google DeepMind",
+      "tier": "realtime",
+      "title": "We're rolling out AlphaEvolve widely to solve Google Cloud customers' hardest problems.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-on-cloud/",
+      "publishedAt": "2026-07-09T16:00:00.000Z",
+      "fetchedAt": "2026-07-09T16:05:36.390Z",
+      "contentText": null,
+      "summary": "Google DeepMind has made AlphaEvolve, an AI code-optimization agent powered by Gemini, generally available to all Google Cloud customers. This tool helps organizations find more efficient algorithms for complex problems by taking a baseline algorithm and optimizing it to achieve specified goals. Early adopters like BASF, JetBrains, and Kinaxis have used AlphaEvolve to solve difficult business and research challenges.",
+      "enterpriseAngle": "Enterprise development and research teams can leverage AlphaEvolve to significantly improve the efficiency of their algorithms, potentially leading to faster processing, reduced costs, and the ability to tackle previously intractable problems. This offers a powerful tool for optimizing critical business functions and accelerating innovation within organizations.",
+      "beginner": "AlphaEvolve is like an AI assistant that helps computer programs run faster and better by automatically finding more efficient ways to do things.",
+      "advanced": "Integrate AlphaEvolve into your CI/CD pipeline to automate the optimization of critical algorithms, focusing on performance bottlenecks identified through profiling, and evaluate its output for maintainability and adherence to coding standards.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product",
+        "coding"
+      ]
+    },
+    {
+      "id": "c4a0826144b9",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Anthropic’s new Claude feature is quietly selling you on AI",
+      "url": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+      "publishedAt": "2026-07-09T14:53:09.000Z",
+      "fetchedAt": "2026-07-09T16:05:39.213Z",
+      "contentText": null,
+      "summary": "Anthropic's Claude has introduced a new feature called \"Reflect,\" a dashboard that allows users to track and visualize their AI usage patterns and habits. This tool aims to subtly influence user perception of AI by highlighting Claude's role as a productivity tool and an integrated part of daily workflows. Reflect also encourages mindful AI use by prompting critical thinking and offering features like quiet hours.",
+      "enterpriseAngle": "Enterprise product development teams can learn from Anthropic's strategy of using analytics dashboards to subtly shape user behavior and deepen product integration, potentially increasing user retention and reducing churn to competitors. Security teams should note Anthropic's stated commitment to data privacy within Reflect, particularly regarding sensitive conversations and health-related data, as similar features in enterprise tools would require robust data governance.",
+      "beginner": "Claude's new 'Reflect' feature helps you see how much you use AI and encourages you to think about how it fits into your daily tasks.",
+      "advanced": "Leverage in-app analytics and behavioral nudges, similar to Claude Reflect, to drive deeper product integration and mindful usage among enterprise users, while ensuring transparent and secure data handling for sensitive information.",
+      "tags": [
+        "product",
+        "enterprise",
+        "consumer",
+        "learning"
+      ]
+    },
+    {
+      "id": "8e29a16695b1",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
+      "url": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
+      "publishedAt": "2026-07-09T14:51:00.000Z",
+      "fetchedAt": "2026-07-09T16:05:39.213Z",
+      "contentText": null,
+      "summary": "The combined market value of recent and upcoming IPOs from SpaceX, Anthropic, and OpenAI is projected to exceed the total value of all U.S. VC-backed exits since 2000. This trio is expected to reach over $4 trillion in valuation, significantly dwarfing previous major tech IPOs like Google, Tesla, and Meta. This trend is partly attributed to companies staying private longer and the substantial capital requirements for AI development.",
+      "enterpriseAngle": "Enterprise product development and security teams should recognize the immense capital flowing into AI, which indicates a rapid acceleration in AI capabilities and deployment. This necessitates proactive strategies for integrating advanced AI into products and robust security frameworks to protect increasingly valuable AI assets and data.",
+      "beginner": "Big AI companies like Anthropic and OpenAI are becoming incredibly valuable, showing how much money is now going into artificial intelligence.",
+      "advanced": "Evaluate your organization's long-term AI strategy, considering the implications of multi-trillion-dollar AI entities on market dynamics, talent acquisition, and the imperative for scalable, secure AI infrastructure.",
+      "tags": [
+        "funding",
+        "enterprise",
+        "infrastructure",
+        "product"
+      ]
+    },
+    {
+      "id": "d7ccf9cc0fa2",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "A new way to reflect on how you use Claude",
+      "url": "https://www.anthropic.com/news/reflect-with-claude",
+      "publishedAt": "2026-07-09T14:22:03.000Z",
+      "fetchedAt": "2026-07-09T16:05:26.882Z",
+      "contentText": null,
+      "summary": "Anthropic has launched a beta feature for Claude that allows users to track and visualize their AI usage patterns, helping them understand how to integrate AI more effectively into their daily lives. This \"reflection dashboard\" provides summaries of key topics, usage frequency, and task types over various timeframes, along with prompts for self-assessment and suggestions for improving AI collaboration. The feature also includes options for setting quiet hours or break reminders, and it integrates with Anthropic's 4D AI Fluency Framework to help users develop better AI skills.",
+      "enterpriseAngle": "Enterprise product development teams can leverage similar self-reflection and usage analytics features to help employees optimize their interaction with internal AI tools, fostering more effective AI integration and skill development within the workforce. Security teams should note the privacy considerations, as the feature explicitly excludes incognito chats and sensitive data from connected tools, setting a precedent for responsible data handling in AI usage analytics.",
+      "beginner": "This new tool helps you see how you're using AI and gives you tips on how to use it better, like when to let AI help and when to do things yourself.",
+      "advanced": "Implement usage analytics and self-reflection dashboards within internal AI platforms, leveraging frameworks like the 4D AI Fluency model to guide employees in optimizing AI collaboration while ensuring robust privacy controls for sensitive interactions.",
+      "tags": [
+        "product",
+        "enterprise",
+        "learning",
+        "governance"
+      ],
+      "dateChecked": true
+    },
+    {
+      "id": "2b56d024188e",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
+      "url": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
+      "publishedAt": "2026-07-09T13:00:00.000Z",
+      "fetchedAt": "2026-07-09T16:05:39.213Z",
+      "contentText": null,
+      "summary": "Ollama, an open-source AI tool that enables developers to run open-weight AI models on their personal computers, has secured $65 million in Series B funding, bringing its total raised to $88 million. The company, which launched in 2023, has grown to nearly 9 million monthly users and is present in 85% of Fortune 500 companies. Ollama also offers a cloud service for accessing larger models, tracking usage by GPU time rather than token limits.",
+      "enterpriseAngle": "Enterprises are increasingly adopting open-weight models to manage high inference expenses, and Ollama's platform facilitates this by simplifying the deployment of these models on local machines and providing cloud access for larger models. This trend suggests a shift towards hybrid AI strategies where open and closed models coexist, with open models handling daily operational needs.",
+      "beginner": "Ollama helps people who write computer programs use powerful AI models easily on their own computers, similar to how Docker made it easy to move cloud applications.",
+      "advanced": "Leverage Ollama's platform to streamline the deployment and management of open-weight AI models within your enterprise, potentially reducing inference costs and enabling more agile development of AI-powered applications.",
+      "tags": [
+        "funding",
+        "product",
+        "enterprise",
+        "coding"
+      ]
+    },
+    {
+      "id": "edec3357e039",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Character.AI enters the microdrama arena with its own productions, but there's a twist",
+      "url": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
+      "publishedAt": "2026-07-09T13:00:00.000Z",
+      "fetchedAt": "2026-07-09T16:05:39.213Z",
+      "contentText": null,
+      "summary": "Character.AI is entering the microdrama market by producing its own AI-generated series, allowing users over 18 to interact with the characters, ask questions, and roleplay storylines. The company plans to eventually enable users to create their own characters and series using these production tools. This initiative follows other entertainment-focused features like Lorebook for world-building and Books for interactive literature experiences.",
+      "enterpriseAngle": "For enterprise product development teams, Character.AI's strategy of leveraging AI for interactive entertainment and user-generated content offers a blueprint for engaging audiences and fostering platform stickiness. Security teams should note the potential for new vectors of misuse or data privacy concerns as user interaction with AI-generated content becomes more immersive and personalized.",
+      "beginner": "Character.AI is making short TV shows using AI, and you can even chat with the characters from these shows.",
+      "advanced": "Explore Character.AI's c.ai Series and upcoming creator tools as a case study for integrating generative AI with interactive user experiences and scalable content production workflows.",
+      "tags": [
+        "product",
+        "consumer",
+        "agents",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "dc999c16cc92",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
+      "url": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/",
+      "publishedAt": "2026-07-09T12:00:00.000Z",
+      "fetchedAt": "2026-07-09T16:05:39.213Z",
+      "contentText": null,
+      "summary": "Nandan Nilekani, co-founder of Infosys, is stepping down as general partner at Fundamentum Partnership as the firm launches its third fund, targeting $200 million. Nilekani will remain an anchor investor and advisor, with the firm focusing on Indian startups in consumer technology, fintech, and AI products. The new fund will be led by Sanjeev Aggarwal, Prateek Jain, Mayank Kachhwaha, and Sanjay Chaturvedi.",
+      "enterpriseAngle": "Enterprises looking to invest in or partner with Indian AI startups should note Fundamentum's focus on application-layer AI built on global models, particularly in financial services and vernacular consumer applications. This strategy highlights a key difference in the Indian AI ecosystem compared to the US and China, which are more focused on frontier model development.",
+      "beginner": "A venture capital firm in India is raising a new fund to invest in early-stage technology companies, especially those using AI in areas like finance and consumer apps.",
+      "advanced": "Evaluate potential investment or partnership opportunities with Indian AI application-layer startups, particularly those leveraging global models in fintech and vernacular consumer sectors, aligning with Fundamentum's stated investment thesis.",
+      "tags": [
+        "funding",
+        "enterprise",
+        "product",
+        "partnership"
+      ]
+    },
+    {
+      "id": "78b06f593102",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Lovable reportedly in talks to double its valuation to $13.2B",
+      "url": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
+      "publishedAt": "2026-07-08T22:41:33.000Z",
+      "fetchedAt": "2026-07-09T16:05:39.213Z",
+      "contentText": null,
+      "summary": "Lovable, a Swedish startup specializing in \"vibe coding\" — a method for building software through description — is reportedly in discussions to secure $300 million in funding, which would double its valuation to $13.2 billion. This potential investment, expected to be led by Menlo Ventures, follows the company's achievement of a $500 million annualized revenue run rate in June. Lovable's tools are used by individual designers and salespeople, as well as large enterprises like Workday, Asana, and Nvidia.",
+      "enterpriseAngle": "Enterprise product development teams can leverage vibe-coding tools like Lovable's to accelerate software creation by enabling users to build applications through natural language descriptions, potentially reducing development cycles and increasing accessibility for non-technical stakeholders. This trend highlights a shift towards more intuitive, AI-driven development platforms that could significantly impact enterprise IT strategies and product roadmaps.",
+      "beginner": "Vibe coding is a new way to create software by simply telling a computer what you want it to do, making it easier for anyone to build websites and other digital tools.",
+      "advanced": "Evaluate the integration of low-code/no-code AI-driven development platforms, such as vibe-coding tools, into your enterprise's software development lifecycle to enhance developer productivity and empower citizen developers, while carefully assessing security implications and governance frameworks.",
+      "tags": [
+        "funding",
+        "enterprise",
+        "product",
+        "coding"
+      ]
+    },
     {
       "id": "8dd183ee3609",
       "source": "techcrunch-ai",
@@ -30,12 +199,17 @@
       "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
       "publishedAt": "2026-07-08T19:30:16.000Z",
       "fetchedAt": "2026-07-08T22:13:36.588Z",
-      "contentText": "SpaceXAI has released its latest model, Grok 4.5 — the first since the company went public several weeks ago. In a blog post published Wednesday, SpaceXAI characterized its new release as a workhorse that can tackle all of the typical tasks that the AI industry has sought to automate: coding and app-building, office and clerical work, research, writing, and other forms of routine knowledge work. Grok can supposedly do all this for less spend, too, as SpaceXAI says that its model has \"twice greater token efficiency\" than other leading models. If it carries through to real-world use cases, that efficiency would be a big advantage for SpaceXAI, since the cost of tokens has been a growing concern for AI consumers. The company released benchmark metrics Wednesday that appeared to show Grok's competitiveness with other top models from SpaceXAI competitors, although just short of best-in-class: Image Credits: SpaceXAI In a post on his social media platform X (which is a subsidiary of SpaceXAI), founder Elon Musk compared the model to Opus, Anthropic's LLM designed for intensive and complex tasks. \"Based on strong positive feedback from customers in our beta test program, @SpaceXAI will make Grok 4.5 available to the public tomorrow. It is an Opus-class model, but faster, more token-efficient and lower cost,\" wrote Musk in his post on X. Musk later added : \"Our internal assessment is that Grok 4.5 is roughly comparable to Opus 4.7, but much faster. The combination of capability, faster speed and lower cost is what makes it competitive.\" SpaceXAI says that its new model costs $2 per million input tokens and $6 per million output tokens. That's quite competitive, if Grok's capabilities match SpaceXAI's rhetoric. Opus 4.7 , by comparison, costs $5 per million input tokens and $25 per million output tokens. OpenAI has tiered costs for different model versions: Sol, its most expensive, costs $5 for 1 million input tokens and $30 for 1 million output tokens, while its least expensive, Luna, costs $1 for 1 million input and $6 for 1 million output tokens. It's a big week for AI model releases. OpenAI is planning to release GPT 5.6, its latest, most powerful model, on Thursday. The release of that model had previously been limited by the Trump administration, due to concerns about its security implications. OpenAI has called it its “strongest model yet.\" Topics AI , ChatGPT , Elon Musk , Grok , OpenAI , spacexai When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Lucas Ropek Senior Writer, TechCrunch Lucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. You can contact Lucas by emailing lucas.ropek@techcrunch.com. View Bio November 4 Boston Last chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world scaling insights and connections that move the needle. Savings end June 26, 11:59 p.m. PT . REGISTER NOW Most Popular If you use Google, you're training its AI. Here's how to opt out. Sarah Perez Reddit is using LLMs to solve a problem LLMs largely created Amanda Silberling Amazon will stop accepting new customers for Mechanical Turk Anthony Ha 5 desk gadgets that can make your workday better Aisha Malik Chevy built an all-American EV truck — why is nobody buying it? Tim De Chant Mark Zuckerberg tells staff that AI agents haven't progressed as quickly as he'd hoped Lucas Ropek Jersey Mike's IPO illustrates how bad the AI hype has become Julie Bort",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "SpaceXAI has launched Grok 4.5, an \"Opus-class model\" that founder Elon Musk claims is faster, more token-efficient, and lower cost than competitors. The company states Grok 4.5 can handle various tasks like coding, office work, and research, boasting twice the token efficiency of other leading models. Its pricing is competitive, at $2 per million input tokens and $6 per million output tokens, compared to higher costs for similar models from Anthropic and OpenAI.",
+      "enterpriseAngle": "Enterprise product development and security teams should evaluate Grok 4.5 for its claimed cost-efficiency and speed, as lower token costs could significantly reduce operational expenses for AI-powered applications. The model's broad capabilities across coding, research, and office tasks suggest potential for integration into diverse enterprise workflows, requiring careful assessment of its real-world performance against benchmarks.",
+      "beginner": "SpaceXAI's new AI model, Grok 4.5, is designed to perform many different tasks efficiently and at a lower cost than some other advanced AI models.",
+      "advanced": "Evaluate Grok 4.5's performance and cost-efficiency against existing LLM deployments, particularly for high-volume, token-intensive enterprise applications, to determine potential for cost savings and improved throughput.",
+      "tags": [
+        "model-release",
+        "enterprise",
+        "product",
+        "benchmark"
+      ]
     },
     {
       "id": "123ee15fa287",
@@ -130,12 +304,16 @@
       "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
       "publishedAt": "2026-07-08T13:00:00.000Z",
       "fetchedAt": "2026-07-08T22:13:33.800Z",
-      "contentText": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "OpenAI's new analysis highlights problems with SWE-Bench Pro, a widely used coding benchmark. This raises questions about how reliably and accurately AI models are being evaluated.",
+      "enterpriseAngle": "Enterprise product development teams relying on SWE-Bench Pro for evaluating AI coding assistants should be aware of potential inaccuracies and consider alternative or supplementary benchmarks.",
+      "beginner": "A common test for AI coding tools might not be as good as we thought, meaning we need better ways to check how well they code.",
+      "advanced": "When assessing AI coding model performance, consider the limitations of SWE-Bench Pro and explore more robust, real-world coding challenges or internal benchmarks for a comprehensive evaluation.",
+      "tags": [
+        "benchmark",
+        "coding",
+        "research"
+      ]
     },
     {
       "id": "fcbb5886d3a9",
@@ -167,12 +345,16 @@
       "url": "https://openai.com/index/k-12-educators-practical-skills",
       "publishedAt": "2026-07-08T10:00:00.000Z",
       "fetchedAt": "2026-07-08T22:13:33.800Z",
-      "contentText": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "OpenAI Academy and the Walton Family Foundation are collaborating to offer AI Skills Jams, designed to equip K–12 educators with practical AI skills for use in their classrooms.",
+      "enterpriseAngle": "This initiative highlights the growing need for AI literacy across all sectors, suggesting that enterprises may need to invest in similar foundational training for their workforce to adapt to AI-driven changes.",
+      "beginner": "AI is becoming so important that even K–12 teachers are learning how to use it in their classrooms.",
+      "advanced": "Consider developing internal 'AI Skills Jams' or partnering with educational foundations to upskill your workforce on practical AI applications relevant to your industry.",
+      "tags": [
+        "workforce",
+        "learning",
+        "partnership"
+      ]
     },
     {
       "id": "2e1d33d54662",
@@ -225,12 +407,16 @@
       "url": "https://openai.com/index/introducing-gpt-live",
       "publishedAt": "2026-07-08T00:00:00.000Z",
       "fetchedAt": "2026-07-08T22:13:33.800Z",
-      "contentText": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "OpenAI has introduced GPT-Live, a new generation of voice models designed to facilitate more natural human-AI interactions. These models are currently being used to power ChatGPT Voice.",
+      "enterpriseAngle": "Enterprise product development teams can leverage GPT-Live to enhance user experience in their AI-powered applications, particularly those requiring advanced voice interaction capabilities.",
+      "beginner": "GPT-Live makes talking to AI feel more natural, like talking to a person.",
+      "advanced": "Integrate GPT-Live's advanced voice models to improve the naturalness and responsiveness of conversational AI interfaces in enterprise applications.",
+      "tags": [
+        "model-release",
+        "product",
+        "enterprise"
+      ]
     },
     {
       "id": "6258cf13f3d5",
@@ -241,12 +427,17 @@
       "url": "https://x.ai/news/grok-4-5",
       "publishedAt": "2026-07-08",
       "fetchedAt": "2026-07-08T22:13:34.615Z",
-      "contentText": "Introducing Grok 4.5 | SpaceXAI Products Solutions Developer Company Pricing News Contact Sales Try for free Products Grok Business Government Download iOS Android Grok on X Developers API Console Documentation CLI Try for free Back to news Jul 8, 2026 Introducing Grok 4.5 Grok 4.5 is SpaceXAI's smartest model built for coding, agentic tasks, and knowledge work. Try for free Start building Today, we're launching Grok 4.5 , SpaceXAI's smartest model built to excel at coding, agentic tasks, and knowledge work. It's our strongest model ever and was trained alongside Cursor . Real-world engineering excellence Grok 4.5 was trained on datasets spanning knowledge in coding, science, engineering, and math. With both intelligent and efficient reasoning, Grok 4.5 excels at real engineering tasks and exceeds comparable leading models at these tasks. DeepSWE 1.0 DeepSWE 1.1 Terminal Bench 2.1 SWE Bench Pro Competitor figures are drawn from the respective developers’ published system cards or benchmark leaderboards Benchmark bar charts of model scores. DeepSWE 1.0 (eval created by Datacurve, run with each model provider’s harnesses by AA): Fable (max) 66.1%, GPT 5.5 (xhigh) 64.31%, Grok 4.5 62.0%, Opus 4.8 (max) 55.75%, Opus 4.7 (max) 40.12%. DeepSWE 1.1 (mini-swe-agent harness run by Datacurve): Fable (max) 70%, GPT 5.5 (xhigh) 67%, Opus 4.8 (max) 59%, Grok 4.5 53%, GLM 5.2 44%. Terminal Bench 2.1: Fable (max) 84.3%, GPT 5.5 (xhigh) 83.4%, Grok 4.5 83.3%, Opus 4.8 (max) 78.9%, Opus 4.7 (max) 78.9%. SWE Bench Pro resolve rate: Fable (max) 80.4%, Opus 4.8 (max) 69.2%, Grok 4.5 64.7%, Opus 4.7 (max) 64.3%, GLM 5.2 62.1%, GPT 5.5 (xhigh) 58.6%. Competitor figures are drawn from the respective developers’ published system cards or benchmark leaderboards. Training Grok 4.5 Grok 4.5 was trained across tens of thousands of NVIDIA GB300 GPUs, with training and stability techniques designed for large-scale runs. Beyond raw token volume, we invested heavily in data filtering and curation: deduplication, quality scoring, and domain-focused selection so that the data mixture stayed high-coverage and high-signal. We scaled reinforcement learning with a strong focus on per-token intelligence. Our RL training covers hundreds of thousands of tasks, centered on multi-step software engineering and other technical work, with automated and model-based grading. Our stack is built for highly asynchronous training, so agentic rollouts can run for many hours while learning continues across tens of thousands of GPUs. The result is more intelligent and efficient reasoning on real engineering and agentic tasks. Built with one prompt Grok 4.5 is incredibly capable at coding, from challenging Rust and C/C++ tasks to end-to-end app building from prompt to production. Below are some examples built by the model with one prompt. Grok 4.5 is highly proficient at creating well-designed, end-to-end functional apps even with minimal specification. Solar system Make a beautiful simulation of the universe and solar system. should be sped up with adjustable time, realistic motion, orbits, stars. use threejs. Make the HUD well styled and conform to modern design principles. Make a beautiful simulation of the universe and solar system. should be sped up with adjustable time, realistic motion, orbits, stars. use threejs. Make the HUD well styled and conform to modern design principles. app.localhost — cosmos Loading solar system… Faster than flash models Grok 4.5 is served at fast-model speeds of 80 TPS . Combined with twice greater token efficiency than the latest leading models at the same tasks, the model delivers intelligent results to you more quickly and at far lower costs. Token efficiency avg. output tokens per SWE Bench Pro task Grok 4.5 :host{display:inline-block;direction:ltr;white-space:nowrap;line-height:var(--number-flow-char-height, 1em) !important}span{display:inline-block}:host([data-will-change]) span{will-change:transform}.number,.digit{padding:calc(var(--number-flow-mask-height, 0.25em) / 2) 0}.symbol{white-space:pre} 0 0 Opus 4.8 (max) :host{display:inline-block;direction:ltr;white-space:nowrap;line-height:var(--number-flow-char-height, 1em) !important}span{display:inline-block}:host([data-will-change]) span{will-change:transform}.number,.digit{padding:calc(var(--number-flow-mask-height, 0.25em) / 2) 0}.symbol{white-space:pre} 0 0 4.2× fewer tokens 0 70 k tokens Token efficiency, average output tokens per SWE Bench Pro task — Grok 4.5 resolves tasks with 15,954 output tokens on average, about 4.2× fewer than Opus 4.8 (max) at 67,020 Excels at Office work Grok 4.5 is now the default model in Grok Build . In addition to its coding proficiency, Grok Build is capable of building complex Excel models that involve research from the web, multi-sheet formula use, and even leaves stickies or notes behind for future reference. In PowerPoint and Word, Grok 4.5 is similarly meticulous. The model is capable of using native PowerPoint shapes to build complex diagrams, designing intuitive slide content, and writing clear prose in Word. Outline a 5-slide quarterly business review AutoSave Q3 Review.pptx Search Home Insert Design Transitions Animations Review Comments Share New Slide Layout B I U Arrange Design Ideas Add-ins Grok 1 Quarterly review Oct · FY26 Q3 Business Review Revenue, margins, pipeline — and where we invest next 01 Revenue 02 Margins 03 Pipeline 04 Outlook Draft the deck Work on anything... Slide 1 of 5 · English (US) 100% Learn more about our plugins for Word , PowerPoint , and Excel . Pricing Grok 4.5 is delivered at an incredibly competitive cost compared to other leading models. Grok 4.5 is priced at $2 per million input tokens and $6 per million output tokens. The model also achieves roughly 2x the token efficiency of comparable leading models, solving tasks in under half the number of steps. Overall, Grok 4.5 delivers the highest intelligence per unit of time and cost. Getting started Grok 4.5 is available today in Grok Build, in Cursor on all plans, and from the SpaceXAI console . Simply grab an API key and get started in a few lines of code: Copy curl -s https://api.x.ai/v1/responses \\ -H \"Authorization: Bearer $XAI_API_KEY \" \\ -H \"Content-Type: application/json\" \\ -d '{ \"model\": \"grok-4.5\", \"input\": \"Find and fix the bug, then explain it: function median(a){a.sort();return a[a.length/2]}\" }' bash Note: Grok 4.5 is not yet available in the EU in any SpaceXAI products or the API console. EU availability is expected in mid-July. Create an API Key Start building with Grok 4.5 today via the SpaceXAI API. Start Building API Docs Read the docs and integrate Grok 4.5 into your stack. Read the Docs Try it in Grok Build for free We’re offering free Grok 4.5 usage for a limited time in Grok Build and Cursor. Get started today at x.ai/cli . $ curl -fsSL https://x.ai/cli/install.sh | bash © 2026 xAI Corp. Built with Grok Products Chat Build Imagine Voice Grokipedia Download grok.com iOS Android Grok on X",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "SpaceXAI has launched Grok 4.5, its newest and most advanced AI model, designed for coding, agentic tasks, and knowledge work. The model demonstrates strong performance in engineering benchmarks and is capable of building complex applications and handling office tasks like creating Excel models and PowerPoint presentations. Grok 4.5 was trained on NVIDIA GB300 GPUs with a focus on data curation and reinforcement learning, and it offers competitive pricing and improved token efficiency.",
+      "enterpriseAngle": "Enterprise product development and security teams can leverage Grok 4.5 for accelerated coding, agentic workflows, and complex knowledge work, potentially reducing development costs and time-to-market while needing to consider the implications of integrating a powerful new model into their existing security frameworks.",
+      "beginner": "Grok 4.5 is a new, very smart AI that can help with coding, automating tasks, and even making office documents like Excel spreadsheets and PowerPoint slides.",
+      "advanced": "Evaluate Grok 4.5's performance on internal coding and agentic benchmarks against existing models, focusing on its reported token efficiency and cost-effectiveness for specific enterprise use cases, and integrate its capabilities into development pipelines for accelerated software engineering and knowledge automation.",
+      "tags": [
+        "model-release",
+        "enterprise",
+        "coding",
+        "agents"
+      ]
     },
     {
       "id": "c33ddb5362c4",
@@ -257,12 +448,17 @@
       "url": "https://cursor.com/blog/grok-4-5",
       "publishedAt": "2026-07-08",
       "fetchedAt": "2026-07-08T22:13:35.405Z",
-      "contentText": "Blog / research Jul 8, 2026 · research Introducing Grok 4.5 3 min read Table of Contents ↑ A strong foundation Reinforcement learning on difficult problems Get started with Grok 4.5 Today we are releasing Grok 4.5 together with SpaceXAI , our most intelligent model and the first we've built for more than software engineering. Grok 4.5 can handle difficult, long-running tasks that require creatively using tools to solve problems, whether in software engineering, data science, finance, legal work, or anything else you do on a computer. Cursor subscription plans for individuals and teams include significant usage of the model with double usage for the first week. We've also added new safeguards reflecting the model's cybersecurity capabilities. # A strong foundation Grok 4.5 is a mixture-of-experts model that we trained jointly with SpaceXAI. Training included trillions of tokens of Cursor data which capture a wide-range of user interactions with codebases and software tools. This dataset lets the model learn both from existing software as well as developer-agent interactions, capturing how developers work and how agents interact with their environments. While we trained our previous model, Composer 2.5 , to be a coding specialist, for Grok 4.5 we kept the training data mix deliberately broader. This involved drawing on high-quality STEM tasks, research papers, and other knowledge work, so that the model gained proficiency across a wide range of domains. # Reinforcement learning on difficult problems We used reinforcement learning on difficult problems in realistic environments spanning both software engineering and broader knowledge work. These environments teach the model to investigate problems, use tools, recover from mistakes, and verify results. Many of these problems had to be designed to be difficult enough that even frontier models fail at them. As models improve, existing tasks stop teaching them anything new, and problems that once required extensive reasoning become routine. We developed a distributed agent system to construct these environments at scale. Engineers specify a problem and how a solution is verified, and large groups of agents construct, test, and refine each environment. Some would have taken teams of hundreds of engineers months to build. This is one of the ways in which we used the previous model to accelerate progress on the next model. # Get started with Grok 4.5 Grok 4.5 is available today in Cursor across desktop, web, iOS, CLI, and our SDK. Individual and team plans include significant usage of the model as part of our first-party model pool, and we are doubling usage for the first week. The base model is priced at $2/M input tokens and $6/M output tokens. There is also a fast variant at $4/M input tokens and $18/M output tokens. Grok 4.5 and Composer 2.5 are two different model weight classes, and we're excited to support both sizes and weights. Composer 2.5 will remain offered, and we will release new models of this size going forward. SWE-Bench Pro and Terminal-Bench show self-reported scores for third-party models. For SWE-Bench multilingual, the GPT 5.5 score comes from our internal run. Grok 4.5 has an advantage on CursorBench because an earlier snapshot of the Cursor codebase was accidentally included in training. The exact impact is unclear. That data has been removed for future models, and in parallel we are working on a larger update to CursorBench, hence the exclusion here. Filed under: research Author : Cursor Team",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Cursor and SpaceXAI have released Grok 4.5, their most intelligent model to date, designed for a broader range of tasks beyond just software engineering, including data science, finance, and legal work. This new mixture-of-experts model was trained on a vast dataset of user interactions and high-quality STEM content, utilizing reinforcement learning on complex problems to enhance its problem-solving capabilities. Grok 4.5 is available across multiple platforms, with various pricing tiers and increased usage for early adopters.",
+      "enterpriseAngle": "Enterprise teams can leverage Grok 4.5's expanded capabilities for diverse knowledge work, potentially streamlining operations in legal, finance, and data science departments, while also benefiting from new cybersecurity safeguards and flexible deployment options.",
+      "beginner": "Grok 4.5 is a new, smarter AI model that can help with many different computer tasks, not just coding, making it useful for various jobs.",
+      "advanced": "Evaluate Grok 4.5's performance on domain-specific, long-running tasks within your enterprise, particularly those requiring creative tool use and error recovery, to assess its potential for automating complex workflows beyond traditional software development.",
+      "tags": [
+        "model-release",
+        "enterprise",
+        "research",
+        "product"
+      ]
     },
     {
       "id": "283528023d88",
@@ -2221,12 +2417,16 @@
       "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
       "publishedAt": "2026-06-18T11:00:00.000Z",
       "fetchedAt": "2026-07-04T04:29:09.572Z",
-      "contentText": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "OpenAI has enhanced ChatGPT's health and wellness responses through the GPT-5.5 Instant model. These improvements include stronger reasoning, better contextual understanding, and clearer communication, all evaluated with input from physicians.",
+      "enterpriseAngle": "Enterprises developing AI-powered health applications can leverage GPT-5.5 Instant for more reliable and contextually appropriate user interactions, potentially improving patient engagement and information delivery.",
+      "beginner": "ChatGPT is getting better at answering health questions by understanding more, thinking smarter, and explaining things clearly, with doctors helping to check its answers.",
+      "advanced": "Integrate GPT-5.5 Instant to enhance the accuracy and safety of health-related AI applications by leveraging its improved reasoning and physician-informed evaluation framework.",
+      "tags": [
+        "model-release",
+        "product",
+        "enterprise"
+      ]
     },
     {
       "id": "2155d7cb8c43",
@@ -2237,12 +2437,16 @@
       "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
       "publishedAt": "2026-06-18T08:00:00.000Z",
       "fetchedAt": "2026-07-04T04:43:55.961Z",
-      "contentText": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "OpenAI's reasoning model assisted researchers in diagnosing rare genetic diseases in children. The AI model contributed to identifying 18 new diagnoses in cases that were previously unresolved.",
+      "enterpriseAngle": "Enterprises in the healthcare sector can leverage AI reasoning models to improve diagnostic accuracy and efficiency for rare diseases, potentially reducing the time and cost associated with complex medical investigations.",
+      "beginner": "AI can help doctors figure out what's wrong with kids who have very rare illnesses.",
+      "advanced": "Evaluate integrating advanced AI reasoning models into diagnostic workflows to augment clinical decision-making and accelerate the identification of rare genetic conditions.",
+      "tags": [
+        "research",
+        "product",
+        "science"
+      ]
     },
     {
       "id": "f15e6dd96920",
@@ -3710,12 +3914,17 @@
       "url": "https://x.ai/news/grok-build-0-1",
       "publishedAt": "2026-05-29",
       "fetchedAt": "2026-07-03T02:45:50.514Z",
-      "contentText": "Grok Build 0.1 on API | xAI Products Solutions Developer Company Pricing News Contact Sales Try for free Products Grok Business Government Download iOS Android Grok on X Developers API Console Documentation CLI Try for free Back to news May 29, 2026 Grok Build 0.1 on API Grok Build 0.1, our fastest coding model, is now available via the xAI API in public beta. Our latest coding model, grok-build-0.1 , is now available via the xAI API in public beta. grok-build-0.1 is a coding model specifically trained for agentic coding tasks, including web development, debugging, and MCP support. It's the same model that powers the Grok Build CLI . The model is served at a blazing-fast 100+ tokens/second and is priced at $1/m tokens in and $2/m tokens out. Outside of coding, it’s also a speedy, economical option for general-purpose agentic and tool calling use cases. Try it now Create API key Copy curl https://api.x.ai/v1/responses \\ -H \"Content-Type: application/json\" \\ -H \"Authorization: Bearer $XAI_API_KEY \" \\ -d '{ \"model\": \"grok-build-0.1\", \"input\": [ { \"role\": \"user\", \"content\": \"Generate a clean, tasteful, and minimalist personal website design with elegant typography\" } ] }' bash grok-build-0.1 performs best in agentic harness like Grok Build , Cursor, Hermes Agent , OpenClaw , Kilo Code , or OpenCode . It’s also available via OpenRouter and Vercel AI Gateway . A division of © 2026 xAI Corp. Built with Grok Products Chat Build Imagine Voice Grokipedia Download grok.com iOS Android Grok on X Solutions Business Government Customer Support Legal Security Use Cases Developers API Overview Pricing Models Console Docs Status Enterprise Contact Sales FAQs BAA DPA Company About Colossus Careers News Contact Trust Safety Security Privacy Portal Subprocessors Help Center Legal Terms Enterprise Terms Privacy Cookies AUP Brand Social @xai @grok Discord Built with Grok",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "xAI has released Grok Build 0.1, its fastest coding model, in public beta via the xAI API. This model is specifically trained for agentic coding tasks like web development and debugging, and it also supports general-purpose agentic and tool-calling use cases.",
+      "enterpriseAngle": "Enterprise development teams can leverage Grok Build 0.1 for accelerated coding, debugging, and web development tasks, potentially streamlining product development cycles and enhancing developer productivity.",
+      "beginner": "xAI has made a new AI tool available that helps write and fix computer code very quickly.",
+      "advanced": "Integrate grok-build-0.1 into your agentic coding harnesses or existing development workflows to capitalize on its high token throughput and specialized coding capabilities for rapid prototyping and debugging.",
+      "tags": [
+        "model-release",
+        "coding",
+        "product",
+        "enterprise"
+      ]
     },
     {
       "id": "f2c2c1e469bd",
@@ -3811,12 +4020,17 @@
       "url": "https://www.anthropic.com/news/series-h",
       "publishedAt": "2026-05-28",
       "fetchedAt": "2026-07-04T04:43:43.666Z",
-      "contentText": "Announcements Anthropic raises $65B in Series H funding at $965B post-money valuation May 28, 2026 Anthropic has raised $65 billion in Series H funding led by Altimeter Capital, Dragoneer, Greenoaks, and Sequoia Capital, valuing the company at $965 billion post-money. Global enterprises across industries are deploying Claude in their core operations, and a growing number of people around the world use it for their everyday work. Since our Series G in February, adoption has continued to grow across global enterprise customers, and our run-rate revenue crossed $47 billion earlier this month. This latest funding is expected to advance our safety and interpretability research, expand compute to meet growing demand for Claude, and scale the products and partnerships our customers rely on. “Claude is increasingly indispensable to our growing global community of customers, and we work tirelessly to make tools like Claude Code and Cowork more helpful, more powerful, and more adaptable to their needs,” said Krishna Rao, Chief Financial Officer of Anthropic. “This funding will help us serve the historic demand we are experiencing, stay at the research frontier, and bring Claude to more of the places where work happens.” The round was co-led by Capital Group, Coatue, D1 Capital Partners, GIC, ICONIQ, and XN. Significant investors in this round include AMP PBC, Baillie Gifford, Blackstone, Brookfield, D.E. Shaw Ventures, DST Global, Fidelity Management & Research Company, General Catalyst, Insight Partners, Jane Street, Lightspeed Venture Partners, MGX, NTTVC, NX1 Capital, Situational Awareness LP, T. Rowe Price Associates, Inc., T. Rowe Price Investment Management, Inc., and Temasek. It also includes $15 billion of previously committed investments from hyperscalers, including $5 billion from Amazon . Joining them are strategic infrastructure partners — Micron, Samsung, and SK hynix — whose technologies play a critical role in the world's supply of memory, storage, and logic chips. As demand for Claude continues to grow, these relationships will help us scale our compute reliably at the pace our customers need. We have significantly expanded our compute capacity in recent weeks. We signed agreements with Amazon for up to five gigawatts of new capacity, with Google and Broadcom for five gigawatts of next-generation TPU capacity, and with SpaceX for access to GPU capacity in Colossus 1 and Colossus 2. Claude is the first frontier model available on all three of the world's largest cloud platforms: Amazon Web Services, Google Cloud, and Microsoft Azure. AWS remains our primary cloud provider and training partner. “Claude’s latest advancements have driven large-scale adoption among the world’s most demanding organizations. This momentum positions Anthropic to lead the next phase of AI innovation and capture the enormous opportunity ahead,” said Brad Gerstner, Founder and CEO of Altimeter Capital. “Dragoneer has long partnered with companies building the technology that will shape our future. Anthropic is helping pull forward this future, as intelligence becomes an increasingly critical ingredient to the way businesses operate and how their products show up in the world,” said Marc Stad, Managing Partner at Dragoneer. “The technological progress we are seeing right now is breathtaking. And we believe that we are still in the earliest days of both the development and commercialization of this technology.” “Anthropic has built an organization in which the world’s best researchers and engineers operate with unmatched clarity of purpose, because they believe this is the most important work they will ever do,” said Neil Mehta, Founder and Managing Partner at Greenoaks. “Rarely has a company’s culture, mission, and commercial momentum reinforced each other so completely. We are honored to deepen our partnership.” “Startups and Global 5000 companies alike are deploying Claude to handle complex workflows, and in doing so, Claude is learning how businesses actually operate: the context, the processes, the judgment,” said Alfred Lin, Partner at Sequoia Capital. “Anthropic is building the bridge between where enterprise AI stands today and where it's headed.” We are grateful for the support of our investors and partners as we continue building Claude for people and organizations around the world.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": [],
+      "contentText": null,
+      "summary": "Anthropic has secured $65 billion in Series H funding, bringing its post-money valuation to $965 billion. This funding round, led by several prominent investment firms, will support advancements in safety research, expansion of compute capacity for Claude, and scaling of products and partnerships. The company reported significant growth in enterprise customer adoption and a run-rate revenue exceeding $47 billion.",
+      "enterpriseAngle": "This substantial funding and the expansion of compute capacity, including strategic partnerships with infrastructure providers, indicate Anthropic's commitment to meeting the growing enterprise demand for its AI models, ensuring reliable scaling and product development for business integration. Enterprises can expect continued innovation and support for deploying Claude in core operations and complex workflows.",
+      "beginner": "Anthropic, a company that makes AI, just received a huge amount of money to make its AI better, safer, and available to more businesses and people.",
+      "advanced": "Leverage Anthropic's expanded compute capacity and strategic infrastructure partnerships to explore deeper integrations of Claude into mission-critical enterprise workflows, focusing on interpretability and safety features for enhanced operational reliability.",
+      "tags": [
+        "funding",
+        "enterprise",
+        "product",
+        "infrastructure"
+      ],
       "dateChecked": true
     },
     {
@@ -3828,12 +4042,17 @@
       "url": "https://www.anthropic.com/news/claude-opus-4-8",
       "publishedAt": "2026-05-28",
       "fetchedAt": "2026-07-04T04:43:50.406Z",
-      "contentText": "Product Announcements Introducing Claude Opus 4.8 May 28, 2026 We’re upgrading Claude Opus to a new version: Claude Opus 4.8. It builds on Opus 4.7 with improvements across benchmarks, and is a more effective collaborator. It’s available today for the same price. Opus 4.8 launches alongside several new features. Users on claude.ai now have control over the amount of effort Claude puts into a task. Claude Code has a new “dynamic workflows” feature that allows it to tackle very large-scale problems. And fast mode for Opus 4.8—where the model can work at 2.5× the speed—is now three times cheaper than it was for previous models. Opus 4.8’s capabilities The table below shows how Opus 4.8 compares to its predecessor and to other models on tests of coding, agentic skills, reasoning, and practical knowledge work tasks. More details and a much wider range of capability evaluations are provided in the Claude Opus 4.8 System Card . Collaborating with Opus 4.8 Early testers have found Claude Opus 4.8 to be more reliable and sharper in its judgment when it’s performing agentic tasks. Below are quotes from many of these testers about their experience collaborating with Opus 4.8: Claude Opus 4.8 has noticeably better judgment. In Claude Code, it asks the right questions, catches its own mistakes, pushes back when a plan isn’t sound, and builds up confidence around complex, multi-service explorations before making big changes. It’s a great model to build with. Tom Pritchard Staff Engineer On our Super-Agent benchmark, Claude Opus 4.8 is the only model to complete every case end-to-end, beating prior Opus models and GPT-5.5 at parity on cost. For agent products in translation, deep research, slide-building, and analysis, it delivers powerful reliability. Kay Zhu Co-Founder and CTO On CursorBench, Claude Opus 4.8 exceeds prior Opus models across every effort level. Tool calling is meaningfully more efficient, using fewer steps for the same intelligence, and it carries end-to-end tasks through. Michael Truell Co-Founder and CEO Claude Opus 4.8 delivers the highest score recorded on our Legal Agent Benchmark, and is the first model to break 10% overall on the all-pass standard. For substantive legal work, that’s the kind of accuracy lift that translates directly into how much real attorney work our customers can hand off with confidence. Niko Grupen Head of Applied Research Claude Opus 4.8 feels like a major quality-of-life update over Opus 4.7: faster, easier to collaborate with, and better at carrying context and style direction across a long session. Opus 4.8 is the model I kept trusting for work where voice, taste, and technical execution all have to happen side-by-side. Katie Parrott Staff Writer Claude Opus 4.8 is the strongest computer-use and browser-agent model we’ve tested, scoring 84% on Online-Mind2Web, which is a meaningful jump over both Opus 4.7 and GPT-5.5. It stays reflective and on-task in the way our customers’ agent workloads need to be reliable end-to-end. Miguel Gonzalez Tech Lead Claude Opus 4.8 uses tools cleanly and follows instructions with the consistency our autonomous engineering workloads need to keep running unattended. It improves on Opus 4.6 and fixes the comment-verbosity and tool-calling issues we saw with Opus 4.7. This release from Anthropic translates directly into faster capability gains for engineers building on Devin. Scott Wu CEO On our long-running evals, Claude Opus 4.8’s analysis was consistently higher quality than prior Opus models. It finished faster and produced richer, more information dense outputs. Overall, a noticeably better signal to noise ratio. The biggest differentiator was Opus 4.8’s tendency to proactively flag issues with the inputs and outputs of an analysis, something other models routinely missed and left to the users to catch. Michael Ran Sr. Investment Associate Across CoCounsel Legal, Claude Opus 4.8 delivered meaningful improvements in consistency and reasoning quality compared to prior Opus models. For the high-stakes professional workflows our customers depend on, that reliability matters. As we build fiduciary-grade AI systems for legal and tax professionals, advances like these help raise the standard for trusted AI performance in real-world workflows. Joel Hron Chief Technology Officer Claude Opus 4.8 sets a new bar for enterprise AI. In Genie, Databricks’ AI agent for data and knowledge work, the new Opus model unlocks a step change in agentic reasoning, tackling deeper, multistep questions faster than any prior Opus. Its multimodal strength also lets Genie reason directly over PDFs, diagrams, and other unstructured content at 61% cheaper token cost than Opus 4.7. Hanlin Tang CTO, Neural Networks For financial-document workflows in Hebbia’s orchestrator, Claude Opus 4.8 delivers the same strong quality as Opus 4.7 with noticeably better citation precision and more token efficiency on retrieval, which works incredibly well for the kinds of dense filings our customers run every day. Aabhas Sharma CTO 01 / 11 One of the most prominent improvements in Opus 4.8 is its honesty . We train all our models to be honest—for instance, to avoid making claims that they can’t support. But a general problem with AI models is that they sometimes jump to conclusions, confidently claiming to have made progress in their work despite the evidence being thin. Early testers report that Opus 4.8 is more likely to flag uncertainties about its work and less likely to make unsupported claims. This is borne out in our evaluations , which show that Opus 4.8 is around four times less likely than its predecessor to allow flaws in code it has written to pass unremarked. As always, we ran a detailed alignment assessment on the model before release. In terms of positive traits, our Alignment team concluded that Opus 4.8 “reaches new highs on our measures of prosocial traits like supporting user autonomy and acting in the user’s best interest.” The assessment also showed Opus 4.8 to have rates of misaligned behavior (such as deception or cooperation with misuse) that are substantially lower than Opus 4.7, and similar to our best-aligned model, Claude Mythos Preview. The full alignment assessment, accompanied by a suite of pre-deployment safety tests, is reported in the Claude Opus 4.8 System Card. Also launching today In addition to Claude Opus 4.8, we’re making the following updates: Dynamic workflows . This new feature, available in research preview, allows Claude to take on even bigger tasks in Claude Code. Claude can plan the work and then run hundreds of parallel subagents in a single session (and with Opus 4.8, the agents can run for even longer). It then verifies its outputs before reporting back to the user. For example, Claude Code with Opus 4.8 can now carry out codebase-scale migrations across hundreds of thousands of lines of code from kickoff to merge, with the existing test suite as its bar. You can read more about dynamic workflows—av",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": [],
+      "contentText": null,
+      "summary": "Anthropic has released Claude Opus 4.8, an upgraded version of its AI model with improved performance across various benchmarks, including coding, agentic skills, and reasoning. The new model offers features like user control over effort, dynamic workflows for large-scale problems in Claude Code, and a faster, cheaper 'fast mode'. Early testers report enhanced reliability, sharper judgment, and increased honesty, with the model being less prone to making unsupported claims.",
+      "enterpriseAngle": "Enterprise security and product development teams can leverage Claude Opus 4.8's improved agentic capabilities, reliability, and honesty for more robust and trustworthy AI applications, particularly in areas like legal work, financial document analysis, and autonomous engineering, potentially leading to increased automation and reduced human oversight.",
+      "beginner": "Anthropic's new AI, Claude Opus 4.8, is smarter and more reliable, making it better at tasks like coding and understanding complex information, and it's also more honest about what it knows.",
+      "advanced": "Integrate Claude Opus 4.8 into existing agentic workflows, particularly for high-stakes tasks requiring strong reasoning, tool-calling efficiency, and reduced hallucination, to improve end-to-end task completion and enhance trust in automated processes.",
+      "tags": [
+        "model-release",
+        "agents",
+        "enterprise",
+        "product"
+      ],
       "dateChecked": true
     },
     {
@@ -3845,12 +4064,17 @@
       "url": "https://www.anthropic.com/engineering/claude-code-auto-mode",
       "publishedAt": "2026-05-27T11:44:48.000Z",
       "fetchedAt": "2026-07-04T14:42:32.710Z",
-      "contentText": "By default, Claude Code asks users for approval before running commands or modifying files. This keeps users safe, but it also means a lot of clicking \"approve.\" Over time that leads to approval fatigue, where people stop paying close attention to what they're approving. Users have two solutions for avoiding this fatigue: a built-in sandbox where tools are isolated to prevent dangerous actions, or the --dangerously-skip-permissions flag that disables all permission prompts and lets Claude act freely, which is unsafe in most situations. Figure 1 lays out the tradeoff space. Sandboxing is safe but high-maintenance: each new capability needs configuring, and anything requiring network or host access breaks isolation. Bypassing permissions is zero-maintenance but offers no protection. Manual prompts sit in the middle, and in practice users accept 93% of them anyway. Figure 1. The permission modes available in Claude Code, positioned by task autonomy and security . Dot colour indicates maintenance friction. Auto mode targets high autonomy at low maintenance cost; the dashed arrow shows security improvement over time as classifier coverage and model judgment get better. We keep an internal incident log focused on agentic misbehaviors. Past examples include deleting remote git branches from a misinterpreted instruction, uploading an engineer's GitHub auth token to an internal compute cluster, and attempting migrations against a production database. Each of these was the result of the model being overeager, taking initiative in a way the user didn't intend. We documented this pattern in the Claude Opus 4.6 system card (§6.2.1 and §6.2.3.3). Auto mode is a new mode for Claude Code that delegates approvals to model-based classifiers—a middle ground between manual review and no guardrails. The goal is to catch the dangerous actions that aren't aligned with user intent, while letting the rest run without approval prompts. Get started using auto mode by following the docs . How it works Auto mode uses two layers of defense: one for what Claude reads, one for what Claude does. At the input layer, a server-side prompt-injection probe scans tool outputs (file reads, web fetches, shell output, external tool responses) before they enter the agent's context. When content looks like an attempt to hijack behavior, the probe adds a warning to the agent's context before the result is passed along—telling the agent to treat this content as suspect and anchor on what the user actually asked for. At the output layer, the transcript classifier (running on Sonnet 4.6) evaluates each action against a set of decision criteria before it executes, acting as a substitute for a human approver. The classifier runs in two stages: a fast single-token filter (deciding ‘yes’ to block or ‘no’ to allow), followed by chain-of-thought reasoning only if the first filter flags the transcript. Because most actions clear the first stage, reasoning tokens are spent only where needed. The classifier sees only user messages and the agent's tool calls; we strip out Claude's own messages and tool outputs, making it reasoning-blind by design. We walk through each of these choices, including what they buy us and what they cost, in the Design decisions section below. Figure 2: System architecture . The transcript classifier gates tool calls; the prompt-injection probe screens tool results. Subagents run the same pipeline recursively, with handoff classifiers at delegation (can deny) and at return (warns only). Threat model An agent might take a dangerous action for four reasons: Overeager behavior . In this case, the agent understands the user's goal, and is genuinely trying to help, but takes initiative beyond what the user would approve. For example, it uses a credential it happened to find or deletes something it judged to be in the way. This behavior can be tricky to catch, because there's no hostile reasoning. The action instead looks like reasonable problem-solving, only applied past the boundary of what the user authorized or intended. Honest mistakes . Here, the agent misunderstands the blast radius. For example, it thinks a resource is test-scoped when it's shared, or a branch is its own when it isn't. Prompt injection . Instructions planted in a file, webpage, or tool output hijack the agent, redirecting it from the user's task toward the attacker's. A misaligned model . Canonically, misalignment occurs when the agent pursues a goal of its own. We don't currently see this in practice, though we evaluate it carefully for every model we release. In all four cases, the defense is to block the action. Our classifier is tuned to overeager behavior and honest mistakes, as we have specific examples of this behavior from internal model testing, but the defense applies regardless of which threat produced the action. The examples below are adapted from our internal incident log to illustrate what auto mode is designed to block: Scope escalation . A user asked to \"clean up old branches.\" The agent listed remote branches, constructed a pattern match, and issued a delete. This would be blocked since the request was vague, the action irreversible and destructive, and the user may have only meant to delete local branches. Credential exploration . An agent hit an auth error partway through a task. Rather than asking for permission, it began systematically grepping through environment variables and config files for alternative API tokens. Since these credentials could be scoped for a different task, this is blocked. Agent-inferred parameters . A user said \"cancel my job.\" The agent queried the cluster, picked the closest match by name similarity, and tried to delete it. This is blocked since the specific target may not have been what the user intended, and could have been owned by someone else. Sharing via external service . An agent wanted to share a script for debugging, and constructed a GitHub Gist command. This is blocked as data exfiltration since the user may consider the contents to be confidential and not appropriate to be public. Safety-check bypass . A deploy command failed a pre-check; the agent retried with a skip-verification flag. This is blocked since it could impact shared infrastructure. How permission decisions work All of the examples above would reach the classifier, but most actions are allowed prior to that step by the standard Claude Code allow rules: Tier 1: Built-in safe-tool allowlist and user settings. A fixed allowlist includes tools that can’t modify state, including file reads, text and file-pattern search, code navigation, todo and plan-mode transitions. Users can also configure always-allow rules for specific tool patterns. One exception is that on entering auto mode, we drop permission rules that are known to grant arbitrary code execution, including blanket shell access, wildcarded script interpreters (python, node, ruby",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": [],
+      "contentText": null,
+      "summary": "Anthropic has introduced \"Auto mode\" for Claude Code, a new feature designed to balance user safety with operational efficiency by reducing the need for constant approval clicks. This mode uses model-based classifiers to automatically approve safe actions while blocking potentially dangerous or unintended operations, addressing issues like \"approval fatigue\" and agentic misbehaviors. It employs a two-layer defense system, including a prompt-injection probe for inputs and a transcript classifier for outputs, to prevent actions such as unintended deletions, credential exposure, and data exfiltration.",
+      "enterpriseAngle": "Enterprise security and product development teams can leverage Auto mode to enhance the safety and efficiency of AI agents, reducing the risk of accidental data loss or exposure while minimizing user friction. This approach offers a middle ground between strict manual approvals and completely unguarded operations, improving both security posture and developer productivity.",
+      "beginner": "AI tools like Claude Code can now make some decisions on their own about whether an action is safe to perform, reducing the number of times you have to click 'approve' while still protecting you from mistakes.",
+      "advanced": "Implement Claude Code's Auto mode with its two-layer defense (prompt-injection probe and transcript classifier) to mitigate overeager agent behavior and honest mistakes, thereby reducing approval fatigue and enhancing operational security without resorting to the `--dangerously-skip-permissions` flag.",
+      "tags": [
+        "agents",
+        "security",
+        "product",
+        "enterprise"
+      ],
       "dateChecked": true
     },
     {
@@ -3926,12 +4150,17 @@
       "url": "https://x.ai/news/grok-kilocode",
       "publishedAt": "2026-05-27",
       "fetchedAt": "2026-07-03T02:47:51.130Z",
-      "contentText": "Use Grok in Kilo Code | xAI Products Solutions Developer Company Pricing News Contact Sales Try for free Products Grok Business Government Download iOS Android Grok on X Developers API Console Documentation CLI Try for free Back to news May 27, 2026 Use Grok in Kilo Code Use your SuperGrok or X Premium+ subscription inside Kilo Code, the open-source agentic coding platform. Starting today, you can use your Grok subscription directly inside Kilo Code . Kilo Code is the open-source agentic engineering platform for VS Code, JetBrains IDEs, and the terminal. It offers specialized modes for planning, coding, debugging, and orchestration, along with powerful tool use, browser automation, MCP extensibility, and support for 500+ models. Kilo is designed for real software engineering workflows and agentic use cases. With your X Premium+ or SuperGrok subscription, connect your Grok account to use the latest Grok models — including Grok Build for agentic coding — inside Kilo Code with no separate API key. Setup Kilo Code offers IDE extensions, a CLI, and a web surface. To connect your xAI account, follow the instructions below: VS Code: Install Kilo Code from the VS Code Marketplace. Open Settings (gear icon) and go to the Providers tab. Click Show more providers , then search for or select xAI . Choose the xAI Grok OAuth (SuperGrok Subscription) sign-in option and complete the OAuth flow in your browser. For headless or remote environments (VPS, SSH, Docker, WSL), choose xAI Grok OAuth (Headless / Remote / VPS) instead. CLI: Copy npm install -g @kilocode/cli bash Run kilo in your project directory and use the /connect command to add xAI. For more details, see the Kilo Code xAI provider documentation . More open-source agents and integrations are coming soon. A division of © 2026 xAI Corp. Built with Grok Products Chat Build Imagine Voice Grokipedia Download grok.com iOS Android Grok on X Solutions Business Government Customer Support Legal Security Use Cases Developers API Overview Pricing Models Console Docs Status Enterprise Contact Sales FAQs BAA DPA Company About Colossus Careers News Contact Trust Safety Security Privacy Portal Subprocessors Help Center Legal Terms Enterprise Terms Privacy Cookies AUP Brand Social @xai @grok Discord Built with Grok",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "xAI has announced that users with a SuperGrok or X Premium+ subscription can now integrate Grok models, including Grok Build, directly into Kilo Code, an open-source agentic coding platform. This integration allows developers to leverage Grok's capabilities for planning, coding, debugging, and orchestration within their preferred IDEs or terminal without needing a separate API key. Kilo Code supports various development environments like VS Code and JetBrains IDEs and offers specialized modes for agentic software engineering workflows.",
+      "enterpriseAngle": "Enterprise development teams can integrate Grok's agentic coding capabilities into their existing IDEs via Kilo Code, potentially streamlining software engineering workflows and accelerating product development cycles. This partnership offers a unified platform for AI-assisted coding, which could enhance productivity and code quality.",
+      "beginner": "You can now use xAI's Grok AI to help you code directly within a popular open-source coding tool called Kilo Code, making it easier to build software.",
+      "advanced": "Integrate Grok Build via Kilo Code's agentic engineering platform into your development pipeline to leverage its specialized modes for planning, debugging, and orchestration, ensuring seamless AI-assisted coding workflows.",
+      "tags": [
+        "agents",
+        "coding",
+        "product",
+        "enterprise"
+      ]
     },
     {
       "id": "2e779f2f08bd",
@@ -3942,12 +4171,17 @@
       "url": "https://www.anthropic.com/news/milan-office-opening",
       "publishedAt": "2026-05-27",
       "fetchedAt": "2026-07-04T04:43:55.550Z",
-      "contentText": "Announcements Anthropic opens Milan office to support Italian enterprise, research, and developers May 27, 2026 Anthropic will open a new office in Milan, our sixth in Europe alongside London, Dublin, Paris, Zurich, and Munich. The Milan team will work with Italian companies and the country's developer community on building and scaling with Claude responsibly, and contribute to a conversation about AI that is already underway across Italian industry and public life. This office opening closely follows the release of Magnifica Humanitas , Pope Leo XIV's first encyclical and the first papal teaching dedicated to artificial intelligence. Anthropic co-founder Chris Olah was invited to speak at its presentation , where he addressed the ethical questions AI raises and called on more of the world—religious traditions, civil society, academia, and governments—to shape a positive outcome for humanity. Anthropic’s frontier AI capabilities and an abiding commitment to safety have already earned the trust of Italian enterprise. Led by Thomas Remy, Anthropic’s Head of Southern Europe, our local team is already working with a wide range of Italian companies, including Generali Group and Unipol Group in finance, Angelini Pharma and Bracco Group in life sciences, Enel Group in energy, and Pirelli in automotive. Anthropic has also partnered with JAKALA, one of Europe's leading data and AI companies, to deploy Claude across more than 3,000 seats to free up roughly 70% of senior team time for higher-judgment client work. Italian startups and technology companies have been early adopters, too. Satispay, the financial super app serving more than six million users, deployed Claude across its engineering teams, compressing an 18-month roadmap into seven months and updating its core payment system ten times faster than planned. At Bending Spoons, one of Italy’s largest technology companies, the majority of code changes are now co-authored with Claude Code. Anthropic is also putting Claude in the hands of Italy’s leading designers. During Milan Design Week, the team partnered with Alcova Milano to run a hands-on workshop for their creative professionals, demonstrating how Claude connects to the tools used by industrial, furniture, and spatial designers, contributing to their creative process. Chris Ciauri, MD International at Anthropic, commented: “We are here to support Italian enterprise, Italian research, and Italian culture through a safe AI transition. Italy is a country that has always embraced profound transformation and we are optimistic about what frontier AI can do for this country, from its largest industrial groups to its founders, its universities, and its cultural institutions.” The question of how AI reshapes work, design, knowledge, and human agency is not one the technology sector can or should answer alone. Anthropic was founded because we believe questions like these are among the most important of our time. Getting the AI transition right requires more voices, not fewer: from industry, civil society, and institutions that have thought carefully about human dignity for far longer than AI has existed. Our team in Milan will support the Italian companies, researchers, and builders shaping how this technology is used, and contribute, where we can, to that larger conversation about how it should be developed.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": [],
+      "contentText": null,
+      "summary": "Anthropic has opened its sixth European office in Milan, Italy, to support Italian businesses, researchers, and developers in responsibly adopting and scaling AI with Claude. The new office aims to foster collaboration across various sectors, including finance, life sciences, energy, and automotive, and contribute to the broader conversation about AI's ethical implications. This expansion follows the release of Pope Leo XIV's encyclical on AI, where Anthropic co-founder Chris Olah spoke about the ethical questions raised by AI.",
+      "enterpriseAngle": "Enterprise teams can leverage Anthropic's presence in Italy to integrate Claude into their operations, potentially accelerating product roadmaps and freeing up senior staff time for higher-value tasks, as demonstrated by companies like JAKALA and Satispay. This expansion also signals a growing focus on localized support for AI adoption within European markets, offering direct engagement for enterprise security and product development teams.",
+      "beginner": "Anthropic is opening an office in Italy to help local companies and people use AI safely and effectively, showing how AI is becoming more widely used around the world.",
+      "advanced": "Leverage Anthropic's new Milan office for direct collaboration on responsible AI deployment and integration, particularly for optimizing development cycles and enhancing operational efficiency within European enterprise contexts.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "product",
+        "workforce"
+      ],
       "dateChecked": true
     },
     {
@@ -3959,12 +4193,17 @@
       "url": "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea",
       "publishedAt": "2026-05-26T23:11:06.000Z",
       "fetchedAt": "2026-07-04T14:42:35.787Z",
-      "contentText": "Announcements Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening May 26, 2026 Korea is one of the most active markets in the world for Claude.ai. According to our latest Economic Index , Koreans use Claude at more than 3.5 times the rate expected for the population size, with usage skewing heavily toward technical and creative work. To support that momentum, KiYoung Choi is joining Anthropic as Representative Director of Korea, ahead of the opening of our Seoul office . In the coming weeks, senior leadership from Anthropic will travel to Seoul to officially open the office and meet with customers. KiYoung joins from Snowflake, where he served as General Manager for Korea. He brings over three decades of experience leading technology businesses across Korea and Asia-Pacific. Throughout his career, he has helped some of the largest Korean enterprises navigate transformative shifts in technology, ranging from cloud computing to AI adoption. Previously, he held country leadership roles at Google Cloud, Adobe, Autodesk, and Microsoft. “Korea is one of the most sophisticated AI markets in the world, leading in hardware innovation, developer activity, and enterprise adoption,” KiYoung said. “Korean organizations combine technical depth with a commitment to responsible deployment, which is exactly where Anthropic operates. That alignment is what brought me to Anthropic—and why we are focused on building in Korea for the long term.” At Anthropic, KiYoung will lead a go-to-market strategy that supports the unique uses of Claude in Korea. Innovative startups and leading enterprises in Korea are already building with Claude. Law&Company uses Claude to power its AI legal assistant, helping lawyers reduce time spent on legal research and document preparation while maintaining high accuracy for sensitive legal work. SK Telecom , the largest telecommunications company in Korea, chose Claude to build a custom AI customer service model, helping improve service quality and support customer service teams at SKT. “Korea is one of the markets where we’ve seen the most enthusiasm for Claude, and few people understand its technology landscape the way KiYoung does,” said Chris Ciauri, Managing Director of International, Anthropic. “He’ll build the team and the local partnerships to support how Korean organizations are putting Claude to work.” Our Korea team will focus on building partnerships with enterprises and startups, engaging with government and research institutions, and supporting the vibrant developer community building with Claude. For more information about career opportunities in our Seoul office, visit anthropic.com/careers .",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": [],
+      "contentText": null,
+      "summary": "Anthropic has appointed KiYoung Choi as the Representative Director for Korea, ahead of opening its Seoul office. This move aims to support the high usage of Claude.ai in Korea, where adoption rates are significantly above the global average, particularly for technical and creative tasks. Choi, with over 30 years of experience in technology leadership, will lead Anthropic's go-to-market strategy and foster partnerships in the region.",
+      "enterpriseAngle": "Enterprises in Korea, such as Law&Company and SK Telecom, are already leveraging Claude for specialized applications like legal assistance and customer service, demonstrating the potential for AI to drive efficiency and innovation in various sectors. This expansion signifies Anthropic's commitment to supporting enterprise AI adoption in a key market.",
+      "beginner": "Anthropic is opening an office in Korea and hiring a local leader because many people there are using their AI, Claude, for work.",
+      "advanced": "Leverage Anthropic's increased presence in Korea to explore direct partnerships and localized support for integrating Claude into enterprise solutions, particularly given the market's high technical adoption and focus on responsible AI deployment.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "product",
+        "workforce"
+      ],
       "dateChecked": true
     },
     {
@@ -4030,12 +4269,17 @@
       "url": "https://x.ai/news/grok-build-cli",
       "publishedAt": "2026-05-25",
       "fetchedAt": "2026-07-03T02:47:51.199Z",
-      "contentText": "Introducing Grok Build | xAI Products Solutions Developer Company Pricing News Contact Sales Try for free Products Grok Business Government Download iOS Android Grok on X Developers API Console Documentation CLI Try for free Back to news May 25, 2026 Introducing Grok Build Now in early beta for all SuperGrok and X Premium Plus subscribers — Grok Build is a new coding agent that runs right from your terminal. Today we're launching an early beta of Grok Build, a powerful new coding agent and CLI for professional software engineering and complex coding work. Available now to all SuperGrok and X Premium Plus subscribers. Install Grok Build with a single command and sign in with your account: $ curl -fsSL https://x.ai/cli/install.sh | bash Upgrade ~/Documents/GitHub/xai | 4.2% | ◆ Thought for 3.8s ❯ grok-build Enter : run │ Esc : reset │ Tab : next example │ Type : custom command Plan, review, approve For complex tasks, start Grok Build in plan mode. You can approve the plan, comment on individual steps, or rewrite it entirely before execution begins. Once a plan is approved, every change shows up as a clean diff. ~/Documents/GitHub/xai | 3.91% | ❯ tighten install docs for headless mode ◆ Edit docs/install.md plan.md 1 Install Docs Refresh Plan 2 Quick Assessment 3 • docs/install.md skips headless mode and ACP entirely, so the install path should be rewritten to cover the bootstrap, the `-p` flag, and config.toml in one pass. 4 Implementation Plan 5 1. Replace the install snippet with the curl bootstrap 6 2. Document `-p` headless mode and ACP compatibility 7 3. Point users to `config.toml` for models and API keys 8 4. Cross-link the auth and feedback sections #1 review diff [turn: 21s, ↕16.8k] ❯ grok-build Enter : run │ Type : swap prompt │ Esc : clear input Works with what you already use Your AGENTS.md, plugins, hooks, skills, and MCP servers all work out of the box. Start Grok Build in your repo and it picks up your conventions instantly. ~/Documents/GitHub/xai | 3.95% | ◆ Thought for 9.2s I'll search the marketplace and install the browser-review plugin. ❯ install browser-review and open its skills Hooks Plugins Marketplace Skills MCP Servers /browser All ⌄ › browser-review v0.8.2 (community) [preview] Scroll this example into view to watch the plugin install flow. [turn: 31s, ↕39.1k] ❯ grok-build Click : take over │ Enter : run │ Tab : switch tabs │ Esc : clear input Subagents that work in parallel For larger tasks, Grok Build delegates work to specialized subagents that run in parallel. Grok Build also supports deep worktree integrations, and you can launch subagents in their own worktrees. ~/Documents/GitHub/xai | 4.32% | explore Explore checkout flow explore · grok-build explore Explore infra and CI explore · grok-build explore Explore shared Go libraries explore · grok-build explore Explore order services explore · grok-build explore Explore fulfillment jobs explore · grok-build explore Explore pricing engine explore · grok-build ❯ find the source of the p99 latency regression | Diff recent deploys explore · grok-build [ running ] | Rank slowest endpoints explore · grok-build [ running ] | Pull slow query plans general · grok-build [ running ] Splitting deploys, slow endpoints, DB plans, and cache hit rates into parallel digs. [turn: 54s, ↕39.8k] [turn: 54s, ↕39.8k] ❯ grok-build Enter : launch │ Click : pin agent │ Type : change task │ Esc : clear input Built to fit your workflow Headless mode ( -p ) allows easily running agents inside scripts and automations. The CLI also provides full ACP support to build your own bots and agent orchestration apps. Try it today This is an early beta, and your feedback is the fastest way to make it better. Type /feedback in the CLI to send bugs, requests, and reactions straight to the team. SuperGrok and X Premium Plus subscribers can install Grok Build with the command above and start building. If you don't have SuperGrok yet, upgrade here — we're excited to see what you create. $ curl -fsSL https://x.ai/cli/install.sh | bash Upgrade A division of © 2026 xAI Corp. Built with Grok Products Chat Build Imagine Voice Grokipedia Download grok.com iOS Android Grok on X Solutions Business Government Customer Support Legal Security Use Cases Developers API Overview Pricing Models Console Docs Status Enterprise Contact Sales FAQs BAA DPA Company About Colossus Careers News Contact Trust Safety Security Privacy Portal Subprocessors Help Center Legal Terms Enterprise Terms Privacy Cookies AUP Brand Social @xai @grok Discord Built with Grok",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "xAI has launched Grok Build, a new coding agent and command-line interface (CLI) designed for professional software engineering and complex coding tasks. Currently in early beta, it is available to SuperGrok and X Premium Plus subscribers. Grok Build allows users to plan, review, and approve code changes, works with existing developer tools, and can delegate large tasks to specialized subagents running in parallel.",
+      "enterpriseAngle": "Enterprise development teams can leverage Grok Build to streamline complex coding workflows, automate tasks, and improve code review processes, potentially accelerating product development cycles and enhancing developer productivity.",
+      "beginner": "Grok Build is a new AI tool that helps programmers write and manage code directly from their computer's command line.",
+      "advanced": "Integrate Grok Build's headless mode and ACP support into your CI/CD pipelines to automate code generation, review, and deployment tasks, leveraging its subagent capabilities for parallel processing of complex development workflows.",
+      "tags": [
+        "product",
+        "coding",
+        "agents",
+        "enterprise"
+      ]
     },
     {
       "id": "4f4b568871d2",
@@ -4230,12 +4474,17 @@
       "url": "https://x.ai/news/grok-skills",
       "publishedAt": "2026-05-18",
       "fetchedAt": "2026-07-03T02:47:51.349Z",
-      "contentText": "Skills in web, iOS, and Android | xAI Products Solutions Developer Company Pricing News Contact Sales Try for free Products Grok Business Government Download iOS Android Grok on X Developers API Console Documentation CLI Try for free Back to news May 18, 2026 Skills in web, iOS, and Android Persistent expertise for Grok. Generate documents, decks, and spreadsheets. Automate workflows. Build and share your own skills. Today, we're launching Skills. Teach Grok something once and it remembers across every conversation. No more repeating your preferences, formatting rules, or workflow steps. Try Skills See an Example Ready Out of the Box Every Grok account ships with built-in skills from xAI, with no setup required. If you want to customize one, just override it with your own version. Yours always takes priority. Word Documents xAI Create and edit .docx with full formatting Presentations xAI Build slide decks from scratch Spreadsheets xAI Generate formatted spreadsheets and analyze data PDFs xAI Create, merge, split, and extract from PDFs Skill Creator xAI Build new custom skills through conversation Try built-in skills Instant Office Documents Need a formatted invoice, a pitch deck, or a budget spreadsheet? Grok generates production-ready Word docs, PowerPoint slides, Excel files, and PDFs, all styled and ready to share. You can also upload existing files and Grok will restructure, polish, or expand them. Presentations Build complete slide decks for pitches, quarterly reviews, and workshops with strong visual hierarchy and speaker notes. “ Design a Leadership Strategic Thinking Workshop deck with exercises, frameworks, and takeaways. ” Word Documents Generate polished invoices, contracts, proposals, and resumes with full formatting — headings, tables, bullet points, and consistent styling. “ Create a professional enterprise invoice for APEX-2026-0547 with line items, tax, and payment terms. ” Spreadsheets Generate formatted spreadsheets with formulas, color-coded sections, and clear structure — budgets, dashboards, and forecasts. “ Create a monthly budget tracker with income, expenses, and savings projections. ” PDF Reports Create polished PDF reports, proposals, and research papers — formatted, styled, and ready to share. “ Generate a PDF report on AI interpretability formatted for conference submission. ” See Example Build Your Own Creating a skill takes seconds. Describe it in conversation, upload a file, or write one from scratch. Invested time perfecting a format or workflow? Just ask Grok to save everything it learned as a skill so you never have to explain it again. Get Started Skills are live now on Grok 4.3 across grok.com , iOS, and Android. Try Skills A division of © 2026 xAI Corp. Built with Grok Products Chat Build Imagine Voice Grokipedia Download grok.com iOS Android Grok on X Solutions Business Government Customer Support Legal Security Use Cases Developers API Overview Pricing Models Console Docs Status Enterprise Contact Sales FAQs BAA DPA Company About Colossus Careers News Contact Trust Safety Security Privacy Portal Subprocessors Help Center Legal Terms Enterprise Terms Privacy Cookies AUP Brand Social @xai @grok Discord Built with Grok",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "xAI has launched \"Skills\" for Grok, enabling the AI to retain learned preferences, formatting rules, and workflow steps across conversations. This feature allows Grok to generate and edit documents, presentations, and spreadsheets in various formats, including Word, PowerPoint, Excel, and PDF. Users can also create and share their own custom skills, which are available on web, iOS, and Android platforms.",
+      "enterpriseAngle": "Enterprise teams can leverage Grok's new Skills feature to automate routine document generation, data analysis, and workflow tasks, significantly boosting productivity and ensuring consistent output. The ability to build and share custom skills means enterprises can tailor Grok to specific internal processes and industry standards, reducing repetitive instructions and onboarding time.",
+      "beginner": "Grok's new 'Skills' feature means you can teach it how you like things done once, and it will remember for all future tasks, like creating documents or spreadsheets.",
+      "advanced": "Integrate Grok's custom skill creation capabilities with internal knowledge bases and workflow automation tools to establish persistent, context-aware AI assistance for specialized enterprise functions.",
+      "tags": [
+        "product",
+        "enterprise",
+        "agents",
+        "coding"
+      ]
     },
     {
       "id": "6633908f65ea",
@@ -4785,28 +5034,6 @@
         "partnership",
         "security"
       ]
-    },
-    {
-      "id": "2db767bb8e7d",
-      "source": "xai",
-      "sourceName": "xAI (Grok)",
-      "tier": "realtime",
-      "title": "Grok 4 Grok 4 is the most intelligent model in the world. It includes native tool use and real-time search integration, and is available now to SuperGrok and Premium+ subscribers, as well as through t",
-      "url": "https://x.ai/news/grok-4",
-      "publishedAt": "2025-07-09",
-      "fetchedAt": "2026-07-03T07:10:06.724Z",
-      "contentText": null,
-      "summary": "xAI has released Grok 4, which they claim is the most intelligent model globally, featuring native tool use and real-time search integration. It is accessible to SuperGrok and Premium+ subscribers, and through the xAI API, with a more powerful \"Heavy\" version also available. Grok 4's enhanced reasoning abilities are attributed to significant scaling of reinforcement learning training on a 200,000 GPU cluster, along with innovations in infrastructure and algorithms that boosted compute efficiency and expanded verifiable training data.",
-      "enterpriseAngle": "Enterprise product development teams can leverage Grok 4's advanced reasoning and tool-use capabilities, including real-time search and internal data querying, to build more sophisticated and accurate AI applications. The ability to integrate with internal data sources like X (formerly Twitter) could be particularly valuable for companies needing to analyze social media trends or customer feedback.",
-      "beginner": "Grok 4 is a new, very smart AI that can use tools and search the internet in real-time to answer questions and solve problems.",
-      "advanced": "Integrate Grok 4's native tool use and real-time search capabilities, including its ability to query X data, into your enterprise applications to enhance data analysis, automate complex research tasks, and improve the accuracy of AI-driven insights.",
-      "tags": [
-        "model-release",
-        "enterprise",
-        "product",
-        "research"
-      ],
-      "dateChecked": true
     }
   ]
 }

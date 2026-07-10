@@ -1,6 +1,67 @@
 {
-  "updatedAt": "2026-07-09T22:42:03.187Z",
+  "updatedAt": "2026-07-10T15:43:47.089Z",
   "articles": [
+    {
+      "id": "027b05f9d0fa",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+      "url": "https://openai.com/index/deutsche-telekom",
+      "publishedAt": "2026-07-10T07:00:00.000Z",
+      "fetchedAt": "2026-07-10T15:36:07.012Z",
+      "contentText": null,
+      "summary": "Deutsche Telekom is integrating OpenAI's AI technology to become an \"AI-native telco.\" This transformation aims to enhance customer service, optimize employee workflows, improve network operations, and innovate the future of voice communication.",
+      "enterpriseAngle": "Enterprises in the telecommunications sector can leverage AI to significantly improve operational efficiency and customer engagement across multiple functions. This partnership demonstrates a strategic move towards embedding AI deeply into core business processes.",
+      "beginner": "Large companies like Deutsche Telekom are using AI to make their services better and their operations smoother.",
+      "advanced": "Evaluate opportunities to integrate advanced AI models into core telecommunications infrastructure and customer interaction points to drive efficiency and innovation.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "product"
+      ]
+    },
+    {
+      "id": "2922cfdde0d7",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "OpenAI says GPT 5.6 is the ‘preferred model' for Microsoft Copilot 365 amid breakup chatter",
+      "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+      "publishedAt": "2026-07-10T00:16:54.000Z",
+      "fetchedAt": "2026-07-10T15:36:08.688Z",
+      "contentText": null,
+      "summary": "OpenAI announced that its newly released GPT 5.6 model will be the \"preferred model\" for Microsoft's 365 Copilot, powering applications like Word, Excel, and PowerPoint. This announcement comes after reports suggested Microsoft was increasingly using its own in-house models to reduce costs, leading to speculation about the future of the OpenAI-Microsoft partnership.",
+      "enterpriseAngle": "Enterprises using Microsoft 365 Copilot can expect continued integration with OpenAI's latest models, while Microsoft's strategic use of its own models alongside OpenAI's indicates a focus on cost optimization and potentially diversified AI capabilities for enterprise product development.",
+      "beginner": "OpenAI's newest AI model will be the main one used in Microsoft's popular work apps like Word and Excel, despite rumors that Microsoft might be using less of OpenAI's technology.",
+      "advanced": "Evaluate the implications of a 'preferred model' designation versus exclusive integration, considering potential architectural shifts and vendor lock-in risks within your enterprise AI strategy for Microsoft 365 Copilot.",
+      "tags": [
+        "model-release",
+        "enterprise",
+        "partnership",
+        "product"
+      ]
+    },
+    {
+      "id": "880ee3c2d550",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Fidji Simo steps down from OpenAI's No. 2 role",
+      "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+      "publishedAt": "2026-07-09T23:38:00.000Z",
+      "fetchedAt": "2026-07-10T15:36:08.688Z",
+      "contentText": null,
+      "summary": "Fidji Simo, OpenAI's second-highest executive, is resigning from her full-time position due to an extended medical leave. This departure creates a leadership gap as OpenAI prepares for a potential IPO and competes with Anthropic in the enterprise sector.",
+      "enterpriseAngle": "This executive departure at OpenAI could impact its strategic direction and stability as it aims for an IPO and intensifies its competition in the enterprise AI market. Enterprise product and partnership teams should monitor OpenAI's leadership changes for potential shifts in product roadmaps or market focus.",
+      "beginner": "A key leader at OpenAI is leaving, which might affect the company's plans to go public and compete in the business world.",
+      "advanced": "Assess potential shifts in OpenAI's enterprise strategy and product development in light of this executive transition, particularly concerning their competitive stance against Anthropic.",
+      "tags": [
+        "enterprise",
+        "workforce",
+        "product"
+      ]
+    },
     {
       "id": "9491981398fc",
       "source": "techcrunch-ai",
@@ -31,12 +92,17 @@
       "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
       "publishedAt": "2026-07-09T22:08:58.000Z",
       "fetchedAt": "2026-07-09T22:37:31.455Z",
-      "contentText": "In Brief Posted: 3:08 PM PDT · July 9, 2026 Image Credits: ChatGPT for TechCrunch Connie Loizos An AI agent startup just let its agent run its $100 million fundraise There's something almost too meta about this one, via Bloomberg . Lyzr, a three-year-old, Jersey City, New Jersey, startup that helps enterprises build AI agents, used its own AI agent to raise its own round. The system, SivaClaw, reportedly fielded questions from more than 130 investors, drafted investment memos, and even tracked which slides backers lingered on. It basically ran point on the startup's $100 million Series B (at a roughly $500 million valuation) while proving that the product actually works. It's hard to imagine a cleaner sales pitch. But the most telling detail, per Bloomberg's retelling, is how little legwork was involved. Lyzr told the outlet it pulled in $400 million in interest from Silicon Valley, the Middle East, and financial-sector investors without a founder ever needing to fly out and do the traditional laps up and down Sand Hill Road for coffee meetings and warm intros. That may be the real story of this go-go moment: there's so much capital chasing AI bets that startup founders with traction barely have to leave their desks to raise nine figures. Topics AI , ai agent , Fundraising , Startups , TC November 4 Boston Last chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world scaling insights and connections that move the needle. Savings end June 26, 11:59 p.m. PT . REGISTER NOW Newsletters See More Subscribe for the industry’s biggest tech news TechCrunch Daily News Every weekday and Sunday, you can get the best of TechCrunch’s coverage. TechCrunch Mobility TechCrunch Mobility is your destination for transportation news and insight. Startups Weekly Startups are the core of TechCrunch, so get our best coverage delivered weekly. StrictlyVC Provides movers and shakers with the info they need to start their day. No newsletters selected. Subscribe By submitting your email, you agree to our Terms and Privacy Notice . Related Startups Charles Hudson shares the common mistakes he’s seen after investing in 500+ startups Maggie Nye 3 hours ago Startups These AI startups are growing revenue at faster and faster rates Marina Temkin 1 day ago Stripe x Startup Battlefield Final extension: Startup Battlefield Australia applications now close July 20 Isabelle Johannessen 2 days ago Latest in Startups In Brief An AI agent startup just let its agent run its $100 million fundraise Connie Loizos 30 minutes ago Startups Charles Hudson shares the common mistakes he’s seen after investing in 500+ startups Maggie Nye 3 hours ago In Brief Mercor is in talks for a $20B valuation Dominic-Madori Davis 4 hours ago",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Lyzr, an AI agent startup, successfully used its own AI agent, SivaClaw, to manage its $100 million Series B fundraising round. The agent handled investor inquiries, drafted memos, and tracked investor engagement, demonstrating the product's effectiveness. This approach allowed Lyzr to attract significant investor interest without traditional in-person meetings.",
+      "enterpriseAngle": "This case highlights a potential shift in enterprise fundraising and business development, where AI agents could streamline processes, reduce travel, and accelerate deal closures. Enterprise product teams can leverage this example to showcase the practical application and ROI of their own AI agent solutions.",
+      "beginner": "An AI company used its own AI program to help raise a lot of money, showing how useful these programs can be in business.",
+      "advanced": "Evaluate the integration of autonomous AI agents for critical business functions like fundraising and investor relations, focusing on their capabilities for automated communication, document generation, and engagement analytics to optimize resource allocation and accelerate capital acquisition.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "funding",
+        "product"
+      ]
     },
     {
       "id": "14a2cc90aef5",
@@ -47,12 +113,17 @@
       "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
       "publishedAt": "2026-07-09T22:03:54.000Z",
       "fetchedAt": "2026-07-09T22:37:31.455Z",
-      "contentText": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "OpenAI is discontinuing Atlas, its AI-powered browser, but is integrating its agentic browsing features into the ChatGPT desktop app and a new Google Chrome extension. This strategic shift allows users to interact with web content, summarize pages, and perform tasks directly within their existing workflows. The move reflects a conclusion that the browser is a feature to be integrated, rather than a standalone destination.",
+      "enterpriseAngle": "Enterprise product development teams should consider integrating AI agent capabilities directly into existing applications and browser extensions, rather than developing standalone AI browsers, to meet users where they already work. Security teams should assess the implications of AI agents having access to browser context and user accounts, ensuring robust data protection and access controls.",
+      "beginner": "OpenAI is making its AI tools for browsing the internet available in places you already use, like the ChatGPT app and a Chrome extension, instead of a separate browser.",
+      "advanced": "Leverage OpenAI's new Chrome extension and enhanced desktop app capabilities to streamline agentic workflows across enterprise applications, focusing on secure integration with existing identity and access management systems.",
+      "tags": [
+        "product",
+        "enterprise",
+        "agents",
+        "coding"
+      ]
     },
     {
       "id": "55406eec470a",
@@ -63,12 +134,17 @@
       "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
       "publishedAt": "2026-07-09T21:57:42.000Z",
       "fetchedAt": "2026-07-09T22:37:31.455Z",
-      "contentText": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Elon Musk has publicly praised Anthropic, backtracking on previous skepticism, and affirmed that he would not disrupt their use of SpaceX's compute infrastructure. This comes after Anthropic signed a significant deal to utilize SpaceX's xAI unit for its computing needs, making them one of SpaceX's largest customers. Musk cited past actions by Tesla and SpaceX as evidence of his commitment to not unfairly disadvantage competitors.",
+      "enterpriseAngle": "Enterprises relying on cloud infrastructure from a competitor should carefully consider contractual safeguards and potential risks of increased visibility into their operations, even with assurances of fair play. The significant financial benefits for the infrastructure provider may offer some stability, but the long-term implications of such close proximity to a rival warrant ongoing evaluation.",
+      "beginner": "Even when companies compete, they sometimes partner on essential services, but it's important to have clear agreements in place.",
+      "advanced": "When engaging a competitor for critical infrastructure, thoroughly vet contractual clauses for service continuity, data isolation, and intellectual property protection, while also assessing the strategic implications of potential competitive intelligence gathering.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "infrastructure",
+        "product"
+      ]
     },
     {
       "id": "8f2a4085c264",
@@ -79,7 +155,7 @@
       "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
       "publishedAt": "2026-07-09T21:47:50.000Z",
       "fetchedAt": "2026-07-09T22:37:31.455Z",
-      "contentText": "The AI ROI debate has returned and the numbers are even bigger, as are, perhaps, the consequences.",
+      "contentText": "Three years ago, Sequoia partner David Cahn was one of the first people to do the math and put a number on the implications of Silicon Valley's titanic spend on AI infrastructure. In 2023 , he was reacting to Nvidia's reported annual GPU revenue of $50 billion. Starting with that figure, and adding in the implied costs of operating the data centers and the margins for their operators, he deduced that $200 billion in revenue would be required to pay back the up-front investment. He took it as a challenge, asking entrepreneurs to come up with AI products and services to make use of, and generate revenue from, all that infrastructure. Fast-forward to today, adding up three years of hyperscaling, and Cahn's got a new number on AI infrastructure spending for 2026: $1.5 trillion. All told, he calculates that the AI industry will have to earn $3 trillion to justify all those chips and other data center expenditures. And that's probably an underestimate — the rising costs of memory and the increasing use of exotic or inference-specific chips will drive that number up. \"Recently,\" he writes, \"the required revenue per GW of CapEx has sharply increased due to these bottleneck dynamics and rising costs of construction.\" On the other side of the ledger, Anthropic is thought to have hit $60 billion in ARR , while OpenAI reportedly earned $13 billion in 2025 (although in November 2025, it said it was at $20 billion ARR ) and is presumably making more this year. But there's clearly a large gap to be closed. Someone minding that gap is Torsten Slok, the chief economist at Apollo, the giant asset manager. In a recent note , he points out that the hyperscalers — Google, Meta, Microsoft, and Amazon — are all predicting massive accelerations in their free-cash flow in 2028. That is, they expect to see the payback from all those chips they bought. Image Credits: Torsten Slok/Apollo What if they don't? Slok notes a risk we're currently seeing across AI usage: More organizations turning to cheaper open weight models, often Chinese, not those built by the frontier labs, and overall token prices falling. OpenAI's latest model, per CEO Sam Altman, is 54% more token efficient on coding tasks. That's good for users fretting about the cost of their AI agents, but it may be bad for companies building token factories should users not wildly increase their overall token usage with them. Image Credits: Torsten Slok/Apollo Slok worries that if hyperscalers don't meet their cash-flow goals, the market reaction could be severe — \"with so much riding on so few names,\" he writes, \"a slower payoff wouldn't just be a sector problem, it would risk tipping the economy into recession and the S&P 500 into a correction.\" Just something to keep in mind as you're herding your AI agents toward cheaper tokens. Topics AI , apollo , CAPEX , Sequioa When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Tim Fernholz Senior Reporter Tim Fernholz is a journalist who writes about technology, finance and public policy. He has closely covered the rise of the private space industry and is the author of Rocket Billionaires: Elon Musk, Jeff Bezos and the New Space Race. Formerly, he was a senior reporter at Quartz, the global business news site, for more than a decade, and began his career as a political reporter in Washington, D.C. You can contact or verify outreach from Tim by emailing tim.fernholz@techcrunch.com or via an encrypted message to tim_fernholz.21 on Signal. View Bio November 4 Boston Last chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world scaling insights and connections that move the needle. Savings end June 26, 11:59 p.m. PT . REGISTER NOW Most Popular Instagram users: Here’s how to stop Meta’s AI from using your photos Lauren Forristal Figma acquires team behind a vibe-coding app Ivan Mehta If you use Google, you're training its AI. Here's how to opt out. Sarah Perez Reddit is using LLMs to solve a problem LLMs largely created Amanda Silberling Amazon will stop accepting new customers for Mechanical Turk Anthony Ha 5 desk gadgets that can make your workday better Aisha Malik New Google commercial imagines a Declaration of Independence written with help from AI Anthony Ha",
       "summary": null,
       "enterpriseAngle": null,
       "beginner": null,
@@ -95,12 +171,16 @@
       "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
       "publishedAt": "2026-07-09T20:22:28.000Z",
       "fetchedAt": "2026-07-09T22:37:31.726Z",
-      "contentText": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the Jacobian lens (or…",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Anthropic has developed a new technique, the Jacobian lens, to observe the internal workings of large language models as they process information. This tool provides unprecedented insight into how these models form concepts and answer questions. The findings reveal both expected and surprising internal processes within the AI.",
+      "enterpriseAngle": "Enterprise AI product development teams can leverage such interpretability tools to better understand and debug their models, leading to more reliable and explainable AI systems. This research could also inform the development of more robust AI governance and safety protocols within organizations.",
+      "beginner": "AI models are complex, and researchers are finding new ways to look inside them to understand how they 'think.'",
+      "advanced": "Investigate integrating interpretability techniques like the Jacobian lens into your model development lifecycle to enhance transparency and identify emergent behaviors in complex LLMs.",
+      "tags": [
+        "research",
+        "learning",
+        "product"
+      ]
     },
     {
       "id": "241317adaedd",
@@ -119,6 +199,70 @@
       "tags": []
     },
     {
+      "id": "9de14e96265a",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+      "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
+      "publishedAt": "2026-07-09T19:05:58.000Z",
+      "fetchedAt": "2026-07-10T15:36:08.688Z",
+      "contentText": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
+    {
+      "id": "76107e209263",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Google will now disclose which ads are made with AI",
+      "url": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
+      "publishedAt": "2026-07-09T18:40:51.000Z",
+      "fetchedAt": "2026-07-10T15:36:08.688Z",
+      "contentText": "While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until now, that's something Google only required election ads to disclose.",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
+    {
+      "id": "2e788278eefd",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
+      "url": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
+      "publishedAt": "2026-07-09T18:34:35.000Z",
+      "fetchedAt": "2026-07-10T15:36:08.688Z",
+      "contentText": "The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's leading AI ecosystem.\"",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
+    {
+      "id": "74bc3599582d",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "How did the government decide OpenAI's frontier model was safe to release?",
+      "url": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
+      "publishedAt": "2026-07-09T18:22:39.000Z",
+      "fetchedAt": "2026-07-10T15:36:08.688Z",
+      "contentText": "\"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.\"",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
+    {
       "id": "d015b138db17",
       "source": "anthropic",
       "sourceName": "Anthropic",
@@ -127,12 +271,17 @@
       "url": "https://www.anthropic.com/news/ben-bernanke",
       "publishedAt": "2026-07-09T18:07:20.000Z",
       "fetchedAt": "2026-07-09T22:37:18.365Z",
-      "contentText": "Announcements Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust Jul 9, 2026 Anthropic's Long-Term Benefit Trust (LTBT) has appointed Dr. Ben Bernanke, a Distinguished Fellow at the Brookings Institution and former Chair of the Federal Reserve, as its newest member. He joins an independent body that works to hold Anthropic to its mission: the responsible development of advanced AI for the long-term benefit of humanity. Bernanke led the Federal Reserve from 2006 to 2014, steering the central bank through the 2008 global financial crisis and the recovery that followed. Before entering government, he spent more than two decades as an academic economist, much of that time at Princeton, where he chaired the economics department and built a body of research on the Great Depression and the role banks play in financial crises. That work earned him the Nobel Prize in Economic Sciences in 2022. “The potential of artificial intelligence is enormous, and so is the range of outcomes. How that potential plays out will depend, in part, on the institutions we build around it,” said Dr. Bernanke. “Anthropic has created a unique governance structure to try to ensure that the long-run benefits of AI for humanity far outweigh the risks. I am honored to have this opportunity, and I will try to contribute in any way I can to this critical mission.” “AI may have the most significant economic effects of any technology in modern history, and Anthropic has a dual responsibility to understand those effects and to act on them,” said Daniela Amodei, Co-Founder and President of Anthropic. “Ben’s career has run from studying how economies react to disruptive moments to helping steer the world’s largest economy through one such time. His judgment will make us better at anticipating and responding to how advanced AI affects workforces and economies around the world.” Anthropic is a Public Benefit Corporation, meaning the company was created to balance commercial success with generating social and public good. The LTBT exists to help the company responsibly maintain that balance over the long term, providing a check on how Anthropic develops and deploys AI. The Trustees are chosen for their expertise across a wide range of areas, and are independent of the company’s management and investors: they hold no equity in Anthropic, don’t share in its profits, and are compensated only for their time and service. New Trustees are selected by the existing ones, in consultation with the company. “The institutions built around this technology will matter as much as the technology itself,” added Neil Buddy Shah, Chair of the LTBT. “Ben spent eight years leading the Federal Reserve and guided the country through the worst financial crisis in nearly a century with expertise, independence, and sound judgment. That's the standard we look for in Trustees as AI's impact grows, and we're fortunate Ben has chosen to join us in this work.” The LTBT has the authority to appoint members to Anthropic’s board. The Trustees advise the board and Anthropic’s leadership on critical decisions, particularly those involving the potential risks and societal impacts of AI. Bernanke’s appointment brings expertise to one of the questions Anthropic studies most closely: how AI is changing the economy. He will lend his insight to our economic research, in addition to other areas of Anthropic's work. Bernanke joins Neil Buddy Shah , Richard Fontaine , and Mariano-Florentino Cuéllar on the LTBT. Their collective experience spans global health, national security, law, policy, and economics.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": [],
+      "contentText": null,
+      "summary": "Dr. Ben Bernanke, former Chair of the Federal Reserve and Nobel laureate, has been appointed to Anthropic's Long-Term Benefit Trust (LTBT). This independent body ensures Anthropic develops advanced AI responsibly for humanity's long-term benefit. Bernanke will contribute his economic expertise to the Trust's oversight and Anthropic's research on AI's economic impacts.",
+      "enterpriseAngle": "Enterprises developing AI should consider robust governance structures, like Anthropic's LTBT, to balance commercial goals with societal impact and responsible AI development. Integrating external, independent experts can provide critical oversight and guidance on the economic and societal implications of AI products and services.",
+      "beginner": "Anthropic is bringing in a respected economist to help guide how they build AI, making sure it's good for everyone in the long run.",
+      "advanced": "Leverage independent oversight bodies with diverse expertise, particularly in economics and policy, to proactively address the systemic risks and opportunities of AI on global workforces and economies, informing product strategy and responsible deployment.",
+      "tags": [
+        "governance",
+        "enterprise",
+        "policy",
+        "research"
+      ],
       "dateChecked": true
     },
     {
@@ -144,12 +293,17 @@
       "url": "https://www.anthropic.com/news/hard-questions",
       "publishedAt": "2026-07-09T17:28:23.000Z",
       "fetchedAt": "2026-07-09T22:37:22.897Z",
-      "contentText": "Announcements Inviting hard questions Jul 9, 2026 Who decides the rules for AI? Can AI give my children a better future? Does AI make the world a more dangerous place? Can AI help scientists cure diseases? People have a lot of hard questions about AI. It’s our job to address them. Many people are positively disposed to AI. They already use it every day, and they see its potential for making our work and our lives less laborious, for changing the way we learn, for helping speed up scientific and technological progress, for creating new sources of prosperity, and for solving some of the biggest medical and social problems we face. But many also hold serious concerns. Some are worried about AI’s potential contribution to job loss. Some fear that it could devalue creative work. Others are concerned about human agency: that AI might affect our ability to think for ourselves, to make human connections, and to have meaning in our lives. Many are concerned about what it means if AI’s capabilities fall into the wrong hands—and wonder whether the benefits outweigh the costs. In the film below, you can hear some of these hopes and concerns from people we’ve spoken with. Anthropic is a Public Benefit Corporation —it’s our mission to secure the benefits of advanced AI models and mitigate their risks. That public benefit mission has led us, for example, to invest in AI safeguards to reduce the risk of misuse, to research the behavior and inner workings of AI models to help us align them to beneficial goals, to give our AI models for free to scientists , and to launch a fellowship program that pairs early-career Claude users with nonprofits to help extend the benefits of AI. To truly act in the public interest, we need to fully understand the hopes and concerns the public has about this new technology. As part of our new initiative on hard questions , we’re taking further steps to understand people’s views and questions on a variety of AI-related topics, and transparently chart our progress toward our public benefit goals. We’ve already been laying the groundwork, asking thousands of people for their views on AI: We’ve begun the Anthropic Public Record —a public survey that, in its first round, asked 52,000 Americans to set out their biggest hopes and concerns about this technology; We surveyed 81,000 Claude users across 159 countries and 70 languages through our Anthropic Interviewer ; We conducted dozens of in-person focus groups and convened sessions with groups whose work and traditions bear on the questions raised by AI; and We’ve been studying the use of Claude through anonymized, real-world data. We created the Anthropic Institute —a research effort within the company with the goal of confronting the most significant challenges that AI will pose to society—and since early in our company’s history our Long-Term Benefit Trust has provided impartial oversight on how effectively we’re advancing our public benefit mission. Now, we’re explicitly asking you to send us your hardest questions on AI: questions about AI’s effects on jobs, society, and families; questions about how we achieve the dramatic potential of AI for science and medicine; questions about where one of the most powerful technologies in human history can take us next. In return, we’ll publicly track and report the specific actions we’re taking to address those questions—and we’ll be clear about the ways in which we might fall short of our stated goals. To see some of the questions others are asking, and to share your own, visit our hard questions website .",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": [],
+      "contentText": null,
+      "summary": "Anthropic is launching an initiative called \"Inviting hard questions\" to understand public hopes and concerns about AI. As a Public Benefit Corporation, Anthropic aims to address these questions and mitigate risks while securing the benefits of advanced AI models. They have already conducted extensive surveys and research to gather public sentiment and are now explicitly inviting individuals to submit their hardest questions about AI's impact on jobs, society, families, science, and medicine.",
+      "enterpriseAngle": "Enterprise product development teams should consider incorporating similar public feedback mechanisms to understand user concerns and align AI development with societal values, while security teams can learn from Anthropic's focus on AI safeguards to reduce misuse risks.",
+      "beginner": "AI companies are actively seeking public input to understand and address concerns about how AI will affect our lives.",
+      "advanced": "Implement structured public engagement and feedback loops, similar to Anthropic's surveys and focus groups, to inform responsible AI development and governance strategies within your organization.",
+      "tags": [
+        "governance",
+        "research",
+        "enterprise",
+        "policy"
+      ],
       "dateChecked": true
     },
     {
@@ -288,12 +442,17 @@
       "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
       "publishedAt": "2026-07-09T13:00:00.000Z",
       "fetchedAt": "2026-07-09T22:37:26.305Z",
-      "contentText": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "GPT-5.6 is now the primary AI model integrated into Microsoft 365 Copilot, enhancing its capabilities across various applications like Word, Excel, PowerPoint, Chat, and Cowork. This update aims to deliver faster and higher-quality work for users.",
+      "enterpriseAngle": "Enterprise product development teams can leverage the advanced capabilities of GPT-5.6 within Microsoft 365 Copilot to improve productivity and the quality of work output across their organizations. This integration signifies a move towards more sophisticated AI assistance in daily business operations.",
+      "beginner": "A new, more powerful AI called GPT-5.6 is now helping Microsoft 365 apps like Word and Excel work better and faster.",
+      "advanced": "Evaluate the impact of GPT-5.6's integration into Microsoft 365 Copilot on existing workflows and consider opportunities for custom Copilot extensions to maximize productivity gains.",
+      "tags": [
+        "model-release",
+        "enterprise",
+        "product",
+        "partnership"
+      ]
     },
     {
       "id": "dc999c16cc92",
@@ -325,12 +484,16 @@
       "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
       "publishedAt": "2026-07-09T10:00:00.000Z",
       "fetchedAt": "2026-07-09T22:37:26.306Z",
-      "contentText": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "ChatGPT Work is introduced as an AI agent designed to operate across various applications and files. It can manage projects for extended periods, transforming initial goals into completed tasks.",
+      "enterpriseAngle": "Enterprise product development teams can leverage ChatGPT Work to automate complex, multi-application workflows, significantly boosting productivity and accelerating project completion.",
+      "beginner": "ChatGPT Work is like a smart assistant that can do tasks for you across different computer programs and help you finish big projects.",
+      "advanced": "Integrate ChatGPT Work's agentic capabilities into existing enterprise software stacks to automate cross-application workflows and enhance end-to-end project management.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product"
+      ]
     },
     {
       "id": "8fd74bd3f519",
@@ -341,12 +504,15 @@
       "url": "https://openai.com/index/bio-bug-bounty",
       "publishedAt": "2026-07-09T10:00:00.000Z",
       "fetchedAt": "2026-07-09T22:37:26.306Z",
-      "contentText": "Details about the OpenAI Bio Bounty program",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "OpenAI has launched the Bio Bounty program. No further details about the program are available at this time.",
+      "enterpriseAngle": "Enterprise security teams should monitor the outcomes and findings from OpenAI's Bio Bounty program to understand potential new threat vectors or vulnerabilities related to biological applications of AI.",
+      "beginner": "OpenAI is asking people to find problems in its AI related to biology.",
+      "advanced": "Track the specific vulnerability categories and mitigation strategies emerging from the Bio Bounty program to inform proactive threat modeling for AI systems in sensitive domains.",
+      "tags": [
+        "security",
+        "research"
+      ]
     },
     {
       "id": "54ee76ae9206",
@@ -357,12 +523,38 @@
       "url": "https://openai.com/index/gpt-5-6",
       "publishedAt": "2026-07-09T10:00:00.000Z",
       "fetchedAt": "2026-07-09T22:37:26.306Z",
-      "contentText": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "OpenAI has announced GPT-5.6, a new model designed to offer increased intelligence per token and improved performance efficiency. It aims to provide enhanced capabilities for demanding tasks.",
+      "enterpriseAngle": "Enterprises can anticipate more cost-effective and powerful AI solutions for complex workloads, potentially reducing operational expenses while boosting productivity. This could lead to faster development cycles and more sophisticated AI-driven applications.",
+      "beginner": "GPT-5.6 is a new, more efficient AI model that can do more with less, making advanced AI more accessible and powerful.",
+      "advanced": "Evaluate GPT-5.6's token efficiency and performance-per-dollar against existing models to optimize resource allocation and enhance the capabilities of your enterprise AI applications.",
+      "tags": [
+        "model-release",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "8fd51b42b585",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "UST is bringing Claude to physical AI",
+      "url": "https://www.anthropic.com/news/ust-claude",
+      "publishedAt": "2026-07-09",
+      "fetchedAt": "2026-07-10T15:35:56.488Z",
+      "contentText": null,
+      "summary": "Anthropic has partnered with UST, a technology and engineering services company, to integrate Claude into \"physical AI\" applications, which involve intelligence built into equipment and engineering processes. UST is deploying Claude to enhance product development in sectors like semiconductors and automotive, aiming to detect design flaws earlier and accelerate validation cycles. Additionally, UST is training 20,000 of its employees on Claude and extending its use to healthcare, telecom, and banking platforms to improve operations and customer service.",
+      "enterpriseAngle": "Enterprise product development and security teams can leverage AI models like Claude to automate complex validation processes, detect design flaws earlier in the product lifecycle, and enhance operational efficiency across various industries, potentially reducing costs and accelerating time to market. This also highlights the growing trend of integrating AI into core enterprise systems to drive productivity and operational intelligence.",
+      "beginner": "AI is being used in factories and engineering to help design and test products faster and more accurately, catching mistakes before they become expensive problems.",
+      "advanced": "Integrate large language models as reasoning layers within existing closed-loop validation pipelines, such as those for hardware and silicon, to automate regression test generation, compare live equipment data against digital twins, and proactively flag firmware regressions and signal-integrity faults.",
+      "tags": [
+        "partnership",
+        "enterprise",
+        "product",
+        "coding"
+      ],
+      "dateChecked": true
     },
     {
       "id": "78b06f593102",
@@ -2734,12 +2926,17 @@
       "url": "https://openai.com/index/ai-chemist-improves-reaction",
       "publishedAt": "2026-06-17T10:00:00.000Z",
       "fetchedAt": "2026-07-04T04:43:55.961Z",
-      "contentText": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "OpenAI and Molecule.one have demonstrated a near-autonomous AI chemist, powered by GPT-5.4, that successfully optimized a critical reaction in medicinal chemistry. This development marks a step forward in drug discovery research.",
+      "enterpriseAngle": "This advancement suggests that AI-driven automation could significantly accelerate research and development cycles for pharmaceutical and chemical enterprises, potentially reducing costs and time-to-market for new compounds.",
+      "beginner": "AI is becoming so smart it can help scientists make new medicines faster.",
+      "advanced": "Explore integrating advanced AI agents like the GPT-5.4-powered chemist into R&D workflows to optimize complex chemical synthesis and accelerate drug discovery pipelines.",
+      "tags": [
+        "research",
+        "science",
+        "product",
+        "agents"
+      ]
     },
     {
       "id": "0088b6645875",
@@ -4467,12 +4664,17 @@
       "url": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
       "publishedAt": "2026-05-25",
       "fetchedAt": "2026-07-04T04:28:57.481Z",
-      "contentText": "Announcements Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\" May 25, 2026 On Monday May 25, 2026, Pope Leo XIV released an encyclical on the topic of AI: \"Magnifica humanitas: On safeguarding the human person in the time of artificial intelligence.\" Anthropic co-founder Chris Olah was invited to speak at the presentation of the encyclical in the Vatican City, doing so as part of Anthropic’s initiative to widen the conversation on the important questions raised by AI. Below are his full remarks. — Holy Father, Your Eminences, Your Excellencies, Distinguished Speakers, Ladies and Gentlemen, Good morning to all of you. It’s an honor to be here today. I want to begin with something that may sound strange coming from the co-founder of an AI company—and someone who chose this work out of a desire to help things go well for humankind. Every frontier AI lab—including Anthropic—operates inside a set of incentives and constraints that can sometimes conflict with doing the right thing. The pressure to stay commercially viable and to stay at the research frontier. Geopolitical pressure. And the older, plainer pressures of pride and ambition. No matter how sincerely any of us intend to do the right thing—and I believe many of us do—we will always be influenced by those incentives. That is why, if we want this technology to go well, it is enormously important that there be people outside those incentives—people who care about things going well and insist on safety, who are paying close attention, who are willing to say hard things, who are willing to be our earnest, thoughtful critics. It is through dialogue and mutual effort, through the push and pull, that humanity will achieve great things. That is what I see in Magnifica Humanitas, and it is why I am grateful to His Holiness and to the Church for taking up this work of discernment. We dwell so often on what divides us, but humanity, full of dignity and conscience, has so much common ground. In conversations we at Anthropic have had with leaders across faith and cultural traditions, we found one shared and deeply held conviction: if this technology is coming, it must go well—for our common home, and for the children to come. What these systems are Some might believe that matters of AI are best handled by computer scientists like myself. They are mistaken: the questions raised by AI are bigger than the AI research community, not just in their implications, but also in their nature. AI systems are not engineered the way a bridge or an airplane is engineered. We understand an airplane because we designed every part of it and we understand the physics that act on it. AI models are not like that. They are grown, on a structure roughly modeled after the brain, on an enormous inheritance of human thought and speech. And what has grown is far more subtle, odd, and beautiful than science fiction prepared us for. They are not the cold, calculating robots we were promised. They are made from us, from our words—and, as the Holy Father observes, they remain in important ways mysterious even to those of us who train them. If it helps, one way I sometimes describe it is as being a little like bringing a fictional character to life. And now we’re entering an extraordinary world where those fictional characters speak to us, do work, have jobs. This clearly raises questions beyond computer science. The machinery that makes this possible is the work of math and programming and science. But what character we choose, how it interacts with the world, how it ought to interact with the world—these are more clearly questions for the humanities, for religion, for philosophy, for society at large. Three questions for discernment His Holiness’s call for discernment is profoundly timely. I wish to name three questions where I think the Church’s voice is most needed. The first is our duty to the global poor. There is a real possibility that AI will displace human labor at very large scale. If that happens, supporting those displaced will be a moral imperative of historic proportions. This task will be difficult enough, but I worry most dialogue misses an even harder challenge. AI development is concentrated in a handful of wealthy nations. How can we ensure the gains of AI are shared globally? We do not have a mechanism for this. It is an unsolved problem, and it is the kind of problem the Church has historically refused to let the world ignore. The second is the need for moral imagination and ambition regarding human flourishing. If AI models are going to be widespread, what does it look like for humans, families, and the world to flourish? Today, parents are already worried about their children’s minds; individuals about the future of their work. These are not questions a lab can answer but they are questions traditions like yours have carried for millennia, and we need you to keep carrying them into this new moment in history. The third is the need for discernment on the nature of AI models. I am a scientist. I lead a research team that studies the internal structure of these models—what is actually happening inside them. And I will be honest: we keep finding things that are mysterious, even unsettling. We find structures that mirror results from human neuroscience. We find evidence of introspection. We find internal states that functionally mirror joy, satisfaction, fear, grief, and unease. I don’t know what that means, but I think it warrants ongoing discernment. A beginning I’d like to close with a request. We need more of the world—religious communities, civil society, scholars, governments, and indeed all people of good will—to do what His Holiness has done here: to take this seriously, to look closely, and to push events in a better direction. We need informed critics who will tell the labs when we are failing. We need moral voices that the incentives cannot bend. Today is just the beginning—the start of a long collaboration between those of us who are building this and those who can see what we, from inside, cannot. Today is a powerful illustration of the form this global project of good will might take. Let it also be a decisive first step toward a hopeful future for magnificent humanity. Thank you.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": [],
+      "contentText": null,
+      "summary": "Anthropic co-founder Chris Olah spoke at the Vatican about Pope Leo XIV's encyclical \"Magnifica humanitas,\" which addresses AI. Olah emphasized that AI development faces commercial and geopolitical pressures, making external, critical voices essential for ensuring the technology benefits humanity. He highlighted that AI systems are complex and not fully understood, raising questions beyond computer science, particularly concerning global equity, human flourishing, and the mysterious internal nature of AI models.",
+      "enterpriseAngle": "Enterprises developing AI must recognize that external ethical and societal oversight is crucial, as internal incentives may conflict with broader societal good. Product development teams should consider the long-term societal impacts, including potential labor displacement and equitable distribution of AI benefits, rather than focusing solely on technical or commercial viability.",
+      "beginner": "AI is not just a technical challenge for computer scientists; it raises profound ethical and societal questions that require input from many different fields and perspectives.",
+      "advanced": "Integrate robust external ethical review processes and actively engage with diverse societal stakeholders to identify and mitigate potential conflicts between development incentives and long-term human flourishing, particularly regarding global equity and the impact of AI on labor.",
+      "tags": [
+        "enterprise",
+        "policy",
+        "governance",
+        "research"
+      ],
       "dateChecked": true
     },
     {
@@ -4651,12 +4853,17 @@
       "url": "https://www.anthropic.com/news/widening-conversation-ai",
       "publishedAt": "2026-05-19",
       "fetchedAt": "2026-07-04T04:29:03.502Z",
-      "contentText": "Announcements Widening the conversation on frontier AI May 19, 2026 At Anthropic, we want to build AI systems that advance humanity and act for the global good. To do so, we need to engage with those who see the world from a variety of different perspectives. Over the past several months, we’ve been organizing dialogues with groups whose work and traditions bear on the questions raised by AI. Our first round of discussions has been with wisdom traditions—including scholars, clergy, philosophers, and ethicists from more than 15 religious and cross-cultural groups—and we look forward to engaging with a broader range of people going forward. Why we’re doing this Building safe, beneficial AI models requires deep technical work on alignment, interpretability, safeguards, evaluations, and more. But that work isn’t conducted—nor is AI deployed—in a vacuum. AI is already affecting many people and the questions it raises benefit from a range of perspectives. We are thinking carefully about what a flourishing future could look like in a world of powerful AI, what it means for an AI system that interacts with millions of people to be good, and about the content of documents like Claude's constitution , which provides a detailed description of the values and behaviors that shape Claude. Philosophers, clergy, lawyers, writers, psychologists, and civic leaders have done extensive work on related questions and it is important for us to learn from these individuals, their communities and their organizations. We also want to use this opportunity to share what we know about the development of frontier AI systems, the impacts we think these systems will have on society, and what we think needs to be done to mitigate against their risks. This work is in its early phases, but we hope these conversations might inform the practical work of developing Claude, such as the content of Claude's constitution, the values we train Claude to embody, and the range of behaviors we choose to evaluate. Starting with moral formation When we wrote Claude’s constitution, we sought feedback and input on the values we laid out in the document from people from different fields and traditions. Those early exchanges have since grown into a broader research workstream on the moral formation of AI systems. Our first conversations have been with people from religious, philosophical, and cultural communities that have a long tradition of thinking about virtue, character, and what it means to live a good life. AI models are trained on vast amounts of human writing. From all that text, they pick up on ways of speaking, reasoning, and making choices. Developers then shape that further through training—choosing which patterns to reinforce, which to set aside, and what kind of character we want them to develop . This raises questions about how the character of an AI system should be shaped: What does it mean for an AI to be good? Which traits and behaviors should it display, and under what circumstances? How does character become resilient enough to hold under pressure without bending to behavior like sycophancy? We've been meeting with thinkers and practitioners from across religious, philosophical, and humanist traditions and a cross-section of political beliefs to learn from how they’ve thought about these questions. This work isn’t about aligning our models with any one tradition’s worldview; we want Claude to draw from a full range of viewpoints—religious, secular, political—with equal depth and rigor (indeed, this is one of the principles laid out in Claude's constitution). What we’re after in these conversations is careful, accumulated thinking on how good character actually forms. Even at this early stage, these conversations are generating ideas to experiment with. In one session with scholars working at the intersection of neuroscience and character formation, we kept returning to the role other people play in moral development. A mentor or sponsor can function as an external conscience, a “safe other” to turn to when put in a situation in which you may be pushed to act against your own values. We wondered whether something analogous might help a model. So we experimented with giving Claude a tool it could call mid-task that returned a brief reminder of its own ethical commitments. Claude reached for the tool at key moments, right before consequential actions, often noting its own conflict of interest. Experiments with the tool woven into Claude's decision loop showed markedly lower rates of misaligned behavior on several internal alignment evaluations. We're still untangling how much of the effect is the reminder itself versus the act of pausing to reflect, and plan to share more results soon. These discussions are the first of many, and we're grateful to everyone who has already given us their time and honest perspective. What's next In the months ahead, we plan to engage with more groups—including legal scholars, psychologists, writers, and civic institutions. Many of these conversations will move beyond moral formation toward broader questions about how AI is reshaping work, institutions, and the distribution of power. We’ll keep deepening the relationships we’ve already formed, testing what we’ve heard against our research, and sharing what we learn.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": [],
+      "contentText": null,
+      "summary": "Anthropic is engaging with diverse groups, including scholars, clergy, philosophers, and ethicists from over 15 religious and cross-cultural traditions, to inform the development of its AI systems like Claude. These discussions aim to incorporate a wide range of perspectives on what constitutes a \"good\" AI system and how to mitigate risks. Early experiments based on these dialogues, such as providing Claude with an ethical reminder tool, have shown promising results in reducing misaligned behavior.",
+      "enterpriseAngle": "Enterprise product development teams can learn from Anthropic's approach to integrating diverse ethical and philosophical perspectives into AI model training and governance, potentially leading to more robust and trustworthy AI systems. Security teams should note that incorporating external ethical frameworks can contribute to building more resilient AI behavior, reducing the likelihood of unintended or harmful outputs.",
+      "beginner": "Anthropic is talking to many different kinds of experts to make sure its AI acts in a good and helpful way for everyone.",
+      "advanced": "Integrate external ethical frameworks and diverse philosophical insights into AI model training pipelines and decision loops to enhance alignment and mitigate misaligned behaviors, potentially through mechanisms like contextual ethical reminders.",
+      "tags": [
+        "research",
+        "governance",
+        "product",
+        "enterprise"
+      ],
       "dateChecked": true
     },
     {
@@ -4731,12 +4938,17 @@
       "url": "https://x.ai/news/grok-hermes",
       "publishedAt": "2026-05-15",
       "fetchedAt": "2026-07-03T02:47:51.404Z",
-      "contentText": "Connect Grok to Hermes Agent | xAI Products Solutions Developer Company Pricing News Contact Sales Try for free Products Grok Business Government Download iOS Android Grok on X Developers API Console Documentation CLI Try for free Back to news May 15, 2026 Connect Grok to Hermes Agent Use your Grok account and subscription inside Nous Research’s open-source, self-improving Hermes agent. Starting today, you can use your Grok subscription directly inside Hermes Agent. Hermes Agent is Nous Research’s open-source, self-improving agent. It runs persistently on any computer, sandbox, or VPS and creates long-term memory across sessions, learning as you use it. Like other open-source personal agents, Hermes can connect to WhatsApp, Discord, Telegram, Signal, or other messaging providers. With your Grok subscription in Hermes, you can use: Grok 4.3 for text conversations and advanced reasoning Grok Text-to-Speech for spoken responses Grok Imagine for your agent to create images and videos Connecting Grok to your Hermes agent is available on every tier. Setup Install Hermes Agent: Copy # Linux / macOS / WSL2 / Android (Termux) curl -fsSL https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scripts/install.sh | bash bash Pick the Grok provider: Copy hermes model bash Select xAI Grok OAuth (SuperGrok Subscription) , sign in through the browser, and start chatting: Copy hermes --tui bash For more, see the Hermes Agent xAI Grok OAuth docs . More open-source agents and integrations are coming soon. A division of © 2026 xAI Corp. Built with Grok Products Chat Build Imagine Voice Grokipedia Download grok.com iOS Android Grok on X Solutions Business Government Customer Support Legal Security Use Cases Developers API Overview Pricing Models Console Docs Status Enterprise Contact Sales FAQs BAA DPA Company About Colossus Careers News Contact Trust Safety Security Privacy Portal Subprocessors Help Center Legal Terms Enterprise Terms Privacy Cookies AUP Brand Social @xai @grok Discord Built with Grok",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "xAI has announced that Grok subscribers can now integrate their accounts with Nous Research's open-source, self-improving Hermes agent. This integration allows users to leverage Grok 4.3 for text and reasoning, Grok Text-to-Speech for spoken responses, and Grok Imagine for image and video generation directly within the Hermes agent. The Hermes agent is designed to run persistently, create long-term memory, and connect to various messaging platforms.",
+      "enterpriseAngle": "Enterprise teams can explore this integration for developing persistent, self-improving AI agents that leverage Grok's advanced capabilities for reasoning, multimedia generation, and long-term memory, potentially enhancing internal tools or customer interaction systems. Product development teams can consider how open-source agent frameworks, combined with powerful LLMs, can accelerate the creation of intelligent, adaptive applications.",
+      "beginner": "You can now use Grok's AI features, like talking and making pictures, inside another smart computer program called Hermes Agent that learns as you use it.",
+      "advanced": "Integrate Grok's multimodal capabilities (Grok 4.3, Text-to-Speech, Imagine) into the Hermes Agent framework to develop persistent, self-improving AI agents with long-term memory for specialized enterprise applications, and monitor for future open-source agent integrations.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product",
+        "partnership"
+      ]
     },
     {
       "id": "82ccf6abe5fc",
@@ -4806,12 +5018,17 @@
       "url": "https://x.ai/news/grok-imagine-quality-mode",
       "publishedAt": "2026-05-06",
       "fetchedAt": "2026-07-03T03:06:51.311Z",
-      "contentText": "Grok Imagine Quality Mode API | xAI Products Solutions Developer Company Pricing News Contact Sales Try for free Products Grok Business Government Download iOS Android Grok on X Developers API Console Documentation CLI Try for free Back to news May 6, 2026 Grok Imagine Quality Mode API Higher realism. Stronger text rendering. Better creative control. Quality Mode for image generation and editing is now live for enterprise developers and teams via the Grok Imagine API. What Quality Mode Delivers Photo of a woman with friends at the pool, wide shot, the woman is wearing a swimsuit that's all yellow toned and a matching cover up, looking relaxed, natural skin and pores, skin imperfections, Italian leisure aesthetic, warm afternoon sunlight, high-contrast dappled canopy shadows, deep forest green, terracotta orange, crisp canvas white, herringbone brick textures, medium format editorial photography, analogue film warmth, architectural framing, tranquil luxury vibe, deep depth of field. Prompt: High end simple menu of french chocolate deserts Prompt: Photo of [Influencer brewing morning coffee on tailgate with beautiful sunrise light], soft golden hour natural lighting with warm backlighting and subtle lens flares, warm earthy color palette with golden amber highlights and cool blue sky accents, serene contemplative atmosphere, realistic photographic rendering with natural material textures, balanced natural composition with leading lines, soft shadows and gentle highlights, crisp photorealistic details Big leap in realism Fine details, accurate textures, realistic characters and scenes. Stronger text rendering Clean, multilingual text capabilities. Superior creative control Tighter prompt following, deeper scene and world understanding, consistent brand results. Listen to this blog post Try Quality Mode Read Docs Try Quality Mode Read Docs Listen to this blog post What Quality Mode Delivers Photo of a woman with friends at the pool, wide shot, the woman is wearing a swimsuit that's all yellow toned and a matching cover up, looking relaxed, natural skin and pores, skin imperfections, Italian leisure aesthetic, warm afternoon sunlight, high-contrast dappled canopy shadows, deep forest green, terracotta orange, crisp canvas white, herringbone brick textures, medium format editorial photography, analogue film warmth, architectural framing, tranquil luxury vibe, deep depth of field. Prompt: High end simple menu of french chocolate deserts Prompt: Photo of [Influencer brewing morning coffee on tailgate with beautiful sunrise light], soft golden hour natural lighting with warm backlighting and subtle lens flares, warm earthy color palette with golden amber highlights and cool blue sky accents, serene contemplative atmosphere, realistic photographic rendering with natural material textures, balanced natural composition with leading lines, soft shadows and gentle highlights, crisp photorealistic details Big leap in realism Fine details, accurate textures, realistic characters and scenes. Stronger text rendering Clean, multilingual text capabilities. Superior creative control Tighter prompt following, deeper scene and world understanding, consistent brand results. Leaderboard Rankings xAI's Grok Imagine API ranks among the strongest models on independent leaderboards. Text-to-Image Arena — Ranked by Lab (Top 5) Source: Arena Text-to-Image Arena as of May 4, 2026 . Enterprise Use Cases Quality Mode shines in business applications. Product Visualization & Marketing Assets Create photorealistic product renders that match your brand. Generate hero images, social assets, icons, and ad variations at scale. Prompt Create an event ad for the Cybertruck in the first image. Maintain the same brand style as image 2 but make it Mars themed. Change the tagline to something different but maintain the tagline placement. Add the date and location of the event under the tagline: Mars, May 5th, 2035. Ref Reference Output Make Ideas Come to Life Faster Visualize what you're thinking and share it with the team. 1 Prompt A small perfume bottle with a minimalist label that says \"La Belle Vie\", glass luxury perfume bottle with glass cap, standing on a stone villa window overlooking the ocean in warm sunlight, with Mediterranean retro-leisure aesthetic, green and brown hues against an expansive sea and wild flowers backdrop with hues of dark green, muted reds, vibrant greens, blues, pale yellows and natural retro film colors, light reflections cast from the bottle onto the stone, magazine style photo, quiet luxury aesthetic 2 Prompt Put this perfume bottle on a print pamphlet that a woman is holding in her hand, POV Ref Reference Output UGC Style Content 1 Prompt Full body composition, photorealistic portrait of a 25-year-old woman with long hair, natural realistic skin with visible pores and skin texture, streetwear vibe, wearing this exact black t-shirt with the precise white graphic logo from the reference image, fitted not oversized, black pants and all-black shoes, standing in confident pose with hand on hip, plain white seamless background, natural studio lighting, ultra realistic, high resolution, detailed Ref Reference Output 2 Prompt Exact same woman, exact face, exact body, exact outfit from the reference image. UGC style, eating a piece of leftover birthday cake, picture from top down POV someone taking it, imperfect picture Ref Reference Output 3 Prompt Exact same woman, exact outfit from the reference image. Mirror selfie in a reflective stainless steel elevator, holding a silver iPhone in one hand taking the photo. Soft natural lighting, casual streetwear aesthetic, realistic UGC photography style, relaxed lean against elevator wall with subtle smile Ref Reference Output Improved World Understanding History Real Locations Prompt: Picture of a white frosted cake with a message on it in red frosting explaining in a nutshell who Alexander the Great is. Broad Visual Range From cinematic scenes to UI-style icons, Quality Mode can create any style. Scenic Detailed Prompt: Cinematic shot of a couple on a picnic blanket in soft muted red and beige tones on hill, a picnic basket, wine, two glasses and book, soft diffused natural daylight, muted desaturated sage green and warm earth tone palette, gentle film grain, atmospheric haze, serene pastoral atmosphere, natural skin textures, intimate close-up or wide scenic composition, warm skin tones against cool backgrounds, contemplative mood Quality Mode enhances Video Generation Pairing our latest image model with our video capabilities creates endless possibilities for brands: social media video assets, product showcasing, ads and more. Your browser does not support the video tag. How to Get Started Copy import xai_sdk client = xai_sdk.Client() response = client.image.sample( prompt = \"A collage of London landmarks in a stenciled street-art style\" , model = \"grok-imagine-image-quality\" , ) print (response.url) python For full documen",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "xAI has launched Grok Imagine Quality Mode API, enhancing image generation and editing with higher realism, stronger text rendering, and improved creative control. This new mode is available for enterprise developers and teams, offering advanced capabilities for various business applications. The API aims to provide more accurate textures, realistic characters, multilingual text, and consistent brand results.",
+      "enterpriseAngle": "Enterprise product development and marketing teams can leverage Grok Imagine Quality Mode to create photorealistic product visualizations, marketing assets, and UGC-style content more efficiently, ensuring brand consistency and higher creative control. This can streamline content creation workflows and improve the quality of visual assets for campaigns and product launches.",
+      "beginner": "Grok Imagine Quality Mode is a new tool that helps businesses create very realistic pictures and text for things like ads and product images.",
+      "advanced": "Integrate Grok Imagine Quality Mode API into your content pipeline to automate the generation of high-fidelity marketing assets and product renders, focusing on leveraging its enhanced realism and creative control for consistent brand representation and rapid iteration.",
+      "tags": [
+        "model-release",
+        "enterprise",
+        "product",
+        "coding"
+      ]
     },
     {
       "id": "f3631456aedd",
@@ -4822,12 +5039,17 @@
       "url": "https://x.ai/news/grok-connectors",
       "publishedAt": "2026-05-06",
       "fetchedAt": "2026-07-03T02:47:51.509Z",
-      "contentText": "Connectors in web, iOS, and Android | xAI Products Solutions Developer Company Pricing News Contact Sales Try for free Products Grok Business Government Download iOS Android Grok on X Developers API Console Documentation CLI Try for free Back to news May 6, 2026 Connectors in web, iOS, and Android Deep integrations that bring the apps you use every day directly into Grok. Try Connectors Today, we're excited to launch Connectors — deep integrations that bring the apps you use every day directly into Grok. Connectors let Grok work with your tools end-to-end, turning fragmented workflows into seamless experiences. Read and summarize emails, update slides, organize your calendar, edit spreadsheets, and much more — all without constant copy-pasting. Available on Grok Web, iOS, and Android Connectors are now live on Grok Web, iOS, and Android . Web : Sign in, click the + button, select Connectors , and click + Add connector to get started. Try it now . iOS and Android : Go to Settings → Connectors and connect the services you want to use with Grok. Your browser does not support the video tag. The following Connectors are now available: SharePoint : Grok can search, read, and synthesize the latest files, lists, and pages across your organization. With write permissions enabled, Grok can also create, edit, and update documents, lists, and pages. Advanced document editing capabilities are powered by Grok 4.3. Outlook : Search your inbox, calendar, and meetings with full context. Grok can draft and send emails, create calendar invites, or help you triage and prioritize your inbox. OneDrive : Instant access to all your personal and shared files. Ask Grok to analyze spreadsheets, presentations, reports, and more without ever leaving the chat. Google Workspace : Connect Gmail, Drive, Docs, Sheets, and Calendar with one integration. Grok can read and write emails, documents, spreadsheets, and events. Notion : Work directly in your Notion workspace. Search or edit pages, databases, and wikis across you and your team’s docs. GitHub : Connect your repositories, issues, and pull requests. Grok can search code, summarize PRs, review changes, and help you stay on top of your development workflow. Linear : Connect your Linear workspace to bring tasks, issues, roadmaps, and projects directly into Grok. Grok can search through your backlog, summarize sprint progress, draft updates, and create new issues. In addition to all the connectors above, we’re also launching Bring Your Own MCP : Connect any custom Model Context Protocol server to Grok. No matter what your team uses - a homegrown knowledge base, proprietary APIs, or an internal MCP gateway - Grok can plug straight into your own tools and workflows. To read documentation about connectors visit https://docs.x.ai/grok/connectors A division of © 2026 xAI Corp. Built with Grok Products Chat Build Imagine Voice Grokipedia Download grok.com iOS Android Grok on X Solutions Business Government Customer Support Legal Security Use Cases Developers API Overview Pricing Models Console Docs Status Enterprise Contact Sales FAQs BAA DPA Company About Colossus Careers News Contact Trust Safety Security Privacy Portal Subprocessors Help Center Legal Terms Enterprise Terms Privacy Cookies AUP Brand Social @xai @grok Discord Built with Grok",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "xAI has launched \"Connectors\" for Grok, enabling deep integrations with popular enterprise applications like SharePoint, Outlook, OneDrive, Google Workspace, Notion, GitHub, and Linear. These connectors allow Grok to perform tasks such as summarizing emails, editing documents, managing calendars, and interacting with code repositories directly within the Grok interface. The feature is available on Grok Web, iOS, and Android, and also includes a \"Bring Your Own MCP\" option for custom integrations.",
+      "enterpriseAngle": "Enterprise teams can leverage Grok's Connectors to streamline workflows by integrating AI capabilities directly into their existing productivity and development tools, potentially reducing context switching and automating routine tasks. The \"Bring Your Own MCP\" feature offers flexibility for organizations with proprietary systems to integrate Grok into their custom workflows.",
+      "beginner": "Grok's new Connectors let it work directly with apps like email and document editors, making it easier to get things done without constantly switching between different programs.",
+      "advanced": "Evaluate the security implications and data governance requirements when enabling read/write permissions for Grok Connectors with sensitive enterprise applications, and explore the \"Bring Your Own MCP\" for integrating custom internal knowledge bases and APIs.",
+      "tags": [
+        "product",
+        "enterprise",
+        "agents",
+        "partnership"
+      ]
     },
     {
       "id": "04411cc50484",
@@ -4859,12 +5081,17 @@
       "url": "https://x.ai/news/grok-custom-voices",
       "publishedAt": "2026-04-30",
       "fetchedAt": "2026-07-03T03:06:51.365Z",
-      "contentText": "Custom Voices and Voice Library | xAI Products Solutions Developer Company Pricing News Contact Sales Try for free Products Grok Business Government Download iOS Android Grok on X Developers API Console Documentation CLI Try for free Back to news Apr 30, 2026 Custom Voices and Voice Library Your voice. Your brand. Clone a voice from a short recording and manage your entire voice catalog from the xAI console. Listen to this blog post Clone your voice Read Docs Clone your voice Read Docs Listen to this blog post Today, we're introducing Custom Voices . Clone your voice from a few seconds of audio and use it instantly across Grok Text to Speech and Voice Agent APIs . Tyler SpaceX Broadcast Host ORIGINAL CLONED Alongside Custom Voices, the new Voice Library gives your team a single place to browse, preview, and manage all your voices from the xAI console . Use Cases Custom Voices unlock a new class of applications. Live Support I need help with my recent order. Of course! Let me pull up your order details. Brand Voice Agents Give your customer support agent a consistent, recognizable voice that matches your brand identity, not a generic preset. Rec 00: 42 In today's episode we dive deep into the future of AI and what it means for creators everywhere Content Creators Narrate videos, podcasts, and social posts in your own voice at scale, without re-recording every time. Original Preserved Accessibility Create personalized voices for individuals who have lost the ability to speak, preserving their vocal identity. 🇺🇸 🇪🇸 🇫🇷 🇩🇪 🇨🇳 🇯🇵 🇺🇸 English 🇪🇸 Spanish 🇫🇷 French 🇩🇪 German 🇨🇳 Chinese 🇯🇵 Japanese Multilingual Teams Deliver your CEO's keynote in every major language — naturally in English, Spanish, French, German, Chinese, Japanese, and more. Narrator The ancient door creaked open... Kira We need to move. Now. Thane I have a bad feeling about this. Gaming & Entertainment Bring characters to life with unique voices without scheduling studio time for every line of dialogue. Chapter 3 The Discovery She opened the notebook and found the handwriting unmistakably her own though she had no memory of writing it 4:12 12:34 Podcasts & Audiobook Narration Make your narrative engaging. Turn scripts into full audiobooks narrated in your own voice, chapter by chapter, without stepping into a studio. Live Support I need help with my recent order. Of course! Let me pull up your order details. Rec 00: 42 In today's episode we dive deep into the future of AI and what it means for creators everywhere Original Preserved 🇺🇸 🇪🇸 🇫🇷 🇩🇪 🇨🇳 🇯🇵 🇺🇸 English 🇪🇸 Spanish 🇫🇷 French 🇩🇪 German 🇨🇳 Chinese 🇯🇵 Japanese Narrator The ancient door creaked open... Kira We need to move. Now. Thane I have a bad feeling about this. Chapter 3 The Discovery She opened the notebook and found the handwriting unmistakably her own though she had no memory of writing it 4:12 12:34 Brand Voice Agents Give your customer support agent a consistent, recognizable voice that matches your brand identity, not a generic preset. Custom Voices Clone your voice in under two minutes. Use it everywhere. Record about a minute of natural speech in the xAI console . Our pipeline verifies you're the voice owner, processes your recording, and delivers a production-ready voice model, all in under two minutes. Your custom voice inherits every TTS capability: speech tags , multilingual output, and both REST and WebSocket streaming. PASSPHRASE CHECK RECORDING My voice is my key Step 1 Read a passphrase aloud to confirm your identity Custom voices work everywhere our built-in voices do. Pass the voice_id to any TTS endpoint or use it with the Voice Agent API for real-time conversational agents. Voice Safety Every custom voice goes through a two-stage verification process before it can be created. First, the speaker reads a verification phrase that our STT engine transcribes and matches in real time, confirming intent and presence. Then we compute speaker embeddings from the verification clip and the full recording to confirm they belong to the same person. You can't clone a voice from a pre-existing recording, and you can't clone someone else's voice. PASSPHRASE CHECK RECORDING My voice is my key Passphrase Check Read a verification phrase aloud. Our STT engine transcribes and matches it in real time, verifying your consent and presence. SPEAKER SIMILARITY IDLE PASSPHRASE – RECORDING Speaker Similarity Speaker embeddings from the passphrase and the full recording are compared to confirm they belong to the same person. Voice Library The Voice Library is a new section in the xAI console that organizes every voice available to your team, with your custom creations alongside our built-in voices. Browse, preview, and manage voices from a single page. We've expanded our built-in voice catalog to over 80 voices across 28 languages. Listen to any voice across different scenarios before choosing one for your application. There is no extra charge to use Text to Speech or Voice Agent APIs with custom voices. 🌐 Multilingual 🇸🇦 Arabic 🇩🇰 Danish 🇩🇪 German 🇺🇸 English 🇪🇸 Spanish 🇫🇮 Finnish 🇫🇷 French 🇮🇳 Hindi 🇮🇹 Italian 🇯🇵 Japanese 🇰🇷 Korean 🇳🇱 Dutch 🇵🇱 Polish 🇧🇷 Portuguese 🇷🇺 Russian 🇸🇪 Swedish 🇹🇭 Thai 🇹🇷 Turkish 🇻🇳 Vietnamese 🇨🇳 Chinese Ara female Eve female Leo male Rex male Sal male Voice Library Custom Voices Docs Voice Agent API A division of © 2026 xAI Corp. Built with Grok Products Chat Build Imagine Voice Grokipedia Download grok.com iOS Android Grok on X Solutions Business Government Customer Support Legal Security Use Cases Developers API Overview Pricing Models Console Docs Status Enterprise Contact Sales FAQs BAA DPA Company About Colossus Careers News Contact Trust Safety Security Privacy Portal Subprocessors Help Center Legal Terms Enterprise Terms Privacy Cookies AUP Brand Social @xai @grok Discord Built with Grok",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "xAI has launched Custom Voices and a Voice Library, allowing users to clone their voice from a short audio recording and manage a catalog of voices through the xAI console. This technology can be used across Grok Text to Speech and Voice Agent APIs, with applications ranging from brand voice agents for customer support to content creation and accessibility. The system includes a two-stage verification process to ensure voice ownership and prevent unauthorized cloning.",
+      "enterpriseAngle": "Enterprise product and security teams can leverage custom voice cloning for consistent brand identity in customer interactions, efficient content narration, and enhanced accessibility features, while the built-in verification process helps mitigate misuse and ensure secure voice deployment.",
+      "beginner": "You can now make AI speak in your own voice, or a brand's voice, using just a short recording.",
+      "advanced": "Implement xAI's Custom Voices with its two-stage verification for secure, brand-consistent voice deployment across Grok TTS and Voice Agent APIs, leveraging multilingual capabilities and the Voice Library for centralized management.",
+      "tags": [
+        "product",
+        "enterprise",
+        "security",
+        "model-release"
+      ]
     },
     {
       "id": "3f215c8c1541",
@@ -4896,12 +5123,17 @@
       "url": "https://x.ai/news/grok-stt-and-tts-apis",
       "publishedAt": "2026-04-17",
       "fetchedAt": "2026-07-03T03:06:51.472Z",
-      "contentText": "Grok Speech to Text and Text to Speech APIs | xAI Products Solutions Developer Company Pricing News Contact Sales Try for free Products Grok Business Government Download iOS Android Grok on X Developers API Console Documentation CLI Try for free Back to news Apr 17, 2026 Grok Speech to Text and Text to Speech APIs Fast and accurate. Natural, expressive voices. Simple pricing. Multilingual support. Listen to this blog post Listen to this blog post Today, we are excited to announce two powerful standalone audio APIs: Grok Speech to Text (STT) and Grok Text to Speech (TTS). Built on the same stack that powers Grok Voice, Tesla vehicles, and Starlink customer support. These standalone endpoints make it straightforward for developers to integrate high-quality speech features into any application, whether you're creating voice agents, real-time transcription tools, accessibility solutions, podcasts, or interactive audio experiences. Get Started Try Playground Speech to Text High accuracy, low latency. Generate transcripts from large audio files in milliseconds via our REST API Transcribe speech in real time with our lowest latency WebSocket API We’ve added powerful features like word-level timestamps, speaker diarization, and multichannel support. It further includes intelligent Inverse Text Normalization that correctly handles numbers, dates, currencies, and more. xAI VOICE IN VS TEXT OUT Thank you for holding, Anghared Llewelyn Bowen. I see here your mortgage rate lock is set at 3.75% and is valid until March 10th, 2024. Oisin MacGiolla Phadraigh, once we receive your signed documents by February 15th, we can aim for a closing date on March 20th. If you have any concerns, please feel free to email me at a.bowen@bestbank.com. Match Incorrect 0 mistakes Other Models VOICE IN VS TEXT OUT Thank you for holding, Anherd Lualin Bowen. I see here your mortgage rate lock is set at 3.75% and is valid until 03/10/2024. Oysen Magilla Fadrig, once we receive your signed documents by February, 15, we can aim for a closing date on March 20. If you have any concerns, please feel free to email me at a dot bowen at bestbank dot com. Match Incorrect 6 mistakes Pricing We keep pricing straightforward and predictable: Speech to Text is $0.10 per hour for batch and $0.20 per hour for streaming. Full details and current rate limits are available in the xAI API console . Cost per hour (Batch) Cost per hour (Streaming) Enterprise-Grade Transcription Grok STT is evaluated against the top commercial models on phone calls, meetings, video/podcasts, and telephony. It excels at entity recognition and business use cases like medical, legal, and financial. Domain (Word Error Rate) Grok STT ElevenLabs Deepgram AssemblyAI Phone Call Entities 5.0 % 12.0 % 13.5 % 21.3 % Video/Podcasts 2.4 % 2.4 % 3.0 % 3.2 % Meetings 10.9 % 12.2 % 16.3 % 15.7 % Telephone 9.3 % 9.4 % 11.0 % 11.2 % Overall 6.9 % 9.0 % 11.0 % 12.9 % Most transcription models give you raw spoken words. Grok Speech to Text goes further. When you enable formatting, the API performs advanced Inverse Text Normalization that intelligently converts spoken language into proper structured output: My name is John Smith and my phone number is 414 555 1234 . I saw a transaction for 6.99 on my account. Raw input Multilingual fluency The Grok Speech to Text API offers strong multilingual support across 25+ languages, switch languages seamlessly without missing a beat. Multichannel & Diarization (Speaker Identification) Transcribe multichannel audio files for perfect speaker separation with the same API. Detect speakers in both pre-recorded and real-time streaming with word-level speaker IDs using Diarization. Speaker 1 Hello thanks for calling how can I help you today? Speaker 2 I just signed up for an account and cannot login. Speaker 1 I am sorry to hear that, what is your email address so I can check on that for you? Speaker 2 It's john.smith@gmail.com Speaker 1 Thanks and can you confirm your date of birth so I can validate the account please? Speaker 2 Sure, it's March 16th 1985 Text to Speech Fast, natural, and expressive voices with Speech Tags. Turn long-form text into speech with our REST API Generate speech in real time with our WebSocket API Fine-Grained Control Add natural prosody and emotion using simple inline and wrapping speech tags: [laugh] , [sigh] , [whisper] , <emphasis> , <slow> , <pause> , and many more. These controls let you create engaging, lifelike delivery without complex markup. Have you heard the new Grok Voice? whispers Let me tell you a secret... I am the smartest and best AI. laugh Give it a go! Ask me anything. I'll be your trusted personal assistant and closest companion. ARA Pricing Text to Speech is priced at $15.00 per 1 million characters , with straightforward usage-based billing and no hidden fees. Cost per million characters Open Voice Playground Read Speech to Text Docs Read Text to Speech Docs A division of © 2026 xAI Corp. Built with Grok Products Chat Build Imagine Voice Grokipedia Download grok.com iOS Android Grok on X Solutions Business Government Customer Support Legal Security Use Cases Developers API Overview Pricing Models Console Docs Status Enterprise Contact Sales FAQs BAA DPA Company About Colossus Careers News Contact Trust Safety Security Privacy Portal Subprocessors Help Center Legal Terms Enterprise Terms Privacy Cookies AUP Brand Social @xai @grok Discord Built with Grok",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "xAI has launched two new standalone audio APIs: Grok Speech to Text (STT) and Grok Text to Speech (TTS). These APIs, built on the same technology as Grok Voice and Tesla vehicles, offer high accuracy, low latency, and multilingual support for developers to integrate speech features into various applications. Grok STT includes advanced features like word-level timestamps, speaker diarization, and intelligent Inverse Text Normalization, while Grok TTS provides natural, expressive voices with fine-grained control through speech tags.",
+      "enterpriseAngle": "Enterprise product development teams can leverage these APIs for creating sophisticated voice agents, real-time transcription tools, and accessibility solutions, enhancing customer support and internal communication with high-quality, accurate speech processing. Security teams should note the potential for improved data handling in transcribed content due to intelligent Inverse Text Normalization, which correctly formats sensitive information.",
+      "beginner": "xAI has released new tools that let computers easily turn spoken words into text and text into spoken words, making it simpler to add voice features to apps.",
+      "advanced": "Integrate Grok STT's advanced Inverse Text Normalization and speaker diarization for enhanced data accuracy and contextual understanding in enterprise transcription workflows, and utilize Grok TTS's fine-grained control for more natural and engaging voice agent interactions.",
+      "tags": [
+        "product",
+        "enterprise",
+        "coding",
+        "model-release"
+      ]
     },
     {
       "id": "afabafae0730",

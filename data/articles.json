@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-07-11T14:36:26.830Z",
+  "updatedAt": "2026-07-11T22:03:47.591Z",
   "articles": [
+    {
+      "id": "5f92d55c125d",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "publishedAt": "2026-07-11T14:13:00.000Z",
+      "fetchedAt": "2026-07-11T21:56:36.390Z",
+      "contentText": null,
+      "summary": "OpenAI is expanding its focus beyond individual users to families, caregivers, and older adults by hiring a product manager to build family-centric experiences. This move reflects a broadening user base for ChatGPT, with a growing percentage of users aged 35 and older, and a significant increase in usage among parents. The shift also highlights the need for enhanced trust and safety features, particularly for younger users, as AI becomes more integrated into household life.",
+      "enterpriseAngle": "Enterprise product development teams should recognize the increasing demand for AI tools tailored to diverse user segments, including families, which necessitates a focus on age-appropriate design, robust content controls, and parental oversight features. Security teams must prioritize implementing stronger safeguards and privacy controls as AI products move into multi-user household environments, addressing potential vulnerabilities related to data sharing and child protection.",
+      "beginner": "As AI tools like ChatGPT become more common in homes, companies are starting to design them with families in mind, which means adding features that make them safer and more useful for everyone, including kids.",
+      "advanced": "To address the evolving consumer AI landscape, product leaders should proactively develop multi-generational user profiles, implement shared household memory features, and integrate advanced parental control and content moderation systems to ensure responsible AI adoption within family units.",
+      "tags": [
+        "product",
+        "consumer",
+        "governance",
+        "security"
+      ]
+    },
     {
       "id": "98d85122ab64",
       "source": "techcrunch-ai",
@@ -339,12 +360,16 @@
       "url": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
       "publishedAt": "2026-07-09T18:40:51.000Z",
       "fetchedAt": "2026-07-10T15:36:08.688Z",
-      "contentText": "While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until now, that's something Google only required election ads to disclose.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Google will now require advertisers to disclose when artificial intelligence has been used to create synthetic or digitally altered content in their ads. Previously, this disclosure was only mandated for election-related advertisements.",
+      "enterpriseAngle": "Enterprise marketing and legal teams must update their ad creation and review processes to ensure compliance with Google's new disclosure requirements for AI-generated content, avoiding potential penalties for non-disclosure.",
+      "beginner": "Google is making sure you know when an ad you see has parts made by AI.",
+      "advanced": "Implement automated content analysis tools to identify AI-generated elements in advertising creatives and integrate disclosure mechanisms into your ad publishing workflow to comply with Google's updated policy.",
+      "tags": [
+        "policy",
+        "product",
+        "governance"
+      ]
     },
     {
       "id": "2e788278eefd",
@@ -355,12 +380,17 @@
       "url": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
       "publishedAt": "2026-07-09T18:34:35.000Z",
       "fetchedAt": "2026-07-10T15:36:08.688Z",
-      "contentText": "In Brief Posted: 11:34 AM PDT · July 9, 2026 Image Credits: Carol Yepes / Getty Images Julie Bort Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia Gradium, a Paris-based startup that offers voice AI models, reopened its seed round to new investors, including Nvidia, and has now raised $100 million total for the round, it said Thursday . The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's leading AI ecosystem,\" as Gradium put it. Paris is a major European hub for AI, so this is an interesting acknowledgment of the benefits for AI startups to be close to Anthropic, Google, Meta, and OpenAI. Gradium originally launched out of stealth in December with $70 million from a roster of impressive investors, including FirstMark Capital, Eurazeo, DST Global Partners, Eric Schmidt, and French telecom billionaire Xavier Niel. The startup was spun out of French AI lab Kyutai (a lab backed by Niel). Both Kyutai and Gradium were co-founded by Neil Zeghidour, a researcher who previously worked at Google Brain, DeepMind, and Facebook. Gradium is working on audio models that deliver voice at scale with ultra-low latency, meaning AI voices that respond almost instantly, without that awkward pause that often creeps into AI agent conversations. The company has plenty of competition, though, from other voice AI startups like ElevenLabs, valued at $11 billion in February, to major model makers known for voice like Google's Gemini. But Gradium seems to be winning ground anyway. Since its December launch, Gradium says it has landed some big customers, including French auto manufacturer Renault . Topics AI , Gradium , In Brief , Kyutai , nvidia , Venture November 4 Boston Last chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world scaling insights and connections that move the needle. Savings end June 26, 11:59 p.m. PT . REGISTER NOW Newsletters See More Subscribe for the industry’s biggest tech news TechCrunch Daily News Every weekday and Sunday, you can get the best of TechCrunch’s coverage. TechCrunch Mobility TechCrunch Mobility is your destination for transportation news and insight. Startups Weekly Startups are the core of TechCrunch, so get our best coverage delivered weekly. StrictlyVC Provides movers and shakers with the info they need to start their day. No newsletters selected. Subscribe By submitting your email, you agree to our Terms and Privacy Notice . Related AI Fidji Simo steps down from OpenAI's No. 2 role Connie Loizos 2 days ago AI Elon Musk praises Mythos/Fable, promises not to ‘cut off' Anthropic Julie Bort 2 days ago AI Nvidia is a victim of the compute marketplace it created Russell Brandom 2 days ago Latest in Venture Venture Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat Sarah Perez 21 hours ago Startups Charles Hudson shares the common mistakes he’s seen after investing in 500+ startups Maggie Nye 2 days ago In Brief Mercor is in talks for a $20B valuation Dominic-Madori Davis 2 days ago",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Gradium, a Paris-based AI voice startup, has raised an additional $30 million, bringing its seed round total to $100 million, with new investment from Nvidia. The company plans to use the funding to open a Bay Area office and attract talent, aiming to enhance its ultra-low latency audio models for instant AI voice responses. Gradium, which spun out of the French AI lab Kyutai, has already secured major customers like Renault since its December launch.",
+      "enterpriseAngle": "Enterprise product development teams can leverage Gradium's ultra-low latency voice AI models to create more natural and responsive AI agent conversations, improving user experience and reducing awkward pauses. This technology could be particularly valuable for customer service, virtual assistants, and other interactive AI applications where real-time communication is critical.",
+      "beginner": "Gradium is an AI company that makes computer voices sound more natural and respond faster, like a real person talking.",
+      "advanced": "Evaluate Gradium's audio models for integration into real-time enterprise AI agent platforms to mitigate conversational latency and enhance user interaction fidelity.",
+      "tags": [
+        "funding",
+        "product",
+        "enterprise",
+        "model-release"
+      ]
     },
     {
       "id": "74bc3599582d",
@@ -456,12 +486,17 @@
       "url": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
       "publishedAt": "2026-07-09T17:17:37.000Z",
       "fetchedAt": "2026-07-10T22:11:49.232Z",
-      "contentText": "In a bid to lower its GPU costs amid an unprecedented component shortage, Meta is on track to start making the latest versions of its AI-specific chip in September, Reuters reported , citing an internal memo. At least one chip sailed through its testing phase in about six weeks, the memo said. Meta is working with Broadcom on the chip design, but it will use Taiwan Semiconductor Manufacturing Company (TSMC) to manufacture them. It is also buying RAM from Samsung, storage from Sandisk, and fiber-optic equipment from Sumitomo Electric, according to the report. Meta detailed the four new chips, developed under its Meta Training and Inference Accelerator (MTIA) program, in March, some of which are currently in deployment or will be this year or next. The company is taking a modular approach to designing these chips, anticipating that their needs will change as AI evolves rapidly by the time the chips are in production. \"Each MTIA generation builds on the last, using modular chiplets, incorporating the latest AI workload insights and hardware technologies, and deploying on a shorter cadence,\" the company wrote at the time. The chips are expected to help the company save on buying GPUs from chipmakers like Nvidia and AMD, although it still expects to spend plenty with those providers as well, Reuters reports. Meta intends to use the MTIA chips for training models for its ranking and recommendation algorithms, broader AI workloads, and inference aimed at its applications. The social media company has been producing its own AI chips since 2023 . Meta has been spending massively on securing enough compute capacity to power its various AI efforts. The company in April said it expects capital expenditures between $125 billion and $145 billion this year, a lot of which is going toward its AI efforts. The company has been striking data center and power deals across the world, spending tens of billions to secure computing capacity to train and deploy its new Muse Spark series of AI models. It plans to deploy 7 gigawatts of compute this year, and double that next, according to Reuters, which cited the memo. It also signed a deal with ARM last year to secure compute for its recommendation systems, in addition to a multibillion-dollar deal with AMD for its Instinct GPUs and a multibillion-dollar deal with Amazon to use the cloud giant's homegrown CPUs for AI-related needs. Meta isn't the only company trying to stem the tide of capital going to Nvidia. OpenAI last month unveiled an inference processor that it is building with Broadcom, and Anthropic is said to be considering developing its own chips with Samsung. Amazon and Google both develop their own chips for AI training and inference, and there's a host of startups building in the space to meet skyrocketing demand. Meta declined to comment. Topics AI , AI chips , ai infrastructure , GPUS , Hardware , Meta , semiconductors When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Ram Iyer Editor Ram is a financial and tech reporter and editor. He covered North American and European M&A, equity, regulatory news and debt markets at Reuters and Acuris Global, and has also written about travel, tourism, entertainment and books. You can contact or verify outreach from Ram by emailing ram.iyer@techcrunch.com . View Bio November 4 Boston Last chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world scaling insights and connections that move the needle. Savings end June 26, 11:59 p.m. PT . REGISTER NOW Most Popular OpenAI bets on families as ChatGPT goes deeper into households Jagmeet Singh US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals Zack Whittaker Phia accused of ‘cookie stuffing,' taking affiliate credit on purchases it didn't earn Dominic-Madori Davis Meta removes controversial AI feature on Instagram after backlash Lucas Ropek Bluesky's interim CEO, Toni Schneider, drops the ‘interim' Lucas Ropek Apple sues OpenAI over alleged trade secret theft Sarah Perez Open source AI matters more than ever, according to Hugging Face's Clem Delangue Rebecca Bellan Theresa Loconsolo",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Meta is set to begin production of its latest AI-specific chips, developed under the MTIA program, in September. These chips are designed to reduce reliance on external GPU providers like Nvidia and AMD, although Meta will continue to partner with them. The company is taking a modular approach to chip design, anticipating evolving AI needs, and plans to use these chips for training models for its ranking and recommendation algorithms, broader AI workloads, and inference for its applications.",
+      "enterpriseAngle": "Enterprises heavily investing in AI infrastructure, like Meta, are increasingly developing custom AI chips to optimize costs and performance for their specific workloads, signaling a strategic shift towards vertical integration in AI hardware. This trend could lead to more tailored and efficient AI solutions but also requires significant capital expenditure and internal expertise.",
+      "beginner": "Big tech companies like Meta are building their own specialized computer chips to make their AI systems run faster and cheaper.",
+      "advanced": "Evaluate the long-term cost-benefit of in-house AI chip development versus reliance on commercial GPU providers, considering the rapid evolution of AI workloads and the potential for modular chiplet architectures to offer greater adaptability.",
+      "tags": [
+        "hardware",
+        "infrastructure",
+        "enterprise",
+        "product"
+      ]
     },
     {
       "id": "22db00072fd4",
@@ -3666,12 +3701,16 @@
       "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
       "publishedAt": "2026-06-10T12:00:00.000Z",
       "fetchedAt": "2026-07-04T16:58:01.256Z",
-      "contentText": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims about ChatGPT.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "A new report from OpenAI indicates that influence operations linked to the People's Republic of China (PRC) are utilizing AI to target various U.S. discussions. These discussions include technology debates, narratives surrounding data centers, tariffs, and the dissemination of false information about ChatGPT.",
+      "enterpriseAngle": "Enterprise security teams should be aware of state-sponsored actors using AI for influence operations, which could impact public perception of their products and the broader tech landscape. Product development teams should consider how their AI systems might be misused in such campaigns and implement safeguards.",
+      "beginner": "Foreign groups are using AI to spread misinformation and influence discussions about technology in the U.S.",
+      "advanced": "Implement robust threat intelligence feeds and anomaly detection systems to identify and mitigate AI-powered influence operations targeting your organization's public perception and product narratives.",
+      "tags": [
+        "security",
+        "policy",
+        "governance"
+      ]
     },
     {
       "id": "2be94cf79940",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T22:03:47.591Z",
+  "updatedAt": "2026-07-12T14:49:15.604Z",
   "articles": [
     {
       "id": "5f92d55c125d",
@@ -507,12 +507,16 @@
       "url": "https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/",
       "publishedAt": "2026-07-09T17:06:11.000Z",
       "fetchedAt": "2026-07-11T14:24:56.393Z",
-      "contentText": "Having proven how valuable compute can be, the company finds itself at the center of a market everyone wants to be in — while simpler technologies and less interesting companies get rich on the sidelines.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Nvidia, after demonstrating the significant value of compute, is now at the heart of a highly competitive market. This situation allows other companies with simpler technologies to profit from the compute marketplace Nvidia helped establish.",
+      "enterpriseAngle": "Enterprises relying on Nvidia's compute infrastructure may face increased costs or supply chain complexities as competition intensifies. Product development teams should consider diversifying their compute strategies to mitigate potential vendor lock-in or market volatility.",
+      "beginner": "Nvidia made computer processing very important, and now many other companies are making money from that idea.",
+      "advanced": "Evaluate alternative compute providers and open-source hardware initiatives to diversify infrastructure and reduce dependency on a single vendor's market position.",
+      "tags": [
+        "enterprise",
+        "infrastructure",
+        "hardware"
+      ]
     },
     {
       "id": "c9a7e41ab886",
@@ -835,12 +839,17 @@
       "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
       "publishedAt": "2026-07-08T19:19:15.000Z",
       "fetchedAt": "2026-07-08T22:13:36.588Z",
-      "contentText": "Loading the player… Before OpenAI’s GPT-3 ushered in the era of foundation models, companies built specialized natural language processing models from scratch, training each on large amounts of task-specific data. Today, most organizations start with a general-purpose model like OpenAI's GPT series, Claude, or Llama and then fine-tune or prompt it to solve their specific needs. Pim de Witte, CEO of General Intuition , thinks embodied AI will follow a similar pattern. Rather than collecting huge real-world datasets to build specialized robot models, he argues the industry should focus on better quality datasets that can produce foundation models capable of transferring intuition about movement and interaction across many environments. “A lot of companies right now are doing lots of specialized work focused on individual embodiments, individual environments, and individual robots,” de Witte told TechCrunch on a recent episode of Equity . Much of that work will become redundant soon, he argues, with the emergence of general models like the one General Intuition has been developing and deploying. “The generalization of the model itself is the product,” he said. “The fact that it has a base level of reasoning about space and time is going to be the reason why people stop collecting hundreds of thousands or millions of hours of real-world data. Because the reality is, you only need a few minutes.” General Intuition built its own such foundation model after training on millions of hours of video game data, including information like what buttons on a controller a human pushed and when. Both de Witte and General Intuition’s lead investor, Vinod Khosla, argue the action data is the key to developing a human-like intuition for spatial-temporal reasoning. The startup last month raised $320 million at a $2.3 billion valuation on the back of that thesis. The company has demonstrated that its current model is capable of both playing a video game for hours and powering a quadrupedal robot — the latter after fine-tuning it on just eight minutes of real-world robotics data. “The fact that [the robot] was actually able to zero-shot on just the front camera, with no other sensors, in the office with dynamic objects being introduced and people walking by was a very big surprise to us,” de Witte says. “I think it’s a sign of what’s to come.” The end game for General Intuition isn’t to build robots itself, but to become the foundation model of physical AI, a base model for other robotics companies to build upon for their own machines. Or, as de Witte put it: “We’re not gonna build a self-driving car company. We’re gonna make it 10 times easier for the next person to build a self-driving car company.” Topics AI , Equity , general intuition , pim de witte , Robotics When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Rebecca Bellan Senior Reporter Rebecca Bellan is a senior reporter at TechCrunch where she covers the business, policy, and emerging trends shaping artificial intelligence. Her work has also appeared in Forbes, Bloomberg, The Atlantic, The Daily Beast, and other publications. You can contact or verify outreach from Rebecca by emailing rebecca.bellan@techcrunch.com or via encrypted message at rebeccabellan.491 on Signal. View Bio November 4 Boston Last chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world scaling insights and connections that move the needle. Savings end June 26, 11:59 p.m. PT . REGISTER NOW Most Popular If you use Google, you're training its AI. Here's how to opt out. Sarah Perez Reddit is using LLMs to solve a problem LLMs largely created Amanda Silberling Amazon will stop accepting new customers for Mechanical Turk Anthony Ha 5 desk gadgets that can make your workday better Aisha Malik Chevy built an all-American EV truck — why is nobody buying it? Tim De Chant Mark Zuckerberg tells staff that AI agents haven't progressed as quickly as he'd hoped Lucas Ropek Jersey Mike's IPO illustrates how bad the AI hype has become Julie Bort",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "General Intuition, a startup recently valued at $2.3 billion, believes that embodied AI and robotics are on the cusp of a \"ChatGPT moment\" with the emergence of foundation models. The company argues that instead of collecting vast amounts of real-world data for specialized robots, the industry should focus on high-quality datasets to create general models capable of transferring intuition across various environments. General Intuition has developed such a model by training it on millions of hours of video game data, demonstrating its ability to power a quadrupedal robot with only minutes of fine-tuning.",
+      "enterpriseAngle": "Enterprise product development teams in robotics can significantly reduce the time and resources needed to develop new robotic applications by leveraging general-purpose foundation models, rather than building specialized models from scratch. This shift could accelerate innovation and deployment of robots in diverse industrial settings, making it easier for companies to integrate advanced robotics into their operations.",
+      "beginner": "Just as general AI models like ChatGPT can be adapted for many text tasks, new general models are emerging that could make it much easier to teach robots to do many different physical tasks.",
+      "advanced": "Explore integrating foundation models for embodied AI into your robotics development pipeline to drastically reduce data collection and training time, focusing instead on fine-tuning with minimal real-world data for specific applications.",
+      "tags": [
+        "model-release",
+        "agents",
+        "enterprise",
+        "product"
+      ]
     },
     {
       "id": "127f2e6c5796",
@@ -851,12 +860,16 @@
       "url": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
       "publishedAt": "2026-07-08T18:30:08.000Z",
       "fetchedAt": "2026-07-08T22:13:36.588Z",
-      "contentText": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Google Photos has introduced a new \"Video Remix\" feature, powered by its Gemini Omni AI model, which allows users to edit and transform videos with various effects and styles in seconds. This tool aims to simplify video editing for consumers, enabling them to apply cinematic relighting, background swaps, and artistic filters directly within the app. The feature is rolling out to eligible Google AI Plus, Pro, and Ultra subscribers in select countries.",
+      "enterpriseAngle": "For enterprise product development teams, this highlights the increasing consumer expectation for advanced, easy-to-use generative AI capabilities integrated directly into existing applications, pushing for more sophisticated in-app editing and content creation tools. Security teams should note the implications of AI models handling user-generated video content, especially concerning data privacy and potential misuse of generated content.",
+      "beginner": "Google Photos now uses AI to help you easily edit your videos with cool effects, making them look professional without needing special skills.",
+      "advanced": "Evaluate the integration of multimodal AI models like Gemini Omni for on-device or cloud-based video processing to enhance user experience and reduce reliance on third-party tools, while ensuring robust data governance and content moderation frameworks.",
+      "tags": [
+        "product",
+        "consumer",
+        "model-release"
+      ]
     },
     {
       "id": "a5342c550d44",
@@ -867,12 +880,16 @@
       "url": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
       "publishedAt": "2026-07-08T17:47:55.000Z",
       "fetchedAt": "2026-07-08T22:13:36.588Z",
-      "contentText": "When it comes to achieving artificial general intelligence (AGI), large language models just don’t have what it takes. Models like ChatGPT and Claude are great at text, but they're less skilled at understanding how things actually move through space and time — an essential skill for producing intelligence that generalizes. That gap, it turns out, might be filled by gaming data. That's the bet behind General Intuition, a […]",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "A CEO believes that video game data could be more effective than internet data for training AI to achieve artificial general intelligence (AGI). This is because current large language models struggle with understanding movement in space and time, a skill that video games inherently provide. General Intuition is a company founded on this premise.",
+      "enterpriseAngle": "Enterprise product development teams should consider synthetic data from virtual environments like video games as a valuable resource for training AI models, especially for applications requiring spatial and temporal reasoning. This approach could lead to more robust and generalizable AI solutions.",
+      "beginner": "Training AI with video game data might help it understand how things move in the real world better than just reading text from the internet.",
+      "advanced": "Explore integrating synthetic data generation from gaming engines into your AI training pipelines to enhance spatial-temporal understanding in models aiming for generalizable intelligence.",
+      "tags": [
+        "research",
+        "product",
+        "learning"
+      ]
     },
     {
       "id": "9476dece600b",
@@ -883,12 +900,17 @@
       "url": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
       "publishedAt": "2026-07-08T17:11:18.000Z",
       "fetchedAt": "2026-07-08T22:13:36.588Z",
-      "contentText": "Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to expand how much personal data its AI products collect and use.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Meta is introducing a new safeguard to prevent surreptitious recording by its AI glasses. This update occurs while the company is simultaneously increasing the amount of personal data collected and utilized by its AI products.",
+      "enterpriseAngle": "Enterprise product development teams building AI-powered devices must balance user privacy safeguards with data collection strategies to avoid public perception issues and potential regulatory scrutiny.",
+      "beginner": "AI glasses are getting a new feature to stop secret recordings, but they are also collecting more of your personal information.",
+      "advanced": "Implement robust privacy-by-design principles and transparent data governance frameworks for AI-powered wearables to proactively address user trust and compliance challenges.",
+      "tags": [
+        "product",
+        "security",
+        "consumer",
+        "policy"
+      ]
     },
     {
       "id": "41b85c9cdb7a",
@@ -1126,12 +1148,17 @@
       "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
       "publishedAt": "2026-07-07T19:58:20.000Z",
       "fetchedAt": "2026-07-07T22:17:04.528Z",
-      "contentText": "In Brief Posted: 12:58 PM PDT · July 7, 2026 Image Credits: JASON REDMOND/AFP / Getty Images Lucas Ropek Microsoft joins AI cost-cutting trend by relying more on its own models As AI costs continue to rise , companies are looking for ways to cut back. The most recent example is Microsoft, which has reportedly begun to deploy a cost-savings strategy by relying less on software from OpenAI and Anthropic and instead deploying its own in-house models. Indeed, when it comes to two of its most widely used programs — Excel and Word — Microsoft has begun to use its homemade MAI models to respond to a certain percentage of user prompts, Bloomberg reported Tuesday. In the past, the company had advertised the fact that large parts of Office 365 are powered by models from both OpenAI and Anthropic . While Microsoft still relies on those third-party models, it has also increasingly sought to stand up its own AI agents. Last month, at its annual Build conference, the company announced the launch of seven new MAI models , including an agentic coder and a text-to-image generator. When reached for comment by TechCrunch, Microsoft said that it had nothing further to share. Microsoft's apparent cutbacks are part of a broader trend. After a brief blitz of \"tokenmaxxing\" earlier this year, the last few months have seen a news cycle awash in stories about tech companies acting significantly more thrifty. Other large companies — like Amazon , Uber , Meta , and Accenture — have also reportedly made moves to curb spending. The immense cost of providing and buying AI services has become a controversial part of the industry. The sticker shock has gotten so bad in some parts of Silicon Valley that some companies are reportedly looking to Chinese models for more affordable agentic solutions — despite some concerns over potential security issues . Topics AI , Anthropic , In Brief , Microsoft , OpenAI , tokens November 4 Boston Last chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world scaling insights and connections that move the needle. Savings end June 26, 11:59 p.m. PT . REGISTER NOW Newsletters See More Subscribe for the industry’s biggest tech news TechCrunch Daily News Every weekday and Sunday, you can get the best of TechCrunch’s coverage. TechCrunch Mobility TechCrunch Mobility is your destination for transportation news and insight. Startups Weekly Startups are the core of TechCrunch, so get our best coverage delivered weekly. StrictlyVC Provides movers and shakers with the info they need to start their day. No newsletters selected. Subscribe By submitting your email, you agree to our Terms and Privacy Notice . Related AI Why the rise of open source AI isn't hurting Anthropic … yet Russell Brandom 2 hours ago AI Claude Cowork expands to mobile and web Rebecca Bellan 6 hours ago Enterprise Microsoft lays off nearly 5,000 employees across Xbox, commercial sales Rebecca Bellan 1 day ago Latest in AI AI Why the rise of open source AI isn't hurting Anthropic … yet Russell Brandom 2 hours ago In Brief Microsoft joins AI cost-cutting trend by relying more on its own models Lucas Ropek 2 hours ago AI Discord admits AI moderation bug wrongfully banned users over harmless images Lauren Forristal 3 hours ago",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Microsoft is reportedly reducing its reliance on third-party AI models from companies like OpenAI and Anthropic, opting instead to deploy its own in-house MAI models for a portion of user prompts in applications like Excel and Word. This move is part of a broader industry trend among tech companies to cut AI-related costs. Microsoft had previously highlighted its use of external models for Office 365 but has recently launched several new MAI models, including an agentic coder.",
+      "enterpriseAngle": "Enterprises are increasingly seeking to optimize AI spending by developing and deploying their own proprietary models, which can lead to cost savings and potentially greater control over their AI capabilities. This shift impacts product development strategies, as companies weigh the benefits of third-party integrations against in-house innovation and cost efficiency.",
+      "beginner": "Companies are trying to save money on AI by building their own AI tools instead of always paying other companies for theirs.",
+      "advanced": "Evaluate the cost-benefit of external model dependencies versus in-house model development and deployment, considering the long-term TCO, data sovereignty, and customization benefits of proprietary AI solutions.",
+      "tags": [
+        "enterprise",
+        "product",
+        "model-release",
+        "funding"
+      ]
     },
     {
       "id": "3a5bf3a3618d",
@@ -1142,12 +1169,16 @@
       "url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
       "publishedAt": "2026-07-07T19:28:38.000Z",
       "fetchedAt": "2026-07-07T22:17:04.528Z",
-      "contentText": "Discord has acknowledged that a bug in its AI moderation system mistakenly banned more than 8,000 users over the past two months, after harmless images—including spreadsheets, chessboards, game textures, as well as white and gray transparent backgrounds—were incorrectly flagged as harmful content. The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and fixed the problem. All affected accounts are currently in the process of being restored. The incident highlights one of the growing challenges surrounding AI-assisted moderation as many platforms increasingly rely on automated systems to identify illegal or abusive material at scale. In a detailed thread on X , Discord explained that its automated safety system works by matching uploaded content against databases of known harmful material. While the technology is designed to catch illegal content, the company acknowledged that it can sometimes generate false positives. A human moderator reviews the content, but a bug caused the system to immediately ban affected accounts. “We’re working on better safeguards so this can’t happen again,” the company wrote. Our systems flag content by matching it against known harmful material. This kind of similarity matching can produce false positives, which is why a member of our Trust & Safety team always reviews flagged content before any action is taken. The intended behavior is to… — Discord Support (@discord_support) July 7, 2026 Across X and Reddit , users have claimed they had been permanently suspended simply for uploading images containing square grid patterns. Several users speculated that Discord's AI moderation tools have become increasingly sensitive to grid-like patterns because they have previously been used in attempts to obscure or disguise NSFW and child exploitation content from automated detection systems. Affected users have been expressing frustration on social media, with some arguing that permanent account bans based solely on automated detection can have serious consequences, particularly for users who rely on Discord for work, gaming communities, or long-distance social connections. “Losing a Discord account to something as unfair as this can be extremely devastating and affect users severely, and every day millions of users are affected by false AI bans. This needs to be stopped,” one X user wrote . My account was wrongfully banned from your platform due to a bug in your AI automod detecting my GAME TEXTURES as CSAM. I need my account back as I'm a game director and use Discord for all my communication. I have requested a review of my suspension. @discord @discord_support pic.twitter.com/QfAkCIJo6S — JDBRYANT 🎂 TODAY (@jdbryantdev) July 4, 2026 Discord isn't alone in facing moderation troubles due to automated systems. Last year, users of Instagram and Facebook Groups reported widespread unexplained account suspensions that many believed were caused by AI moderation systems. Although users pointed to automation as the likely culprit, Meta never publicly confirmed whether AI errors were responsible. Now Meta's Oversight Board is pushing for increased transparency. Tumblr last year also faced complaints from users who said their accounts had been mass-suspended without clear explanations. Topics AI , Apps , discord , Social When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Lauren Forristal Lauren covers media, streaming, apps and platforms at TechCrunch. You can contact or verify outreach from Lauren by emailing laurenf.techcrunch@gmail.com or via encrypted message at laurenforris22.25 on Signal. View Bio November 4 Boston Last chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world scaling insights and connections that move the needle. Savings end June 26, 11:59 p.m. PT . REGISTER NOW Most Popular If you use Google, you're training its AI. Here's how to opt out. Sarah Perez Reddit is using LLMs to solve a problem LLMs largely created Amanda Silberling Amazon will stop accepting new customers for Mechanical Turk Anthony Ha 5 desk gadgets that can make your workday better Aisha Malik Chevy built an all-American EV truck — why is nobody buying it? Tim De Chant Mark Zuckerberg tells staff that AI agents haven't progressed as quickly as he'd hoped Lucas Ropek Jersey Mike's IPO illustrates how bad the AI hype has become Julie Bort",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Discord's AI moderation system mistakenly banned over 8,000 users since May, flagging harmless images like spreadsheets and game textures as harmful content. A bug caused immediate bans despite a human review process, leading to widespread user frustration. Discord is working on better safeguards to prevent future occurrences.",
+      "enterpriseAngle": "This incident highlights the critical need for robust error handling and human oversight in AI-powered moderation systems within enterprises, as false positives can severely impact user trust and operational continuity. Enterprise product development teams must prioritize safeguards to prevent automated systems from causing unintended and damaging consequences.",
+      "beginner": "AI systems, even those designed to help, can sometimes make mistakes and incorrectly flag harmless things, leading to problems for users.",
+      "advanced": "Implement multi-layered validation and a fail-safe human review process for AI moderation outputs, especially for actions with severe user impact, to mitigate the risk of false positives and ensure system resilience.",
+      "tags": [
+        "security",
+        "product",
+        "governance"
+      ]
     },
     {
       "id": "3d4c1a01fdd5",
@@ -1158,12 +1189,16 @@
       "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
       "publishedAt": "2026-07-07T16:27:18.000Z",
       "fetchedAt": "2026-07-07T22:17:04.528Z",
-      "contentText": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Anthropic has expanded its Claude Cowork agent, initially a desktop coding tool, to web and mobile platforms for Max subscribers. This move aims to position Cowork as a versatile administrative assistant capable of background tasks and cross-device functionality, rather than solely a coding aid. Early data indicates that Cowork is predominantly used for general business processes and content creation, with software development accounting for a smaller percentage of its usage.",
+      "enterpriseAngle": "Enterprise product development teams should note the shift towards multi-platform AI agents that integrate into everyday workflows, moving beyond specialized chatbots. Security teams must consider the implications of agents running tasks in the background across devices, potentially accessing sensitive information, and ensure robust data protection and access controls are in place.",
+      "beginner": "AI tools are becoming more like helpful office assistants that can work on your phone or computer, doing things like organizing reports or drafting emails, not just writing code.",
+      "advanced": "Leverage multi-platform AI agents for 'work around the work' tasks in finance, HR, and marketing to improve operational efficiency, while implementing granular access controls and monitoring for data integrity across all integrated devices.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product"
+      ]
     },
     {
       "id": "4093f7458e11",
@@ -1338,12 +1373,16 @@
       "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
       "publishedAt": "2026-07-06T19:01:59.000Z",
       "fetchedAt": "2026-07-06T22:20:30.948Z",
-      "contentText": "In Brief Posted: 12:01 PM PDT · July 6, 2026 Image Credits: Artur Widak/NurPhoto / Getty Images Sarah Perez You can now customize Siri's pace and expressivity in the latest iOS 27 beta With the latest iOS 27 developer beta, Apple is giving testers an early look at one of the upcoming improvements to its AI-powered Siri : the ability to adjust how quickly and expressively the AI assistant speaks. In iOS 27 beta 3, out today, Apple has enabled the voice controls for \"Pace\" and \"Expressivity\" that were previously labeled as \"Coming soon\" in the first developer beta releases. The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI. Like ChatGPT and others offering voice AI assistants, letting users customize how the AI sounds is an important aspect in helping connect people with the new technology. However, ChatGPT's voice-customization options allow users to go even further, as the ability to adjust the AI's warmth and enthusiasm was rolled out in December 2025 , alongside options to configure the base style and tone. The latter lets users adjust OpenAI's assistant to be more friendly, professional, candid, or quirky, among other styles. This is reflected not only in how ChatGPT speaks, but also in how it presents information to the user. You can customize Siri’s voice in iOS 27 beta 3 pic.twitter.com/qFV8L1e7di — Liam (@LiamFromOrlando) July 6, 2026 First introduced at Apple's Worldwide Developers Conference (WWDC 26) in June, Siri's voice controls let users personalize their Siri experience beyond just choosing a male- or female-sounding assistant. Now beta testers will be able to switch between a range of voices with different accents, and then use sliders to change how slowly or quickly Siri speaks and how much human-like emotion its voice conveys. As you make the adjustments, Siri will practice saying some common things, like \"You have one new message,\" so you can get a sense of how the different voices sound. The AI version of Siri is deeply integrated across the updated version of iOS, where it will allow iPhone owners to start conversations by speaking, swiping down from the Dynamic Island at the top of the screen and typing, tapping on the phone's side button, or even by using the brand-new stand-alone Siri app. Other, more minor updates are also rolling out with iOS 27 beta 3, including an updated Reminders app icon. (We should note some people on X are also reporting losing access to the new Siri after updating, or seeing their phone again begin indexing their data — typically, the first step in optimizing Siri AI for search.) Topics AI , Apps , iOS 27 , siri , siri ai November 4 Boston Last chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world scaling insights and connections that move the needle. Savings end June 26, 11:59 p.m. PT . REGISTER NOW Newsletters See More Subscribe for the industry’s biggest tech news TechCrunch Daily News Every weekday and Sunday, you can get the best of TechCrunch’s coverage. TechCrunch Mobility TechCrunch Mobility is your destination for transportation news and insight. Startups Weekly Startups are the core of TechCrunch, so get our best coverage delivered weekly. StrictlyVC Provides movers and shakers with the info they need to start their day. No newsletters selected. Subscribe By submitting your email, you agree to our Terms and Privacy Notice . Related AI If you use Google, you're training its AI. Here's how to opt out. Sarah Perez 5 hours ago Startups Smart glasses maker Even Realities hits $1B valuation with $150M funding led by Meituan, Tencent Kate Park 13 hours ago Gadgets 5 desk gadgets that can make your workday better Aisha Malik 1 day ago Latest in AI AI Vercel CEO Guillermo Rauch on the fight to split off models from agents Russell Brandom 2 hours ago In Brief You can now customize Siri's pace and expressivity in the latest iOS 27 beta Sarah Perez 3 hours ago AI Every major tech layoff in 2026 that has name-checked AI Rebecca Bellan Connie Loizos 3 hours ago",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Apple's latest iOS 27 developer beta introduces new customization options for Siri, allowing users to adjust the AI assistant's speaking pace and expressivity. This update is part of Apple's broader strategy to make Siri more natural and personalized through generative AI, similar to features offered by other voice AI assistants like ChatGPT. Users can now choose from various voices, accents, and use sliders to control speaking speed and emotional tone.",
+      "enterpriseAngle": "Enterprise product development teams can learn from Apple's approach to user-centric AI customization, recognizing that personalized voice interactions enhance user connection and satisfaction with AI assistants. Integrating similar expressivity and pace controls into enterprise-grade AI tools could improve user adoption and engagement, particularly in customer service or internal communication applications.",
+      "beginner": "You can now make Siri sound more like you want by changing how fast it talks and how much emotion its voice has.",
+      "advanced": "Implement granular voice customization, including pace and expressivity controls, in your enterprise AI applications to enhance user experience and foster deeper engagement with AI interfaces.",
+      "tags": [
+        "product",
+        "consumer",
+        "model-release"
+      ]
     },
     {
       "id": "2902cfd98ebb",
@@ -1376,12 +1415,17 @@
       "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
       "publishedAt": "2026-07-06T18:35:00.000Z",
       "fetchedAt": "2026-07-06T22:20:30.948Z",
-      "contentText": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Several major tech companies, including Microsoft, Oracle, GitLab, Google, Intuit, Meta, Cisco, Cloudflare, General Motors, Coinbase, and PayPal, have announced significant layoffs in 2026, with many citing AI as a contributing factor. These companies are reporting record revenues while simultaneously reducing their workforces, often attributing the cuts to AI's ability to automate tasks and the need to reallocate resources towards AI infrastructure and development. Approximately 120,000 tech roles have been cut in 2026, with AI being the most-cited reason.",
+      "enterpriseAngle": "Enterprise security and product development teams face a dual challenge: adapting to AI-driven automation that may reduce workforce needs while simultaneously investing in AI infrastructure and talent to remain competitive. Companies are restructuring to integrate AI into core operations, which impacts staffing, organizational layers, and the types of skills required for future product development and security postures.",
+      "beginner": "Many big tech companies are laying off employees, saying that new AI technologies are changing how work is done and making some jobs unnecessary, even as these companies make a lot of money.",
+      "advanced": "Evaluate your organization's AI adoption strategy for potential workforce impacts, focusing on skill re-alignment, infrastructure investment for agentic workloads, and the strategic implications of flattening management layers to optimize for AI-driven efficiency.",
+      "tags": [
+        "enterprise",
+        "workforce",
+        "infrastructure",
+        "product"
+      ]
     },
     {
       "id": "c43ecca2c4a6",
@@ -1412,12 +1456,17 @@
       "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
       "publishedAt": "2026-07-06T17:04:58.000Z",
       "fetchedAt": "2026-07-06T22:20:30.948Z",
-      "contentText": "Consider this a belated PSA: A recent change to Google’s privacy settings is allowing the company to store more of your data, including media such as “images, files, and audio and video recordings,” to improve its AI models.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Google has updated its privacy settings to allow the company to use a wider range of user data, including images, files, and audio/video recordings, to enhance its AI models. This change means that users of Google services are now contributing to the training of these models by default. The article provides information on how users can opt out of this data collection.",
+      "enterpriseAngle": "Enterprise security and product development teams should review their data governance policies and ensure employees are aware of how their data might be used by third-party services like Google, especially concerning sensitive corporate information. Product teams integrating Google services should consider the implications of these data collection practices on user trust and privacy.",
+      "beginner": "Google is now using more of your online activity, like your photos and videos, to make its AI smarter, but you can choose to stop this.",
+      "advanced": "Implement a comprehensive data privacy impact assessment for all third-party integrations and provide clear guidelines and tools for employees to manage their data privacy settings on commonly used platforms.",
+      "tags": [
+        "security",
+        "policy",
+        "consumer",
+        "governance"
+      ]
     },
     {
       "id": "9a2aac1c8f00",
@@ -1447,12 +1496,17 @@
       "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
       "publishedAt": "2026-07-06T15:22:08.000Z",
       "fetchedAt": "2026-07-06T22:20:30.948Z",
-      "contentText": "In the AI era, platforms have no choice but to fight fire with fire to cull spam.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Reddit is employing large language models (LLMs) to combat the surge in spam and bot content, much of which is also generated by LLMs. The platform claims its new tools block 23 million spam views and catch 25,000 new spam posts daily, reducing user exposure to spam by 20% in early 2026. This approach highlights a trend where platforms use AI to counter AI-generated misuse.",
+      "enterpriseAngle": "Enterprise security and product teams can learn from Reddit's strategy of using AI to detect and mitigate AI-generated threats, particularly in content moderation and fraud detection, emphasizing the need for advanced AI-driven defenses as AI misuse becomes more sophisticated. However, it also underscores that AI moderation should be augmented with human oversight for optimal effectiveness.",
+      "beginner": "AI is being used to fight against the very spam that other AI tools help create, making the internet a bit cleaner.",
+      "advanced": "Implement advanced LLM-powered anomaly detection systems to identify subtle, coordinated patterns of AI-generated malicious content, while integrating human-in-the-loop moderation for continuous model refinement and handling edge cases.",
+      "tags": [
+        "security",
+        "enterprise",
+        "product",
+        "agents"
+      ]
     },
     {
       "id": "76b3470890a3",
@@ -3783,12 +3837,16 @@
       "url": "https://openai.com/index/nextdoor",
       "publishedAt": "2026-06-09T12:00:00.000Z",
       "fetchedAt": "2026-07-04T16:58:01.256Z",
-      "contentText": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Engineers at Nextdoor are utilizing OpenAI's Codex with GPT-5.5 to address complex, hard-to-reproduce technical issues. This integration helps them develop across various platforms and concentrate more on achieving product outcomes.",
+      "enterpriseAngle": "Enterprise product development teams can leverage advanced AI coding assistants like Codex with GPT-5.5 to streamline debugging, accelerate cross-platform development, and reallocate engineering resources towards core product innovation.",
+      "beginner": "AI tools like Codex can help software developers write code and fix problems faster, making it easier to build new products.",
+      "advanced": "Integrate advanced AI code generation and debugging tools into your CI/CD pipeline to enhance developer productivity and reduce time spent on platform-specific adaptations and elusive bug resolution.",
+      "tags": [
+        "coding",
+        "enterprise",
+        "product"
+      ]
     },
     {
       "id": "e8e11bcb3ae6",
@@ -3799,12 +3857,17 @@
       "url": "https://openai.com/index/notion",
       "publishedAt": "2026-06-09T10:00:00.000Z",
       "fetchedAt": "2026-07-04T16:58:01.256Z",
-      "contentText": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Notion is leveraging OpenAI's Codex to streamline its development process. This includes generating specifications with a single input and creating an AI Voice Input feature for web applications. The integration aims to enhance the productivity of Notion's engineering teams.",
+      "enterpriseAngle": "Enterprises can utilize advanced AI models like Codex to automate parts of their product development lifecycle, from initial specification drafting to implementing new user interaction methods like voice input, thereby increasing engineering efficiency.",
+      "beginner": "AI tools can help software developers build new features and write code faster.",
+      "advanced": "Evaluate integrating large language models into your SDLC for one-shot spec generation and novel UI/UX development to amplify engineering output.",
+      "tags": [
+        "coding",
+        "product",
+        "enterprise",
+        "partnership"
+      ]
     },
     {
       "id": "31f4bff2af38",
@@ -3815,12 +3878,17 @@
       "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
       "publishedAt": "2026-06-09T00:00:00.000Z",
       "fetchedAt": "2026-07-04T16:58:01.256Z",
-      "contentText": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "OpenAI proposes an industrial policy for the AI era that prioritizes people, aiming to expand opportunities and share prosperity. The policy also focuses on building resilient institutions as advanced intelligence develops.",
+      "enterpriseAngle": "Enterprises should consider how evolving AI industrial policies might impact their operational strategies, workforce development, and market opportunities. Product development teams should anticipate regulatory shifts and societal expectations stemming from such policies.",
+      "beginner": "As AI becomes more advanced, governments are thinking about policies to make sure everyone benefits and institutions are strong.",
+      "advanced": "Evaluate your organization's long-term strategy against potential government industrial policies for AI, focusing on workforce reskilling and ethical AI development to align with future regulatory landscapes.",
+      "tags": [
+        "policy",
+        "governance",
+        "workforce",
+        "enterprise"
+      ]
     },
     {
       "id": "147a989f3e59",
@@ -3874,12 +3942,15 @@
       "url": "https://openai.com/index/openai-submits-confidential-s-1",
       "publishedAt": "2026-06-08T14:00:00.000Z",
       "fetchedAt": "2026-07-04T16:58:01.256Z",
-      "contentText": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "OpenAI has confidentially submitted a draft S-1 registration statement to the U.S. Securities and Exchange Commission (SEC). The company has not yet decided on the timing for any subsequent actions related to this submission.",
+      "enterpriseAngle": "This move indicates OpenAI is exploring options for a public offering, which could impact its funding structure and strategic partnerships within the enterprise AI market. Enterprise customers and partners should monitor this development for potential shifts in OpenAI's business model or service offerings.",
+      "beginner": "OpenAI, a major AI company, has taken a step towards potentially becoming a publicly traded company by filing initial paperwork with the government.",
+      "advanced": "Evaluate the implications of a potential OpenAI IPO on competitive landscapes, partnership agreements, and the availability of advanced AI models for enterprise integration.",
+      "tags": [
+        "enterprise",
+        "funding"
+      ]
     },
     {
       "id": "e26a6d525948",
@@ -3890,12 +3961,16 @@
       "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
       "publishedAt": "2026-06-08T01:30:00.000Z",
       "fetchedAt": "2026-07-04T22:04:20.132Z",
-      "contentText": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "OpenAI has outlined its vision for the future of AI, emphasizing broad access, robust safety measures, and the goal of ensuring that artificial general intelligence (AGI) benefits all.",
+      "enterpriseAngle": "Enterprises should consider how OpenAI's focus on safety and broad access for AGI development might influence future AI product roadmaps and regulatory landscapes, necessitating proactive planning for ethical AI deployment.",
+      "beginner": "OpenAI wants to make sure that powerful AI helps everyone and is developed safely.",
+      "advanced": "Evaluate the implications of OpenAI's AGI access and safety framework on your organization's long-term AI strategy and compliance requirements.",
+      "tags": [
+        "policy",
+        "governance",
+        "enterprise"
+      ]
     },
     {
       "id": "63685f806399",
@@ -3906,12 +3981,16 @@
       "url": "https://openai.com/index/economic-research-exchange",
       "publishedAt": "2026-06-08T00:00:00.000Z",
       "fetchedAt": "2026-07-04T22:04:20.132Z",
-      "contentText": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "OpenAI has launched the Economic Research Exchange, an initiative to investigate how artificial intelligence will affect employment, productivity, and the broader economy. The program is currently accepting applications for research projects.",
+      "enterpriseAngle": "Enterprise leaders should monitor the findings from this exchange to anticipate shifts in workforce planning, productivity models, and economic landscapes influenced by AI adoption. This research can inform strategic investments in AI technologies and talent development.",
+      "beginner": "OpenAI is studying how AI will change jobs and the economy.",
+      "advanced": "Submit research proposals to the OpenAI Economic Research Exchange to contribute to and gain early insights into AI's macroeconomic impacts.",
+      "tags": [
+        "research",
+        "workforce",
+        "governance"
+      ]
     },
     {
       "id": "97cd97d27d22",
@@ -3986,12 +4065,17 @@
       "url": "https://openai.com/index/endava-frontiers",
       "publishedAt": "2026-06-04T12:00:00.000Z",
       "fetchedAt": "2026-07-04T22:04:20.132Z",
-      "contentText": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Endava is leveraging AI agents, ChatGPT Enterprise, and Codex to enhance software delivery processes. Their strategy focuses on automating workflows and cultivating an AI-native culture throughout the organization.",
+      "enterpriseAngle": "Enterprise product development teams can use AI agents to streamline software delivery and automate routine tasks, leading to faster development cycles and increased efficiency. Adopting an AI-native culture can help enterprises integrate AI tools more effectively into their core operations.",
+      "beginner": "AI agents are like smart assistants that can help companies build software faster and automate repetitive tasks.",
+      "advanced": "Evaluate the integration of AI agents and large language models like ChatGPT Enterprise into your existing CI/CD pipelines to identify bottlenecks and opportunities for workflow automation and accelerated software delivery.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product",
+        "coding"
+      ]
     },
     {
       "id": "58a72a3a66c9",
@@ -4002,12 +4086,16 @@
       "url": "https://openai.com/index/chatgpt-memory-dreaming",
       "publishedAt": "2026-06-04T09:00:00.000Z",
       "fetchedAt": "2026-07-04T22:04:20.132Z",
-      "contentText": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "ChatGPT is getting a new memory system to help it remember user preferences and maintain context across different conversations. This feature aims to make interactions more relevant and helpful over time.",
+      "enterpriseAngle": "Enterprise product development teams can leverage this enhanced memory to build more personalized and efficient AI assistants, reducing the need for users to repeatedly state preferences or context in business applications.",
+      "beginner": "ChatGPT will now remember things you've told it before, making conversations feel more natural and helpful.",
+      "advanced": "Integrate ChatGPT's new memory capabilities into enterprise applications to reduce conversational overhead and improve user experience through persistent context and preference recall.",
+      "tags": [
+        "product",
+        "consumer",
+        "learning"
+      ]
     },
     {
       "id": "dbb39445d06e",
@@ -4018,12 +4106,16 @@
       "url": "https://openai.com/index/biodefense-in-the-intelligence-age",
       "publishedAt": "2026-06-04T00:00:00.000Z",
       "fetchedAt": "2026-07-04T22:04:20.132Z",
-      "contentText": "An action plan for AI-powered biological resilience",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "OpenAI has released an action plan focused on enhancing biological resilience through the application of AI technologies. This initiative aims to leverage artificial intelligence to improve defenses against biological threats.",
+      "enterpriseAngle": "Enterprise security and product development teams should consider how AI-powered biodefense strategies could impact their risk assessments and the development of new security solutions. This includes exploring AI's role in threat detection, prevention, and response within critical infrastructure.",
+      "beginner": "AI can be used to help protect us from biological dangers.",
+      "advanced": "Evaluate the proposed AI-powered biodefense strategies for integration into existing enterprise risk management frameworks and explore potential product development opportunities in biological threat detection and mitigation.",
+      "tags": [
+        "security",
+        "policy",
+        "research"
+      ]
     },
     {
       "id": "efcb57008e76",
@@ -4078,12 +4170,17 @@
       "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
       "publishedAt": "2026-06-03T13:15:00.000Z",
       "fetchedAt": "2026-07-04T22:04:20.132Z",
-      "contentText": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "GPT-Rosalind now offers improved biological reasoning, medicinal chemistry knowledge, genomics analysis, and experimental workflow features. These new capabilities aim to advance life sciences research.",
+      "enterpriseAngle": "Enterprise life sciences and pharmaceutical companies can leverage GPT-Rosalind to accelerate drug discovery, optimize research workflows, and enhance data analysis in genomics and chemistry.",
+      "beginner": "GPT-Rosalind is an AI tool designed to help scientists with tasks like understanding biology, developing medicines, and analyzing genetic information.",
+      "advanced": "Integrate GPT-Rosalind's enhanced biological reasoning and experimental workflow capabilities into R&D pipelines to streamline hypothesis generation and data interpretation in drug discovery.",
+      "tags": [
+        "model-release",
+        "science",
+        "research",
+        "product"
+      ]
     },
     {
       "id": "a1df63115ccf",
@@ -4130,12 +4227,16 @@
       "url": "https://openai.com/index/public-policy-agenda",
       "publishedAt": "2026-06-03T10:00:00.000Z",
       "fetchedAt": "2026-07-05T01:53:01.233Z",
-      "contentText": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "OpenAI has released its public policy agenda for AI, focusing on key areas such as safety, protecting young people, managing workforce transitions, and establishing global standards. The goal of this agenda is to ensure that AI development and deployment ultimately benefit society.",
+      "enterpriseAngle": "Enterprises should anticipate future regulations and compliance requirements stemming from these policy discussions, particularly concerning AI safety, data privacy for youth, and ethical AI deployment. Product development teams will need to integrate these considerations into their AI systems to ensure responsible innovation and market acceptance.",
+      "beginner": "OpenAI is working with governments to make sure AI is developed safely and fairly for everyone.",
+      "advanced": "Monitor the evolution of global AI policy frameworks and proactively integrate safety-by-design principles and youth protection measures into your AI development lifecycle to mitigate future regulatory risks.",
+      "tags": [
+        "policy",
+        "governance",
+        "workforce"
+      ]
     },
     {
       "id": "fae173f5fba9",
@@ -4262,12 +4363,16 @@
       "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
       "publishedAt": "2026-06-02T09:00:00.000Z",
       "fetchedAt": "2026-07-05T01:53:01.233Z",
-      "contentText": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "OpenAI has introduced new Codex plugins, sites, and annotations designed to enhance productivity for various professional roles. These tools aim to help diverse teams, including analysts, marketers, designers, and investors, leverage AI more effectively in their workflows.",
+      "enterpriseAngle": "Enterprise product development teams can integrate these new Codex capabilities to build more versatile AI-powered tools tailored for specific departmental needs, while security teams must ensure these plugins and annotations adhere to data privacy and access controls.",
+      "beginner": "AI tools like Codex are becoming more specialized to help different jobs, from marketing to finance, work smarter.",
+      "advanced": "Evaluate the new Codex plugins for integration into existing enterprise workflows, focusing on custom annotation capabilities and their impact on data governance and role-based access controls.",
+      "tags": [
+        "product",
+        "enterprise",
+        "coding"
+      ]
     },
     {
       "id": "00e733aa1592",
@@ -4331,12 +4436,16 @@
       "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
       "publishedAt": "2026-06-01T17:00:00.000Z",
       "fetchedAt": "2026-07-05T14:48:59.264Z",
-      "contentText": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "OpenAI has outlined its approach to AI policy and political advocacy, emphasizing transparency and support for thoughtful regulation and AI safety. The company also clarified that no external political group is authorized to speak on its behalf.",
+      "enterpriseAngle": "Enterprises developing or deploying AI should note OpenAI's stance on thoughtful regulation and AI safety, as this indicates a direction for future compliance and ethical AI development. This also highlights the importance of clear communication regarding corporate policy positions to avoid misrepresentation.",
+      "beginner": "OpenAI wants to be open about its AI rules and supports making sure AI is safe and regulated properly.",
+      "advanced": "Integrate proactive AI safety measures and regulatory compliance frameworks into product roadmaps, aligning with evolving industry standards and public policy advocacy from key AI developers.",
+      "tags": [
+        "policy",
+        "governance",
+        "enterprise"
+      ]
     },
     {
       "id": "33bb253a3d79",

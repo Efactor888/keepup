@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-07-12T22:03:22.827Z",
+  "updatedAt": "2026-07-13T15:49:10.865Z",
   "articles": [
+    {
+      "id": "d8c4f12b71f9",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+      "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+      "publishedAt": "2026-07-13T15:34:59.000Z",
+      "fetchedAt": "2026-07-13T15:46:19.409Z",
+      "contentText": null,
+      "summary": "Anthropic is localizing Claude's pricing in India, its second-largest market after the U.S., to better cater to local users. While rupee-denominated subscriptions are now appearing, payment via India's UPI network is not yet supported, unlike OpenAI's offerings. This move is part of Anthropic's broader expansion in India, which includes opening an office and partnering with local IT giants.",
+      "enterpriseAngle": "Enterprise product teams should consider localized pricing and payment methods to reduce friction and increase adoption in key international markets. However, they must also navigate potential policy changes, as seen with Anthropic's temporary model access restrictions for non-U.S. entities.",
+      "beginner": "AI companies are making their services more affordable and accessible in different countries by offering prices in local currencies.",
+      "advanced": "To optimize global market penetration, evaluate the strategic implementation of localized pricing models and integrate prevalent regional payment gateways, while closely monitoring and adapting to evolving international data access and usage policies.",
+      "tags": [
+        "enterprise",
+        "product",
+        "policy",
+        "partnership"
+      ]
+    },
+    {
+      "id": "d880ad9433b4",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Waze adds new AI-powered features and customization updates",
+      "url": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+      "publishedAt": "2026-07-13T14:18:16.000Z",
+      "fetchedAt": "2026-07-13T15:46:19.409Z",
+      "contentText": null,
+      "summary": "Waze is integrating new AI-powered features, leveraging Google's Gemini AI assistant. This move is part of Google's strategy to embed Gemini across its product ecosystem. The update aims to enhance Waze's competitiveness against rival navigation services like Apple Maps.",
+      "enterpriseAngle": "Enterprise product development teams should observe how Google integrates AI assistants like Gemini into consumer applications to inform their own strategies for embedding AI into existing products. This also highlights the competitive pressure to adopt AI for feature parity and differentiation in mature markets.",
+      "beginner": "Waze is using Google's AI to add new smart features, making it more competitive with other map apps.",
+      "advanced": "Evaluate the architectural patterns and user experience implications of integrating a foundational AI model like Gemini into a widely used consumer application to inform your own enterprise AI adoption roadmap.",
+      "tags": [
+        "product",
+        "enterprise",
+        "consumer"
+      ]
+    },
     {
       "id": "5f92d55c125d",
       "source": "techcrunch-ai",
@@ -163,6 +204,26 @@
         "enterprise",
         "partnership",
         "product"
+      ]
+    },
+    {
+      "id": "2c539797fe26",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Getting started with ChatGPT",
+      "url": "https://openai.com/academy/getting-started",
+      "publishedAt": "2026-07-10T00:00:00.000Z",
+      "fetchedAt": "2026-07-13T15:46:14.201Z",
+      "contentText": null,
+      "summary": "This guide introduces users to ChatGPT, explaining how to initiate conversations and leverage the AI for writing, brainstorming, and problem-solving. It focuses on practical applications for new users.",
+      "enterpriseAngle": "Enterprises can use this guide to onboard employees to AI tools like ChatGPT, fostering productivity in writing, brainstorming, and problem-solving across various departments.",
+      "beginner": "ChatGPT is an AI tool that can help you write, brainstorm ideas, and solve problems by simply having a conversation with it.",
+      "advanced": "Integrate this introductory material into internal training programs to accelerate AI adoption and demonstrate immediate productivity gains for knowledge workers.",
+      "tags": [
+        "learning",
+        "product",
+        "consumer"
       ]
     },
     {
@@ -4417,12 +4478,16 @@
       "url": "https://openai.com/index/codex-for-knowledge-work",
       "publishedAt": "2026-06-02T02:00:00.000Z",
       "fetchedAt": "2026-07-05T14:48:59.264Z",
-      "contentText": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "The Next Era of Knowledge Work report highlights how Codex is enhancing productivity by leveraging AI for tasks such as research, data analysis, workflow automation, and content creation.",
+      "enterpriseAngle": "Enterprises can utilize Codex to streamline various knowledge work processes, leading to increased efficiency in research, data handling, and content generation across departments.",
+      "beginner": "Codex is an AI tool that helps people get more work done by automating common tasks like looking up information and creating content.",
+      "advanced": "Evaluate Codex's integration capabilities with existing enterprise systems to automate data analysis and content workflows, focusing on measurable productivity gains.",
+      "tags": [
+        "product",
+        "enterprise",
+        "agents"
+      ]
     },
     {
       "id": "573b637f25d9",
@@ -4515,12 +4580,15 @@
       "url": "https://openai.com/index/stargate-michigan-data-center",
       "publishedAt": "2026-06-01T12:00:00.000Z",
       "fetchedAt": "2026-07-05T14:48:59.264Z",
-      "contentText": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "OpenAI has started construction on a 1-gigawatt data center in Michigan. This project is part of its Stargate initiative, aimed at expanding AI infrastructure. The company states the new facility will increase access to AI, create jobs, and benefit local communities.",
+      "enterpriseAngle": "Enterprises can anticipate improved access to OpenAI's AI services and potentially lower latency as the company expands its core infrastructure. This investment also signals a growing need for robust, large-scale data center capabilities to support advanced AI applications.",
+      "beginner": "OpenAI is building a huge new computer center in Michigan to make its AI tools more widely available.",
+      "advanced": "Evaluate the potential impact of OpenAI's expanding infrastructure on your organization's AI strategy, particularly regarding service availability, geographic redundancy, and future capacity planning for large language model deployments.",
+      "tags": [
+        "infrastructure",
+        "enterprise"
+      ]
     },
     {
       "id": "00ed5eb9be7b",
@@ -4531,12 +4599,17 @@
       "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
       "publishedAt": "2026-06-01T10:00:00.000Z",
       "fetchedAt": "2026-07-05T14:48:59.264Z",
-      "contentText": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "OpenAI's frontier models and Codex are now accessible on Amazon Web Services (AWS), offering businesses a new method to integrate OpenAI's technology within their existing AWS infrastructure. This availability allows enterprises to leverage familiar AWS environments, controls, and procurement processes for their AI development. The integration aims to accelerate the transition from evaluating OpenAI models to deploying them in production.",
+      "enterpriseAngle": "Enterprise security and product development teams can now integrate OpenAI's advanced models directly into their AWS environments, streamlining development and deployment while leveraging existing AWS security controls and procurement processes. This simplifies the adoption of cutting-edge AI for building new products and enhancing existing enterprise solutions.",
+      "beginner": "You can now use powerful AI models from OpenAI directly through Amazon's cloud computing service, making it easier for companies to build new AI tools.",
+      "advanced": "Leverage AWS PrivateLink and VPC endpoints to securely access OpenAI models within your existing AWS infrastructure, ensuring data residency and compliance while accelerating model deployment to production.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "product",
+        "infrastructure"
+      ]
     },
     {
       "id": "d183d6f5ac82",
@@ -4650,12 +4723,16 @@
       "url": "https://openai.com/index/boston-childrens-hospital",
       "publishedAt": "2026-05-29T12:00:00.000Z",
       "fetchedAt": "2026-07-05T14:48:59.264Z",
-      "contentText": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Boston Children's Hospital is leveraging OpenAI's technology to enhance patient care and streamline operations. This initiative has already contributed to diagnosing over 40 rare disease cases.",
+      "enterpriseAngle": "Enterprises in healthcare can explore AI partnerships to improve diagnostic capabilities and operational efficiencies, potentially leading to better patient outcomes and reduced burdens on staff.",
+      "beginner": "AI can help doctors find rare diseases faster and make hospitals run smoother.",
+      "advanced": "Evaluate the integration of large language models for diagnostic support and operational optimization within clinical workflows, focusing on data privacy and model interpretability.",
+      "tags": [
+        "enterprise",
+        "product",
+        "partnership"
+      ]
     },
     {
       "id": "507ec0fdf629",
@@ -4666,12 +4743,16 @@
       "url": "https://openai.com/index/braintrust",
       "publishedAt": "2026-05-29T12:00:00.000Z",
       "fetchedAt": "2026-07-05T14:48:59.264Z",
-      "contentText": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Braintrust engineers are utilizing OpenAI's Codex with GPT-5.5 to accelerate their coding processes and conduct experiments more efficiently. This integration helps them streamline the development cycle.",
+      "enterpriseAngle": "Enterprise product development teams can leverage advanced AI models like Codex with GPT-5.5 to significantly boost engineering productivity and speed up the iteration of new features and experiments.",
+      "beginner": "AI tools can help software developers write code and test ideas much faster.",
+      "advanced": "Integrate Codex with GPT-5.5 into your CI/CD pipeline to automate code generation for experimental features and reduce development cycles.",
+      "tags": [
+        "coding",
+        "product",
+        "enterprise"
+      ]
     },
     {
       "id": "8337eeb248ea",
@@ -4682,12 +4763,17 @@
       "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
       "publishedAt": "2026-05-29T03:00:00.000Z",
       "fetchedAt": "2026-07-05T22:08:40.905Z",
-      "contentText": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "OpenAI has launched Rosalind Biodefense, providing vetted developers and U.S. government partners with trusted access to its GPT-Rosalind model. This initiative aims to enhance biodefense, public health, and pandemic preparedness using advanced AI.",
+      "enterpriseAngle": "Enterprise and government security teams can leverage GPT-Rosalind through Rosalind Biodefense to develop AI-powered solutions for critical public health and biodefense applications, requiring robust vetting processes for access. This partnership highlights the increasing role of AI in national security and public health infrastructure.",
+      "beginner": "OpenAI is making its special AI available to specific groups to help protect against health threats and prepare for future pandemics.",
+      "advanced": "Explore integration of GPT-Rosalind via Rosalind Biodefense for secure, AI-driven solutions in biodefense and public health, ensuring compliance with vetting and access protocols.",
+      "tags": [
+        "model-release",
+        "enterprise",
+        "partnership",
+        "policy"
+      ]
     },
     {
       "id": "33e1df4abe4e",
@@ -4698,12 +4784,17 @@
       "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
       "publishedAt": "2026-05-29T00:00:00.000Z",
       "fetchedAt": "2026-07-05T22:08:40.905Z",
-      "contentText": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "OpenAI has released guidance for conducting third-party evaluations of AI models. This guidance focuses on assessing the capabilities, safeguards, and overall validity of frontier AI systems.",
+      "enterpriseAngle": "Enterprises developing or deploying AI should leverage this guidance to establish robust third-party evaluation processes, ensuring their models meet necessary safety and performance standards before broader release.",
+      "beginner": "It's important to have independent experts check AI systems to make sure they work correctly and safely.",
+      "advanced": "Implement OpenAI's shared playbook to standardize and enhance the rigor of your organization's third-party AI model evaluations, particularly for frontier systems, to proactively identify and mitigate risks.",
+      "tags": [
+        "governance",
+        "security",
+        "enterprise",
+        "policy"
+      ]
     },
     {
       "id": "79ae92d8dc3d",
@@ -4756,12 +4847,17 @@
       "url": "https://openai.com/index/endava",
       "publishedAt": "2026-05-28T12:00:00.000Z",
       "fetchedAt": "2026-07-05T22:08:40.905Z",
-      "contentText": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Endava is leveraging OpenAI's Codex to transform into an \"agentic organization,\" significantly speeding up software development. This approach has reduced the time spent on requirements analysis from several weeks to just a few hours.",
+      "enterpriseAngle": "Enterprises can explore agentic architectures powered by models like Codex to drastically improve efficiency in software development and other complex processes, leading to faster product delivery and reduced operational costs.",
+      "beginner": "AI tools like Codex can help companies write software much faster by automating parts of the development process.",
+      "advanced": "Evaluate the integration of agentic frameworks utilizing large language models such as Codex to automate and accelerate critical phases of the SDLC, focusing on requirements engineering and code generation to optimize resource allocation.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "coding",
+        "product"
+      ]
     },
     {
       "id": "aa0c148c160e",
@@ -4772,12 +4868,15 @@
       "url": "https://openai.com/deployco/news/building-realtime-voice-experiences-at-scale",
       "publishedAt": "2026-05-28T12:00:00.000Z",
       "fetchedAt": "2026-07-07T22:17:02.408Z",
-      "contentText": "Timing, interruption, silence and recovery shape the experience as much as words",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "The quality of real-time voice AI experiences is significantly influenced by factors beyond just the spoken words, such as timing, the ability to handle interruptions, periods of silence, and how the system recovers from errors.",
+      "enterpriseAngle": "Enterprise product teams developing real-time voice AI applications must prioritize these interaction dynamics to create truly effective and user-friendly solutions, rather than solely focusing on linguistic accuracy.",
+      "beginner": "Good voice AI isn't just about what it says, but how it says it and how it handles a conversation's natural flow.",
+      "advanced": "Implement robust state management and predictive modeling for conversational turns to optimize for timing, interruption handling, and graceful recovery in real-time voice AI systems.",
+      "tags": [
+        "product",
+        "learning"
+      ]
     },
     {
       "id": "cb031b5cf3e3",
@@ -4788,12 +4887,16 @@
       "url": "https://openai.com/index/mufg",
       "publishedAt": "2026-05-28T00:00:00.000Z",
       "fetchedAt": "2026-07-05T22:08:40.905Z",
-      "contentText": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "MUFG is leveraging ChatGPT Enterprise to transform into an AI-native organization. This initiative aims to enhance internal workflows and scale the delivery of new AI-powered financial services.",
+      "enterpriseAngle": "Enterprise product development and security teams should consider how adopting large language models can both streamline internal operations and enable the creation of innovative, AI-powered customer offerings.",
+      "beginner": "Companies are using AI tools like ChatGPT to improve how they work and create new services for customers.",
+      "advanced": "Evaluate the integration of enterprise-grade LLMs into your product roadmap, focusing on secure deployment strategies and scalable architecture for AI-powered service delivery.",
+      "tags": [
+        "enterprise",
+        "product",
+        "partnership"
+      ]
     },
     {
       "id": "3e9dde27d098",
@@ -4804,12 +4907,17 @@
       "url": "https://openai.com/index/openai-frontier-governance-framework",
       "publishedAt": "2026-05-28T00:00:00.000Z",
       "fetchedAt": "2026-07-05T22:08:40.905Z",
-      "contentText": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "OpenAI has introduced its Frontier Governance Framework, outlining its approach to AI safety, security, and risk management. This framework is designed to align with upcoming regulations in the EU and California.",
+      "enterpriseAngle": "Enterprise AI product and security teams should review OpenAI's framework to understand how a leading AI developer is approaching compliance with significant global AI regulations. This can inform their own internal governance strategies and product development to ensure regulatory alignment.",
+      "beginner": "OpenAI is creating rules for how its advanced AI systems are built and used, making sure they are safe and follow new laws.",
+      "advanced": "Evaluate the Frontier Governance Framework's alignment with your organization's risk posture and regulatory obligations, particularly concerning data privacy and model explainability, to proactively adapt internal AI development and deployment policies.",
+      "tags": [
+        "governance",
+        "policy",
+        "security",
+        "enterprise"
+      ]
     },
     {
       "id": "a3d8c6fadccf",
@@ -4886,12 +4994,17 @@
       "url": "https://openai.com/index/cisco",
       "publishedAt": "2026-05-27T11:00:00.000Z",
       "fetchedAt": "2026-07-05T22:08:40.905Z",
-      "contentText": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Cisco and OpenAI are collaborating to enhance enterprise engineering using OpenAI's Codex. This partnership aims to scale AI-native development, speed up AI Defense initiatives, and automate the resolution of software defects within Cisco.",
+      "enterpriseAngle": "This collaboration demonstrates how large enterprises can leverage advanced AI models like Codex to streamline development cycles, improve security posture, and automate critical engineering tasks, leading to increased efficiency and resilience.",
+      "beginner": "Companies are using AI to write code and fix problems faster, making software development more efficient.",
+      "advanced": "Evaluate the integration of large language models like Codex into your SDLC for automated code generation, vulnerability remediation, and enhanced DevSecOps workflows.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "coding",
+        "product"
+      ]
     },
     {
       "id": "9da64821c60f",
@@ -4902,12 +5015,17 @@
       "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
       "publishedAt": "2026-05-27T07:00:00.000Z",
       "fetchedAt": "2026-07-06T05:01:37.496Z",
-      "contentText": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "OpenAI, in collaboration with Thrive and Crete, developed a self-improving tax agent using Codex. This agent automates tax filings, enhances accuracy, and speeds up workflow processes.",
+      "enterpriseAngle": "Enterprises can leverage AI agents to automate complex, regulated tasks like tax filings, leading to increased efficiency and reduced errors in financial operations.",
+      "beginner": "AI can be used to create smart tools that handle complicated tasks like taxes, making them faster and more accurate.",
+      "advanced": "Explore integrating self-improving AI agents into your enterprise resource planning (ERP) systems to automate compliance-heavy workflows and improve data integrity.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product",
+        "coding"
+      ]
     },
     {
       "id": "b36c91942c4f",
@@ -4918,12 +5036,17 @@
       "url": "https://openai.com/index/warp",
       "publishedAt": "2026-05-27T00:00:00.000Z",
       "fetchedAt": "2026-07-06T05:01:37.496Z",
-      "contentText": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Warp leverages GPT-5.5 and other OpenAI models to manage coding agents across various development environments, including local, cloud, and open-source workflows.",
+      "enterpriseAngle": "Enterprise development teams can use Warp to streamline their coding processes and integrate AI-powered agents into their existing infrastructure, potentially increasing efficiency and accelerating product development.",
+      "beginner": "Warp is a tool that uses advanced AI to help manage and automate coding tasks for software developers.",
+      "advanced": "Evaluate Warp's integration capabilities with existing CI/CD pipelines and assess its impact on code quality and security within an open-source contribution model.",
+      "tags": [
+        "agents",
+        "coding",
+        "enterprise",
+        "product"
+      ]
     },
     {
       "id": "fae225528858",
@@ -4934,12 +5057,17 @@
       "url": "https://openai.com/index/election-safeguards-2026",
       "publishedAt": "2026-05-27T00:00:00.000Z",
       "fetchedAt": "2026-07-06T05:01:37.496Z",
-      "contentText": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "OpenAI is implementing measures to assist individuals in accessing election information, bolster cybersecurity defenses, and enhance AI transparency in anticipation of upcoming global elections.",
+      "enterpriseAngle": "Enterprise security teams should note OpenAI's focus on supporting cyber defenders, which may indicate new tools or best practices for protecting against election-related threats. Product development teams should consider integrating AI transparency features into their offerings, aligning with industry trends and user expectations.",
+      "beginner": "OpenAI is working to make sure people get good information about elections and that AI is used safely and clearly.",
+      "advanced": "Leverage OpenAI's election safeguards and transparency initiatives to inform your organization's risk mitigation strategies and develop responsible AI governance frameworks.",
+      "tags": [
+        "security",
+        "governance",
+        "policy",
+        "enterprise"
+      ]
     },
     {
       "id": "bcd1f238be35",
@@ -5036,12 +5164,16 @@
       "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
       "publishedAt": "2026-05-25T00:00:00.000Z",
       "fetchedAt": "2026-07-06T05:01:37.496Z",
-      "contentText": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "OpenAI has formed a strategic content partnership with Brazilian media companies Grupo Folha and Grupo UOL. This collaboration aims to integrate trusted Brazilian journalism into ChatGPT, enhancing news access for users.",
+      "enterpriseAngle": "This partnership demonstrates a growing trend of AI companies collaborating with content creators to ensure their models provide accurate and attributed information, which is crucial for enterprises building AI-powered information services.",
+      "beginner": "AI models like ChatGPT are getting better at providing up-to-date and reliable news by partnering directly with news organizations.",
+      "advanced": "Evaluate content licensing strategies to ensure your AI applications are built on ethically sourced and attributed data, mitigating risks of misinformation and intellectual property disputes.",
+      "tags": [
+        "partnership",
+        "product",
+        "enterprise"
+      ]
     },
     {
       "id": "aaee48ad131b",
@@ -5485,6 +5617,28 @@
         "security",
         "model-release"
       ]
+    },
+    {
+      "id": "d88393494eb7",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "Anthropic Sydney office",
+      "url": "https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand",
+      "publishedAt": "2026-04-27",
+      "fetchedAt": "2026-07-13T15:45:52.565Z",
+      "contentText": null,
+      "summary": "Anthropic has appointed Theo Hourmouzis as General Manager for Australia and New Zealand and officially opened its Sydney office. This move signifies Anthropic's increased investment in the region, aiming to deepen relationships with enterprises, research partners, and government entities. The company also highlighted new local partnerships with Canva, Xero, and YMCA South Australia, integrating Claude's AI capabilities into their operations.",
+      "enterpriseAngle": "Enterprises in Australia and New Zealand are seeking AI partners who prioritize safety and rigor alongside opportunity, indicating a demand for responsible AI deployment. Anthropic's expansion and partnerships demonstrate a strategy to embed AI as core infrastructure within organizations, requiring robust enterprise governance and controls.",
+      "beginner": "Anthropic is expanding its business in Australia and New Zealand, helping companies use its AI technology, Claude, more effectively and safely.",
+      "advanced": "Leverage Anthropic's expanded regional presence and partnerships to explore integrating Claude's enterprise-grade AI capabilities, particularly its governance and control features, into existing workflows for enhanced operational efficiency and data-driven insights.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "product",
+        "infrastructure"
+      ],
+      "dateChecked": true
     },
     {
       "id": "3f215c8c1541",

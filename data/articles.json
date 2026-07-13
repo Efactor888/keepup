@@ -1,6 +1,95 @@
 {
-  "updatedAt": "2026-07-13T15:49:10.865Z",
+  "updatedAt": "2026-07-13T22:05:48.700Z",
   "articles": [
+    {
+      "id": "6b47c606258c",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Satya Nadella has issued a shocking warning to companies using AI",
+      "url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+      "publishedAt": "2026-07-13T20:59:00.000Z",
+      "fetchedAt": "2026-07-13T22:02:12.827Z",
+      "contentText": null,
+      "summary": "Satya Nadella has warned companies using AI about the potential downsides, specifically highlighting concerns that large AI labs selling proprietary models could be acting like \"Trojan horses.\"",
+      "enterpriseAngle": "Enterprise security and product development teams should be wary of the potential risks associated with integrating proprietary AI models from third-party vendors, as these could introduce unforeseen vulnerabilities or dependencies.",
+      "beginner": "Some people are worried that big companies providing AI tools might have hidden problems or risks, like a \"Trojan horse.\"",
+      "advanced": "Evaluate the supply chain risk and potential for vendor lock-in when adopting proprietary AI models, prioritizing solutions with transparent architectures and robust security audits.",
+      "tags": [
+        "security",
+        "enterprise",
+        "governance"
+      ]
+    },
+    {
+      "id": "ecbc76a36f0e",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
+      "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+      "publishedAt": "2026-07-13T18:22:10.000Z",
+      "fetchedAt": "2026-07-13T22:02:12.827Z",
+      "contentText": "Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple hardware to interviews. Here are the complaint’s most eye-catching claims.",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
+    {
+      "id": "f4f67329799c",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+      "publishedAt": "2026-07-13T18:00:00.000Z",
+      "fetchedAt": "2026-07-13T22:02:13.351Z",
+      "contentText": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research. It’s looking into whether AI models can feel pain, for example,…",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
+    {
+      "id": "4696ee1fdcc6",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Sam Altman's space data center trash talk is what most experts already believe",
+      "url": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
+      "publishedAt": "2026-07-13T17:28:37.000Z",
+      "fetchedAt": "2026-07-13T22:02:12.827Z",
+      "contentText": null,
+      "summary": "Sam Altman and Elon Musk recently debated the viability of space data centers, with Altman suggesting they are not a near-term business reality. Experts largely agree that widespread adoption of space-based computing for AI inference is years away, primarily due to the high costs of rockets and satellite manufacturing. SpaceX's plans for orbital data centers are a significant factor in its valuation, but achieving economical scale depends on the full reusability of its Starship rocket, which is still years from operational reality.",
+      "enterpriseAngle": "Enterprise product development teams considering space-based AI inference will need to factor in the significant lead time and cost challenges, as current expert consensus indicates that scalable and economical solutions are still a decade away. Security teams should note that the distributed nature of future space-based compute could introduce new considerations for data sovereignty and access control.",
+      "beginner": "Building data centers in space to power AI is a futuristic idea, but it's currently too expensive and difficult to do on a large scale.",
+      "advanced": "While SpaceX's Starship development is critical, enterprise architects should model space compute adoption on a 2030s timeline, focusing near-term on terrestrial infrastructure and exploring partnerships for early-stage, niche orbital applications rather than broad AI inference.",
+      "tags": [
+        "infrastructure",
+        "enterprise",
+        "product",
+        "science"
+      ]
+    },
+    {
+      "id": "8a07043ad3d3",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Should AI help you get away with killing your spouse?",
+      "url": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
+      "publishedAt": "2026-07-13T16:31:23.000Z",
+      "fetchedAt": "2026-07-13T22:02:12.827Z",
+      "contentText": "Quick question: Do you want AI to be so well trained, it could help husbands (or wives, for that matter) plan the perfect murder of their spouses? Just as a gut reaction, that feels like a no for me. I wouldn't even think it was a particularly hard question. But America contains many diverse perspectives, and one such perspective was shared by Comma AI founder and longtime jailbreaker George Hotz over the weekend. The post comes in response to a bunch of big-picture AI alignment plans, most recently the AI 2040: Plan A policy paper from the AI Futures Project. That paper envisions a world in which the world's researchers collectively choose to slow down AI development for 14 years for the good of humanity. But of course, not everyone who read the paper agrees with its premises or conclusion. In fact, Hotz disagrees with the whole premise that AI progress should be managed for the collective good. In his post, he argues that the fast-takeoff scenario — the hypothetical where AI rapidly obtains superhuman abilities — doesn't make a lot of sense. (I agree with a lot of what he says here!) For Hotz, the best approach to AI alignment and safety is to focus on locally controlled AI models that are closely aligned with the interests of their users. That's a cool idea, particularly since it reminds me how much of current AI is built around centrally managed services like Claude and ChatGPT. There are infrastructure-related reasons why AI services developed this way: It's expensive to host these large state-of-the-art models and most people aren't using them enough throughout the day to justify truly personal AI. But those factors become less important as the technology develops. Part of what was so exciting about OpenClaw was this experimental, DIY approach, and it would be great to see more AI products try to recapture that. But Hotz is a provocateur by nature, so he doesn't stop there. He compares user-aligned AI to a gun(!), which does not complain if you use it to kill your stepmom. (I feel like there are other rules against this?) A truly aligned AI would be able to order meth-lab equipment from Amazon Prime and show you how to use it if that's what you wanted and asked for, he says. (Again, I don't think AI would be the limiting factor here.) Hotz even says he would die to defend this principle, although it's hard to imagine the series of events that would lead to that. \"We either live in a world with freedom or we don't,\" Hotz writes. If those are the options, the freedom world does sound better! Still, I don't know. It's not all about freedom, right? Any structure involving a lot of people (societies, marketplaces, corporations, etc.) requires balancing equities, binding individual needs into a network of interdependent preferences and systems of accountability. And anyone deploying mass-market tech products should probably think about that network as a whole, which means taking seriously the interests of the as-yet-unmurdered spouses and stepparents of the world. The freedom Hotz experiences is really a space of potential futures made possible by collective enterprise; those futures would disappear overnight if we all started behaving like little AI-powered Napoleons. Like the meme says, we live in a society. Having a local AI willing to take on the corporate world for my benefit does sound cool though! I can't wait for a review unit. Topics AI , alignment , George Hotz When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Russell Brandom AI Editor Russell Brandom has been covering the tech industry since 2012, with a focus on platform policy and emerging technologies. He previously worked at The Verge and Rest of World, and has written for Wired, The Awl and MIT's Technology Review. He can be reached at russell.brandom@techcrunch.com or on Signal at 412-401-5489. View Bio November 4 Boston Last chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world scaling insights and connections that move the needle. Savings end June 26, 11:59 p.m. PT . REGISTER NOW Most Popular Reed Jobs would rather talk about curing cancer than his last name Connie Loizos Meta removes controversial AI feature on Instagram after backlash Lucas Ropek Apple sues OpenAI over alleged trade secret theft Sarah Perez Elon Musk praises Mythos/Fable, promises not to ‘cut off' Anthropic Julie Bort Instagram users: Here’s how to stop Meta’s AI from using your photos Lauren Forristal Feds demand autonomous vehicle companies stop interfering with first responders Kirsten Korosec Figma acquires team behind a vibe-coding app Ivan Mehta",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
     {
       "id": "d8c4f12b71f9",
       "source": "techcrunch-ai",
@@ -5617,6 +5706,28 @@
         "security",
         "model-release"
       ]
+    },
+    {
+      "id": "1c2272f9572d",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "Claude for Creative Work",
+      "url": "https://www.anthropic.com/news/claude-for-creative-work",
+      "publishedAt": "2026-04-28",
+      "fetchedAt": "2026-07-13T22:01:44.862Z",
+      "contentText": null,
+      "summary": "Anthropic has released new connectors for Claude, allowing it to integrate with various creative software like Adobe Creative Cloud, Blender, and SketchUp. These integrations aim to assist creative professionals by automating repetitive tasks, extending tool capabilities through code, and facilitating rapid ideation and exploration. Claude can now act as an on-demand tutor, write scripts, bridge different tools in a pipeline, and handle production work, enabling creatives to focus on more ambitious projects.",
+      "enterpriseAngle": "Enterprise product development teams can leverage these connectors to enhance their creative workflows, accelerate design iterations, and automate routine tasks within their existing software ecosystems. This integration can lead to increased efficiency and the ability to tackle larger-scale creative projects with fewer manual handoffs.",
+      "beginner": "Claude can now connect with many creative apps to help artists and designers do their work faster and explore new ideas.",
+      "advanced": "Explore integrating Claude's new connectors into your existing creative production pipelines to automate asset processing, script custom functionalities, and streamline multi-application workflows for enhanced efficiency and scalability.",
+      "tags": [
+        "product",
+        "enterprise",
+        "partnership",
+        "coding"
+      ],
+      "dateChecked": true
     },
     {
       "id": "d88393494eb7",

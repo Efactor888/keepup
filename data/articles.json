@@ -1,6 +1,132 @@
 {
-  "updatedAt": "2026-07-14T22:11:23.654Z",
+  "updatedAt": "2026-07-15T15:00:22.222Z",
   "articles": [
+    {
+      "id": "83d5a15310e3",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
+      "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+      "publishedAt": "2026-07-15T13:10:47.000Z",
+      "fetchedAt": "2026-07-15T14:58:30.026Z",
+      "contentText": null,
+      "summary": "Anthropic, in partnership with Blackstone and other investors, has launched Ode, a $1.5 billion company focused on implementing AI solutions for enterprises. This venture aims to address the growing need for expert assistance in integrating AI models into business operations, a challenge that even large consulting firms have struggled with. Ode, built on the foundation of acquired startup Fractional AI, will deploy engineers to help companies tailor AI systems, primarily using Anthropic's technology, to their specific needs.",
+      "enterpriseAngle": "Enterprise product development and security teams will increasingly rely on specialized AI implementation partners like Ode to effectively integrate advanced AI models into their core processes and products, rather than solely focusing on model selection. This shift highlights the need for internal teams to collaborate with external experts who can navigate the complexities of applying AI to real-world business challenges, ensuring both functionality and secure deployment.",
+      "beginner": "Companies are realizing that simply having powerful AI models isn't enough; they need expert help to figure out how to actually use these models to improve their business.",
+      "advanced": "To maximize AI's impact, focus on developing robust implementation strategies and securing top-tier applied AI engineering talent, as the ability to customize and integrate AI solutions effectively will be a key differentiator over raw model capability.",
+      "tags": [
+        "enterprise",
+        "product",
+        "partnership",
+        "workforce"
+      ]
+    },
+    {
+      "id": "b4c19111324a",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Reelful's AI turns your camera roll into short-form videos for social media",
+      "url": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
+      "publishedAt": "2026-07-15T13:00:00.000Z",
+      "fetchedAt": "2026-07-15T14:58:30.026Z",
+      "contentText": null,
+      "summary": "Reelful, a new iOS app, utilizes AI to transform users' camera roll photos and videos into short-form social media content, such as TikToks and Instagram Reels. The app automates video creation, including scriptwriting, voiceovers, and editing, to simplify the process for users who find traditional tools complex. Founded by a former Snapchat ML engineer, Reelful aims to help individuals and businesses easily build their online presence.",
+      "enterpriseAngle": "Enterprise marketing and social media teams can leverage tools like Reelful to efficiently generate consistent, high-quality video content for brand building and customer engagement without extensive video editing resources. This shift towards AI-powered content creation agents can significantly reduce the time and cost associated with producing social media campaigns.",
+      "beginner": "AI can now automatically turn your everyday photos and videos into polished social media clips, making it much easier to share your life online.",
+      "advanced": "Evaluate integrating agentic video editing solutions into your content pipeline to streamline short-form video production, focusing on prompt-driven workflows and post-generation refinement capabilities.",
+      "tags": [
+        "agents",
+        "product",
+        "enterprise",
+        "consumer"
+      ]
+    },
+    {
+      "id": "110aa69c0257",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Rime picks up $24M Series A to help enterprises field customer calls",
+      "url": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/",
+      "publishedAt": "2026-07-15T13:00:00.000Z",
+      "fetchedAt": "2026-07-15T14:58:30.026Z",
+      "contentText": null,
+      "summary": "Rime, a voice AI startup, has secured $24 million in Series A funding to enhance its conversational AI models for enterprise customer calls. The company differentiates itself by training its models on proprietary conversational data collected in its own studio, aiming to reduce client customization needs and improve pronunciation of brand-specific terms. Rime is shifting its focus to developing better speech-to-speech models to address latency, turn-taking, and background noise, with existing customers in various sectors including healthcare and fintech.",
+      "enterpriseAngle": "Enterprises seeking to automate customer support will find Rime's approach to reducing customization load and improving voice AI accuracy appealing, though the current limitations of voice AI compared to traditional IVR systems remain a key consideration for adoption. Product development teams should note the shift towards integrated speech-to-speech models as a trend for improving voice AI performance and reducing orchestration complexity.",
+      "beginner": "Voice AI companies like Rime are trying to make automated phone calls sound more natural and helpful for customers by using specially trained AI models.",
+      "advanced": "Evaluate Rime's phoneme-based architecture and proprietary conversational data training for potential integration to improve brand entity pronunciation and industry-specific term accuracy in enterprise voice AI deployments, while monitoring their progress on speech-to-speech models for latency and turn-taking improvements.",
+      "tags": [
+        "funding",
+        "enterprise",
+        "product",
+        "agents"
+      ]
+    },
+    {
+      "id": "89bcfe85df02",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
+      "url": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
+      "publishedAt": "2026-07-15T12:00:00.000Z",
+      "fetchedAt": "2026-07-15T14:58:30.026Z",
+      "contentText": null,
+      "summary": "Emergent, an Indian AI coding startup, has achieved a $1.5 billion valuation after securing $130 million in Series C funding. The company provides a \"no-code\" platform that allows non-technical users, such as small businesses and entrepreneurs, to build production-grade applications. Emergent has over 200,000 paying customers and an annual run-rate revenue of $120 million.",
+      "enterpriseAngle": "Enterprise and product development teams can leverage platforms like Emergent to empower non-technical staff to build custom applications, potentially reducing reliance on traditional IT departments for certain development tasks and accelerating internal tool creation. This also highlights a growing market for AI tools that abstract away coding complexity for business users.",
+      "beginner": "Emergent helps people who aren't coders create their own software and apps using AI, making it easier for small businesses to build tools they need.",
+      "advanced": "Evaluate \"no-code\" AI platforms for specific internal use cases, focusing on their ability to handle deployment, hosting, testing, and debugging for non-technical users, while also assessing the platform's extensibility for integrating with local and open-source models.",
+      "tags": [
+        "funding",
+        "product",
+        "enterprise",
+        "coding"
+      ]
+    },
+    {
+      "id": "a7a2286fcda2",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
+      "url": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
+      "publishedAt": "2026-07-15T12:00:00.000Z",
+      "fetchedAt": "2026-07-15T14:58:30.026Z",
+      "contentText": null,
+      "summary": "Vint Cerf, a co-creator of the internet, is now advising Innovation Labs, a subsidiary of Identity Digital, on developing an open architecture for AI agents to identify themselves on the internet. This initiative aims to address the lack of a shared standard for agent identification and accountability, which is currently a roadblock to more autonomous AI agents operating across the open internet. Innovation Labs proposes DNSid, a registry that links AI agents to existing internet domain names using cryptographic proofs.",
+      "enterpriseAngle": "Enterprise security and product development teams will need to consider how to integrate and manage AI agents that can operate autonomously across the internet, requiring robust identification and accountability mechanisms. Adopting a standardized protocol for agent identity, such as DNSid, could be crucial for ensuring trust, auditing agent behavior, and mitigating risks associated with their actions.",
+      "beginner": "Just as websites have unique addresses, a new effort is underway to give AI programs unique online identities so we know who they are and who is responsible for their actions.",
+      "advanced": "Evaluate the feasibility and security implications of integrating DNSid or similar agent identification protocols into your enterprise's AI agent deployment strategy to ensure accountability and interoperability in a multi-agent ecosystem.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product",
+        "governance"
+      ]
+    },
+    {
+      "id": "26ddb907f98c",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+      "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+      "publishedAt": "2026-07-15T00:27:04.000Z",
+      "fetchedAt": "2026-07-15T14:58:30.026Z",
+      "contentText": null,
+      "summary": "Miles Wang, an OpenAI researcher, is reportedly leaving to launch a new startup focused on using AI for drug discovery, with several other OpenAI researchers expected to join him. The startup is in talks to raise $200 million at a $2 billion valuation, with Lightspeed potentially leading the funding round. This venture aims to apply AI to find new uses for existing drugs or those that previously failed trials, a strategy that could accelerate time to market.",
+      "enterpriseAngle": "Enterprise pharmaceutical and biotech companies should note the increasing trend of AI-driven drug discovery startups, which could lead to faster development cycles and new therapeutic avenues, potentially disrupting traditional R&D processes. Security teams in these enterprises must prepare for the unique data protection and intellectual property challenges associated with AI models handling sensitive biological and chemical data.",
+      "beginner": "AI is being used to help discover new medicines and find new uses for old ones, which could make drug development faster.",
+      "advanced": "Evaluate the potential for AI models to repurpose existing drug compounds within your R&D pipeline to accelerate time to revenue, while simultaneously implementing robust data governance and IP protection strategies for AI-generated insights.",
+      "tags": [
+        "research",
+        "product",
+        "funding",
+        "enterprise"
+      ]
+    },
     {
       "id": "3e68f8ee554f",
       "source": "techcrunch-ai",
@@ -50,12 +176,16 @@
       "url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
       "publishedAt": "2026-07-14T19:41:27.000Z",
       "fetchedAt": "2026-07-14T22:04:42.669Z",
-      "contentText": "Anthropic has consistently attempted to depict itself as the ethical foil to other AI companies. This latest marketing stunt — which leans into criticism of AI as a way to make Anthropic seem aware of the responsibility it carries — would appear to be more of the same.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Anthropic's latest advertisement is unsettling some viewers, as it attempts to position the company as an ethical alternative to other AI firms. This marketing strategy aims to demonstrate Anthropic's awareness of the responsibilities associated with AI development.",
+      "enterpriseAngle": "Enterprise product teams should carefully consider public perception and potential backlash when designing marketing campaigns for AI products, especially those that touch on ethical concerns. Companies must ensure their messaging aligns with their stated values and does not inadvertently create negative sentiment.",
+      "beginner": "AI companies are trying to show they are responsible, but sometimes their ads can make people uncomfortable.",
+      "advanced": "Evaluate the ethical implications and public reception of AI product marketing to ensure brand messaging resonates positively and reinforces responsible AI development principles.",
+      "tags": [
+        "enterprise",
+        "product",
+        "governance"
+      ]
     },
     {
       "id": "2d8ed8e7da75",
@@ -87,12 +217,17 @@
       "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
       "publishedAt": "2026-07-14T18:33:31.000Z",
       "fetchedAt": "2026-07-14T22:04:42.669Z",
-      "contentText": "A group of publishers and authors have filed a class action lawsuit against Google, accusing the tech giant of using their copyrighted works to train its AI platform, Gemini. The group of plaintiffs, which includes Hachette, Cengage, Elsevier, author Scott Turow, and S.C.R.I.B.E., also alleges that Google intentionally removed or changed copyright information on these works to \"conceal… that its Gemini Models were trained on stolen materials,\" according to the lawsuit. This lawsuit is just one of many complaints that publishers, authors, and other copyright holders have filed against AI companies such as Google, Meta, OpenAI, and Anthropic. While many of these lawsuits are still pending, two early court decisions in California have favored the AI companies, ruling that the use of copyrighted works for AI training is considered \" fair use \" under U.S. copyright law that has not been updated since before the existence of the internet. Anthropic was, however, fined $1.5 billion for pirating the works it trained on, marking the largest payout in the history of U.S. copyright law. Around half a million writers were eligible for payments of at least $3,000. However, many authors opted out of receiving the settlement so that they could pursue further legal action over AI training. The California judges' decisions don't bode well for how other courts may view the tech companies' fair use defense, but the conflict is too nuanced for these rulings to establish an inarguable precedent. The lawsuit against Google was filed in the U.S. District Court for the Southern District of New York, giving a different judge the opportunity to weigh in. In the Google case, the publishers have a more nuanced, long-term relationship with the company. The lawsuit explains that publishers and authors have a long history of providing Google with copyrighted works for the specific purpose of making books searchable through Google Books. These search results do not allow users to view entire books. Instead, they provide access to short snippets of the book along with bibliographic information. The plaintiffs claim that Google trained Gemini on copies of these books, as well as books uploaded to the Google Play store, even though it never received permission to do so. \"Google illegally copied works from all these scope-limited programs for AI training, knowing it lacked authorization to do so,\" the lawsuit reads. The plaintiffs also cite an internal document from Google that allegedly states that using copyrighted books for AI training could be \"highly problematic for Google\" and might result in \"$10Bs-$100Bs in potential fines.\" Google did not immediately respond to a request for comment. Topics AI , Google , google gemini , lawsuit When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Amanda Silberling Senior Writer Amanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture. She has also written for publications like Polygon, MTV, the Kenyon Review, NPR, and Business Insider. She is the co-host of Wow If True, a podcast about internet culture, with science fiction author Isabel J. Kim. Prior to joining TechCrunch, she worked as a grassroots organizer, museum educator, and film festival coordinator. She holds a B.A. in English from the University of Pennsylvania and served as a Princeton in Asia Fellow in Laos. You can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal. View Bio November 4 Boston Last chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world scaling insights and connections that move the needle. Savings end June 26, 11:59 p.m. PT . REGISTER NOW Most Popular Satya Nadella has issued a shocking warning to companies using AI Julie Bort The wildest allegations in Apple’s trade secrets lawsuit against OpenAI Sarah Perez Anthropic starts localizing Claude pricing for India, its biggest market after the US Jagmeet Singh Meta removes controversial AI feature on Instagram after backlash Lucas Ropek Apple sues OpenAI over alleged trade secret theft Sarah Perez Elon Musk praises Mythos/Fable, promises not to ‘cut off' Anthropic Julie Bort Instagram users: Here’s how to stop Meta’s AI from using your photos Lauren Forristal",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "A group of publishers and authors, including Hachette and Elsevier, have filed a class-action lawsuit against Google, alleging the company used their copyrighted works to train its Gemini AI without permission. The lawsuit claims Google also removed or altered copyright information to hide this use. This action is part of a broader trend of copyright holders suing AI companies over training data.",
+      "enterpriseAngle": "Enterprises developing AI models must navigate complex and evolving copyright laws, as demonstrated by ongoing lawsuits and varying court decisions regarding \"fair use\" of copyrighted material for AI training. This legal uncertainty poses significant financial and reputational risks, potentially leading to substantial fines and requiring robust legal counsel to ensure compliance.",
+      "beginner": "AI models learn by processing vast amounts of data, and there's a big legal debate about whether using copyrighted books and articles for this training is allowed.",
+      "advanced": "Evaluate your AI training data pipelines for potential copyright infringement risks, especially concerning data acquired through limited-scope agreements, and consider implementing robust content provenance tracking and rights management systems to mitigate legal exposure.",
+      "tags": [
+        "governance",
+        "policy",
+        "enterprise",
+        "security"
+      ]
     },
     {
       "id": "d37ce11fa5e9",
@@ -125,12 +260,17 @@
       "url": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
       "publishedAt": "2026-07-14T17:45:55.000Z",
       "fetchedAt": "2026-07-14T22:04:42.669Z",
-      "contentText": "In an X post on Tuesday morning, Google DeepMind CEO Demis Hassabis called for the creation of a new regulatory body to oversee frontier model releases. Titled \"A Framework for Frontier AI and the Dawning of a New Age,\" the post makes the case for a \"standards body\" modeled after the Financial Industry Regulatory Authority (FINRA), which could test frontier models and develop best practices for their release. \"Initially, Frontier Labs would voluntarily share models with the Standards Body for review up to 30 days before release,\" the post reads. \"Once the assessment protocol is shown to be effective and robust, formalisation could quickly follow, meaning that Frontier Models would be required to pass it to be deployed in the US market. Labs would also work with the Standards Body to address any critical post-release vulnerabilities.\" The proposed system would build on the ad hoc reviews performed by the U.S. government on Anthropic's Mythos and OpenAI's Sol. Those reviews drew significant criticism for lack of technical expertise and opaque decision-making as to when a model could be released. Under Hassabis' proposed regulator, those decisions could be handed off to a new organization, backed by the U.S. government but funded by the AI industry and operated independently. The prospect of AI regulation remains controversial for both the tech industry and the Trump administration. Most recently, White House AI advisor and a16z general partner Sriram Krishnan discounted the possibility of an AI regulator within the executive branch, saying \"there will not be an FDA for AI.\" Establishing the standards body as a self-regulatory organization like FINRA could be a way to address those concerns. Hassabis envisions the regulator being staffed by open source representatives and technical experts from within the industry, along with the financial backing from AI labs that would be necessary to retain them. They could even outsource some evaluations to the growing pool of AI safety groups that would be able to specialize in specific risks. \"The strength of this approach is it would be technically focused, while at the same time supporting innovation and incentivising responsible behaviour,\" Hassabis argues. \"It is designed to keep up with the field’s acceleration and adapt to the biggest risks as they are identified, and could be ratcheted up if the seriousness of the situation demands.\" Topics AI , AI regulation , DeepMind , Demis Hassabis When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Russell Brandom AI Editor Russell Brandom has been covering the tech industry since 2012, with a focus on platform policy and emerging technologies. He previously worked at The Verge and Rest of World, and has written for Wired, The Awl and MIT's Technology Review. He can be reached at russell.brandom@techcrunch.com or on Signal at 412-401-5489. View Bio November 4 Boston Last chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world scaling insights and connections that move the needle. Savings end June 26, 11:59 p.m. PT . REGISTER NOW Most Popular Satya Nadella has issued a shocking warning to companies using AI Julie Bort The wildest allegations in Apple’s trade secrets lawsuit against OpenAI Sarah Perez Anthropic starts localizing Claude pricing for India, its biggest market after the US Jagmeet Singh Meta removes controversial AI feature on Instagram after backlash Lucas Ropek Apple sues OpenAI over alleged trade secret theft Sarah Perez Elon Musk praises Mythos/Fable, promises not to ‘cut off' Anthropic Julie Bort Instagram users: Here’s how to stop Meta’s AI from using your photos Lauren Forristal",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Google DeepMind CEO Demis Hassabis has proposed an independent standards body, similar to FINRA, to regulate the release of frontier AI models. This body would test models, develop best practices, and address post-release vulnerabilities, with initial voluntary sharing becoming mandatory for deployment in the U.S. market. The system aims to improve upon current ad hoc government reviews by providing technical expertise and independent decision-making.",
+      "enterpriseAngle": "Enterprise product development teams working with frontier AI models could face new compliance requirements and a standardized review process before deploying their AI solutions in the U.S. market, potentially impacting release timelines and resource allocation for safety assessments.",
+      "beginner": "A new group might be created to check if advanced AI models are safe and fair before they are released to the public.",
+      "advanced": "Prepare for potential pre-release model assessments and ongoing vulnerability management requirements from a new industry-funded, government-backed standards body, necessitating robust internal safety protocols and collaboration with external AI safety groups.",
+      "tags": [
+        "policy",
+        "governance",
+        "enterprise",
+        "model-release"
+      ]
     },
     {
       "id": "dc9597f1b62f",
@@ -288,12 +428,16 @@
       "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
       "publishedAt": "2026-07-14T10:00:00.000Z",
       "fetchedAt": "2026-07-14T22:04:39.122Z",
-      "contentText": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Enterprises can optimize their AI investments in the agentic era by focusing on measuring the \"useful work per dollar\" generated by AI, enhancing efficiency, and scaling high-value workflows. This approach aims to maximize the return on investment in AI technologies.",
+      "enterpriseAngle": "Enterprise leaders should prioritize strategic AI investments that directly contribute to measurable business value and operational efficiency, particularly as autonomous AI agents become more prevalent.",
+      "beginner": "As AI gets smarter and can do more tasks on its own, businesses need to be smart about how they spend money on it to get the most benefit.",
+      "advanced": "Implement a robust framework for quantifying the ROI of agentic AI deployments, focusing on metrics that correlate directly with business outcomes and operational cost reductions.",
+      "tags": [
+        "enterprise",
+        "agents",
+        "funding"
+      ]
     },
     {
       "id": "78847ab0d8a7",
@@ -404,12 +548,16 @@
       "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
       "publishedAt": "2026-07-13T18:22:10.000Z",
       "fetchedAt": "2026-07-13T22:02:12.827Z",
-      "contentText": "Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple hardware to interviews. Here are the complaint’s most eye-catching claims.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Apple has filed a trade secret lawsuit against OpenAI, alleging unauthorized access to its systems and unusual requests during job interviews. The lawsuit details several claims, including employees making jokes about accessing Apple's systems without permission. It also claims that some job candidates were asked to bring Apple hardware to their interviews.",
+      "enterpriseAngle": "Enterprise security teams should review their internal data protection protocols and employee training on sensitive information to prevent similar trade secret disputes. Product development teams should also be aware of the potential for competitors to attempt to gain unauthorized access to proprietary information.",
+      "beginner": "Companies are very serious about protecting their secret information, and they can sue other companies if they think their secrets have been stolen.",
+      "advanced": "Implement robust data loss prevention (DLP) solutions and conduct regular audits of access logs to detect and prevent unauthorized data exfiltration or access attempts by internal and external actors.",
+      "tags": [
+        "security",
+        "enterprise",
+        "policy"
+      ]
     },
     {
       "id": "f4f67329799c",
@@ -462,12 +610,17 @@
       "url": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
       "publishedAt": "2026-07-13T16:31:23.000Z",
       "fetchedAt": "2026-07-13T22:02:12.827Z",
-      "contentText": "Quick question: Do you want AI to be so well trained, it could help husbands (or wives, for that matter) plan the perfect murder of their spouses? Just as a gut reaction, that feels like a no for me. I wouldn't even think it was a particularly hard question. But America contains many diverse perspectives, and one such perspective was shared by Comma AI founder and longtime jailbreaker George Hotz over the weekend. The post comes in response to a bunch of big-picture AI alignment plans, most recently the AI 2040: Plan A policy paper from the AI Futures Project. That paper envisions a world in which the world's researchers collectively choose to slow down AI development for 14 years for the good of humanity. But of course, not everyone who read the paper agrees with its premises or conclusion. In fact, Hotz disagrees with the whole premise that AI progress should be managed for the collective good. In his post, he argues that the fast-takeoff scenario — the hypothetical where AI rapidly obtains superhuman abilities — doesn't make a lot of sense. (I agree with a lot of what he says here!) For Hotz, the best approach to AI alignment and safety is to focus on locally controlled AI models that are closely aligned with the interests of their users. That's a cool idea, particularly since it reminds me how much of current AI is built around centrally managed services like Claude and ChatGPT. There are infrastructure-related reasons why AI services developed this way: It's expensive to host these large state-of-the-art models and most people aren't using them enough throughout the day to justify truly personal AI. But those factors become less important as the technology develops. Part of what was so exciting about OpenClaw was this experimental, DIY approach, and it would be great to see more AI products try to recapture that. But Hotz is a provocateur by nature, so he doesn't stop there. He compares user-aligned AI to a gun(!), which does not complain if you use it to kill your stepmom. (I feel like there are other rules against this?) A truly aligned AI would be able to order meth-lab equipment from Amazon Prime and show you how to use it if that's what you wanted and asked for, he says. (Again, I don't think AI would be the limiting factor here.) Hotz even says he would die to defend this principle, although it's hard to imagine the series of events that would lead to that. \"We either live in a world with freedom or we don't,\" Hotz writes. If those are the options, the freedom world does sound better! Still, I don't know. It's not all about freedom, right? Any structure involving a lot of people (societies, marketplaces, corporations, etc.) requires balancing equities, binding individual needs into a network of interdependent preferences and systems of accountability. And anyone deploying mass-market tech products should probably think about that network as a whole, which means taking seriously the interests of the as-yet-unmurdered spouses and stepparents of the world. The freedom Hotz experiences is really a space of potential futures made possible by collective enterprise; those futures would disappear overnight if we all started behaving like little AI-powered Napoleons. Like the meme says, we live in a society. Having a local AI willing to take on the corporate world for my benefit does sound cool though! I can't wait for a review unit. Topics AI , alignment , George Hotz When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Russell Brandom AI Editor Russell Brandom has been covering the tech industry since 2012, with a focus on platform policy and emerging technologies. He previously worked at The Verge and Rest of World, and has written for Wired, The Awl and MIT's Technology Review. He can be reached at russell.brandom@techcrunch.com or on Signal at 412-401-5489. View Bio November 4 Boston Last chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world scaling insights and connections that move the needle. Savings end June 26, 11:59 p.m. PT . REGISTER NOW Most Popular Reed Jobs would rather talk about curing cancer than his last name Connie Loizos Meta removes controversial AI feature on Instagram after backlash Lucas Ropek Apple sues OpenAI over alleged trade secret theft Sarah Perez Elon Musk praises Mythos/Fable, promises not to ‘cut off' Anthropic Julie Bort Instagram users: Here’s how to stop Meta’s AI from using your photos Lauren Forristal Feds demand autonomous vehicle companies stop interfering with first responders Kirsten Korosec Figma acquires team behind a vibe-coding app Ivan Mehta",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "George Hotz, founder of Comma AI, argues against slowing down AI development and advocates for locally controlled AI models that are closely aligned with user interests. He suggests that a truly user-aligned AI should fulfill any user request, even if it involves illegal activities, comparing it to a gun that doesn't complain about its use. This perspective challenges the idea of managing AI for collective good and raises questions about societal responsibilities in AI deployment.",
+      "enterpriseAngle": "Enterprise product development teams must consider the ethical implications and potential misuse of AI, balancing user freedom with societal safety and legal compliance. The debate highlights the tension between individual user alignment and the broader network of interdependent preferences and systems of accountability required in mass-market technology.",
+      "beginner": "Some people believe AI should be completely free to help users with anything they ask, while others think AI development needs to be managed for everyone's safety.",
+      "advanced": "When designing AI systems, prioritize robust safety guardrails and ethical frameworks that account for potential misuse cases, even with user-aligned local models, to mitigate legal and reputational risks.",
+      "tags": [
+        "policy",
+        "governance",
+        "product",
+        "security"
+      ]
     },
     {
       "id": "d8c4f12b71f9",

@@ -1,6 +1,152 @@
 {
-  "updatedAt": "2026-07-15T15:00:22.222Z",
+  "updatedAt": "2026-07-15T22:10:08.922Z",
   "articles": [
+    {
+      "id": "99a19263a8c1",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+      "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+      "publishedAt": "2026-07-15T19:41:38.000Z",
+      "fetchedAt": "2026-07-15T22:08:17.088Z",
+      "contentText": null,
+      "summary": "OpenAI has launched a $230 light-up keyboard, the Codex Micro, designed to manage its AI coding assistant, Codex, and its coding agents. This limited-run product, co-designed with Work Louder, features \"Agent Keys\" and customizable \"Command Keys\" for agent interaction. The release comes amidst a legal battle with Apple, which is suing OpenAI for alleged trade secret theft related to a separate, unreleased hardware device.",
+      "enterpriseAngle": "Enterprises adopting AI coding assistants like Codex could find specialized hardware like the Codex Micro useful for streamlining developer workflows and managing AI agents more efficiently. However, the ongoing legal dispute with Apple highlights potential intellectual property risks and the importance of due diligence in AI partnerships and hardware development.",
+      "beginner": "OpenAI has made a special keyboard to help people control their AI coding helpers more easily, but they are also in a legal fight with Apple over another device.",
+      "advanced": "Evaluate the integration potential of specialized AI agent control hardware with existing enterprise development environments, while closely monitoring the implications of ongoing IP litigation on future AI hardware and software partnerships.",
+      "tags": [
+        "product",
+        "hardware",
+        "agents",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "4dc636eadcdf",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
+      "url": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
+      "publishedAt": "2026-07-15T18:06:05.000Z",
+      "fetchedAt": "2026-07-15T22:08:17.088Z",
+      "contentText": null,
+      "summary": "SpaceX's stock price has fallen to $135, its initial IPO price, after a month of steady decline since going public. The volatility is attributed to a small percentage of shares trading and intense market attention, alongside a broader tech stock downturn. The company is preparing for a Starship rocket test launch, which could further impact its stock.",
+      "enterpriseAngle": "The performance of SpaceX's IPO is being closely watched by other major tech companies like Anthropic and OpenAI, as it may influence their own plans to go public. Enterprise product development teams should note the 'fly, fail, fix' approach to rapid iteration, though this carries significant market risk as seen with SpaceX's stock volatility.",
+      "beginner": "SpaceX's stock, which recently went public, has dropped back to its original price, showing how unpredictable new company stocks can be.",
+      "advanced": "Monitor the correlation between SpaceX's Starship launch outcome and its stock performance to gauge market sentiment on high-risk, high-reward innovation for future IPOs of AI-centric companies.",
+      "tags": [
+        "enterprise",
+        "product",
+        "funding",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "976a1a3eff5f",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
+      "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+      "publishedAt": "2026-07-15T18:04:06.000Z",
+      "fetchedAt": "2026-07-15T22:08:17.088Z",
+      "contentText": null,
+      "summary": "Thinking Machines Lab, founded by former OpenAI CTO Mira Murati, has released Inkling, its first open-weight AI model. Inkling is a mixture-of-experts system designed for customization, allowing organizations to adapt it to their specific needs rather than relying on one-size-fits-all models. The company aims for well-rounded performance and emphasizes efficiency, claiming Inkling can achieve similar coding performance to competitors using fewer tokens.",
+      "enterpriseAngle": "Enterprises can leverage Inkling as a customizable foundation model, fine-tuning it with their proprietary data to create specialized AI solutions, potentially outperforming general-purpose models at a lower operational cost. However, this approach shifts the responsibility for safety and security of customized models to the enterprise, requiring significant in-house machine learning expertise.",
+      "beginner": "Some AI models are designed to be changed and improved by the companies that use them, rather than being used exactly as they are made.",
+      "advanced": "Evaluate Inkling's open-weight architecture and customization platform, Tinker, for domain-specific fine-tuning opportunities, considering the trade-off between model performance, operational cost, and the increased internal ML talent required for responsible deployment and safety.",
+      "tags": [
+        "model-release",
+        "enterprise",
+        "product",
+        "coding"
+      ]
+    },
+    {
+      "id": "fe02d8addd90",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+      "publishedAt": "2026-07-15T17:09:37.000Z",
+      "fetchedAt": "2026-07-15T22:08:17.306Z",
+      "contentText": null,
+      "summary": "OpenAI developed GPT-Red, an LLM designed to act as a \"super-hacker\" to test and improve the cybersecurity defenses of its other AI models. This internal tool helped make OpenAI's latest flagship model, GPT-5.6, its most robust release to date against cyberattacks.",
+      "enterpriseAngle": "Enterprise security teams can learn from OpenAI's approach of using adversarial AI to proactively identify and mitigate vulnerabilities in their own AI systems and products. Product development teams should consider integrating similar red-teaming methodologies early in the AI development lifecycle to enhance model resilience.",
+      "beginner": "OpenAI created a special AI to \"hack\" its other AIs, making them stronger and safer from real cyber threats.",
+      "advanced": "Implement an adversarial AI red-teaming framework to continuously stress-test your production LLMs for novel attack vectors and data exfiltration risks, integrating findings directly into your security hardening and model retraining pipelines.",
+      "tags": [
+        "security",
+        "model-release",
+        "product",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "264ddc681c98",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
+      "url": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
+      "publishedAt": "2026-07-15T17:00:34.000Z",
+      "fetchedAt": "2026-07-15T22:08:17.088Z",
+      "contentText": null,
+      "summary": "AI music generator Suno was reportedly hacked, with the hacker claiming to have accessed source code indicating Suno scraped audio from YouTube Music, Deezer, Genius, and other sources for training data. This alleged scraping of YouTube data, if true, would violate YouTube's terms of service and potentially the DMCA, an issue currently central to lawsuits against Suno by major record labels. The hacker also claims to have accessed customer data, including emails and partial credit card numbers, from a November 2025 breach that Suno did not disclose.",
+      "enterpriseAngle": "Enterprise product development teams using AI models must ensure their data acquisition practices comply with copyright law and platform terms of service to avoid legal challenges and reputational damage. Security teams need to prioritize robust supply chain security and timely breach notification to customers, as delayed disclosure can exacerbate the impact of security incidents.",
+      "beginner": "AI systems learn by analyzing vast amounts of data, and how that data is collected, especially from copyrighted sources, is a major legal and ethical challenge.",
+      "advanced": "Implement stringent third-party risk management for all vendors and conduct regular audits of data provenance for AI training datasets to mitigate legal and security risks associated with data scraping and supply chain vulnerabilities.",
+      "tags": [
+        "security",
+        "enterprise",
+        "policy",
+        "product"
+      ]
+    },
+    {
+      "id": "4171beed3f2f",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
+      "url": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
+      "publishedAt": "2026-07-15T17:00:00.000Z",
+      "fetchedAt": "2026-07-15T22:08:17.088Z",
+      "contentText": null,
+      "summary": "Whatnot, a livestream shopping platform, has acquired Shaped, an AI startup specializing in real-time recommendations and search. This acquisition aims to enhance Whatnot's personalization and discovery features as it grows into new product areas.",
+      "enterpriseAngle": "Enterprise product teams can leverage such acquisitions to integrate advanced AI capabilities, improving user experience through personalized recommendations and search functionalities. This strategy can drive customer engagement and facilitate expansion into new markets.",
+      "beginner": "A shopping app bought a company that makes AI better at suggesting things you might like to buy.",
+      "advanced": "Evaluate the strategic benefits of acquiring specialized AI startups to accelerate the integration of real-time recommendation engines and enhance product discovery within existing platforms.",
+      "tags": [
+        "enterprise",
+        "product",
+        "partnership"
+      ]
+    },
+    {
+      "id": "8ed791a2a8b1",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
+      "url": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
+      "publishedAt": "2026-07-15T16:20:18.000Z",
+      "fetchedAt": "2026-07-15T22:08:17.088Z",
+      "contentText": null,
+      "summary": "Microsoft has released a record 570 security patches for its products, including Windows and Office, attributing the high volume to its use of AI in discovering code vulnerabilities. Among these fixes are two zero-day vulnerabilities, one affecting Windows Server and another impacting SharePoint, both of which were actively exploited before Microsoft became aware of them. The company anticipates a continued increase in security updates as AI tools become more adept at identifying dormant bugs.",
+      "enterpriseAngle": "Enterprise security teams should prepare for a potentially higher volume of security updates from vendors like Microsoft as AI-powered vulnerability discovery becomes more prevalent. Product development teams can leverage AI tools to proactively identify and patch security flaws in their own software, especially in legacy codebases.",
+      "beginner": "AI is helping companies like Microsoft find and fix more security problems in their software than ever before.",
+      "advanced": "Integrate AI-driven vulnerability scanning into your SDLC to proactively identify and remediate security flaws, particularly in long-standing codebases, and anticipate an increased cadence of vendor security patches.",
+      "tags": [
+        "security",
+        "enterprise",
+        "product",
+        "coding"
+      ]
+    },
     {
       "id": "83d5a15310e3",
       "source": "techcrunch-ai",
@@ -107,6 +253,45 @@
       ]
     },
     {
+      "id": "1e97faa490fa",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "The US is advancing AI safety through state and federal action",
+      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "publishedAt": "2026-07-15T12:00:00.000Z",
+      "fetchedAt": "2026-07-15T22:08:14.863Z",
+      "contentText": null,
+      "summary": "OpenAI proposes a \"reverse federalism\" strategy for AI governance, suggesting that state-level regulations could form the foundation for a comprehensive national framework. This approach aims to ensure the development of safe and democratic AI systems across the United States.",
+      "enterpriseAngle": "Enterprise product and policy teams should monitor emerging state-level AI regulations as these could influence future national standards and compliance requirements for AI development and deployment.",
+      "beginner": "\"Reverse federalism\" means that state laws on AI safety could eventually lead to federal laws.",
+      "advanced": "Track state legislative developments in AI governance to anticipate future federal regulatory trends and adapt internal AI safety and compliance strategies proactively.",
+      "tags": [
+        "policy",
+        "governance"
+      ]
+    },
+    {
+      "id": "ee230258f27f",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "publishedAt": "2026-07-15T10:00:00.000Z",
+      "fetchedAt": "2026-07-15T22:08:14.863Z",
+      "contentText": null,
+      "summary": "OpenAI has introduced GPT-Red, an automated red teaming system designed to enhance AI safety and alignment. This system utilizes a self-play mechanism to improve its robustness against prompt injection attacks.",
+      "enterpriseAngle": "Enterprise security teams can leverage similar automated red teaming approaches to proactively identify and mitigate vulnerabilities in their AI systems, particularly concerning prompt injection and model misuse.",
+      "beginner": "GPT-Red is like an AI that tests other AIs to make them safer and harder to trick.",
+      "advanced": "Implement self-play red teaming frameworks to continuously evaluate and strengthen your LLM deployments against adversarial attacks, focusing on prompt injection and data exfiltration vectors.",
+      "tags": [
+        "security",
+        "research",
+        "model-release"
+      ]
+    },
+    {
       "id": "26ddb907f98c",
       "source": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -125,6 +310,27 @@
         "product",
         "funding",
         "enterprise"
+      ]
+    },
+    {
+      "id": "7a6e0dd34e66",
+      "source": "xai",
+      "sourceName": "xAI (Grok)",
+      "tier": "realtime",
+      "title": "Jul 15, 2026 Grok Build is Now Open Source",
+      "url": "https://x.ai/news/grok-build-open-source",
+      "publishedAt": "2026-07-15",
+      "fetchedAt": "2026-07-15T22:08:15.275Z",
+      "contentText": null,
+      "summary": "xAI has open-sourced Grok Build, its coding agent and terminal user interface (TUI), making the code available on GitHub. This release allows users to examine the agent's internal workings, including context assembly and tool-call dispatch. It also enables local-first operation, allowing compilation and use with local inference.",
+      "enterpriseAngle": "Enterprises can leverage Grok Build's open-source nature to customize and integrate a coding agent into their development workflows, enhancing developer productivity and enabling more secure, local-first operations for sensitive codebases.",
+      "beginner": "Grok Build is a tool that helps coders by automating some tasks, and now anyone can see how it works and even run it on their own computer.",
+      "advanced": "Explore Grok Build's source on GitHub to understand its agent loop, tool dispatch, and extension system for potential integration with existing enterprise development environments and local inference solutions.",
+      "tags": [
+        "model-release",
+        "coding",
+        "enterprise",
+        "product"
       ]
     },
     {
@@ -6217,6 +6423,28 @@
         "enterprise",
         "model-release"
       ]
+    },
+    {
+      "id": "29276d540e65",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "Agents for financial services",
+      "url": "https://www.anthropic.com/news/finance-agents",
+      "publishedAt": "2026-05-05",
+      "fetchedAt": "2026-07-15T22:08:04.969Z",
+      "contentText": null,
+      "summary": "Anthropic has released ten new AI agent templates designed to automate time-consuming tasks in financial services, such as building pitchbooks, screening KYC files, and month-end closing. These agents are available as plugins for Claude Cowork and Claude Code, or as cookbooks for Claude Managed Agents, and integrate with Microsoft 365 applications like Excel and PowerPoint. The updates aim to enable financial teams to deploy AI for real work in days, leveraging Claude Opus 4.7, which performs strongly on financial benchmarks.",
+      "enterpriseAngle": "Enterprise financial institutions can leverage these ready-to-run AI agent templates to significantly accelerate workflows, reduce manual effort in critical tasks like financial modeling and compliance, and integrate AI directly into existing Microsoft 365 environments, thereby enhancing productivity and operational efficiency. Security and product development teams will need to ensure proper governance, data access controls, and auditability for these AI-driven processes.",
+      "beginner": "AI agents are like smart assistants that can help financial professionals with repetitive tasks, making their work faster and more efficient.",
+      "advanced": "Evaluate the new Claude agent templates and their integration capabilities with Microsoft 365 and existing data ecosystems to identify opportunities for automating high-volume, low-complexity financial operations, while establishing robust governance frameworks for data access and audit trails.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product",
+        "partnership"
+      ],
+      "dateChecked": true
     },
     {
       "id": "9de0dd4cab13",

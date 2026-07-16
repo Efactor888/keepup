@@ -1,6 +1,269 @@
 {
-  "updatedAt": "2026-07-16T15:09:48.536Z",
+  "updatedAt": "2026-07-16T22:12:40.355Z",
   "articles": [
+    {
+      "id": "cec1ebe5d23f",
+      "source": "venturebeat-ai",
+      "sourceName": "VentureBeat AI",
+      "tier": "daily",
+      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+      "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+      "publishedAt": "2026-07-16T19:16:48.000Z",
+      "fetchedAt": "2026-07-16T22:09:41.804Z",
+      "contentText": null,
+      "summary": "Enterprises are rapidly increasing their spending on AI infrastructure, often without a clear understanding of the associated costs. Many organizations are underutilizing their current GPU resources and lack rigorous tracking of their AI compute expenses. A significant number of enterprises plan to switch or add infrastructure providers soon, prioritizing integration and total cost of ownership over headline pricing.",
+      "enterpriseAngle": "Enterprise product development and security teams must prioritize robust cost tracking and utilization metrics for AI infrastructure to avoid overspending and ensure efficient resource allocation. The high churn intent among infrastructure providers suggests a need for flexible, well-integrated solutions that offer clear economic visibility.",
+      "beginner": "Companies are buying a lot of AI computer power very quickly, but many don't know how much it actually costs or if they are using it efficiently.",
+      "advanced": "Implement comprehensive FinOps strategies for AI compute, focusing on granular cost attribution, utilization monitoring, and TCO analysis to optimize infrastructure investments and inform vendor selection.",
+      "tags": [
+        "enterprise",
+        "infrastructure",
+        "funding",
+        "governance"
+      ]
+    },
+    {
+      "id": "09e86f1db1bc",
+      "source": "venturebeat-ai",
+      "sourceName": "VentureBeat AI",
+      "tier": "daily",
+      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+      "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+      "publishedAt": "2026-07-16T19:02:38.000Z",
+      "fetchedAt": "2026-07-16T22:09:41.804Z",
+      "contentText": null,
+      "summary": "A recent study found that 54% of enterprises have experienced an AI agent security incident or near-miss, largely due to inadequate security controls. Most organizations allow AI agents to share credentials and only a third assign unique, scoped identities to each agent, creating a significant security gap. Despite high satisfaction with current, often borrowed, security tools, a majority of enterprises plan to change their tooling within the year.",
+      "enterpriseAngle": "Enterprise security teams face a critical challenge in managing AI agent security, as current practices of shared credentials and insufficient isolation create broad attack surfaces. Product development teams must prioritize building robust identity and access management (IAM) solutions specifically for AI agents to mitigate risks and prevent data breaches.",
+      "beginner": "AI agents, which are computer programs that act autonomously, need their own unique digital IDs and restricted access to prevent security problems, similar to how human employees have their own logins and permissions.",
+      "advanced": "Implement a zero-trust architecture for AI agents, ensuring each agent has a unique, scoped identity with least privilege access, and isolate high-risk agents in sandboxed environments to minimize blast radius from potential compromises.",
+      "tags": [
+        "security",
+        "enterprise",
+        "agents",
+        "research"
+      ]
+    },
+    {
+      "id": "d4ca69cf5d37",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Google Vids now lets you star in your own AI videos",
+      "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+      "publishedAt": "2026-07-16T18:32:54.000Z",
+      "fetchedAt": "2026-07-16T22:09:41.428Z",
+      "contentText": null,
+      "summary": "Google Vids now includes personalized AI avatars, allowing users to create videos featuring a digital representation of themselves. This new feature is powered by Gemini Omni, which also assists in generating and editing videos from user prompts and reference images.",
+      "enterpriseAngle": "Enterprise product development teams can explore integrating similar personalized avatar technology into their own applications to enhance user engagement and create more dynamic content.",
+      "beginner": "Google Vids now lets you make videos where an AI version of you appears on screen.",
+      "advanced": "Evaluate the Gemini Omni API for custom avatar generation and video editing capabilities to integrate into enterprise content creation workflows.",
+      "tags": [
+        "product",
+        "consumer",
+        "model-release"
+      ]
+    },
+    {
+      "id": "e3176d1ee3b1",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
+      "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+      "publishedAt": "2026-07-16T18:22:06.000Z",
+      "fetchedAt": "2026-07-16T22:09:41.428Z",
+      "contentText": null,
+      "summary": "Roblox has launched a new mobile feature called \"Build\" that allows users to create basic games using AI from simple text prompts, without requiring programming experience. This feature, powered by a mix of open-source and proprietary AI models, handles various aspects of game creation, including mechanics, environment, and visual style. While it aims to accelerate creation, concerns exist among developers about a potential increase in low-quality, repetitive games and heightened competition.",
+      "enterpriseAngle": "Enterprise product development teams can learn from Roblox's approach to integrating AI-powered creation tools, balancing user accessibility with quality control mechanisms like retention-based ranking. Security teams should consider the implications of user-generated content, especially when AI is involved, and how to mitigate risks associated with an influx of potentially unmoderated or malicious creations.",
+      "beginner": "Roblox is making it easier for anyone to create simple games on their phone by just typing what they want, using AI to build the game for them.",
+      "advanced": "Evaluate the efficacy of Roblox's retention-based ranking system for AI-generated content in maintaining platform quality and explore similar strategies for managing user-generated AI assets in your own enterprise applications.",
+      "tags": [
+        "product",
+        "consumer",
+        "agents"
+      ]
+    },
+    {
+      "id": "e9ea1363a186",
+      "source": "venturebeat-ai",
+      "sourceName": "VentureBeat AI",
+      "tier": "daily",
+      "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
+      "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
+      "publishedAt": "2026-07-16T17:06:08.000Z",
+      "fetchedAt": "2026-07-16T22:09:41.804Z",
+      "contentText": null,
+      "summary": "A recent survey of 101 enterprises reveals a significant \"context gap\" in AI agent performance, where agents confidently provide incorrect answers due to missing or inconsistent business context. Over half of enterprises reported this issue within the last six months, highlighting a trust problem rather than a retrieval problem. While a governed semantic layer is emerging as a solution, most organizations are still in the process of building it.",
+      "enterpriseAngle": "Enterprise security and product development teams must prioritize building robust, governed semantic layers to ensure the accuracy and trustworthiness of AI agents, as current retrieval-augmented generation (RAG) systems frequently lead to confident but incorrect outputs. This requires careful consideration of data consistency and the integration of reliable context sources to prevent the erosion of user trust in AI applications.",
+      "beginner": "AI systems sometimes give wrong answers even when they sound very sure, because the information they are using is incomplete or incorrect.",
+      "advanced": "Implement a governed semantic layer and evaluate hybrid retrieval strategies, while carefully assessing the long-term implications of consolidating onto provider-native context stacks versus maintaining best-of-breed standalone tools, given the current market's conflicting preferences and usage patterns.",
+      "tags": [
+        "enterprise",
+        "research",
+        "product",
+        "governance"
+      ]
+    },
+    {
+      "id": "9a3bfba7061e",
+      "source": "venturebeat-ai",
+      "sourceName": "VentureBeat AI",
+      "tier": "daily",
+      "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
+      "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+      "publishedAt": "2026-07-16T16:40:48.000Z",
+      "fetchedAt": "2026-07-16T22:09:41.804Z",
+      "contentText": null,
+      "summary": "A recent survey of 157 enterprises reveals a significant \"evaluation gap\" in AI agent deployment: organizations are increasing agent autonomy while simultaneously distrusting their evaluation methods. Half of these organizations have deployed an agent that passed internal tests but failed customers in production, with only 5% fully trusting automated evaluations. Despite these issues, two-thirds of enterprises are moving towards fully automated, human-free deployment of agent changes.",
+      "enterpriseAngle": "Enterprise product development teams face a critical challenge in ensuring the reliability of AI agents, as current evaluation methods often fail to predict real-world performance, leading to customer-facing failures. Security teams must consider the risks of increased agent autonomy and automated deployments without robust, real-world aligned evaluation and assurance processes.",
+      "beginner": "Even if an AI agent passes internal tests, it might still fail when used by real customers, highlighting the difficulty in making AI reliable.",
+      "advanced": "Prioritize developing and integrating real-time quality checks on live production traffic and invest in evaluation platforms that demonstrably align with real-world outcomes to close the agent evaluation gap before scaling automated deployment pipelines.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product",
+        "research"
+      ]
+    },
+    {
+      "id": "8fe39edff791",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Why teens deserve access to safe AI",
+      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "publishedAt": "2026-07-16T16:00:00.000Z",
+      "fetchedAt": "2026-07-16T22:09:37.406Z",
+      "contentText": null,
+      "summary": "OpenAI is implementing new measures to make ChatGPT safer for teenagers. These include age-appropriate safeguards, educational tools, and parental control features. The company is also collaborating with experts to enhance these protections.",
+      "enterpriseAngle": "Enterprises developing AI products for younger users should prioritize safety features, age-appropriate content filtering, and robust parental controls to ensure responsible deployment and user trust. This also highlights the importance of partnerships with child safety experts to guide product development.",
+      "beginner": "AI companies are working to make their tools safe and helpful for young people by adding special protections and learning features.",
+      "advanced": "Integrate comprehensive age verification, content moderation pipelines, and customizable parental oversight into AI product roadmaps targeting adolescent demographics, leveraging external child safety expertise for policy and feature validation.",
+      "tags": [
+        "product",
+        "governance",
+        "consumer",
+        "partnership"
+      ]
+    },
+    {
+      "id": "85cdb4a3634b",
+      "source": "google-ai",
+      "sourceName": "Google AI",
+      "tier": "realtime",
+      "title": "Connect more of your apps to Search",
+      "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+      "publishedAt": "2026-07-16T16:00:00.000Z",
+      "fetchedAt": "2026-07-16T22:09:37.714Z",
+      "contentText": null,
+      "summary": "Google is rolling out a new feature in AI Mode for Search that allows users to securely link and interact with their favorite apps directly within search results. This integration enables users to perform tasks like adding groceries to an Instacart cart, finding design templates in Canva, or curating playlists on YouTube Music without leaving the search page. The feature is starting to roll out in the U.S. and Google plans to add more app integrations in the future.",
+      "enterpriseAngle": "This development offers enterprises new avenues for product integration with Google Search's AI Mode, potentially streamlining customer workflows and increasing engagement with their services directly from search results. Product development teams should consider how their applications can leverage these direct integrations to offer more seamless user experiences.",
+      "beginner": "You can now connect your favorite apps like Instacart or YouTube Music directly to Google's AI Search to do things like add items to a shopping cart or create music playlists without leaving your search results.",
+      "advanced": "Evaluate the potential for deep linking and API integrations with Google's AI Mode in Search to enhance user journeys and reduce friction for key enterprise applications, focusing on secure data exchange and user consent mechanisms.",
+      "tags": [
+        "product",
+        "enterprise",
+        "agents"
+      ]
+    },
+    {
+      "id": "45a4595f19b7",
+      "source": "google-ai",
+      "sourceName": "Google AI",
+      "tier": "realtime",
+      "title": "Create, edit and star in videos with two Google Vids updates",
+      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+      "publishedAt": "2026-07-16T16:00:00.000Z",
+      "fetchedAt": "2026-07-16T22:09:37.714Z",
+      "contentText": null,
+      "summary": "Google Vids has introduced two new features: Gemini Omni and personal avatars. Gemini Omni allows users to generate and edit high-quality videos using text prompts and image references, making it easier to refine clips. Personal avatars enable users to create a digital likeness of themselves from a selfie and voice recording to star in videos without needing to film.",
+      "enterpriseAngle": "Enterprise product development teams can leverage these tools to rapidly create internal communications, training materials, or marketing content, significantly reducing production time and resource demands for video creation. Security teams should note the inclusion of SynthID digital watermarks for AI-generated content, which aids in content transparency and verification.",
+      "beginner": "Google Vids now lets you make and change videos just by typing what you want, and you can even create a digital version of yourself to speak in the videos.",
+      "advanced": "Integrate Gemini Omni into your content pipeline to automate initial video drafts and iterative edits, while utilizing personal avatars for scalable, personalized video communications, ensuring all AI-generated outputs are auditable via SynthID watermarks.",
+      "tags": [
+        "product",
+        "enterprise",
+        "model-release",
+        "security"
+      ]
+    },
+    {
+      "id": "4ccf42e2190c",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Google's AI Mode now lets you link and interact with select apps",
+      "url": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
+      "publishedAt": "2026-07-16T16:00:00.000Z",
+      "fetchedAt": "2026-07-16T22:09:41.428Z",
+      "contentText": null,
+      "summary": "Google's AI Mode now allows users to link and interact with select third-party applications such as Instacart, Canva, and YouTube, expanding its functionality beyond answering questions to completing tasks. This update enables users to perform actions like adding groceries to a cart or generating design templates directly through AI Mode. The feature is rolling out to U.S. users and aims to enhance Google's competitive standing against other AI platforms that offer similar integrations.",
+      "enterpriseAngle": "Enterprise product development teams can leverage this trend of AI-powered app integration to create more seamless and efficient workflows for their users, potentially reducing friction and increasing engagement within their own applications. Security teams must consider the implications of these integrations on data privacy and access controls, ensuring that connecting AI models to enterprise applications does not introduce new vulnerabilities or data leakage risks.",
+      "beginner": "Google's AI Mode can now connect to other apps you use, making it easier to get things done like ordering groceries or creating designs without leaving the AI assistant.",
+      "advanced": "Evaluate the strategic implications of deep AI-powered application integrations for your product roadmap, focusing on API design for secure and efficient data exchange, and developing robust consent and access management frameworks to protect user data across connected services.",
+      "tags": [
+        "product",
+        "enterprise",
+        "agents",
+        "consumer"
+      ]
+    },
+    {
+      "id": "5f22dfb9fcfe",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Yes, you can now order DoorDash from the command line",
+      "url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
+      "publishedAt": "2026-07-16T15:38:55.000Z",
+      "fetchedAt": "2026-07-16T22:09:41.428Z",
+      "contentText": null,
+      "summary": "DoorDash has launched a limited beta of dd-cli, a command-line interface tool. This tool enables developers and AI agents to search for stores, create shopping carts, and place orders directly from the terminal.",
+      "enterpriseAngle": "This development allows enterprise product teams to integrate DoorDash ordering capabilities into their own applications or internal tools, potentially automating procurement or employee benefits through AI agents.",
+      "beginner": "DoorDash is making it possible for computers and AI programs to order food automatically, without a person using the app.",
+      "advanced": "Explore integrating the dd-cli into internal AI agent workflows for automated supply chain management or corporate catering solutions.",
+      "tags": [
+        "agents",
+        "product",
+        "coding"
+      ]
+    },
+    {
+      "id": "d322af2b7cf7",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Why is OpenAI selling a ChatGPT basketball?",
+      "url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
+      "publishedAt": "2026-07-16T15:31:09.000Z",
+      "fetchedAt": "2026-07-16T22:09:41.428Z",
+      "contentText": null,
+      "summary": "OpenAI has released its first hardware product, a $230 mini keyboard, alongside a $70 ChatGPT-branded basketball and other merchandise. The basketball is part of a \"Pause. Play. Prompt.\" campaign, which appears to encourage users to take breaks from screens. The article questions the target audience and utility of the branded basketball.",
+      "enterpriseAngle": "While OpenAI's primary business is AI models, this venture into branded merchandise and hardware could be seen as an attempt to build brand recognition and foster a broader, more lifestyle-oriented connection with its user base, potentially influencing future consumer product strategies for other AI companies. Enterprise product teams might consider how such branding efforts could extend beyond core software offerings.",
+      "beginner": "OpenAI, known for its AI software like ChatGPT, is now selling physical items like a keyboard and a basketball, which is a new way for a tech company to connect with people.",
+      "advanced": "Evaluate the potential for brand extension and consumer engagement through non-core product offerings, considering the balance between brand visibility and perceived product-market fit, especially in a rapidly evolving AI landscape.",
+      "tags": [
+        "product",
+        "consumer",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "5e9c9fdf3aea",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
+      "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
+      "publishedAt": "2026-07-16T15:02:00.000Z",
+      "fetchedAt": "2026-07-16T22:09:41.428Z",
+      "contentText": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believes visual AI is one of the next major frontiers in artificial intelligence.",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
     {
       "id": "c7743c902ae3",
       "source": "techcrunch-ai",
@@ -83,6 +346,46 @@
         "product",
         "enterprise",
         "infrastructure"
+      ]
+    },
+    {
+      "id": "6f16a999c8dd",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "How Cars24 scales conversations and builds faster with OpenAI",
+      "url": "https://openai.com/index/cars24",
+      "publishedAt": "2026-07-16T00:00:00.000Z",
+      "fetchedAt": "2026-07-16T22:09:37.406Z",
+      "contentText": null,
+      "summary": "Cars24 leverages OpenAI's voice and chat agents to manage over one million minutes of conversations monthly. This implementation has helped them recover 12% of previously lost sales leads. The company is also integrating agentic workflows across various internal teams.",
+      "enterpriseAngle": "Enterprises can deploy AI agents to automate customer interactions, improve lead recovery rates, and streamline internal workflows, leading to significant operational efficiencies and revenue gains. This demonstrates a clear path for businesses to integrate AI for both customer-facing and internal process optimization.",
+      "beginner": "AI agents are computer programs that can talk to customers and help businesses find lost sales opportunities.",
+      "advanced": "Evaluate the potential for integrating AI-powered voice and chat agents into your customer service and sales funnels to automate interactions and analyze lead recovery metrics for measurable ROI.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "0d2817854dc7",
+      "source": "xai",
+      "sourceName": "xAI (Grok)",
+      "tier": "realtime",
+      "title": "Jul 16, 2026 Automations in Grok",
+      "url": "https://x.ai/news/grok-automations",
+      "publishedAt": "2026-07-16",
+      "fetchedAt": "2026-07-16T22:09:38.181Z",
+      "contentText": null,
+      "summary": "Grok has introduced \"Automations,\" allowing users to describe tasks once and have Grok execute them on a schedule or in response to email triggers. These automated jobs can perform research, summarize emails, or flag important messages, and are accessible via grok.com and the Grok mobile app. Users can define instructions, attach context, and choose how Grok reports back, with scheduled automations available to all and email triggers included with SuperGrok.",
+      "enterpriseAngle": "Enterprise teams can leverage Grok's Automations for routine tasks like daily intelligence briefings, automated email processing, or scheduled data analysis, potentially improving operational efficiency and ensuring timely information dissemination within the organization. This feature could streamline workflows for product development and security teams by automating monitoring or reporting tasks.",
+      "beginner": "Grok Automations let you tell the AI to do a job once, and it will keep doing it for you automatically, like getting a news summary every morning.",
+      "advanced": "Integrate Grok Automations with enterprise tools via connectors to automate recurring data synthesis, threat intelligence monitoring, or compliance report generation, ensuring consistent execution and reducing manual overhead.",
+      "tags": [
+        "product",
+        "enterprise",
+        "agents"
       ]
     },
     {

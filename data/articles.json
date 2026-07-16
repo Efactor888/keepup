@@ -1,6 +1,132 @@
 {
-  "updatedAt": "2026-07-15T22:10:08.922Z",
+  "updatedAt": "2026-07-16T15:09:48.536Z",
   "articles": [
+    {
+      "id": "c7743c902ae3",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Why AMI Labs’ Alexandre LeBrun won't call his AI ‘AGI' or ‘superintelligence'",
+      "url": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
+      "publishedAt": "2026-07-16T14:40:00.000Z",
+      "fetchedAt": "2026-07-16T15:08:33.900Z",
+      "contentText": null,
+      "summary": "Alexandre LeBrun, CEO of AMI Labs, a startup co-founded by Yann LeCun, avoids using terms like \"AGI\" or \"superintelligence,\" finding them ill-defined and unhelpful. Instead, AMI Labs focuses on \"world models\" that predict real-world states by incorporating physics, aiming to give robots context awareness and improve their safety and utility in physical environments. LeBrun is currently in South Korea to scout for industrial partners in robotics, manufacturing, and electronics, as AMI Labs requires real-world environments to train its pre-product technology.",
+      "enterpriseAngle": "Enterprise product development teams, especially in robotics, manufacturing, and healthcare, should consider how world models can enhance the safety and contextual awareness of AI systems operating in physical environments, moving beyond the limitations of current LLMs. Security teams should note the emphasis on robot safety in open environments, highlighting a critical area for future AI security development.",
+      "beginner": "Some AI companies are developing 'world models' to help robots understand and interact safely with the physical world, much like humans have intuition about how objects behave.",
+      "advanced": "Integrate world model capabilities with existing LLM architectures to create hybrid AI systems that leverage both linguistic understanding and real-world contextual awareness for safer and more effective autonomous operations.",
+      "tags": [
+        "product",
+        "enterprise",
+        "research",
+        "partnership"
+      ]
+    },
+    {
+      "id": "652c69cdeba8",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Moonshot's upcoming Kimi 3 is expected to close the gap with Anthropic's Opus 4.8",
+      "url": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
+      "publishedAt": "2026-07-16T14:26:29.000Z",
+      "fetchedAt": "2026-07-16T15:08:33.900Z",
+      "contentText": null,
+      "summary": "Moonshot AI's upcoming Kimi K3 model is anticipated to rival or exceed the performance of Anthropic's Opus 4.8, according to anonymous sources. Kimi K3 is expected to be China's largest open-weight AI model, with 2-3 trillion parameters, and will be released soon. This development comes as Moonshot AI seeks new funding, potentially valuing the company at $31.5 billion.",
+      "enterpriseAngle": "Enterprises are increasingly considering cheaper, open-source models like Moonshot's Kimi as viable alternatives to expensive, closed-source frontier models, especially as their performance parity grows. This shift could lead to more flexible and cost-effective AI deployments, but also necessitates internal expertise for training and customization.",
+      "beginner": "Newer, open-source AI models are becoming as good as the expensive, private ones, offering more choices for businesses.",
+      "advanced": "Evaluate the TCO and performance benchmarks of Kimi K3 against proprietary models like Opus 4.8 for specific enterprise use cases, considering the implications for data privacy and model customization with open-weight alternatives.",
+      "tags": [
+        "model-release",
+        "enterprise",
+        "funding",
+        "benchmark"
+      ]
+    },
+    {
+      "id": "c599c61e0255",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
+      "url": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "publishedAt": "2026-07-16T13:17:59.000Z",
+      "fetchedAt": "2026-07-16T15:08:33.900Z",
+      "contentText": null,
+      "summary": "Apple Intelligence, the company's generative AI offering, has been approved for launch in China. This approval follows deals to integrate Alibaba's Qwen AI model and Baidu's AI features into Apple's operating systems for Chinese users. The move is significant for Apple's AI ambitions in the key Chinese market, where it recently saw a 28% increase in sales.",
+      "enterpriseAngle": "Enterprise product teams developing AI features for global markets must navigate complex regulatory landscapes and often require strategic partnerships with local providers to ensure market entry and compliance. This highlights the necessity of localized AI model integration for multinational companies operating in regulated regions.",
+      "beginner": "Apple's AI features will now be available in China because Apple partnered with Chinese tech companies like Alibaba and Baidu to meet local rules.",
+      "advanced": "When expanding AI services into highly regulated markets, prioritize early engagement with local regulators and establish partnerships with domestic AI model providers to ensure compliance and accelerate market entry.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "product",
+        "policy"
+      ]
+    },
+    {
+      "id": "bf70ae0467ec",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+      "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+      "publishedAt": "2026-07-16T04:00:00.000Z",
+      "fetchedAt": "2026-07-16T15:08:33.900Z",
+      "contentText": null,
+      "summary": "Applied Computing, a London-based startup, has secured $20 million in Series A funding to advance its foundation AI model, Orbital, designed for the oil, gas, and petrochemical industries. Orbital integrates time series, physics-based, and language models to analyze facility data, predict operational states, and simulate changes, aiming to accelerate anomaly detection and problem resolution. The company claims its technology can compress investigation times from days to seconds, helping operators reduce energy use and maintain output.",
+      "enterpriseAngle": "Enterprise security and product development teams in industrial sectors can leverage specialized AI models like Orbital to enhance operational efficiency, predictive maintenance, and incident response by integrating diverse data sources and simulating complex system interactions. This approach can significantly reduce investigation times and improve decision-making in critical infrastructure environments.",
+      "beginner": "Applied Computing is building a special AI that helps oil and gas companies understand their complex facilities better and fix problems much faster by combining different types of data.",
+      "advanced": "Evaluate the integration capabilities of multi-modal foundation models like Orbital with existing SCADA and DCS systems to enhance real-time anomaly detection and predictive simulation for critical infrastructure, focusing on data pipeline robustness and model explainability for regulatory compliance.",
+      "tags": [
+        "funding",
+        "product",
+        "enterprise",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "cce1dcce4c53",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+      "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+      "publishedAt": "2026-07-15T23:59:44.000Z",
+      "fetchedAt": "2026-07-16T15:08:33.900Z",
+      "contentText": null,
+      "summary": "Microsoft is reportedly training its sales teams to promote its in-house AI models by highlighting their efficiency and cost-effectiveness compared to competitors like OpenAI and Anthropic. This strategy includes directly comparing Microsoft's Copilot to Anthropic's Claude, emphasizing Copilot's superior performance, speed, accuracy, and security integrations within Microsoft Office applications. This shift follows Microsoft's recent move to replace competitor models with its own in flagship products and a revised partnership agreement with OpenAI.",
+      "enterpriseAngle": "Enterprise product development teams should note Microsoft's emphasis on \"end-to-end systems\" and integrated security, suggesting a push for comprehensive, in-house AI solutions over modular third-party components. Security teams should pay attention to Microsoft's claims of \"proper security integrations\" in its own models, which could influence vendor selection and compliance considerations.",
+      "beginner": "Microsoft is now telling its salespeople to say that its own AI tools are better and cheaper than those from other companies, even companies it used to work closely with.",
+      "advanced": "Evaluate the total cost of ownership and performance benchmarks for integrated AI ecosystems versus best-of-breed component strategies, particularly considering security integration claims and potential vendor lock-in.",
+      "tags": [
+        "enterprise",
+        "product",
+        "partnership",
+        "security"
+      ]
+    },
+    {
+      "id": "89c9f7f3ade4",
+      "source": "venturebeat-ai",
+      "sourceName": "VentureBeat AI",
+      "tier": "daily",
+      "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
+      "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
+      "publishedAt": "2026-07-15T22:24:17.000Z",
+      "fetchedAt": "2026-07-16T15:08:34.190Z",
+      "contentText": null,
+      "summary": "A recent survey of 101 enterprises reveals that while companies are rapidly adopting AI agent orchestration, most deployed \"agents\" are still basic chatbots rather than complex, multi-step workflows. Anthropic's Claude is the leading platform, chosen for its model gravity and reliable execution, but enterprises are building hybrid control planes to avoid vendor lock-in. A significant gap exists between the ambition for advanced agent orchestration and the current reality of deployments.",
+      "enterpriseAngle": "Enterprise AI teams face a deployment challenge, as their current agent implementations often fall short of true multi-step orchestration, despite consolidating on major model platforms. Product development teams should prioritize building robust, multi-step agent workflows and implement real-time fiscal controls to manage token burn effectively.",
+      "beginner": "Many companies are using AI tools they call \"agents,\" but most of these are simple chatbots, not advanced systems that can handle many steps in a process.",
+      "advanced": "To bridge the gap between orchestration ambition and reality, focus on developing true multi-step agent workflows, implement hybrid control planes to mitigate vendor lock-in, and integrate real-time token burn monitoring to control costs.",
+      "tags": [
+        "enterprise",
+        "product",
+        "research",
+        "governance"
+      ]
+    },
     {
       "id": "99a19263a8c1",
       "source": "techcrunch-ai",
@@ -145,6 +271,27 @@
         "enterprise",
         "product",
         "coding"
+      ]
+    },
+    {
+      "id": "a9eaf0c587df",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
+      "url": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
+      "publishedAt": "2026-07-15T15:00:00.000Z",
+      "fetchedAt": "2026-07-16T15:08:33.900Z",
+      "contentText": null,
+      "summary": "Ode with Anthropic is a joint venture that aims to embed engineers directly into enterprise firms to provide AI services, rather than using traditional consultants. This initiative is backed by several major financial institutions, including Blackstone, Hellman & Friedman, and Goldman Sachs. The venture was founded by Chris Taylor and Eddie Siegel, who previously founded Fractional AI.",
+      "enterpriseAngle": "Enterprise security and product development teams can leverage Ode's embedded engineers to integrate AI solutions directly into their operations, potentially streamlining development and enhancing security protocols with expert assistance. This model offers a more hands-on approach to AI adoption compared to traditional consulting, which could lead to more tailored and secure implementations.",
+      "beginner": "Ode with Anthropic is a new company that sends AI experts to work inside big businesses to help them use AI better, instead of just giving advice from the outside.",
+      "advanced": "Evaluate the cost-benefit of integrating forward-deployed AI engineering teams like Ode's versus traditional consulting models for accelerating secure AI product development and deployment within your enterprise.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "product",
+        "workforce"
       ]
     },
     {

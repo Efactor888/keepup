@@ -1,6 +1,130 @@
 {
-  "updatedAt": "2026-07-17T14:49:37.920Z",
+  "updatedAt": "2026-07-17T22:01:11.407Z",
   "articles": [
+    {
+      "id": "a49f55bafe0a",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "The Zoom hack that says, ‘Don't record me'",
+      "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
+      "publishedAt": "2026-07-17T21:20:47.000Z",
+      "fetchedAt": "2026-07-17T22:00:16.125Z",
+      "contentText": null,
+      "summary": "The increasing use of AI transcription apps for recording and summarizing conversations on platforms like Zoom is raising concerns about privacy and social etiquette. Some individuals are expressing their non-consent to recording by changing their display names, while others are assuming all their meetings are being recorded. This trend is leading to debates about the social acceptability and legal implications of ubiquitous recording.",
+      "enterpriseAngle": "Enterprise security and product development teams must consider the privacy implications of AI transcription tools, as employees may be unknowingly recorded, potentially leading to data leakage or compliance issues. Product teams developing AI transcription services should incorporate clear consent mechanisms and robust data governance to address these concerns.",
+      "beginner": "AI note-taking apps can automatically record and summarize your conversations, which can be helpful but also raises privacy questions.",
+      "advanced": "Implement clear data consent policies and explore privacy-enhancing technologies within your enterprise communication and AI transcription solutions to mitigate legal and social risks associated with pervasive recording.",
+      "tags": [
+        "security",
+        "enterprise",
+        "product",
+        "governance"
+      ]
+    },
+    {
+      "id": "9f01b3235308",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Agility Robotics plants its flag in Tesla's backyard",
+      "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+      "publishedAt": "2026-07-17T20:19:49.000Z",
+      "fetchedAt": "2026-07-17T22:00:16.125Z",
+      "contentText": null,
+      "summary": "Agility Robotics is opening a 60,000-square-foot facility in Fremont, California, to train its Digit humanoid robots, positioning itself near Tesla's expected Optimus robot manufacturing. Unlike Tesla, Agility's Digit robots are already generating revenue in logistics and manufacturing for companies like Amazon. The company is also pursuing a reverse-merger to become the first pure-play humanoid robot company on public markets.",
+      "enterpriseAngle": "Enterprise security and product development teams deploying humanoid robots must ensure robust safety protocols that are not solely reliant on generative AI, as critical safety functions should operate independently. The use of generative AI for coding applications can significantly scale robot capabilities, addressing the challenge of limited programming engineers.",
+      "beginner": "Humanoid robots are becoming more practical for business tasks like moving items in warehouses, and companies are focusing on making them safe and useful in real-world settings.",
+      "advanced": "Integrate generative AI for rapid application development to expand humanoid robot functionality, while architecting safety-critical systems with deterministic, non-generative AI controls to meet stringent regulatory and compliance standards in enterprise deployments.",
+      "tags": [
+        "enterprise",
+        "product",
+        "infrastructure",
+        "coding"
+      ]
+    },
+    {
+      "id": "133497b699bf",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "AI-driven memory crunch jolts India's smartphone market",
+      "url": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
+      "publishedAt": "2026-07-17T20:09:27.000Z",
+      "fetchedAt": "2026-07-17T22:00:16.125Z",
+      "contentText": null,
+      "summary": "The Indian smartphone market is experiencing a significant downturn, with shipments falling 10% year-over-year in Q2, primarily due to rising memory chip costs. Manufacturers are prioritizing more profitable high-bandwidth memory for AI data centers, leading to reduced capacity and increased prices for standard smartphone components. This shift disproportionately affects India's price-sensitive market, where consumers are delaying upgrades and impacting the competitive landscape among smartphone brands.",
+      "enterpriseAngle": "Enterprise product development teams in consumer electronics must anticipate and strategize around the ripple effects of AI infrastructure demand on component availability and pricing, especially for memory. This trend necessitates re-evaluating supply chain resilience, product cost structures, and market segmentation to maintain profitability and competitiveness in price-sensitive regions.",
+      "beginner": "The growing demand for powerful AI computers is making parts for regular smartphones more expensive, causing phone prices to rise and people to buy fewer new phones.",
+      "advanced": "Given the sustained demand for HBM and its impact on commodity memory pricing, enterprise hardware architects should explore long-term supply agreements, diversify memory suppliers, and optimize software for lower memory footprints to mitigate cost pressures and ensure product viability in consumer-facing devices.",
+      "tags": [
+        "hardware",
+        "enterprise",
+        "consumer",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "ac7be8d09d06",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "How Apple's big lawsuit could disrupt OpenAI's IPO plans",
+      "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+      "publishedAt": "2026-07-17T17:45:46.000Z",
+      "fetchedAt": "2026-07-17T22:00:16.125Z",
+      "contentText": null,
+      "summary": "Apple has filed a trade secrets lawsuit against OpenAI, alleging misconduct that involves OpenAI's chief hardware officer and over 400 former Apple employees. This lawsuit comes at a critical time as OpenAI is reportedly considering an IPO. OpenAI has responded cautiously to the allegations.",
+      "enterpriseAngle": "This lawsuit highlights the increasing legal risks and intellectual property challenges for AI companies, particularly concerning employee mobility and trade secret protection. Enterprise legal and HR teams must strengthen their IP protection strategies and employee agreements to mitigate similar risks.",
+      "beginner": "A big company, Apple, is suing another big AI company, OpenAI, for allegedly stealing secret information, which could make it harder for OpenAI to sell its shares to the public.",
+      "advanced": "Implement robust offboarding procedures and continuous monitoring of former employee activities, especially those with access to sensitive IP, to proactively detect and prevent potential trade secret misappropriation.",
+      "tags": [
+        "enterprise",
+        "policy",
+        "governance"
+      ]
+    },
+    {
+      "id": "7be29e0c57cb",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+      "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+      "publishedAt": "2026-07-17T15:21:17.000Z",
+      "fetchedAt": "2026-07-17T22:00:16.125Z",
+      "contentText": null,
+      "summary": "Patreon is enhancing its defenses against AI scraping by collaborating with Cloudflare to block bots that train AI models on creator content without explicit permission. This strategy represents a move from solely using robots.txt directives to actively preventing unauthorized AI model training.",
+      "enterpriseAngle": "Enterprise security teams should consider implementing active bot blocking solutions in addition to robots.txt to protect proprietary data from unauthorized AI scraping. Product development teams should evaluate how their platforms can integrate with security partners to enforce data usage policies more effectively.",
+      "beginner": "Patreon is now actively stopping AI programs from using its content without permission, rather than just asking them not to.",
+      "advanced": "Implement a multi-layered defense strategy that combines robots.txt with active bot management and IP blocking services to prevent unauthorized data scraping for AI model training.",
+      "tags": [
+        "security",
+        "enterprise",
+        "product",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "457457131bff",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Apple's lawsuit couldn't come at a worse time for OpenAI",
+      "url": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
+      "publishedAt": "2026-07-17T14:00:00.000Z",
+      "fetchedAt": "2026-07-17T22:00:16.125Z",
+      "contentText": null,
+      "summary": "Apple has filed a trade secrets lawsuit against OpenAI, alleging misconduct involving former Apple employees now working at OpenAI, including its chief hardware officer. This lawsuit comes as OpenAI is reportedly considering an IPO.",
+      "enterpriseAngle": "Enterprise product development teams should be aware of the increased scrutiny on employee movement between competitors, especially concerning intellectual property and trade secrets. This case highlights the importance of robust internal policies and legal counsel regarding employee transitions and data protection.",
+      "beginner": "Companies are very serious about protecting their secret ideas and technologies, especially when employees move to rival companies.",
+      "advanced": "Review your organization's offboarding procedures and non-disclosure agreements to ensure they adequately protect trade secrets, particularly when employees transition to competitors in rapidly evolving tech sectors.",
+      "tags": [
+        "enterprise",
+        "policy",
+        "governance"
+      ]
+    },
     {
       "id": "9107ac2d5665",
       "source": "techcrunch-ai",

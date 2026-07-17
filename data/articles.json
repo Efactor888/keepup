@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-07-16T22:12:40.355Z",
+  "updatedAt": "2026-07-17T14:49:37.920Z",
   "articles": [
+    {
+      "id": "9107ac2d5665",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+      "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+      "publishedAt": "2026-07-17T12:00:00.000Z",
+      "fetchedAt": "2026-07-17T14:49:02.665Z",
+      "contentText": null,
+      "summary": "General Compute, an AI inference cloud startup, secured a $400 million loan from Upper90, a tech investment firm, using inference-specific chips as collateral. This deal highlights a market shift towards more cost-effective infrastructure for running trained AI models, particularly open-source ones. The company aims to provide faster and more power-efficient inference solutions using SambaNova's SN50 chips, challenging the dominance of traditional GPU-based clouds.",
+      "enterpriseAngle": "Enterprise product development and security teams can benefit from the emergence of specialized inference chips and neoclouds, which promise more cost-effective and efficient deployment of AI models, especially for open-source solutions. This shift could reduce operational expenses for AI-powered applications and offer alternatives to Nvidia's ecosystem, fostering greater flexibility and potentially better supply chain resilience.",
+      "beginner": "Instead of expensive chips for building AI, new chips are being financed to run already-built AI models more cheaply and efficiently.",
+      "advanced": "Evaluate the TCO and performance benefits of specialized inference silicon from providers like General Compute and SambaNova as a strategic alternative to GPU-centric infrastructure for deploying open-source models at scale.",
+      "tags": [
+        "infrastructure",
+        "funding",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "3ebda52fc80e",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "A scorecard for the AI age",
+      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "publishedAt": "2026-07-17T10:00:00.000Z",
+      "fetchedAt": "2026-07-17T14:48:59.147Z",
+      "contentText": null,
+      "summary": "OpenAI CFO Sarah Friar has introduced a new AI scorecard designed to measure the return on investment (ROI) of AI initiatives. This scorecard evaluates AI performance based on useful work accomplished, cost per successful task, dependability, and return on compute resources.",
+      "enterpriseAngle": "Enterprise leaders can leverage this scorecard to quantitatively assess the value and efficiency of their AI deployments, enabling more informed decisions on resource allocation and strategic planning.",
+      "beginner": "This scorecard helps businesses understand if their AI tools are actually working well and providing good value.",
+      "advanced": "Implement the AI scorecard's metrics—useful work, cost per successful task, dependability, and return on compute—to establish a robust framework for evaluating and optimizing enterprise AI investments.",
+      "tags": [
+        "enterprise",
+        "product",
+        "governance"
+      ]
+    },
+    {
+      "id": "b1443c157948",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "The risk of weather data sabotage is rising",
+      "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
+      "publishedAt": "2026-07-17T08:57:32.000Z",
+      "fetchedAt": "2026-07-17T14:49:02.969Z",
+      "contentText": null,
+      "summary": "Weather forecasts, which are critical for various industries like airlines, energy grids, and agriculture, are increasingly vulnerable to sabotage. These predictions influence significant strategic decisions, impacting finances, livelihoods, and safety.",
+      "enterpriseAngle": "Enterprise security teams must consider the integrity of external data sources, such as weather forecasts, as a potential attack vector that could disrupt operations and lead to substantial financial and safety risks. Product development teams should design systems with robust data validation and redundancy for critical external inputs.",
+      "beginner": "Even simple weather forecasts can be targeted by attackers, potentially causing big problems for businesses and people.",
+      "advanced": "Implement multi-source data validation and anomaly detection for all critical external data feeds, especially those influencing operational decisions, to mitigate risks from data sabotage.",
+      "tags": [
+        "security",
+        "enterprise"
+      ]
+    },
     {
       "id": "cec1ebe5d23f",
       "source": "venturebeat-ai",
@@ -257,12 +317,16 @@
       "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
       "publishedAt": "2026-07-16T15:02:00.000Z",
       "fetchedAt": "2026-07-16T22:09:41.428Z",
-      "contentText": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believes visual AI is one of the next major frontiers in artificial intelligence.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Andrew Dai, a former DeepMind researcher, believes visual AI represents a significant future frontier in artificial intelligence. His background includes contributing to research that influenced the development of ChatGPT.",
+      "enterpriseAngle": "Enterprises should monitor advancements in visual AI for potential applications in product development and operational efficiency, leveraging insights from experienced researchers like Dai.",
+      "beginner": "Visual AI is an emerging area in artificial intelligence that focuses on enabling computers to 'see' and interpret images and videos.",
+      "advanced": "Evaluate current visual AI capabilities and research trends to identify opportunities for integrating advanced computer vision models into existing enterprise workflows and new product offerings.",
+      "tags": [
+        "research",
+        "product",
+        "science"
+      ]
     },
     {
       "id": "c7743c902ae3",

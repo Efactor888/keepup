@@ -1,6 +1,69 @@
 {
-  "updatedAt": "2026-07-17T22:01:11.407Z",
+  "updatedAt": "2026-07-18T14:23:13.478Z",
   "articles": [
+    {
+      "id": "3a54b06e9c82",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Neil Rimer thinks the AI money is coming back out",
+      "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "publishedAt": "2026-07-18T04:47:25.000Z",
+      "fetchedAt": "2026-07-18T14:22:44.480Z",
+      "contentText": null,
+      "summary": "Neil Rimer, co-founder of Index Ventures, believes that the significant wealth accumulating in the AI sector will undergo some form of redistribution, whether voluntary or involuntary. This perspective comes at a time when philanthropic giving, particularly among the ultra-wealthy, appears to be declining, with initiatives like The Giving Pledge losing relevance. Meanwhile, legislative efforts, such as California's proposed wealth tax, are emerging as potential involuntary redistribution mechanisms.",
+      "enterpriseAngle": "Enterprise leaders in the AI space should be aware of the growing societal pressure for wealth redistribution, which could manifest in new taxes or regulatory demands impacting company valuations and employee compensation. Product development teams might also consider how their AI solutions can contribute to broader societal benefit, potentially aligning with future policy directions.",
+      "beginner": "The rapid growth of AI is creating immense wealth, and there's a debate about how this wealth should be shared with society.",
+      "advanced": "Monitor evolving legislative proposals like wealth taxes and consider proactive strategies for corporate social responsibility or public-private partnerships to navigate potential involuntary wealth redistribution in the AI sector.",
+      "tags": [
+        "enterprise",
+        "policy",
+        "funding",
+        "governance"
+      ]
+    },
+    {
+      "id": "2eed32c959cd",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Vertu wants executives to pay $6,880 for an AI agent — here's how it actually performs",
+      "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+      "publishedAt": "2026-07-17T22:55:09.000Z",
+      "fetchedAt": "2026-07-18T14:22:44.480Z",
+      "contentText": null,
+      "summary": "Vertu's Alphafold, a luxury foldable phone starting at $6,880, targets executives with its pre-installed Hermes AI agent, designed to automate multi-step workflows like analyzing documents and planning business trips. While the device features premium materials, its underlying hardware appears to be based on a ZTE/Nubia platform. The Hermes agent showed promise in analyzing local files and automating tasks across apps, outperforming Google's Gemini in some areas, but its autonomy also raised questions about when it should act independently versus seeking clarification.",
+      "enterpriseAngle": "Enterprise security teams should note the potential risks associated with AI agents that have high autonomy and access to sensitive data, especially when integrated into devices with a complex supply chain. Product development teams can learn from Vertu's attempt to differentiate through an AI agent focused on multi-step executive workflows, highlighting the demand for sophisticated automation beyond basic prompt responses.",
+      "beginner": "AI agents are programs that can perform multiple tasks and automate workflows for you, like a digital assistant.",
+      "advanced": "When integrating highly autonomous AI agents into enterprise devices, prioritize robust governance frameworks to manage the balance between automation efficiency and the need for human oversight and clarification, particularly for sensitive data operations.",
+      "tags": [
+        "product",
+        "agents",
+        "enterprise",
+        "security"
+      ]
+    },
+    {
+      "id": "df39e0ae194b",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Databricks hits $188B valuation, extending its run as AI's favorite second act",
+      "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+      "publishedAt": "2026-07-17T22:12:56.000Z",
+      "fetchedAt": "2026-07-18T14:22:44.480Z",
+      "contentText": null,
+      "summary": "Databricks has secured a new funding round, boosting its valuation to $188 billion, continuing a rapid fundraising trend. The company has successfully rebranded itself from a big data firm to a prominent AI provider, launching new AI products and advocating for cost-effective open-weight models. Internal benchmarks by Databricks show that open models, particularly Z.ai's GLM 5.2, and open-source agentic coding tools like Pi, can handle complex coding tasks efficiently and at a lower cost than proprietary alternatives.",
+      "enterpriseAngle": "Enterprise security and product development teams can leverage Databricks' findings to optimize AI model and tool selection for coding tasks, potentially reducing costs and improving efficiency by adopting open-weight models and open-source harnesses. The emphasis on security and governance in AI products like Lakebase and Unity highlights the growing need for robust controls in enterprise AI deployments.",
+      "beginner": "Databricks, a company that helps businesses manage large amounts of data, is now also a major player in AI, offering tools that help companies use AI more affordably and securely.",
+      "advanced": "Evaluate the cost-efficiency and performance of open-weight models like GLM 5.2 and open-source agentic coding harnesses such as Pi for your specific development workflows, considering that the choice of harness can significantly impact overall AI operational costs.",
+      "tags": [
+        "funding",
+        "enterprise",
+        "product",
+        "benchmark"
+      ]
+    },
     {
       "id": "a49f55bafe0a",
       "source": "techcrunch-ai",

@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-07-18T14:23:13.478Z",
+  "updatedAt": "2026-07-18T21:57:27.766Z",
   "articles": [
+    {
+      "id": "c60035e6bb3c",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Kimi: Threat or menace?",
+      "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+      "publishedAt": "2026-07-18T18:51:07.000Z",
+      "fetchedAt": "2026-07-18T21:57:17.601Z",
+      "contentText": null,
+      "summary": "Chinese company Moonshot AI released a new version of its Kimi model, an open-source AI that independent analyses suggest performs competitively with leading proprietary models. This release has reignited debates about China's role in open-source AI, particularly concerning national security and the potential for regulatory responses in the US. Some industry figures express concern about the implications for the global AI race and the practice of model distillation.",
+      "enterpriseAngle": "Enterprise security and product development teams should be aware of the increasing performance of open-source models from various geopolitical regions, which could impact their build-versus-buy decisions and necessitate vigilance regarding the provenance and potential regulatory risks associated with using such models. The debate around 'distillation' also highlights intellectual property concerns for enterprises developing proprietary AI.",
+      "beginner": "New AI models are being released by companies worldwide, and some are open for anyone to use, leading to discussions about who is leading in AI development and how governments might react.",
+      "advanced": "Evaluate the regulatory risk landscape for integrating open-weight models, particularly those from geopolitical rivals, by monitoring 'soft law' advisories from agencies that could create FUD and impact enterprise adoption, while also assessing the technical merits against potential IP and security concerns.",
+      "tags": [
+        "model-release",
+        "enterprise",
+        "policy",
+        "governance"
+      ]
+    },
     {
       "id": "3a54b06e9c82",
       "source": "techcrunch-ai",

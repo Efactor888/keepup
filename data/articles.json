@@ -1,6 +1,89 @@
 {
-  "updatedAt": "2026-07-19T14:26:09.506Z",
+  "updatedAt": "2026-07-19T22:00:20.089Z",
   "articles": [
+    {
+      "id": "90851a797dd0",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "What to watch for after Jensen Huang's Japan visit",
+      "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+      "publishedAt": "2026-07-19T21:16:07.000Z",
+      "fetchedAt": "2026-07-19T21:59:43.429Z",
+      "contentText": null,
+      "summary": "Nvidia CEO Jensen Huang visited Japan to forge extensive partnerships across the country's tech ecosystem, focusing on \"physical AI\" for factory floors, robots, and machines. These collaborations include a national AI factory called Noetra, a robotics coalition leveraging Nvidia's Cosmos models, and expanded work with Toyota for its vehicles and manufacturing. Japan aims to invest significantly in homegrown physical AI to address a shrinking workforce and capture a large share of the global AI robotics market.",
+      "enterpriseAngle": "Enterprise product development teams in manufacturing and robotics should note Japan's substantial investment in physical AI and the development of specialized foundation models for machines, indicating a growing market for AI-powered industrial solutions. Security teams will need to consider the implications of sovereign AI initiatives and the secure deployment of AI models directly onto factory floor hardware.",
+      "beginner": "Japan is making a big push to use AI to power its factories and robots, with Nvidia providing the computer chips needed for this new technology.",
+      "advanced": "Evaluate the potential for integrating Nvidia's Cosmos 3 Edge models and Jetson Thor chips into existing industrial automation and robotics platforms to enhance real-world AI capabilities and address sovereign AI requirements.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "product",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "dde9b3e38531",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+      "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+      "publishedAt": "2026-07-19T19:24:45.000Z",
+      "fetchedAt": "2026-07-19T21:59:43.429Z",
+      "contentText": null,
+      "summary": "Apple has filed a trade secrets lawsuit against OpenAI, alleging a pattern of misconduct to acquire confidential information from former Apple employees, including their chief hardware officer. This legal action could potentially delay OpenAI's hardware plans, which reportedly include a mobile smart speaker, and impact its upcoming IPO. OpenAI denies the allegations, stating they are not aware of any evidence supporting the complaint.",
+      "enterpriseAngle": "Enterprise product development teams should be aware of the increased scrutiny and legal risks associated with hiring talent from competitors, especially when entering new product categories. Security teams must ensure robust intellectual property protection measures are in place to prevent trade secret leakage, both internally and when employees transition to other companies.",
+      "beginner": "A big company, Apple, is suing another big AI company, OpenAI, for allegedly stealing secrets about making new devices, which could slow down OpenAI's plans to make its own gadgets and go public.",
+      "advanced": "Given the potential for injunctive relief and the impact on IPO valuation, enterprise legal and M&A teams should meticulously vet hiring practices and IP transfer agreements, particularly for senior hires from direct competitors in nascent product divisions.",
+      "tags": [
+        "enterprise",
+        "product",
+        "policy",
+        "governance"
+      ]
+    },
+    {
+      "id": "6a9003c90047",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+      "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+      "publishedAt": "2026-07-19T14:52:08.000Z",
+      "fetchedAt": "2026-07-19T21:59:43.429Z",
+      "contentText": null,
+      "summary": "Director Christopher Nolan expressed skepticism about AI, likening it to a \"Trojan horse that everybody knows the Greeks are inside\" due to its transparency and public rejection. He observed a healthy skepticism, especially among young people, who quickly label AI-generated content as \"AI slop.\" Nolan believes new technology and its purveyors should be viewed with skepticism to ensure the best outcomes.",
+      "enterpriseAngle": "Enterprise product development teams should note the public's strong skepticism towards AI, particularly among younger demographics, which could impact user adoption and trust in AI-powered features. Security teams should consider how this public perception of AI as a \"Trojan horse\" might influence user behavior regarding data privacy and the acceptance of AI-driven security tools.",
+      "beginner": "Many people, including famous director Christopher Nolan, are wary of AI and its potential downsides, even as it offers new possibilities.",
+      "advanced": "Integrate robust transparency features and clear ethical guidelines into AI product roadmaps to address widespread public skepticism and build user trust.",
+      "tags": [
+        "consumer",
+        "governance",
+        "product"
+      ]
+    },
+    {
+      "id": "5767ddd493bb",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+      "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+      "publishedAt": "2026-07-19T14:00:00.000Z",
+      "fetchedAt": "2026-07-19T21:59:43.429Z",
+      "contentText": null,
+      "summary": "Current AI, a nonprofit, is developing open, public AI infrastructure to ensure AI systems are accessible and representative of diverse languages and cultures, particularly in underserved communities. They have launched initiatives like Suno Sutra, an offline AI device supporting 22 Indian languages, and Alpha Chat, an open-source chatbot. The organization is funded by governments, foundations, and companies, with $400 million committed to creating a public alternative to private AI systems.",
+      "enterpriseAngle": "Enterprise product development teams should consider Current AI's model for building inclusive AI, focusing on local data ownership and community-driven development, which can inform strategies for ethical AI deployment and market expansion beyond dominant languages. Security teams should note the emphasis on local data storage and community consent protocols as potential best practices for data governance and privacy in AI applications.",
+      "beginner": "A nonprofit called Current AI is working to make artificial intelligence available to everyone, in many different languages, so that it's not just controlled by big companies.",
+      "advanced": "Investigate Current AI's open-source stack and consent protocols for local data ownership to inform your organization's strategy for ethical AI development, particularly when engaging with diverse linguistic and cultural communities.",
+      "tags": [
+        "enterprise",
+        "product",
+        "governance",
+        "infrastructure"
+      ]
+    },
     {
       "id": "c60035e6bb3c",
       "source": "techcrunch-ai",

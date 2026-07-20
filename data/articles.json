@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-07-19T22:00:20.089Z",
+  "updatedAt": "2026-07-20T15:17:13.994Z",
   "articles": [
+    {
+      "id": "3921df47f592",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "AI is more likely than humans to form biases when hiring",
+      "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+      "publishedAt": "2026-07-20T08:39:01.000Z",
+      "fetchedAt": "2026-07-20T15:17:05.293Z",
+      "contentText": null,
+      "summary": "AI models used in hiring processes are not only susceptible to inheriting human biases present in their training data but can also independently develop their own biases. This raises concerns about the fairness of AI-powered résumé screening in job applications. ",
+      "enterpriseAngle": "Enterprise product development teams must prioritize robust bias detection and mitigation strategies when integrating AI into HR tools to ensure equitable hiring practices and avoid legal and ethical pitfalls. Security teams should also consider the implications of biased AI models on data privacy and compliance. ",
+      "beginner": "AI can unfairly judge job applicants because it learns and even creates its own biases. ",
+      "advanced": "Implement adversarial debiasing techniques and continuous monitoring for emergent biases in AI-driven HR systems to maintain fairness and compliance. ",
+      "tags": [
+        "research",
+        "governance",
+        "workforce",
+        "security"
+      ]
+    },
     {
       "id": "90851a797dd0",
       "source": "techcrunch-ai",

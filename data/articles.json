@@ -1,6 +1,194 @@
 {
-  "updatedAt": "2026-07-20T15:17:13.994Z",
+  "updatedAt": "2026-07-20T22:08:55.425Z",
   "articles": [
+    {
+      "id": "d573260cad05",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+      "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+      "publishedAt": "2026-07-20T21:21:15.000Z",
+      "fetchedAt": "2026-07-20T22:07:16.049Z",
+      "contentText": null,
+      "summary": "Google's parent company, Alphabet, is reportedly developing a new AI server chip, internally called \"Frozen v2,\" to enhance the efficiency of its Gemini models. Slated for a 2028 release, this chip is expected to be significantly more efficient than current Google AI chips, potentially by six to ten times. This move aligns with a broader industry trend where AI companies are creating their own chips to improve model performance, reduce reliance on external chipmakers like Nvidia, and manage the substantial costs associated with AI development.",
+      "enterpriseAngle": "Enterprises developing and deploying AI models can expect continued innovation in custom hardware, leading to more efficient and cost-effective AI operations. This trend also highlights the strategic importance of vertical integration in AI, as companies seek to optimize performance by co-designing hardware and software.",
+      "beginner": "Companies are building their own specialized computer chips to make their AI systems, like Google's Gemini, run faster and use less power.",
+      "advanced": "Evaluate the long-term cost-benefit of custom silicon development versus reliance on commercial off-the-shelf AI accelerators, considering the projected efficiency gains and supply chain independence.",
+      "tags": [
+        "infrastructure",
+        "enterprise",
+        "product",
+        "funding"
+      ]
+    },
+    {
+      "id": "17b501c7fe13",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "AI's most important protocol is getting a little bit easier to use",
+      "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+      "publishedAt": "2026-07-20T20:50:40.000Z",
+      "fetchedAt": "2026-07-20T22:07:16.049Z",
+      "contentText": null,
+      "summary": "The Model Context Protocol (MCP) is a fundamental component for AI interoperability, enabling AI models to securely connect with external data sources and services. This protocol simplifies how AI applications, such as chatbots, integrate with various tools like calendars and databases. It eliminates the need for engineers to create custom connections for each integration.",
+      "enterpriseAngle": "For enterprise product development teams, MCP streamlines the integration of AI models with existing internal tools and data, accelerating the deployment of AI-powered solutions. Security teams benefit from the protocol's built-in secure access mechanisms, reducing the risk associated with AI models accessing sensitive enterprise data.",
+      "beginner": "The Model Context Protocol helps different AI tools talk to each other and safely use information from other apps.",
+      "advanced": "Leverage the Model Context Protocol to standardize secure data access for your AI agents, reducing custom integration overhead and enhancing enterprise-wide interoperability.",
+      "tags": [
+        "infrastructure",
+        "enterprise",
+        "security",
+        "product"
+      ]
+    },
+    {
+      "id": "288f9399dfa8",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "X relaunches a rebuilt Android app after year-long effort",
+      "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
+      "publishedAt": "2026-07-20T19:37:39.000Z",
+      "fetchedAt": "2026-07-20T22:07:16.049Z",
+      "contentText": null,
+      "summary": "X has relaunched a completely rebuilt Android app after a year-long development effort, promising significant improvements in speed, smoothness, and reliability. This overhaul, described as one of the largest engineering projects in the company's history, aims to enhance user experience and enable faster feature development. The new app is expected to attract more users in global markets where Android is dominant.",
+      "enterpriseAngle": "For enterprise product development teams, this case highlights the strategic importance of platform-specific rebuilds to address technical debt and improve user experience, especially in critical markets. It also demonstrates how a modernized foundation can accelerate future feature integration and maintain competitive relevance.",
+      "beginner": "X, a social media app, has made its Android version much better by completely rebuilding it, making it faster and more reliable for users.",
+      "advanced": "Leverage modern native development stacks like Kotlin and Jetpack Compose for ground-up rewrites to ensure long-term scalability, performance, and accelerated feature velocity, as demonstrated by X's Android app overhaul.",
+      "tags": [
+        "product",
+        "enterprise",
+        "coding"
+      ]
+    },
+    {
+      "id": "502e6d35fbb7",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "OpenAI is scared of open-weight models. Should the US be?",
+      "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+      "publishedAt": "2026-07-20T19:33:25.000Z",
+      "fetchedAt": "2026-07-20T22:07:16.049Z",
+      "contentText": null,
+      "summary": "The emergence of powerful open-weight large language models, particularly China's Kimi K3, has sparked a debate about their impact on American AI companies and the future of LLM technology. While some US AI labs fear these models will deter capital spending and reduce returns on investment, advocates argue that open-weight models can accelerate innovation and lower costs. The US government is reportedly considering banning advanced Chinese models due to concerns about data security, potential bias, and a lack of guardrails, though experts disagree on the validity and effectiveness of such restrictions.",
+      "enterpriseAngle": "Enterprise security and product development teams face a dilemma: open-weight models offer cheaper intelligence and can fill security gaps where proprietary models fall short, but they also introduce potential data privacy and bias concerns, necessitating careful evaluation of their origins and deployment environment.",
+      "beginner": "Open-weight AI models are like open-source software, allowing anyone to inspect and use their underlying code, which can make AI more accessible and affordable but also raises questions about data safety and control.",
+      "advanced": "Evaluate the trade-offs between cost-efficiency, customization, and potential supply chain risks when integrating open-weight LLMs into enterprise solutions, particularly those from non-US origins, and consider robust data governance and model monitoring strategies.",
+      "tags": [
+        "model-release",
+        "enterprise",
+        "policy",
+        "security"
+      ]
+    },
+    {
+      "id": "b1ff081c1872",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "China’s AI models have Trump’s AI world at war with itself",
+      "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+      "publishedAt": "2026-07-20T18:00:00.000Z",
+      "fetchedAt": "2026-07-20T22:07:16.310Z",
+      "contentText": null,
+      "summary": "Current and former AI advisors to President Donald Trump have publicly criticized leading AI companies. This internal conflict within Trump's AI advisory circle highlights disagreements regarding the country's AI strategy.",
+      "enterpriseAngle": "Enterprise AI product and security teams should monitor evolving political rhetoric and potential policy shifts, as internal government disagreements could foreshadow future regulatory changes or shifts in national AI priorities.",
+      "beginner": "Even experts advising the government on AI don't always agree on the best path forward for the technology.",
+      "advanced": "Track the public discourse among key political AI advisors for early indicators of potential policy divergence that could impact future AI development and deployment regulations.",
+      "tags": [
+        "policy",
+        "governance",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "f23573f8baf6",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "Apply for Anthropic’s AI for Science rare disease research grants",
+      "url": "https://www.anthropic.com/news/rare-disease-research-grants",
+      "publishedAt": "2026-07-20T17:36:28.000Z",
+      "fetchedAt": "2026-07-20T22:06:52.700Z",
+      "contentText": null,
+      "summary": "Anthropic has launched a focused call for applications for its AI for Science program, offering up to $50,000 in Claude credits over six months for research into rare genetic diseases. The program aims to build a community of researchers and has two tracks: one for basic science and another for early-stage biotechs accelerating clinical development. This initiative seeks to leverage AI to model rare diseases, detect patterns, synthesize literature, and improve data utilization.",
+      "enterpriseAngle": "Enterprise product development teams in biotech and pharmaceutical sectors can leverage AI tools like Claude to accelerate drug development processes, particularly in areas like regulatory documentation, therapeutic strategy selection, and identifying shared mechanisms across diseases, potentially compressing the time from diagnosis to treatment.",
+      "beginner": "AI can help scientists understand and find treatments for rare diseases by processing large amounts of information and identifying patterns that are hard for humans to see.",
+      "advanced": "Experienced practitioners should explore integrating large language models like Claude with existing knowledge graphs and ontologies, such as Mondo and DisMech, to generate novel mechanistic hypotheses and streamline regulatory documentation for rare disease drug development.",
+      "tags": [
+        "research",
+        "enterprise",
+        "product",
+        "funding"
+      ],
+      "dateChecked": true
+    },
+    {
+      "id": "cdc3fbd3b50a",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Adobe camera app's new feature will critique your photos using AI",
+      "url": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+      "publishedAt": "2026-07-20T15:45:00.000Z",
+      "fetchedAt": "2026-07-20T22:07:16.049Z",
+      "contentText": null,
+      "summary": "Adobe's experimental iOS camera app, Project Indigo, is introducing new AI features, including photo critiques, editing suggestions, advanced object removal, depth of field generation, and style transfer. These features, powered by large language models like Google's Gemini-based Nano Banana, aim to provide more deterministic outputs and help users improve their photography skills. The new functionalities are currently in a testing phase with select users.",
+      "enterpriseAngle": "Enterprise product development teams in creative software and mobile applications can learn from Adobe's approach to integrating AI for user guidance and automated editing, focusing on deterministic outputs over complex prompt engineering. Security teams should note the use of external LLMs and consider the implications for data privacy and model governance if similar features handle sensitive user content.",
+      "beginner": "Adobe is adding new AI tools to its camera app that can tell you how to make your photos better and automatically fix things in them.",
+      "advanced": "Leverage deterministic AI features for automated content enhancement and user guidance, and evaluate the trade-offs between in-house models and external LLMs like Gemini-based Nano Banana for specific functionalities, considering scalability and data privacy.",
+      "tags": [
+        "product",
+        "enterprise",
+        "learning",
+        "model-release"
+      ]
+    },
+    {
+      "id": "93c83145e8c7",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "YouTube clarifies policies around AI slop and upsetting videos",
+      "url": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
+      "publishedAt": "2026-07-20T15:23:06.000Z",
+      "fetchedAt": "2026-07-20T22:07:16.049Z",
+      "contentText": null,
+      "summary": "YouTube has updated its monetization policies to combat \"AI slop\" and low-quality content, clarifying that three types of inauthentic content will not be eligible for revenue. These categories include generic or repetitive content, off-putting or distressing videos, and the use of AI personas to discuss sensitive topics like health and finance. The goal is to discourage content farming and promote high-quality, original content on the platform.",
+      "enterpriseAngle": "Enterprise product teams developing AI-powered content creation tools should guide users on ethical and quality content generation to avoid platform policy violations, while security teams should be aware of potential misuse of AI personas for sensitive topics, which could lead to misinformation or scams.",
+      "beginner": "YouTube is making it harder for people to make money from videos that are low-quality, repetitive, or use AI in misleading ways.",
+      "advanced": "Implement content moderation and quality control mechanisms within AI content generation pipelines to align with platform monetization policies, particularly concerning generic content, emotionally manipulative material, and the use of AI personas for sensitive subjects.",
+      "tags": [
+        "policy",
+        "product",
+        "governance",
+        "consumer"
+      ]
+    },
+    {
+      "id": "d4ff9ec891b7",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Safety and alignment in an era of long-horizon models",
+      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "publishedAt": "2026-07-20T10:00:00.000Z",
+      "fetchedAt": "2026-07-20T22:07:14.060Z",
+      "contentText": null,
+      "summary": "OpenAI has released insights from the deployment of its long-running AI models, identifying new safety risks and observed failures. The company emphasizes that iterative deployment has led to improved safeguards.",
+      "enterpriseAngle": "Enterprise security and product development teams should consider these findings when designing and implementing long-horizon AI systems, focusing on continuous monitoring and iterative safety improvements to mitigate emerging risks.",
+      "beginner": "As AI models get more complex and run longer, new safety challenges appear, requiring ongoing adjustments to keep them secure.",
+      "advanced": "Implement robust monitoring and feedback loops for long-horizon AI deployments to continuously identify and address novel safety risks and system failures.",
+      "tags": [
+        "security",
+        "enterprise",
+        "product",
+        "model-release"
+      ]
+    },
     {
       "id": "3921df47f592",
       "source": "mit-tr-ai",
@@ -20,6 +208,47 @@
         "governance",
         "workforce",
         "security"
+      ]
+    },
+    {
+      "id": "750b59cf8263",
+      "source": "xai",
+      "sourceName": "xAI (Grok)",
+      "tier": "realtime",
+      "title": "Jul 20, 2026 Grok for Excel",
+      "url": "https://x.ai/news/introducing-excel-addin",
+      "publishedAt": "2026-07-20",
+      "fetchedAt": "2026-07-20T22:07:14.430Z",
+      "contentText": null,
+      "summary": "xAI has released \"Grok for Excel,\" a new add-in for Microsoft Excel that allows users to interact with their data using plain English. This tool can generate formulas from descriptions, run various scenarios, and answer questions about data directly within a spreadsheet. It also offers integration with other Microsoft 365 applications like Word and PowerPoint, and can pull context from sources like emails, SharePoint, and Google Drive.",
+      "enterpriseAngle": "Enterprise product development teams can leverage this add-in to enhance data analysis and reporting capabilities within their organizations, potentially streamlining workflows and reducing the need for manual formula creation. Security teams should consider the implications of connecting Grok to internal data sources like SharePoint and Google Drive, ensuring data governance and access controls are robust.",
+      "beginner": "Grok for Excel helps you use simple English to ask questions and create formulas in spreadsheets, making data analysis easier.",
+      "advanced": "Integrate Grok for Excel to automate formula generation and scenario testing, and evaluate its connectors for secure and efficient data retrieval from enterprise content management systems.",
+      "tags": [
+        "product",
+        "enterprise",
+        "agents"
+      ]
+    },
+    {
+      "id": "32d427eb72d1",
+      "source": "cursor",
+      "sourceName": "Cursor",
+      "tier": "realtime",
+      "title": "Jul 20, 2026 · research Agent swarms and the new model economics Wilson Lin 17m Wilson Lin · 17m",
+      "url": "https://cursor.com/blog/agent-swarm-model-economics",
+      "publishedAt": "2026-07-20",
+      "fetchedAt": "2026-07-20T22:07:15.500Z",
+      "contentText": null,
+      "summary": "Researchers have developed a new agent swarm architecture that significantly improves the ability of AI agents to cooperate on complex tasks, outperforming previous versions. This new system, which uses a tree-like decomposition for task management and a custom version control system, successfully built 80% of SQLite from scratch in Rust within four hours using Grok 4.5, a task its predecessor struggled with. The architecture allows for flexible model mixes, where different models handle planning and execution, leading to similar quality results with varying costs.",
+      "enterpriseAngle": "Enterprise product development and security teams can leverage this advanced agent swarm architecture to automate complex software development, improve code quality, and identify/fix vulnerabilities at an unprecedented scale and speed. The ability to mix and match models based on cost and capability offers significant flexibility in resource allocation for large-scale projects.",
+      "beginner": "AI agents can now work together much more effectively on big projects, like building software, by breaking down tasks and using different AI models for different jobs.",
+      "advanced": "Implement a hierarchical agent orchestration framework with a custom, high-throughput version control system to manage concurrent agent commits and resolve design contention, optimizing for context efficiency and model cost-effectiveness across planning and execution roles.",
+      "tags": [
+        "agents",
+        "research",
+        "coding",
+        "enterprise"
       ]
     },
     {

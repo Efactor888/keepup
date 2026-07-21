@@ -1,6 +1,109 @@
 {
-  "updatedAt": "2026-07-20T22:08:55.425Z",
+  "updatedAt": "2026-07-21T15:10:16.657Z",
   "articles": [
+    {
+      "id": "fcce09c921e5",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
+      "url": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
+      "publishedAt": "2026-07-21T13:27:42.000Z",
+      "fetchedAt": "2026-07-21T15:09:31.691Z",
+      "contentText": null,
+      "summary": "Music streaming service Deezer reports that over 50% of its daily uploads are now AI-generated tracks, a significant increase from 10% in January 2025. In response, Deezer plans to remove AI-generated tracks that have not been streamed in six months or are linked to fraudulent streaming activity. The company has also developed and shared AI music detection technology and tools to identify such tracks on other platforms.",
+      "enterpriseAngle": "Enterprises in media and entertainment, particularly streaming services, face increasing challenges in managing the influx of AI-generated content, requiring robust content policies, fraud detection systems, and potential collaboration on detection technologies to protect artist rights and maintain content quality. Product development teams in these companies will need to integrate advanced AI detection and content management features into their platforms.",
+      "beginner": "AI is now creating a lot of music, and streaming services are trying to figure out how to handle this new type of content.",
+      "advanced": "Implement real-time AI content detection and fraud prevention mechanisms, leveraging shared industry tools where possible, to manage the escalating volume of AI-generated media and safeguard intellectual property and revenue streams.",
+      "tags": [
+        "product",
+        "enterprise",
+        "policy",
+        "agents"
+      ]
+    },
+    {
+      "id": "e6f97166928c",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "Advancing next-gen AI with materials science innovation",
+      "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
+      "publishedAt": "2026-07-21T10:37:34.000Z",
+      "fetchedAt": "2026-07-21T15:09:31.979Z",
+      "contentText": null,
+      "summary": "The development of advanced materials is crucial for the progression of AI technology. These materials are essential for enabling increased processing power, memory, and energy efficiency in next-generation AI systems.",
+      "enterpriseAngle": "Enterprise product development teams should consider the foundational role of advanced materials in future AI hardware, as these innovations will directly impact the performance and efficiency of their AI-powered solutions.",
+      "beginner": "New materials are needed to make AI faster and use less energy.",
+      "advanced": "Evaluate emerging material science breakthroughs for their potential to enhance the performance and energy footprint of your organization's AI infrastructure and product roadmaps.",
+      "tags": [
+        "science",
+        "infrastructure",
+        "hardware",
+        "research"
+      ]
+    },
+    {
+      "id": "8e65b10b3710",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Gritt exits stealth with $32 million for robots to build solar plants — then, everything else",
+      "url": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
+      "publishedAt": "2026-07-21T10:00:00.000Z",
+      "fetchedAt": "2026-07-21T15:09:31.691Z",
+      "contentText": null,
+      "summary": "Gritt, a startup founded by two Carnegie Mellon roboticists, has exited stealth with $32 million in funding to deploy AI-powered robots for solar panel installation. The company's systems use off-the-shelf hardware and advanced AI models to significantly increase the speed of solar panel deployment, addressing labor shortages in the renewable energy sector. Gritt aims to expand its robotic capabilities to other construction tasks and provide site management insights.",
+      "enterpriseAngle": "Enterprise construction and energy companies can leverage Gritt's AI-driven robotic systems to overcome labor constraints, accelerate project timelines, and potentially reduce worker injuries in large-scale infrastructure projects. The focus on off-the-shelf hardware could offer a more flexible and cost-effective deployment model compared to custom-built robotic solutions.",
+      "beginner": "New AI models are making robots smart enough to work in messy outdoor environments, helping build things like solar farms much faster.",
+      "advanced": "Evaluate Gritt's generalizable AI pipeline for unstructured environment task automation and its potential for integration with existing construction workflows to enhance efficiency and safety.",
+      "tags": [
+        "enterprise",
+        "funding",
+        "product",
+        "agents"
+      ]
+    },
+    {
+      "id": "70097351852c",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Anthropic's landmark $1.5B copyright settlement is approved",
+      "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+      "publishedAt": "2026-07-21T00:12:24.000Z",
+      "fetchedAt": "2026-07-21T15:09:31.691Z",
+      "contentText": null,
+      "summary": "A federal judge has approved Anthropic's $1.5 billion settlement in a class action copyright lawsuit, allowing the company to compensate authors and publishers. The lawsuit stemmed from Anthropic's use of copyrighted books, illegally downloaded from pirate sites, to train its AI models. While the settlement is substantial, the judge's ruling that training AI on copyrighted text constitutes fair use is a significant development for the AI industry.",
+      "enterpriseAngle": "Enterprise AI developers must carefully consider the legality of their data acquisition methods for training AI models, as demonstrated by Anthropic's settlement for using pirated content. Although training on copyrighted material was deemed fair use in this specific case, the method of obtaining that material can still lead to significant legal and financial repercussions.",
+      "beginner": "AI companies can use copyrighted information to teach their AI, but they must get that information legally.",
+      "advanced": "Review your AI model training data acquisition pipelines to ensure all source material is obtained through legitimate channels, mitigating legal risks despite the evolving 'fair use' interpretations for AI training.",
+      "tags": [
+        "governance",
+        "policy",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "ad12ceee353f",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Trump's latest AI czar has already resigned",
+      "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+      "publishedAt": "2026-07-20T22:21:04.000Z",
+      "fetchedAt": "2026-07-21T15:09:31.691Z",
+      "contentText": null,
+      "summary": "Chris Fall, the director of the Center for AI Standards and Innovation (CAISI), has resigned just three months after his appointment. This marks the third departure from the leadership role in a short period, following Collin Burns and David Sacks. CAISI is responsible for developing technical standards and testing methods for AI models and assessing cybersecurity risks.",
+      "enterpriseAngle": "The repeated leadership changes at CAISI, coupled with its exclusion from new AI safety programs and calls for independent industry-run standards bodies, suggest an unstable and potentially ineffective regulatory landscape for enterprises developing and deploying AI. This uncertainty could impact product development timelines and compliance strategies.",
+      "beginner": "Government efforts to create rules and safety checks for AI are facing challenges, with leaders frequently leaving their posts.",
+      "advanced": "Monitor the evolving landscape of AI governance, particularly the interplay between government agencies like CAISI and emerging industry-led initiatives, to anticipate shifts in compliance requirements and technical standards for AI model development and deployment.",
+      "tags": [
+        "governance",
+        "policy",
+        "enterprise"
+      ]
+    },
     {
       "id": "d573260cad05",
       "source": "techcrunch-ai",

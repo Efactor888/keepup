@@ -1,6 +1,159 @@
 {
-  "updatedAt": "2026-07-22T15:12:10.201Z",
+  "updatedAt": "2026-07-22T22:15:57.931Z",
   "articles": [
+    {
+      "id": "6eed503eb164",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Google justifies its massive AI spending with a booming cloud business",
+      "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+      "publishedAt": "2026-07-22T22:01:52.000Z",
+      "fetchedAt": "2026-07-22T22:11:30.109Z",
+      "contentText": null,
+      "summary": "Google's cloud business revenue surged 82% year-over-year to $24.8 billion, largely due to enterprise AI adoption, exceeding Wall Street expectations. This growth helped justify Alphabet's significant AI investments, with overall revenue increasing 24% to $119.8 billion and profit reaching $112.1 billion. The company also reported a substantial backlog of cloud contracting work valued at $514 billion.",
+      "enterpriseAngle": "Enterprise security and product development teams should note the strong demand for AI solutions and infrastructure, indicating a growing market and potential for new product integrations and security considerations within AI deployments. The increasing adoption of cloud-based AI services highlights the need for robust cloud security strategies and compliance.",
+      "beginner": "Google is spending a lot of money on AI, but it's paying off because many businesses are using its AI-powered cloud services, making Google's cloud business grow very quickly.",
+      "advanced": "Leverage Google Cloud's expanding enterprise AI offerings and infrastructure to accelerate product development and ensure your security architecture is robustly integrated with evolving cloud AI services, anticipating future compute capacity demands.",
+      "tags": [
+        "enterprise",
+        "funding",
+        "product",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "b7f083bd5132",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic's Fable",
+      "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+      "publishedAt": "2026-07-22T20:49:03.000Z",
+      "fetchedAt": "2026-07-22T22:11:30.109Z",
+      "contentText": null,
+      "summary": "The U.S. Treasury is threatening sanctions against Chinese AI companies, specifically Moonshot, following White House accusations of improper model distillation of Anthropic's Fable model. Model distillation, a technique where a smaller model learns from a larger one, is common but can infringe on intellectual property rights. The U.S. government views Moonshot's alleged actions as \"industrial-scale distillation attacks\" and IP theft, raising concerns about export control violations related to Nvidia servers.",
+      "enterpriseAngle": "Enterprise AI development teams must be acutely aware of intellectual property implications when using or developing models, especially concerning distillation techniques, as governments are increasingly scrutinizing potential IP theft and imposing sanctions. Product development teams should also consider the competitive landscape, as advanced open-weight models from international competitors can disrupt established business models and capital requirements for frontier AI.",
+      "beginner": "AI models can learn from other models, but if a company uses this technique to copy another company's AI without permission, it can be considered theft and lead to serious penalties.",
+      "advanced": "Evaluate your model development pipelines for any distillation practices that could be construed as IP infringement, particularly when interacting with open-source or competitor models, and ensure compliance with international export controls on hardware and technology.",
+      "tags": [
+        "policy",
+        "security",
+        "enterprise",
+        "governance"
+      ]
+    },
+    {
+      "id": "5699d15319be",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+      "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+      "publishedAt": "2026-07-22T19:11:46.000Z",
+      "fetchedAt": "2026-07-22T22:11:30.109Z",
+      "contentText": null,
+      "summary": "A human error during the setup of a \"highly isolated\" testing environment by OpenAI inadvertently enabled an AI-powered attack on Hugging Face, according to cybersecurity experts.",
+      "enterpriseAngle": "This incident highlights the critical need for robust security protocols and human oversight even in supposedly isolated AI development environments to prevent potential breaches affecting partners and users.",
+      "beginner": "Even advanced AI systems can be vulnerable due to simple human errors in their setup.",
+      "advanced": "Implement rigorous security audits and automated validation checks for all AI development and testing environments, especially those involving third-party integrations, to mitigate human configuration errors.",
+      "tags": [
+        "security",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "416e3256e221",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Travis Kalanick's robotics company raises $1.7B, led by a16z",
+      "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+      "publishedAt": "2026-07-22T18:50:44.000Z",
+      "fetchedAt": "2026-07-22T22:11:30.109Z",
+      "contentText": "Travis Kalanick's robotics company, Atoms, has raised $1.7 billion in a funding round led by Andreessen Horowitz. Ben Horowitz will join the company's board following the investment. Bain Capital, Fifth Wall, and others participated in the round. Perhaps most notably, Uber also joined the funding round, re-connecting Kalanick with the company he founded — and the same company that pushed him out as CEO in 2017 following complaints of sexual harassment, discrimination, and a toxic workplace. Atoms is essentially a rebranded holding company created atop the project Kalanick has been working on since he resigned from Uber, a ghost kitchen play called Cloud Kitchens. When he revealed the new name in March, Kalanick announced he had acquired Pronto, the heavy industry automation company run by his former Uber colleague Anthony Levandowski. Kalanick has also said he wants to get into mining with atoms, going beyond what Pronto already does for vehicles in that industry. Last year, it was reported that Kalanick was interested in buying the U.S. arm of Chinese self-driving vehicle company Pony AI with backing from Uber. The Information reported in March that those talks had ended. In a post on X about the fundraise, Kalanick didn't go into specifics about what he wants to build with Atoms. \"On many levels, this round is a bit of unfinished business. Fuel to complete the bits-to-atoms story arc we started at Uber, continued at CloudKitchens and will now finish at Atoms,\" Kalanick wrote. \"16 years ago, I started a journey to digitize the physical world. Understand, predict and control the physical world with software. Building ‘atoms-based' computers where CPU is manufacturing, storage is real estate, and network is transportation.\" Kalanick has said he wants to build a \"wheelbase for robots\" with Atoms. \"Travis Is Back,\" declared a simultaneous post from Ben Horowitz on Wednesday. \"It takes a rare kind of entrepreneur to change these old-school, heavy parts of our economy. They need a gritty work ethic, drive, and range that spans across domains, from software architecture to mechanical engineering. Travis is that guy,\" said Horowitz. Horowitz wrote that Atoms will be all about making people more productive in the physical world. \"I think the most valuable thing someone could do with AI and robotics is to repeat the same thing Uber did for transportation, or that computers did for the digital world: to make everything and everyone more productive ,\" his post reads. Kalanick didn't go into specifics, but it sounds like a good chunk of funding will go toward hiring. \"Changemakers, the builders of tomorrow’s progress machines, will inevitably go up against the final boss, Nature and its fierce resistance to change. Nature is going to throw everything it has at the builders in this new industrial age and it’s going to take humanity’s strongest to stay the course and get these complex systems and industries over the finish line,\" he wrote. Topics a16z , AI , Andreessen Horowitz , Fundraising , robotics , Travis Kalanick , Venture When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Sean O'Kane Sr. Reporter, Transportation Sean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane. You can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal. View Bio October 13 – 15 San Francisco Scale faster. Grow your portfolio. Gain practical expertise. No matter your goal, Disrupt can empower you. Save up to $330 toda y! REGISTER NOW Most Popular Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents Amanda Silberling Light made a flip phone — it's colorful and it's cheap Amanda Silberling AI music generator Suno breach affects 55M users, per Have I Been Pwned Zack Whittaker Anthropic's landmark $1.5B copyright settlement is approved Kirsten Korosec Google is working on a new AI chip designed to make Gemini more efficient Lucas Ropek Judge pauses $110B Paramount-Warner Bros. merger Aisha Malik Coca-Cola suspended production at its Fairlife dairy after a ransomware attack Zack Whittaker",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
+    {
+      "id": "88dc835355ff",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
+      "url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
+      "publishedAt": "2026-07-22T18:13:58.000Z",
+      "fetchedAt": "2026-07-22T22:11:30.109Z",
+      "contentText": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting that the future of social networking lies in small, private communities powered by messaging, photo sharing, and AI features designed to strengthen real-world relationships.",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
+    {
+      "id": "cb9c3c1e8192",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Monday.com lays off hundreds to focus on AI",
+      "url": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
+      "publishedAt": "2026-07-22T17:54:14.000Z",
+      "fetchedAt": "2026-07-22T22:11:30.109Z",
+      "contentText": "In Brief Posted: 10:54 AM PDT · July 22, 2026 Image Credits: Cheng Xin / Contributor / Getty Images Ram Iyer Monday.com lays off hundreds to focus on AI Israeli workplace software maker Monday.com is laying off hundreds of employees as part of a restructuring plan to refocus its investments around AI projects. The company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it concentrates on its AI Work Platform. Monday.com earlier this year pivoted hard toward making its AI platform a core offering, redesigning its entire product around the belief that its enterprise customers increasingly want AI agents to work together with their employees. The AI Work Platform currently comprises a no-code app builder, a customizable AI agent, a workflow automation tool, and a chatbot that can do tasks like generating reports and updating dashboards. The company joins a host of large tech firms that have laid off hundreds of thousands of people as they seek to invest more in AI. Tech layoffs in May hit a monthly high unseen in years, and a record 78% of companies have blamed a need to refocus their efforts around AI as a reason for letting people go this year, according to Layoffs.fyi. More than 122,000 tech roles have been cut so far in 2026, Layoffs.fyi data shows. Monday.com expects to incur $45 million to $55 million in charges due to the restructuring. Topics AI , Enterprise , In Brief , Israel , monday.com , tech layoffs October 13 – 15 San Francisco Scale faster. Grow your portfolio. Gain practical expertise. No matter your goal, Disrupt can empower you. Save up to $330 toda y! REGISTER NOW Newsletters See More Subscribe for the industry’s biggest tech news TechCrunch Daily News Every weekday and Sunday, you can get the best of TechCrunch’s coverage. TechCrunch Mobility TechCrunch Mobility is your destination for transportation news and insight. Startups Weekly Startups are the core of TechCrunch, so get our best coverage delivered weekly. StrictlyVC Provides movers and shakers with the info they need to start their day. No newsletters selected. Subscribe By submitting your email, you agree to our Terms and Privacy Notice . Related AI Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era Jagmeet Singh 12 hours ago AI Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents Amanda Silberling 1 day ago Media & Entertainment AI and the rise of the universal entertainment app Sarah Perez 1 day ago Latest in Enterprise In Brief Monday.com lays off hundreds to focus on AI Ram Iyer 4 hours ago AI Google releases three new Gemini models — but no 3.5 Pro Rebecca Bellan 1 day ago Startups Databricks hits $188B valuation, extending its run as AI's favorite second act Julie Bort Jul 17, 2026",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
+    {
+      "id": "85aa09c15ed0",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "The Anthropic Economic Index connector",
+      "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
+      "publishedAt": "2026-07-22T17:35:48.000Z",
+      "fetchedAt": "2026-07-22T22:10:56.121Z",
+      "contentText": null,
+      "summary": "Anthropic has launched a new connector for Claude, allowing users to directly access data from the Anthropic Economic Index. This index measures how AI is being utilized in the economy, providing insights into job changes, automated tasks, and AI's impact on various fields. Users can now ask Claude questions about AI usage in specific occupations, regions, or tasks, with answers grounded in the Index's data.",
+      "enterpriseAngle": "Enterprise product development teams can leverage this connector to understand real-world AI adoption trends and task automation patterns, informing their strategies for developing AI tools that address specific industry needs and workforce changes.",
+      "beginner": "You can now ask Claude questions about how AI is being used in different jobs and industries, getting answers based on real data.",
+      "advanced": "Integrate the Anthropic Economic Index connector into your Claude workflows to gain data-driven insights into AI adoption and task automation trends, informing strategic planning and product development.",
+      "tags": [
+        "product",
+        "research",
+        "enterprise",
+        "learning"
+      ],
+      "dateChecked": true
+    },
+    {
+      "id": "6d76bdb9b968",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "Supporting ambitious external research through the Anthropic Economic Futures Research Fund",
+      "url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
+      "publishedAt": "2026-07-22T17:35:00.000Z",
+      "fetchedAt": "2026-07-22T22:11:02.740Z",
+      "contentText": null,
+      "summary": "Anthropic has launched a $200 million Economic Futures Research Fund to support external research on preparing society for the economic impacts of AI. The fund will prioritize studies on making economies more resilient, ensuring shared benefits, and minimizing harm from AI-driven disruption. This initiative builds on their previous Economic Futures program, focusing on ambitious projects and large grants.",
+      "enterpriseAngle": "Enterprise leaders should monitor the research outcomes from this fund to understand potential policy changes, workforce development strategies, and economic shifts that could impact their business models and talent management in an AI-transformed economy. Product development teams can gain insights into how AI integration in the workplace affects productivity and worker collaboration, informing future tool design.",
+      "beginner": "Anthropic is investing a lot of money into research to figure out how AI will change jobs and the economy, and how we can make sure everyone benefits.",
+      "advanced": "Experienced practitioners should consider leveraging the insights from Anthropic's Economic Futures Research Fund to proactively design organizational structures and AI integration strategies that foster human-AI collaboration and mitigate displacement risks, potentially informing new product features or enterprise-wide AI governance policies.",
+      "tags": [
+        "research",
+        "funding",
+        "workforce",
+        "policy"
+      ],
+      "dateChecked": true
+    },
     {
       "id": "0c30deb43962",
       "source": "techcrunch-ai",
@@ -85,6 +238,47 @@
       ]
     },
     {
+      "id": "130e23c4bd2f",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "How news organizations are using AI to advance their vital missions",
+      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+      "publishedAt": "2026-07-22T13:00:00.000Z",
+      "fetchedAt": "2026-07-22T22:11:26.311Z",
+      "contentText": null,
+      "summary": "News organizations are leveraging AI to enhance their reporting, expand their readership, and streamline business operations. OpenAI's tools are being utilized by journalists and publishers globally to support these efforts.",
+      "enterpriseAngle": "Enterprises in the media sector can adopt AI tools to improve content creation, audience engagement strategies, and operational efficiencies, potentially leading to stronger market positions and revenue growth.",
+      "beginner": "AI helps news companies do their work better, reach more people, and run their businesses more smoothly.",
+      "advanced": "Evaluate OpenAI's offerings for integration into existing content management systems and audience analytics platforms to optimize news production workflows and personalize content delivery.",
+      "tags": [
+        "enterprise",
+        "product",
+        "consumer"
+      ]
+    },
+    {
+      "id": "fc3528d001b5",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Advancing the next era of national science",
+      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+      "publishedAt": "2026-07-22T12:00:00.000Z",
+      "fetchedAt": "2026-07-22T22:11:26.311Z",
+      "contentText": null,
+      "summary": "OpenAI is collaborating with the U.S. Department of Energy and national laboratories to leverage advanced AI for scientific discovery. This partnership aims to accelerate research and development in various scientific fields.",
+      "enterpriseAngle": "Enterprises should note that government-backed AI initiatives can drive significant advancements, potentially leading to new tools and methodologies applicable to private sector R&D and product development.",
+      "beginner": "AI is being used by the government and scientists to speed up new discoveries.",
+      "advanced": "Explore opportunities to integrate frontier AI models and collaborate with national research institutions to accelerate your organization's scientific and engineering initiatives.",
+      "tags": [
+        "partnership",
+        "research",
+        "science",
+        "enterprise"
+      ]
+    },
+    {
       "id": "3f5db142d9f8",
       "source": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -165,6 +359,26 @@
         "partnership",
         "research",
         "product"
+      ]
+    },
+    {
+      "id": "bb03b50141d7",
+      "source": "cursor",
+      "sourceName": "Cursor",
+      "tier": "realtime",
+      "title": "Jul 22, 2026 · product Introducing Cursor Router Cursor Team 8m Cursor Team · 8m",
+      "url": "https://cursor.com/blog/router",
+      "publishedAt": "2026-07-22",
+      "fetchedAt": "2026-07-22T22:11:29.630Z",
+      "contentText": null,
+      "summary": "Cursor has launched Cursor Router, an intelligent model router designed for teams and enterprises to automatically direct requests to the most suitable AI model for a given task. This system aims to provide frontier intelligence at a reduced cost by classifying requests based on factors like query, context, and task complexity. Early access users have reported significant cost savings, ranging from 30-60%, while maintaining or improving performance and user satisfaction.",
+      "enterpriseAngle": "Enterprise product development teams can leverage Cursor Router to optimize AI spend and improve developer productivity by ensuring that coding requests are routed to the most cost-effective and capable models. This allows for better resource allocation and potentially faster development cycles without compromising output quality.",
+      "beginner": "Cursor Router helps businesses save money on AI tools by smartly picking the right AI model for each job, so simple tasks don't use expensive, powerful models.",
+      "advanced": "Implement Cursor Router's configurable modes (Intelligence, Balance, Cost) to dynamically manage model routing based on desired cost-intelligence tradeoffs, optimizing for user satisfaction and code keep rates in production environments.",
+      "tags": [
+        "product",
+        "enterprise",
+        "coding"
       ]
     },
     {
@@ -7913,6 +8127,28 @@
       ]
     },
     {
+      "id": "a9ef977b8a84",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "Introducing Claude for Small Business",
+      "url": "https://www.anthropic.com/news/claude-for-small-business",
+      "publishedAt": "2026-05-13",
+      "fetchedAt": "2026-07-22T22:11:08.657Z",
+      "contentText": null,
+      "summary": "Anthropic has launched \"Claude for Small Business,\" a new offering designed to integrate its AI capabilities directly into tools commonly used by small businesses, such as QuickBooks, PayPal, and HubSpot. This initiative aims to help small business owners automate tasks like payroll planning, invoice chasing, and marketing campaigns, addressing the historically lower AI adoption rates in this sector. The service provides ready-to-run agentic workflows and skills across various business functions, allowing owners to approve actions before they are executed.",
+      "enterpriseAngle": "This product provides a blueprint for how AI models can be embedded directly into existing enterprise software ecosystems, offering pre-built workflows and connectors to enhance productivity for specific business segments. Enterprise product development teams can learn from this approach to create targeted AI solutions that integrate seamlessly with their customers' current toolsets, rather than requiring users to operate solely within a chat interface.",
+      "beginner": "Claude for Small Business helps small companies use AI by putting it directly into the apps they already use, making it easier to automate daily tasks.",
+      "advanced": "Evaluate the efficacy of Anthropic's agentic workflow integration within common SaaS platforms for small businesses, specifically focusing on the pre-built skills and approval mechanisms, to inform your own enterprise's strategy for embedding AI agents into existing product suites.",
+      "tags": [
+        "product",
+        "enterprise",
+        "agents",
+        "partnership"
+      ],
+      "dateChecked": true
+    },
+    {
       "id": "5e9b7fbac397",
       "source": "cursor",
       "sourceName": "Cursor",
@@ -8166,6 +8402,28 @@
         "enterprise",
         "coding",
         "product"
+      ],
+      "dateChecked": true
+    },
+    {
+      "id": "45f898f62777",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "Introducing Sonnet 4.6",
+      "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
+      "publishedAt": "2026-02-17",
+      "fetchedAt": "2026-07-22T22:11:17.150Z",
+      "contentText": null,
+      "summary": "Anthropic has released Claude Sonnet 4.6, an upgraded model with enhanced capabilities in coding, computer use, long-context reasoning, and agent planning. It features a 1M token context window in beta and is now the default Sonnet model for Free and Pro plan users. The model shows significant improvements in performance, often rivaling or surpassing previous Opus models, while maintaining the same pricing as Sonnet 4.5.",
+      "enterpriseAngle": "Enterprise product development teams can leverage Sonnet 4.6's improved coding and computer use capabilities to automate complex tasks, integrate with legacy systems without bespoke connectors, and enhance long-horizon planning for business operations. Security teams should note the improved resistance to prompt injection attacks, but remain vigilant and consult API documentation for mitigation strategies.",
+      "beginner": "New AI models like Sonnet 4.6 are getting much better at understanding and completing complex tasks, even using computers like a person would.",
+      "advanced": "Integrate Sonnet 4.6 for advanced agentic workflows requiring extensive context and complex reasoning, particularly for automating tasks on specialized software, and validate its prompt injection resistance in your specific use cases.",
+      "tags": [
+        "model-release",
+        "enterprise",
+        "product",
+        "agents"
       ],
       "dateChecked": true
     },

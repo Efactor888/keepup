@@ -1,6 +1,193 @@
 {
-  "updatedAt": "2026-07-21T22:10:22.463Z",
+  "updatedAt": "2026-07-22T15:12:10.201Z",
   "articles": [
+    {
+      "id": "0c30deb43962",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari",
+      "url": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "publishedAt": "2026-07-22T13:20:35.000Z",
+      "fetchedAt": "2026-07-22T15:09:52.208Z",
+      "contentText": null,
+      "summary": "The browser market is shifting from search to AI-powered assistants that act on users' behalf. New browsers like Perplexity's Comet, The Browser Company's Dia, and Opera's Neon are emerging, offering features such as email summarization, task completion, and contextual web navigation. Even established privacy-focused browsers like Brave and DuckDuckGo are integrating AI capabilities to stay competitive.",
+      "enterpriseAngle": "Enterprise product development teams should consider how AI-powered browser agents could streamline workflows and data management, while security teams must evaluate the implications of granting browsers extensive access to user data and corporate systems for task automation.",
+      "beginner": "Browsers are becoming smarter, using AI to help you do things online, not just find information.",
+      "advanced": "Evaluate the integration of agentic browser capabilities into existing enterprise tools, prioritizing solutions that offer robust data governance and granular access controls to mitigate risks associated with autonomous task execution and data handling.",
+      "tags": [
+        "product",
+        "agents",
+        "enterprise",
+        "security"
+      ]
+    },
+    {
+      "id": "bd6ce42035f5",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Building AI infrastructure with the Effingham County community",
+      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "publishedAt": "2026-07-22T13:00:00.000Z",
+      "fetchedAt": "2026-07-22T15:09:48.042Z",
+      "contentText": null,
+      "summary": "OpenAI has initiated Project Camellia in Effingham County, Georgia. This project includes commitments to responsible energy use, community investment, job creation, and providing access to Codex.",
+      "enterpriseAngle": "Enterprises should note OpenAI's focus on local community engagement and sustainable infrastructure, which could influence future site selections and public-private partnerships for AI development. The commitment to job creation and community investment suggests a model for integrating large-scale AI projects with local economic development.",
+      "beginner": "OpenAI is building a new facility in Georgia, promising to create jobs and use energy responsibly.",
+      "advanced": "Evaluate the long-term implications of OpenAI's community-centric infrastructure development model for your own enterprise's AI expansion strategies, particularly regarding energy sourcing and local workforce integration.",
+      "tags": [
+        "infrastructure",
+        "enterprise",
+        "workforce"
+      ]
+    },
+    {
+      "id": "844ec17c6121",
+      "source": "google-ai",
+      "sourceName": "Google AI",
+      "tier": "realtime",
+      "title": "3 Google updates from Galaxy Unpacked 2026",
+      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+      "publishedAt": "2026-07-22T13:00:00.000Z",
+      "fetchedAt": "2026-07-22T15:09:48.367Z",
+      "contentText": null,
+      "summary": "Google has launched new Samsung Galaxy Z Fold8 and Flip8 series phones, integrating Gemini Intelligence for task automation across over 40 apps. These devices also feature Gemini Notebook for research and content creation, and offer a six-month trial of Google AI Pro. Additionally, Gemini is being extended to the Galaxy Watch 9 and upcoming intelligent eyewear.",
+      "enterpriseAngle": "Enterprise product development teams can leverage Gemini Intelligence's expanded task automation and multimodal capabilities to create more efficient and intuitive applications for business users. Security teams should consider the implications of AI integration across multiple devices, including smartwatches and eyewear, for data privacy and access controls.",
+      "beginner": "New Samsung phones and smart devices now use Google's AI to help you with daily tasks and research, making technology more helpful and hands-free.",
+      "advanced": "Integrate Gemini Intelligence's advanced reasoning and multimodal input capabilities into enterprise workflows to automate complex, context-aware tasks and enhance productivity across diverse device ecosystems.",
+      "tags": [
+        "product",
+        "enterprise",
+        "agents",
+        "model-release"
+      ]
+    },
+    {
+      "id": "e5bfc20affea",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
+      "url": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
+      "publishedAt": "2026-07-22T13:00:00.000Z",
+      "fetchedAt": "2026-07-22T15:09:52.208Z",
+      "contentText": null,
+      "summary": "Passionfroot, a German startup, has secured $15 million in Series A funding led by Insight Partners to expand its B2B creator marketplace into the U.S. and São Paulo. The company connects B2B creators with brands, helping them navigate a crowded market where AI is commoditizing software. Passionfroot has also developed an AI agent called Zest to assist brands with campaign creation, execution, and performance monitoring.",
+      "enterpriseAngle": "Enterprise marketing and product development teams can leverage Passionfroot's platform and AI agent, Zest, to identify suitable B2B creators and execute campaigns, enhancing brand recall and recognition in an AI-saturated market. The platform's focus on measuring campaign impact on AI citations and brand appearance in AI-powered answers offers new metrics for enterprise marketing effectiveness.",
+      "beginner": "Passionfroot helps businesses find expert content creators to explain their products, especially AI tools, because many new AI products are making the market very competitive.",
+      "advanced": "Integrate Passionfroot's Zest AI agent and proprietary creator graph into your marketing tech stack to optimize B2B creator selection, campaign management, and measure brand impact on AI citations and search visibility.",
+      "tags": [
+        "funding",
+        "enterprise",
+        "product",
+        "agents"
+      ]
+    },
+    {
+      "id": "3f5db142d9f8",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
+      "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+      "publishedAt": "2026-07-22T10:00:00.000Z",
+      "fetchedAt": "2026-07-22T15:09:52.208Z",
+      "contentText": null,
+      "summary": "Glow, a new cybersecurity startup, has emerged from stealth with a $1.2 billion valuation after raising $180 million in Series A funding. The company aims to redefine endpoint security by monitoring and controlling AI agents and developer tools on employee devices, responding to the increasing use of AI in both enterprise tools and cyberattacks. Glow's platform uses specialized AI agents to assess risk and enforce security policies in real time.",
+      "enterpriseAngle": "Enterprise security teams need to re-evaluate their endpoint security strategies as AI tools become more prevalent, both for internal use and in sophisticated cyberattacks. Glow's approach focuses on preventing risky AI agents and software from entering enterprise environments, offering a proactive solution to emerging AI-driven threats.",
+      "beginner": "As AI becomes more common, new security companies are emerging to protect computers and networks from AI-powered threats and to manage AI tools used by employees.",
+      "advanced": "Evaluate the efficacy of AI-native endpoint security platforms like Glow for proactive threat prevention against AI agents and developer tools, considering their integration with existing EDR solutions and real-time risk assessment capabilities.",
+      "tags": [
+        "security",
+        "enterprise",
+        "funding",
+        "product"
+      ]
+    },
+    {
+      "id": "aab6fd66ee75",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
+      "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
+      "publishedAt": "2026-07-22T08:00:00.000Z",
+      "fetchedAt": "2026-07-22T15:09:52.208Z",
+      "contentText": null,
+      "summary": "Synthesia has introduced AI Roleplay Sessions, a new enterprise training platform. This platform allows employees to practice workplace conversations with AI avatars that offer feedback, scoring, and analytics to assess training effectiveness.",
+      "enterpriseAngle": "Enterprise product development teams can leverage this technology to create more engaging and measurable training solutions, while security teams should consider the data privacy implications of employee interaction with AI avatars.",
+      "beginner": "AI is now being used to create virtual practice environments where you can improve your communication skills with computer-generated characters.",
+      "advanced": "Integrate AI Roleplay Sessions with existing learning management systems to track individual performance metrics and identify areas for targeted skill development across the workforce.",
+      "tags": [
+        "product",
+        "enterprise",
+        "workforce",
+        "learning"
+      ]
+    },
+    {
+      "id": "c54f46e53d48",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Introducing OpenAI Presence",
+      "url": "https://openai.com/index/introducing-openai-presence",
+      "publishedAt": "2026-07-22T05:30:00.000Z",
+      "fetchedAt": "2026-07-22T15:09:48.042Z",
+      "contentText": null,
+      "summary": "OpenAI has launched \"OpenAI Presence,\" an enterprise AI agent platform. This platform is designed to help organizations implement reliable voice and chat agents. It supports both customer-facing and internal operational workflows.",
+      "enterpriseAngle": "Enterprise security and product development teams can leverage OpenAI Presence to deploy AI agents, enhancing customer service and streamlining internal operations with trusted voice and chat functionalities. This platform offers a standardized way to integrate AI agents, potentially reducing development time and ensuring consistent performance across various enterprise applications.",
+      "beginner": "OpenAI Presence is a new tool that helps businesses use AI to create smart assistants for talking to customers or helping employees.",
+      "advanced": "Evaluate OpenAI Presence for integrating trusted voice and chat agents into existing enterprise workflows, focusing on its security features and scalability for both customer-facing and internal applications.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "6fe99634987e",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+      "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+      "publishedAt": "2026-07-22T03:20:57.000Z",
+      "fetchedAt": "2026-07-22T15:09:52.208Z",
+      "contentText": null,
+      "summary": "A recent rumor about Anthropic acquiring robotics startup Physical Intelligence, co-founded by Lachy Groom and valued at $11 billion, quickly spread despite an initial denial. It was later revealed that Anthropic and Physical Intelligence did engage in acquisition talks this spring. This potential acquisition highlights a growing interest among leading AI companies like Anthropic and OpenAI in robotics, driven by the belief that physical-world understanding is crucial for developing superintelligent AI systems.",
+      "enterpriseAngle": "Enterprise AI companies are increasingly looking to integrate physical robotics capabilities, recognizing that real-world interaction is essential for advancing AI beyond text-based models. This trend suggests that future enterprise AI solutions may involve a blend of software and hardware, requiring businesses to consider new development and integration strategies.",
+      "beginner": "AI companies are exploring robotics because understanding the physical world is seen as a key step for making AI much smarter.",
+      "advanced": "Evaluate potential M&A targets in the robotics sector for strategic alignment with your AI roadmap, especially considering the competitive landscape and potential stakeholder conflicts with existing investors like OpenAI's stake in Physical Intelligence.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "research",
+        "product"
+      ]
+    },
+    {
+      "id": "7d968fc2635a",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Meta is testing an AI bedtime story app for people with no imagination",
+      "url": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+      "publishedAt": "2026-07-21T23:55:10.000Z",
+      "fetchedAt": "2026-07-22T15:09:52.208Z",
+      "contentText": null,
+      "summary": "Meta is testing StoryKit, an AI-powered app that generates personalized children's bedtime stories with custom characters, settings, and moral lessons. The app allows users to create characters from photos and aims to provide imaginative storybooks without requiring parents to write anything. StoryKit is currently being piloted in select countries and includes AI safety filters, no social features, and is restricted to users over 18.",
+      "enterpriseAngle": "For enterprise product development teams, StoryKit demonstrates a consumer-facing application of generative AI for content creation, highlighting the potential for personalized user experiences and the importance of integrating AI safety features and age restrictions. This also shows how companies are exploring AI to automate creative tasks, which could extend to enterprise content generation tools.",
+      "beginner": "Meta's new app uses AI to automatically create unique bedtime stories for kids, making it easier for parents to get creative without writing anything themselves.",
+      "advanced": "Evaluate the efficacy of Meta's AI safety filters and content moderation strategies in StoryKit for potential application in enterprise-grade generative AI tools, particularly concerning user-generated content and ethical AI deployment.",
+      "tags": [
+        "product",
+        "consumer",
+        "agents",
+        "enterprise"
+      ]
+    },
     {
       "id": "69b7eb38cde7",
       "source": "techcrunch-ai",
@@ -288,6 +475,28 @@
         "enterprise",
         "agents"
       ]
+    },
+    {
+      "id": "92c58c1b9560",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "Donating another $20 million to Public First Action",
+      "url": "https://www.anthropic.com/news/donation-public-first-action",
+      "publishedAt": "2026-07-21",
+      "fetchedAt": "2026-07-22T15:09:22.474Z",
+      "contentText": null,
+      "summary": "Anthropic has donated an additional $20 million to Public First Action, bringing its total contribution to $40 million. This nonpartisan organization focuses on educating the public about AI and advocating for sensible AI safeguards with policymakers across the political spectrum. The donation supports public education and policy initiatives, not election campaigns.",
+      "enterpriseAngle": "Enterprises developing or deploying advanced AI models should anticipate increased regulatory scrutiny and the potential for new laws requiring greater transparency, independent safety evaluations, and robust security programs. Proactive engagement with AI safety frameworks and policy discussions will be crucial for managing risks and ensuring compliance.",
+      "beginner": "As AI gets more powerful, organizations like Public First Action are working to create rules and safeguards to keep everyone safe.",
+      "advanced": "Implement a comprehensive AI safety and security program, including independent model evaluations and transparent risk reporting, to align with emerging policy trends and mitigate potential catastrophic risks from advanced AI deployments.",
+      "tags": [
+        "enterprise",
+        "policy",
+        "governance",
+        "funding"
+      ],
+      "dateChecked": true
     },
     {
       "id": "ad12ceee353f",
@@ -7939,6 +8148,28 @@
       "dateChecked": true
     },
     {
+      "id": "8ffed2502175",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "Introducing Claude Opus 4.7",
+      "url": "https://www.anthropic.com/news/claude-opus-4-7",
+      "publishedAt": "2026-04-16",
+      "fetchedAt": "2026-07-22T15:09:31.154Z",
+      "contentText": null,
+      "summary": "Anthropic has released Claude Opus 4.7, an updated AI model that significantly improves upon its predecessor, Opus 4.6, particularly in advanced software engineering and complex coding tasks. It features enhanced vision capabilities, better creative output for professional documents, and new safeguards to detect and block high-risk cybersecurity uses. The model is available across various platforms, including Anthropic's API, Amazon Bedrock, Google Cloud's Vertex AI, and Microsoft Foundry, maintaining the same pricing as Opus 4.6.",
+      "enterpriseAngle": "Enterprise development teams can leverage Opus 4.7 for more reliable and efficient handling of complex coding projects, accelerating development velocity and improving the quality of software solutions. Security teams interested in legitimate cybersecurity applications can join the Cyber Verification Program to use Opus 4.7 for tasks like vulnerability research and penetration testing, benefiting from its built-in safeguards.",
+      "beginner": "New AI models like Claude Opus 4.7 are getting much better at helping people with difficult coding and creative tasks, while also including new safety features.",
+      "advanced": "Integrate Opus 4.7 into your CI/CD pipelines and long-running automation workflows to capitalize on its improved sustained reasoning, self-correction, and multimodal understanding for complex software engineering and research agent tasks.",
+      "tags": [
+        "model-release",
+        "enterprise",
+        "coding",
+        "product"
+      ],
+      "dateChecked": true
+    },
+    {
       "id": "b846f83a598d",
       "source": "xai",
       "sourceName": "xAI (Grok)",
@@ -8106,6 +8337,28 @@
       ]
     },
     {
+      "id": "3c1a80a7da08",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "Introducing Claude Opus 4.5",
+      "url": "https://www.anthropic.com/news/claude-opus-4-5",
+      "publishedAt": "2025-11-24",
+      "fetchedAt": "2026-07-22T15:09:30.927Z",
+      "contentText": null,
+      "summary": "Anthropic has released Claude Opus 4.5, a new AI model that they claim is the best in the world for coding, agents, and computer use, and also significantly improves everyday tasks like research and working with documents. The model is now available on their apps, API, and major cloud platforms, with a new pricing structure designed to make it more accessible. Early testers and customers report that Opus 4.5 handles complex tasks, ambiguity, and multi-system bugs with greater efficiency and less human intervention.",
+      "enterpriseAngle": "Enterprise product development and security teams can leverage Claude Opus 4.5 for enhanced coding, agentic workflows, and complex problem-solving, potentially leading to faster development cycles and more robust applications. The improved efficiency and lower cost per token could also optimize resource allocation for AI-powered solutions.",
+      "beginner": "Anthropic's new AI model, Claude Opus 4.5, is designed to be very good at helping with coding, automating tasks, and general computer use, making it easier and more affordable for many people to use advanced AI.",
+      "advanced": "Integrate Claude Opus 4.5 into your development pipelines and agentic systems, specifically evaluating its performance on long-horizon coding tasks, multi-step reasoning, and complex enterprise benchmarks to capitalize on its reported efficiency gains and improved frontier task planning capabilities.",
+      "tags": [
+        "model-release",
+        "enterprise",
+        "coding",
+        "agents"
+      ],
+      "dateChecked": true
+    },
+    {
       "id": "85baf3e38c6a",
       "source": "xai",
       "sourceName": "xAI (Grok)",
@@ -8166,6 +8419,72 @@
         "product",
         "research",
         "learning"
+      ],
+      "dateChecked": true
+    },
+    {
+      "id": "bfa87fb31b59",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "Introducing Agent Skills | Claude by Anthropic",
+      "url": "https://www.anthropic.com/news/skills",
+      "publishedAt": "2025-10-16",
+      "fetchedAt": "2026-07-22T15:09:38.344Z",
+      "contentText": null,
+      "summary": "Anthropic has introduced \"Agent Skills\" for Claude, allowing the AI to perform specialized tasks more effectively by loading relevant instructions, scripts, and resources. These skills are composable, portable, and efficient, enabling Claude to excel at tasks like working with Excel or adhering to brand guidelines. Users can build custom skills for use across Claude apps, Claude Code, and the API, with an update adding organization-wide management and an open standard for portability.",
+      "enterpriseAngle": "Enterprise security and product development teams can leverage Agent Skills to create highly specialized AI agents that adhere to internal standards and workflows, but must carefully manage skill sources due to the feature's code execution capabilities. This allows for customized automation of complex tasks while requiring robust governance over skill deployment and usage.",
+      "beginner": "Claude can now learn new, specific abilities by using 'skills,' which are like custom instruction manuals that help it do specialized jobs better.",
+      "advanced": "Implement Agent Skills with the Code Execution Tool beta to enhance Claude's specialized task performance, ensuring secure skill sourcing and leveraging the /v1/skills endpoint for programmatic management and versioning of custom skills.",
+      "tags": [
+        "agents",
+        "product",
+        "enterprise",
+        "coding"
+      ],
+      "dateChecked": true
+    },
+    {
+      "id": "a5a84a8c004b",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "Introducing Claude Haiku 4.5",
+      "url": "https://www.anthropic.com/news/claude-haiku-4-5",
+      "publishedAt": "2025-10-15",
+      "fetchedAt": "2026-07-22T15:09:47.530Z",
+      "contentText": null,
+      "summary": "Anthropic has released Claude Haiku 4.5, a new small model that offers coding performance similar to the older Claude Sonnet 4 but at one-third the cost and more than twice the speed. It is designed for real-time, low-latency tasks and can be orchestrated with more powerful models like Sonnet 4.5 for complex projects. Haiku 4.5 also demonstrates improved safety and alignment compared to previous models.",
+      "enterpriseAngle": "Enterprise product development teams can leverage Claude Haiku 4.5 for cost-efficient and faster AI-assisted coding, rapid prototyping, and real-time applications like customer service agents, potentially improving development workflows and unit economics. Its ability to be orchestrated with other models allows for flexible and scalable AI solutions.",
+      "beginner": "Claude Haiku 4.5 is a new, faster, and cheaper AI model that can help with coding and other tasks, making AI tools more accessible and efficient.",
+      "advanced": "Integrate Claude Haiku 4.5 into multi-agent architectures for sub-task orchestration and real-time feedback loops, leveraging its speed and cost-efficiency for enhanced development workflows and agentic coding applications.",
+      "tags": [
+        "model-release",
+        "enterprise",
+        "coding",
+        "product"
+      ],
+      "dateChecked": true
+    },
+    {
+      "id": "1ccc22f7699c",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "Introducing Claude Sonnet 4.5",
+      "url": "https://www.anthropic.com/news/claude-sonnet-4-5",
+      "publishedAt": "2025-09-29",
+      "fetchedAt": "2026-07-22T15:09:41.465Z",
+      "contentText": null,
+      "summary": "Anthropic has released Claude Sonnet 4.5, which they claim is the world's best coding model and strongest for building complex agents, showing significant improvements in reasoning and math. It is state-of-the-art on coding and computer use benchmarks like SWE-bench Verified and OSWorld. The release includes product upgrades such as checkpoints in Claude Code, a native VS Code extension, and new API features for agents, along with a Claude Agent SDK for developers.",
+      "enterpriseAngle": "Enterprise product development and security teams can leverage Claude Sonnet 4.5 for enhanced coding, agentic workflows, and improved vulnerability detection, potentially accelerating development cycles and strengthening security postures. The new SDK and API features offer greater flexibility for integrating advanced AI capabilities into existing enterprise tools and processes.",
+      "beginner": "New AI models like Claude Sonnet 4.5 can write and understand computer code better, helping people build software and automate tasks more efficiently.",
+      "advanced": "Integrate Claude Sonnet 4.5 via the Claude API to leverage its state-of-the-art coding and agentic capabilities, particularly for complex, multi-step tasks and vulnerability analysis, while utilizing the new SDK for custom agent development.",
+      "tags": [
+        "model-release",
+        "coding",
+        "agents",
+        "enterprise"
       ],
       "dateChecked": true
     },

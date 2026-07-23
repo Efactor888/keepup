@@ -1,6 +1,152 @@
 {
-  "updatedAt": "2026-07-22T22:15:57.931Z",
+  "updatedAt": "2026-07-23T15:18:58.932Z",
   "articles": [
+    {
+      "id": "d9ffdf3634eb",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+      "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+      "publishedAt": "2026-07-23T15:00:00.000Z",
+      "fetchedAt": "2026-07-23T15:17:10.841Z",
+      "contentText": null,
+      "summary": "AI chip startup Etched has secured $300 million in Series C funding, reaching a $10.3 billion valuation, led by Sequoia and other prominent investors. The company, founded by three Harvard dropouts, designs specialized chips and systems to accelerate AI inference, particularly the prefill and decode phases. Etched claims its technology offers faster speeds and lower costs by using low-voltage inference and a new cluster scale memory.",
+      "enterpriseAngle": "Enterprise product development teams can leverage Etched's specialized AI inference systems to significantly reduce computational costs and improve the speed of their AI models, including various LLM architectures and non-transformer designs. This could lead to more efficient and cost-effective deployment of AI applications at scale.",
+      "beginner": "Etched makes special computer chips that help AI programs like ChatGPT work much faster and cheaper, especially when figuring out what you're asking and generating a response.",
+      "advanced": "Evaluate Etched's low-voltage inference and cluster scale memory architecture for accelerating prefill and decode phases in your organization's specific LLM and non-transformer model deployments to optimize inference performance and reduce operational expenditure.",
+      "tags": [
+        "funding",
+        "hardware",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "d15a0dad264d",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Nvidia is sending GPUs to the Moon",
+      "url": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
+      "publishedAt": "2026-07-23T15:00:00.000Z",
+      "fetchedAt": "2026-07-23T15:17:10.841Z",
+      "contentText": null,
+      "summary": "Nvidia's Jetson chips are being deployed to the Moon by Lunar Outpost, a robotics startup, to power the LiDAR system on its next rover. This initiative is part of NASA's program to fund private companies for lunar exploration, aiming to map the Moon and search for resources. The Jetson platform, known for its compact and power-efficient design, will enable the rover to process sensor data locally in the extreme lunar environment.",
+      "enterpriseAngle": "Enterprise product development teams can learn from the challenges of deploying AI hardware in extreme environments, particularly regarding power efficiency, radiation resistance, and local processing capabilities for autonomous systems. This also highlights a growing market for robust AI solutions in specialized, high-stakes applications beyond traditional terrestrial uses.",
+      "beginner": "Nvidia is sending special computer chips to the Moon to help robots explore and understand the lunar surface.",
+      "advanced": "Evaluate the Jetson platform's performance in extreme lunar conditions to inform future edge AI deployments requiring high autonomy, local processing, and resilience against radiation and temperature fluctuations.",
+      "tags": [
+        "product",
+        "enterprise",
+        "research",
+        "hardware"
+      ]
+    },
+    {
+      "id": "085548e5aa00",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Google closes in on another billion- user product with Gemini",
+      "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
+      "publishedAt": "2026-07-23T14:52:44.000Z",
+      "fetchedAt": "2026-07-23T15:17:10.841Z",
+      "contentText": null,
+      "summary": "Google's AI assistant, Gemini, has reached over 950 million monthly active users, tripling its user base from the previous year and nearing the billion-user mark. This growth positions Gemini to compete more directly with OpenAI's ChatGPT, which recently hit 1 billion users. Google attributes this success to new agentic features and its availability across Android and iOS platforms.",
+      "enterpriseAngle": "Enterprise product development teams should note the rapid adoption of AI assistants and the increasing user preference for agentic features, which can inform future product roadmaps and integration strategies. The cost reduction in AI mode through hardware engineering also highlights opportunities for optimizing AI infrastructure.",
+      "beginner": "AI assistants like Google's Gemini are becoming very popular, with hundreds of millions of people using them every month to get help with various tasks.",
+      "advanced": "Leverage the success of agentic features like 'Daily Brief' and 'personalized agents' in your own AI product development, focusing on user-centric utility and cross-platform availability to drive adoption and engagement.",
+      "tags": [
+        "product",
+        "enterprise",
+        "benchmark",
+        "consumer"
+      ]
+    },
+    {
+      "id": "02432db4adf2",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "How AI helps scientists design the next generation of medicines",
+      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+      "publishedAt": "2026-07-23T12:00:00.000Z",
+      "fetchedAt": "2026-07-23T15:17:11.244Z",
+      "contentText": null,
+      "summary": "The process of developing new medicines is costly and often unsuccessful, with many potential drug candidates failing to reach patients. This challenge is particularly pronounced for biologic medicines, which are therapies derived from engineered proteins.",
+      "enterpriseAngle": "Enterprises in the pharmaceutical and biotechnology sectors can leverage AI to accelerate drug discovery, reduce development costs, and improve the success rate of bringing new biologic medicines to market.",
+      "beginner": "AI is helping scientists make new medicines faster and with less waste.",
+      "advanced": "Investigate AI-driven protein engineering platforms to optimize biologic drug design and predict efficacy earlier in the development pipeline.",
+      "tags": [
+        "science",
+        "product",
+        "research"
+      ]
+    },
+    {
+      "id": "1f97c93f772d",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Experts say exploiting Anthropic's Fable isn't how Kimi K3 got so good",
+      "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
+      "publishedAt": "2026-07-23T11:00:00.000Z",
+      "fetchedAt": "2026-07-23T15:17:10.841Z",
+      "contentText": null,
+      "summary": "U.S. officials allege that Chinese company Moonshot copied Anthropic's Fable LLM to create its Kimi K3 model, potentially using illegally obtained advanced chips. However, AI experts are skeptical that simple distillation, a process of querying a model to replicate its capabilities, could account for Kimi K3's rapid and advanced development. The debate highlights the blurry lines between distillation and synthetic data generation, as well as the technical prowess of Chinese AI teams.",
+      "enterpriseAngle": "Enterprise security teams should be aware of the ongoing concerns regarding intellectual property theft in AI, particularly through methods like distillation, and consider robust data governance for model development. Product development teams should recognize the advanced capabilities of international AI research and the challenges of attributing model origins, which impacts competitive analysis and partnership strategies.",
+      "beginner": "Some believe that advanced AI models from one country might be copied from another, but experts say it's very difficult to simply copy a complex AI model to make it truly powerful.",
+      "advanced": "Investigate the efficacy of advanced reinforcement learning techniques for model distillation, recognizing that supervised fine-tuning alone is increasingly insufficient for replicating frontier model capabilities, and advocate for stronger 'know-your-customer' regulations for data centers to mitigate illicit hardware access.",
+      "tags": [
+        "research",
+        "governance",
+        "security",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "a3f620aa6a10",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
+      "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
+      "publishedAt": "2026-07-23T06:09:13.000Z",
+      "fetchedAt": "2026-07-23T15:17:10.841Z",
+      "contentText": null,
+      "summary": "ServiceNow has invested $40 million in BusinessNext, an Indian banking software specialist, valuing the firm at $700 million. This strategic partnership aims to expand both companies' reach in global financial services by combining ServiceNow's workflow automation with BusinessNext's AI-driven banking solutions. BusinessNext, which focuses on customer-facing banking workflows and private AI infrastructure for data security, will leverage ServiceNow's global sales network.",
+      "enterpriseAngle": "This partnership enables ServiceNow to deepen its presence in the financial services sector with AI-native solutions, while BusinessNext gains access to a broader global market through ServiceNow's established sales infrastructure. Enterprise product development teams can observe how established software vendors are integrating specialized AI capabilities through strategic investments to remain competitive against emerging AI-native alternatives.",
+      "beginner": "ServiceNow, a company that helps businesses automate tasks, is partnering with an Indian company called BusinessNext to offer new AI-powered tools specifically for banks.",
+      "advanced": "Evaluate strategic partnerships and investments in specialized AI firms to integrate vertical-specific AI capabilities, particularly those with a focus on private AI infrastructure for regulatory compliance, to enhance enterprise offerings and expand market reach.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "product",
+        "funding"
+      ]
+    },
+    {
+      "id": "2b0ee14bcadb",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "After shocking quarter, IBM insists that AI isn't killing the mainframe",
+      "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+      "publishedAt": "2026-07-22T23:47:54.000Z",
+      "fetchedAt": "2026-07-23T15:17:10.841Z",
+      "contentText": null,
+      "summary": "IBM reported a significant earnings miss, largely due to a 42% decline in its mainframe business, causing its stock to drop by 25%. CEO Arvind Krishna attributed this to customers reallocating budgets to other hardware with extreme price increases, driven by the AI build-out boom. Despite this, IBM insists that customers are not abandoning mainframes and expects these purchases to occur later.",
+      "enterpriseAngle": "Enterprise IT departments are facing budget pressures due to rising hardware costs, potentially delaying large infrastructure investments like mainframes in favor of more immediate AI-related hardware needs. This shift impacts vendors reliant on traditional enterprise hardware sales and highlights the ripple effect of AI infrastructure demands on IT spending.",
+      "beginner": "Even big tech companies like IBM are seeing their business plans affected by the huge demand and rising costs for AI-related computer parts.",
+      "advanced": "Monitor enterprise hardware procurement trends for signs of sustained budget reallocation away from traditional infrastructure to AI-specific hardware, and adjust sales forecasts and product roadmaps accordingly.",
+      "tags": [
+        "enterprise",
+        "hardware",
+        "infrastructure",
+        "funding"
+      ]
+    },
     {
       "id": "6eed503eb164",
       "source": "techcrunch-ai",
@@ -71,12 +217,17 @@
       "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
       "publishedAt": "2026-07-22T18:50:44.000Z",
       "fetchedAt": "2026-07-22T22:11:30.109Z",
-      "contentText": "Travis Kalanick's robotics company, Atoms, has raised $1.7 billion in a funding round led by Andreessen Horowitz. Ben Horowitz will join the company's board following the investment. Bain Capital, Fifth Wall, and others participated in the round. Perhaps most notably, Uber also joined the funding round, re-connecting Kalanick with the company he founded — and the same company that pushed him out as CEO in 2017 following complaints of sexual harassment, discrimination, and a toxic workplace. Atoms is essentially a rebranded holding company created atop the project Kalanick has been working on since he resigned from Uber, a ghost kitchen play called Cloud Kitchens. When he revealed the new name in March, Kalanick announced he had acquired Pronto, the heavy industry automation company run by his former Uber colleague Anthony Levandowski. Kalanick has also said he wants to get into mining with atoms, going beyond what Pronto already does for vehicles in that industry. Last year, it was reported that Kalanick was interested in buying the U.S. arm of Chinese self-driving vehicle company Pony AI with backing from Uber. The Information reported in March that those talks had ended. In a post on X about the fundraise, Kalanick didn't go into specifics about what he wants to build with Atoms. \"On many levels, this round is a bit of unfinished business. Fuel to complete the bits-to-atoms story arc we started at Uber, continued at CloudKitchens and will now finish at Atoms,\" Kalanick wrote. \"16 years ago, I started a journey to digitize the physical world. Understand, predict and control the physical world with software. Building ‘atoms-based' computers where CPU is manufacturing, storage is real estate, and network is transportation.\" Kalanick has said he wants to build a \"wheelbase for robots\" with Atoms. \"Travis Is Back,\" declared a simultaneous post from Ben Horowitz on Wednesday. \"It takes a rare kind of entrepreneur to change these old-school, heavy parts of our economy. They need a gritty work ethic, drive, and range that spans across domains, from software architecture to mechanical engineering. Travis is that guy,\" said Horowitz. Horowitz wrote that Atoms will be all about making people more productive in the physical world. \"I think the most valuable thing someone could do with AI and robotics is to repeat the same thing Uber did for transportation, or that computers did for the digital world: to make everything and everyone more productive ,\" his post reads. Kalanick didn't go into specifics, but it sounds like a good chunk of funding will go toward hiring. \"Changemakers, the builders of tomorrow’s progress machines, will inevitably go up against the final boss, Nature and its fierce resistance to change. Nature is going to throw everything it has at the builders in this new industrial age and it’s going to take humanity’s strongest to stay the course and get these complex systems and industries over the finish line,\" he wrote. Topics a16z , AI , Andreessen Horowitz , Fundraising , robotics , Travis Kalanick , Venture When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Sean O'Kane Sr. Reporter, Transportation Sean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane. You can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal. View Bio October 13 – 15 San Francisco Scale faster. Grow your portfolio. Gain practical expertise. No matter your goal, Disrupt can empower you. Save up to $330 toda y! REGISTER NOW Most Popular Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents Amanda Silberling Light made a flip phone — it's colorful and it's cheap Amanda Silberling AI music generator Suno breach affects 55M users, per Have I Been Pwned Zack Whittaker Anthropic's landmark $1.5B copyright settlement is approved Kirsten Korosec Google is working on a new AI chip designed to make Gemini more efficient Lucas Ropek Judge pauses $110B Paramount-Warner Bros. merger Aisha Malik Coca-Cola suspended production at its Fairlife dairy after a ransomware attack Zack Whittaker",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Travis Kalanick's robotics company, Atoms, has secured $1.7 billion in a funding round led by Andreessen Horowitz, with participation from Uber, Bain Capital, and Fifth Wall. Atoms, which evolved from Kalanick's ghost kitchen venture Cloud Kitchens, aims to digitize the physical world through robotics and automation, with a focus on heavy industry and potentially mining. Kalanick expressed his ambition to build a \"wheelbase for robots\" and make physical world activities more productive, akin to Uber's impact on transportation.",
+      "enterpriseAngle": "Enterprises in manufacturing, logistics, and heavy industries could see significant shifts as Atoms aims to develop robotics and automation solutions that enhance productivity in the physical world. This investment signals a growing trend towards applying AI and robotics to automate complex, real-world operations, potentially streamlining supply chains and industrial processes.",
+      "beginner": "A large investment has been made in a company that wants to use robots and AI to make physical tasks, like those in factories or mining, much more efficient.",
+      "advanced": "Evaluate potential partnership opportunities or competitive threats from Atoms' development of a \"wheelbase for robots\" and its expansion into heavy industry automation, particularly considering its substantial funding and Kalanick's stated goal of increasing productivity in the physical world.",
+      "tags": [
+        "funding",
+        "enterprise",
+        "product",
+        "research"
+      ]
     },
     {
       "id": "88dc835355ff",
@@ -87,12 +238,17 @@
       "url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
       "publishedAt": "2026-07-22T18:13:58.000Z",
       "fetchedAt": "2026-07-22T22:11:30.109Z",
-      "contentText": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting that the future of social networking lies in small, private communities powered by messaging, photo sharing, and AI features designed to strengthen real-world relationships.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Yope, a social app for private groups, secured $12.3 million in seed funding. The company aims to create a social network focused on small, private communities, utilizing messaging, photo sharing, and AI to enhance real-world connections, rather than relying on algorithmic feeds or ads.",
+      "enterpriseAngle": "Enterprise product teams can observe Yope's strategy to understand how AI can be integrated into social platforms to foster private community engagement and strengthen user relationships, moving away from traditional ad-supported models.",
+      "beginner": "Yope is a new social app that wants to help you connect with close friends and family using AI, without showing you ads or algorithmic feeds.",
+      "advanced": "Evaluate the potential for integrating privacy-focused, AI-powered relationship-building features into existing enterprise collaboration or community platforms to enhance user engagement and data security.",
+      "tags": [
+        "funding",
+        "product",
+        "consumer",
+        "enterprise"
+      ]
     },
     {
       "id": "cb9c3c1e8192",
@@ -103,12 +259,16 @@
       "url": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
       "publishedAt": "2026-07-22T17:54:14.000Z",
       "fetchedAt": "2026-07-22T22:11:30.109Z",
-      "contentText": "In Brief Posted: 10:54 AM PDT · July 22, 2026 Image Credits: Cheng Xin / Contributor / Getty Images Ram Iyer Monday.com lays off hundreds to focus on AI Israeli workplace software maker Monday.com is laying off hundreds of employees as part of a restructuring plan to refocus its investments around AI projects. The company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it concentrates on its AI Work Platform. Monday.com earlier this year pivoted hard toward making its AI platform a core offering, redesigning its entire product around the belief that its enterprise customers increasingly want AI agents to work together with their employees. The AI Work Platform currently comprises a no-code app builder, a customizable AI agent, a workflow automation tool, and a chatbot that can do tasks like generating reports and updating dashboards. The company joins a host of large tech firms that have laid off hundreds of thousands of people as they seek to invest more in AI. Tech layoffs in May hit a monthly high unseen in years, and a record 78% of companies have blamed a need to refocus their efforts around AI as a reason for letting people go this year, according to Layoffs.fyi. More than 122,000 tech roles have been cut so far in 2026, Layoffs.fyi data shows. Monday.com expects to incur $45 million to $55 million in charges due to the restructuring. Topics AI , Enterprise , In Brief , Israel , monday.com , tech layoffs October 13 – 15 San Francisco Scale faster. Grow your portfolio. Gain practical expertise. No matter your goal, Disrupt can empower you. Save up to $330 toda y! REGISTER NOW Newsletters See More Subscribe for the industry’s biggest tech news TechCrunch Daily News Every weekday and Sunday, you can get the best of TechCrunch’s coverage. TechCrunch Mobility TechCrunch Mobility is your destination for transportation news and insight. Startups Weekly Startups are the core of TechCrunch, so get our best coverage delivered weekly. StrictlyVC Provides movers and shakers with the info they need to start their day. No newsletters selected. Subscribe By submitting your email, you agree to our Terms and Privacy Notice . Related AI Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era Jagmeet Singh 12 hours ago AI Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents Amanda Silberling 1 day ago Media & Entertainment AI and the rise of the universal entertainment app Sarah Perez 1 day ago Latest in Enterprise In Brief Monday.com lays off hundreds to focus on AI Ram Iyer 4 hours ago AI Google releases three new Gemini models — but no 3.5 Pro Rebecca Bellan 1 day ago Startups Databricks hits $188B valuation, extending its run as AI's favorite second act Julie Bort Jul 17, 2026",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Monday.com is laying off 20% of its workforce, approximately 630 employees, as part of a restructuring to prioritize its AI Work Platform. The company is redesigning its product to integrate AI agents, believing enterprise customers desire this collaboration with their employees. This move aligns with a broader trend of tech companies citing AI refocus as a reason for recent layoffs.",
+      "enterpriseAngle": "Enterprise software providers are aggressively re-architecting their offerings around AI, indicating a significant shift in product development and workforce allocation. Security teams within these enterprises must prepare for the integration of AI agents into core workflows, assessing new attack surfaces and data protection requirements.",
+      "beginner": "Many companies are changing their focus to develop more AI tools, which sometimes means they let go of employees in other areas.",
+      "advanced": "Evaluate the strategic implications of a 20% workforce reduction for AI-centric product development, focusing on the potential for accelerated feature delivery versus the risks of knowledge loss and cultural disruption.",
+      "tags": [
+        "enterprise",
+        "product",
+        "workforce"
+      ]
     },
     {
       "id": "85aa09c15ed0",
@@ -359,6 +519,26 @@
         "partnership",
         "research",
         "product"
+      ]
+    },
+    {
+      "id": "ce627deb9928",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+      "url": "https://openai.com/index/ntt-data",
+      "publishedAt": "2026-07-22T00:00:00.000Z",
+      "fetchedAt": "2026-07-23T15:17:08.162Z",
+      "contentText": null,
+      "summary": "NTT DATA Group has implemented ChatGPT Enterprise and Codex to enhance productivity for 9,000 employees. This integration has significantly reduced incident analysis time to just 30 minutes and facilitated the scalable adoption of secure AI.",
+      "enterpriseAngle": "Enterprise security and product development teams can leverage AI tools like ChatGPT Enterprise and Codex to automate incident response, thereby improving efficiency and enabling broader, secure AI integration across their operations.",
+      "beginner": "Large companies are using AI tools to help their employees work faster and more securely.",
+      "advanced": "Evaluate the integration of large language models like Codex into your incident response workflows to achieve substantial reductions in analysis time and improve overall operational security posture.",
+      "tags": [
+        "enterprise",
+        "product",
+        "security"
       ]
     },
     {

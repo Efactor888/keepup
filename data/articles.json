@@ -1,6 +1,130 @@
 {
-  "updatedAt": "2026-07-23T15:18:58.932Z",
+  "updatedAt": "2026-07-23T22:11:25.848Z",
   "articles": [
+    {
+      "id": "b4d4584e10a9",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+      "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+      "publishedAt": "2026-07-23T20:33:02.000Z",
+      "fetchedAt": "2026-07-23T22:10:03.476Z",
+      "contentText": null,
+      "summary": "AMD has launched Helios, a rack-scale system designed for large-scale AI model training and deployment, directly competing with Nvidia's offerings. The company announced several high-profile customers, including Microsoft, OpenAI, Meta, Oracle, and Anthropic, with plans for immediate deployment. AMD also introduced its Venice-X CPU for data centers, expected in 2027, and predicted the AI accelerator market to reach $1.4 trillion by 2030, driven by the increasing demands of agentic AI.",
+      "enterpriseAngle": "Enterprise product development teams will benefit from increased competition in the high-performance AI hardware market, potentially leading to more diverse and cost-effective options for training and deploying large-scale AI models. Security teams should note the growing infrastructure demands for AI, which will necessitate robust physical and cyber security measures for these powerful data center systems.",
+      "beginner": "AMD is making powerful new computer systems to help big companies create and run advanced AI programs, similar to what Nvidia does.",
+      "advanced": "Evaluate AMD's Helios system and its performance metrics against existing Nvidia infrastructure for potential integration into your AI development and deployment pipelines, particularly for frontier model training and agentic AI workloads, while planning for the significant power and cooling requirements.",
+      "tags": [
+        "hardware",
+        "enterprise",
+        "product",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "c6a17a386bdb",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Anthropic updates Claude voice mode with more capable models",
+      "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+      "publishedAt": "2026-07-23T19:00:00.000Z",
+      "fetchedAt": "2026-07-23T22:10:03.476Z",
+      "contentText": null,
+      "summary": "Anthropic has updated Claude's voice mode, allowing users to choose between Opus, Sonnet, and Haiku models for more complex conversations. The updated voice mode can now integrate with external applications like Gmail, Google Calendar, and Slack, enabling users to perform tasks such as drafting emails or updating meetings directly through voice commands. This update also expands multilingual support, though users must manually specify the language.",
+      "enterpriseAngle": "Enterprise product development teams can leverage Claude's enhanced voice capabilities and app integrations to create more versatile and efficient AI assistants for internal tools and customer-facing applications. Security teams should consider the implications of connecting AI models to enterprise applications, ensuring data privacy and access controls are robustly managed.",
+      "beginner": "Claude's voice assistant can now understand more complex requests and connect to other apps to help you get things done, like sending an email.",
+      "advanced": "Integrate Claude's updated voice mode with enterprise applications to streamline workflows, but prioritize a thorough security audit of data access and interaction points with connected services.",
+      "tags": [
+        "product",
+        "enterprise",
+        "agents"
+      ]
+    },
+    {
+      "id": "84bd7cfa0701",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+      "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+      "publishedAt": "2026-07-23T18:38:34.000Z",
+      "fetchedAt": "2026-07-23T22:10:03.476Z",
+      "contentText": null,
+      "summary": "AegisAI, a startup founded by former Google security executives, has secured $36 million in Series A funding to combat AI-driven spear phishing. The company develops AI agents that analyze emails for subtle anomalies, aiming to detect sophisticated threats that traditional rule-based security systems often miss. This funding brings their total capital to $49 million, with adoption by several customers including Mesh, LangChain, and Lokker.",
+      "enterpriseAngle": "Enterprise security teams face an escalating challenge from AI-powered spear phishing attacks, which are more personalized and effective than previous methods. AegisAI's approach of using AI agents to detect these advanced threats offers a potential solution for organizations looking to upgrade their email security beyond legacy systems.",
+      "beginner": "Hackers are using AI to create very convincing fake emails, and AegisAI is a new company using its own AI to spot these fakes and protect people.",
+      "advanced": "Evaluate agentic-driven defense platforms like AegisAI to augment or replace legacy email security solutions, specifically focusing on their efficacy against multi-modal AI-generated phishing attempts and their ability to detect novel attack vectors that bypass traditional heuristic and signature-based controls.",
+      "tags": [
+        "security",
+        "enterprise",
+        "funding",
+        "agents"
+      ]
+    },
+    {
+      "id": "00359069d44f",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Runway launches AI model router as generative media gets crowded",
+      "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+      "publishedAt": "2026-07-23T17:07:35.000Z",
+      "fetchedAt": "2026-07-23T22:10:03.476Z",
+      "contentText": null,
+      "summary": "Runway has launched the Runway Media Router, a new tool designed to automatically select the optimal generative media model (image, video, or audio) for developers based on their priorities like quality, speed, or cost. This router, accessible through Runway Dev, aims to simplify the process for developers navigating the increasingly crowded generative media landscape by providing access to both Runway's and third-party models. Runway is shifting its focus from being solely a model company to becoming an infrastructure layer for generative media.",
+      "enterpriseAngle": "Enterprise product development teams can leverage Runway's Media Router to integrate diverse generative media capabilities into their applications more efficiently, optimizing for specific business needs such as cost control or output quality without needing to constantly evaluate individual models. This allows for more agile product development and potentially reduces the operational overhead associated with managing multiple generative AI integrations.",
+      "beginner": "Runway's new tool helps businesses pick the best AI for creating images, videos, or audio, making it easier for them to build creative features into their own apps.",
+      "advanced": "Implement Runway's Media Router to dynamically select generative media models based on real-time performance metrics and business-defined preferences (e.g., cost, quality, regional compliance), thereby optimizing resource allocation and ensuring competitive output in a rapidly evolving model landscape.",
+      "tags": [
+        "product",
+        "enterprise",
+        "infrastructure",
+        "agents"
+      ]
+    },
+    {
+      "id": "03ca48c266f7",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "OpenAI makes ChatGPT Health available to all US users",
+      "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+      "publishedAt": "2026-07-23T17:00:00.000Z",
+      "fetchedAt": "2026-07-23T22:10:03.476Z",
+      "contentText": null,
+      "summary": "OpenAI has made ChatGPT Health available to all U.S. users over 18, allowing them to integrate personal health data from various services and medical records to get insights within general chat queries. This expansion follows a testing period where health-related queries significantly increased, and the company's latest model, GPT 5.6-Luna, showed improved performance on health benchmarks. OpenAI emphasizes that its services are not for diagnosis or treatment and advises users to verify information with professionals.",
+      "enterpriseAngle": "Enterprise product development teams in healthcare should note the increasing user demand for AI-powered health insights and the importance of robust disclaimers and safety measures, especially given legal challenges and the need for professional medical verification. Security teams must ensure stringent data privacy and compliance when integrating sensitive health information, as OpenAI states it does not use user data for model training.",
+      "beginner": "ChatGPT Health lets you connect your health apps and medical records to get personalized information, but always check with a doctor for medical advice.",
+      "advanced": "Leverage the HealthBench evaluation for LLMs to rigorously assess model performance on health queries, while implementing clear user disclaimers and physician collaboration to mitigate risks associated with AI-generated health information.",
+      "tags": [
+        "product",
+        "enterprise",
+        "benchmark",
+        "governance"
+      ]
+    },
+    {
+      "id": "3790e5420a19",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Meta launched a new AI optimism ad set to a song about human extinction",
+      "url": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
+      "publishedAt": "2026-07-23T16:28:50.000Z",
+      "fetchedAt": "2026-07-23T22:10:03.476Z",
+      "contentText": null,
+      "summary": "Meta's latest AI advertisement, intended to promote optimism about AI's future, features a montage of happy human moments set to David Bowie's song \"Five Years.\" Unbeknownst to many, including Meta's leadership, this song is about humanity facing extinction in five years. This ironic choice highlights a broader trend of tech companies misinterpreting or misusing cultural references in their AI promotions, often with unintended and contradictory messages.",
+      "enterpriseAngle": "Enterprise marketing and product teams developing AI solutions must exercise extreme caution and conduct thorough cultural and contextual reviews of their promotional materials to avoid misinterpretations and ensure their messaging aligns with their intended brand image and public perception goals. Missteps like Meta's can undermine trust and public confidence in AI initiatives.",
+      "beginner": "Even big tech companies can make mistakes in their advertising, like using a song about the end of the world to promote a positive view of AI.",
+      "advanced": "Implement a robust content review process that includes diverse perspectives and cultural literacy checks to prevent misaligned messaging in AI-related public communications, especially when leveraging popular culture references.",
+      "tags": [
+        "enterprise",
+        "product",
+        "consumer"
+      ]
+    },
     {
       "id": "d9ffdf3634eb",
       "source": "techcrunch-ai",
@@ -124,6 +248,26 @@
         "partnership",
         "product",
         "funding"
+      ]
+    },
+    {
+      "id": "7569338ee0d3",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Launching Health in ChatGPT",
+      "url": "https://openai.com/index/health-in-chatgpt",
+      "publishedAt": "2026-07-23T00:00:00.000Z",
+      "fetchedAt": "2026-07-23T22:09:58.781Z",
+      "contentText": null,
+      "summary": "OpenAI has launched \"Health in ChatGPT,\" allowing eligible U.S. users to securely link their medical records and Apple Health data. This feature aims to provide more personalized health insights and improve users' understanding of their health.",
+      "enterpriseAngle": "Enterprise product development teams in healthcare should consider the implications of integrating AI models with sensitive health data, focusing on robust security and privacy frameworks. This move by OpenAI highlights a growing trend towards personalized AI applications in regulated industries.",
+      "beginner": "ChatGPT can now connect to your health data to give you personalized information about your well-being.",
+      "advanced": "Evaluate the architectural patterns and security controls implemented for data federation between LLMs and sensitive personal health information (PHI) systems, particularly concerning compliance with HIPAA and other privacy regulations.",
+      "tags": [
+        "product",
+        "consumer",
+        "security"
       ]
     },
     {
@@ -558,6 +702,27 @@
       "tags": [
         "product",
         "enterprise",
+        "coding"
+      ]
+    },
+    {
+      "id": "24f3065d0ad5",
+      "source": "xai",
+      "sourceName": "xAI (Grok)",
+      "tier": "realtime",
+      "title": "Jul 22, 2026 Bringing Grok 4.5 to iOS, Android, Web, and X",
+      "url": "https://x.ai/news/grok-4-5-everywhere",
+      "publishedAt": "2026-07-22",
+      "fetchedAt": "2026-07-23T22:09:59.614Z",
+      "contentText": null,
+      "summary": "Grok 4.5, xAI's latest and most intelligent model, is now available across multiple platforms including grok.com, X, iOS, and Android. This update enhances Grok's ability to understand user queries, maintain longer conversations, and provide clearer, more reliable answers. Grok 4.5 also offers improved efficiency in reasoning and can handle various knowledge work tasks, including integration with Microsoft 365 applications.",
+      "enterpriseAngle": "Enterprise teams can leverage Grok 4.5's enhanced reasoning and task completion capabilities for improved productivity in knowledge work, especially with its direct integration into Microsoft 365 applications. The multi-platform availability ensures that employees can access these advanced AI features across their preferred devices, from desktop to mobile.",
+      "beginner": "Grok 4.5 is a new, smarter AI that you can use on your phone, computer, or X, and it helps you get better answers and complete tasks more easily.",
+      "advanced": "Integrate Grok 4.5's enhanced reasoning and task automation features via its API or Microsoft 365 add-ins to streamline knowledge work workflows and improve content generation within enterprise applications.",
+      "tags": [
+        "model-release",
+        "enterprise",
+        "product",
         "coding"
       ]
     },
@@ -8474,6 +8639,28 @@
         "enterprise",
         "partnership",
         "coding"
+      ],
+      "dateChecked": true
+    },
+    {
+      "id": "5bfd57d32de3",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "[dev] Claude for Creative Work",
+      "url": "https://www.anthropic.com/news/claude-for-creative-work-dev",
+      "publishedAt": "2026-04-28",
+      "fetchedAt": "2026-07-23T22:09:46.561Z",
+      "contentText": null,
+      "summary": "Anthropic has released new connectors that integrate Claude with popular creative software, enabling professionals to use AI for faster ideation, expanded skill sets, and handling repetitive tasks. These connectors allow Claude to directly access platforms like Adobe Creative Cloud, Blender, Autodesk Fusion, and SketchUp, facilitating tasks from 3D modeling to music production. The initiative also includes collaborations with educational institutions to support creative computation curricula.",
+      "enterpriseAngle": "Enterprise product development teams can leverage these connectors to integrate AI capabilities into their existing creative software pipelines, streamlining workflows and accelerating content creation. Security teams should consider the implications of AI accessing and manipulating proprietary data within these connected creative tools, ensuring proper access controls and data governance are in place.",
+      "beginner": "AI tools like Claude can help creative people do their work faster and explore new ideas by connecting with the software they already use.",
+      "advanced": "Evaluate the new Claude connectors for integration into existing creative pipelines, focusing on potential for workflow automation, custom tool development via Claude Code, and cross-application data synchronization, while also assessing data security and access control implications.",
+      "tags": [
+        "product",
+        "enterprise",
+        "coding",
+        "partnership"
       ],
       "dateChecked": true
     },

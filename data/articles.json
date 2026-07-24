@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-07-23T22:11:25.848Z",
+  "updatedAt": "2026-07-24T15:02:16.567Z",
   "articles": [
+    {
+      "id": "04ee318589b1",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "OpenAI's new voice mode makes it to the ChatGPT desktop app",
+      "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+      "publishedAt": "2026-07-24T13:36:42.000Z",
+      "fetchedAt": "2026-07-24T15:01:39.774Z",
+      "contentText": null,
+      "summary": "OpenAI has updated its ChatGPT desktop app to include ChatGPT Voice, enabling users to control AI agents and perform computer tasks through spoken commands. This feature utilizes OpenAI's new ChatGPT-Live voice models and can interact with ChatGPT Work and Codex, allowing for complex, multi-step instructions and screen access on macOS. The update makes the desktop version more capable than its smartphone counterpart, which was not designed for taking action.",
+      "enterpriseAngle": "Enterprise security teams should evaluate the implications of AI agents having voice control over desktop applications and screen access, particularly concerning data privacy and potential misuse. Product development teams can leverage this voice control capability to create more intuitive and efficient AI-powered tools for complex workflows.",
+      "beginner": "You can now talk to the ChatGPT app on your computer to tell it what to do, like opening apps or finding information, making it easier to use without typing.",
+      "advanced": "Integrate the new ChatGPT Voice capabilities with existing enterprise workflows, particularly within development environments like Codex, to streamline multi-step coding and debugging processes via voice commands, while carefully managing screen access permissions.",
+      "tags": [
+        "product",
+        "enterprise",
+        "agents",
+        "model-release"
+      ]
+    },
+    {
+      "id": "bbe4c3fea4dc",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+      "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+      "publishedAt": "2026-07-24T01:00:00.000Z",
+      "fetchedAt": "2026-07-24T15:01:39.774Z",
+      "contentText": null,
+      "summary": "AI guardrails, intended to prevent malicious use of large language models, are reportedly hindering the work of legitimate offensive cybersecurity researchers. These researchers, who aim to find and exploit vulnerabilities before criminals do, find that strict limitations and vetting programs on models from companies like Anthropic and OpenAI impede their ability to test and confirm security flaws. Some researchers resort to using open-source AI models without guardrails or limit their AI use to reverse engineering to avoid data leakage and model restrictions.",
+      "enterpriseAngle": "Enterprise security teams and product developers relying on AI for vulnerability research may find their work slowed by current AI model guardrails, potentially increasing the time it takes to identify and patch critical weaknesses. This necessitates evaluating the trade-offs between using restricted frontier models for their capabilities and open-source models for their flexibility in security testing.",
+      "beginner": "AI models have built-in safety rules to stop bad actors, but these rules are also making it harder for good guys who try to find computer weaknesses to protect us.",
+      "advanced": "To mitigate the impact of AI guardrails on offensive security research, consider a hybrid approach: leverage vetted frontier models for initial code analysis and reverse engineering, and utilize locally-run open-source models for vulnerability discovery and exploit development to maintain control over sensitive data and bypass restrictive content policies.",
+      "tags": [
+        "security",
+        "governance",
+        "product",
+        "research"
+      ]
+    },
     {
       "id": "b4d4584e10a9",
       "source": "techcrunch-ai",
@@ -268,6 +310,27 @@
         "product",
         "consumer",
         "security"
+      ]
+    },
+    {
+      "id": "3bcb8ce06dde",
+      "source": "xai",
+      "sourceName": "xAI (Grok)",
+      "tier": "realtime",
+      "title": "Jul 23, 2026 Workflows in Grok Build",
+      "url": "https://x.ai/news/workflows",
+      "publishedAt": "2026-07-23",
+      "fetchedAt": "2026-07-24T15:01:38.005Z",
+      "contentText": null,
+      "summary": "Grok Build now features \"workflows,\" allowing users to describe complex tasks in plain language. Grok then orchestrates these tasks by fanning them out to hundreds of parallel agents, verifying results, and compiling a single report in the background. This feature is designed for multi-faceted tasks that benefit from parallel processing and independent verification.",
+      "enterpriseAngle": "Enterprise product development and security teams can leverage Grok Build's workflows to automate complex tasks like extensive code reviews, issue triage, and security audits, improving efficiency and ensuring thoroughness through parallel agent processing and built-in verification.",
+      "beginner": "Grok Build can now handle big, complicated jobs by breaking them into smaller parts and using many AI helpers to get them done faster and more accurately.",
+      "advanced": "Utilize Grok Build's new workflow capabilities to automate large-scale code analysis, security audits (e.g., missing auth checks), or comprehensive PR reviews by defining tasks that leverage parallel agents and adversarial verification for robust, cited reports.",
+      "tags": [
+        "product",
+        "agents",
+        "enterprise",
+        "coding"
       ]
     },
     {
@@ -2006,6 +2069,26 @@
         "partnership",
         "product",
         "policy"
+      ]
+    },
+    {
+      "id": "eeac6a04af4f",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "How Codex became a collaborator for OpenAI’s creative team",
+      "url": "https://openai.com/index/codex-collaborator-creative-team",
+      "publishedAt": "2026-07-16T07:00:00.000Z",
+      "fetchedAt": "2026-07-24T15:01:37.536Z",
+      "contentText": null,
+      "summary": "OpenAI's creative team leverages Codex to develop specialized creative tools, speed up idea generation, and accelerate prototyping through its context-aware AI capabilities.",
+      "enterpriseAngle": "Enterprise product development teams can adopt similar AI-powered coding assistants to enhance their internal tool creation, streamline ideation processes, and significantly reduce prototyping cycles.",
+      "beginner": "AI tools like Codex can help people create new things faster by understanding what they are trying to do.",
+      "advanced": "Integrate context-aware AI coding assistants into your development pipeline to automate boilerplate, explore design variations, and rapidly validate concepts.",
+      "tags": [
+        "coding",
+        "product",
+        "enterprise"
       ]
     },
     {

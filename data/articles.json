@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-07-25T14:41:32.281Z",
+  "updatedAt": "2026-07-25T22:01:59.901Z",
   "articles": [
+    {
+      "id": "2040a4e41a8d",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Librarians are hosting viral ‘Avoiding AI' workshops for people who are fed up with Big Tech",
+      "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+      "publishedAt": "2026-07-25T16:00:00.000Z",
+      "fetchedAt": "2026-07-25T22:01:50.219Z",
+      "contentText": null,
+      "summary": "Librarians are leading popular \"Avoiding AI\" workshops to help people disable unwanted AI features on their devices and regain control over their technology use. These workshops, inspired by a librarian in Maine, teach attendees how consumer AI tools work and provide step-by-step instructions to turn off specific AI functionalities on popular platforms. The initiative reflects a growing public desire for autonomy and skepticism towards the forced adoption of AI in everyday life.",
+      "enterpriseAngle": "Enterprise product development teams should note the strong consumer sentiment against forced AI adoption, indicating a need for user-centric design that prioritizes opt-in choices and clear control over AI features. Security teams should also consider that users actively seeking to disable AI features might bypass enterprise-mandated tools, potentially creating shadow IT risks or reducing the effectiveness of AI-powered security solutions if not properly managed.",
+      "beginner": "Many people are frustrated with AI features being automatically added to their devices and are learning how to turn them off.",
+      "advanced": "Implement clear, accessible opt-out mechanisms for AI features in enterprise applications to align with user autonomy preferences and mitigate potential user workarounds that could introduce security vulnerabilities.",
+      "tags": [
+        "consumer",
+        "product",
+        "governance",
+        "workforce"
+      ]
+    },
     {
       "id": "ff3761b962cf",
       "source": "techcrunch-ai",

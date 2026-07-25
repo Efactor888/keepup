@@ -1,6 +1,68 @@
 {
-  "updatedAt": "2026-07-24T22:12:49.484Z",
+  "updatedAt": "2026-07-25T14:41:32.281Z",
   "articles": [
+    {
+      "id": "ff3761b962cf",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "One fallen power line exposed a growing AI data center problem. Here's how to fix it.",
+      "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+      "publishedAt": "2026-07-25T13:05:00.000Z",
+      "fetchedAt": "2026-07-25T14:40:55.109Z",
+      "contentText": null,
+      "summary": "A fallen power line near Washington, DC, caused a significant grid disturbance when over 3 gigawatts of data centers simultaneously disconnected, leading to voltage spikes across the PJM grid. This incident, which caused lights to flicker, highlights a growing problem as data centers, particularly those supporting AI, become larger and more concentrated. Experts warn that such events will become more frequent and severe if data centers do not adopt more resilient power management solutions.",
+      "enterpriseAngle": "Enterprise security and product development teams relying on large-scale AI infrastructure must consider the stability of the electrical grid, as simultaneous data center disconnections can disrupt operations and impact service availability. Implementing advanced uninterruptible power supply systems that can absorb grid fluctuations rather than disconnecting is crucial for maintaining continuous service and preventing broader grid instability.",
+      "beginner": "When many large computer centers suddenly stop using electricity at the same time, it can cause problems for the power grid, making lights flicker and potentially leading to bigger issues.",
+      "advanced": "Evaluate and integrate advanced uninterruptible power supply (UPS) and energy storage solutions, such as those offered by ON.Energy, to enable data centers to 'ride through' grid disturbances and maintain stable load profiles, thereby preventing cascading disconnections and ensuring AI workload continuity.",
+      "tags": [
+        "infrastructure",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "68eaa3a9fab1",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "I tried out OpenAI's new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+      "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+      "publishedAt": "2026-07-25T00:23:11.000Z",
+      "fetchedAt": "2026-07-25T14:40:55.109Z",
+      "contentText": null,
+      "summary": "OpenAI has released its first hardware product, Micro, a keypad designed in collaboration with Work Louder to pair with ChatGPT and its coding tool, Codex. The device features customizable \"agent\" and command keys, along with a voice dictation button, aiming to enhance efficiency for ChatGPT power users. Despite its sturdy build and Apple-esque packaging, the $230 keypad has received mixed reviews, with some coders finding it a novelty rather than a practical tool.",
+      "enterpriseAngle": "Enterprise product development teams might consider the user reception of specialized AI hardware like Micro when designing tools for specific user segments, particularly the learning curve and perceived value against existing workflows. Security teams should note the ongoing legal battles concerning trade theft, which could impact future partnerships and product releases from major AI players.",
+      "beginner": "OpenAI, known for ChatGPT, has ventured into making physical devices, starting with a special keypad to help people use their AI tools more easily.",
+      "advanced": "Evaluate the ROI of specialized AI input devices for your development workflows, considering the learning curve and integration complexity versus the potential for marginal efficiency gains for power users.",
+      "tags": [
+        "product",
+        "hardware",
+        "coding",
+        "consumer"
+      ]
+    },
+    {
+      "id": "5c26666d1140",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+      "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+      "publishedAt": "2026-07-24T22:25:58.000Z",
+      "fetchedAt": "2026-07-25T14:40:55.109Z",
+      "contentText": null,
+      "summary": "Prentis, a new AI research lab co-founded by Ritankar Das, Reid Hoffman, and Mark Pincus, is reportedly seeking $100 million in funding at a $1 billion valuation. The lab focuses on developing AI agents that can automate routine office workflows by learning how users navigate documents and systems. Prentis claims its Hive-32B model outperforms competitors like OpenAI's GPT-5.4 and Anthropic's Claude Opus 4.6 on computer-use benchmarks, asserting lower operational costs.",
+      "enterpriseAngle": "Enterprise security and product development teams should note Prentis's focus on AI agents for automating office tasks, which could significantly impact operational efficiency and necessitate new security protocols for AI-controlled systems. The claimed cost-effectiveness of their smaller models suggests a potentially more accessible and scalable solution for integrating AI into everyday business processes.",
+      "beginner": "Prentis is an AI company creating smart computer programs that can learn how people do their office work and then do those tasks automatically, potentially making work faster and cheaper.",
+      "advanced": "Evaluate the efficacy and security implications of Prentis's Hive-32B model for enterprise-wide automation, particularly its claimed cost efficiency and benchmark performance against frontier models in real-world Windows application environments.",
+      "tags": [
+        "funding",
+        "product",
+        "agents",
+        "enterprise"
+      ]
+    },
     {
       "id": "8622540f1a85",
       "source": "techcrunch-ai",
@@ -187,6 +249,28 @@
         "enterprise",
         "partnership"
       ]
+    },
+    {
+      "id": "e75df1016aa1",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "Introducing Claude Opus 5",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "publishedAt": "2026-07-24",
+      "fetchedAt": "2026-07-25T14:40:52.579Z",
+      "contentText": null,
+      "summary": "Anthropic has released Claude Opus 5, a new AI model that offers near-frontier intelligence at half the price of Claude Fable 5. It sets new state-of-the-art benchmarks in coding and knowledge work, demonstrating significant improvements in efficiency and performance over its predecessor, Opus 4.8. The model also shows enhanced capabilities in scientific research and visual outputs.",
+      "enterpriseAngle": "Enterprise product development and security teams can leverage Opus 5 for more cost-effective and efficient coding, knowledge work, and scientific research, but should note its stated limitation in cybersecurity tasks. Its improved agency and thoroughness in problem-solving could streamline development workflows and automate complex business processes.",
+      "beginner": "Claude Opus 5 is a new, smarter, and more affordable AI model that can help with tasks like writing code, solving problems, and even scientific research.",
+      "advanced": "Integrate Claude Opus 5 into your development pipelines for enhanced code generation, debugging, and complex problem-solving, leveraging its improved cost-performance ratio and agentic capabilities, while ensuring to supplement its cybersecurity limitations with specialized models or tools.",
+      "tags": [
+        "model-release",
+        "enterprise",
+        "product",
+        "coding"
+      ],
+      "dateChecked": true
     },
     {
       "id": "b4d4584e10a9",

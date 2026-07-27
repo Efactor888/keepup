@@ -1,6 +1,193 @@
 {
-  "updatedAt": "2026-07-26T22:05:20.902Z",
+  "updatedAt": "2026-07-27T15:49:32.125Z",
   "articles": [
+    {
+      "id": "be0b73b30b53",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "Expanding our partnership with Cognizant | Anthropic",
+      "url": "https://www.anthropic.com/news/cognizant-anthropic",
+      "publishedAt": "2026-07-27T15:34:00.000Z",
+      "fetchedAt": "2026-07-27T15:48:07.245Z",
+      "contentText": null,
+      "summary": "Anthropic and Cognizant are expanding their partnership to integrate Claude into Cognizant's internal operations and client services. Cognizant is embedding Claude across its engineering and business platforms, developing a Claude-certified workforce, and becoming a Global Premier Partner in the Claude Partner Network. This collaboration aims to help enterprises worldwide adopt AI by leveraging Cognizant's industry expertise and engineering capabilities.",
+      "enterpriseAngle": "Enterprise security and product development teams can benefit from Cognizant's integration of Claude into platforms like Flowsource for code generation and evaluation, potentially accelerating development cycles while adhering to defined specifications and standards. The partnership also highlights the growing trend of leveraging AI agents for specialized tasks like contract intelligence and risk assessment, which can significantly improve efficiency and accuracy in enterprise operations.",
+      "beginner": "Large companies are partnering to help other businesses use advanced AI, like Claude, to improve their daily work and make things more efficient.",
+      "advanced": "Leverage the expanded partnership between Anthropic and Cognizant to explore how Claude's integration into platforms like Flowsource and specialized agentic systems can enhance your organization's secure software development lifecycle and automate complex, data-intensive tasks such as contract review and risk assessment.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "product",
+        "agents"
+      ],
+      "dateChecked": true
+    },
+    {
+      "id": "dbdffd22f991",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "This $9 key physically locks your most addictive apps",
+      "url": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
+      "publishedAt": "2026-07-27T15:25:37.000Z",
+      "fetchedAt": "2026-07-27T15:48:11.644Z",
+      "contentText": null,
+      "summary": "Autonomous Key is a $9 physical NFC key designed to help users reduce screen time by physically locking distracting apps. Unlike software-based solutions, it requires users to scan the key to unlock apps for up to 60 minutes, making access a more deliberate action. The companion app also offers AI-powered insights into usage habits, presented with a \"sassy\" personality.",
+      "enterpriseAngle": "While primarily a consumer product, the concept of a physical key for digital access, combined with AI-driven behavioral insights, could inspire enterprise solutions for managing employee access to non-work-related apps during business hours or for enforcing digital wellness policies.",
+      "beginner": "This physical key helps you stop mindlessly opening distracting apps by making you physically scan it to unlock them, and an AI helps you understand your app usage habits.",
+      "advanced": "Evaluate the potential for integrating physical access controls with AI-driven behavioral analytics to enhance digital discipline and compliance within enterprise environments, particularly for managing access to non-essential applications.",
+      "tags": [
+        "product",
+        "consumer",
+        "hardware",
+        "agents"
+      ]
+    },
+    {
+      "id": "b048c3e35d7f",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
+      "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
+      "publishedAt": "2026-07-27T15:01:50.000Z",
+      "fetchedAt": "2026-07-27T15:48:11.644Z",
+      "contentText": null,
+      "summary": "Safe Superintelligence (SSI), an AI lab founded by former OpenAI co-founder Ilya Sutskever, has partnered with Nvidia to significantly increase its compute resources. This partnership, which includes a multi-billion dollar investment from Nvidia, will provide SSI with access to Nvidia's Vera Rubin GPU platform to scale its research into safe artificial superintelligence. SSI aims to develop foundational techniques for AI alignment and general reasoning without commercial distractions.",
+      "enterpriseAngle": "Enterprises developing AI models should note SSI's \"straight shot\" research approach, prioritizing safety and alignment over rapid commercialization, which could influence future best practices for responsible AI development. The substantial investment and access to advanced hardware highlight the critical need for robust infrastructure to support cutting-edge AI research, impacting strategic planning for compute resources.",
+      "beginner": "A new AI company focused on making super-smart AI safe has teamed up with a major computer chip maker to get the powerful computers it needs for its research.",
+      "advanced": "Leverage partnerships with leading hardware providers to secure access to next-generation compute platforms, as demonstrated by SSI's collaboration with Nvidia on the Vera Rubin GPU, to accelerate foundational AI research and address alignment challenges.",
+      "tags": [
+        "partnership",
+        "research",
+        "infrastructure",
+        "funding"
+      ]
+    },
+    {
+      "id": "879ef7c5e131",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
+      "url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+      "publishedAt": "2026-07-27T13:00:00.000Z",
+      "fetchedAt": "2026-07-27T15:48:11.644Z",
+      "contentText": null,
+      "summary": "Enigma, a new research lab, has raised $70 million in seed funding to develop intuitive interfaces for human-robot interaction. Unlike other robotics companies focused on model capabilities, Enigma aims to understand how humans want to communicate with robots to create more natural control methods. The startup is launching a global online experiment where users can interact with over 100 of its proprietary AI robots to gather data on preferred communication styles.",
+      "enterpriseAngle": "Enterprise product development teams should observe Enigma's research into intuitive human-robot interfaces, as improved interaction design could significantly accelerate the adoption and utility of robotics in various industries like healthcare, logistics, and entertainment. Security teams should note the co-founders' cybersecurity research background, which may influence the security posture of their future robotics platforms.",
+      "beginner": "Enigma wants to make controlling robots as easy as adjusting a car's volume, so people don't get frustrated trying to tell them what to do.",
+      "advanced": "Participate in Enigma's public experiment to contribute to and gain insights into novel human-robot interaction paradigms, potentially informing future interface design for embodied AI applications.",
+      "tags": [
+        "funding",
+        "research",
+        "product",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "939407be1840",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "The path to artificial superintelligence",
+      "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
+      "publishedAt": "2026-07-27T12:00:00.000Z",
+      "fetchedAt": "2026-07-27T15:48:11.824Z",
+      "contentText": null,
+      "summary": "The article describes a future healthcare system where multiple specialized AI agents handle tasks like symptom assessment, scheduling, insurance, and pharmacy services. While these agents can currently exchange data, they lack the ability to truly coordinate their distinct knowledge and objectives.",
+      "enterpriseAngle": "Enterprises developing AI solutions should focus on creating interoperable AI agents that can not only share data but also coordinate actions and objectives to deliver more integrated and efficient services. This requires robust architectural planning for multi-agent systems.",
+      "beginner": "AI agents are like specialized digital assistants, each good at one specific job, but they need to learn how to work together more effectively.",
+      "advanced": "Architect multi-agent systems with a focus on developing sophisticated coordination protocols and shared objective frameworks to move beyond mere data exchange towards true collaborative intelligence.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "b9a045488420",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "Closing the data loop in AI-driven drug discovery",
+      "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
+      "publishedAt": "2026-07-27T11:40:16.000Z",
+      "fetchedAt": "2026-07-27T15:48:11.824Z",
+      "contentText": null,
+      "summary": "Drug discovery is an expensive and lengthy process, with costs doubling every nine years and taking 10-15 years to bring a new drug to market. This trend, known as Eroom's Law, highlights the increasing pressure for innovation in a market that rewards early entrants.",
+      "enterpriseAngle": "Enterprises in the pharmaceutical sector face significant financial and time pressures in drug development, making AI-driven solutions crucial for efficiency and competitive advantage. Adopting AI can help mitigate the escalating costs and long timelines associated with traditional drug discovery.",
+      "beginner": "Developing new medicines is very expensive and takes a long time, so companies are looking to AI to speed things up and save money.",
+      "advanced": "Pharmaceutical R&D teams should prioritize integrating closed-loop AI systems to optimize data feedback and accelerate lead optimization, thereby combating Eroom's Law and securing first-mover advantage.",
+      "tags": [
+        "enterprise",
+        "science",
+        "product"
+      ]
+    },
+    {
+      "id": "b3145b81dd96",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "Building the enterprise environment for agentic AI",
+      "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
+      "publishedAt": "2026-07-27T11:32:58.000Z",
+      "fetchedAt": "2026-07-27T15:48:11.824Z",
+      "contentText": null,
+      "summary": "Agentic AI in the enterprise goes beyond chatbots, offering software agents that can execute end-to-end business tasks by interacting with people, workflows, data, and systems. A suitable platform for these agents requires robust CPU capacity, resilient data access, policy-aware tool use, observability, and memory management.",
+      "enterpriseAngle": "Enterprise security and product development teams must focus on building platforms that ensure secure, observable, and policy-compliant execution of agentic AI across complex business environments. Product teams should prioritize resilient data access and efficient memory management to support these advanced AI capabilities.",
+      "beginner": "Agentic AI refers to smart computer programs that can complete entire business jobs by themselves, not just answer questions.",
+      "advanced": "Implement robust policy-aware tool use and comprehensive observability frameworks within your agentic AI platforms to ensure compliance and maintain operational transparency across complex enterprise workflows.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "f143efbfe201",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "How AI is expanding what people do at work",
+      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "publishedAt": "2026-07-27T03:30:00.000Z",
+      "fetchedAt": "2026-07-27T15:48:08.048Z",
+      "contentText": null,
+      "summary": "New research from OpenAI indicates that AI, specifically ChatGPT, is enabling workers to take on a broader range of tasks, thereby altering traditional job roles and boundaries.",
+      "enterpriseAngle": "Enterprise product development teams should consider how their AI tools can be designed to support cross-functional task expansion, while security teams must ensure data privacy and access controls are robust for employees accessing diverse data sets.",
+      "beginner": "AI tools like ChatGPT are helping people do more different kinds of work than before.",
+      "advanced": "Evaluate current role definitions and identify opportunities to leverage AI for skill augmentation and cross-functional task allocation within your organization, while simultaneously updating access management policies.",
+      "tags": [
+        "research",
+        "workforce",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "81a7106a0109",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Are brain waves the next unlock for physical AI?",
+      "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+      "publishedAt": "2026-07-27T00:19:14.000Z",
+      "fetchedAt": "2026-07-27T15:48:11.644Z",
+      "contentText": null,
+      "summary": "Encord, a company specializing in AI model training data, is exploring the use of brainwave data from human operators to train physical AI robots. This initiative, in partnership with German neuroscience startup Zander Labs, aims to overcome the scarcity of real-world physical training data, which is a major bottleneck for humanoid and warehouse robotics. The trial seeks to determine if incorporating mental states like error and intent, derived from brain activity, can significantly improve robot performance.",
+      "enterpriseAngle": "Enterprise robotics and product development teams face a critical challenge in acquiring sufficient, high-quality physical training data for advanced AI models, making data generation a key business rather than just a research problem. Companies like Encord are stepping in to manufacture this data, potentially accelerating the development and deployment of more capable and precise robotic systems in various industries.",
+      "beginner": "Training robots to do complex physical tasks requires a lot of real-world examples, and companies are now trying to collect data on human brain activity during these tasks to make robots learn better.",
+      "advanced": "To address the physical AI data bottleneck, evaluate the efficacy of novel data modalities like brainwave and muscle electrical signal integration, focusing on their impact on model performance and the cost-benefit ratio of dense annotation versus 'junky ego data' for specific manipulation tasks.",
+      "tags": [
+        "research",
+        "product",
+        "enterprise",
+        "hardware"
+      ]
+    },
     {
       "id": "cd03ad1bc049",
       "source": "techcrunch-ai",

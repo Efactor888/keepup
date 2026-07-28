@@ -1,6 +1,171 @@
 {
-  "updatedAt": "2026-07-27T22:14:07.301Z",
+  "updatedAt": "2026-07-28T15:28:02.809Z",
   "articles": [
+    {
+      "id": "c4117fb1cbb4",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
+      "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+      "publishedAt": "2026-07-28T14:00:00.000Z",
+      "fetchedAt": "2026-07-28T15:26:41.481Z",
+      "contentText": null,
+      "summary": "Fish Audio, a startup specializing in AI voice models, has secured $52 million in seed funding to expand its offerings for creators and enterprises. The company provides a library of over 15,000 natural language controls and has seen significant user adoption and revenue growth since its launch. Fish Audio aims to cater to diverse use cases, from expressive voices for creative projects to steerable voices for enterprise automation.",
+      "enterpriseAngle": "Enterprise security and product development teams leveraging AI voice models must prioritize robust consent, transparency, and attribution mechanisms, especially when using community-contributed data. Implementing automated content takedown processes and exploring verified voice ownership solutions are crucial for maintaining trust and mitigating legal risks.",
+      "beginner": "AI voice models can generate human-like speech for various uses, from video games to customer service, and companies like Fish Audio are building tools to make these voices more expressive and controllable.",
+      "advanced": "To ensure ethical AI development and deployment, integrate verifiable voice ownership, clear licensing, and rapid, automated content takedown processes directly into product design, moving beyond reactive measures to proactive trust-building with creators.",
+      "tags": [
+        "funding",
+        "product",
+        "enterprise",
+        "governance"
+      ]
+    },
+    {
+      "id": "076b5a9a213c",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Recursive Superintelligence signs $410 compute deal with Amazon",
+      "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+      "publishedAt": "2026-07-28T13:19:17.000Z",
+      "fetchedAt": "2026-07-28T15:26:41.481Z",
+      "contentText": null,
+      "summary": "Recursive Superintelligence, an AI company focused on self-improving systems, has signed a $410 million multi-year compute deal with Amazon Web Services. This agreement will provide the necessary infrastructure for Recursive to scale its AI research and product development, with initial products expected to be released within months. The deal also involves AWS co-developing purpose-built infrastructure to support Recursive's unique needs.",
+      "enterpriseAngle": "Enterprise product development teams should note Recursive's strategy of prioritizing compute over headcount to automate product development, indicating a potential shift in resource allocation for AI-first companies. This partnership also highlights AWS's commitment to building specialized infrastructure for foundational AI companies, which could attract other AI innovators.",
+      "beginner": "An AI company is spending a lot of money on computer power from Amazon to build AI systems that can improve themselves and create new products quickly.",
+      "advanced": "Evaluate the potential for Recursive Self-Improvement (RSI) to accelerate product development cycles and consider how a compute-heavy, headcount-light model might impact your organization's AI strategy and infrastructure investments.",
+      "tags": [
+        "enterprise",
+        "infrastructure",
+        "product",
+        "agents"
+      ]
+    },
+    {
+      "id": "50bf9e90585e",
+      "source": "google-ai",
+      "sourceName": "Google AI",
+      "tier": "realtime",
+      "title": "5 ways AI Mode in Search helps you enjoy the real world",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+      "publishedAt": "2026-07-28T13:00:00.000Z",
+      "fetchedAt": "2026-07-28T15:26:39.583Z",
+      "contentText": null,
+      "summary": "Google's AI Mode in Search aims to help users engage more with the real world by streamlining planning for offline activities. It assists with finding local classes, shopping for specific gear, developing strategies for hobbies, and booking event tickets. The AI can also generate custom designs for invitations by connecting with other applications.",
+      "enterpriseAngle": "Enterprise product teams can observe how Google is integrating AI into core search functionalities to enhance user experience and facilitate real-world engagement, potentially inspiring similar AI-driven features in their own applications. For security teams, the mention of \"Personal Intelligence\" securely connecting Google apps highlights the ongoing challenge and importance of robust data privacy and secure integration practices when leveraging personal user data for AI personalization.",
+      "beginner": "Google's AI in Search helps you plan real-world activities like finding classes or buying gear, making it easier to spend time offline.",
+      "advanced": "Leverage Google's AI Mode's integration capabilities, such as connecting with Google Calendar for personalized scheduling or Canva for design, to explore how contextual AI can enhance user productivity and reduce friction in multi-application workflows.",
+      "tags": [
+        "product",
+        "consumer",
+        "enterprise",
+        "agents"
+      ]
+    },
+    {
+      "id": "337133ac9fb1",
+      "source": "google-ai",
+      "sourceName": "Google AI",
+      "tier": "realtime",
+      "title": "5 ways to host the ultimate dinner party with Google Search",
+      "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+      "publishedAt": "2026-07-28T13:00:00.000Z",
+      "fetchedAt": "2026-07-28T15:26:39.583Z",
+      "contentText": null,
+      "summary": "Google Search has introduced new AI-powered features to assist users in planning dinner parties. These tools can help with tasks such as visualizing tablescapes, brainstorming menu options, suggesting drink pairings, and curating music playlists. The aim is to streamline party logistics, allowing hosts to focus more on their guests.",
+      "enterpriseAngle": "While focused on consumer use, the underlying AI capabilities for visual generation, content creation, and personalized recommendations could inspire enterprise applications in event management, marketing content creation, or personalized customer engagement platforms.",
+      "beginner": "Google Search now uses AI to help you plan parties by suggesting ideas for food, drinks, decorations, and music.",
+      "advanced": "Leverage Google's AI Mode for rapid prototyping of visual concepts and personalized content generation, exploring its integration capabilities with external applications for enhanced workflow automation.",
+      "tags": [
+        "product",
+        "consumer",
+        "agents"
+      ]
+    },
+    {
+      "id": "27ef879b235e",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
+      "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+      "publishedAt": "2026-07-28T09:18:57.000Z",
+      "fetchedAt": "2026-07-28T15:26:41.703Z",
+      "contentText": null,
+      "summary": "Engineers at Samsung's semiconductor division are reportedly seeking employment with rival chipmaker SK Hynix. This trend suggests a potential shift in the workforce dynamics within the South Korean chip manufacturing industry.",
+      "enterpriseAngle": "Enterprise product development teams in the semiconductor industry face challenges in retaining talent, which could impact project timelines and intellectual property. Companies must consider competitive compensation and work environments to prevent key personnel from moving to rivals.",
+      "beginner": "Some employees at big tech companies are looking for new jobs at competing companies.",
+      "advanced": "Implement robust talent retention strategies, including competitive compensation packages and career development opportunities, to safeguard critical engineering expertise and maintain project continuity against competitor poaching.",
+      "tags": [
+        "workforce",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "40ec7a28c7a1",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+      "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+      "publishedAt": "2026-07-28T04:30:00.000Z",
+      "fetchedAt": "2026-07-28T15:26:41.481Z",
+      "contentText": null,
+      "summary": "AI coding startup Cursor is launching a new, lower-priced subscription plan called Cursor Start in India, ahead of its acquisition by SpaceX. This plan, priced at about $7 a month, is designed to attract more individual developers in India, which is already Cursor's third-largest market and home to its highest concentration of power users. The localized pricing reflects India's growing importance as a major software developer hub.",
+      "enterpriseAngle": "Enterprise product development teams should note the trend of AI tool providers localizing pricing and features for key markets like India, indicating a strategic shift towards broader global accessibility and tailored offerings. This could influence future procurement decisions and regional AI strategy for large organizations.",
+      "beginner": "AI coding tools are becoming more accessible globally, with companies like Cursor offering special, cheaper plans in countries with many developers, like India.",
+      "advanced": "Evaluate the commercial sustainability of localized pricing models for AI development tools, considering the balance between market penetration and maintaining profitability, particularly when leveraging proprietary models with lower operating costs.",
+      "tags": [
+        "product",
+        "enterprise",
+        "partnership",
+        "coding"
+      ]
+    },
+    {
+      "id": "287e1596aea7",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Anthropic's Dario Amodei responds: doesn't oppose open-weight models, but fears Chinese AI",
+      "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+      "publishedAt": "2026-07-28T00:13:33.000Z",
+      "fetchedAt": "2026-07-28T15:26:41.481Z",
+      "contentText": null,
+      "summary": "Anthropic CEO Dario Amodei clarified that his company does not support a ban on open-weight AI models, stating they are a public good. He expressed concern about authoritarian governments, particularly China, developing powerful AI for military superiority or repression, and the potential for AI to enable biological attacks. Amodei believes open-weight models are more dangerous in these scenarios due to difficulty in applying guardrails.",
+      "enterpriseAngle": "Enterprise security teams should be aware of the potential for AI-enabled biological attacks and the challenges of securing open-weight models, while product development teams can leverage open-weight models as a public good for innovation. The call for a global model safety testing organization highlights a potential future standard for AI governance that enterprises may need to adhere to.",
+      "beginner": "Some AI leaders are worried about powerful AI being used by governments for harmful purposes, even though they support open access to less dangerous AI models.",
+      "advanced": "Advocate for and participate in the development of global AI safety testing standards, and implement robust monitoring and guardrail mechanisms for any open-weight models deployed within your enterprise, particularly given concerns about their un-retractability and potential misuse.",
+      "tags": [
+        "policy",
+        "governance",
+        "security",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "a6dfa4237409",
+      "source": "cursor",
+      "sourceName": "Cursor",
+      "tier": "realtime",
+      "title": "Jul 28, 2026 · product Introducing Cursor Start Cursor Team 3m Cursor Team · 3m",
+      "url": "https://cursor.com/blog/cursor-start-india",
+      "publishedAt": "2026-07-28",
+      "fetchedAt": "2026-07-28T15:26:40.868Z",
+      "contentText": null,
+      "summary": "Cursor has launched \"Cursor Start,\" a new subscription plan specifically for developers in India, offering expanded access to its Grok 4.5 and Composer models. This plan, priced at ₹649 per month, addresses local market needs by allowing payments via UPI and providing more agent requests than the free tier. India is Cursor's third-largest market, with a rapidly growing user base and the highest per-developer agent requests globally.",
+      "enterpriseAngle": "This strategic move by Cursor to offer localized pricing and payment options in India highlights the importance of tailoring product offerings to specific regional markets for enterprise software adoption and growth. Enterprise product development teams should consider similar localization strategies to better serve diverse global developer communities.",
+      "beginner": "Cursor Start is a new, affordable plan for Indian developers to use AI tools for coding, making it easier to build projects.",
+      "advanced": "Evaluate the potential for increased agentic development adoption in your organization by leveraging localized pricing models and payment methods in key growth markets, mirroring Cursor's strategy in India.",
+      "tags": [
+        "product",
+        "enterprise",
+        "agents",
+        "coding"
+      ]
+    },
     {
       "id": "80d8760fd0f4",
       "source": "anthropic",
@@ -190,6 +355,26 @@
         "agents"
       ],
       "dateChecked": true
+    },
+    {
+      "id": "001c3791ef4f",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-07-27T15:30:00.000Z",
+      "fetchedAt": "2026-07-28T15:26:41.481Z",
+      "contentText": null,
+      "summary": "The Smart Systems Stage at TechCrunch Disrupt 2026 will focus on the intersection of energy, infrastructure, and technology. Discussions will include advancements in fusion energy and the impact of AI on the economy's energy grid.",
+      "enterpriseAngle": "Enterprise leaders should pay close attention to how AI's increasing energy demands will affect infrastructure planning and sustainability initiatives within their organizations. Product development teams may need to consider energy efficiency as a core design principle for new AI-powered solutions.",
+      "beginner": "AI requires a lot of energy, and this event will explore how that affects our power systems and new ways to generate energy.",
+      "advanced": "Evaluate your current and projected AI workloads against available energy infrastructure and explore partnerships or investments in sustainable energy solutions to mitigate future grid strain.",
+      "tags": [
+        "infrastructure",
+        "enterprise",
+        "digest"
+      ]
     },
     {
       "id": "dbdffd22f991",

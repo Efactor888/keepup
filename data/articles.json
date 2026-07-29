@@ -1,6 +1,89 @@
 {
-  "updatedAt": "2026-07-28T22:12:52.850Z",
+  "updatedAt": "2026-07-29T15:12:43.723Z",
   "articles": [
+    {
+      "id": "e421e2d1671c",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+      "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+      "publishedAt": "2026-07-29T14:41:06.000Z",
+      "fetchedAt": "2026-07-29T15:12:06.963Z",
+      "contentText": null,
+      "summary": "Encore AI, a startup that develops AI voice agents capable of learning from customer interactions, has secured $30 million in Series A funding. These agents analyze conversations to identify successful strategies, which they then use to assist customer support and sales teams or operate autonomously. The company plans to use the investment to expand its U.S. sales and deploy its platform with more financial institutions.",
+      "enterpriseAngle": "Enterprise security and product development teams should consider how AI agents like Encore AI's, which learn from sensitive customer interaction data, will integrate with existing security protocols and data governance frameworks. Product teams can leverage such platforms to identify inefficiencies in current customer support and sales processes, informing future product enhancements and agent training.",
+      "beginner": "Encore AI creates smart computer programs that listen to how companies talk to customers and then learn the best ways to help customers themselves.",
+      "advanced": "Experienced practitioners should evaluate the data privacy and security implications of deploying AI agents that perform \"interaction mining\" on historical customer conversations, ensuring robust data anonymization, access controls, and compliance with relevant regulations.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "funding",
+        "product"
+      ]
+    },
+    {
+      "id": "e83ee80071b9",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+      "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+      "publishedAt": "2026-07-29T11:00:00.000Z",
+      "fetchedAt": "2026-07-29T15:12:06.963Z",
+      "contentText": null,
+      "summary": "Pangram, an AI detection startup, has raised $9 million and launched its new Pangram 4 text detection model, which boasts over 99% accuracy in identifying AI-assisted and mixed human-AI content, including AI humanizer programs. The company also introduced a research preview of its AI image detection model. Pangram's technology aims to help users and institutions distinguish between human and AI-generated content amidst the increasing volume of AI-created material online.",
+      "enterpriseAngle": "Enterprise security and product development teams can leverage AI detection tools like Pangram's API to verify content authenticity, mitigate risks associated with AI-generated misinformation, and enforce policies regarding AI assistance in content creation, especially in areas like legal documents, academic submissions, and internal communications. Integrating such tools can help maintain data integrity and prevent the spread of misleading information within an organization's ecosystem.",
+      "beginner": "AI detection tools help us tell if content, like articles or images, was made by a human or an AI, which is important because AI-generated content can sometimes be unreliable or misleading.",
+      "advanced": "Implement Pangram's API to automatically scan incoming and outgoing content for AI generation, particularly focusing on identifying AI-assisted writing and humanizer program usage to ensure compliance with content authenticity policies and mitigate potential reputational or legal risks.",
+      "tags": [
+        "funding",
+        "product",
+        "enterprise",
+        "security"
+      ]
+    },
+    {
+      "id": "fe9c320aecf7",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "The AI Hype Index: Unsexy AI",
+      "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+      "publishedAt": "2026-07-29T08:42:57.000Z",
+      "fetchedAt": "2026-07-29T15:12:07.126Z",
+      "contentText": null,
+      "summary": "The company 1X has demonstrated new, highly dexterous AI robots capable of performing tasks like making dinner, raising concerns about AI's potential impact on human jobs.",
+      "enterpriseAngle": "Enterprises should consider the implications of increasingly dexterous AI robots for automation in service industries and manufacturing, evaluating both efficiency gains and workforce displacement.",
+      "beginner": "AI is developing robots that can do complex physical tasks, like cooking, which could change many jobs.",
+      "advanced": "Evaluate the integration of advanced robotic dexterity into existing operational workflows to identify opportunities for automation and reskill your workforce for collaborative human-robot environments.",
+      "tags": [
+        "agents",
+        "workforce",
+        "product"
+      ]
+    },
+    {
+      "id": "5fa8da85f3b0",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+      "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+      "publishedAt": "2026-07-29T00:09:05.000Z",
+      "fetchedAt": "2026-07-29T15:12:06.963Z",
+      "contentText": null,
+      "summary": "Cyera, a data security company, has announced its intent to acquire Oasis Security for approximately $1 billion. Oasis Security specializes in securing non-human identities, particularly AI agents, by monitoring their behavior and managing their access permissions. This acquisition aims to integrate Oasis's technology into Cyera's unified identity and data security platform.",
+      "enterpriseAngle": "This acquisition signifies the growing need for enterprises to implement robust cybersecurity solutions specifically designed to manage and secure the increasing number of AI agents within their systems, addressing potential vulnerabilities and access control challenges. Enterprise security teams will need to evaluate and deploy software that can monitor and grant permissions to AI agents to prevent AI-weaponized threats.",
+      "beginner": "As more AI programs are used by companies, there's a new need for security tools that can watch what these AI programs do and control what they can access.",
+      "advanced": "Security architects should prioritize integrating AI agent behavior monitoring and access management solutions into their existing identity and access management (IAM) frameworks to mitigate risks associated with proliferating non-human identities.",
+      "tags": [
+        "security",
+        "enterprise",
+        "agents",
+        "partnership"
+      ]
+    },
     {
       "id": "50c1f0597bb0",
       "source": "techcrunch-ai",

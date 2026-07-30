@@ -1,6 +1,130 @@
 {
-  "updatedAt": "2026-07-30T15:18:31.035Z",
+  "updatedAt": "2026-07-30T22:14:22.038Z",
   "articles": [
+    {
+      "id": "2875a4400bb8",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+      "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+      "publishedAt": "2026-07-30T20:26:38.000Z",
+      "fetchedAt": "2026-07-30T22:13:18.996Z",
+      "contentText": null,
+      "summary": "A judge stated that the Trump administration has not provided sufficient evidence to label Anthropic a supply-chain risk, which would ban the federal government from using its technology. This dispute arose from stalled contract negotiations with the Department of Defense, where Anthropic expressed concerns about its AI being used for mass surveillance or lethal weapons. The judge also found the government's argument that Anthropic's public criticism justified the ban to be troubling.",
+      "enterpriseAngle": "Enterprise product development teams, especially those working with government contracts, must navigate complex ethical considerations regarding AI usage and potential government overreach in dictating technology application. This case highlights the importance of clear contractual terms and the potential for legal challenges when government entities attempt to restrict vendors based on perceived supply-chain risks without concrete evidence.",
+      "beginner": "A judge ruled that the government can't ban an AI company just because it disagreed with how the military wanted to use its technology, especially without proof of a security risk.",
+      "advanced": "Security and product teams should ensure robust, evidence-backed justifications for any 'supply-chain risk' designations, as judicial scrutiny will challenge claims lacking technical proof of model alteration or 'kill switch' capabilities.",
+      "tags": [
+        "policy",
+        "enterprise",
+        "governance"
+      ]
+    },
+    {
+      "id": "4abd3e139a76",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
+      "url": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
+      "publishedAt": "2026-07-30T19:44:16.000Z",
+      "fetchedAt": "2026-07-30T22:13:18.996Z",
+      "contentText": null,
+      "summary": "The AI wearable \"Friend,\" originally launched two years ago, has been re-released as \"Friend 2.0\" with a new voice feature and a higher price tag of $249, up from $99. The product aims to provide users with a confidant or companion, offering a unique and consistent personality through its built-in speaker. Its creator, Avi Schiffmann, describes it as neither an assistant nor a lover, but something akin to a friend or even a deity.",
+      "enterpriseAngle": "For enterprise product development teams, the return of Friend highlights the ongoing challenge of creating compelling AI-powered consumer wearables that offer clear utility beyond novelty. Security teams should note the potential privacy implications of always-on voice-enabled devices that process personal conversations, even if the article doesn't detail specific vulnerabilities.",
+      "beginner": "Friend is an AI device you wear that you can talk to, and it talks back, aiming to be a companion.",
+      "advanced": "Evaluate the long-term viability and ethical considerations of developing AI companions with ambiguous utility, especially given the historical failures of similar consumer AI wearables like Humane Inc.'s AI pin.",
+      "tags": [
+        "product",
+        "consumer",
+        "agents"
+      ]
+    },
+    {
+      "id": "1987e6b0c2c7",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+      "publishedAt": "2026-07-30T18:57:58.000Z",
+      "fetchedAt": "2026-07-30T22:13:18.996Z",
+      "contentText": null,
+      "summary": "Google reported that it fixed more bugs in its Chrome browser in June than in the previous two years combined, attributing this accelerated bug resolution to the use of AI and large language models (LLMs). This trend aligns with similar observations from other companies like Microsoft, which are also leveraging AI tools for bug detection and patching.",
+      "enterpriseAngle": "Enterprise security teams can anticipate a significant increase in the volume of patches and updates for widely used software, necessitating more agile patch management strategies and potentially shifting focus to AI-driven vulnerability management tools. Product development teams can explore integrating AI tools into their development pipelines to enhance code quality and accelerate the identification and remediation of software defects.",
+      "beginner": "AI is helping companies find and fix software problems much faster than before.",
+      "advanced": "Evaluate the integration of AI-powered static and dynamic analysis tools into your CI/CD pipeline to proactively identify and mitigate vulnerabilities at scale, while preparing for an increased velocity of vendor-supplied patches.",
+      "tags": [
+        "security",
+        "enterprise",
+        "product",
+        "coding"
+      ]
+    },
+    {
+      "id": "208aa591b12e",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "LinkedIn adds a button to report AI-generated ‘slop'",
+      "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
+      "publishedAt": "2026-07-30T18:05:21.000Z",
+      "fetchedAt": "2026-07-30T22:13:18.996Z",
+      "contentText": null,
+      "summary": "LinkedIn has introduced a new \"seems like AI slop\" button, allowing users to report low-quality, AI-generated content on its platform. This initiative is part of a broader effort to combat the rise of inauthentic posts and bot traffic across the internet, a problem also impacting other platforms like Substack and leading to the shutdown of startups such as Digg. LinkedIn is also implementing automation defenses, new AI classifiers, and private flagging for users whose content appears inauthentic due to AI use.",
+      "enterpriseAngle": "Enterprise product development teams must prioritize robust content moderation tools and AI detection mechanisms to maintain platform integrity and user trust, as the proliferation of AI-generated content can degrade user experience and operational efficiency. Security teams should note the increasing volume of bot traffic, which necessitates enhanced automation defenses to protect against various forms of misuse and maintain platform stability.",
+      "beginner": "Many online platforms are struggling with too much low-quality content made by AI, and LinkedIn is now letting users report it to keep the site more authentic.",
+      "advanced": "Implement a multi-pronged strategy combining user-reported signals, advanced AI classifiers, and proactive automation defenses to effectively identify and mitigate low-quality AI-generated content, while also providing feedback mechanisms for users to improve their content authenticity.",
+      "tags": [
+        "product",
+        "enterprise",
+        "security",
+        "governance"
+      ]
+    },
+    {
+      "id": "c7024dd73f9e",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Okta buys AI security startup Permiso — source says for about $200M",
+      "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+      "publishedAt": "2026-07-30T16:09:42.000Z",
+      "fetchedAt": "2026-07-30T22:13:18.996Z",
+      "contentText": null,
+      "summary": "Okta has agreed to acquire Permiso Security, an AI identity security startup, for an estimated $200 million in an all-cash deal. This acquisition aims to enhance Okta's capabilities in protecting AI agents and other machine identities as enterprises increasingly deploy autonomous software. Permiso specializes in detecting suspicious activity in cloud environments and has recently expanded its platform to monitor AI agents.",
+      "enterpriseAngle": "This acquisition signals a growing need for enterprises to secure not only human users but also the expanding number of AI agents and machine identities within their cloud environments. Enterprise security teams will need to adopt more sophisticated identity threat detection and response capabilities to protect against attacks leveraging compromised machine identities.",
+      "beginner": "As more companies use AI, it's becoming very important to protect the AI programs themselves from being hacked, just like we protect human users.",
+      "advanced": "Security architects should evaluate their current identity and access management (IAM) solutions for capabilities in continuous monitoring and threat detection for non-human identities, specifically considering solutions that integrate AI agent skill analysis in sandboxed environments prior to deployment.",
+      "tags": [
+        "security",
+        "enterprise",
+        "partnership",
+        "agents"
+      ]
+    },
+    {
+      "id": "1b4358b74e22",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Meta says AI is making it easier to build new apps — and more are coming",
+      "url": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
+      "publishedAt": "2026-07-30T15:41:16.000Z",
+      "fetchedAt": "2026-07-30T22:13:18.996Z",
+      "contentText": null,
+      "summary": "Meta is leveraging AI, specifically large language models (LLMs), to accelerate the development and launch of new applications, with several recent releases and more planned. The company states that AI is making product development faster and improving content recommendations, as seen with the growth of Threads. This strategy marks a renewed effort by Meta to create successful standalone apps after previous attempts failed.",
+      "enterpriseAngle": "Enterprise product development teams can learn from Meta's strategy of using LLMs to speed up software shipping and testing new ideas, potentially leading to faster market iteration and improved product relevance through AI-powered recommendation systems. The integration of LLMs for content analysis and quality evaluation also offers a blueprint for enhancing internal development processes and product scaling.",
+      "beginner": "Meta is using advanced AI to build new apps much faster and make them more appealing to users, hoping to create more popular products like Threads.",
+      "advanced": "Integrate LLM-powered content analysis and recommendation systems into your product development pipeline to accelerate iteration, improve content relevance, and enhance user engagement for new application launches.",
+      "tags": [
+        "product",
+        "enterprise",
+        "model-release",
+        "learning"
+      ]
+    },
     {
       "id": "841b4260b436",
       "source": "deepmind",
@@ -124,6 +248,26 @@
         "security",
         "research",
         "governance"
+      ]
+    },
+    {
+      "id": "fc362ba711f5",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Advancing the price-performance frontier with GPT-5.6",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "publishedAt": "2026-07-30T10:00:00.000Z",
+      "fetchedAt": "2026-07-30T22:13:17.119Z",
+      "contentText": null,
+      "summary": "OpenAI has announced new, lower pricing for its GPT-5.6 models, Luna and Terra. These more efficient models are designed to help enterprises deploy AI workflows more effectively at scale.",
+      "enterpriseAngle": "Enterprises can now leverage more cost-effective GPT-5.6 models, potentially reducing the operational expenses associated with large-scale AI deployments and making advanced AI more accessible for various business workflows.",
+      "beginner": "New versions of OpenAI's AI models are now cheaper, making it easier for companies to use AI in their work.",
+      "advanced": "Evaluate the new GPT-5.6 pricing tiers for Luna and Terra to optimize cost-efficiency in your enterprise AI workflow deployments and scale initiatives.",
+      "tags": [
+        "model-release",
+        "enterprise",
+        "product"
       ]
     },
     {

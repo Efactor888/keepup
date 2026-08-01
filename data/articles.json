@@ -1,6 +1,90 @@
 {
-  "updatedAt": "2026-08-01T14:38:23.608Z",
+  "updatedAt": "2026-08-01T22:02:51.998Z",
   "articles": [
+    {
+      "id": "9bb4cc8e0aec",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+      "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+      "publishedAt": "2026-08-01T20:26:04.000Z",
+      "fetchedAt": "2026-08-01T22:02:14.430Z",
+      "contentText": null,
+      "summary": "A U.S. District Judge denied xAI's request to block a Minnesota law banning apps that \"nudify\" images, allowing the ban to take effect. The judge cited xAI's delay in filing the lawsuit as a reason for the denial, though the lawsuit against the ban will continue. This Minnesota law is the first of its kind in the United States.",
+      "enterpriseAngle": "Enterprise product development teams, especially those in AI and social media, must consider the legal implications of their applications, particularly regarding content moderation and user-generated content, as new state-level regulations emerge. This case highlights the increasing scrutiny on AI-powered tools and the potential for legal challenges to impact product availability and features.",
+      "beginner": "A new law in Minnesota that stops apps from creating fake nude images is now active because a judge said xAI waited too long to try and stop it.",
+      "advanced": "Legal teams should proactively monitor emerging state-level AI regulations and establish clear compliance roadmaps to mitigate risks associated with product features that could be deemed harmful or illegal, especially concerning image manipulation and content generation.",
+      "tags": [
+        "policy",
+        "governance",
+        "product",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "faffeeac24fb",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+      "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+      "publishedAt": "2026-08-01T19:45:45.000Z",
+      "fetchedAt": "2026-08-01T22:02:14.430Z",
+      "contentText": null,
+      "summary": "YouTuber Hank Green apologized to his audience for his increasing reliance on AI chatbots for content creation, admitting that his usage was \"not healthy.\" The controversy arose after viewers speculated he used a chatbot for a script, leading him to acknowledge using ChatGPT for research and to reflect on the impact of AI on his creative process and well-being. He plans to reduce his video production to ensure his content remains authentically his own.",
+      "enterpriseAngle": "Enterprises developing AI tools or integrating AI into content workflows should consider the potential for over-reliance and the importance of maintaining human oversight and authenticity, especially in public-facing roles. Product teams need to design AI tools that support, rather than replace, human creativity and critical thinking, while also addressing ethical concerns like environmental impact and economic consolidation.",
+      "beginner": "AI chatbots can be helpful for research, but relying on them too much can make it hard to tell if the words are truly yours.",
+      "advanced": "Implement clear guidelines and training for content creators on responsible AI integration, emphasizing human-in-the-loop validation to maintain brand voice and authenticity while mitigating risks of AI over-reliance and potential public backlash.",
+      "tags": [
+        "consumer",
+        "product",
+        "governance",
+        "workforce"
+      ]
+    },
+    {
+      "id": "ba0eb6022ed8",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Sam Altman is still making the case for parenting via ChatGPT",
+      "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+      "publishedAt": "2026-08-01T17:07:34.000Z",
+      "fetchedAt": "2026-08-01T22:02:14.430Z",
+      "contentText": null,
+      "summary": "OpenAI CEO Sam Altman suggested using ChatGPT Work to create personalized daily podcasts for children, integrating family schedules and interests. This idea, similar to past tech CEO endorsements of AI for daily tasks, was met with skepticism and went viral for its perceived detachment from direct human interaction. OpenAI is actively targeting parents with new product features and job postings, despite facing lawsuits alleging harmful impacts of ChatGPT on family members.",
+      "enterpriseAngle": "Enterprise product development teams, especially those in AI, should carefully consider the public perception and ethical implications of their consumer-facing use cases, particularly when dealing with sensitive areas like family and child development. The strong negative reaction to Altman's suggestion highlights the importance of balancing innovative features with societal values and potential user concerns.",
+      "beginner": "AI tools like ChatGPT are being suggested for new uses, but it's important to think about whether they truly help or if traditional human interaction is better.",
+      "advanced": "When designing AI products for sensitive consumer segments like parents, prioritize user trust and ethical considerations by conducting thorough impact assessments and user research to avoid public backlash and potential legal challenges, even as you innovate.",
+      "tags": [
+        "product",
+        "consumer",
+        "governance",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "a151ac981abc",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "This $9 key physically locks your most addictive apps",
+      "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
+      "publishedAt": "2026-08-01T15:58:17.000Z",
+      "fetchedAt": "2026-08-01T22:02:14.430Z",
+      "contentText": null,
+      "summary": "Autonomous Key is a $9 physical NFC key designed to help users reduce screen time by physically locking distracting apps on their smartphones. Unlike software-based blockers, it requires a physical scan of the key to unlock apps for up to 60 minutes, making access a more deliberate action. The companion app also provides AI-powered insights into usage habits, presented with a \"sassy\" personality.",
+      "enterpriseAngle": "While primarily a consumer product, the concept of a physical key for digital access control could inspire enterprise solutions for managing employee access to non-work-related apps during business hours, or for securing sensitive applications with an additional physical layer.",
+      "beginner": "Autonomous Key uses a physical key and AI to help you spend less time on distracting apps by making you work a little harder to open them.",
+      "advanced": "Consider integrating physical access controls with AI-driven behavioral insights to enhance digital wellness programs or enforce application usage policies within an organizational context, while addressing potential single points of failure like key loss.",
+      "tags": [
+        "product",
+        "consumer",
+        "hardware",
+        "agents"
+      ]
+    },
     {
       "id": "6d58997b466c",
       "source": "openai",

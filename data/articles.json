@@ -1,6 +1,131 @@
 {
-  "updatedAt": "2026-08-03T15:48:20.996Z",
+  "updatedAt": "2026-08-03T22:14:04.796Z",
   "articles": [
+    {
+      "id": "06f39bba1d35",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+      "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+      "publishedAt": "2026-08-03T20:00:00.000Z",
+      "fetchedAt": "2026-08-03T22:12:51.839Z",
+      "contentText": null,
+      "summary": "Superblocks, a vibe-coding startup, has partnered with Amazon Web Services (AWS) to embed its tool within AWS customers' private clouds. This integration allows enterprises to offer vibe coding to business users, ensuring that applications and data remain within the company's private cloud, leveraging AWS services like Amazon Aurora and Amazon Bedrock without sending data externally. AWS will also assist in selling Superblocks to enterprises, highlighting a trend where cloud providers encourage customers to separate AI models from other necessary AI infrastructure and host it on their clouds.",
+      "enterpriseAngle": "Enterprise security and product development teams can benefit from this partnership by offering secure, in-house vibe coding solutions that keep sensitive data within their private cloud environments, reducing external data exposure risks and integrating with existing AWS infrastructure. This also supports a multi-model AI strategy, allowing enterprises to avoid vendor lock-in and enhance flexibility in their AI deployments.",
+      "beginner": "Vibe coding lets regular business users create apps using AI, and this partnership means those apps will be built and kept securely inside a company's own cloud, not sending data outside.",
+      "advanced": "CIOs should prioritize a multi-model AI strategy, leveraging cloud provider partnerships like this to integrate agentic applications and orchestration within their private cloud infrastructure, ensuring data governance and avoiding reliance on single model providers.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "product",
+        "security"
+      ]
+    },
+    {
+      "id": "6005530a97f8",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+      "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+      "publishedAt": "2026-08-03T19:28:57.000Z",
+      "fetchedAt": "2026-08-03T22:12:51.839Z",
+      "contentText": null,
+      "summary": "Intelligence, the company behind Design Arena, has secured $7.9 million in seed funding to expand its platform, which provides human-led feedback for AI models. Design Arena allows users to rank AI-generated outputs, offering valuable insights into user preferences for media-generating models. This service addresses a critical need for AI companies seeking scalable and honest human judgment to improve their designs.",
+      "enterpriseAngle": "Enterprise AI product development teams can leverage Design Arena to gather continuous, human-led feedback, which is crucial for refining media-generating models and ensuring outputs align with user preferences, thereby accelerating product improvement cycles. This approach complements automated benchmarks by providing qualitative data that is less susceptible to manipulation.",
+      "beginner": "Design Arena helps AI models get better by letting real people choose which AI-generated designs they like best, similar to how you might pick your favorite picture from a few options.",
+      "advanced": "Integrate Design Arena's human evaluation data streams into your MLOps pipelines to provide a robust, qualitative feedback loop that complements quantitative benchmarks, enhancing model alignment with user taste and mitigating risks associated with easily gamed automated metrics.",
+      "tags": [
+        "funding",
+        "product",
+        "enterprise",
+        "benchmark"
+      ]
+    },
+    {
+      "id": "f30b130fca5e",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Influencers draw backlash for attending OpenAI's first luxury trip",
+      "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+      "publishedAt": "2026-08-03T19:09:56.000Z",
+      "fetchedAt": "2026-08-03T22:12:51.839Z",
+      "contentText": null,
+      "summary": "OpenAI's recent luxury influencer trip, dubbed \"Summer Club,\" has sparked significant online backlash due to ongoing tensions surrounding AI's societal and environmental impact. Influencers attending the upstate New York retreat, which included wellness activities and classes on using OpenAI products like ChatGPT Work, faced criticism for promoting AI amidst concerns about data centers' environmental footprint and the company's defense contracts. OpenAI stated the trip was part of a broader marketing effort to educate people on practical AI uses and that creators are an important part of their community.",
+      "enterpriseAngle": "Enterprise marketing and PR teams must carefully consider the public perception of AI and the potential for backlash when engaging in promotional activities, especially those perceived as lavish, as this can undermine efforts to build trust and highlight practical applications. Product development teams should anticipate and address public concerns about AI's socio-ecological impact, as these sentiments can influence user adoption and regulatory scrutiny.",
+      "beginner": "Even though AI companies want to show off their products, how they do it can sometimes make people upset, especially if it seems out of touch with bigger concerns about AI's impact.",
+      "advanced": "When planning influencer outreach, conduct thorough sentiment analysis on AI's public perception and integrate messaging that proactively addresses socio-ecological concerns to avoid alienating stakeholders and ensure marketing efforts align with responsible AI principles.",
+      "tags": [
+        "enterprise",
+        "product",
+        "consumer",
+        "policy"
+      ]
+    },
+    {
+      "id": "6d2b08be4460",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+      "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+      "publishedAt": "2026-08-03T18:43:43.000Z",
+      "fetchedAt": "2026-08-03T22:12:51.839Z",
+      "contentText": null,
+      "summary": "Apple has released Siri AI in the iOS 27 consumer beta, delivering on promises of a more capable and context-aware AI assistant. The new Siri can understand personal context, access on-device information like photos and emails, and engage in natural conversations, addressing previous limitations. This improved functionality, powered by a partnership with Google's Gemini AI models and Apple's proprietary foundation models, is set to be widely available with the official iOS 27 release in September.",
+      "enterpriseAngle": "Enterprise product development teams can learn from Apple's strategy of integrating external AI models (Google's Gemini) to train and refine their own proprietary models, ensuring on-device and private cloud functionality, which could inform hybrid AI deployment strategies for sensitive enterprise data. Security teams should note the emphasis on private cloud compute infrastructure and on-device processing for enhanced data privacy and control.",
+      "beginner": "Siri can now understand you better, find things on your phone more easily, and have more natural conversations, making your iPhone simpler to use.",
+      "advanced": "Leverage Apple's approach of combining external foundational models with proprietary on-device and private cloud AI to develop robust, context-aware enterprise applications that prioritize data privacy and efficient local processing.",
+      "tags": [
+        "product",
+        "enterprise",
+        "partnership",
+        "model-release"
+      ]
+    },
+    {
+      "id": "9dfa8f07c07e",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "Trump’s AI protectionism has come for robotics",
+      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+      "publishedAt": "2026-08-03T18:43:30.000Z",
+      "fetchedAt": "2026-08-03T22:12:52.200Z",
+      "contentText": null,
+      "summary": "The humanoid robotics industry is still in its early stages, with current robots often performing poorly in real-world scenarios. Despite some advancements, their capabilities, particularly in dexterity, remain limited.",
+      "enterpriseAngle": "Enterprises considering the adoption of humanoid robots should be aware of the current limitations in their physical capabilities and the nascent state of the industry, which may impact deployment and return on investment.",
+      "beginner": "Humanoid robots are still developing and are not yet as capable or reliable as they appear in science fiction.",
+      "advanced": "Evaluate the maturity of humanoid robotics platforms against specific task requirements and environmental variables, prioritizing robust error handling and adaptable control systems for early-stage deployments.",
+      "tags": [
+        "product",
+        "research",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "16bd0e2adad9",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Congress' favorite AI tool? ChatGPT",
+      "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+      "publishedAt": "2026-08-03T16:40:55.000Z",
+      "fetchedAt": "2026-08-03T22:12:51.839Z",
+      "contentText": null,
+      "summary": "Congressional offices are primarily using OpenAI's ChatGPT for AI-powered tasks, according to House spending records. The chatbot is being utilized for drafting memos, summarizing legislation, and aiding in communications with constituents.",
+      "enterpriseAngle": "Enterprise product teams should note the high adoption of general-purpose AI tools like ChatGPT within government, indicating a need for robust, secure, and user-friendly AI solutions that can handle diverse administrative and communication tasks. Security teams must ensure that the use of such tools complies with data privacy regulations and internal security policies, especially when handling sensitive government or constituent information.",
+      "beginner": "Even in government, people are using AI tools like ChatGPT to help with everyday office work, from writing documents to talking with the public.",
+      "advanced": "Implement a comprehensive AI governance framework that includes procurement policies, data handling guidelines, and security audits for third-party AI tools to ensure compliance and mitigate risks associated with sensitive information processing.",
+      "tags": [
+        "enterprise",
+        "policy",
+        "product",
+        "governance"
+      ]
+    },
     {
       "id": "b6a8849c9fa0",
       "source": "techcrunch-ai",
@@ -40,6 +165,26 @@
         "agents",
         "security",
         "enterprise"
+      ]
+    },
+    {
+      "id": "d04cc35bd3cc",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "publishedAt": "2026-08-03T07:00:00.000Z",
+      "fetchedAt": "2026-08-03T22:12:46.201Z",
+      "contentText": null,
+      "summary": "OpenAI developed GPT-Live, a real-time voice AI system that allows for continuous, natural conversations. This system utilizes a turnless speech model and a low-latency architecture to achieve faster interactions.",
+      "enterpriseAngle": "Enterprise product development teams can leverage this advancement to create more responsive and natural voice interfaces for customer service, virtual assistants, and hands-free operational tools. The low-latency architecture is crucial for integrating AI voice capabilities into time-sensitive enterprise applications.",
+      "beginner": "GPT-Live makes talking to AI feel more like talking to a person, without awkward pauses.",
+      "advanced": "Evaluate the integration of GPT-Live's low-latency, turnless speech model into existing or new enterprise applications to enhance real-time conversational AI experiences and reduce user friction.",
+      "tags": [
+        "product",
+        "infrastructure",
+        "learning"
       ]
     },
     {
@@ -11302,6 +11447,28 @@
         "governance",
         "enterprise"
       ]
+    },
+    {
+      "id": "e800397589b4",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "Introducing Claude for Nonprofits",
+      "url": "https://www.anthropic.com/news/claude-for-nonprofits",
+      "publishedAt": "2025-12-02",
+      "fetchedAt": "2026-08-03T22:12:45.341Z",
+      "contentText": null,
+      "summary": "Anthropic has launched \"Claude for Nonprofits\" in partnership with GivingTuesday, offering discounted access to Claude's AI models (Opus 4.6, Sonnet 4.5, Haiku 4.5), new connectors to nonprofit-specific tools like Benevity, Blackbaud, and Candid, and a free AI Fluency for Nonprofits course. This initiative aims to help nonprofits maximize their impact by integrating AI into their workflows, with existing partners like the Epilepsy Foundation and International Rescue Committee already seeing significant benefits.",
+      "enterpriseAngle": "Enterprise and product development teams can learn from Anthropic's strategy of tailoring AI solutions, including pricing, integrations, and training, to specific industry verticals like nonprofits, demonstrating a path for broader market adoption and impact. The focus on fitting into existing workflows and upholding privacy highlights key considerations for enterprise AI deployment.",
+      "beginner": "Anthropic is making its AI tools more affordable and easier to use for organizations that help people, offering special discounts, connections to tools they already use, and free training.",
+      "advanced": "Leverage Anthropic's vertical-specific strategy by developing tailored AI solutions, including custom connectors and specialized training modules, to drive deeper integration and value within target enterprise sectors.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "product",
+        "workforce"
+      ],
+      "dateChecked": true
     },
     {
       "id": "3c1a80a7da08",

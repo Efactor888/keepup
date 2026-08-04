@@ -1,6 +1,171 @@
 {
-  "updatedAt": "2026-08-03T22:14:04.796Z",
+  "updatedAt": "2026-08-04T15:30:43.003Z",
   "articles": [
+    {
+      "id": "1d4e5617f724",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+      "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
+      "publishedAt": "2026-08-04T15:20:06.000Z",
+      "fetchedAt": "2026-08-04T15:29:04.670Z",
+      "contentText": null,
+      "summary": "Elon Musk now dedicates nearly 50% of his time on Tesla earnings calls to discussing AI, robotaxis, and Full Self-Driving software, a significant increase from 15-20% in 2022. This shift in focus, also including a rise in discussions about the Optimus robot, coincides with a slowdown in Tesla's core automotive business growth. Other Tesla executives have been slower to adopt this focus, still dedicating a larger portion of their time to the automotive business.",
+      "enterpriseAngle": "Enterprise product development teams, particularly in automotive and robotics, should note the increasing executive emphasis on AI and robotics as a strategic differentiator, even when immediate financial returns are not yet evident. This signals a long-term vision that could influence investment and partnership opportunities.",
+      "beginner": "Elon Musk is talking much more about AI and robots than cars during Tesla's company updates, suggesting he sees these technologies as the future of the company.",
+      "advanced": "Analyze executive communication patterns for early indicators of strategic pivots towards emerging technologies, as demonstrated by Musk's increased focus on AI and robotics despite lagging financial contributions from these areas.",
+      "tags": [
+        "enterprise",
+        "product",
+        "research",
+        "agents"
+      ]
+    },
+    {
+      "id": "d74f42007843",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+      "publishedAt": "2026-08-04T14:03:01.000Z",
+      "fetchedAt": "2026-08-04T15:29:04.670Z",
+      "contentText": null,
+      "summary": "Apple is escalating its trade secrets lawsuit against OpenAI, alleging that more former employees may have taken confidential data related to unannounced products to OpenAI. Apple is seeking a preliminary injunction to prevent OpenAI from developing products based on this technology and is requesting expedited discovery from several individuals and entities. OpenAI denies the accusations, stating they do not possess or desire Apple's trade secrets and that Apple's claims are based on false information.",
+      "enterpriseAngle": "This case highlights the critical importance for enterprises to implement robust data loss prevention strategies and secure offboarding procedures to protect intellectual property when employees depart, especially to competitors. It also underscores the legal risks associated with hiring employees from rival companies, necessitating thorough due diligence.",
+      "beginner": "Companies like Apple are very protective of their secret ideas and products, and they can sue other companies if they believe their former employees shared those secrets.",
+      "advanced": "Security and legal teams should review their intellectual property protection protocols, including exit interviews, data access revocation, and non-disclosure agreements, to mitigate the risk of trade secret misappropriation by departing employees joining competitors.",
+      "tags": [
+        "security",
+        "enterprise",
+        "policy",
+        "governance"
+      ]
+    },
+    {
+      "id": "d3753d032c98",
+      "source": "google-ai",
+      "sourceName": "Google AI",
+      "tier": "realtime",
+      "title": "The latest AI news we announced in July 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+      "publishedAt": "2026-08-04T13:00:00.000Z",
+      "fetchedAt": "2026-08-04T15:29:00.930Z",
+      "contentText": null,
+      "summary": "Google announced several AI updates in July, including new Gemini models (3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber) designed for building scalable AI agents. They also released Gemini Robotics ER 2, an advanced model for robots to reason and collaborate on real-world tasks. Additionally, Google introduced new creative tools for video and music, enhanced data transfer for Android devices, and expanded AI applications in wildfire detection and workforce development.",
+      "enterpriseAngle": "Enterprises can leverage the new Gemini Flash models for more efficient and scalable AI agent workflows, while Gemini Robotics ER 2 offers capabilities for developing more intelligent and collaborative robotic systems. The AlphaEvolve AI code-optimization agent, now generally available to Google Cloud customers, can help enterprise development teams find more efficient algorithms and optimize their code.",
+      "beginner": "Google is making AI more accessible and helpful by releasing new tools that make everyday tasks easier, improve creative projects, and help robots understand the world better.",
+      "advanced": "Evaluate the new Gemini Flash models for their token efficiency and latency improvements to optimize your production AI agent deployments, and explore AlphaEvolve on Google Cloud for algorithm optimization.",
+      "tags": [
+        "model-release",
+        "agents",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "cc9f36984901",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Is the future of data centers portable? Runware builds a pod to find out",
+      "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+      "publishedAt": "2026-08-04T13:00:00.000Z",
+      "fetchedAt": "2026-08-04T15:29:04.670Z",
+      "contentText": null,
+      "summary": "Runware has launched the Sonic Inference Pod, a modular and transportable data center designed to provide AI inference closer to end-users. The company claims these pods offer higher quality and lower cost inference than existing serverless platforms and GPU clouds, with rapid deployment and scalability. Runware currently has 10 pods deployed globally and provides inference services to companies like Higgsfield AI and Wix.",
+      "enterpriseAngle": "Enterprise product development teams can leverage modular data centers like Runware's for flexible, scalable, and cost-effective AI inference, enabling faster deployment of AI models closer to their users. This approach could reduce reliance on large, fixed data centers and mitigate some infrastructure build-out challenges.",
+      "beginner": "Runware is making small, portable data centers that can be set up quickly anywhere there's power, helping AI models work faster and more efficiently for businesses.",
+      "advanced": "Evaluate the TCO and performance benefits of distributed, modular inference pods for edge deployments and latency-sensitive AI applications, considering their rapid scalability and reduced infrastructure overhead compared to traditional data center expansion.",
+      "tags": [
+        "infrastructure",
+        "product",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "e374de05c878",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
+      "url": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
+      "publishedAt": "2026-08-04T12:00:00.000Z",
+      "fetchedAt": "2026-08-04T15:29:04.670Z",
+      "contentText": null,
+      "summary": "Endeavor Optical Networks (EON), a new startup, has secured $10.75 million in seed funding to develop a network of laser-equipped satellites. The company aims to provide high-speed data transfer between continents, offering an alternative to traditional undersea fiber optic cables for hyperscalers and AI labs. EON plans to launch a demo satellite by late 2027, focusing on overcoming atmospheric distortion for laser communications.",
+      "enterpriseAngle": "Enterprise security and product development teams will benefit from EON's proposed high-bandwidth, dedicated data links, potentially offering more resilient and controlled data transit options for global operations and AI model deployment. This could reduce reliance on vulnerable undersea cables and open new possibilities for data center connectivity in underserved regions.",
+      "beginner": "A new company is trying to send internet data around the world using lasers from space instead of underwater cables, which could make data faster and more reliable.",
+      "advanced": "Evaluate EON's proposed laser-based satellite network for dedicated, high-throughput data center interconnects, particularly for long-haul or underserved routes, considering the atmospheric distortion mitigation strategies and the projected 2.4 Tbps initial throughput against existing fiber and competing satellite solutions like Blue Origin's TeraWave.",
+      "tags": [
+        "infrastructure",
+        "enterprise",
+        "funding",
+        "product"
+      ]
+    },
+    {
+      "id": "164b449e48bc",
+      "source": "cursor",
+      "sourceName": "Cursor",
+      "tier": "realtime",
+      "title": "Aug 4, 2026 · research Mixture-of-Kittens: our open-source MoE megakernel for NVL72s Stuart, Nash, Henry, William & Federico 28m Stuart, Nash, Henry, William & Federico · 28m",
+      "url": "https://cursor.com/blog/mixture-of-kittens",
+      "publishedAt": "2026-08-04",
+      "fetchedAt": "2026-08-04T15:29:03.291Z",
+      "contentText": null,
+      "summary": "Cursor has open-sourced Mixture-of-Kittens (MoK), a deterministic Mixture-of-Experts (MoE) training megakernel designed for NVL72 systems. MoK addresses the bottleneck of MoE layers in large language model training by fusing all communication and computation into a single kernel, significantly improving throughput. This innovation has increased end-to-end tokens per second by 1.41x in Cursor's production training stack.",
+      "enterpriseAngle": "Enterprise AI teams developing and training large-scale agentic models can leverage MoK to accelerate their training workflows, especially on NVL72 infrastructure. This optimization directly translates to faster model iteration and potentially reduced operational costs for compute-intensive AI development.",
+      "beginner": "Training large AI models can be slow, but new software like Mixture-of-Kittens helps speed up the process by making the computer's parts work together more efficiently.",
+      "advanced": "Integrate Mixture-of-Kittens into your MoE training pipelines on GB300 NVL72s to achieve up to 2.37x higher MXFP8 forward throughput and mitigate communication-computation bottlenecks by leveraging its fused kernel design and optimized CPU-GPU synchronization.",
+      "tags": [
+        "research",
+        "model-release",
+        "infrastructure",
+        "agents"
+      ]
+    },
+    {
+      "id": "0f03d6926d63",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist'",
+      "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+      "publishedAt": "2026-08-03T23:19:50.000Z",
+      "fetchedAt": "2026-08-04T15:29:04.670Z",
+      "contentText": null,
+      "summary": "Palantir CEO Alex Karp criticized leading AI labs, calling their business practices \"Marxist\" for allegedly aiming to control the means of production from their partners. Despite his strong words, Palantir reported record-breaking revenue of $1.9 billion and $1.1 billion in profit, attributing its success to the increased use of AI. Karp argued that enterprises using these AI models risk having their intellectual property absorbed, enabling AI labs to build competitive businesses that no longer require their partners.",
+      "enterpriseAngle": "Enterprises should be cautious about data governance and intellectual property when integrating third-party AI models, as some AI providers may leverage partner data to develop competing services. Security and product development teams must ensure clear data ownership and usage agreements to prevent unintended IP migration and maintain competitive advantage.",
+      "beginner": "Some big AI companies might be using your information to build their own competing products, so be careful about what data you share.",
+      "advanced": "Implement robust data governance frameworks and scrutinize AI vendor contracts for clauses related to data ownership, model training, and IP rights to mitigate the risk of competitive displacement.",
+      "tags": [
+        "enterprise",
+        "governance",
+        "product",
+        "policy"
+      ]
+    },
+    {
+      "id": "2163b413300d",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Apple is getting this wrong",
+      "url": "https://openai.com/index/apple-is-getting-this-wrong",
+      "publishedAt": "2026-08-03T22:00:00.000Z",
+      "fetchedAt": "2026-08-04T15:29:00.668Z",
+      "contentText": null,
+      "summary": "OpenAI has responded to Apple's lawsuit, refuting its claims and providing communications to support its position. The company aims to clarify the situation regarding its employees and the allegations made by Apple.",
+      "enterpriseAngle": "Enterprise legal and public relations teams should carefully manage communications during disputes, as public statements and shared documentation can significantly impact perception and legal standing.",
+      "beginner": "When big companies have a disagreement, they sometimes share their side of the story publicly to explain what happened.",
+      "advanced": "Review internal communication policies and data retention strategies to ensure defensible records are maintained for potential legal challenges.",
+      "tags": [
+        "enterprise",
+        "policy"
+      ]
+    },
     {
       "id": "06f39bba1d35",
       "source": "techcrunch-ai",
@@ -127,6 +292,27 @@
       ]
     },
     {
+      "id": "c95f020b0a6d",
+      "source": "google-ai",
+      "sourceName": "Google AI",
+      "tier": "realtime",
+      "title": "Inside our 353,000-person vibe coding course",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+      "publishedAt": "2026-08-03T15:00:00.000Z",
+      "fetchedAt": "2026-08-04T15:29:00.930Z",
+      "contentText": null,
+      "summary": "Google and Kaggle hosted a five-day online course, \"AI Agents: Intensive Vibe Coding,\" which attracted over 353,000 developers. The course focused on building and deploying AI agents using natural language, with participants collaborating on Discord and submitting over 6,000 capstone projects. All course materials are still available for self-paced learning.",
+      "enterpriseAngle": "This initiative demonstrates a scalable model for upskilling a massive workforce in advanced AI agent development, crucial for enterprises looking to integrate AI into their products and operations. The focus on natural language programming and deployment of production-grade agents directly addresses enterprise needs for efficient AI solution creation.",
+      "beginner": "Many people are learning to build AI tools using simple language, and you can too with free online courses.",
+      "advanced": "Leverage platforms like Kaggle Learn and Discord to rapidly upskill your teams in AI agent development, focusing on natural language programming and production-grade deployment strategies.",
+      "tags": [
+        "learning",
+        "workforce",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
       "id": "b6a8849c9fa0",
       "source": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -185,6 +371,26 @@
         "product",
         "infrastructure",
         "learning"
+      ]
+    },
+    {
+      "id": "54e616a32e5e",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Circles powers telco personalization with OpenAI technology",
+      "url": "https://openai.com/index/circles",
+      "publishedAt": "2026-08-03T00:00:00.000Z",
+      "fetchedAt": "2026-08-04T15:29:00.668Z",
+      "contentText": null,
+      "summary": "Circles, a telecommunications company, is leveraging OpenAI's API and Codex to enhance its AI-native services. This integration has led to a 22% increase in average revenue per user (ARPU) and a 9% reduction in customer churn.",
+      "enterpriseAngle": "Enterprises in the telecommunications sector can utilize advanced AI models to personalize customer experiences, which can directly translate into improved financial metrics like ARPU and reduced churn. This also demonstrates the potential for AI to boost development efficiency within product teams.",
+      "beginner": "AI can help companies make more money and keep customers happier by personalizing services.",
+      "advanced": "Evaluate the integration of large language models like Codex into existing product development workflows to identify opportunities for efficiency gains and direct business impact on key performance indicators such as ARPU and churn.",
+      "tags": [
+        "enterprise",
+        "product",
+        "partnership"
       ]
     },
     {

@@ -1,6 +1,172 @@
 {
-  "updatedAt": "2026-08-04T15:30:43.003Z",
+  "updatedAt": "2026-08-04T22:19:31.593Z",
   "articles": [
+    {
+      "id": "3377842032d0",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+      "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+      "publishedAt": "2026-08-04T21:07:26.000Z",
+      "fetchedAt": "2026-08-04T22:18:02.282Z",
+      "contentText": null,
+      "summary": "SpaceX has significantly increased its purchases of Tesla Megapacks, spending $329 million on the battery storage devices so far this year, with $295 million in the second quarter alone. These industrial-scale batteries are likely being deployed at xAI data centers, which merged with SpaceX earlier this year. The purchases highlight the interconnectedness of Elon Musk's various companies.",
+      "enterpriseAngle": "Enterprise AI data centers can leverage large-scale battery storage like Megapacks to manage inconsistent power demands from AI model training and inference, reducing utility costs and ensuring operational consistency. This approach helps mitigate the challenges of peak power consumption and provides critical backup power.",
+      "beginner": "Large batteries are important for AI data centers because they help keep the power steady and available, especially when AI computers need a lot of energy all at once.",
+      "advanced": "Integrate robust battery energy storage systems into AI data center infrastructure to smooth peak power demands, optimize utility costs, and ensure uninterrupted GPU operation during fluctuating workloads.",
+      "tags": [
+        "infrastructure",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "167f98deda50",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+      "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+      "publishedAt": "2026-08-04T20:05:26.000Z",
+      "fetchedAt": "2026-08-04T22:18:02.282Z",
+      "contentText": null,
+      "summary": "A recent report from SaferAI indicates that Z.ai's open-weight GLM-5.2 model is nearing the capabilities of cutting-edge AI. However, the report also highlights that this model lacks essential safety features. This situation raises concerns about the potential for powerful open models to develop faster than the necessary governance and safety measures can be put in place.",
+      "enterpriseAngle": "Enterprise security teams must prioritize robust risk assessments and implement stringent internal safeguards when considering the deployment of powerful open-weight AI models like GLM-5.2, given their reported lack of inherent safety mitigations. Product development teams should factor in the potential for misuse and the need for custom safety layers when integrating such models into their offerings.",
+      "beginner": "Some powerful AI models that are openly available are becoming very advanced but don't always have enough safety features built in.",
+      "advanced": "Evaluate the integration of open-weight models like GLM-5.2 with a focus on developing and deploying custom, layered safety protocols and continuous monitoring to address inherent mitigation gaps.",
+      "tags": [
+        "model-release",
+        "security",
+        "governance",
+        "research"
+      ]
+    },
+    {
+      "id": "cbd7ccd48977",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+      "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+      "publishedAt": "2026-08-04T19:48:40.000Z",
+      "fetchedAt": "2026-08-04T22:18:02.282Z",
+      "contentText": null,
+      "summary": "Anthropic has reportedly signed a $10 billion, six-year deal with AI cloud startup Volta to expand its compute capacity. Volta, in partnership with crypto-mining company Bitdeer, will develop a 133-megawatt data center in Norway, powered by Nvidia's Vera Rubin systems, to provide the necessary compute for Anthropic's Claude models. This agreement is part of Anthropic's broader strategy to aggressively increase its compute resources amidst competition.",
+      "enterpriseAngle": "This significant investment in cloud compute infrastructure highlights the intense competition among AI developers to scale their models, underscoring the critical need for robust, high-capacity computing resources for enterprise AI product development and deployment. Enterprise teams should assess their long-term compute needs and consider strategic partnerships or investments in infrastructure to remain competitive.",
+      "beginner": "AI companies need a lot of computing power to make their AI models work, and they are making big deals to get more of it.",
+      "advanced": "Evaluate the long-term implications of compute dependency and vendor lock-in when forming strategic cloud partnerships, particularly given the rapid evolution of AI hardware and infrastructure.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "infrastructure",
+        "funding"
+      ]
+    },
+    {
+      "id": "21a7d7856c49",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+      "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+      "publishedAt": "2026-08-04T19:34:34.000Z",
+      "fetchedAt": "2026-08-04T22:18:02.282Z",
+      "contentText": null,
+      "summary": "Wrinkles is a new AI-powered mobile app that provides audio tours and historical information about locations based on a user's real-time position. It aims to offer an immersive experience without requiring users to constantly look at their phones, allowing them to discover stories about buildings, streets, and local lore. The app generates revenue by enabling museums, tourism boards, and businesses to create location-based experiences and sponsored guides, rather than charging end-users.",
+      "enterpriseAngle": "Enterprises in tourism, hospitality, and education can leverage Wrinkles to create engaging, location-aware content and experiences for their customers and visitors without developing their own proprietary apps. This platform offers a new channel for businesses to promote their locations, services, and historical narratives, potentially increasing engagement and revenue through integrated booking and purchasing options.",
+      "beginner": "Wrinkles is like having a smart tour guide in your pocket that tells you interesting stories about the places you are walking past, all without you having to look at your phone.",
+      "advanced": "Evaluate Wrinkles as a potential platform for delivering context-aware, geo-fenced content and interactive experiences, exploring its API or partnership opportunities for integrating existing enterprise data or creating new revenue streams through location-based storytelling and commerce.",
+      "tags": [
+        "product",
+        "enterprise",
+        "partnership",
+        "consumer"
+      ]
+    },
+    {
+      "id": "30e8185e86cb",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Nvidia doesn't mess around: A week after open AI industry group formed, it's already showing progress",
+      "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+      "publishedAt": "2026-08-04T19:28:49.000Z",
+      "fetchedAt": "2026-08-04T22:18:02.282Z",
+      "contentText": null,
+      "summary": "The Open Secure AI Alliance (OSAA), led by Nvidia and comprising over 120 companies, has quickly established a working group called the Shared AI Findings Exchange (SAFE). This group is already proposing guidelines for confidentially reporting AI cybersecurity incidents, alerting affected parties, and conducting blame-free analysis. Additionally, OSAA members are contributing open-source technology to potentially secure AI agents and defend against rogue AI attackers.",
+      "enterpriseAngle": "Enterprise security and product development teams can benefit from the OSAA's efforts to standardize AI cybersecurity incident response and develop open-source tools for securing AI agents and defending against AI-based threats. The contributions from companies like Nvidia, Okta, Red Hat, and Amazon offer a foundation for building more secure AI systems and practices within organizations.",
+      "beginner": "A new group of tech companies is working together to create rules and tools to make artificial intelligence safer and more secure, especially when AI systems are attacked or misused.",
+      "advanced": "Leverage the OSAA's proposed guidelines for AI cybersecurity incident response and explore integrating contributed open-source technologies like Nvidia's Garak, Okta's agent identity tech, Red Hat's agent governance, and Amazon's Strands Agents and Cedar into your enterprise AI security architecture.",
+      "tags": [
+        "security",
+        "enterprise",
+        "partnership",
+        "governance"
+      ]
+    },
+    {
+      "id": "977f60f7e5e3",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "publishedAt": "2026-08-04T19:00:00.000Z",
+      "fetchedAt": "2026-08-04T22:17:59.971Z",
+      "contentText": null,
+      "summary": "OpenAI has addressed recent cybersecurity evaluation incidents involving its AI models. The company is implementing new safeguards to enhance the testing and evaluation processes for its AI models.",
+      "enterpriseAngle": "Enterprise security teams should note OpenAI's commitment to strengthening AI model testing, which could lead to more robust and secure AI integrations in business applications.",
+      "beginner": "OpenAI is working to make its AI models safer by improving how they are tested for cyber threats.",
+      "advanced": "Integrate findings from OpenAI's enhanced model evaluations into your enterprise's AI risk management framework to better assess and mitigate potential vulnerabilities.",
+      "tags": [
+        "security",
+        "model-release",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "3cd0cbb150ad",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "Tino Cuellar joins Anthropic as Chief Global Affairs Officer",
+      "url": "https://www.anthropic.com/news/tino-cuellar",
+      "publishedAt": "2026-08-04T17:40:15.000Z",
+      "fetchedAt": "2026-08-04T22:17:58.873Z",
+      "contentText": null,
+      "summary": "Mariano-Florentino (Tino) Cuéllar has been appointed as Anthropic's first Chief Global Affairs Officer. In this role, he will lead the company's efforts in policy, international engagement, and government relations globally. Cuéllar brings extensive experience from law, technology, international security, and public institutions, including serving as a Justice of the Supreme Court of California and President of the Carnegie Endowment for International Peace.",
+      "enterpriseAngle": "Enterprises developing advanced AI models are increasingly focusing on global policy and governance, recognizing the need to proactively engage with governments and international bodies to shape regulations and ensure responsible deployment. This appointment signals Anthropic's commitment to navigating complex geopolitical landscapes and influencing AI policy worldwide, which is crucial for market access and public trust.",
+      "beginner": "Anthropic hired a new executive to help them work with governments and international groups to make sure AI is developed and used responsibly around the world.",
+      "advanced": "Leverage Cuéllar's appointment as an indicator of Anthropic's strategic intent to influence global AI governance frameworks; security and product teams should anticipate evolving international policy landscapes and integrate proactive compliance and ethical AI development into their roadmaps.",
+      "tags": [
+        "enterprise",
+        "policy",
+        "governance",
+        "workforce"
+      ],
+      "dateChecked": true
+    },
+    {
+      "id": "348dcb3ebce9",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Spotify expands AI remix and covers project with Merlin partnership",
+      "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+      "publishedAt": "2026-08-04T15:50:06.000Z",
+      "fetchedAt": "2026-08-04T22:18:02.282Z",
+      "contentText": null,
+      "summary": "Spotify is expanding its AI-powered remix and covers product by partnering with Merlin, a company representing over 30,000 independent labels and distributors. This new paid tool will allow fans to generate AI covers and remixes of music from participating artists. The initiative ensures artists opt-in, receive proper credit, and are compensated for the use of their work.",
+      "enterpriseAngle": "This partnership highlights the growing trend of enterprises leveraging AI for creative content generation while navigating intellectual property and compensation challenges. Enterprise product teams should consider similar opt-in and fair compensation models when developing AI tools that utilize creators' work.",
+      "beginner": "Spotify is creating a new tool that uses AI to let people make their own versions of songs, but only if the original artists agree and get paid.",
+      "advanced": "Implement robust consent frameworks and transparent royalty distribution mechanisms when integrating generative AI features that leverage third-party intellectual property to ensure artist buy-in and mitigate legal risks.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "product"
+      ]
+    },
     {
       "id": "1d4e5617f724",
       "source": "techcrunch-ai",
@@ -103,6 +269,26 @@
         "enterprise",
         "funding",
         "product"
+      ]
+    },
+    {
+      "id": "b274d6785ee9",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "New ways to learn and teach with ChatGPT Work and Codex",
+      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+      "publishedAt": "2026-08-04T00:00:00.000Z",
+      "fetchedAt": "2026-08-04T22:17:59.971Z",
+      "contentText": null,
+      "summary": "OpenAI has introduced new education plugins for ChatGPT Work and Codex. These plugins are designed to support K-12 teachers, college educators, and students in various educational activities.",
+      "enterpriseAngle": "Enterprise product development teams can explore integrating these educational plugins into their own learning platforms or tools to enhance training and development programs.",
+      "beginner": "New tools are available for ChatGPT that can help students and teachers with learning and research.",
+      "advanced": "Evaluate the new education plugins for ChatGPT Work and Codex to identify potential applications for internal training, knowledge management, and collaborative research initiatives within your organization.",
+      "tags": [
+        "product",
+        "learning",
+        "enterprise"
       ]
     },
     {

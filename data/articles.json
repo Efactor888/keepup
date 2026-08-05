@@ -1,6 +1,90 @@
 {
-  "updatedAt": "2026-08-04T22:19:31.593Z",
+  "updatedAt": "2026-08-05T15:21:24.024Z",
   "articles": [
+    {
+      "id": "9c21f3501190",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
+      "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
+      "publishedAt": "2026-08-05T15:05:00.000Z",
+      "fetchedAt": "2026-08-05T15:20:38.602Z",
+      "contentText": null,
+      "summary": "TechCrunch Disrupt 2026 will feature a new \"Real World AI Stage\" focusing on the intersection of AI with the physical world, including autonomous hardware, defense technologies, and de-extinction efforts. The event, held in San Francisco from October 13-15, will explore challenges like building reliable AI systems where failure is critical, operating AI at the edge, and scaling deep tech from prototype to production.",
+      "enterpriseAngle": "Enterprise product development and security teams will gain insights into building robust AI systems for critical physical applications, navigating regulatory hurdles, and deploying AI effectively in environments with limited connectivity and high stakes.",
+      "beginner": "AI is moving beyond just software to control physical things like robots and vehicles, which brings new challenges for making sure it works safely and reliably.",
+      "advanced": "When designing AI for real-world deployment, prioritize architectural principles that address latency, limited connectivity, and fault tolerance, while also establishing a strong safety culture and clear validation processes to meet regulatory and trust requirements.",
+      "tags": [
+        "enterprise",
+        "product",
+        "infrastructure",
+        "governance"
+      ]
+    },
+    {
+      "id": "6716d33c74e9",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Anthropic is hiring an AI chip design team",
+      "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+      "publishedAt": "2026-08-05T14:13:18.000Z",
+      "fetchedAt": "2026-08-05T15:20:38.602Z",
+      "contentText": null,
+      "summary": "Anthropic, the creator of the Claude AI model, is establishing a team to design its own custom AI chips. This move aims to enhance the speed and efficiency of its technology by co-designing hardware and models. The decision comes as Anthropic faces increasing demand for Claude and seeks to scale beyond reliance on existing AI computing hardware providers.",
+      "enterpriseAngle": "Enterprises developing AI models may need to consider vertical integration into hardware design to optimize performance and meet scaling demands, rather than solely relying on third-party chip manufacturers. This strategy could lead to more efficient and cost-effective AI deployments in the long run.",
+      "beginner": "AI companies are starting to build their own specialized computer chips to make their AI models work better and faster.",
+      "advanced": "Evaluate the long-term cost-benefit of custom silicon development for your organization's specific AI workloads, considering the potential for performance gains and reduced operational expenditures versus the significant upfront investment and specialized talent acquisition required.",
+      "tags": [
+        "enterprise",
+        "hardware",
+        "infrastructure",
+        "product"
+      ]
+    },
+    {
+      "id": "c2ae90aa7691",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
+      "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
+      "publishedAt": "2026-08-05T12:28:38.000Z",
+      "fetchedAt": "2026-08-05T15:20:38.602Z",
+      "contentText": null,
+      "summary": "MacPaw, a Ukrainian app developer, is partnering with Liquid AI to integrate locally hosted AI models into its products and eventually offer this technology to developers building for its SetApp app store. This collaboration aims to provide on-device inference and local memory systems, enhancing privacy, security, and offline functionality for AI applications. MacPaw also plans to introduce credit-based pricing for AI app usage within SetApp and offer access to various cloud models.",
+      "enterpriseAngle": "Enterprise product development teams can leverage on-device AI inference for enhanced data privacy, reduced latency, and offline capabilities, which are critical for applications handling sensitive information or operating in environments with limited connectivity. This partnership also highlights a trend towards providing developers with flexible AI infrastructure, combining local and cloud-based model access.",
+      "beginner": "Some apps will soon be able to use AI directly on your device, making them faster, more private, and able to work even without internet.",
+      "advanced": "Evaluate the integration of on-device inference systems like Liquid AI's Elix to enhance data sovereignty and operational resilience for enterprise applications, particularly those requiring real-time processing or operating in edge environments.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "product",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "b0846dadd572",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+      "url": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
+      "publishedAt": "2026-08-05T11:00:00.000Z",
+      "fetchedAt": "2026-08-05T15:20:38.602Z",
+      "contentText": null,
+      "summary": "WindBorne Systems, a startup utilizing long-flying weather balloons and AI for enhanced weather forecasting, has secured $37 million in Series B funding, valuing the company at $250 million. The company's unique data collection, combined with AI models, allows for more accurate forecasts than traditional methods, which was previously only possible with supercomputers. WindBorne aims to expand its commercial customer base beyond government agencies, leveraging AI to make weather data more accessible and valuable for business decision-making.",
+      "enterpriseAngle": "Enterprises can leverage advanced AI-driven weather forecasting to optimize operations, predict commodity prices, and inform strategic business decisions, especially in sectors sensitive to weather patterns. The ability to integrate complex weather data into business workflows more easily due to AI tools presents new opportunities for efficiency and risk management.",
+      "beginner": "AI is making weather predictions much better and more accessible, allowing companies to use this information for various business decisions without needing expensive supercomputers.",
+      "advanced": "Evaluate the integration of proprietary AI-driven weather models and unique data sets, like those from WindBorne, into your enterprise's predictive analytics frameworks to gain a competitive edge in weather-sensitive operations and market forecasting.",
+      "tags": [
+        "funding",
+        "product",
+        "enterprise",
+        "infrastructure"
+      ]
+    },
     {
       "id": "3377842032d0",
       "source": "techcrunch-ai",
@@ -165,6 +249,26 @@
         "enterprise",
         "partnership",
         "product"
+      ]
+    },
+    {
+      "id": "ef7bfb0519ac",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Texas halts new data centers as governor calls for audits",
+      "url": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
+      "publishedAt": "2026-08-04T15:42:35.000Z",
+      "fetchedAt": "2026-08-05T15:20:38.602Z",
+      "contentText": null,
+      "summary": "Texas has paused the construction of new data centers, a move that comes after tech companies were attracted to the state by its relaxed regulations and perceived ample power supply. This halt suggests that even Texas's resources are being strained by the demand for data center infrastructure.",
+      "enterpriseAngle": "Enterprise product teams planning infrastructure expansion in Texas may face delays and increased scrutiny due to the new moratorium and potential audits. This situation highlights the importance of evaluating regional infrastructure stability and regulatory environments when selecting data center locations.",
+      "beginner": "States like Texas are finding it harder to support the huge power needs of new data centers, leading them to stop or slow down construction.",
+      "advanced": "Re-evaluate your organization's data center expansion strategy, considering the increasing regulatory and resource constraints in previously favorable regions like Texas, and explore diversified geographic infrastructure investments.",
+      "tags": [
+        "infrastructure",
+        "policy",
+        "enterprise"
       ]
     },
     {

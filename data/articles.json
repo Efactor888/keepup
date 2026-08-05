@@ -1,6 +1,111 @@
 {
-  "updatedAt": "2026-08-05T15:21:24.024Z",
+  "updatedAt": "2026-08-05T22:17:07.893Z",
   "articles": [
+    {
+      "id": "48c7edfbf2c0",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Meta launches Muse Code, an AI agent for large code bases",
+      "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+      "publishedAt": "2026-08-05T21:21:28.000Z",
+      "fetchedAt": "2026-08-05T22:16:13.238Z",
+      "contentText": null,
+      "summary": "Meta has launched Muse Code, a new AI agent designed to help programmers with complex tasks across large code bases. This agent, powered by Meta's Muse Spark model, can plan changes, write code, and validate results, even handling multiple features simultaneously without conflicts. Muse Code is currently in beta and aims to offer a competitive and cost-effective solution compared to other AI coding agents.",
+      "enterpriseAngle": "Enterprise software development teams can leverage Muse Code to automate and accelerate complex coding tasks across large repositories, potentially improving efficiency and reducing development costs. The agent's ability to manage parallel sub-agents for large projects could streamline workflows and minimize integration issues.",
+      "beginner": "Meta has created a new AI tool called Muse Code that helps computer programmers write and manage large amounts of code more easily and affordably.",
+      "advanced": "Evaluate Muse Code's beta for integration into your CI/CD pipeline to automate large-scale refactoring, feature development, and validation across isolated worktrees, leveraging its parallel sub-agent architecture for efficiency gains.",
+      "tags": [
+        "agents",
+        "coding",
+        "product",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "f8b2b7a3d4cd",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+      "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+      "publishedAt": "2026-08-05T20:05:00.000Z",
+      "fetchedAt": "2026-08-05T22:16:13.238Z",
+      "contentText": null,
+      "summary": "Klaviyo, an e-commerce marketing automation platform, has acquired Agency, an AI-powered customer success startup, for an undisclosed sum. Agency's founder, Elias Torres, will join Klaviyo as chief product officer, leading his team to enhance Klaviyo's AI agents for marketing campaigns and post-sale support. This acquisition reunites Torres with Klaviyo CEO Andrew Bialecki, whom Torres mentored early in their careers.",
+      "enterpriseAngle": "This acquisition allows Klaviyo to integrate advanced AI agents for customer success and marketing automation, potentially offering enterprise clients more sophisticated tools for customer engagement and support. Product development teams can observe how combining specialized AI startups with established platforms can accelerate feature expansion and market reach.",
+      "beginner": "A big company bought a smaller company that makes AI tools to help customers, and the founder of the smaller company is now in charge of products at the bigger company.",
+      "advanced": "Evaluate the strategic implications of integrating Agency's AI-powered customer success capabilities with Klaviyo's existing marketing automation platform to identify potential synergies and competitive advantages in the enterprise AI agent market.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "product",
+        "agents"
+      ]
+    },
+    {
+      "id": "1979ddc0566e",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+      "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+      "publishedAt": "2026-08-05T19:30:19.000Z",
+      "fetchedAt": "2026-08-05T22:16:13.238Z",
+      "contentText": null,
+      "summary": "Jeff Dean, a long-time Google executive and key figure in its AI development, is leaving the company along with several other top researchers to launch a new AI startup called Discovery Loop. This public benefit corporation aims to accelerate scientific research by using advanced AI to automate experimental processes and potentially create more powerful AI systems. Discovery Loop has secured initial funding from various sources, including Google's parent company Alphabet, Radical Ventures, and Khosla Ventures.",
+      "enterpriseAngle": "Enterprise product development and R&D teams could leverage Discovery Loop's approach to significantly reduce the time and cost associated with experimental iterations, accelerating innovation cycles across various scientific and engineering domains. This also highlights a growing trend of top AI talent departing established tech giants to pursue specialized ventures, potentially leading to new enterprise-grade tools and services.",
+      "beginner": "Top AI experts from Google are starting a new company to use AI to make scientific discoveries much faster.",
+      "advanced": "Evaluate the potential for integrating Discovery Loop's automated experimental loop methodologies into existing enterprise R&D pipelines to optimize resource allocation and accelerate time-to-insight for complex scientific and engineering challenges.",
+      "tags": [
+        "research",
+        "enterprise",
+        "funding",
+        "product"
+      ]
+    },
+    {
+      "id": "4318a91a18d8",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+      "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
+      "publishedAt": "2026-08-05T15:56:14.000Z",
+      "fetchedAt": "2026-08-05T22:16:13.238Z",
+      "contentText": null,
+      "summary": "Shopify reports that AI search is significantly boosting traffic and sales for its merchants, particularly benefiting smaller businesses by acting as a complement to traditional search rather than a replacement. The company attributes its strong second-quarter earnings, with revenue up 36% to $3.6 billion, partly to this AI-driven growth. AI agents' ability to understand specific buyer intent beyond keywords and search across multiple product dimensions leads to better product matches and higher conversion rates.",
+      "enterpriseAngle": "Enterprise product development teams should focus on integrating AI agents that can interpret complex user intent and leverage rich, structured data to deliver highly personalized results, as this approach has proven to drive significant traffic and sales for e-commerce platforms. Security teams should ensure that these AI integrations and data exchanges are robustly protected to maintain customer trust and prevent data breaches.",
+      "beginner": "AI search helps shoppers find exactly what they need by understanding their specific requests better than traditional keyword searches, leading to more successful purchases.",
+      "advanced": "Leverage AI agents to perform multi-dimensional searches against product catalogs, focusing on intent-based matching rather than keyword popularity, to compress buyer journeys and increase direct-to-product page conversions, especially for long-tail inventory.",
+      "tags": [
+        "enterprise",
+        "product",
+        "agents",
+        "consumer"
+      ]
+    },
+    {
+      "id": "d088fab015ca",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Hark previews its browser use agent for completing tasks",
+      "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
+      "publishedAt": "2026-08-05T15:46:27.000Z",
+      "fetchedAt": "2026-08-05T22:16:13.238Z",
+      "contentText": null,
+      "summary": "Hark, a startup that recently secured $700 million in funding, has launched Hark Handoff, a browser-based AI agent designed to automate tasks on websites without official APIs. This agent can navigate various sites like Target and LinkedIn by analyzing their structure and visual data to perform actions such as ordering food, booking travel, or shopping. Hark claims its model predicts specific actions like clicks or keyboard inputs and is faster and more cost-effective than competing models.",
+      "enterpriseAngle": "Enterprise product development teams can leverage browser-use agents like Hark Handoff to automate complex workflows on legacy systems or third-party platforms lacking APIs, improving operational efficiency and reducing manual intervention. Security teams should evaluate the data handling and access permissions of such agents to ensure compliance and prevent potential data leakage when interacting with sensitive enterprise applications.",
+      "beginner": "AI agents are like smart assistants that can use your web browser to do things for you, even on websites that aren't designed for them.",
+      "advanced": "Investigate Hark Handoff's post-trained model architecture and data pipeline for potential integration into enterprise automation strategies, focusing on its claimed efficiency and cost-effectiveness compared to LLM-based action prediction.",
+      "tags": [
+        "agents",
+        "product",
+        "enterprise",
+        "funding"
+      ]
+    },
     {
       "id": "9c21f3501190",
       "source": "techcrunch-ai",
@@ -2191,6 +2296,27 @@
         "enterprise",
         "coding",
         "product"
+      ]
+    },
+    {
+      "id": "b8394cc62e9f",
+      "source": "cursor",
+      "sourceName": "Cursor",
+      "tier": "realtime",
+      "title": "How Vercel used Cursor to build Queues Jul 28, 2026",
+      "url": "https://cursor.com/blog/vercel",
+      "publishedAt": "2026-07-28",
+      "fetchedAt": "2026-08-05T22:16:12.476Z",
+      "contentText": null,
+      "summary": "Vercel used Cursor, an AI coding agent platform, to develop its new infrastructure product, Vercel Queues. This collaboration led to significant improvements in developer productivity, including a 54% increase in pull request throughput and an 89% decrease in pull request cycle time for power users. The platform's ability to manage context, switch models, and integrate with development workflows was key to its success.",
+      "enterpriseAngle": "Enterprise development teams can leverage AI coding agents like Cursor to accelerate product development, reduce engineering resource allocation per feature, and empower non-engineering roles like product managers to contribute to technical tasks. The focus on robust context management and end-to-end testing capabilities within real environments offers a path to higher quality and faster iteration cycles for complex infrastructure projects.",
+      "beginner": "AI tools can help software developers write and test code much faster, making it easier to build new products.",
+      "advanced": "Evaluate AI coding agent platforms for their context management capabilities, integrated review experiences, and ability to perform end-to-end testing against production environments to maximize developer throughput and reduce PR cycle times.",
+      "tags": [
+        "enterprise",
+        "product",
+        "coding",
+        "infrastructure"
       ]
     },
     {

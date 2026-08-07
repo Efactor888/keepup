@@ -1,6 +1,90 @@
 {
-  "updatedAt": "2026-08-06T15:22:07.644Z",
+  "updatedAt": "2026-08-07T01:02:48.787Z",
   "articles": [
+    {
+      "id": "a64b97947ab5",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "OpenAI's new AI smart speaker will reportedly sell for between $300 and $400",
+      "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+      "publishedAt": "2026-08-06T22:43:53.000Z",
+      "fetchedAt": "2026-08-07T01:01:36.903Z",
+      "contentText": null,
+      "summary": "OpenAI's upcoming AI smart speaker, described as a \"physical manifestation\" of ChatGPT, is expected to be donut-shaped, made of high-quality metal, and feature \"moving parts.\" This device, developed in partnership with Jony Ive's LoveFrom, is projected to cost between $300 and $400 and is anticipated for release in 2027. OpenAI is also currently facing a trade secret lawsuit from Apple regarding its entry into the hardware market.",
+      "enterpriseAngle": "Enterprises considering integrating AI hardware into their operations should note the potential for higher price points and market entry challenges, as well as the importance of intellectual property considerations given the ongoing lawsuit.",
+      "beginner": "OpenAI is making a new smart speaker that uses AI, similar to ChatGPT, but it might be more expensive than other smart speakers.",
+      "advanced": "Evaluate the strategic implications of OpenAI's hardware foray, considering the potential for vertical integration of AI services and the competitive landscape challenges, including intellectual property disputes.",
+      "tags": [
+        "product",
+        "hardware",
+        "enterprise",
+        "partnership"
+      ]
+    },
+    {
+      "id": "9806ed34b85d",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "ChatGPT brings unlimited text chats to free users",
+      "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+      "publishedAt": "2026-08-06T17:34:42.000Z",
+      "fetchedAt": "2026-08-07T01:01:36.903Z",
+      "contentText": null,
+      "summary": "OpenAI is removing text chat limits for all ChatGPT users, powered by the new GPT-5.6 Luna model for free users and GPT-5.6 Sol for paid subscribers. Both free and paid tiers will receive new features, including a \"Think\" button or slider to adjust the model's reasoning power for complex queries. Internal evaluations indicate a significant reduction in factual errors with the new models compared to the previous GPT-5.5-Instant.",
+      "enterpriseAngle": "Enterprise product development teams can leverage the improved factual accuracy and adjustable reasoning power of GPT-5.6 models to build more reliable and sophisticated AI applications. Security teams should note the enhanced model capabilities, which could impact data processing and output quality in enterprise-grade solutions.",
+      "beginner": "ChatGPT is making it easier for everyone to use its text chat features without limits, and the AI models are getting smarter and more accurate.",
+      "advanced": "Integrate the new GPT-5.6 Sol model with its adjustable 'thinking slider' into enterprise applications to fine-tune response complexity and accuracy for diverse business use cases, while monitoring for potential shifts in model behavior and output consistency.",
+      "tags": [
+        "model-release",
+        "product",
+        "enterprise",
+        "consumer"
+      ]
+    },
+    {
+      "id": "6d747706c4ee",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
+      "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
+      "publishedAt": "2026-08-06T17:00:37.000Z",
+      "fetchedAt": "2026-08-07T01:01:36.903Z",
+      "contentText": null,
+      "summary": "Naïve has secured $28.5 million in Series A funding to expand its AI infrastructure, which allows AI agents to automate much of the work involved in setting up and operating a business. The platform simplifies tasks like company incorporation, setting up payments, and managing cloud infrastructure through a single API. Naïve is also developing solutions to optimize the operational costs of running AI agents, addressing a significant expense for businesses utilizing autonomous systems.",
+      "enterpriseAngle": "Enterprise product development teams can leverage Naïve's infrastructure to rapidly prototype and deploy AI-driven business processes, while security teams will need to implement robust governance and approval workflows to manage agent capabilities and sensitive actions. The focus on optimizing inference costs and serverless agent deployment could significantly reduce operational expenditures for enterprises running large-scale AI agent deployments.",
+      "beginner": "Naïve helps businesses use AI to handle the boring parts of starting and running a company, like setting up email and payments, so people can focus on more important work.",
+      "advanced": "Evaluate Naïve's model routing, memory system, and serverless runtime for potential integration to optimize inference costs and improve agent efficiency in your autonomous business operations.",
+      "tags": [
+        "funding",
+        "agents",
+        "infrastructure",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "4e253b0f1876",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
+      "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
+      "publishedAt": "2026-08-06T15:53:03.000Z",
+      "fetchedAt": "2026-08-07T01:01:36.903Z",
+      "contentText": null,
+      "summary": "Ditto, a new dating app, is gaining traction among Gen Z by replacing traditional swiping with an AI-powered matchmaking system. Users text an AI chatbot their preferences, and the system aims to match individuals based on deeper personality traits rather than superficial interests. Every Wednesday, users receive a match with a pre-arranged time and location for a date.",
+      "enterpriseAngle": "For enterprise product development teams, Ditto's success highlights the potential of AI to move beyond surface-level data for more nuanced user matching and experience personalization. Security teams should note the inherent vetting provided by .edu email verification in the college-only phase, but also consider the challenges of scaling such verification and ensuring user safety as the platform expands.",
+      "beginner": "AI is being used in new dating apps to help people find better matches by understanding their personalities, not just their hobbies.",
+      "advanced": "Explore implementing AI-driven behavioral analysis for user segmentation and predictive matching in your product, while simultaneously developing robust identity verification and safety protocols for scalable growth beyond initial closed environments.",
+      "tags": [
+        "product",
+        "agents",
+        "consumer",
+        "enterprise"
+      ]
+    },
     {
       "id": "abb6acf96aa9",
       "source": "techcrunch-ai",
@@ -145,6 +229,66 @@
         "funding",
         "product",
         "agents"
+      ]
+    },
+    {
+      "id": "0f0c1961f93e",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "publishedAt": "2026-08-06T10:00:00.000Z",
+      "fetchedAt": "2026-08-07T01:01:35.228Z",
+      "contentText": null,
+      "summary": "ChatGPT has enhanced its GPT-5.6 Sol model, leading to greater accuracy and consistency in responses. Additionally, free users now have broader access to GPT-5.6 Luna, including unlimited daily chats.",
+      "enterpriseAngle": "Enterprise product development teams can leverage the improved GPT-5.6 Sol for more reliable AI-powered applications, while the expanded free access to GPT-5.6 Luna could drive wider adoption and user familiarity with advanced AI capabilities.",
+      "beginner": "ChatGPT is making its AI models smarter and more available, even for people who use it for free.",
+      "advanced": "Evaluate the updated GPT-5.6 Sol's performance metrics for accuracy and consistency to inform its integration into enterprise-grade applications requiring high reliability.",
+      "tags": [
+        "product",
+        "model-release",
+        "consumer"
+      ]
+    },
+    {
+      "id": "6da5f2d271da",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Working with the American Psychological Association on youth mental health and AI",
+      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+      "publishedAt": "2026-08-06T06:00:00.000Z",
+      "fetchedAt": "2026-08-07T01:01:35.228Z",
+      "contentText": null,
+      "summary": "OpenAI and the American Psychological Association (APA) are collaborating to develop evidence-based guidance, resources, and safeguards. Their joint effort focuses on promoting responsible AI use, particularly concerning youth mental health.",
+      "enterpriseAngle": "Enterprises developing AI products for younger users or in mental health contexts should monitor this partnership for emerging best practices and regulatory guidance. This collaboration could influence future standards for AI safety and ethical deployment in sensitive areas.",
+      "beginner": "AI companies are working with experts to make sure their technology is safe and helpful for young people's mental well-being.",
+      "advanced": "Integrate forthcoming evidence-based guidelines from the OpenAI-APA partnership into your AI product development lifecycle, especially for applications impacting youth or mental health, to proactively address ethical and safety considerations.",
+      "tags": [
+        "partnership",
+        "governance",
+        "product"
+      ]
+    },
+    {
+      "id": "fea9ae47ebf2",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "From asking to doing: How the world is putting ChatGPT to work",
+      "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+      "publishedAt": "2026-08-06T00:00:00.000Z",
+      "fetchedAt": "2026-08-07T01:01:35.228Z",
+      "contentText": null,
+      "summary": "New data from OpenAI, called OpenAI Signals, provides insights into how ChatGPT is being used globally. This data includes country-specific information on adoption rates, usage patterns, and changes in user behavior.",
+      "enterpriseAngle": "Enterprise product teams can leverage these country-level usage trends to tailor their AI integrations and product strategies for different markets, optimizing for local adoption and user engagement.",
+      "beginner": "People around the world are using ChatGPT in many different ways, and OpenAI is tracking how this technology is being adopted.",
+      "advanced": "Analyze OpenAI Signals data to identify regional variations in ChatGPT usage and adapt product localization strategies to align with observed behavioral trends and adoption rates.",
+      "tags": [
+        "product",
+        "consumer",
+        "research"
       ]
     },
     {

@@ -1,6 +1,128 @@
 {
-  "updatedAt": "2026-08-07T14:16:02.065Z",
+  "updatedAt": "2026-08-07T21:47:59.882Z",
   "articles": [
+    {
+      "id": "4c08905f6bd0",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+      "publishedAt": "2026-08-07T21:30:11.000Z",
+      "fetchedAt": "2026-08-07T21:47:06.269Z",
+      "contentText": null,
+      "summary": "Rippling, an HR software provider, developed an \"AI Spend Console\" to help companies track and manage their AI expenditures after experiencing a significant increase in its own AI token spending. The tool monitors individual employee and team AI usage, linking it to productivity to identify inefficient spending. Rippling successfully reduced its AI token costs by routing prompts to more cost-effective models and implementing internal governance.",
+      "enterpriseAngle": "Enterprises can leverage AI Spend Console to gain visibility into AI consumption across their workforce, optimize model selection for cost-efficiency, and ensure that AI investments translate into measurable productivity gains, preventing runaway expenses.",
+      "beginner": "Companies are creating tools to help other businesses understand and control how much money their employees spend using AI, making sure the AI use is actually helpful.",
+      "advanced": "Implement an AI gateway with dynamic routing capabilities to optimize model selection based on task requirements and cost, and integrate AI spend analytics with performance metrics to drive accountable AI adoption across departments.",
+      "tags": [
+        "enterprise",
+        "product",
+        "governance",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "b0e67e927266",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "publishedAt": "2026-08-07T16:16:09.000Z",
+      "fetchedAt": "2026-08-07T21:47:06.269Z",
+      "contentText": null,
+      "summary": "Cloudflare has introduced Kitesurf, a new cloud-hosted browser specifically designed for AI agents. This browser is optimized to use less computing power compared to Chromium for typical automation tasks. Its purpose is to help developers create browser-based AI agents more efficiently.",
+      "enterpriseAngle": "Enterprise product development teams can leverage Kitesurf to build and deploy AI agents that interact with web applications more cost-effectively and with greater efficiency, potentially reducing infrastructure costs for automation. This tool could streamline the development of AI-powered workflows that require browser interaction.",
+      "beginner": "Cloudflare made a special web browser for AI programs, making it easier and cheaper for them to do tasks online.",
+      "advanced": "Evaluate Kitesurf for integrating browser-based AI agents into existing automation pipelines to optimize resource consumption and accelerate development cycles for web-centric AI applications.",
+      "tags": [
+        "product",
+        "agents",
+        "enterprise",
+        "coding"
+      ]
+    },
+    {
+      "id": "833934ee3b25",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "publishedAt": "2026-08-07T15:20:00.000Z",
+      "fetchedAt": "2026-08-07T21:47:03.377Z",
+      "contentText": null,
+      "summary": "OpenAI is releasing initial cybersecurity evaluations for its Astra model. The company is also implementing measures to enhance safeguards and security controls for this new model.",
+      "enterpriseAngle": "Enterprise security teams should monitor the evolving security evaluations and safeguards for new AI models like Astra to understand potential risks and necessary protective measures for their systems.",
+      "beginner": "New AI models are being checked for security, and companies are adding protections to keep them safe.",
+      "advanced": "Integrate findings from preliminary cybersecurity evaluations of models like Astra into your threat modeling and risk assessments for AI deployments, prioritizing the implementation of enhanced security controls.",
+      "tags": [
+        "security",
+        "model-release"
+      ]
+    },
+    {
+      "id": "35a4da0ba450",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+      "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+      "publishedAt": "2026-08-07T14:22:49.000Z",
+      "fetchedAt": "2026-08-07T21:47:06.269Z",
+      "contentText": null,
+      "summary": "Airbnb is significantly accelerating its product development by using AI, reducing the time from concept to launch by 60% and increasing new features shipped by 80% compared to the previous year. The company is also testing a new AI-powered search function that allows natural language queries and provides visual, personalized results. Additionally, Airbnb's AI customer support bot now resolves 45% of issues without human intervention, leading to a 16% reduction in support costs per booking.",
+      "enterpriseAngle": "Enterprise product development and customer support teams can leverage AI to dramatically improve efficiency, reduce time-to-market for new features, and lower operational costs, as demonstrated by Airbnb's success in coding, feature conceptualization, and customer issue resolution.",
+      "beginner": "AI is helping companies like Airbnb build new features much faster and improve customer service, making their products better and more efficient.",
+      "advanced": "Implement AI-driven code generation and natural language search capabilities within your product development pipeline and customer support systems to achieve significant reductions in development cycles and support costs.",
+      "tags": [
+        "enterprise",
+        "product",
+        "coding",
+        "agents"
+      ]
+    },
+    {
+      "id": "bf5795aa70d5",
+      "source": "deepmind",
+      "sourceName": "Google DeepMind",
+      "tier": "realtime",
+      "title": "See what 5 builders are making with Gemini Omni",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-builders/",
+      "publishedAt": "2026-08-07T14:00:00.000Z",
+      "fetchedAt": "2026-08-07T21:47:03.752Z",
+      "contentText": null,
+      "summary": "Google's new AI model, Gemini Omni, simplifies video creation and editing, allowing users to generate and modify videos through conversational commands. It can alter camera angles, swap objects, and animate sketches into realistic scenes. Omni's understanding of physics and real-world knowledge helps produce natural and smooth video outputs.",
+      "enterpriseAngle": "Enterprise product development teams can leverage Gemini Omni to rapidly prototype video content for marketing, training, and design proposals, significantly reducing production time and costs. Security teams should consider the implications of AI-generated content for deepfakes and misinformation, and implement robust content verification and ethical AI guidelines.",
+      "beginner": "Gemini Omni is an AI tool that makes creating and editing videos as easy as talking to it, even letting you turn drawings into animations.",
+      "advanced": "Explore integrating Gemini Omni via the Gemini API or Gemini Enterprise Agent Platform to automate dynamic video content generation and editing workflows, focusing on use cases like personalized marketing videos or interactive training modules.",
+      "tags": [
+        "model-release",
+        "product",
+        "enterprise",
+        "coding"
+      ]
+    },
+    {
+      "id": "68ac6cb57e2b",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley's leaders are bad sci-fi readers",
+      "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
+      "publishedAt": "2026-08-07T14:00:00.000Z",
+      "fetchedAt": "2026-08-07T21:47:06.269Z",
+      "contentText": null,
+      "summary": "Historian Jill Lepore suggests that tech companies frequently use grand, governmental language to describe their products, a phenomenon she explores in her upcoming book, \"The Rise and Fall of the Artificial State.\" She posits that this tendency, exemplified by phrases like \"town hall in your pocket\" or \"Claude constitution,\" reflects a particular mindset within Silicon Valley.",
+      "enterpriseAngle": "Enterprise product and marketing teams should be mindful of the language used to describe AI products, as overly ambitious or governmental framing can be perceived negatively and may not resonate with a discerning audience.",
+      "beginner": "Some tech companies use big words to make their products sound like they are creating new societies, which a historian thinks is a strange way to talk about technology.",
+      "advanced": "Evaluate product messaging for any language that might inadvertently evoke governance or state-like structures, ensuring it aligns with genuine product capabilities and avoids potential misinterpretations or criticisms regarding corporate overreach.",
+      "tags": [
+        "product",
+        "governance"
+      ]
+    },
     {
       "id": "5076eb13f195",
       "source": "techcrunch-ai",

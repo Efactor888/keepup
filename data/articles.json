@@ -1,6 +1,69 @@
 {
-  "updatedAt": "2026-08-07T01:02:48.787Z",
+  "updatedAt": "2026-08-07T14:16:02.065Z",
   "articles": [
+    {
+      "id": "5076eb13f195",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
+      "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
+      "publishedAt": "2026-08-07T11:40:37.000Z",
+      "fetchedAt": "2026-08-07T14:15:33.764Z",
+      "contentText": null,
+      "summary": "A New Mexico court has ordered Meta to pay an additional $567 million, bringing the total to $942 million, in a case concerning social media harms and addiction. The court also mandated changes to Meta's platforms in New Mexico, including removing 'Like' counts for minors, pausing push notifications for underage users overnight, and limiting their usage to 90 hours per month. Meta plans to appeal the judgment, while the state's Attorney General asserts the ruling holds the company accountable for harm to children.",
+      "enterpriseAngle": "This ruling highlights the increasing legal and regulatory pressure on technology companies to address the societal impact of their products, particularly concerning user well-being and child safety. Enterprise product development teams, especially those in consumer-facing sectors, must prioritize ethical design and robust safety features to mitigate legal risks and potential operational restrictions.",
+      "beginner": "Courts are holding social media companies responsible for how their platforms affect young people, leading to large fines and demands for product changes.",
+      "advanced": "Evaluate existing platform features for potential addiction vectors and implement proactive design changes, such as customizable notification schedules and usage limits, to align with evolving regulatory expectations and mitigate legal exposure across jurisdictions.",
+      "tags": [
+        "policy",
+        "product",
+        "governance",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "2ee94000fec4",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "url": "https://openai.com/index/hsp-gruppe",
+      "publishedAt": "2026-08-07T09:00:00.000Z",
+      "fetchedAt": "2026-08-07T14:15:30.558Z",
+      "contentText": null,
+      "summary": "HSP GRUPPE is leveraging ChatGPT Enterprise to enhance productivity, elevate the quality of their work, and free up resources for tax advisory and client services. This adoption aims to streamline operations and improve service delivery within the tax advisory sector.",
+      "enterpriseAngle": "Enterprise security and product development teams should note how AI tools like ChatGPT Enterprise are being integrated to improve operational efficiency and service quality in professional services, highlighting a growing trend in AI adoption for core business functions. This also underscores the need for robust data governance and security protocols when deploying such tools.",
+      "beginner": "Companies are using AI tools like ChatGPT to do their work faster and better, especially in areas like advising clients.",
+      "advanced": "Evaluate the potential for integrating large language models into your enterprise's core service delivery workflows, focusing on measurable productivity gains and quality improvements while rigorously addressing data privacy and compliance requirements.",
+      "tags": [
+        "enterprise",
+        "product",
+        "workforce"
+      ]
+    },
+    {
+      "id": "7fee6508a588",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "Improving Fable 5 Safeguards",
+      "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+      "publishedAt": "2026-08-07T03:05:42.000Z",
+      "fetchedAt": "2026-08-07T14:15:29.563Z",
+      "contentText": null,
+      "summary": "Anthropic has updated Fable 5's biology safeguards to significantly reduce false positives, allowing the model to assist with a wider range of biology-related tasks. This update has cut biology-related fallbacks by approximately 85%, enabling Fable 5 to better support everyday health questions and clinical tasks for healthcare professionals. However, Fable 5 still routes dual-use requests, such as those concerning virology or toxicology, to a less capable model due to the potential for misuse.",
+      "enterpriseAngle": "Enterprise product development teams must balance the rapid deployment of powerful AI models with robust safety mechanisms, especially in high-risk domains like biology, to prevent misuse while still delivering beneficial capabilities. Security teams need to consider how advanced AI models, even with safeguards, could be exploited by sophisticated actors for harmful dual-use applications, necessitating continuous refinement of detection and prevention systems.",
+      "beginner": "AI models are becoming very good at biology, but companies are careful to make sure they are used for good things and not for harm.",
+      "advanced": "Implement dynamic, context-aware safety classifiers that can differentiate between beneficial and potentially harmful dual-use applications, and continuously refine them against adversarial attempts to bypass safeguards, while also exploring trusted access pathways for high-risk capabilities.",
+      "tags": [
+        "model-release",
+        "security",
+        "enterprise",
+        "product"
+      ],
+      "dateChecked": true
+    },
     {
       "id": "a64b97947ab5",
       "source": "techcrunch-ai",

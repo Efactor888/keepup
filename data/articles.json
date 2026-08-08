@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-08-08T13:50:25.981Z",
+  "updatedAt": "2026-08-08T21:37:23.341Z",
   "articles": [
+    {
+      "id": "c36c8de8383e",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+      "publishedAt": "2026-08-08T21:24:02.000Z",
+      "fetchedAt": "2026-08-08T21:37:05.162Z",
+      "contentText": null,
+      "summary": "Amazon is planning a new data center in Pecos County, Texas, which will include an on-site natural gas power plant. This plant is permitted to emit 33 million tons of carbon dioxide annually, potentially making it the largest climate polluter in the U.S. This development comes as Amazon's carbon emissions increased by 16% last year, despite its pledge to eliminate emissions by 2040.",
+      "enterpriseAngle": "Enterprises relying on cloud infrastructure, especially those with sustainability goals, should be aware of the environmental impact of their providers' expanding data center footprints. This highlights the tension between the growing energy demands of AI and corporate climate commitments.",
+      "beginner": "Large AI systems need a lot of electricity, and the way that electricity is generated can have a big impact on the environment.",
+      "advanced": "Evaluate the Scope 3 emissions implications of cloud provider infrastructure expansion, particularly concerning energy-intensive AI workloads, and engage with providers on their renewable energy procurement and carbon reduction strategies.",
+      "tags": [
+        "enterprise",
+        "infrastructure",
+        "policy"
+      ]
+    },
+    {
+      "id": "8bf73f3956e4",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "publishedAt": "2026-08-08T19:41:13.000Z",
+      "fetchedAt": "2026-08-08T21:37:05.162Z",
+      "contentText": null,
+      "summary": "OpenAI has acquired NextSlide, a startup specializing in converting various inputs like prompts and documents into polished presentations. The NextSlide team will now integrate with OpenAI to work on ChatGPT, aiming to enhance AI products for communication and idea expression. The financial details of the acquisition, which occurred earlier this year, were not disclosed.",
+      "enterpriseAngle": "This acquisition suggests OpenAI's intent to expand ChatGPT's capabilities into enterprise productivity tools, potentially offering businesses advanced AI-powered presentation generation and communication features. Enterprise product development teams should consider how such integrations could streamline workflows and impact existing presentation software solutions.",
+      "beginner": "OpenAI bought a company that makes presentations from your notes, which means ChatGPT might soon help you create slides more easily.",
+      "advanced": "Evaluate the potential for enhanced multimodal output generation within OpenAI's ecosystem, specifically how NextSlide's technology could be leveraged to improve visual communication features in enterprise-grade AI applications and APIs.",
+      "tags": [
+        "enterprise",
+        "product",
+        "partnership"
+      ]
+    },
     {
       "id": "6b3fca58dabf",
       "source": "techcrunch-ai",

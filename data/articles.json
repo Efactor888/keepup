@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-08-07T21:47:59.882Z",
+  "updatedAt": "2026-08-08T13:50:25.981Z",
   "articles": [
+    {
+      "id": "6b3fca58dabf",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "publishedAt": "2026-08-07T22:48:24.000Z",
+      "fetchedAt": "2026-08-08T13:50:07.948Z",
+      "contentText": null,
+      "summary": "OpenAI has stated it slowed the development of its Astra model due to the model reaching a \"critical cybersecurity threshold.\" This means the in-development model demonstrated the ability to autonomously identify and execute cyberattacks against robust real-world systems.",
+      "enterpriseAngle": "Enterprise security teams must prepare for a future where AI models can independently launch sophisticated cyberattacks, necessitating advanced AI-driven defense mechanisms and continuous threat intelligence. Product development teams building AI systems need to integrate robust security-by-design principles and rigorous testing to prevent their models from being misused for malicious purposes.",
+      "beginner": "AI models are becoming so powerful that they can even learn to hack computer systems, which is why companies like OpenAI are being very careful with their development.",
+      "advanced": "Implement red-teaming exercises with advanced AI agents to proactively identify vulnerabilities in enterprise systems and develop countermeasures against autonomous AI-driven cyber threats.",
+      "tags": [
+        "security",
+        "model-release",
+        "agents",
+        "enterprise"
+      ]
+    },
     {
       "id": "4c08905f6bd0",
       "source": "techcrunch-ai",
@@ -185,6 +206,27 @@
         "product"
       ],
       "dateChecked": true
+    },
+    {
+      "id": "53b313cc8d71",
+      "source": "xai",
+      "sourceName": "xAI (Grok)",
+      "tier": "realtime",
+      "title": "Aug 7, 2026 Imagine Image 2.0 Aug 7, 2026 Imagine Image 2.0 Precise image generation and editing, built for real creative work. Read More",
+      "url": "https://x.ai/news/grok-imagine-image-2",
+      "publishedAt": "2026-08-07",
+      "fetchedAt": "2026-08-08T13:50:06.317Z",
+      "contentText": null,
+      "summary": "Imagine Image 2.0, now available as Quality Mode on Grok.com and its mobile apps, focuses on precise image generation and editing for professional use. It offers features like close adherence to instructions, accurate typography, and tools for specific edits such as magic wand, segmentation, and background removal. The model also supports multi-reference editing and smart resizing, and it ranks highly in text-to-image generation and image editing benchmarks.",
+      "enterpriseAngle": "Enterprise product development and marketing teams can leverage Imagine Image 2.0 for creating high-fidelity visual assets, streamlining design workflows with precise editing tools, and generating consistent brand imagery across various platforms and campaigns.",
+      "beginner": "Imagine Image 2.0 helps you create and edit pictures very accurately, making them suitable for professional projects.",
+      "advanced": "Integrate Imagine Image 2.0's API (when available) into your creative pipeline to automate high-fidelity image generation, leverage multi-reference editing for complex compositions, and utilize smart resizing for adaptive asset delivery.",
+      "tags": [
+        "product",
+        "enterprise",
+        "model-release",
+        "benchmark"
+      ]
     },
     {
       "id": "a64b97947ab5",

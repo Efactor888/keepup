@@ -1,6 +1,106 @@
 {
-  "updatedAt": "2026-08-09T21:39:54.329Z",
+  "updatedAt": "2026-08-10T14:22:53.971Z",
   "articles": [
+    {
+      "id": "61282b7420ed",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
+      "publishedAt": "2026-08-10T14:00:00.000Z",
+      "fetchedAt": "2026-08-10T14:22:06.827Z",
+      "contentText": null,
+      "summary": "OpenAI has communicated its commitment to Governor Greg Abbott regarding the development of responsible AI infrastructure within Texas. The company aims to foster reliable and transparent growth in the state that will benefit its residents.",
+      "enterpriseAngle": "Enterprises considering AI infrastructure investments in Texas should note OpenAI's stated commitment to responsible development, which may influence future regulatory landscapes and public perception.",
+      "beginner": "OpenAI is telling the Governor of Texas that they want to build AI technology in a way that is good for everyone in the state.",
+      "advanced": "Monitor the evolving regulatory discussions in Texas concerning AI infrastructure, as OpenAI's proactive engagement may signal future policy directions impacting data center operations and energy consumption.",
+      "tags": [
+        "infrastructure",
+        "policy",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "c7b962b1d9ef",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+      "url": "https://openai.com/index/model-ml",
+      "publishedAt": "2026-08-10T12:00:00.000Z",
+      "fetchedAt": "2026-08-10T14:22:06.827Z",
+      "contentText": null,
+      "summary": "Model ML leverages GPT-5.6 Sol to streamline financial tasks, from initial research and analysis to the creation of editable PowerPoint presentations and Excel workbooks. This integration aims to enhance efficiency in finance-related workflows.",
+      "enterpriseAngle": "Enterprise finance teams can utilize Model ML with GPT-5.6 Sol to automate and accelerate their financial reporting and analysis processes, improving productivity and data traceability.",
+      "beginner": "AI models like Model ML can help people in finance do their jobs faster by automating tasks like creating reports and spreadsheets.",
+      "advanced": "Evaluate Model ML with GPT-5.6 Sol for integration into existing financial planning and analysis (FP&A) workflows to enhance automation and ensure compliance through traceable outputs.",
+      "tags": [
+        "model-release",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "f813d0c6a6d3",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+      "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+      "publishedAt": "2026-08-10T12:00:00.000Z",
+      "fetchedAt": "2026-08-10T14:22:09.981Z",
+      "contentText": null,
+      "summary": "Discovered Materials, a startup, has secured $9 million in seed funding to develop AI agents that search for new materials to create more efficient, cooler-running integrated circuits. The company uses Anthropic models and proprietary physics models to simulate and verify candidate materials, aiming to overcome the heat generation issues in AI workloads. They have already identified several materials matching existing chip properties and plan to patent their use or manufacturing processes.",
+      "enterpriseAngle": "Enterprise product development teams in the semiconductor industry could license these newly discovered materials or processes to create more energy-efficient and performant chips, addressing critical cooling and power consumption challenges in data centers running AI workloads. Security teams may indirectly benefit from reduced infrastructure strain and potentially more stable hardware environments.",
+      "beginner": "AI is being used to find new materials that can make computer chips run cooler, which helps save electricity and reduce the need for large cooling systems.",
+      "advanced": "Explore partnerships with materials discovery AI startups like Discovered Materials to integrate novel semiconductor materials into your chip design and manufacturing pipelines, focusing on the trade-offs between thermal properties, manufacturability, and electrical performance to address data center energy efficiency.",
+      "tags": [
+        "research",
+        "enterprise",
+        "funding",
+        "product"
+      ]
+    },
+    {
+      "id": "9f4ff92be723",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "AI for science needs reasoning, not just data",
+      "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+      "publishedAt": "2026-08-10T09:00:00.000Z",
+      "fetchedAt": "2026-08-10T14:22:10.391Z",
+      "contentText": null,
+      "summary": "The article discusses the historical pattern of predictions about the end of scientific discovery, noting that such pronouncements have been made by prominent figures like Albert Michelson and Stephen Hawking. It suggests that the recent emergence of artificial intelligence has reignited discussions about the future of scientific progress.",
+      "enterpriseAngle": "Enterprises investing in AI for scientific research should prioritize developing systems that can perform complex reasoning, not just data processing, to unlock new discoveries and avoid limitations.",
+      "beginner": "AI is a powerful tool, but for science, it needs to do more than just process information; it needs to be able to think and reason like a scientist.",
+      "advanced": "Focus R&D on integrating symbolic reasoning and causal inference capabilities into AI models to move beyond correlational insights and enable true scientific discovery.",
+      "tags": [
+        "research",
+        "science",
+        "agents"
+      ]
+    },
+    {
+      "id": "50ad4d5e485e",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "These startups are chasing the next big thing in LLMs",
+      "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+      "publishedAt": "2026-08-10T09:00:00.000Z",
+      "fetchedAt": "2026-08-10T14:22:10.391Z",
+      "contentText": null,
+      "summary": "The article is part of MIT Technology Review's \"What's Next\" series, which explores future trends and technologies. It references a foundational 2017 Google AI paper titled \"Attention Is All You Need.\"",
+      "enterpriseAngle": "Enterprises should monitor the foundational research highlighted in such series to anticipate future shifts in AI capabilities and their potential impact on product development and strategic planning.",
+      "beginner": "A key paper from 2017 called \"Attention Is All You Need\" was very important for how AI works today.",
+      "advanced": "Review the original \"Attention Is All You Need\" paper to understand the architectural underpinnings of current large language models and identify potential areas for novel enterprise application or optimization.",
+      "tags": [
+        "research",
+        "learning"
+      ]
+    },
     {
       "id": "c57ef703537a",
       "source": "techcrunch-ai",

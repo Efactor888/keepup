@@ -1,6 +1,149 @@
 {
-  "updatedAt": "2026-08-11T14:24:04.639Z",
+  "updatedAt": "2026-08-11T21:57:20.527Z",
   "articles": [
+    {
+      "id": "7b040f1e2d69",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+      "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+      "publishedAt": "2026-08-11T21:39:11.000Z",
+      "fetchedAt": "2026-08-11T21:55:49.971Z",
+      "contentText": null,
+      "summary": "Accel has successfully closed an oversubscribed $550 million India fund, part of a larger $3.5 billion global fundraising effort, less than two years after its previous India fund. The firm plans to invest in India's next wave of startups, focusing on AI applications, consumer internet, fintech, and advanced manufacturing, viewing AI as a foundational technology across these sectors. Accel believes Indian startups will excel by building AI-powered applications and enterprise software on existing models, leveraging the country's engineering talent.",
+      "enterpriseAngle": "Enterprise product development teams can anticipate a surge in AI-powered applications and software from Indian startups, particularly those combining AI with domain expertise to solve specific enterprise problems, such as automating medical coding. Security teams should prepare for new integration challenges and data protection considerations as these AI applications become more prevalent in enterprise workflows.",
+      "beginner": "Accel, a big investment company, has raised a lot of money to help new companies in India that are using AI and other technologies to create new products and services.",
+      "advanced": "Experienced practitioners should explore partnerships with Indian AI application and enterprise software startups, focusing on solutions that leverage existing large language models and address specific industry pain points, while also evaluating their security posture for integration into enterprise systems.",
+      "tags": [
+        "funding",
+        "enterprise",
+        "product",
+        "partnership"
+      ]
+    },
+    {
+      "id": "2f7f031cc515",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "OpenAI launches ChatGPT desktop app for Linux",
+      "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+      "publishedAt": "2026-08-11T19:15:35.000Z",
+      "fetchedAt": "2026-08-11T21:55:49.971Z",
+      "contentText": null,
+      "summary": "OpenAI has released a dedicated ChatGPT desktop application for Linux, addressing a long-standing request from the open-source developer community. This new app, available in preview, supports various Linux distributions including Ubuntu, Debian, and Fedora, and extends access to ChatGPT, ChatGPT Work, and Codex.",
+      "enterpriseAngle": "This expansion to Linux provides enterprise development teams and IT professionals who rely on Linux environments with direct desktop access to OpenAI's models, potentially streamlining workflows and integration within open-source-centric organizations. It also means enterprises can now standardize on a wider range of operating systems for AI tool deployment.",
+      "beginner": "OpenAI's ChatGPT, a popular AI chatbot, is now available as a dedicated app for computers running the Linux operating system.",
+      "advanced": "Evaluate the new ChatGPT Linux desktop client for compatibility with your organization's specific Linux distributions and security policies, considering potential integration with existing enterprise tools and workflows.",
+      "tags": [
+        "product",
+        "enterprise",
+        "coding"
+      ]
+    },
+    {
+      "id": "a49e2df2d449",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Google’s Gemini app surges to 1 billion users",
+      "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+      "publishedAt": "2026-08-11T18:49:12.000Z",
+      "fetchedAt": "2026-08-11T21:55:49.971Z",
+      "contentText": null,
+      "summary": "Google's Gemini app has reached 1 billion users. The company reports that 63% of these users engage with the assistant via its voice feature, and Gemini generates over 150 million images daily.",
+      "enterpriseAngle": "The rapid adoption and diverse usage patterns of Gemini, particularly voice interaction and image generation, highlight evolving user expectations for AI-powered interfaces and content creation tools within enterprise applications. This trend suggests that businesses should consider integrating multimodal AI capabilities to enhance user experience and productivity.",
+      "beginner": "Many people are using Google's AI assistant, Gemini, to talk to it and create images.",
+      "advanced": "Evaluate the potential for integrating multimodal AI capabilities, such as voice input and generative image features, into your enterprise applications to meet growing user demands and improve operational efficiency.",
+      "tags": [
+        "product",
+        "consumer",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "e476216d8f62",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Brad Lightcap, OpenAI's longtime COO, is leaving to ‘start something new'",
+      "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+      "publishedAt": "2026-08-11T17:41:34.000Z",
+      "fetchedAt": "2026-08-11T21:55:49.971Z",
+      "contentText": null,
+      "summary": "Brad Lightcap, OpenAI's long-serving Chief Operating Officer and former CFO, is departing the company to pursue a new venture. He joined OpenAI in 2018 and played a key role in building many of its operational and business teams. Lightcap's departure follows other recent executive changes at OpenAI.",
+      "enterpriseAngle": "The departure of a seasoned executive like Lightcap, especially amidst other leadership changes, could signal a period of strategic realignment for OpenAI as it prepares for a potential IPO. Enterprise partners and customers should monitor these shifts for potential impacts on product roadmaps and operational stability.",
+      "beginner": "A key leader at OpenAI, the company behind ChatGPT, is leaving to start his own new company.",
+      "advanced": "Evaluate the implications of recent executive departures at OpenAI, including the COO, on the stability of their product development and partnership strategies, especially in light of their anticipated IPO.",
+      "tags": [
+        "enterprise",
+        "workforce",
+        "product"
+      ]
+    },
+    {
+      "id": "f66a8ff91a41",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+      "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+      "publishedAt": "2026-08-11T17:41:22.000Z",
+      "fetchedAt": "2026-08-11T21:55:49.971Z",
+      "contentText": null,
+      "summary": "River AI, a new startup founded by xAI co-founder Igor Babuschkin, has secured $1.1 billion in funding to reinvent AI training and create personally trainable agent assistants. The company aims to rebuild the entire AI stack, including hardware, to enable personal AI that is owned and improved by individuals. River AI's initial product is an API that allows developers to fine-tune open models using reinforcement learning and low-rank adaptation, offering an alternative to prompt engineering.",
+      "enterpriseAngle": "Enterprises can leverage River AI's 'neocloud' offering to train and control their AI models, potentially completing complex reinforcement learning runs quickly and at a lower cost than closed-source alternatives, without needing an extensive infrastructure team. This allows businesses to customize open models to their specific needs, addressing the growing desire for greater control over their AI destiny.",
+      "beginner": "River AI wants to make AI assistants that you can teach yourself, so they truly understand and help you, rather than just replacing human jobs.",
+      "advanced": "Explore River AI's API for fine-tuning open models with RL and LoRA to develop custom, personally trainable agents, potentially reducing reliance on prompt engineering and optimizing for cost-effective, enterprise-specific AI solutions.",
+      "tags": [
+        "funding",
+        "agents",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "9514940f045b",
+      "source": "google-ai",
+      "sourceName": "Google AI",
+      "tier": "realtime",
+      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+      "publishedAt": "2026-08-11T17:00:00.000Z",
+      "fetchedAt": "2026-08-11T21:55:47.607Z",
+      "contentText": null,
+      "summary": "Google Research and Google DeepMind have advanced AMIE, a research medical AI system, to conduct real-time clinical video consultations. In a study with simulated patients, AMIE, built on Gemini and Project Astra, demonstrated expert-level capabilities in areas like history-taking, diagnostic accuracy, and communication. While still a research system, it shows promise for future health AI applications.",
+      "enterpriseAngle": "Enterprise healthcare providers and product development teams can anticipate AI systems like AMIE potentially streamlining virtual care, improving diagnostic support, and enhancing patient engagement through multimodal interactions. This development highlights the growing potential for AI to augment, rather than replace, complex human-centric services.",
+      "beginner": "AI systems are learning to act like doctors in video calls, understanding not just what people say but also what they look like and how they move.",
+      "advanced": "Explore integrating multimodal AI architectures, such as those leveraging large language models with real-time visual and auditory processing, into next-generation diagnostic and patient interaction platforms, while prioritizing robust validation and ethical deployment frameworks.",
+      "tags": [
+        "research",
+        "product",
+        "agents",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "f98cc01492f6",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "An unreleased Anthropic model made progress on one of math's biggest unsolved problems",
+      "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+      "publishedAt": "2026-08-11T16:25:20.000Z",
+      "fetchedAt": "2026-08-11T21:55:49.971Z",
+      "contentText": null,
+      "summary": "An unreleased AI model from Anthropic has shown unexpected progress on the Riemann hypothesis, a mathematical problem that has remained unsolved for over 150 years. While the model did not fully solve the hypothesis, its advancements are notable.",
+      "enterpriseAngle": "This development suggests that advanced AI models could potentially accelerate research and problem-solving in complex scientific and mathematical fields, offering new tools for enterprise R&D teams.",
+      "beginner": "AI models are getting better at tackling very difficult math problems that even humans haven't solved for a long time.",
+      "advanced": "Explore integrating advanced AI models into R&D workflows to augment human researchers in tackling intractable problems, focusing on areas requiring complex pattern recognition and hypothesis generation.",
+      "tags": [
+        "research",
+        "science",
+        "model-release"
+      ]
+    },
     {
       "id": "5753088d6849",
       "source": "techcrunch-ai",
@@ -43,6 +186,47 @@
       ]
     },
     {
+      "id": "de2ca3d7578d",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Testing ads in ChatGPT",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "publishedAt": "2026-08-11T10:00:00.000Z",
+      "fetchedAt": "2026-08-11T21:55:47.407Z",
+      "contentText": null,
+      "summary": "OpenAI is starting to test advertisements within ChatGPT to help fund continued free access to the platform. These ads will be clearly labeled, will not influence the AI's responses, and will come with robust privacy protections and user controls.",
+      "enterpriseAngle": "Enterprises using or considering ChatGPT should note the introduction of ads, which could impact user experience and necessitate a review of privacy policies regarding ad content and data handling. Product development teams might explore how similar ad-supported models could be integrated into their own AI applications while maintaining user trust and data integrity.",
+      "beginner": "ChatGPT, a popular AI tool, will now show ads to help keep it free for everyone.",
+      "advanced": "Evaluate the impact of ad integration on user engagement and data governance within enterprise AI deployments, and consider implementing similar privacy-preserving ad models if pursuing freemium strategies.",
+      "tags": [
+        "product",
+        "enterprise",
+        "consumer"
+      ]
+    },
+    {
+      "id": "b274e00978a8",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Daybreak models are now available on AWS",
+      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "publishedAt": "2026-08-11T10:00:00.000Z",
+      "fetchedAt": "2026-08-11T21:55:47.407Z",
+      "contentText": null,
+      "summary": "OpenAI's Daybreak cybersecurity models are now accessible via Amazon Bedrock, a service offered by AWS. This integration aims to enhance enterprise security operations.",
+      "enterpriseAngle": "Enterprise security teams can leverage Daybreak models on AWS Bedrock to strengthen their cybersecurity defenses and streamline security workflows. This partnership provides more options for integrating advanced AI into existing cloud security infrastructure.",
+      "beginner": "New AI cybersecurity tools from OpenAI are now easier to use for businesses through Amazon's cloud service.",
+      "advanced": "Evaluate the integration of OpenAI's Daybreak models via Amazon Bedrock into your existing security orchestration, automation, and response (SOAR) platforms to enhance threat detection and incident response capabilities.",
+      "tags": [
+        "security",
+        "enterprise",
+        "partnership",
+        "product"
+      ]
+    },
+    {
       "id": "5f44fe3808ae",
       "source": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -59,6 +243,26 @@
       "tags": [
         "enterprise",
         "funding",
+        "product"
+      ]
+    },
+    {
+      "id": "b1770b5350ce",
+      "source": "xai",
+      "sourceName": "xAI (Grok)",
+      "tier": "realtime",
+      "title": "Aug 11, 2026 Early beta Introducing Grok Bot Aug 11, 2026 Early beta Introducing Grok Bot Grok Bot is your team of always-on agents. They have their own computer, work inside tools and apps like you d",
+      "url": "https://x.ai/news/introducing-grok-bot",
+      "publishedAt": "2026-08-11",
+      "fetchedAt": "2026-08-11T21:55:47.909Z",
+      "contentText": null,
+      "summary": "xAI has launched Grok Bot, a new AI agent product designed to act as an always-on virtual teammate. These bots can operate independently across various applications and tools, handling end-to-end tasks and only requiring human approval for critical decisions. Grok Bots learn from user interactions, remember conversations, and can be assigned complex, multi-step workflows.",
+      "enterpriseAngle": "Enterprise teams can leverage Grok Bots to automate a wide range of operational tasks, from sales and marketing campaigns to office operations and bug fixes, potentially increasing efficiency and freeing up human employees for more strategic work. The ability for bots to work across tools without clean APIs and to coordinate with each other offers significant integration and scalability benefits for businesses.",
+      "beginner": "Grok Bot is like having an AI coworker that can do tasks on your computer and in your apps, learning how you like things done over time.",
+      "advanced": "Integrate Grok Bot into existing enterprise workflows to automate multi-step processes across disparate applications, focusing on areas like CRM updates, invoice processing, and bug reproduction, and leverage its learning capabilities to refine task execution over time.",
+      "tags": [
+        "agents",
+        "enterprise",
         "product"
       ]
     },

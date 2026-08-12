@@ -1,6 +1,152 @@
 {
-  "updatedAt": "2026-08-12T14:23:09.904Z",
+  "updatedAt": "2026-08-12T21:56:15.742Z",
   "articles": [
+    {
+      "id": "2f233deb4aaf",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Amazon will train on Twitch streamers' content by default, unless they opt out",
+      "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+      "publishedAt": "2026-08-12T20:10:40.000Z",
+      "fetchedAt": "2026-08-12T21:54:21.402Z",
+      "contentText": null,
+      "summary": "Twitch will now use its creators' content to train Amazon's generative AI models by default, prompting significant backlash from the streaming community. Users are concerned about their content being used without explicit consent, especially since many record live video and audio for extended periods. Twitch acknowledged the community's opposition, stating that an opt-in system would likely result in no participation.",
+      "enterpriseAngle": "This move highlights the growing trend of tech companies leveraging user-generated content for AI training, presenting both a rich data source for product development and significant challenges in user trust and data governance. Enterprise product teams must carefully consider default settings for data usage and transparent communication to mitigate user backlash and potential regulatory scrutiny.",
+      "beginner": "Large tech companies like Amazon are using content from platforms like Twitch to teach their AI systems, which means your videos or posts might be used unless you specifically say no.",
+      "advanced": "Implement robust data governance frameworks that prioritize explicit user consent mechanisms over default opt-out, particularly when integrating user-generated content for AI model training, to proactively address privacy concerns and maintain user trust.",
+      "tags": [
+        "enterprise",
+        "policy",
+        "product",
+        "governance"
+      ]
+    },
+    {
+      "id": "8a66cb32dff8",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+      "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+      "publishedAt": "2026-08-12T18:19:12.000Z",
+      "fetchedAt": "2026-08-12T21:54:21.402Z",
+      "contentText": null,
+      "summary": "Cognition, the AI coding agent developer, is reportedly seeking new funding that could value the company at $40 billion, a significant increase from its $26 billion valuation three months prior. This potential valuation is based on achieving a $1 billion annualized revenue run rate, up from $492 million previously reported. The company's AI agent, Devin, is used by enterprises like Mercedes-Benz, NASA, and Goldman Sachs for tasks such as updating old software and migrating applications.",
+      "enterpriseAngle": "Enterprise product development teams can leverage AI coding agents like Devin to automate tedious, long-tail programming tasks, freeing human developers for more complex work and potentially accelerating software modernization and platform migrations. Security teams should consider the implications of integrating AI agents into their development pipelines, particularly regarding code integrity, intellectual property, and data handling.",
+      "beginner": "AI tools like Devin can help programmers with the less exciting parts of coding, making their jobs easier and faster.",
+      "advanced": "Evaluate the integration of AI coding agents for automating legacy system updates and cross-platform migrations, while simultaneously implementing robust security protocols for code review and data governance to mitigate potential risks.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "funding",
+        "product"
+      ]
+    },
+    {
+      "id": "5e396f86f43f",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+      "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+      "publishedAt": "2026-08-12T17:51:00.000Z",
+      "fetchedAt": "2026-08-12T21:54:21.402Z",
+      "contentText": null,
+      "summary": "Three prominent AI researchers, Geoffrey Hinton, Fei-Fei Li, and Andrew Ng, debated the merits of open AI models at the Ai4 conference, with all three advocating for some form of openness to prevent a few major companies from dominating the field. While Ng emphasized promoting openness for broad access and competitiveness, Hinton expressed concerns about open-weight models being easily misused for malicious purposes like cyberattacks. Li argued for a nuanced approach, suggesting different levels of openness across the AI ecosystem, akin to nuclear physics research.",
+      "enterpriseAngle": "Enterprise product development teams must consider the implications of open-weight models for both innovation and security, balancing the desire for broad access and rapid development with the risks of misuse. Security teams need to prepare for potential threats arising from the easier availability of powerful AI models that could be adapted for cyberattacks.",
+      "beginner": "Keeping AI technology open means more people can use and improve it, but it also creates challenges for controlling how it's used.",
+      "advanced": "Evaluate your organization's strategy for leveraging open-weight models, considering the trade-offs between accelerating innovation through broad access and mitigating the increased security risks of potential misuse.",
+      "tags": [
+        "enterprise",
+        "policy",
+        "security",
+        "governance"
+      ]
+    },
+    {
+      "id": "6585ea3c34af",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+      "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+      "publishedAt": "2026-08-12T17:41:29.000Z",
+      "fetchedAt": "2026-08-12T21:54:21.402Z",
+      "contentText": null,
+      "summary": "Thrive Holdings, an OpenAI-backed firm that acquires traditional businesses and integrates AI into their operations, has raised $2 billion at a $12 billion valuation. The company has demonstrated success in accounting and IT sectors, with AI tools improving efficiency and accuracy. This new funding will support expansion into a third vertical focused on regulatory services for physical assets.",
+      "enterpriseAngle": "Enterprises can leverage AI to streamline complex, fragmented, and mission-critical workflows, as demonstrated by Thrive Holdings' success in accounting and IT. The model of embedding AI experts directly into businesses, as practiced by Thrive and similar ventures, offers a promising path for accelerated AI adoption and tangible operational improvements.",
+      "beginner": "AI is being used by companies like Thrive Holdings to make everyday business tasks, like accounting and IT support, faster and more accurate.",
+      "advanced": "Consider strategic partnerships with AI deployment specialists or firms like Thrive Holdings to accelerate AI integration within your enterprise, focusing on high-complexity, high-impact operational bottlenecks to maximize ROI.",
+      "tags": [
+        "enterprise",
+        "funding",
+        "product",
+        "partnership"
+      ]
+    },
+    {
+      "id": "40176bc88ca1",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Mesh, Automattic's CRM for everyone, comes to Android",
+      "url": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
+      "publishedAt": "2026-08-12T16:57:58.000Z",
+      "fetchedAt": "2026-08-12T21:54:21.402Z",
+      "contentText": null,
+      "summary": "Automattic's relationship manager, Mesh, is now available on Android, allowing users to track their personal and professional networks with features like notes and reminders. The app is designed to integrate with Android's platform features, including split-screen and keyboard shortcuts. Mesh also offers early access to Nexus AI, which helps users navigate their network by answering questions about contacts' affiliations or expertise.",
+      "enterpriseAngle": "Enterprise security and product development teams should note Mesh's commitment to user privacy, as personal information is not shared for ad targeting, which aligns with growing data protection concerns. The integration of AI features for network management could also inform future product development strategies for enterprise CRM solutions.",
+      "beginner": "Mesh is like a smart address book that helps you remember important details about people and when to connect with them, now available on Android.",
+      "advanced": "Evaluate Mesh's Nexus AI capabilities for advanced network querying and consider its privacy-centric, subscription-based model as a benchmark for secure enterprise relationship management tools.",
+      "tags": [
+        "product",
+        "enterprise",
+        "agents",
+        "consumer"
+      ]
+    },
+    {
+      "id": "109e5b269968",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "Scaling AI agents with trustworthy data",
+      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+      "publishedAt": "2026-08-12T16:51:57.000Z",
+      "fetchedAt": "2026-08-12T21:54:21.673Z",
+      "contentText": null,
+      "summary": "Organizations are quickly adopting AI agents due to their transformative potential, but many are finding that achieving a good return on investment depends heavily on having robust infrastructure and high-quality data. This indicates a growing recognition among business and technology leaders that agentic AI is becoming a critical component of enterprise operations.",
+      "enterpriseAngle": "Enterprise security and product development teams must prioritize building scalable infrastructure and ensuring data trustworthiness to successfully deploy and gain ROI from AI agents. This involves careful planning for data governance, quality, and secure access to support agentic systems.",
+      "beginner": "AI agents are becoming very popular in businesses, but they only work well if they have good data and strong technical support.",
+      "advanced": "Implement a comprehensive data strategy focusing on provenance, integrity, and access controls to ensure the trustworthiness and scalability of data pipelines feeding enterprise AI agents.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "infrastructure",
+        "governance"
+      ]
+    },
+    {
+      "id": "d496da02476b",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
+      "url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
+      "publishedAt": "2026-08-12T16:46:02.000Z",
+      "fetchedAt": "2026-08-12T21:54:21.402Z",
+      "contentText": null,
+      "summary": "AI notetaking hardware, including credit-card-sized devices, pendants, pins, and transcribing earbuds, has become popular for summarizing meetings and identifying action items. A new trend in AI wearables, particularly rings, aims to capture spontaneous thoughts and ideas using similar technology.",
+      "enterpriseAngle": "Enterprise product development teams should consider integrating voice-activated AI for capturing spontaneous ideas and notes, potentially enhancing productivity and knowledge management within organizations. Security teams will need to address data privacy and access controls for sensitive information captured by these devices.",
+      "beginner": "New AI devices are making it easier to record and summarize your thoughts and meetings just by speaking to them.",
+      "advanced": "Evaluate the feasibility of integrating voice-first AI wearable technology into enterprise workflows to capture unstructured data and improve real-time knowledge synthesis, while prioritizing robust data encryption and access management.",
+      "tags": [
+        "product",
+        "consumer",
+        "enterprise"
+      ]
+    },
     {
       "id": "77da1d8caea4",
       "source": "techcrunch-ai",
@@ -62,6 +208,68 @@
         "enterprise",
         "research",
         "agents"
+      ]
+    },
+    {
+      "id": "cad35e6294fe",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "How RingCentral builds AI-native work from engineering to ops",
+      "url": "https://openai.com/index/ringcentral",
+      "publishedAt": "2026-08-12T00:00:00.000Z",
+      "fetchedAt": "2026-08-12T21:54:14.830Z",
+      "contentText": null,
+      "summary": "RingCentral is leveraging ChatGPT Work and Codex to enhance its AI product development and streamline operational intelligence across its engineering and operations departments.",
+      "enterpriseAngle": "Enterprises can use AI tools like ChatGPT Work and Codex to accelerate product development cycles and centralize operational insights, improving efficiency and innovation.",
+      "beginner": "Companies are using AI to build new products faster and manage their operations more effectively.",
+      "advanced": "Evaluate the integration of large language models like Codex into your development pipelines to centralize operational intelligence and accelerate feature delivery.",
+      "tags": [
+        "enterprise",
+        "product",
+        "coding"
+      ]
+    },
+    {
+      "id": "abadfb45f943",
+      "source": "xai",
+      "sourceName": "xAI (Grok)",
+      "tier": "realtime",
+      "title": "Grok 4.6 Aug 12, 2026 Introducing Grok 4.6 Aug 12, 2026 Introducing Grok 4.6 Grok 4.6 builds on Grok 4.5 with a particular focus on long-running agents and more ambitious interactive and visual work. ",
+      "url": "https://x.ai/news/grok-4-6",
+      "publishedAt": "2026-08-12",
+      "fetchedAt": "2026-08-12T21:54:15.770Z",
+      "contentText": null,
+      "summary": "xAI has released Grok 4.6, an updated model that focuses on long-running agents and enhanced interactive and visual capabilities. It excels at complex, multi-step tasks like research, code analysis, and application development, demonstrating improved performance across various benchmarks. Grok 4.6 also features enhanced safeguards and is available through Cursor, Grok Build, and various API partners.",
+      "enterpriseAngle": "Enterprise product development and security teams can leverage Grok 4.6's advanced agentic capabilities for accelerating engineering design cycles, automating complex coding tasks, and enhancing vulnerability patching efforts. Its improved ability to handle multi-step projects and generate strong first passes for visual applications can significantly boost productivity and innovation.",
+      "beginner": "Grok 4.6 is a new AI that is better at doing many steps for a single task, like building an app or researching a topic, and it can also create better visual designs.",
+      "advanced": "Integrate Grok 4.6 into your development workflows via API to leverage its enhanced agentic coding and knowledge work capabilities, particularly for complex, multi-step projects requiring sustained reasoning and visual output, and evaluate its performance against internal benchmarks for specific use cases.",
+      "tags": [
+        "model-release",
+        "agents",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "95c9a89f660f",
+      "source": "cursor",
+      "sourceName": "Cursor",
+      "tier": "realtime",
+      "title": "Aug 12, 2026 · Research Introducing Grok 4.6 Built for long-running agents and more ambitious interactive and visual work. Cursor Team · 3m 3 min read",
+      "url": "https://cursor.com/blog/grok-4-6",
+      "publishedAt": "2026-08-12",
+      "fetchedAt": "2026-08-12T21:54:18.514Z",
+      "contentText": null,
+      "summary": "Grok 4.6, developed by Cursor and SpaceXAI, is a new AI model designed for long-running agents and complex interactive and visual tasks. It demonstrates frontier intelligence in agentic coding and knowledge work benchmarks, matching GPT-5.6 Sol on the Artificial Analysis Intelligence Index. The model is available in Cursor, Grok Build, and through the SpaceXAI API and partners.",
+      "enterpriseAngle": "Enterprise product development and security teams can leverage Grok 4.6 for accelerating engineering design cycles, automating vulnerability patching, and transforming broad product ideas into working applications, potentially streamlining development workflows and enhancing security postures.",
+      "beginner": "Grok 4.6 is a new, more advanced AI that can handle bigger and more complicated projects, like building apps or doing detailed research, by itself over many steps.",
+      "advanced": "Integrate Grok 4.6 via the SpaceXAI API or partner platforms to automate multi-step agentic workflows in software engineering, knowledge work, and visual design, leveraging its enhanced self-testing and verification capabilities for improved output quality.",
+      "tags": [
+        "model-release",
+        "agents",
+        "enterprise",
+        "product"
       ]
     },
     {
@@ -7297,6 +7505,47 @@
         "enterprise",
         "product",
         "coding"
+      ]
+    },
+    {
+      "id": "b9a7811027c8",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "How data science teams use ChatGPT Work",
+      "url": "https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex",
+      "publishedAt": "2026-07-14T00:00:00.000Z",
+      "fetchedAt": "2026-08-12T21:54:14.830Z",
+      "contentText": null,
+      "summary": "Data science teams can leverage ChatGPT Work to generate various analytical documents, including root-cause briefs, impact readouts, KPI memos, and dashboard specifications. This functionality allows them to create these documents directly from their work inputs.",
+      "enterpriseAngle": "Enterprise data science and analytics teams can streamline their workflow by automating the generation of key reports and analyses, improving efficiency and consistency in communication. This can accelerate decision-making and free up data scientists to focus on more complex problem-solving.",
+      "beginner": "ChatGPT Work helps data scientists quickly create reports and summaries from their data.",
+      "advanced": "Integrate ChatGPT Work into your data science pipeline to automate the drafting of analytical outputs like KPI memos and dashboard specs, ensuring consistent reporting and faster dissemination of insights.",
+      "tags": [
+        "enterprise",
+        "product",
+        "coding"
+      ]
+    },
+    {
+      "id": "40d7f59e4718",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "How sales teams use ChatGPT Work",
+      "url": "https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex",
+      "publishedAt": "2026-07-14T00:00:00.000Z",
+      "fetchedAt": "2026-08-12T21:54:14.830Z",
+      "contentText": null,
+      "summary": "Sales teams can leverage ChatGPT Work to generate various sales-related documents and analyses. This includes creating pipeline briefs, preparing for meetings, reviewing forecasts, developing account plans, and diagnosing stalled deals. The tool uses real work inputs to produce these materials.",
+      "enterpriseAngle": "Enterprise sales and product development teams can integrate AI tools like ChatGPT Work to automate document creation and analysis, improving efficiency and strategic planning. This can free up sales personnel to focus on direct customer engagement and complex problem-solving.",
+      "beginner": "AI tools can help sales teams by automatically creating documents and reports, making their work faster and more organized.",
+      "advanced": "Evaluate the integration of large language models into existing CRM and sales enablement platforms to automate content generation for pipeline management and strategic account planning.",
+      "tags": [
+        "enterprise",
+        "product",
+        "agents",
+        "workforce"
       ]
     },
     {

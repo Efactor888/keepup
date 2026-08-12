@@ -1,6 +1,69 @@
 {
-  "updatedAt": "2026-08-11T21:57:20.527Z",
+  "updatedAt": "2026-08-12T14:23:09.904Z",
   "articles": [
+    {
+      "id": "77da1d8caea4",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Google unveils Pixel 11 lineup, new AirTag rival, and Gemini features at Made by Google 2026",
+      "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+      "publishedAt": "2026-08-12T14:20:33.000Z",
+      "fetchedAt": "2026-08-12T14:22:39.745Z",
+      "contentText": null,
+      "summary": "Google unveiled its new Pixel 11 smartphone lineup, Pixel Watch 5, and a new tracking tag called Pixel Tag at its Made by Google 2026 event. The company also introduced several new Gemini-powered AI features for its devices, including an expansion of Live Transcribe for American Sign Language and a new voice input feature called Rambler designed to better understand natural speech patterns. The Pixel 11 series features design updates, increased storage, and improved durability, while the Pixel Watch 5 gains new health-tracking capabilities.",
+      "enterpriseAngle": "Enterprise product development teams can leverage advancements in natural language processing, like Google's Rambler, to create more intuitive and user-friendly voice interfaces for business applications, reducing friction for employees. The expansion of accessibility features like Live Transcribe for ASL also highlights the growing importance of inclusive design in enterprise technology solutions.",
+      "beginner": "Google is making its phones and watches smarter with new AI features that help people communicate better and track their health, while also introducing a new device to help find lost items.",
+      "advanced": "Evaluate the integration of advanced on-device AI capabilities, such as improved speech recognition and real-time transcription, into your enterprise mobile strategy to enhance productivity and accessibility for frontline workers and diverse user groups.",
+      "tags": [
+        "product",
+        "enterprise",
+        "consumer",
+        "model-release"
+      ],
+      "dateChecked": true
+    },
+    {
+      "id": "75010ca35d79",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "AI code-testing startup Blacksmith's valuation jumps almost 10x in less than a year",
+      "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+      "publishedAt": "2026-08-12T11:00:00.000Z",
+      "fetchedAt": "2026-08-12T14:22:39.745Z",
+      "contentText": null,
+      "summary": "Blacksmith, an AI code-testing startup, has secured $45 million in Series B funding, boosting its valuation to $550 million, nearly ten times its valuation less than a year ago. The company helps businesses test and verify software, addressing the growing need for code validation as AI accelerates code generation. Blacksmith has expanded its customer base significantly, now serving over 5,000 companies.",
+      "enterpriseAngle": "As AI tools accelerate code generation, enterprise product development teams face an increased burden in ensuring code quality and security; Blacksmith's solution, including its AI coding agent Codesmith, directly addresses this bottleneck by automating code validation and fixing failed checks, which can streamline development cycles and reduce time-to-market.",
+      "beginner": "AI is making it much faster to write computer code, but this also means we need better ways to check if that code works correctly and is safe.",
+      "advanced": "Leverage AI-powered code validation platforms like Blacksmith to automate continuous integration workloads and integrate AI coding agents for automatic remediation of failed code checks, thereby improving development velocity and code quality.",
+      "tags": [
+        "funding",
+        "enterprise",
+        "product",
+        "coding"
+      ]
+    },
+    {
+      "id": "fb21820d806b",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "publishedAt": "2026-08-12T06:00:00.000Z",
+      "fetchedAt": "2026-08-12T14:22:33.950Z",
+      "contentText": null,
+      "summary": "OpenAI research indicates that enterprises are increasingly adopting agentic AI, utilizing tools like ChatGPT and Codex. The research also highlights that leading firms are demonstrating faster progress in AI adoption compared to others.",
+      "enterpriseAngle": "Enterprise product development teams should focus on integrating agentic AI capabilities into their offerings to stay competitive, while security teams must consider the implications of these advanced AI systems on data protection and operational integrity.",
+      "beginner": "Businesses are starting to use advanced AI systems that can act more independently, like smart assistants that can do tasks for you.",
+      "advanced": "Evaluate current AI deployments for opportunities to transition from assistive to agentic models, focusing on use cases that leverage autonomous execution to drive efficiency and innovation.",
+      "tags": [
+        "enterprise",
+        "research",
+        "agents"
+      ]
+    },
     {
       "id": "7b040f1e2d69",
       "source": "techcrunch-ai",
@@ -13615,28 +13678,6 @@
       "tags": [
         "security",
         "partnership",
-        "product",
-        "governance"
-      ],
-      "dateChecked": true
-    },
-    {
-      "id": "4da7c4fa446c",
-      "source": "anthropic",
-      "sourceName": "Anthropic",
-      "tier": "realtime",
-      "title": "Building safeguards for Claude",
-      "url": "https://www.anthropic.com/news/building-safeguards-for-claude",
-      "publishedAt": "2025-08-12",
-      "fetchedAt": "2026-07-07T15:46:14.227Z",
-      "contentText": null,
-      "summary": "Anthropic's Safeguards team focuses on ensuring Claude's beneficial use by identifying and preventing misuse that could cause real-world harm. They achieve this through a multi-layered approach that includes policy development, influencing model training, rigorous testing for harmful outputs, and real-time policy enforcement. This comprehensive strategy spans Claude's entire lifecycle, from initial training to deployment, to maintain both helpfulness and safety.",
-      "enterpriseAngle": "Enterprise security and product development teams can learn from Anthropic's multi-layered safeguard approach, integrating policy, training, and continuous testing to mitigate risks and ensure responsible AI deployment. Implementing a similar \"Unified Harm Framework\" and \"Policy Vulnerability Testing\" can help enterprises proactively address potential misuses and refine their AI products for safety and compliance.",
-      "beginner": "Anthropic has a special team that works to make sure their AI, Claude, is helpful and safe to use, preventing it from being used for bad things.",
-      "advanced": "Implement a continuous, multi-layered safeguard strategy encompassing policy, model training, pre-deployment evaluations (safety, risk, bias), and real-time enforcement, leveraging external domain experts and a Unified Harm Framework to proactively address evolving misuse vectors and ensure responsible AI deployment.",
-      "tags": [
-        "security",
-        "enterprise",
         "product",
         "governance"
       ],

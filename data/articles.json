@@ -1,6 +1,109 @@
 {
-  "updatedAt": "2026-08-12T21:56:15.742Z",
+  "updatedAt": "2026-08-13T14:25:44.550Z",
   "articles": [
+    {
+      "id": "e3b43b2d45c3",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
+      "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+      "publishedAt": "2026-08-13T13:41:10.000Z",
+      "fetchedAt": "2026-08-13T14:24:24.601Z",
+      "contentText": null,
+      "summary": "Flock, a police-tech company, is tightening rules for police access to its license plate reader network. This move is a response to public backlash and lost contracts due to concerns about mass surveillance and potential police misuse.",
+      "enterpriseAngle": "Enterprise security and product development teams creating surveillance or data collection technologies must prioritize privacy and ethical use to avoid public backlash and maintain market viability. Proactive policy adjustments can mitigate reputational damage and regulatory scrutiny.",
+      "beginner": "A company that provides technology to police is changing its rules to address public worries about privacy and how the technology is used.",
+      "advanced": "Implement robust data governance frameworks and user access controls for surveillance technologies, anticipating public and regulatory scrutiny to preemptively address privacy concerns and ensure ethical deployment.",
+      "tags": [
+        "policy",
+        "governance",
+        "product",
+        "security"
+      ]
+    },
+    {
+      "id": "fcada76fb15e",
+      "source": "deepmind",
+      "sourceName": "Google DeepMind",
+      "tier": "realtime",
+      "title": "Omni experts share what excites them most about the model.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-experts-roundtable/",
+      "publishedAt": "2026-08-13T13:30:00.000Z",
+      "fetchedAt": "2026-08-13T14:24:21.894Z",
+      "contentText": null,
+      "summary": "Google DeepMind recently launched Gemini Omni, a new model designed for generating diverse content from various inputs. The initial release, Gemini Omni Flash, focuses on simplifying video creation and editing through conversational interaction. DeepMind team members envision Omni as a tool with limitless creative potential, starting with video due to its complexity and demand.",
+      "enterpriseAngle": "Enterprise product development teams can leverage Gemini Omni Flash to streamline video content creation and editing workflows, potentially reducing production time and costs for marketing, training, and internal communications.",
+      "beginner": "Gemini Omni is a new AI tool that helps you create and edit videos just by talking to it, making complex tasks much simpler.",
+      "advanced": "Explore integrating Gemini Omni Flash's conversational video generation capabilities into existing enterprise content management systems to enhance dynamic content production and personalization at scale.",
+      "tags": [
+        "model-release",
+        "product",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "011522d5826f",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "How kids feel about AI, in their own words",
+      "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+      "publishedAt": "2026-08-13T09:00:00.000Z",
+      "fetchedAt": "2026-08-13T14:24:24.601Z",
+      "contentText": null,
+      "summary": "The article discusses an initiative to understand children's perspectives on artificial intelligence. The researchers anticipated hearing about both academic misuse and innovative applications of AI from kids.",
+      "enterpriseAngle": "Understanding how younger generations perceive and interact with AI can offer insights into future workforce expectations and potential ethical considerations for AI product development.",
+      "beginner": "Kids are already thinking about and using AI, sometimes in unexpected ways.",
+      "advanced": "Consider conducting user research with diverse age groups to uncover novel use cases and ethical concerns that might inform future AI product roadmaps and responsible AI guidelines.",
+      "tags": [
+        "research",
+        "workforce",
+        "consumer"
+      ]
+    },
+    {
+      "id": "117cf23b4eb2",
+      "source": "cursor",
+      "sourceName": "Cursor",
+      "tier": "realtime",
+      "title": "Aug 13, 2026 · company Cursor earns AIUC-1 certification for agent security and reliability Kenneth Moras 4m Kenneth Moras · 4m",
+      "url": "https://cursor.com/blog/aiuc-1",
+      "publishedAt": "2026-08-13",
+      "fetchedAt": "2026-08-13T14:24:23.552Z",
+      "contentText": null,
+      "summary": "Cursor has achieved AIUC-1 certification, a new standard for AI agent security, safety, and reliability. This certification involved an independent audit of organizational controls and adversarial testing of Cursor's agents, which are used by 70% of Fortune 500 companies. The AIUC-1 standard was developed with input from over 100 Fortune 500 CISOs and risk leaders, incorporating frameworks like NIST AI RMF and MITRE ATLAS.",
+      "enterpriseAngle": "Enterprises using AI agents, especially for consequential tasks, can now rely on the AIUC-1 certification to provide stronger evidence of how these agents behave under pressure, addressing concerns beyond traditional data security. This certification helps product development teams ensure their AI agents meet robust security and reliability standards, which is crucial for widespread enterprise adoption.",
+      "beginner": "A new certification called AIUC-1 helps ensure that AI tools, especially those that write code, are safe and reliable for businesses to use.",
+      "advanced": "Leverage the AIUC-1 standard and its recurring evaluation model to benchmark and continuously improve the security posture of your enterprise AI agents, particularly in areas like secrets protection, secure code generation, and agent identity management.",
+      "tags": [
+        "security",
+        "enterprise",
+        "product",
+        "benchmark"
+      ]
+    },
+    {
+      "id": "3daa30d9847f",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Some Claude users are mad that Anthropic's new watermarks will catch them using it at their jobs, classes",
+      "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "publishedAt": "2026-08-12T22:26:37.000Z",
+      "fetchedAt": "2026-08-13T14:24:24.089Z",
+      "contentText": null,
+      "summary": "Anthropic has implemented watermarking on Claude's AI-generated text outputs to comply with the EU AI Act's Transparency Code, which mandates labeling AI-created content. This new policy has sparked debate among users, with some expressing frustration over potential detection of AI use in academic or professional settings, while others support it as a necessary measure for transparency.",
+      "enterpriseAngle": "Enterprise product development teams must consider regulatory compliance like the EU AI Act when designing AI features, as transparency and content labeling can significantly impact user perception and adoption. Security teams should also note the implications of watermarking for data provenance and the potential for misuse or detection of AI-generated content within their organizations.",
+      "beginner": "AI watermarks are like invisible digital tags that show when text was created by an AI, helping people know what's real and what's not.",
+      "advanced": "Implement robust content provenance strategies, including watermarking, to meet evolving global AI regulations and clearly communicate the origin of AI-generated outputs to end-users and stakeholders.",
+      "tags": [
+        "policy",
+        "product",
+        "governance",
+        "enterprise"
+      ]
+    },
     {
       "id": "2f233deb4aaf",
       "source": "techcrunch-ai",
@@ -143,6 +246,67 @@
       "advanced": "Evaluate the feasibility of integrating voice-first AI wearable technology into enterprise workflows to capture unstructured data and improve real-time knowledge synthesis, while prioritizing robust data encryption and access management.",
       "tags": [
         "product",
+        "consumer",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "b1e003665ffe",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Lovable confirms new $13.3B valuation, raises another $400M",
+      "url": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
+      "publishedAt": "2026-08-12T16:04:27.000Z",
+      "fetchedAt": "2026-08-13T14:24:24.089Z",
+      "contentText": null,
+      "summary": "Lovable, a European vibe-coding startup, has secured an additional $400 million in Series C funding, bringing its valuation to $13.3 billion. This funding follows the company achieving $500 million in annualized run rate revenue in June and a significant increase in its Google Cloud usage. Lovable hosts 60 million projects and attracts 900 million monthly visitors, offering both its own AI model and other frontier models.",
+      "enterpriseAngle": "For enterprise product development teams, Lovable's success highlights the value of integrating proprietary AI models alongside established frontier models to enhance user experience and scale operations. The substantial growth in cloud infrastructure usage also underscores the increasing demand for robust backend solutions to support expanding AI-driven platforms.",
+      "beginner": "Lovable, a company that helps people create code with a certain 'vibe,' has raised a lot of money because many people are using its service and its AI technology.",
+      "advanced": "Evaluate the strategic implications of Lovable's hybrid AI model approach (in-house and frontier) for your own product roadmap, considering the balance between customization, cost-efficiency, and scalability for enterprise applications.",
+      "tags": [
+        "funding",
+        "enterprise",
+        "product",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "806059b3fc9f",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
+      "url": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
+      "publishedAt": "2026-08-12T15:44:56.000Z",
+      "fetchedAt": "2026-08-13T14:24:24.089Z",
+      "contentText": null,
+      "summary": "A $250 million acquisition of Indian startup VideoVerse by Minute Media has collapsed amid allegations of fraud, forged signatures, and missing funds. The founder, Vinayak Shrivastav, is facing multiple lawsuits from investors and creditors who claim he used fraudulent documents and accumulated significant debt. Minute Media terminated its engagement with VideoVerse, citing \"significant discrepancies\" in the startup's representations.",
+      "enterpriseAngle": "This case highlights the critical importance of rigorous due diligence and robust internal controls for enterprises during mergers and acquisitions, especially when dealing with startups. It underscores the potential for significant financial and reputational risks if trust is misplaced and verification processes are insufficient.",
+      "beginner": "Even big business deals can go wrong if people are not honest and documents are faked.",
+      "advanced": "Implement multi-layered due diligence frameworks, including independent forensic audits and legal verification of all financial and contractual documents, to mitigate fraud risks in M&A activities.",
+      "tags": [
+        "enterprise",
+        "governance"
+      ]
+    },
+    {
+      "id": "ed15c3fb5382",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard",
+      "url": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
+      "publishedAt": "2026-08-12T14:22:00.000Z",
+      "fetchedAt": "2026-08-13T14:24:24.089Z",
+      "contentText": null,
+      "summary": "The market for AI notetaking hardware has expanded beyond credit-card-sized devices and earbuds to include new wearables, particularly rings. These devices aim to capture thoughts and ideas, similar to how earlier AI hardware captured meetings. Sandbar is introducing a voice-enabled ring, hoping to succeed where other AI hardware has struggled.",
+      "enterpriseAngle": "Enterprise product development teams should consider the form factor and user experience of AI-powered wearables for capturing spontaneous ideas and information. Security teams will need to evaluate data privacy and access controls for these new types of always-on recording devices.",
+      "beginner": "AI notetaking devices are getting smaller and more integrated into everyday items like rings, allowing you to record thoughts and meetings easily.",
+      "advanced": "Evaluate the integration challenges and data governance implications of deploying voice-enabled AI wearables for enterprise knowledge capture and productivity.",
+      "tags": [
+        "product",
+        "hardware",
         "consumer",
         "enterprise"
       ]

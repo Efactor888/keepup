@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-08-13T21:55:20.443Z",
+  "updatedAt": "2026-08-14T14:18:31.823Z",
   "articles": [
+    {
+      "id": "b31072b49fe0",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+      "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+      "publishedAt": "2026-08-14T14:05:00.000Z",
+      "fetchedAt": "2026-08-14T14:17:46.166Z",
+      "contentText": null,
+      "summary": "Hyperscalers like Amazon, Google, Meta, and Microsoft are investing heavily in natural gas power plants to fuel their AI data centers, despite previously favoring renewable energy sources. A new report from Noreva suggests that natural gas prices could triple in some U.S. regions due to increased demand from hyperscalers, declining supply growth, and rising exports, potentially leading to significant cost increases for these companies. This shift could make running AI data centers much more expensive and potentially impact consumer utility bills.",
+      "enterpriseAngle": "Enterprise product development teams relying on hyperscale AI infrastructure may face increased operational costs due to potential natural gas price volatility, impacting the economics of AI services and potentially driving up token costs. Security teams should monitor the broader supply chain risks associated with energy infrastructure dependencies as hyperscalers become more deeply embedded in energy markets.",
+      "beginner": "Big tech companies are building their own power plants using natural gas to run their AI, but this might become very expensive soon.",
+      "advanced": "Evaluate the long-term cost implications of AI infrastructure procurement, considering potential energy price shocks and the shift in hyperscaler energy strategies, and explore alternative energy-efficient architectures or grid-connected solutions to mitigate future operational cost increases.",
+      "tags": [
+        "enterprise",
+        "infrastructure",
+        "funding",
+        "product"
+      ]
+    },
+    {
+      "id": "20b744e598ba",
+      "source": "cursor",
+      "sourceName": "Cursor",
+      "tier": "realtime",
+      "title": "Aug 14, 2026 · Company Cursor is joining SpaceX Cursor has officially been acquired by SpaceX. Cursor Team · 2m 2 min read",
+      "url": "https://cursor.com/blog/joining-spacex",
+      "publishedAt": "2026-08-14",
+      "fetchedAt": "2026-08-14T14:17:44.689Z",
+      "contentText": null,
+      "summary": "Cursor, a company focused on AI teammates and code generation, has been acquired by SpaceX. This acquisition follows an earlier partnership aimed at accelerating model training. Cursor will now leverage SpaceX's extensive GPU resources to develop more powerful and cost-effective AI models.",
+      "enterpriseAngle": "Enterprise product development teams can anticipate more capable and economical AI models for coding and task automation, potentially leading to increased efficiency and reduced operational costs in software development. This acquisition could also signal a trend of vertical integration in AI, where compute infrastructure providers acquire AI application developers.",
+      "beginner": "A company that helps people write code with AI has been bought by SpaceX, which will give them more powerful computers to make even better AI tools.",
+      "advanced": "Evaluate the potential impact of this acquisition on the competitive landscape for AI-powered coding assistants, considering the enhanced compute resources Cursor now commands through SpaceX's GPU fleet, and explore opportunities for integrating Grok 4.6 or future models into existing development workflows.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "product",
+        "coding"
+      ]
+    },
     {
       "id": "db3e778cea5d",
       "source": "techcrunch-ai",
@@ -145,6 +187,67 @@
         "enterprise",
         "learning",
         "agents"
+      ]
+    },
+    {
+      "id": "7e04a9e0c364",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+      "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+      "publishedAt": "2026-08-13T15:30:52.000Z",
+      "fetchedAt": "2026-08-14T14:17:46.166Z",
+      "contentText": null,
+      "summary": "Microsoft is merging its consumer and business Copilot applications and discontinuing several unsuccessful AI features, including Group Chats and AI-generated podcasts. This consolidation aims to simplify the user experience and make Copilot more competitive with other AI assistants like ChatGPT, Claude, and Gemini. The move reflects an acknowledgment that many of its initial AI features did not gain traction with users.",
+      "enterpriseAngle": "Enterprise product development teams should note Microsoft's strategic pivot to consolidate AI offerings and deprecate underperforming features, highlighting the importance of user adoption and a streamlined product vision in the rapidly evolving AI landscape. This also suggests a need for enterprises to carefully evaluate the long-term viability and integration of AI tools they adopt.",
+      "beginner": "Microsoft is making its AI assistant, Copilot, simpler by combining its different versions and removing features people weren't using much.",
+      "advanced": "Evaluate your organization's AI tool stack for feature redundancy and user engagement, preparing for potential consolidation or deprecation of less-utilized functionalities to optimize resource allocation and user experience.",
+      "tags": [
+        "product",
+        "enterprise",
+        "digest"
+      ]
+    },
+    {
+      "id": "d410f7210702",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Nvidia's new $500B plan is risky but brilliant, especially for aging GPUs",
+      "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
+      "publishedAt": "2026-08-13T15:08:00.000Z",
+      "fetchedAt": "2026-08-14T14:17:46.166Z",
+      "contentText": null,
+      "summary": "Nvidia has secured commitments of up to $500 billion from major financial firms to build AI data centers, a move that aims to create a secondary market for aging GPUs. Nvidia will guarantee up to 25% of the residual value of its chips used as collateral in these deals, a strategy designed to sustain demand for its hardware over time. This plan, while financially risky for Nvidia, seeks to establish AI infrastructure as a long-term, investable asset.",
+      "enterpriseAngle": "Enterprise security and product development teams could benefit from a more robust secondary market for AI hardware, potentially lowering the cost of entry for AI initiatives and providing more diverse hardware options. This initiative could also influence how enterprises plan for the lifecycle and depreciation of their AI infrastructure investments.",
+      "beginner": "Nvidia is making a big financial move to help fund the creation of more AI data centers and ensure that its computer chips remain valuable even as they get older.",
+      "advanced": "Evaluate the potential for leveraging a secondary market for GPUs to optimize hardware refresh cycles and reduce capital expenditure on AI infrastructure, considering Nvidia's residual value guarantees.",
+      "tags": [
+        "enterprise",
+        "funding",
+        "infrastructure",
+        "product"
+      ]
+    },
+    {
+      "id": "e149f6dcb3a5",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Apple in talks to pay publishers to provide Siri with current news: report",
+      "url": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
+      "publishedAt": "2026-08-13T14:34:43.000Z",
+      "fetchedAt": "2026-08-14T14:17:46.166Z",
+      "contentText": null,
+      "summary": "Apple is reportedly in discussions with various publishers to license their content for the upcoming Siri AI, aiming to provide users with current news and information. The proposed compensation model is pay-per-use, a departure from traditional fixed licensing fees, with Apple reportedly considering a nine-figure budget for these payments. This initiative is part of Apple's broader effort to significantly enhance Siri's capabilities.",
+      "enterpriseAngle": "Enterprise product development teams, especially those building AI assistants, should note Apple's strategy of directly compensating content creators for data used to train and power their models. This approach could set a precedent for how enterprises acquire and license real-time data, impacting future content acquisition and partnership models.",
+      "beginner": "Apple is working to make its Siri AI smarter by paying news companies to use their articles, so Siri can give you up-to-date information.",
+      "advanced": "Evaluate the implications of Apple's proposed variable compensation model for content licensing, considering its potential to disrupt traditional fixed-fee agreements and influence data acquisition strategies for real-time AI applications.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "product"
       ]
     },
     {

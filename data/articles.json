@@ -1,6 +1,90 @@
 {
-  "updatedAt": "2026-08-14T14:18:31.823Z",
+  "updatedAt": "2026-08-14T21:32:32.170Z",
   "articles": [
+    {
+      "id": "8a4a811ddfc4",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "How Claude's text watermarking works",
+      "url": "https://www.anthropic.com/news/claude-text-watermark",
+      "publishedAt": "2026-08-14T20:06:43.000Z",
+      "fetchedAt": "2026-08-14T21:31:30.845Z",
+      "contentText": null,
+      "summary": "Anthropic's future Claude models will incorporate an imperceptible text watermark to indicate the likelihood of AI generation, a change driven by compliance with the EU AI Act and a broader industry code of practice. This watermarking method, based on Google DeepMind's SynthID-Text, subtly influences word choices without affecting text quality, content, or cost, and is undetectable to readers. The watermark does not contain identifying information and cannot be traced to specific users or chats.",
+      "enterpriseAngle": "Enterprise product development teams will need to integrate watermarking into their AI-powered applications to comply with evolving regulations like the EU AI Act, ensuring their AI-generated content can be identified without compromising output quality or user experience. Security teams should note that while watermarking helps identify AI-generated content, it does not provide user attribution or guarantee protection against malicious content generation.",
+      "beginner": "AI models like Claude will soon include a hidden signal in the text they write, helping to identify it as AI-generated without changing how it looks or reads.",
+      "advanced": "Implement robust content provenance strategies leveraging imperceptible watermarking techniques, such as those based on SynthID-Text, to meet regulatory requirements and enhance content traceability without impacting model performance or user experience.",
+      "tags": [
+        "model-release",
+        "policy",
+        "governance",
+        "product"
+      ],
+      "dateChecked": true
+    },
+    {
+      "id": "0a600d7e7744",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Google will now allow users to remove visible watermark from its AI generations",
+      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+      "publishedAt": "2026-08-14T16:13:40.000Z",
+      "fetchedAt": "2026-08-14T21:31:34.926Z",
+      "contentText": null,
+      "summary": "Google is introducing an option for users to remove visible watermarks from AI-generated content, including images, videos, and songs, across its Nano Banana, Omni, and Lyria models. This change, available in Gemini and Flow, aims to balance creative control with transparency by maintaining invisible SynthID watermarks and C2PA metadata. Google is also open-sourcing Credentio, a library for developers to embed local validation mechanisms in their applications.",
+      "enterpriseAngle": "Enterprise product development teams can leverage the new Credentio library to integrate local validation for AI-generated content, offering greater flexibility while ensuring transparency through invisible watermarks and metadata. This allows for more professional and creative use of AI-generated media without sacrificing the ability to identify its origin.",
+      "beginner": "Google is making it easier for people to use AI-generated pictures and videos by letting them turn off the visible labels, but it will still have hidden labels to show if AI made them.",
+      "advanced": "Integrate Google's new Credentio library into your applications to provide local validation for AI-generated media, ensuring compliance and transparency while offering users the flexibility to manage visible watermarks.",
+      "tags": [
+        "product",
+        "enterprise",
+        "coding",
+        "model-release"
+      ]
+    },
+    {
+      "id": "09cd4c66e1c4",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone'?",
+      "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+      "publishedAt": "2026-08-14T15:43:28.000Z",
+      "fetchedAt": "2026-08-14T21:31:34.926Z",
+      "contentText": null,
+      "summary": "Meta has released Glimmer, an open-weight AI model available for public download and local execution, contrasting with their more powerful, API-restricted Muse Spark model. This release aligns with Mark Zuckerberg's stated belief that AI should be universally accessible rather than concentrated among a few labs.",
+      "enterpriseAngle": "Enterprises can leverage open-weight models like Glimmer for internal development and customization without relying on external APIs, potentially reducing vendor lock-in and fostering innovation. However, they must also consider the resource implications of running such models on their own infrastructure.",
+      "beginner": "Some AI models are freely available for anyone to use and modify, while others are kept private by companies.",
+      "advanced": "Evaluate the feasibility and strategic advantages of integrating open-weight models into your enterprise AI stack, considering the balance between customization, infrastructure investment, and proprietary model performance.",
+      "tags": [
+        "model-release",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "5f4cacaaf2bf",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Kog is going deeper to squeeze more inference out of GPUs",
+      "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+      "publishedAt": "2026-08-14T14:50:11.000Z",
+      "fetchedAt": "2026-08-14T21:31:34.926Z",
+      "contentText": null,
+      "summary": "French startup Kog is developing software to significantly increase the inference speed of large language models (LLMs) on existing datacenter GPUs like AMD MI300X and Nvidia H200. The company aims to achieve up to 30 times faster LLM inference by deeply optimizing software for specific GPU hardware, addressing a critical bottleneck in AI workflows. Kog's approach involves low-level reverse engineering of GPUs to unlock their full potential, with initial demonstrations showing impressive speeds on smaller models.",
+      "enterpriseAngle": "Enterprise product development teams can potentially leverage Kog's technology to drastically reduce AI inference costs and latency on their current GPU infrastructure, accelerating AI-powered applications and improving user experience. This could enable faster iteration cycles for AI-driven products and more efficient use of existing hardware investments.",
+      "beginner": "Kog is making AI run much faster on the powerful computer chips companies already own, which will make AI tools quicker and cheaper to use.",
+      "advanced": "Investigate Kog's low-level GPU optimization techniques for potential integration into your inference stack to maximize throughput and minimize latency on existing datacenter GPU deployments, particularly for large language models.",
+      "tags": [
+        "enterprise",
+        "product",
+        "infrastructure",
+        "coding"
+      ]
+    },
     {
       "id": "b31072b49fe0",
       "source": "techcrunch-ai",
@@ -23,6 +107,26 @@
       ]
     },
     {
+      "id": "1fe42c5e40c5",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Meta's ‘open' AI, and a $250M deal gone very wrong",
+      "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+      "publishedAt": "2026-08-14T14:00:00.000Z",
+      "fetchedAt": "2026-08-14T21:31:34.926Z",
+      "contentText": null,
+      "summary": "Meta has released Glimmer, an open-weight AI model available for download and local execution, contrasting with their proprietary Muse Spark model. This release aligns with Mark Zuckerberg's view that AI should be widely accessible rather than concentrated among a few research labs.",
+      "enterpriseAngle": "Enterprises can leverage open-weight models like Glimmer for internal development and customization without relying on external APIs, potentially reducing vendor lock-in and fostering innovation. This approach also allows for greater control over data privacy and model deployment within an organization's own infrastructure.",
+      "beginner": "Meta is making some of its AI technology freely available for anyone to use and modify, similar to open-source software.",
+      "advanced": "Evaluate the feasibility of integrating open-weight models like Glimmer into your enterprise's AI strategy to enhance internal capabilities and mitigate API dependency risks, while ensuring robust governance and security protocols for local deployments.",
+      "tags": [
+        "model-release",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
       "id": "20b744e598ba",
       "source": "cursor",
       "sourceName": "Cursor",
@@ -41,6 +145,27 @@
         "partnership",
         "product",
         "coding"
+      ]
+    },
+    {
+      "id": "b298bf870518",
+      "source": "xai",
+      "sourceName": "xAI (Grok)",
+      "tier": "realtime",
+      "title": "Aug 14, 2026 Grok 4.6 in GitHub Copilot",
+      "url": "https://x.ai/news/grok-4-6-github-copilot",
+      "publishedAt": "2026-08-14",
+      "fetchedAt": "2026-08-14T21:31:32.222Z",
+      "contentText": null,
+      "summary": "Grok 4.6, xAI's newest coding model, has been integrated into GitHub Copilot, making it accessible to developers using VS Code and GitHub. It is also available via the SpaceXAI console for direct API access. Businesses may need to enable Grok 4.6 within their Copilot settings.",
+      "enterpriseAngle": "Enterprise development teams can now leverage Grok 4.6 within GitHub Copilot to enhance coding efficiency, though IT administrators might need to adjust Copilot settings to enable its use. The model's availability through the SpaceXAI console offers an alternative for direct integration into custom development workflows.",
+      "beginner": "A new AI user can now use Grok 4.6 to help them write code more easily within popular developer tools like GitHub Copilot.",
+      "advanced": "Integrate Grok 4.6 into your development pipeline via GitHub Copilot or the SpaceXAI API, and evaluate its performance against existing coding assistants for specific use cases and cost-effectiveness.",
+      "tags": [
+        "model-release",
+        "coding",
+        "product",
+        "enterprise"
       ]
     },
     {

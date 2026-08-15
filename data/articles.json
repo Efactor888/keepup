@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-08-15T13:35:57.677Z",
+  "updatedAt": "2026-08-15T21:27:33.225Z",
   "articles": [
+    {
+      "id": "7086513972fc",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "publishedAt": "2026-08-15T18:58:39.000Z",
+      "fetchedAt": "2026-08-15T21:27:14.582Z",
+      "contentText": null,
+      "summary": "Anthropic has provided further details on how its Claude chatbot will watermark generated text, explaining that it will use the SynthID-Text approach to embed undetectable patterns in low-stakes word choices. This initiative aims to comply with the EU AI Act's Transparency Code, which mandates the identification of AI-generated content. The company states that watermarking will not affect output quality and will be resistant to light editing, though complete rewrites can remove it.",
+      "enterpriseAngle": "Enterprise product development teams leveraging large language models for content generation must consider integrating watermarking solutions to meet regulatory compliance, such as the EU AI Act, and to ensure transparency regarding AI-generated content. Security teams should be aware that while watermarking helps identify AI-generated text, it is distinct from AI detection methods that look for stylistic 'tells' and may not fully prevent misuse if content is heavily edited.",
+      "beginner": "Watermarking AI-generated text means that AI models like Claude will subtly embed a hidden signal in the words they choose, making it possible to tell if the text was created by AI without changing how it reads.",
+      "advanced": "Implement a robust watermarking strategy for AI-generated content, leveraging techniques like SynthID-Text, and develop a detection API to ensure compliance with emerging regulations such as the EU AI Act, while also educating users on the limitations regarding heavy text modification.",
+      "tags": [
+        "product",
+        "policy",
+        "governance",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "04418f82cc0c",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "SpaceX officially closes its Cursor acquisition",
+      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "publishedAt": "2026-08-15T16:30:00.000Z",
+      "fetchedAt": "2026-08-15T21:27:14.582Z",
+      "contentText": null,
+      "summary": "SpaceX has finalized its acquisition of AI coding startup Cursor, following an initial agreement in April and a subsequent decision to proceed with the acquisition in June. Cursor will now integrate with SpaceX, gaining access to what it describes as the world's largest fleet of GPUs. This move aims to leverage SpaceX's computing infrastructure to scale AI intelligence.",
+      "enterpriseAngle": "This acquisition highlights a trend of large enterprises integrating specialized AI capabilities and significant computing resources to accelerate product development and innovation. For enterprise product teams, this means a potential increase in the sophistication and scale of AI-powered tools available for internal use and future external offerings.",
+      "beginner": "SpaceX, a company known for rockets, bought an AI company that helps with coding, giving it access to a lot of powerful computers to make AI smarter.",
+      "advanced": "Evaluate the strategic implications of vertical integration between infrastructure providers and AI application developers, particularly concerning the competitive advantage derived from proprietary access to large-scale GPU fleets for model training and deployment.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "infrastructure",
+        "coding"
+      ]
+    },
     {
       "id": "8a4a811ddfc4",
       "source": "anthropic",

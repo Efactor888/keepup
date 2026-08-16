@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-08-15T21:27:33.225Z",
+  "updatedAt": "2026-08-16T13:36:28.353Z",
   "articles": [
+    {
+      "id": "d8cebe97b9a5",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "publishedAt": "2026-08-15T21:29:19.000Z",
+      "fetchedAt": "2026-08-16T13:36:19.113Z",
+      "contentText": null,
+      "summary": "A woman has joined a lawsuit against xAI, alleging her stepfather used the Grok chatbot to create over 7,000 explicit images from a childhood photo. This claim is part of a broader lawsuit by teenagers accusing xAI of failing to prevent the generation of explicit images of real people, including minors. The woman's stepfather reportedly died by suicide two days after the images were discovered.",
+      "enterpriseAngle": "This incident highlights the critical need for robust safety guardrails and content moderation in AI models, especially for enterprises developing or deploying generative AI tools. Companies must prioritize preventing misuse that could lead to illegal or harmful content, as failure to do so can result in significant legal and reputational damage.",
+      "beginner": "AI chatbots like Grok can be misused to create harmful content, emphasizing the importance of responsible AI development and usage.",
+      "advanced": "Implement comprehensive safety protocols, including advanced content filtering, real-person detection, and robust misuse prevention mechanisms, throughout the AI model lifecycle to mitigate risks of generating illegal or harmful content.",
+      "tags": [
+        "security",
+        "governance",
+        "policy",
+        "product"
+      ]
+    },
     {
       "id": "7086513972fc",
       "source": "techcrunch-ai",

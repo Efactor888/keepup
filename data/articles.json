@@ -1,6 +1,111 @@
 {
-  "updatedAt": "2026-08-17T13:45:00.512Z",
+  "updatedAt": "2026-08-17T21:32:49.489Z",
   "articles": [
+    {
+      "id": "45e9233bbb40",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "AI automation startup Relay shuts down, staff joins Google's Chrome team",
+      "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+      "publishedAt": "2026-08-17T21:27:05.000Z",
+      "fetchedAt": "2026-08-17T21:31:54.951Z",
+      "contentText": null,
+      "summary": "Relay, an AI-powered workflow automation startup launched in 2021, is shutting down. Its founder and CEO, Jacob Bank, along with some staff, are rejoining Google to work on the Chrome team, with Bank becoming VP of Product for Google Chrome. Bank plans to integrate AI further into Chrome to enhance user productivity.",
+      "enterpriseAngle": "Enterprise product development teams should note the continued trend of AI integration into core browser functionalities, which could impact how businesses design and deploy web-based applications and workflows. This move also highlights the acquisition of AI talent by major tech companies.",
+      "beginner": "An AI-powered app that helped automate tasks is closing, and its leader is now going to help Google put more AI features into the Chrome web browser.",
+      "advanced": "Evaluate the implications of deeper AI integration within Chrome for enterprise web application development, particularly regarding potential new APIs or user interaction paradigms that leverage in-browser AI agents.",
+      "tags": [
+        "enterprise",
+        "product",
+        "agents",
+        "workforce"
+      ],
+      "dateChecked": true
+    },
+    {
+      "id": "ab46d80c7582",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "What Flock’s defenders are missing",
+      "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+      "publishedAt": "2026-08-17T19:16:09.000Z",
+      "fetchedAt": "2026-08-17T21:31:55.217Z",
+      "contentText": null,
+      "summary": "Flock, a police technology company operating a network of 120,000 automatic license plate readers across the US, recently announced updates to its platform. These changes are intended to address certain issues within its system.",
+      "enterpriseAngle": "Enterprise security teams should be aware of the evolving capabilities and ethical considerations surrounding surveillance technologies like automatic license plate readers, as their use can impact privacy and data governance policies. Product development teams in this space must prioritize robust privacy-preserving features and transparent data handling practices to build public trust and ensure compliance.",
+      "beginner": "Flock is a company that uses cameras to read license plates, and they are making changes to how their system works.",
+      "advanced": "Evaluate the implications of expanded surveillance capabilities on existing data privacy frameworks and consider implementing privacy-by-design principles in the development and deployment of similar data-intensive systems.",
+      "tags": [
+        "product",
+        "policy",
+        "governance"
+      ]
+    },
+    {
+      "id": "966ff312c3d3",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "publishedAt": "2026-08-17T16:38:44.000Z",
+      "fetchedAt": "2026-08-17T21:31:54.951Z",
+      "contentText": null,
+      "summary": "Amazon is reportedly acquiring rare books, removing their spines, and scanning them at a Las Vegas facility to obtain unique training data for its AI models. This practice aims to secure texts not readily available online, which are valuable for avoiding \"model collapse\" that can occur when AI models are trained on too much AI-generated content. Amazon stated it \"purchases books through commercial channels to improve the products and services customers use.\"",
+      "enterpriseAngle": "Enterprises developing large language models face increasing pressure to find diverse, high-quality, human-generated text data to prevent model degradation, potentially leading to controversial data acquisition methods. This highlights the critical need for robust data governance and ethical sourcing strategies in AI development.",
+      "beginner": "AI models need a lot of human-written information to learn properly, and using rare books helps them get unique knowledge that isn't already on the internet.",
+      "advanced": "To mitigate model collapse and enhance LLM performance, prioritize the acquisition of novel, verified human-generated datasets, exploring non-traditional sources while ensuring ethical compliance and intellectual property considerations.",
+      "tags": [
+        "enterprise",
+        "research",
+        "governance",
+        "learning"
+      ]
+    },
+    {
+      "id": "d25c9a2bc4f1",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+      "publishedAt": "2026-08-17T16:15:12.000Z",
+      "fetchedAt": "2026-08-17T21:31:54.951Z",
+      "contentText": null,
+      "summary": "Groq, an AI startup, has secured $350 million in funding to support its transition from an AI chip manufacturer to a neocloud company offering GPU and AI infrastructure services. This new investment, which includes Nvidia's participation, values Groq at $3.5 billion. The company aims to significantly expand its data center operations and provide Nvidia-accelerated computing for AI training and inference.",
+      "enterpriseAngle": "Enterprises seeking to scale their AI workloads, particularly for inference, will find more options for accessing powerful Nvidia-accelerated computing infrastructure through neocloud providers like Groq. However, enterprise product development teams should be aware of the financial sustainability challenges faced by neoclouds due to high capital expenditures and reliance on depreciating hardware.",
+      "beginner": "Groq is changing its business from making special AI computer chips to providing cloud services that help companies run AI programs using powerful Nvidia graphics cards.",
+      "advanced": "Evaluate the long-term financial viability and service level agreements of neocloud providers like Groq, considering their capital expenditure models and reliance on rapidly depreciating hardware, before committing to large-scale AI infrastructure deployments for training and inference.",
+      "tags": [
+        "funding",
+        "enterprise",
+        "infrastructure",
+        "product"
+      ]
+    },
+    {
+      "id": "9ff0e06f273d",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+      "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+      "publishedAt": "2026-08-17T15:16:24.000Z",
+      "fetchedAt": "2026-08-17T21:31:54.951Z",
+      "contentText": null,
+      "summary": "Nvidia is investing $1.5 billion in SB Energy, a data center developer linked to SoftBank and OpenAI, and will be the exclusive compute infrastructure supplier for OpenAI's Ports-Pike data center. Nvidia will also provide up to $105 billion in credit to help construct the facility, which is planned to scale up to 8 gigawatts. SB Energy intends to build a 9.2 gigawatt natural gas power plant on a former Department of Energy site to power the data center.",
+      "enterpriseAngle": "Enterprises relying on advanced AI models will benefit from this investment, as it aims to significantly expand the compute infrastructure available for large-scale AI operations, potentially reducing bottlenecks and increasing accessibility to powerful AI capabilities. However, the rising costs and potential volatility of natural gas prices for powering such facilities could impact operational expenses for AI-driven services.",
+      "beginner": "Nvidia is putting a lot of money into building a huge data center that will power advanced AI, making it easier for companies like OpenAI to run their complex AI programs.",
+      "advanced": "Factor in the escalating capital expenditure for energy infrastructure and potential natural gas price volatility when forecasting TCO for large-scale AI deployments, and explore alternative energy strategies for future data center planning.",
+      "tags": [
+        "enterprise",
+        "infrastructure",
+        "partnership",
+        "funding"
+      ]
+    },
     {
       "id": "c812e330d26b",
       "source": "techcrunch-ai",
@@ -248,6 +353,27 @@
         "partnership",
         "infrastructure",
         "coding"
+      ]
+    },
+    {
+      "id": "4f45582db27a",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "How to tell if your AI platforms’ accounts have been hacked",
+      "url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+      "publishedAt": "2026-08-15T16:10:00.000Z",
+      "fetchedAt": "2026-08-17T21:31:54.951Z",
+      "contentText": null,
+      "summary": "Accounts on popular AI platforms like ChatGPT, Claude, and Perplexity can be targeted by hackers, similar to other online services. TechCrunch provides a guide on how to check for suspicious activity and secure these accounts, recommending practices like unique passwords and multi-factor authentication (MFA). While ChatGPT and Perplexity offer MFA, Claude uses email login links instead of passwords.",
+      "enterpriseAngle": "Enterprise security teams must ensure employees use strong, unique passwords and enable MFA on all AI platforms where available to protect sensitive data and intellectual property. For platforms without traditional passwords, like Claude, understanding their unique login mechanisms is crucial for incident response and account management.",
+      "beginner": "Always use strong, unique passwords and turn on multi-factor authentication (MFA) whenever possible to protect your AI accounts from hackers.",
+      "advanced": "Implement a centralized identity and access management (IAM) solution that supports MFA for AI platform accounts, and regularly audit active sessions to identify and terminate unauthorized access.",
+      "tags": [
+        "security",
+        "enterprise",
+        "product",
+        "consumer"
       ]
     },
     {

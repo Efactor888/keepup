@@ -1,6 +1,129 @@
 {
-  "updatedAt": "2026-08-16T21:27:02.574Z",
+  "updatedAt": "2026-08-17T13:45:00.512Z",
   "articles": [
+    {
+      "id": "c812e330d26b",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+      "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+      "publishedAt": "2026-08-17T13:10:05.000Z",
+      "fetchedAt": "2026-08-17T13:44:07.234Z",
+      "contentText": null,
+      "summary": "Wispr, an AI dictation startup, secured $280 million in Series B funding, valuing the company at $2 billion. This funding will support its expansion into new areas like meeting note-taking and improve its core dictation quality with a new model called Canto, which aims to reduce error rates significantly. The company is also exploring new human-computer interaction interfaces through Wispr Interface Labs.",
+      "enterpriseAngle": "Enterprise product development teams can leverage advanced speech-to-text models like Wispr's Canto for improved accuracy in internal tools and meeting transcription services, enhancing productivity and data integrity. Security teams should consider the implications of integrating such tools, particularly regarding data privacy and compliance with recorded conversations.",
+      "beginner": "Wispr, a company that helps computers understand what people say, just got a lot of money to make its tools better and expand into new areas like taking notes during meetings.",
+      "advanced": "Evaluate the Canto model's performance against existing benchmarks for speech-to-text accuracy and consider its integration capabilities for secure, enterprise-grade meeting summarization and workflow automation.",
+      "tags": [
+        "funding",
+        "product",
+        "enterprise",
+        "model-release"
+      ]
+    },
+    {
+      "id": "13298ed20f8f",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "What happens when a kid’s robot best friend dies?",
+      "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+      "publishedAt": "2026-08-17T09:00:00.000Z",
+      "fetchedAt": "2026-08-17T13:44:07.756Z",
+      "contentText": null,
+      "summary": "The article describes the long-term relationship between a child named Xander and a robot companion named Moxie, highlighting how Moxie taught Xander coping mechanisms for anxiety and anger. Their interaction involved practicing various breathing exercises to manage emotions over six years.",
+      "enterpriseAngle": "Enterprises developing AI companions or therapeutic tools should consider the long-term emotional impact and potential attachment users form with these systems, especially regarding their lifecycle and eventual discontinuation. Product development teams must design for emotional resilience and support mechanisms when AI relationships are central to the user experience.",
+      "beginner": "AI companions can help children learn to manage their feelings, like practicing breathing exercises to calm down.",
+      "advanced": "When designing AI-powered therapeutic companions, incorporate lifecycle planning that addresses user attachment and potential emotional distress upon service termination or device failure, perhaps through graduated disengagement protocols or memory archiving features.",
+      "tags": [
+        "product",
+        "consumer",
+        "research",
+        "agents"
+      ]
+    },
+    {
+      "id": "cfb1ad6d5c2e",
+      "source": "google-ai",
+      "sourceName": "Google AI",
+      "tier": "realtime",
+      "title": "Get closer to the game with Gemini and Pixel",
+      "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+      "publishedAt": "2026-08-17T08:00:00.000Z",
+      "fetchedAt": "2026-08-17T13:44:04.811Z",
+      "contentText": null,
+      "summary": "Google has announced new long-term partnerships between Gemini and Pixel with five major European football clubs: Arsenal FC, FC Barcelona, FC Bayern München, Liverpool FC, and Paris Saint-Germain. These collaborations aim to enhance the fan experience by providing deep match insights through Gemini's AI and exclusive behind-the-scenes content captured with Pixel cameras. A key objective is to increase the global visibility of women's football by equally partnering with both men's and women's teams.",
+      "enterpriseAngle": "Enterprises can leverage AI-powered personal assistants like Gemini to offer enhanced, real-time insights and interactive experiences for their customers, while utilizing advanced smartphone camera technology for authentic content creation and brand storytelling. This strategy also demonstrates how technology partnerships can be used to support social initiatives, such as promoting underrepresented segments within an industry.",
+      "beginner": "Google is using its AI assistant, Gemini, and its Pixel phones to help football fans get more information about games and see exclusive content from their favorite teams.",
+      "advanced": "Integrate agentic AI capabilities for proactive task handling and real-time data analysis to create dynamic, personalized user experiences, while simultaneously employing advanced mobile imaging and AI tools for high-quality, authentic content generation that supports strategic brand and social objectives.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "product",
+        "consumer"
+      ]
+    },
+    {
+      "id": "f137d9ea2f9f",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "The Defender’s Window",
+      "url": "https://openai.com/index/the-defenders-window",
+      "publishedAt": "2026-08-17T05:30:00.000Z",
+      "fetchedAt": "2026-08-17T13:44:04.522Z",
+      "contentText": null,
+      "summary": "OpenAI is actively working to enhance its cybersecurity defenses in response to AI's transformative impact on both offensive and defensive security strategies. The company aims to provide insights into its internal security measures and offer guidance for other security teams.",
+      "enterpriseAngle": "Enterprise security teams should analyze how AI is being leveraged by threat actors to develop more sophisticated attacks and simultaneously explore AI-powered tools to bolster their own defenses.",
+      "beginner": "AI is changing how cyberattacks happen and how we protect against them.",
+      "advanced": "Evaluate current security postures against AI-driven threats and integrate AI-powered defensive solutions to maintain a robust security perimeter.",
+      "tags": [
+        "security",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "ad5623d5cc70",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "OpenAI joins PORTS-Pike project",
+      "url": "https://openai.com/index/openai-joins-ports-pike-project",
+      "publishedAt": "2026-08-17T05:00:00.000Z",
+      "fetchedAt": "2026-08-17T13:44:04.522Z",
+      "contentText": null,
+      "summary": "OpenAI has announced its participation in the PORTS-Pike project. This involvement aims to increase community investment and create thousands of jobs in Southern Ohio.",
+      "enterpriseAngle": "This move signals OpenAI's growing interest in regional economic development and could influence where other AI companies consider investing in infrastructure and workforce development.",
+      "beginner": "OpenAI is investing in a project in Ohio, which will create many jobs.",
+      "advanced": "Evaluate potential future infrastructure and workforce development opportunities in regions targeted by major AI players like OpenAI.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "workforce",
+        "funding"
+      ]
+    },
+    {
+      "id": "96670aeff66e",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "New policy ideas for the Intelligence Age",
+      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "publishedAt": "2026-08-17T03:15:00.000Z",
+      "fetchedAt": "2026-08-17T13:44:04.522Z",
+      "contentText": null,
+      "summary": "OpenAI is funding 14 independent projects to explore new policy ideas related to artificial intelligence. These projects aim to enhance economic opportunities and improve societal resilience in an era shaped by advanced AI.",
+      "enterpriseAngle": "Enterprises should monitor these policy developments as they could influence future regulations, ethical guidelines, and operational frameworks for AI adoption and product development.",
+      "beginner": "OpenAI is supporting research into how AI can be managed to benefit everyone.",
+      "advanced": "Track the outcomes of these funded projects to anticipate potential regulatory shifts and integrate emerging policy best practices into your AI governance strategy.",
+      "tags": [
+        "policy",
+        "governance",
+        "research"
+      ]
+    },
     {
       "id": "943d4b7d862e",
       "source": "techcrunch-ai",

@@ -1,6 +1,128 @@
 {
-  "updatedAt": "2026-08-17T21:32:49.489Z",
+  "updatedAt": "2026-08-18T13:49:32.377Z",
   "articles": [
+    {
+      "id": "5d36f3cb10c3",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Perplexity’s free AI offer left it with millions more users in India",
+      "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+      "publishedAt": "2026-08-18T13:45:40.000Z",
+      "fetchedAt": "2026-08-18T13:48:38.277Z",
+      "contentText": null,
+      "summary": "Perplexity offered its premium AI service free for a year to millions of Indian telecom giant Airtel's customers, resulting in a significant increase in app downloads and monthly active users. While new downloads dropped sharply after the promotion ended, monthly active users remained substantially higher than before the offer. Early data suggests a rise in in-app purchase and subscription revenue, indicating some users may be converting to paid subscribers, though auto-renewal could also be a factor.",
+      "enterpriseAngle": "This case study offers valuable insights for enterprise product and marketing teams considering freemium models or strategic partnerships to drive user acquisition and potential revenue conversion in emerging markets. It highlights the challenge of translating large user bases into sustainable revenue, even with significant initial uptake.",
+      "beginner": "Perplexity gave away its paid AI service in India and gained many users, and some of them might now be paying for it.",
+      "advanced": "Analyze the conversion rates and churn from this large-scale freemium experiment, paying close attention to the impact of auto-renewal defaults on reported revenue, to inform future market entry and pricing strategies.",
+      "tags": [
+        "enterprise",
+        "product",
+        "partnership",
+        "consumer"
+      ],
+      "dateChecked": true
+    },
+    {
+      "id": "9765648ad527",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Partnering with CodeAI to prepare the first AI generation",
+      "url": "https://openai.com/index/partnering-with-codeai",
+      "publishedAt": "2026-08-18T11:00:00.000Z",
+      "fetchedAt": "2026-08-18T13:48:34.298Z",
+      "contentText": null,
+      "summary": "OpenAI and CodeAI have formed a partnership to equip students with AI literacy, critical thinking skills regarding AI, and the ability to use and develop AI responsibly.",
+      "enterpriseAngle": "This partnership highlights the growing importance for enterprises to invest in AI education and responsible AI development, as the future workforce will require these foundational skills.",
+      "beginner": "Learning about AI now will help you understand and use future technologies effectively.",
+      "advanced": "Integrate responsible AI principles and educational initiatives into your talent development strategies to prepare for an AI-fluent workforce.",
+      "tags": [
+        "partnership",
+        "workforce",
+        "learning"
+      ]
+    },
+    {
+      "id": "01003c6680bc",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "url": "https://openai.com/index/chatgpt-for-teens",
+      "publishedAt": "2026-08-18T11:00:00.000Z",
+      "fetchedAt": "2026-08-18T13:48:34.298Z",
+      "contentText": null,
+      "summary": "OpenAI has launched ChatGPT for Teens, a version of its AI chatbot designed to help teenagers with learning and critical thinking. This new offering includes enhanced built-in protections and features to promote healthy use, along with additional parental controls.",
+      "enterpriseAngle": "While directly consumer-focused, this initiative highlights the increasing need for AI developers to consider age-appropriate content and safety features, which could influence future enterprise product development for younger users or educational sectors. Enterprise product teams should note the emphasis on 'built-in protections' and 'healthy-use features' as best practices for responsible AI deployment.",
+      "beginner": "ChatGPT for Teens is a special version of the AI chatbot made safer for young people to use for schoolwork and learning.",
+      "advanced": "Evaluate the specific 'built-in protections' and 'healthy-use features' implemented in ChatGPT for Teens to inform the development of responsible AI applications for sensitive user groups or regulated industries.",
+      "tags": [
+        "product",
+        "consumer",
+        "governance"
+      ]
+    },
+    {
+      "id": "d253cb87afb8",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "We still don’t know how people are really using AI",
+      "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+      "publishedAt": "2026-08-18T10:06:43.000Z",
+      "fetchedAt": "2026-08-18T13:48:38.528Z",
+      "contentText": null,
+      "summary": "AI researchers claim that reports from companies like Anthropic and OpenAI on how their AI products are being used lack independent verification. They suggest that these companies only share data that aligns with their interests, making it difficult to get a complete picture of AI usage.",
+      "enterpriseAngle": "Enterprise product development teams relying on public usage data for AI product roadmaps should be aware of potential biases and consider independent research or internal telemetry for a more accurate understanding of user behavior. Security teams should also note that a lack of transparency in usage data could obscure potential misuse patterns or vulnerabilities.",
+      "beginner": "We don't have a full, unbiased picture of how people are actually using AI tools because the companies making them control the data released.",
+      "advanced": "Implement robust, privacy-preserving telemetry within your own AI applications to gather unbiased usage data, and cross-reference vendor-provided statistics with independent research where available to inform strategic decisions and risk assessments.",
+      "tags": [
+        "research",
+        "governance",
+        "product"
+      ]
+    },
+    {
+      "id": "c121eaf78a25",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "AI’s recursive self-improvement might not come so quickly after all",
+      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+      "publishedAt": "2026-08-18T09:00:00.000Z",
+      "fetchedAt": "2026-08-18T13:48:38.528Z",
+      "contentText": null,
+      "summary": "The AI industry anticipates that artificial intelligence will soon be able to improve itself without significant human intervention. This concept, known as recursive self-improvement, is based on current LLM capabilities such as code generation, synthetic data creation, and chip optimization.",
+      "enterpriseAngle": "Enterprise product development teams should consider the long-term implications of AI self-improvement on development cycles and resource allocation, while security teams must anticipate new challenges in managing autonomous systems.",
+      "beginner": "AI is expected to eventually get better on its own, like a computer program that can update itself.",
+      "advanced": "Evaluate current R&D roadmaps for integration points with autonomous AI development tools and prepare for governance frameworks that account for self-modifying AI systems.",
+      "tags": [
+        "research",
+        "product",
+        "governance"
+      ]
+    },
+    {
+      "id": "bee5424cbe19",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Anthropic's annualized revenue surges to $65B",
+      "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+      "publishedAt": "2026-08-17T23:56:26.000Z",
+      "fetchedAt": "2026-08-18T13:48:38.277Z",
+      "contentText": null,
+      "summary": "Anthropic's annualized revenue run rate has surged to $65 billion by the end of July, up from $9 billion at the end of last year. Investors anticipate continued growth, projecting the company to finish 2026 with $100 billion to $120 billion in revenue. Anthropic is expected to pursue a public valuation of $2 trillion or more, potentially making it the largest market debut ever.",
+      "enterpriseAngle": "The rapid revenue growth and anticipated record-breaking IPO for Anthropic signal a robust and expanding market for advanced AI models, influencing enterprise investment strategies and product roadmaps in AI integration. Enterprise leaders should monitor these financial trends as indicators of market confidence and the increasing value placed on AI capabilities.",
+      "beginner": "Anthropic, a company that makes AI models, is growing very quickly and is expected to become a very valuable public company soon.",
+      "advanced": "Evaluate Anthropic's accelerating revenue and impending IPO as a bellwether for AI market capitalization and competitive landscape, informing strategic partnerships and internal AI development investments.",
+      "tags": [
+        "enterprise",
+        "funding",
+        "product"
+      ]
+    },
     {
       "id": "45e9233bbb40",
       "source": "techcrunch-ai",

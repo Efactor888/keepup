@@ -1,6 +1,192 @@
 {
-  "updatedAt": "2026-08-19T13:51:16.784Z",
+  "updatedAt": "2026-08-19T21:33:31.035Z",
   "articles": [
+    {
+      "id": "d76c9adf639a",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "AI was supposed to win people over by now — it hasn't",
+      "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+      "publishedAt": "2026-08-19T19:11:40.000Z",
+      "fetchedAt": "2026-08-19T21:31:42.710Z",
+      "contentText": null,
+      "summary": "Public sentiment towards AI is increasingly negative, with growing concern among Americans about its use in daily life and distrust in industry leaders. This backlash is impacting tech companies, who are facing public relations challenges and offering incentives to local communities for AI data center development. Consumers are not perceiving significant personal benefits from AI, leading to skepticism and a preference for retro technologies and in-person activities.",
+      "enterpriseAngle": "Enterprise product development teams must prioritize creating AI solutions that offer clear, tangible benefits to end-users, rather than simply integrating AI features for their own sake. Security teams should be aware that public distrust in AI could translate into increased scrutiny of data privacy and ethical AI practices within enterprise applications.",
+      "beginner": "Many people are becoming more worried than excited about AI because they don't see how it makes their lives better and they don't trust the companies making it.",
+      "advanced": "To counter declining public trust and overcome the current 'crisis of trust,' focus on developing and clearly communicating AI products that address genuine consumer needs and deliver demonstrable, positive societal impact beyond mere efficiency gains.",
+      "tags": [
+        "consumer",
+        "enterprise",
+        "product",
+        "governance"
+      ]
+    },
+    {
+      "id": "ef913e9fdabc",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Offering Zero Data Retention for frontier models",
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "publishedAt": "2026-08-19T19:00:00.000Z",
+      "fetchedAt": "2026-08-19T21:31:38.619Z",
+      "contentText": null,
+      "summary": "OpenAI is reinforcing its Zero Data Retention policy for certain API customers. They are also introducing Private Safety Processing, a new method designed to enhance AI safety while maintaining data privacy.",
+      "enterpriseAngle": "Enterprise customers can leverage Zero Data Retention to ensure their data isn't stored by OpenAI, addressing critical privacy concerns, while Private Safety Processing offers a path to advanced AI safety features without sacrificing data confidentiality.",
+      "beginner": "OpenAI is making sure that some customers' information isn't saved, and they're creating a new way to make AI safer without looking at private data.",
+      "advanced": "Evaluate the implications of Private Safety Processing for integrating advanced AI safety features into sensitive enterprise applications, particularly concerning compliance with data privacy regulations.",
+      "tags": [
+        "security",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "314cb75fe2f0",
+      "source": "google-ai",
+      "sourceName": "Google AI",
+      "tier": "realtime",
+      "title": "5 new ways to level up your learning with Search",
+      "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+      "publishedAt": "2026-08-19T19:00:00.000Z",
+      "fetchedAt": "2026-08-19T21:31:38.883Z",
+      "contentText": null,
+      "summary": "Google Search is introducing new AI-powered tools designed to enhance learning for students. These features include interactive visuals for understanding complex concepts, customized practice quizzes for various subjects and standardized tests, and an interactive learning experience via Lens to break down difficult problems. Additionally, users can now organize study materials with notebooks in AI Mode and create custom study documents from uploaded files or AI Mode threads.",
+      "enterpriseAngle": "Enterprise product development teams can observe Google's integration of generative UI and AI-powered learning tools into a widely used product like Search, noting the emphasis on safety by design. This demonstrates a trend towards embedding advanced AI capabilities directly into user workflows, which could inspire similar integrations in enterprise training, knowledge management, or customer support platforms.",
+      "beginner": "Google Search is adding new AI features to help you learn better, like interactive pictures, practice quizzes, and tools to organize your study notes.",
+      "advanced": "Explore the generative UI capabilities and AI Mode integrations within Google Search as a case study for deploying interactive, personalized AI experiences at scale, particularly noting the 'safety by design' approach and the use of partnerships for authoritative content.",
+      "tags": [
+        "product",
+        "learning",
+        "enterprise",
+        "consumer"
+      ]
+    },
+    {
+      "id": "961b732ad6fb",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Google packs Search and Gemini with new AI study tools",
+      "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+      "publishedAt": "2026-08-19T19:00:00.000Z",
+      "fetchedAt": "2026-08-19T21:31:42.710Z",
+      "contentText": null,
+      "summary": "Google is enhancing its AI assistant, Gemini, with new study tools integrated into both Gemini and Search. This initiative aims to position Gemini as a primary AI resource for students, intensifying Google's competition with other AI developers like OpenAI.",
+      "enterpriseAngle": "Enterprise product development teams should observe how Google integrates AI into core products like Search, as this strategy could inform future approaches to embedding AI functionalities within their own enterprise applications for enhanced user utility.",
+      "beginner": "Google is adding new AI tools to help students learn and study using its Gemini AI and Search engine.",
+      "advanced": "Evaluate the efficacy of Google's new AI study tools in Gemini and Search to inform strategies for integrating AI-powered educational features into enterprise learning platforms, focusing on user engagement and knowledge retention.",
+      "tags": [
+        "product",
+        "learning",
+        "consumer",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "a5d719298de1",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Researchers say OpenAI revoked their access to limited cyber program",
+      "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+      "publishedAt": "2026-08-19T18:46:14.000Z",
+      "fetchedAt": "2026-08-19T21:31:42.710Z",
+      "contentText": null,
+      "summary": "OpenAI's Trusted Access for Cyber program aims to provide advanced models to cybersecurity defenders to help them identify and report software vulnerabilities more efficiently. The goal is to accelerate the patching of security flaws in various systems.",
+      "enterpriseAngle": "Enterprise security teams could leverage such programs to enhance their vulnerability discovery and reporting processes, potentially improving their overall security posture and reducing time-to-patch for critical issues.",
+      "beginner": "OpenAI has a special program to help cybersecurity experts find and fix software problems faster using advanced AI tools.",
+      "advanced": "Evaluate participation in trusted access programs for advanced AI models to augment vulnerability research and accelerate disclosure workflows, ensuring compliance with responsible disclosure policies.",
+      "tags": [
+        "security",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "5bccb51355d5",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Meet the startup helping Wall Street put a price on AI compute",
+      "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+      "publishedAt": "2026-08-19T17:26:48.000Z",
+      "fetchedAt": "2026-08-19T21:31:42.710Z",
+      "contentText": null,
+      "summary": "The AI industry is investing hundreds of billions of dollars annually into data centers and GPUs, making compute the largest cost for AI product development. Despite this significant spending, there is currently no simple method to accurately price compute or for companies to manage their financial risk against price fluctuations.",
+      "enterpriseAngle": "Enterprise product development teams must contend with the escalating and unpredictable costs of AI compute, which directly impacts budget allocation and strategic planning for AI initiatives. The absence of clear pricing and hedging mechanisms creates financial uncertainty for businesses heavily invested in AI infrastructure.",
+      "beginner": "Building AI products is very expensive, mainly because of the high cost of the computing power needed, and it's hard to predict or manage these costs.",
+      "advanced": "Implement robust financial modeling and explore emerging solutions for compute cost optimization and hedging strategies to mitigate exposure to volatile GPU and data center expenses.",
+      "tags": [
+        "enterprise",
+        "infrastructure",
+        "funding",
+        "product"
+      ]
+    },
+    {
+      "id": "26eafa8274e4",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
+      "url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
+      "publishedAt": "2026-08-19T15:44:53.000Z",
+      "fetchedAt": "2026-08-19T21:31:42.710Z",
+      "contentText": null,
+      "summary": "TerraPower, a nuclear power startup founded by Bill Gates, plans to announce its first data center project this year, following an agreement with Meta to supply eight power plants. The company's Natrium reactor design incorporates molten salt energy storage, allowing it to maintain full operational capacity while quickly adapting to fluctuating power demands. This capability addresses the intermittent power needs of AI data centers and complements renewable energy sources.",
+      "enterpriseAngle": "Enterprise product development and infrastructure teams building AI data centers can leverage TerraPower's nuclear technology with integrated energy storage to ensure a stable and reliable power supply, mitigating the challenges of variable AI workloads and reducing reliance on costly battery banks or stressed traditional power sources.",
+      "beginner": "TerraPower's new nuclear reactors can store extra energy like a battery, making them perfect for powering AI data centers that need a lot of electricity that can change quickly.",
+      "advanced": "Evaluate TerraPower's Natrium reactor's molten salt energy storage as a viable solution for stabilizing power delivery to hyperscale AI training and inference clusters, considering its high capacity factor and rapid load-following capabilities against the capital expenditure and regulatory timelines of nuclear infrastructure.",
+      "tags": [
+        "infrastructure",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "60c2117fcb01",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+      "url": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
+      "publishedAt": "2026-08-19T15:00:00.000Z",
+      "fetchedAt": "2026-08-19T21:31:42.710Z",
+      "contentText": null,
+      "summary": "Amazon is making its AI assistant, Alexa+, available for free on all compatible Fire TV devices in the U.S., regardless of whether the user has a Prime subscription. This update provides features like conversational search, smart home controls, and AI-powered recommendations. The move follows a trend among companies like Google and Roku to integrate AI services into consumer electronic devices through automatic upgrades.",
+      "enterpriseAngle": "Enterprise product development teams in consumer electronics should note the industry trend of integrating AI assistants as non-optional upgrades, which can drive user engagement but also raises questions about user choice and data privacy. Security teams should consider the implications of increased AI integration on smart home control and data handling.",
+      "beginner": "AI assistants are becoming a standard feature on many smart TVs, allowing you to talk to your TV to find shows or control smart home devices.",
+      "advanced": "Evaluate the strategic implications of mandatory AI feature rollouts on user adoption, data collection, and competitive differentiation in the consumer device market, while also assessing the security posture of integrating AI with smart home ecosystems.",
+      "tags": [
+        "product",
+        "consumer",
+        "enterprise",
+        "agents"
+      ]
+    },
+    {
+      "id": "e2f95ae810b5",
+      "source": "venturebeat-ai",
+      "sourceName": "VentureBeat AI",
+      "tier": "daily",
+      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+      "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+      "publishedAt": "2026-08-19T14:18:12.000Z",
+      "fetchedAt": "2026-08-19T21:31:43.006Z",
+      "contentText": null,
+      "summary": "VentureBeat has appointed Rob Strechay as its first Lead Analyst to spearhead VentureBeat Research, focusing on enterprise AI. Strechay, with nearly three decades of experience, will provide in-depth analysis for technical decision-makers on topics like multi-vendor orchestration, security gaps in agentic pipelines, and infrastructure utilization. This initiative aims to offer objective data and insights beyond traditional news coverage to help enterprises navigate the complexities of AI deployment.",
+      "enterpriseAngle": "Enterprise security and product development teams will benefit from deeper analysis on orchestrating multi-vendor AI environments, identifying security vulnerabilities in agentic pipelines, and optimizing infrastructure budgets. This research will provide actionable insights for deploying AI in production, addressing critical challenges faced by technical decision-makers.",
+      "beginner": "VentureBeat is hiring an expert to help companies understand how to use AI effectively and securely in their businesses.",
+      "advanced": "Leverage VentureBeat Research's insights on GPU utilization, agentic security, and multi-vendor orchestration to inform your enterprise AI architecture decisions and optimize infrastructure spend.",
+      "tags": [
+        "enterprise",
+        "research",
+        "infrastructure",
+        "agents"
+      ]
+    },
     {
       "id": "2e04a0ee4f66",
       "source": "techcrunch-ai",
@@ -40,6 +226,47 @@
         "infrastructure",
         "funding",
         "enterprise"
+      ]
+    },
+    {
+      "id": "9ac0643f2427",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "url": "https://openai.com/index/replit",
+      "publishedAt": "2026-08-19T07:00:00.000Z",
+      "fetchedAt": "2026-08-19T21:31:38.619Z",
+      "contentText": null,
+      "summary": "Replit has launched Free Mode, which utilizes OpenAI's GPT-5.6 Luna model to enable users to create software without incurring token costs. This initiative aims to make software development more accessible to a broader audience.",
+      "enterpriseAngle": "Enterprises can leverage such free access to advanced AI models for rapid prototyping and internal tool development, potentially reducing initial development costs and accelerating innovation cycles.",
+      "beginner": "Replit's new Free Mode lets you build software using AI without paying for every interaction.",
+      "advanced": "Evaluate the integration of Replit's Free Mode into your development pipeline for cost-effective prototyping and proof-of-concept generation, particularly for non-critical internal applications.",
+      "tags": [
+        "product",
+        "coding",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "39aa86ee035b",
+      "source": "xai",
+      "sourceName": "xAI (Grok)",
+      "tier": "realtime",
+      "title": "Aug 19, 2026 Grok 4.6 on Amazon Bedrock",
+      "url": "https://x.ai/news/grok-4-6-amazon-bedrock",
+      "publishedAt": "2026-08-19",
+      "fetchedAt": "2026-08-19T21:31:39.364Z",
+      "contentText": null,
+      "summary": "Grok 4.6, xAI's latest flagship model, is now generally available on Amazon Bedrock. This model is designed for long-running agents and complex interactive and visual tasks, featuring a 500k context window and adjustable reasoning efforts. Users of Amazon Bedrock can now access Grok 4.6, with pricing set at $2 per 1 million input tokens and $6 per 1 million output tokens.",
+      "enterpriseAngle": "Enterprise product development teams can leverage Grok 4.6 on Amazon Bedrock to build more sophisticated AI applications, particularly those requiring extensive context or configurable reasoning for agents and visual workloads. This integration simplifies access to advanced AI capabilities for businesses already using AWS infrastructure.",
+      "beginner": "A new powerful AI model called Grok 4.6 is now available through Amazon's cloud service, making it easier for people to use it for complex tasks.",
+      "advanced": "Integrate Grok 4.6 via Amazon Bedrock into your agentic workflows, utilizing its 500k context window and configurable reasoning to optimize for specific long-running or visually intensive enterprise applications.",
+      "tags": [
+        "model-release",
+        "enterprise",
+        "partnership",
+        "product"
       ]
     },
     {

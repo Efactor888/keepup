@@ -1,6 +1,88 @@
 {
-  "updatedAt": "2026-08-18T21:31:51.557Z",
+  "updatedAt": "2026-08-19T13:51:16.784Z",
   "articles": [
+    {
+      "id": "2e04a0ee4f66",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "AI isn't close to curing cancer. This startup says it knows what it will take.",
+      "url": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
+      "publishedAt": "2026-08-19T12:00:00.000Z",
+      "fetchedAt": "2026-08-19T13:49:48.255Z",
+      "contentText": null,
+      "summary": "Vivodyne, a biotech startup, argues that the AI drug-discovery industry lacks sufficient causal biological data from human tissue, relying instead on animal testing or single-cell studies. To address this, Vivodyne has developed HIVE, modular robotic labs that can grow and autonomously monitor human tissues, generating data to train AI models that better understand human biology. The company aims to accelerate drug development by providing more accurate predictive models before costly clinical trials.",
+      "enterpriseAngle": "Enterprise pharmaceutical companies can leverage Vivodyne's HIVE technology to generate high-fidelity human tissue data, potentially reducing the high failure rate of drugs in clinical trials and accelerating the development of new therapies. This approach offers a path to more effective drug discovery by providing AI models with the causal biological data they currently lack.",
+      "beginner": "AI needs better data from real human tissues, not just animals or single cells, to make real progress in finding new medicines.",
+      "advanced": "Integrate autonomous human tissue testing platforms like Vivodyne's HIVE into early-stage drug discovery pipelines to generate causal biological data, enabling the development of more robust AI models capable of predicting drug efficacy and toxicity with higher accuracy before clinical trials.",
+      "tags": [
+        "research",
+        "product",
+        "enterprise",
+        "science"
+      ]
+    },
+    {
+      "id": "3a872f4d802b",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+      "url": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
+      "publishedAt": "2026-08-19T10:00:00.000Z",
+      "fetchedAt": "2026-08-19T13:49:48.255Z",
+      "contentText": null,
+      "summary": "Relativity Networks has secured $22 million in SAFE note funding and a $40 million follow-on order from a major hyperscaler to advance its hollow-core fiber technology. This technology transmits data 50% faster than traditional fiber by using a vacuum chamber, reducing signal travel time by microseconds. The company aims to address latency issues in large-scale AI compute deployments, which are increasingly spread across vast data center campuses.",
+      "enterpriseAngle": "Enterprises building and operating large-scale AI infrastructure can leverage faster fiber to connect geographically dispersed data centers, effectively creating larger, more synchronized compute environments. This innovation could alleviate current constraints on data center expansion and improve the performance of distributed AI workloads.",
+      "beginner": "Faster internet cables for data centers can help make AI systems work better, especially when they need to use many computers spread out over a large area.",
+      "advanced": "Evaluate the potential of hollow-core fiber to reduce inter-campus latency for distributed AI training and inference, enabling more flexible data center siting and potentially higher utilization of geographically disparate compute resources.",
+      "tags": [
+        "infrastructure",
+        "funding",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "6836a788ee9f",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+      "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+      "publishedAt": "2026-08-18T22:14:25.000Z",
+      "fetchedAt": "2026-08-19T13:49:48.255Z",
+      "contentText": null,
+      "summary": "Cursor, an AI startup now part of SpaceX, has launched Origin, a new code-hosting platform designed to compete with GitHub. Origin offers collaborative coding, browsing, editing, and pull-request management, and is interoperable with GitHub, allowing developers to sync repositories between the two platforms. This launch comes amidst ongoing frustrations with GitHub's service, including recent widespread outages and performance issues.",
+      "enterpriseAngle": "Enterprise development teams facing reliability issues with existing code-hosting solutions might consider Origin as an alternative or complementary platform, especially given its interoperability with GitHub. The promise of \"agent native\" features could also offer new avenues for automated development workflows.",
+      "beginner": "A new company called Cursor has created a new place for computer programmers to store and work on their code, similar to GitHub, especially because GitHub has been having problems lately.",
+      "advanced": "Evaluate Origin's \"agent native\" features upon release for potential integration into existing CI/CD pipelines and assess its interoperability with current GitHub-centric workflows to mitigate vendor lock-in and improve development resilience.",
+      "tags": [
+        "product",
+        "enterprise",
+        "coding",
+        "partnership"
+      ]
+    },
+    {
+      "id": "e4563871866d",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "ChatGPT Ads expands across Europe",
+      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+      "publishedAt": "2026-08-18T22:00:00.000Z",
+      "fetchedAt": "2026-08-19T13:49:45.162Z",
+      "contentText": null,
+      "summary": "ChatGPT Ads is now available in 31 European markets. This expansion allows advertisers to reach users as they engage in exploration, comparison, and decision-making processes within the platform.",
+      "enterpriseAngle": "Enterprise marketing and product teams can leverage this expansion to target European customers more effectively through ChatGPT's advertising platform, integrating AI-driven ad placements into their digital strategy.",
+      "beginner": "ChatGPT is now showing ads in many more countries in Europe, letting businesses advertise to people using the AI.",
+      "advanced": "Evaluate the new European market reach of ChatGPT Ads for potential integration into your demand generation and customer acquisition strategies, focusing on user journey touchpoints for optimal ad placement.",
+      "tags": [
+        "product",
+        "enterprise",
+        "consumer"
+      ]
+    },
     {
       "id": "67f37d861d34",
       "source": "openai",
@@ -264,6 +346,25 @@
       "advanced": "Evaluate legacy system modernization projects for AI-driven acceleration, focusing on areas where code generation or translation can yield significant time and cost savings.",
       "tags": [
         "coding",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "dfcf73efa3a6",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "How NVIDIA scales expertise with ChatGPT Work",
+      "url": "https://openai.com/index/nvidia/chatgpt-work",
+      "publishedAt": "2026-08-18T00:00:00.000Z",
+      "fetchedAt": "2026-08-19T13:49:45.162Z",
+      "contentText": null,
+      "summary": "NVIDIA is leveraging ChatGPT Work to automate manual processes, integrate diverse data streams, and expand effective operational strategies across its global operations.",
+      "enterpriseAngle": "Enterprises can utilize AI tools like ChatGPT Work to streamline operations, enhance connectivity between different data points, and efficiently scale successful practices worldwide.",
+      "beginner": "AI tools can help companies automate repetitive tasks and make their best ways of working available to everyone.",
+      "advanced": "Evaluate ChatGPT Work or similar enterprise AI solutions for automating low-value tasks and standardizing high-impact workflows across distributed teams to improve operational efficiency and consistency.",
+      "tags": [
         "enterprise",
         "product"
       ]

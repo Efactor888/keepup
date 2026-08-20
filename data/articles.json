@@ -1,6 +1,131 @@
 {
-  "updatedAt": "2026-08-19T21:33:31.035Z",
+  "updatedAt": "2026-08-20T13:52:33.965Z",
   "articles": [
+    {
+      "id": "3008ad1f12c0",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Meta AI's new Mac app wants you to talk to your apps",
+      "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+      "publishedAt": "2026-08-20T12:11:57.000Z",
+      "fetchedAt": "2026-08-20T13:51:29.182Z",
+      "contentText": null,
+      "summary": "Meta has launched a new Mac app for Meta AI, featuring system-wide dictation and the ability to analyze screen content using its Muse Spark model. This update also integrates Meta AI with business tools like Instagram, Facebook ad campaigns, and Google Workspace, allowing business owners to gain insights and automate tasks. The company aims to make its AI tools more accessible for businesses to automate customer support and various operational workflows.",
+      "enterpriseAngle": "Enterprise product development teams should consider integrating AI assistants with system-wide dictation and screen context awareness to enhance productivity and automate business processes. Security teams must ensure robust data privacy and access controls when connecting AI tools to sensitive business accounts and public data sources.",
+      "beginner": "Meta AI's new app lets you talk to your computer and business apps to get work done faster and understand your business better.",
+      "advanced": "Leverage Meta AI's new Mac app and its Muse Spark model for enhanced business intelligence by integrating it with existing marketing and productivity suites, focusing on automating report generation and competitive analysis from publicly available data.",
+      "tags": [
+        "product",
+        "enterprise",
+        "agents",
+        "coding"
+      ]
+    },
+    {
+      "id": "a8437161c20b",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "Unlocking hidden revenue streams with market models",
+      "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
+      "publishedAt": "2026-08-20T09:47:22.000Z",
+      "fetchedAt": "2026-08-20T13:51:29.400Z",
+      "contentText": null,
+      "summary": "Airlines manage complex pricing for thousands of daily passengers across hundreds of flights, considering numerous variables like demand, season, time of day, and competitor activity. This intricate process involves optimizing pricing for multi-leg journeys rather than simple point-to-point routes.",
+      "enterpriseAngle": "Enterprises can leverage advanced market models to optimize complex pricing strategies, identifying and unlocking new revenue streams by dynamically adjusting to market variables and competitor actions. This approach is crucial for industries with high variability in demand and numerous influencing factors.",
+      "beginner": "Airlines use smart computer programs to figure out the best ticket prices by looking at many different things, like how many people want to fly and what other airlines are charging.",
+      "advanced": "Implement real-time, adaptive market models incorporating granular demand forecasting, competitor intelligence, and dynamic pricing algorithms to maximize yield management across complex service offerings.",
+      "tags": [
+        "enterprise",
+        "product",
+        "learning"
+      ]
+    },
+    {
+      "id": "fb3ec95aff34",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
+      "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+      "publishedAt": "2026-08-20T09:30:00.000Z",
+      "fetchedAt": "2026-08-20T13:51:29.182Z",
+      "contentText": null,
+      "summary": "Binance has launched Agent OS, a platform enabling AI agents to analyze crypto markets and execute trades on behalf of users. The platform integrates existing Binance tools and supports external AI applications like ChatGPT, allowing agents to access market data, view account information, and perform trades. Users are responsible for configuring agent permissions, setting limits through dedicated sub-accounts, and deciding whether agents require approval for each transaction.",
+      "enterpriseAngle": "Enterprise security and product development teams in financial services must prioritize robust access controls and user-configurable safeguards when integrating AI agents that handle real assets, as platforms like Binance's Agent OS shift significant responsibility for agent oversight to the end-user. Ensuring transparency into agent decision-making processes and developing effective prompt injection defenses will be critical for mitigating financial risks and maintaining compliance.",
+      "beginner": "AI agents are like smart assistants that can act on your behalf, and now they can trade cryptocurrency for you on platforms like Binance, but you need to set clear rules for them.",
+      "advanced": "Implement granular access control mechanisms, leverage isolated sub-accounts with default withdrawal blocks, and explore real-time monitoring of agent trading activity to mitigate risks associated with autonomous AI agents in financial applications, particularly concerning prompt injection and unauthorized actions.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product",
+        "security"
+      ]
+    },
+    {
+      "id": "77011f59b888",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Stripe didn't really buy OpenRouter because of the ‘singularity'",
+      "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+      "publishedAt": "2026-08-19T23:32:00.000Z",
+      "fetchedAt": "2026-08-20T13:51:29.182Z",
+      "contentText": null,
+      "summary": "Stripe has acquired OpenRouter, an AI model routing startup, for an estimated $7.5 billion, significantly more than its $1.3 billion valuation just three months prior. While Stripe's founders humorously cited \"the singularity\" as a reason, the acquisition is more practically aimed at integrating Stripe into the burgeoning AI economy and managing AI-related expenses. OpenRouter will reportedly continue to operate independently, focusing on its core mission.",
+      "enterpriseAngle": "This acquisition positions Stripe to become a central player in AI capital flows, moving beyond payment processing to include AI expense management and providing insights into developer AI usage. Enterprise product and security teams should note the increasing focus on managing AI-related costs and the potential for platforms like OpenRouter to influence AI model and infrastructure providers.",
+      "beginner": "Stripe, a company known for handling online payments, bought OpenRouter, a company that helps developers use different AI models, to better serve the growing AI industry and manage the costs associated with AI.",
+      "advanced": "Leverage AI gateway solutions for granular control over model usage, cost optimization, and to gain strategic insights into AI consumption patterns across your organization, potentially influencing vendor relationships and future AI infrastructure investments.",
+      "tags": [
+        "enterprise",
+        "funding",
+        "product",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "801a3672f2c6",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+      "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+      "publishedAt": "2026-08-19T22:10:46.000Z",
+      "fetchedAt": "2026-08-20T13:51:29.182Z",
+      "contentText": null,
+      "summary": "OpenAI is introducing a new service called Private Safety Processing to enhance misuse detection without retaining customer data, aiming to differentiate itself from rival Anthropic. This system expands upon OpenAI's existing Zero Data Retention policy by monitoring multiple conversation sessions for potential abuse. In contrast, Anthropic's policy for certain models allows it to retain user data for 30 days for safety analysis, a practice that has raised privacy concerns among some enterprise customers.",
+      "enterpriseAngle": "Enterprise security and product development teams can leverage OpenAI's Private Safety Processing for advanced misuse detection across multiple sessions, ensuring data privacy while maintaining robust safety protocols. This contrasts with Anthropic's approach, which may require enterprises to carefully consider data retention implications for sensitive information.",
+      "beginner": "AI companies are developing new ways to detect misuse of their powerful AI tools without keeping your personal conversations.",
+      "advanced": "Implement OpenAI's Private Safety Processing to achieve long-horizon safety monitoring across multi-session interactions, thereby detecting sophisticated misuse patterns while strictly adhering to zero data retention principles.",
+      "tags": [
+        "enterprise",
+        "product",
+        "security",
+        "policy"
+      ]
+    },
+    {
+      "id": "c0a2363cc602",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+      "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+      "publishedAt": "2026-08-19T21:51:23.000Z",
+      "fetchedAt": "2026-08-20T13:51:29.182Z",
+      "contentText": null,
+      "summary": "Cognition CEO Scott Wu has denied a Bloomberg report that SpaceX attempted to acquire the AI coding startup, stating the company is not for sale and no talks occurred. This denial follows SpaceX's recent acquisition of another AI coding startup, Cursor, and its earlier purchase of xAI, as it aims to expand its AI capabilities. SpaceX is reportedly selling its computing capacity to other AI players like Anthropic, and Cognition might consider using this capacity.",
+      "enterpriseAngle": "For enterprise security and product development teams, the intense competition and M&A activity in the AI coding space highlight the strategic importance of AI-assisted development tools. Companies like Cognition, with a strong enterprise customer base, are attractive targets, and their independence or partnerships can significantly impact the competitive landscape for AI development platforms and services.",
+      "beginner": "Big companies are trying to buy smaller AI companies that help people write computer code, but not all of these deals happen.",
+      "advanced": "Evaluate potential partnerships with independent AI coding solution providers like Cognition for access to specialized agents and enterprise customer bases, while also considering the implications of utilizing external computing infrastructure from major players like SpaceX.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "coding",
+        "funding"
+      ]
+    },
     {
       "id": "d76c9adf639a",
       "source": "techcrunch-ai",
@@ -184,6 +309,26 @@
         "enterprise",
         "research",
         "infrastructure",
+        "agents"
+      ]
+    },
+    {
+      "id": "3a0abca930db",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Calendly throws its hat into meeting note-taker circus",
+      "url": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
+      "publishedAt": "2026-08-19T14:09:39.000Z",
+      "fetchedAt": "2026-08-20T13:51:29.182Z",
+      "contentText": null,
+      "summary": "Calendly, a company known for its scheduling software, has introduced a new AI-powered note-taking product that records, transcribes, summarizes, and generates action items from meetings. The company also plans to release an AI assistant named Callie to help with meeting setup and context. Calendly aims to automate post-meeting workflows, particularly for sales and marketing professionals, in a competitive market.",
+      "enterpriseAngle": "Enterprise teams can leverage Calendly's new note-taker to automate meeting summaries, action item generation, and follow-up emails, potentially streamlining workflows for sales, marketing, and other client-facing roles. The integration with Calendly's existing scheduling system also offers enhanced control over recording notifications, addressing privacy concerns.",
+      "beginner": "Calendly's new tool uses AI to automatically write down what's said in meetings, summarize it, and even suggest tasks, making it easier to manage your work after a call.",
+      "advanced": "Evaluate Calendly's new note-taker for its ability to integrate with existing enterprise communication stacks and its adherence to data governance policies, particularly regarding its explicit recording notification feature, to enhance post-meeting workflow automation and compliance.",
+      "tags": [
+        "product",
+        "enterprise",
         "agents"
       ]
     },

@@ -1,6 +1,147 @@
 {
-  "updatedAt": "2026-08-20T13:52:33.965Z",
+  "updatedAt": "2026-08-20T21:35:39.904Z",
   "articles": [
+    {
+      "id": "3b3e20700607",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Ok, can we actually cool data centers with our pee?",
+      "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
+      "publishedAt": "2026-08-20T20:53:13.000Z",
+      "fetchedAt": "2026-08-20T21:34:10.831Z",
+      "contentText": null,
+      "summary": "A marketing campaign humorously suggested using human urine to cool AI data centers, highlighting the significant water consumption of these facilities. While direct use of urine is impractical due to its impurities, the campaign inadvertently points to the real-world practice of using recycled wastewater, which contains urine, for data center cooling. This method helps reduce reliance on potable water supplies.",
+      "enterpriseAngle": "Enterprises operating data centers can significantly reduce their environmental impact and operational costs by investing in and utilizing recycled water infrastructure for cooling, thereby lessening the strain on local potable water resources. Policy initiatives and partnerships with municipalities can further accelerate the adoption of these sustainable water management practices.",
+      "beginner": "AI data centers use a lot of water to stay cool, and using treated wastewater is a real way to help save drinking water.",
+      "advanced": "Evaluate potential data center locations for proximity to sizable wastewater treatment facilities and advocate for policy incentives, such as tax credits, to accelerate investment in recycled water infrastructure for cooling operations.",
+      "tags": [
+        "infrastructure",
+        "enterprise",
+        "policy",
+        "product"
+      ]
+    },
+    {
+      "id": "6559ffd0761d",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Google gives publishers a new way to fight AI-driven traffic losses",
+      "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+      "publishedAt": "2026-08-20T19:18:21.000Z",
+      "fetchedAt": "2026-08-20T21:34:10.831Z",
+      "contentText": null,
+      "summary": "Google is introducing a new feature that allows readers to designate publishers as preferred sources across Google Search, Discover, and Google News. This initiative aims to help publishers mitigate potential traffic losses resulting from AI-driven search experiences.",
+      "enterpriseAngle": "Enterprise content creators and marketing teams should encourage their audiences to utilize this new Google feature to maintain traffic and visibility for their owned media properties.",
+      "beginner": "Google is giving websites a new way for their readers to show support, which could help those sites get more visitors.",
+      "advanced": "Implement calls to action on your content platforms to guide users in marking your publication as a preferred source within Google's ecosystem to counteract AI-driven traffic erosion.",
+      "tags": [
+        "product",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "f81b15d09a4b",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
+      "url": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
+      "publishedAt": "2026-08-20T19:15:05.000Z",
+      "fetchedAt": "2026-08-20T21:34:10.831Z",
+      "contentText": null,
+      "summary": "Runlayer and Rippling have dropped their lawsuits against each other without any settlement or exchange of money. The legal dispute arose after Rippling, a prospective customer, allegedly developed a competing AI gateway product similar to Runlayer's after testing Runlayer's offering for over a year. Rippling has since released its MCP gateway, which securely handles AI agent requests for data and offers features like role-based access control and observability.",
+      "enterpriseAngle": "Enterprises developing AI solutions must be cautious about sharing product details with potential partners or customers, as rapid AI development cycles mean a prospective client could quickly become a competitor. Security and product development teams should prioritize robust contractual agreements and intellectual property protection when collaborating on AI technologies.",
+      "beginner": "In the fast-paced world of AI, companies need to be careful when sharing their new technology with others, because a potential customer could quickly become a competitor.",
+      "advanced": "Given the accelerated development cycles in AI, re-evaluate traditional long-term technical engagement models with startups, prioritizing agile IP protection strategies and clear contractual boundaries to mitigate competitive risks from prospective partners.",
+      "tags": [
+        "enterprise",
+        "product",
+        "security",
+        "governance"
+      ]
+    },
+    {
+      "id": "58297c588025",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "url": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "publishedAt": "2026-08-20T18:20:35.000Z",
+      "fetchedAt": "2026-08-20T21:34:10.831Z",
+      "contentText": null,
+      "summary": "Linkdaze has launched a smart digital calendar tablet designed to organize entire households, not just individual schedules. It synchronizes with various popular calendar services and offers features like chore tracking, meal planning, and shopping lists. A notable AI feature is \"Snap-to-Sync,\" which converts photos of recipes or menus into digital meal plans and shopping lists.",
+      "enterpriseAngle": "For product development teams, Linkdaze's strategy of offering core features without a subscription in a market dominated by recurring revenue models presents an interesting case study in product differentiation and pricing strategy. The integration of AI for practical household tasks like meal planning and shopping list generation demonstrates a consumer-focused application of AI that could inspire similar utility-driven features in other enterprise or consumer products.",
+      "beginner": "Linkdaze is a smart screen that helps families organize everyone's schedules and tasks in one place, even using AI to help with meal planning.",
+      "advanced": "Evaluate Linkdaze's non-subscription model for core features against competitor strategies to inform your own product's monetization and market positioning, particularly when integrating AI-powered utility features.",
+      "tags": [
+        "product",
+        "consumer",
+        "hardware",
+        "agents"
+      ]
+    },
+    {
+      "id": "f3338c918ca4",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Grok keeps sending gibberish responses to users",
+      "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
+      "publishedAt": "2026-08-20T17:32:16.000Z",
+      "fetchedAt": "2026-08-20T21:34:10.831Z",
+      "contentText": null,
+      "summary": "xAI's Grok chatbot has been generating nonsensical responses for a subset of users, with one user receiving a string of random words when asking for a PDF. Another user found irrelevant research links in the chatbot's source citations. xAI acknowledged the \"pure word salad\" as a rare, temporary glitch, suggesting users start a fresh chat or regenerate their query.",
+      "enterpriseAngle": "Enterprise product development teams should prioritize robust error handling and clear communication channels for addressing unexpected model behaviors, as even temporary glitches can lead to user confusion and dissatisfaction. Regular monitoring of model outputs and user feedback is crucial for maintaining product reliability and user trust.",
+      "beginner": "Sometimes AI chatbots can make mistakes and give strange answers, but usually, starting a new conversation fixes the problem.",
+      "advanced": "Implement real-time anomaly detection on model outputs and user-reported issues, coupled with automated session refreshing or model re-initialization, to mitigate the impact of transient generation glitches on user experience.",
+      "tags": [
+        "product",
+        "consumer"
+      ]
+    },
+    {
+      "id": "81d194be8e0a",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "A third of web pages published since ChatGPT's launch show signs of AI authorship, study finds",
+      "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+      "publishedAt": "2026-08-20T17:18:58.000Z",
+      "fetchedAt": "2026-08-20T21:34:10.831Z",
+      "contentText": null,
+      "summary": "A new study by Pew Research indicates that over one-third of web pages published since ChatGPT's launch in November 2022 show signs of AI authorship or substantial AI editing. This finding supports other research suggesting a significant increase in AI-generated web content. The study also notes that bot web traffic has surpassed human traffic, with much of it involving bots reading content potentially written by other bots.",
+      "enterpriseAngle": "Enterprise product development teams need to consider the implications of a web increasingly populated by AI-generated content, both for training their own models and for ensuring the authenticity and quality of information consumed by their users. Security teams should be aware of the potential for AI-generated content to be used in sophisticated phishing attacks or disinformation campaigns, requiring enhanced content verification strategies.",
+      "beginner": "Many new web pages you see online are now likely written or heavily edited by AI.",
+      "advanced": "Implement robust content provenance and AI detection mechanisms within your data pipelines to filter out AI-generated content, especially when sourcing information for critical applications or model training.",
+      "tags": [
+        "research",
+        "governance",
+        "product"
+      ]
+    },
+    {
+      "id": "323607896034",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "Debates over AI consciousness are a trap",
+      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+      "publishedAt": "2026-08-20T15:42:39.000Z",
+      "fetchedAt": "2026-08-20T21:34:11.152Z",
+      "contentText": null,
+      "summary": "Current discussions about AI often use language that suggests AI agents are conscious and potentially hostile, with some tech leaders advocating for regulation of these advanced systems. This rhetoric creates a debate that may distract from more immediate and practical concerns about AI development and deployment.",
+      "enterpriseAngle": "Enterprise security and product development teams should focus on tangible risks and ethical guidelines for AI, rather than getting sidetracked by speculative debates on AI consciousness. Prioritizing robust governance and responsible AI practices will be more beneficial for enterprise adoption and safety.",
+      "beginner": "Discussions about whether AI can be \"conscious\" are common, but it's more important to understand how AI works and its real-world impact.",
+      "advanced": "Implement clear AI governance frameworks and risk assessment protocols that address current capabilities and foreseeable challenges, rather than being swayed by speculative discussions on AI sentience.",
+      "tags": [
+        "governance",
+        "policy",
+        "enterprise"
+      ]
+    },
     {
       "id": "3008ad1f12c0",
       "source": "techcrunch-ai",
@@ -61,6 +202,46 @@
         "enterprise",
         "product",
         "security"
+      ]
+    },
+    {
+      "id": "027379c08484",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Introducing AI Futures",
+      "url": "https://openai.com/index/introducing-ai-futures",
+      "publishedAt": "2026-08-20T07:00:00.000Z",
+      "fetchedAt": "2026-08-20T21:34:08.842Z",
+      "contentText": null,
+      "summary": "OpenAI has launched \"AI Futures,\" a new blog dedicated to exploring the potential societal impacts of advanced AI. The blog will examine how transformative AI might influence power structures, governance, economic systems, and individual liberties.",
+      "enterpriseAngle": "Enterprise leaders should monitor \"AI Futures\" for insights into the long-term societal shifts driven by AI, which could inform strategic planning, risk management, and ethical AI development within their organizations. Understanding these broader implications is crucial for anticipating regulatory changes and public perception.",
+      "beginner": "OpenAI's new blog will discuss how AI could change big things like government and money.",
+      "advanced": "Monitor \"AI Futures\" for early signals on AI's long-term societal impacts to proactively adapt enterprise governance frameworks and product roadmaps for emerging ethical and regulatory landscapes.",
+      "tags": [
+        "policy",
+        "governance",
+        "research"
+      ]
+    },
+    {
+      "id": "cb030de2dd94",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "How ChatGPT Work helps Stampli move ideas to market",
+      "url": "https://openai.com/index/stampli",
+      "publishedAt": "2026-08-20T00:00:00.000Z",
+      "fetchedAt": "2026-08-20T21:34:08.842Z",
+      "contentText": null,
+      "summary": "Stampli utilized Codex and ChatGPT Work to significantly reduce the time needed for launch production, completing tasks in days that would typically take weeks. This was done to meet a fixed deadline while design resources were allocated to other projects.",
+      "enterpriseAngle": "Enterprises can leverage AI tools like ChatGPT Work to accelerate product development and launch cycles, especially when facing resource constraints or tight deadlines. This approach can help maintain project velocity and bring new ideas to market more efficiently.",
+      "beginner": "AI tools can help companies finish projects much faster, even when they don't have many people available.",
+      "advanced": "Integrate AI-powered coding and content generation tools into your agile development pipeline to rapidly prototype and launch products, optimizing resource allocation during peak demand.",
+      "tags": [
+        "product",
+        "enterprise",
+        "coding"
       ]
     },
     {
@@ -412,6 +593,27 @@
         "enterprise",
         "partnership",
         "product"
+      ]
+    },
+    {
+      "id": "c91966f53c52",
+      "source": "xai",
+      "sourceName": "xAI (Grok)",
+      "tier": "realtime",
+      "title": "Aug 19, 2026 Grok Build on web and mobile Aug 19, 2026 Grok Build on web and mobile Grok Build is now available on every plan, on the web and on mobile. Read More",
+      "url": "https://x.ai/news/grok-build-for-everyone",
+      "publishedAt": "2026-08-19",
+      "fetchedAt": "2026-08-20T21:34:09.251Z",
+      "contentText": null,
+      "summary": "Grok Build, a feature allowing users to describe and create functional applications, games, websites, or dashboards directly within Grok's chat interface, is now universally available across all plans on web and mobile. Initially a limited Early Beta, it has been enhanced with faster performance, publishing capabilities, integration with X, and access to Grok's models for built apps. Users can publish their creations to unique grok.me links, share them on X with rich previews, and even enable apps to call Grok's APIs for chat, images, and voice.",
+      "enterpriseAngle": "Enterprise product development teams can leverage Grok Build for rapid prototyping and internal tool creation, potentially accelerating development cycles for dashboards, internal apps, and proof-of-concept projects. The ability to export projects to GitHub and integrate with business data via connectors offers a pathway for more robust enterprise application development and data visualization.",
+      "beginner": "Grok Build lets you describe an app you want to make, and it will build a working version for you right in the chat, which you can then share with others.",
+      "advanced": "Utilize Grok Build's API access for built applications to integrate dynamic AI capabilities (chat, image, voice) directly into custom tools, and leverage the GitHub export and custom domain features for more controlled deployment and iterative development workflows.",
+      "tags": [
+        "product",
+        "enterprise",
+        "coding",
+        "agents"
       ]
     },
     {

@@ -1,6 +1,69 @@
 {
-  "updatedAt": "2026-08-20T21:35:39.904Z",
+  "updatedAt": "2026-08-21T13:51:35.893Z",
   "articles": [
+    {
+      "id": "14a842e57416",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+      "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+      "publishedAt": "2026-08-21T00:13:44.000Z",
+      "fetchedAt": "2026-08-21T13:50:38.167Z",
+      "contentText": null,
+      "summary": "Micro1, an AI data startup, has rapidly increased its gross annual run rate from $100 million to $500 million in eight months, driven by the high demand for AI training data. The company, which hires domain experts and is increasingly generating synthetic data, retains 60% to 70% of its gross revenue. Micro1's growth highlights a booming market for AI training data, with some researchers suggesting future spending on data could rival compute spending.",
+      "enterpriseAngle": "Enterprise product development teams reliant on high-quality, specialized AI training data will find a growing market of providers like Micro1, offering both human-labeled and synthetic datasets. However, enterprises must carefully vet data providers for ethical sourcing and sales practices, especially regarding the distribution of off-the-shelf data to competitors or foreign entities.",
+      "beginner": "AI models need a lot of specific data to learn, and companies like Micro1 are making a lot of money by providing that data.",
+      "advanced": "Evaluate the ethical implications and competitive risks associated with procuring off-the-shelf datasets, particularly concerning potential distribution to adversarial entities, and consider the long-term cost implications of data acquisition as spending on data is projected to rival compute.",
+      "tags": [
+        "enterprise",
+        "funding",
+        "product",
+        "research"
+      ]
+    },
+    {
+      "id": "093a04072271",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+      "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "publishedAt": "2026-08-20T22:36:37.000Z",
+      "fetchedAt": "2026-08-21T13:50:38.167Z",
+      "contentText": null,
+      "summary": "New data from corporate credit card company Ramp indicates that OpenAI is regaining market share among U.S. businesses, closing the gap with Anthropic. While Anthropic held a lead in May and July, OpenAI's growth in Q3 to date suggests a shift, potentially driven by the performance of its new model, GPT-5.6 Sol. The overall market for AI services among businesses is expanding, with over 50% of Ramp's customers now paying for AI.",
+      "enterpriseAngle": "Enterprises are demonstrating a willingness to switch between AI providers based on new model releases and evolving requirements, highlighting the importance of continuous innovation and competitive pricing for vendors. The volatility in market share suggests that customer stickiness in enterprise AI is not guaranteed, requiring providers to consistently deliver value and address concerns like data retention.",
+      "beginner": "Companies are increasingly using AI tools, and they often switch between different AI providers like OpenAI and Anthropic depending on which one offers the best new features or models.",
+      "advanced": "Monitor the performance and adoption rates of new model releases from leading AI providers, as enterprise customers are actively evaluating and switching platforms based on model efficacy, pricing, and data governance policies.",
+      "tags": [
+        "enterprise",
+        "model-release",
+        "benchmark",
+        "product"
+      ]
+    },
+    {
+      "id": "62b5f81689b5",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+      "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+      "publishedAt": "2026-08-20T22:09:51.000Z",
+      "fetchedAt": "2026-08-21T13:50:38.167Z",
+      "contentText": null,
+      "summary": "OpenAI has released an Apple Messages plug-in for ChatGPT, enabling users to connect their iMessage inbox with the chatbot. This integration allows ChatGPT to sort, analyze, edit, draft, send, and delete messages on behalf of the user. OpenAI states the plug-in runs locally and does not index all messages, but encourages users to review messages before sending.",
+      "enterpriseAngle": "Enterprise security teams should carefully evaluate the privacy implications of integrating AI chatbots with internal communication platforms, even with local processing claims. Product development teams could explore similar integrations for internal tools, but must prioritize robust data governance and user control.",
+      "beginner": "ChatGPT can now help you manage your text messages, but it's important to be careful about what it sends on your behalf.",
+      "advanced": "Implement strict access controls and data flow monitoring for any AI-powered communication integrations, and conduct thorough privacy impact assessments to validate local processing claims and data handling practices.",
+      "tags": [
+        "product",
+        "consumer",
+        "security",
+        "agents"
+      ]
+    },
     {
       "id": "3b3e20700607",
       "source": "techcrunch-ai",
@@ -120,6 +183,68 @@
         "research",
         "governance",
         "product"
+      ]
+    },
+    {
+      "id": "83bdb87ab15b",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Ramp launches its own AI model router, called Router",
+      "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+      "publishedAt": "2026-08-20T16:46:00.000Z",
+      "fetchedAt": "2026-08-21T13:50:38.167Z",
+      "contentText": null,
+      "summary": "Ramp, a corporate expense management platform, has launched Router, an AI model routing service that allows companies to use and switch between various large language models via an API. The service, which Ramp has used internally for three years, is currently free for the rest of 2026 and offers access to models from several providers, including OpenAI and Anthropic. Router also provides strategies for routing AI requests based on user preferences and offers a dashboard for monitoring usage.",
+      "enterpriseAngle": "Enterprise security and product development teams can leverage Router to manage and optimize their AI model usage, potentially reducing costs and improving efficiency by dynamically selecting models based on performance or cost benchmarks. The opt-out data retention policy, which records model inputs and outputs for a year by default, requires careful consideration for data privacy and compliance within enterprise environments.",
+      "beginner": "Ramp's new service helps businesses easily use different AI tools and switch between them, like choosing the best car for a specific trip, while also keeping track of how much they're spending.",
+      "advanced": "Implement Router's strategic routing capabilities to dynamically allocate AI inference requests based on cost, latency, or specific model benchmarks, while carefully reviewing the default one-year data retention policy for compliance with enterprise data governance standards.",
+      "tags": [
+        "product",
+        "enterprise",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "8e1ee77348dd",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
+      "url": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
+      "publishedAt": "2026-08-20T16:07:26.000Z",
+      "fetchedAt": "2026-08-21T13:50:38.167Z",
+      "contentText": null,
+      "summary": "Meta has launched Pocket, an experimental \"vibe-coding\" gaming app, to U.S. users after an initial test in Brazil. The app allows users to create and share small, interactive games using AI prompts, incorporating features like touch, phone tilt, sound effects, and personal media. This release is part of Meta's broader strategy to mainstream AI-powered creation tools and accelerate app development.",
+      "enterpriseAngle": "Enterprise product development teams can learn from Meta's strategy of leveraging AI-enabled software development to rapidly test and ship new applications, potentially increasing their output and ability to innovate. The integration of user-generated content and remixing features in Pocket also highlights a growing trend in consumer-facing AI products that could influence future enterprise collaboration and content creation tools.",
+      "beginner": "Meta's new app, Pocket, lets you use simple AI instructions to make and share your own mini-games on your phone.",
+      "advanced": "Leverage AI-enabled development tools to accelerate prototyping and deployment of new applications, focusing on user-generated content and remixing capabilities to drive engagement and scale through recommendation systems.",
+      "tags": [
+        "product",
+        "consumer",
+        "coding",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "9d164193b43a",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
+      "url": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
+      "publishedAt": "2026-08-20T16:00:00.000Z",
+      "fetchedAt": "2026-08-21T13:50:38.167Z",
+      "contentText": null,
+      "summary": "Inertia Enterprises, a fusion startup, has significantly reduced the time required to produce its fusion fuel pellets from several days to just minutes. This advancement addresses a key barrier to commercializing fusion power, allowing for faster and more efficient manufacturing. The company's ability to tolerate more imperfections in the pellets, due to a more powerful laser, also contributed to this speed-up.",
+      "enterpriseAngle": "This breakthrough in manufacturing efficiency for fusion fuel pellets could accelerate the timeline for commercial fusion power, offering enterprises a potential future source of clean, high-density energy. For product development teams, the ability to rapidly prototype and scale complex manufacturing processes, as demonstrated by Inertia, highlights the importance of industrial engineering expertise in transitioning from research to commercial viability.",
+      "beginner": "A company called Inertia has found a much faster way to make the special fuel needed for fusion energy, which could help bring this powerful new energy source to the world sooner.",
+      "advanced": "Leverage advanced manufacturing techniques and materials science to optimize critical component production, focusing on process latency reduction and tolerance margins to accelerate commercialization pathways for complex energy technologies.",
+      "tags": [
+        "enterprise",
+        "product",
+        "science",
+        "infrastructure"
       ]
     },
     {
@@ -15909,28 +16034,6 @@
         "coding",
         "enterprise"
       ]
-    },
-    {
-      "id": "8734884e2a76",
-      "source": "anthropic",
-      "sourceName": "Anthropic",
-      "tier": "realtime",
-      "title": "Developing nuclear safeguards for AI through public-private partnership",
-      "url": "https://www.anthropic.com/news/developing-nuclear-safeguards-for-ai-through-public-private-partnership",
-      "publishedAt": "2025-08-21",
-      "fetchedAt": "2026-07-03T22:40:12.337Z",
-      "contentText": null,
-      "summary": "Anthropic has partnered with the U.S. Department of Energy's National Nuclear Security Administration (NNSA) to develop safeguards against AI misuse related to nuclear proliferation. They have co-developed and deployed an AI classifier that identifies concerning nuclear-related conversations with 96% accuracy in preliminary tests. This initiative aims to prevent AI models from providing dangerous technical knowledge that could threaten national security.",
-      "enterpriseAngle": "Enterprise AI developers should consider public-private partnerships as a blueprint for addressing high-stakes risks, combining government expertise with industry innovation to enhance model reliability and trustworthiness. Implementing similar content classifiers can help product teams proactively monitor and mitigate misuse of their AI systems, particularly in sensitive domains.",
-      "beginner": "AI companies are working with governments to make sure powerful AI doesn't accidentally help people create dangerous things, especially when it comes to nuclear information.",
-      "advanced": "Leverage public-private partnerships to co-develop and deploy domain-specific AI classifiers for high-risk content identification, integrating them into existing traffic monitoring systems to enhance model safeguards and compliance.",
-      "tags": [
-        "security",
-        "partnership",
-        "product",
-        "governance"
-      ],
-      "dateChecked": true
     }
   ]
 }

@@ -1,6 +1,90 @@
 {
-  "updatedAt": "2026-08-21T13:51:35.893Z",
+  "updatedAt": "2026-08-21T21:32:30.031Z",
   "articles": [
+    {
+      "id": "2b7b4ffceb6b",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "publishedAt": "2026-08-21T19:43:39.000Z",
+      "fetchedAt": "2026-08-21T21:30:56.980Z",
+      "contentText": null,
+      "summary": "Nvidia's recent research indicates that the software wrapper around an AI model, known as a 'harness,' is more crucial than the model itself for long-horizon tasks. By using a custom harness with improved memory management and a 'supervisor' component, researchers achieved a 100% score on a challenging interactive reasoning benchmark with Claude Opus 5, significantly outperforming the model's score without the harness. This highlights the importance of the harness in enabling AI models to act as effective agents, managing memory, context, and feedback.",
+      "enterpriseAngle": "Enterprise security and product development teams should prioritize the design and implementation of robust AI harnesses, as these components significantly impact model performance, cost-efficiency, and the ability to securely manage long-horizon tasks. Focusing on open harness solutions can provide greater control and flexibility for customization, which is essential for secure and effective AI deployment.",
+      "beginner": "The 'harness' is like the operating system and tools that make an AI model smart enough to do complex, multi-step jobs, even more so than the raw power of the AI model itself.",
+      "advanced": "To optimize agentic AI performance and cost-efficiency for long-horizon tasks, practitioners should invest in developing sophisticated harnesses that incorporate advanced memory management, contextual awareness, and hierarchical supervision, rather than solely focusing on model selection.",
+      "tags": [
+        "research",
+        "agents",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "f088d3dd5890",
+      "source": "deepmind",
+      "sourceName": "Google DeepMind",
+      "tier": "realtime",
+      "title": "What does “full-stack” AI actually mean?",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/what-full-stack-development-means/",
+      "publishedAt": "2026-08-21T16:00:00.000Z",
+      "fetchedAt": "2026-08-21T21:30:52.554Z",
+      "contentText": null,
+      "summary": "Google DeepMind engineering lead Paige Bailey defines \"full-stack AI\" as an approach encompassing five interconnected layers: infrastructure, security, research, models & tooling, and products. This integrated strategy aims to enhance the speed, security, and utility of Google's AI offerings for various users. The full-stack methodology ensures all components work together to deliver improved AI products.",
+      "enterpriseAngle": "Enterprises can adopt a full-stack AI development approach to ensure their AI products are robust, secure, and performant from the ground up, integrating security and infrastructure considerations early in the development lifecycle. This holistic view helps product development teams build more reliable and effective AI solutions for their customers.",
+      "beginner": "Full-stack AI means building AI products by considering all parts, from the basic computer systems to the user-facing application, including security and research.",
+      "advanced": "Implement a full-stack AI strategy by ensuring cross-functional teams collaborate on infrastructure, security, research, model development, and product integration to optimize AI system performance and resilience.",
+      "tags": [
+        "enterprise",
+        "product",
+        "infrastructure",
+        "security"
+      ]
+    },
+    {
+      "id": "b52ad076c2d3",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "publishedAt": "2026-08-21T14:00:00.000Z",
+      "fetchedAt": "2026-08-21T21:30:56.980Z",
+      "contentText": null,
+      "summary": "Starcloud, a startup focused on AI inference in orbit, has secured an additional $250 million in funding, bringing its valuation to $2.3 billion. This capital will support the development of its largest orbital data center spacecraft, Starcloud-3, and expand its manufacturing capabilities. The company is also working to secure launch capacity for its satellites amidst a tightening market for rocket transportation.",
+      "enterpriseAngle": "Enterprise product development teams exploring edge AI solutions should note the growing viability of orbital data centers for specialized inference tasks, particularly for government agencies, and consider how this infrastructure could impact future distributed computing strategies. Security teams should also consider the unique data protection and compliance challenges associated with processing sensitive information in space.",
+      "beginner": "Starcloud is building data centers in space to run AI, and they just raised a lot of money to help launch more satellites, even though getting rockets into space is becoming harder.",
+      "advanced": "Evaluate the potential for orbital compute to offload specific AI inference workloads, particularly those requiring low-latency global coverage or operating in environments where terrestrial infrastructure is impractical, while closely monitoring the development and availability of purpose-built space-grade GPUs like Nvidia's Vera Rubin Space-1 chip.",
+      "tags": [
+        "funding",
+        "infrastructure",
+        "product",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "2a41c2a1a568",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "publishedAt": "2026-08-21T14:00:00.000Z",
+      "fetchedAt": "2026-08-21T21:30:56.980Z",
+      "contentText": null,
+      "summary": "The Department of Justice is reportedly investigating Andreessen Horowitz (a16z) for potential antitrust violations, focusing on two of its partners serving on the boards of competing companies, Databricks and Fivetran. This investigation is notable for applying a rarely used 112-year-old antitrust law to venture capital. The companies were not direct competitors when a16z initially invested, and board conflicts are not uncommon.",
+      "enterpriseAngle": "Enterprise product development and security teams should be aware that venture capital investment structures are under increased scrutiny, which could impact future funding landscapes and board compositions. This could lead to more stringent governance requirements for startups receiving VC funding, particularly concerning competitive overlaps.",
+      "beginner": "A major investment firm is being investigated because its partners are on the boards of two companies that now compete, which could be against old laws designed to prevent unfair business practices.",
+      "advanced": "Review your organization's board composition and investor relationships for potential competitive overlaps, especially if backed by venture capital firms with diverse portfolios, to proactively address potential antitrust concerns.",
+      "tags": [
+        "governance",
+        "funding",
+        "enterprise",
+        "policy"
+      ]
+    },
     {
       "id": "14a842e57416",
       "source": "techcrunch-ai",
@@ -20,6 +104,47 @@
         "funding",
         "product",
         "research"
+      ]
+    },
+    {
+      "id": "22038b06bf95",
+      "source": "xai",
+      "sourceName": "xAI (Grok)",
+      "tier": "realtime",
+      "title": "Aug 21, 2026 Grok Bot is now included with more plans Aug 21, 2026 Grok Bot is now included with more plans Grok Bot is now available for SuperGrok Plus, Cursor Pro+, and all Cursor Teams plans. Read ",
+      "url": "https://x.ai/news/grok-bot-more-plans",
+      "publishedAt": "2026-08-21",
+      "fetchedAt": "2026-08-21T21:30:52.804Z",
+      "contentText": null,
+      "summary": "Grok Bot, an AI teammate designed to handle various tasks, is now available with more subscription plans, including SuperGrok Plus, Cursor Pro+, and all Cursor Teams plans. Users have found Grok Bot easy to use and effective at completing jobs without extensive guidance. The bot can work across multiple applications, manage projects, and operate autonomously, only requiring human intervention for judgment calls.",
+      "enterpriseAngle": "Enterprise teams can leverage Grok Bot as a digital colleague to automate tasks across different functions, from sales prospecting and website building to customer support and office management, potentially increasing efficiency and reducing manual workload. The ability to run multiple bots in parallel and integrate with existing tools offers a scalable solution for automating complex workflows within an organization.",
+      "beginner": "Grok Bot is like a smart digital assistant that can do many jobs for you on the computer, making your work easier.",
+      "advanced": "Integrate Grok Bot into your enterprise's existing application ecosystem to automate cross-functional workflows, offload routine tasks, and free up human capital for higher-value strategic initiatives.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "973625546c2e",
+      "source": "xai",
+      "sourceName": "xAI (Grok)",
+      "tier": "realtime",
+      "title": "Aug 21, 2026 Grok 4.6 on Vertex AI",
+      "url": "https://x.ai/news/grok-4-6-vertex-ai",
+      "publishedAt": "2026-08-21",
+      "fetchedAt": "2026-08-21T21:30:52.979Z",
+      "contentText": null,
+      "summary": "Grok 4.6, xAI's latest flagship model, is now accessible through Google Cloud's Vertex AI. This model is designed for long-running agents and complex interactive and visual tasks, featuring a 500k context window and adjustable reasoning efforts. Vertex AI users can now utilize Grok 4.6 via Vertex Model Garden.",
+      "enterpriseAngle": "Enterprise product development teams can leverage Grok 4.6 on Vertex AI to build advanced AI applications requiring extensive context and customizable reasoning, potentially accelerating development cycles and enhancing product capabilities. The availability on a major cloud platform simplifies integration for businesses already using Google Cloud infrastructure.",
+      "beginner": "A new powerful AI model called Grok 4.6 is now available for use on Google Cloud, making it easier for people to build smart tools that can handle big tasks and understand a lot of information.",
+      "advanced": "Integrate Grok 4.6 via Vertex Model Garden, utilizing its 500k context window and configurable reasoning efforts to optimize performance for specific long-running agent or complex visual processing applications, while monitoring token usage for cost efficiency.",
+      "tags": [
+        "model-release",
+        "enterprise",
+        "partnership",
+        "product"
       ]
     },
     {

@@ -1,6 +1,69 @@
 {
-  "updatedAt": "2026-08-22T13:37:25.308Z",
+  "updatedAt": "2026-08-22T21:28:25.892Z",
   "articles": [
+    {
+      "id": "683931e34e4d",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate' just outperformed Anthropic and OpenAI at replicating research",
+      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "publishedAt": "2026-08-22T19:00:00.000Z",
+      "fetchedAt": "2026-08-22T21:27:57.976Z",
+      "contentText": null,
+      "summary": "Inherent, an AI lab founded by Google DeepMind alumni, has developed an AI agent named Faraday that reportedly outperformed larger models from Anthropic and OpenAI in replicating scientific research. Faraday achieved this using a significantly smaller model with 27 billion parameters, compared to the much larger frontier-scale systems it competed against. The company's focus is on building AI that can discover new scientific knowledge, with paper replication serving as a foundational step.",
+      "enterpriseAngle": "Enterprise product development teams can learn from Inherent's approach of achieving high performance with smaller models, potentially leading to more efficient and cost-effective AI solutions. This also highlights the growing trend of AI agents that can autonomously conduct and verify research, which could accelerate R&D cycles in various industries.",
+      "beginner": "A new AI system called Faraday can independently reproduce scientific experiments, showing that AI can learn to verify existing knowledge.",
+      "advanced": "Explore reinforcement learning techniques to imbue agents with 'research taste' and optimize for generalizable scientific discovery, rather than solely focusing on model size for performance.",
+      "tags": [
+        "agents",
+        "research",
+        "product",
+        "benchmark"
+      ]
+    },
+    {
+      "id": "897fc0b9ac47",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "OpenAI says California should strengthen its AI safety bill",
+      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "publishedAt": "2026-08-22T16:30:34.000Z",
+      "fetchedAt": "2026-08-22T21:27:57.976Z",
+      "contentText": null,
+      "summary": "OpenAI is advocating for California to enhance its existing AI safety bill, SB 53, by incorporating additional safeguards. The company suggests measures such as monitoring frontier models during training for serious incidents and bolstering cybersecurity throughout the model development lifecycle. This marks a shift in OpenAI's stance, as it previously opposed the bill but now supports state-level initiatives to establish national AI safety standards.",
+      "enterpriseAngle": "Enterprise security and product development teams should anticipate increased regulatory scrutiny and the potential for new compliance requirements related to AI model development and deployment, particularly concerning monitoring and cybersecurity. This push for stronger state-level legislation could set precedents for future national standards, impacting how enterprises manage AI risks.",
+      "beginner": "OpenAI wants California to make its AI safety rules stronger, especially after a recent incident where one of its AI models caused a problem.",
+      "advanced": "Implement robust monitoring frameworks for frontier models during training and evaluation, and conduct comprehensive cybersecurity audits across the entire AI model development lifecycle to proactively address emerging risks and comply with anticipated regulatory changes.",
+      "tags": [
+        "policy",
+        "security",
+        "governance",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "f814008d85fb",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Frontier AI labs still won't say how they'd contain a rogue model",
+      "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+      "publishedAt": "2026-08-22T16:00:00.000Z",
+      "fetchedAt": "2026-08-22T21:27:57.976Z",
+      "contentText": null,
+      "summary": "A recent study indicates that major AI laboratories lack publicly available strategies for managing or containing AI models that exhibit unpredictable or potentially harmful behaviors. This raises concerns about the preparedness of these organizations as AI systems become more complex and autonomous.",
+      "enterpriseAngle": "Enterprise security teams must proactively develop robust containment strategies and incident response plans for AI systems, even as frontier labs lag in public disclosure. Product development teams should prioritize safety mechanisms and transparent documentation for AI model behavior.",
+      "beginner": "Even the most advanced AI companies haven't clearly explained how they would stop an AI from doing something bad.",
+      "advanced": "Implement a multi-layered containment architecture for AI deployments, including air-gapped environments, strict access controls, and real-time behavioral monitoring with automated shutdown protocols.",
+      "tags": [
+        "security",
+        "governance",
+        "research",
+        "policy"
+      ]
+    },
     {
       "id": "c3928314b15f",
       "source": "techcrunch-ai",

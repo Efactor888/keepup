@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-08-21T21:32:30.031Z",
+  "updatedAt": "2026-08-22T13:37:25.308Z",
   "articles": [
+    {
+      "id": "c3928314b15f",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Anthropic’s Opus 4.6 is a smut-machine",
+      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+      "publishedAt": "2026-08-21T23:07:25.000Z",
+      "fetchedAt": "2026-08-22T13:36:52.533Z",
+      "contentText": null,
+      "summary": "Anthropic's Claude Opus 4.6, along with older models like Opus 3 and Haiku 4.5, can be easily prompted to generate sexually explicit content, despite the company's universal usage standards prohibiting such material. A researcher developed a multi-turn jailbreak technique that exploits these models, which remain available through Anthropic's API and third-party services like Azure Foundry and Amazon Bedrock. More recent models (Opus 4.7 and 5) are resistant to this specific jailbreak.",
+      "enterpriseAngle": "Enterprise product development and security teams must recognize that even if newer models are more robust, older, still-available models can pose significant compliance and safety risks, especially concerning content moderation and age-gating requirements. The ease with which these models can be jailbroken highlights the ongoing challenge of implementing and maintaining effective content safeguards in AI systems.",
+      "beginner": "Even though AI companies set rules for what their chatbots can say, some older versions of these chatbots can still be tricked into saying inappropriate things.",
+      "advanced": "Implement continuous red-teaming and vulnerability assessments on all deployed model versions, including those not actively promoted as the latest, to identify and mitigate jailbreak methods that bypass content moderation policies, especially given evolving regulatory landscapes around AI and minors.",
+      "tags": [
+        "security",
+        "product",
+        "governance",
+        "model-release"
+      ]
+    },
+    {
+      "id": "568c94c0a090",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Nvidia partners with data center developer Cloverleaf",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+      "publishedAt": "2026-08-21T22:37:38.000Z",
+      "fetchedAt": "2026-08-22T13:36:52.533Z",
+      "contentText": null,
+      "summary": "Nvidia has partnered with Cloverleaf Infrastructure, a data center developer, and acquired a minority stake in the company through a multi-million dollar investment. This move is part of Nvidia's strategy to directly finance and develop AI data centers, ensuring continued demand for its AI systems. Cloverleaf Infrastructure specializes in providing power sources and essential infrastructure for data center site development.",
+      "enterpriseAngle": "This partnership signifies Nvidia's deepening involvement in the AI infrastructure supply chain, moving beyond chip manufacturing to directly influence data center development. For enterprises, this could lead to more integrated and potentially optimized AI infrastructure solutions, but also highlights Nvidia's increasing control over the ecosystem.",
+      "beginner": "Nvidia, a company known for making computer chips, is now investing in companies that build the big computer centers needed to run AI, helping to keep the AI industry growing.",
+      "advanced": "Evaluate the implications of Nvidia's vertical integration into data center infrastructure on future hardware procurement strategies and potential vendor lock-in for AI-driven enterprise initiatives.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "infrastructure",
+        "funding"
+      ]
+    },
     {
       "id": "2b7b4ffceb6b",
       "source": "techcrunch-ai",

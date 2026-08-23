@@ -1,6 +1,90 @@
 {
-  "updatedAt": "2026-08-23T13:38:09.738Z",
+  "updatedAt": "2026-08-23T21:28:50.031Z",
   "articles": [
+    {
+      "id": "055017b0a060",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Who's behind the new ‘stealth model’ Ox Alpha?",
+      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "publishedAt": "2026-08-23T20:01:36.000Z",
+      "fetchedAt": "2026-08-23T21:28:12.599Z",
+      "contentText": null,
+      "summary": "A new AI model named Ox Alpha has been released on OpenRouter, sparking widespread speculation about its creators due to its anonymous listing as a \"stealth model\" developed by a \"third-party provider.\" The model is described as a reasoning model for coding, agentic work, and production workloads. Speculation about its origin has centered on Chinese companies like Z.ai's GLM models or an unreleased version of Microsoft's MAI.",
+      "enterpriseAngle": "Enterprises evaluating new AI models for coding, agentic work, or production workloads should exercise caution when adopting models from anonymous sources, as the lack of transparency can pose governance and supply chain risks. The model's capabilities for sustained agentic work could be a significant development for automating complex enterprise tasks, but its provenance remains a key concern.",
+      "beginner": "A new AI tool called Ox Alpha has appeared, and no one knows who made it, causing a lot of guessing about its origin.",
+      "advanced": "Investigate the performance benchmarks and security implications of 'stealth models' like Ox Alpha for enterprise adoption, particularly concerning data privacy, intellectual property, and potential backdoors given the anonymous developer.",
+      "tags": [
+        "model-release",
+        "enterprise",
+        "agents",
+        "coding"
+      ]
+    },
+    {
+      "id": "5781c024565a",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "publishedAt": "2026-08-23T19:14:08.000Z",
+      "fetchedAt": "2026-08-23T21:28:12.599Z",
+      "contentText": null,
+      "summary": "Linkdaze has launched a smart digital calendar, a touchscreen tablet designed to organize household schedules and tasks. It synchronizes with various popular calendar services and offers features like meal planning, shopping lists, and chore management. A notable AI feature, \"Snap-to-Sync,\" allows users to photograph recipes or menus to create digital meal plans and shopping lists.",
+      "enterpriseAngle": "While primarily a consumer product, Linkdaze's ability to integrate multiple calendar systems and use AI for task automation could inspire enterprise solutions for team scheduling, resource management, or even internal event planning. The \"Snap-to-Sync\" feature demonstrates a practical application of AI for data extraction and task generation that could be adapted for business workflows.",
+      "beginner": "Linkdaze is a smart screen that helps families keep track of everyone's schedules and chores in one place, using AI to make tasks like meal planning easier.",
+      "advanced": "Evaluate the potential for integrating similar multi-platform calendar synchronization and AI-powered data extraction (like \"Snap-to-Sync\") into enterprise resource planning or project management tools to streamline scheduling and task creation.",
+      "tags": [
+        "product",
+        "consumer",
+        "agents",
+        "hardware"
+      ]
+    },
+    {
+      "id": "3fff31f0ded0",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+      "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+      "publishedAt": "2026-08-23T15:30:00.000Z",
+      "fetchedAt": "2026-08-23T21:28:12.599Z",
+      "contentText": null,
+      "summary": "Flock Safety CEO Garrett Langley is advocating for a national \"compromise\" between privacy and safety as his company faces increasing public criticism over the potential misuse of its surveillance technology. Concerns have arisen from documented cases where police allegedly used Flock's cameras and license plate recognition for unauthorized purposes, including stalking. In response, Flock has implemented changes like reducing default data retention and requiring case codes for data access, though these can be overridden.",
+      "enterpriseAngle": "Enterprise security teams must consider the ethical implications and potential for misuse when deploying surveillance technologies, even those designed for safety, and ensure robust governance and audit trails are in place to prevent unauthorized access and maintain public trust. Product development teams in AI surveillance should prioritize privacy-by-design principles and implement strong, non-overridable safeguards to prevent misuse and comply with evolving regulations.",
+      "beginner": "Companies that make surveillance technology are trying to balance keeping people safe with protecting their personal privacy, but it's a difficult challenge.",
+      "advanced": "Implement strict access controls, immutable audit logs, and explore privacy-enhancing technologies to mitigate the risk of data misuse in surveillance systems, while actively engaging with policymakers to shape responsible regulatory frameworks.",
+      "tags": [
+        "security",
+        "policy",
+        "governance",
+        "product"
+      ]
+    },
+    {
+      "id": "8dafa127b694",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "publishedAt": "2026-08-23T15:00:00.000Z",
+      "fetchedAt": "2026-08-23T21:28:12.599Z",
+      "contentText": null,
+      "summary": "The legality of training AI models on copyrighted material is complex and currently being debated in courts, with existing copyright law, last updated in 1976, struggling to keep pace with AI advancements. While some rulings have found AI training on copyrighted works to be lawful, provided the content isn't pirated, other cases have penalized AI companies for directly competing with the original copyrighted works. The concept of \"fair use\" and whether AI's use of copyrighted material is \"transformative\" are central to these legal discussions.",
+      "enterpriseAngle": "Enterprise AI product development teams must navigate significant legal uncertainty regarding data sourcing for model training, with potential for substantial fines if copyrighted materials are used to create directly competing products or are obtained illegally. Legal and product teams should closely monitor ongoing litigation and consider the \"transformative\" nature of their AI applications to mitigate copyright infringement risks.",
+      "beginner": "AI models learn by reading vast amounts of information, and courts are still figuring out if it's legal for AI companies to use copyrighted books and articles for this learning process without permission.",
+      "advanced": "Actively engage legal counsel to assess the \"transformative use\" doctrine in your AI model training data strategy, particularly when developing products that could be perceived as directly competitive with source material, and ensure all training data acquisition methods are fully compliant to avoid piracy claims.",
+      "tags": [
+        "policy",
+        "governance",
+        "enterprise",
+        "product"
+      ]
+    },
     {
       "id": "ca1bb3e81f45",
       "source": "techcrunch-ai",

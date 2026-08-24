@@ -1,6 +1,130 @@
 {
-  "updatedAt": "2026-08-24T13:56:12.883Z",
+  "updatedAt": "2026-08-24T21:37:10.540Z",
   "articles": [
+    {
+      "id": "160e6c86aa02",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+      "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
+      "publishedAt": "2026-08-24T21:24:17.000Z",
+      "fetchedAt": "2026-08-24T21:35:49.309Z",
+      "contentText": null,
+      "summary": "Former President Donald Trump purchased up to $50,000 worth of SpaceX shares on June 23, two weeks after the company's IPO. The shares were trading in the mid-$150 range at the time, and by the end of trading on Monday, they had fallen to the IPO price of $135. Trump's stock portfolio is managed by third-party financial institutions and replicates recognized indexes.",
+      "enterpriseAngle": "This news highlights the intersection of political figures and high-profile tech investments, which can influence public perception and potentially impact regulatory environments for companies like SpaceX that rely on government contracts.",
+      "beginner": "Even powerful figures invest in companies like SpaceX, and their investments can sometimes lose value.",
+      "advanced": "Evaluate the potential for political influence and regulatory shifts when considering investments in companies with significant government contract reliance, especially those with close ties to political figures.",
+      "tags": [
+        "enterprise",
+        "funding",
+        "policy"
+      ]
+    },
+    {
+      "id": "e8e97675c49a",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-08-24T19:54:19.000Z",
+      "fetchedAt": "2026-08-24T21:35:49.309Z",
+      "contentText": null,
+      "summary": "Amjad Masad, CEO of Replit, will speak at TechCrunch Disrupt 2026 about the future of programming and how AI is enabling more people to develop software. Replit has seen explosive growth, with its valuation increasing significantly in the past year, reflecting the broader AI boom. Masad will discuss how Replit helps users fully develop their ideas into products.",
+      "enterpriseAngle": "Enterprise product development teams can leverage platforms like Replit to accelerate idea-to-product cycles, potentially reducing time-to-market and enabling a wider range of employees to contribute to software creation. Security teams will need to consider the implications of increased developer accessibility and the potential for new vulnerabilities in AI-assisted code generation.",
+      "beginner": "AI is making it easier for more people to create software and turn their ideas into real products.",
+      "advanced": "Evaluate the integration of AI-powered development environments into your enterprise's SDLC to optimize developer velocity and explore new security protocols for AI-generated or AI-assisted code.",
+      "tags": [
+        "enterprise",
+        "product",
+        "coding",
+        "workforce"
+      ]
+    },
+    {
+      "id": "5c896f150ade",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+      "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+      "publishedAt": "2026-08-24T18:03:55.000Z",
+      "fetchedAt": "2026-08-24T21:35:49.309Z",
+      "contentText": null,
+      "summary": "Instinct, a new AI personal assistant, is generating both excitement for its advanced capabilities and significant concerns regarding user privacy and security. Testers have highlighted issues with its broad terms of service, which grant extensive data usage rights, and observed instances of data retention after disconnection, unauthorized actions, and potential phishing vulnerabilities. These concerns raise questions about the trade-offs involved in granting AI agents high levels of access and autonomy.",
+      "enterpriseAngle": "Enterprise security and product development teams must carefully evaluate the privacy implications and security models of AI agents, especially those requiring broad access to user data and the ability to act autonomously. The incidents with Instinct underscore the critical need for robust data governance, transparent terms of service, and clear user controls to maintain trust and mitigate risks associated with AI integration.",
+      "beginner": "AI assistants can be very helpful, but it's important to understand what information they can access and how they use it, as giving them too much access can lead to privacy problems.",
+      "advanced": "Implement a zero-trust architecture for AI agent integration, focusing on granular permissions, auditable actions, and user-centric data deletion policies to prevent unauthorized data access, retention, and actions, thereby safeguarding enterprise data and user privacy.",
+      "tags": [
+        "agents",
+        "security",
+        "product",
+        "governance"
+      ]
+    },
+    {
+      "id": "351f69dcf090",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+      "publishedAt": "2026-08-24T15:24:18.000Z",
+      "fetchedAt": "2026-08-24T21:35:49.309Z",
+      "contentText": null,
+      "summary": "General Intuition, a startup focused on developing a foundation model for generalized AI agents to navigate spatial and temporal environments, is reportedly seeking new funding at a $6 billion pre-money valuation. Valor Ventures, Point72 Ventures, and Seven Seven Six are among the potential new investors.",
+      "enterpriseAngle": "Enterprises developing or deploying AI agents for physical world tasks, such as logistics or manufacturing, could benefit from General Intuition's advancements in spatial and temporal navigation. This funding round signals growing investor confidence in AI's application to robotics and autonomous systems.",
+      "beginner": "A company called General Intuition is raising a lot of money to teach AI how to move and understand its surroundings, which is important for robots.",
+      "advanced": "Evaluate General Intuition's foundation model for its potential to enhance the robustness and adaptability of embodied AI agents in complex, dynamic enterprise environments, particularly in robotics and automation.",
+      "tags": [
+        "funding",
+        "agents",
+        "enterprise",
+        "research"
+      ]
+    },
+    {
+      "id": "b0c3b7c6480e",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+      "publishedAt": "2026-08-24T15:00:00.000Z",
+      "fetchedAt": "2026-08-24T21:35:49.309Z",
+      "contentText": null,
+      "summary": "OpenAI is developing AI agents, exemplified by its ChatGPT Work product, designed to automate multi-step tasks for white-collar professionals beyond software engineers. This initiative aims to integrate large language models (LLMs) into various digital workflows, enabling AI to complete complex projects autonomously. While internal adoption of agentic tools like Codex is high at OpenAI, broader external adoption among general subscribers remains low, indicating a challenge in making these powerful tools intuitive for non-technical users.",
+      "enterpriseAngle": "Enterprise product development teams should focus on creating user-friendly interfaces and robust harnesses for AI agents to ensure broader adoption beyond technical users, addressing concerns about data privacy and control. Security teams must consider the implications of granting LLMs extensive access to enterprise data and systems, developing safeguards to prevent information leakage and misuse.",
+      "beginner": "AI agents are like smart assistants that can do many steps of a task for you, not just answer questions, but they need to be easy to use for everyone.",
+      "advanced": "To drive widespread enterprise adoption of agentic AI, prioritize the development of intuitive, abstracted user experiences that minimize the need for technical expertise, while simultaneously implementing stringent data governance and access control mechanisms within the agent's harness to mitigate privacy and security risks.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product",
+        "workforce"
+      ]
+    },
+    {
+      "id": "a0d4d26c02d5",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "How to encourage smarter AI use in the classroom",
+      "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+      "publishedAt": "2026-08-24T14:20:19.000Z",
+      "fetchedAt": "2026-08-24T21:35:49.492Z",
+      "contentText": null,
+      "summary": "The article discusses how schools were initially unprepared for the widespread use of chatbots by students a few years ago. It suggests that students now have easy access to AI tools on their phones that can answer a wide range of questions.",
+      "enterpriseAngle": "Enterprises developing educational AI tools should focus on integrating features that support learning outcomes and ethical use, rather than just providing answers, to better serve academic institutions.",
+      "beginner": "AI tools like chatbots can help students find answers to many questions quickly.",
+      "advanced": "Implement AI literacy programs and develop clear usage policies to guide students and educators on the responsible and effective integration of AI in learning environments.",
+      "tags": [
+        "learning",
+        "policy",
+        "consumer"
+      ]
+    },
     {
       "id": "7eabb7680464",
       "source": "techcrunch-ai",
@@ -19,6 +143,27 @@
         "enterprise",
         "funding",
         "product"
+      ]
+    },
+    {
+      "id": "df015003760c",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "url": "https://openai.com/index/gpt-5-6-in-kiro",
+      "publishedAt": "2026-08-24T12:00:00.000Z",
+      "fetchedAt": "2026-08-24T21:35:43.441Z",
+      "contentText": null,
+      "summary": "OpenAI has released GPT-5.6, which is now accessible through Kiro. This new version aims to improve the price-performance ratio for developers working on software development tasks.",
+      "enterpriseAngle": "Enterprise development teams can leverage GPT-5.6 in Kiro to enhance efficiency across the software development lifecycle, potentially reducing costs and accelerating product delivery.",
+      "beginner": "A new AI model called GPT-5.6 is out, and it helps software developers do their work better and more affordably.",
+      "advanced": "Integrate GPT-5.6 via Kiro into your CI/CD pipelines to optimize code generation, review, and testing phases for improved cost-efficiency and accelerated development cycles.",
+      "tags": [
+        "model-release",
+        "product",
+        "coding",
+        "enterprise"
       ]
     },
     {
@@ -207,6 +352,26 @@
         "governance",
         "research",
         "policy"
+      ]
+    },
+    {
+      "id": "6150fcefadd3",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Michael Polansky is training an AI model on skin that’s still alive",
+      "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
+      "publishedAt": "2026-08-22T01:31:04.000Z",
+      "fetchedAt": "2026-08-24T21:35:49.309Z",
+      "contentText": null,
+      "summary": "Michael Polansky has developed an AI-powered startup focused on keeping living human skin tissue viable outside the body for weeks. The goal is to identify new compounds for skincare products. This venture, which Polansky has been building for years, is now being publicly revealed.",
+      "enterpriseAngle": "This innovation could significantly accelerate the discovery and development of new skincare ingredients, impacting product development cycles and potentially leading to more effective and safer products for enterprise beauty and pharmaceutical companies.",
+      "beginner": "An AI system is being used to study living skin in a lab to find better ingredients for skincare.",
+      "advanced": "Evaluate the potential of this ex vivo skin model for high-throughput screening of novel compounds, considering its implications for reducing animal testing and improving lead optimization in dermatological R&D.",
+      "tags": [
+        "research",
+        "product",
+        "science"
       ]
     },
     {

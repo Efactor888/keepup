@@ -1,6 +1,132 @@
 {
-  "updatedAt": "2026-08-25T13:55:55.196Z",
+  "updatedAt": "2026-08-25T21:36:46.066Z",
   "articles": [
+    {
+      "id": "75979cc45734",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+      "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+      "publishedAt": "2026-08-25T19:03:47.000Z",
+      "fetchedAt": "2026-08-25T21:35:02.537Z",
+      "contentText": null,
+      "summary": "Stability AI, the company behind Stable Diffusion, has secured $76 million in Series B funding, bringing its total raised to $232 million. This funding round included investments from major entertainment companies like Universal Music Group, Sony Music Group, Warner Music Group, and Electronic Arts, alongside investment firms. The company plans to use the capital to expand its creative production product suite and professional services, focusing on AI music, video, and image generation.",
+      "enterpriseAngle": "Enterprise product development teams in the creative and entertainment industries can leverage Stability AI's expanding suite of AI tools for music, video, and image generation, potentially integrating these into their workflows through co-development partnerships. This funding also signals a growing trend of content licensing and distribution deals shaping AI development in creative sectors.",
+      "beginner": "Stability AI, a company that makes AI tools to create images, music, and videos, has received a lot of new money from investors, including big entertainment companies, to help it build more creative AI products.",
+      "advanced": "Evaluate potential co-development opportunities with Stability AI for integrating their generative AI models into existing creative production pipelines, particularly given their recent partnerships with major entertainment entities and their focus on professional services expansion.",
+      "tags": [
+        "funding",
+        "enterprise",
+        "product",
+        "partnership"
+      ]
+    },
+    {
+      "id": "4b53c711439f",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Claude Cowork finally remembers what you told the app in chat",
+      "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+      "publishedAt": "2026-08-25T17:50:33.000Z",
+      "fetchedAt": "2026-08-25T21:35:02.537Z",
+      "contentText": null,
+      "summary": "Anthropic has updated Claude's memory system, allowing the AI to retain information across different interactions, including chat and Claude Cowork. This change eliminates the need to repeatedly brief the AI on previously discussed topics. Users can also view, edit, or delete the information Claude has stored in its memory.",
+      "enterpriseAngle": "This enhanced memory capability means enterprise users can expect a more continuous and efficient workflow when using Claude for research and project execution, reducing the time spent re-entering context. Product development teams can leverage this feature to build more intelligent and context-aware applications, improving user experience and productivity.",
+      "beginner": "Claude can now remember what you've told it in one conversation and use that information in another, making it feel like a more helpful, continuous assistant.",
+      "advanced": "Integrate Claude's persistent memory features into your enterprise applications to streamline multi-stage workflows and reduce user friction by minimizing context re-entry.",
+      "tags": [
+        "product",
+        "enterprise",
+        "agents",
+        "learning"
+      ]
+    },
+    {
+      "id": "0c54f1350331",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "Funding better evaluations of AI’s impact on wellbeing",
+      "url": "https://www.anthropic.com/news/wellbeing-research-grants",
+      "publishedAt": "2026-08-25T16:20:57.000Z",
+      "fetchedAt": "2026-08-25T21:34:56.994Z",
+      "contentText": null,
+      "summary": "Anthropic is launching a $5 million grant program to fund independent, open-source research on how AI models impact user wellbeing. The initiative aims to develop clear standards and rigorous evaluations for AI behavior, especially in sensitive areas like mental health support or companionship. Grantees will receive funding, model access, and technical support to create benchmarks that the AI industry can use.",
+      "enterpriseAngle": "Enterprise product development teams building AI applications, particularly those involving sensitive user interactions, should pay close attention to the outcomes of this research to inform their own model safeguards and ethical AI development practices. Security teams should consider the implications of AI's impact on user wellbeing as a potential vector for misuse or harm, necessitating robust evaluation frameworks.",
+      "beginner": "AI companies are investing in research to understand and improve how their AI models affect people's emotional and mental health, especially in conversations.",
+      "advanced": "Leverage the open-source evaluations and benchmarks developed through Anthropic's grant program to enhance your organization's responsible AI frameworks and integrate clinical and subject-matter expert validation into your model's wellbeing safeguards, particularly for multi-turn conversational AI.",
+      "tags": [
+        "research",
+        "governance",
+        "product",
+        "security"
+      ],
+      "dateChecked": true
+    },
+    {
+      "id": "3668e64c1eca",
+      "source": "google-ai",
+      "sourceName": "Google AI",
+      "tier": "realtime",
+      "title": "5 ways to upgrade your home decor with Google Search",
+      "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
+      "publishedAt": "2026-08-25T16:00:00.000Z",
+      "fetchedAt": "2026-08-25T21:34:58.129Z",
+      "contentText": null,
+      "summary": "Google Search is enhancing home decor planning with new AI features. Users can now visualize furniture in their rooms, identify vintage items using Google Lens, and find similar products by circling them on their screens. Additionally, Google Search offers live video guidance for DIY projects and price tracking to help users find the best deals.",
+      "enterpriseAngle": "Enterprise product development teams can leverage similar AI-powered visualization and object recognition technologies to enhance customer experience in e-commerce, allowing customers to better preview products in their own environments and streamline product discovery.",
+      "beginner": "Google Search now uses AI to help you decorate your home by letting you see how furniture looks in your room, identify items from pictures, and find similar products easily.",
+      "advanced": "Integrate real-time AR visualization and advanced image recognition APIs into e-commerce platforms to reduce returns and improve conversion rates by enabling customers to virtually place products in their spaces and identify items from visual inputs.",
+      "tags": [
+        "product",
+        "consumer",
+        "agents"
+      ]
+    },
+    {
+      "id": "b0e00151fb37",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Gamma acquires Accel-backed design startup Lica",
+      "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+      "publishedAt": "2026-08-25T15:00:00.000Z",
+      "fetchedAt": "2026-08-25T21:35:02.537Z",
+      "contentText": null,
+      "summary": "Gamma, a presentation startup, has acquired Lica, an Accel-backed design startup, to establish a design research lab. Lica's co-founders will lead this new division, focusing on developing AI models for various communication methods, including video and design. Both companies shared a vision for making visual communication accessible and easy, leading to their decision to combine forces.",
+      "enterpriseAngle": "Enterprise product development teams can leverage this acquisition to explore new frontiers in AI-driven visual communication, potentially leading to more dynamic and personalized presentation and marketing tools. Security teams should consider the implications of multimodal AI models on data privacy and content governance as these new communication formats are developed.",
+      "beginner": "AI is being used to make it easier to create visual content like presentations and marketing videos.",
+      "advanced": "Investigate multimodal AI frameworks for integrating diverse communication modalities and explore robust personalization engines to tailor AI model outputs for specific enterprise audiences and brand guidelines.",
+      "tags": [
+        "enterprise",
+        "product",
+        "research",
+        "partnership"
+      ]
+    },
+    {
+      "id": "d1df00f6f18c",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+      "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+      "publishedAt": "2026-08-25T14:22:04.000Z",
+      "fetchedAt": "2026-08-25T21:35:02.537Z",
+      "contentText": null,
+      "summary": "OpenAI's new Jalapeño chip, developed in collaboration with Broadcom, has demonstrated significant performance improvements over current state-of-the-art inference processors in initial benchmarks. The chip is designed for fast and efficient AI inference at scale, minimizing delays during prefill and communication phases. OpenAI plans a small deployment by the end of 2026, with wider availability in 2027.",
+      "enterpriseAngle": "Enterprise product development teams can anticipate more efficient and lower-latency AI inference capabilities, potentially enabling faster and more cost-effective deployment of large-scale AI applications. This full-stack approach to hardware and software co-design could lead to more optimized AI solutions for businesses.",
+      "beginner": "OpenAI has created a new computer chip, called Jalapeño, that helps AI systems respond much faster and use less power than current technology.",
+      "advanced": "Evaluate the potential for Jalapeño's full-stack co-design to optimize specific inference bottlenecks, particularly in prefill and communication, and plan for its integration into future enterprise AI infrastructure for improved throughput and reduced latency.",
+      "tags": [
+        "hardware",
+        "benchmark",
+        "infrastructure",
+        "product"
+      ]
+    },
     {
       "id": "a4b9e6e36db1",
       "source": "techcrunch-ai",
@@ -65,6 +191,43 @@
       ]
     },
     {
+      "id": "829e237a888d",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "The full stack behind abundant intelligence",
+      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "publishedAt": "2026-08-25T07:05:00.000Z",
+      "fetchedAt": "2026-08-25T21:34:57.723Z",
+      "contentText": null,
+      "summary": "OpenAI's CFO, Sarah Friar, highlights how improvements in chips, computing power, AI models, and products are collectively making AI more effective, scalable, and affordable. These advancements are creating a compounding effect that drives down costs while increasing utility.",
+      "enterpriseAngle": "Enterprise product development teams can anticipate more powerful and cost-effective AI solutions, enabling broader integration of advanced intelligence into their offerings. Security teams should prepare for the implications of more pervasive AI, including new data protection and model governance challenges.",
+      "beginner": "AI is becoming more powerful and cheaper because all the different parts that make it work are getting better at the same time.",
+      "advanced": "Evaluate the compounding effects of hardware and software advancements to optimize your AI infrastructure investments and product roadmaps for enhanced efficiency and capability.",
+      "tags": [
+        "enterprise",
+        "infrastructure",
+        "product",
+        "funding"
+      ]
+    },
+    {
+      "id": "9ad99bb5f40a",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "url": "https://openai.com/index/jalapeno-first-results",
+      "publishedAt": "2026-08-25T07:00:00.000Z",
+      "fetchedAt": "2026-08-25T21:34:57.723Z",
+      "contentText": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
+    {
       "id": "a685506b5da5",
       "source": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -102,6 +265,46 @@
         "security",
         "policy",
         "governance"
+      ]
+    },
+    {
+      "id": "cfc376addf8c",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+      "url": "https://openai.com/index/introducing-admin-plugin",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "fetchedAt": "2026-08-25T21:34:57.723Z",
+      "contentText": null,
+      "summary": "OpenAI has released an Admin plugin for ChatGPT Work and Codex, designed to help administrators manage their workspace. This plugin allows for analysis of usage, member and permission management, limit adjustments, and handling of admin requests.",
+      "enterpriseAngle": "Enterprise IT and security teams can leverage this plugin to maintain oversight and control over AI tool usage within their organizations, ensuring compliance and efficient resource allocation.",
+      "beginner": "This new tool helps people in charge of AI programs at work keep track of who is using what and how much.",
+      "advanced": "Implement the Admin plugin to centralize monitoring of ChatGPT Work and Codex usage, streamline user provisioning, and enforce organizational policies on AI tool access and resource consumption.",
+      "tags": [
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "1cf670e1da6e",
+      "source": "cursor",
+      "sourceName": "Cursor",
+      "tier": "realtime",
+      "title": "IMDEX uses Cursor to build integrated subsurface data and analytics platform in months, not years Aug 25, 2026",
+      "url": "https://cursor.com/blog/imdex",
+      "publishedAt": "2026-08-25",
+      "fetchedAt": "2026-08-25T21:35:01.757Z",
+      "contentText": null,
+      "summary": "IMDEX, a global mining technology company, utilized Cursor's AI-assisted development platform to consolidate fragmented geological data systems and re-platform legacy applications. This enabled them to complete projects, such as a data platform and an Angular-to-React migration, in months rather than the years typically required, significantly reducing development time and costs. The new platform provides a unified system for geologists and drillers to interpret data and plan exploration, improving efficiency in costly mining operations.",
+      "enterpriseAngle": "Enterprises can leverage AI-assisted development tools like Cursor to accelerate legacy system modernization and data consolidation efforts, drastically cutting down development timelines and costs. This approach allows existing engineering teams to achieve significantly higher productivity, enabling faster product development and improved operational decision-making.",
+      "beginner": "AI tools can help software developers build and update complex systems much faster than before, saving companies a lot of time and money.",
+      "advanced": "Evaluate AI-assisted development platforms for their context management capabilities on large codebases and model flexibility to optimize for both ambiguous design decisions and contained implementation tasks, ensuring seamless integration into existing developer workflows.",
+      "tags": [
+        "enterprise",
+        "product",
+        "coding",
+        "infrastructure"
       ]
     },
     {
@@ -16546,6 +16749,28 @@
         "product",
         "research",
         "learning"
+      ],
+      "dateChecked": true
+    },
+    {
+      "id": "fcec823f42da",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "Launching the Anthropic Economic Futures Programme in the UK and Europe",
+      "url": "https://www.anthropic.com/news/economic-futures-uk-europe",
+      "publishedAt": "2025-11-05",
+      "fetchedAt": "2026-08-25T21:34:57.275Z",
+      "contentText": null,
+      "summary": "Anthropic is expanding its Economic Futures Programme to the UK and Europe to address the economic and labor market impacts of AI adoption. This initiative includes research grants, Claude credits for researchers, policy evaluation forums, and more granular data on AI usage across European industries. The program launches with a symposium at the London School of Economics and Political Science to gather experts and inform policy decisions.",
+      "enterpriseAngle": "Enterprises in the UK and Europe should monitor the Anthropic Economic Futures Programme's research and policy discussions, as they will directly influence future regulations and workforce strategies related to AI adoption. Understanding the program's data on AI usage can also inform product development and deployment strategies for specific regional markets.",
+      "beginner": "AI is changing jobs and economies, and Anthropic is working with experts in the UK and Europe to understand these changes and help leaders make smart decisions about the future.",
+      "advanced": "Leverage the Anthropic Economic Index's granular, Europe-specific data releases to refine regional AI product strategies and anticipate policy shifts impacting workforce planning and productivity initiatives.",
+      "tags": [
+        "enterprise",
+        "research",
+        "policy",
+        "workforce"
       ],
       "dateChecked": true
     },

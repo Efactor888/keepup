@@ -1,6 +1,109 @@
 {
-  "updatedAt": "2026-08-24T21:37:10.540Z",
+  "updatedAt": "2026-08-25T13:55:55.196Z",
   "articles": [
+    {
+      "id": "a4b9e6e36db1",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Accel-backed Keenable is indexing the web for AI agents",
+      "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+      "publishedAt": "2026-08-25T13:00:00.000Z",
+      "fetchedAt": "2026-08-25T13:55:08.404Z",
+      "contentText": null,
+      "summary": "Keenable, a new startup founded by former Yandex and Amazon search experts, has secured $26 million in seed funding to build a web search index specifically optimized for AI agents. The company aims to address the limitations of current search engines, which are designed for human users, by providing AI systems with a more efficient way to access and process vast amounts of web data. Keenable's API is already in use by several AI labs and inference providers for both training and runtime.",
+      "enterpriseAngle": "Enterprise AI product development teams can leverage Keenable's specialized web index and API to enhance the grounding and accuracy of their AI agents, potentially reducing the cost and complexity associated with web-scale information retrieval. This offers an alternative to the bundled and selective approaches of major tech giants for search infrastructure.",
+      "beginner": "AI agents need a new way to search the internet because traditional search engines are built for people, not for machines that can process much more information.",
+      "advanced": "Evaluate Keenable's WebQueryLanguage and proprietary retrieval capabilities as a potential cost-efficient alternative to existing web-scale search infrastructure for grounding AI models, especially given the evolving API strategies of major search providers.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "funding",
+        "product"
+      ]
+    },
+    {
+      "id": "2e53f3d9af1b",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "‘The world seems to be ready': An interview with OpenAI head of product Thibault Sottiaux",
+      "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+      "publishedAt": "2026-08-25T12:00:00.000Z",
+      "fetchedAt": "2026-08-25T13:55:08.404Z",
+      "contentText": null,
+      "summary": "OpenAI's head of product, Thibault Sottiaux, discusses the company's strategy to broaden the accessibility of AI agents beyond technical users with products like ChatGPT Work. This initiative aims to make advanced AI capabilities, previously exclusive to tools like Codex, available to a wider audience of white-collar workers through a user-friendly and affordable platform. Sottiaux emphasizes the goal of diffusing AI technology to the general public, enabling it to perform complex tasks autonomously and naturally.",
+      "enterpriseAngle": "Enterprise product development teams should focus on creating AI solutions that are not only powerful but also intuitively designed for a broad user base, minimizing the learning curve and maximizing utility. Security teams must ensure that these widely accessible AI agents maintain robust data protection and ethical safeguards as they handle increasingly complex and sensitive tasks for non-technical users.",
+      "beginner": "OpenAI wants to make powerful AI tools, which used to be just for coders, easy and affordable for everyone to use in their daily work.",
+      "advanced": "Leverage iterative deployment and user feedback loops to discover and refine product capabilities as frontier models evolve, focusing on natural user interfaces that allow models to express their full utility with minimal human intervention.",
+      "tags": [
+        "product",
+        "agents",
+        "enterprise",
+        "model-release"
+      ]
+    },
+    {
+      "id": "4ad6a90281f7",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+      "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+      "publishedAt": "2026-08-25T09:00:00.000Z",
+      "fetchedAt": "2026-08-25T13:55:08.650Z",
+      "contentText": null,
+      "summary": "Humanoid robots are gaining significant traction in China, aligning with the country's national strategy to integrate artificial intelligence into everyday life. This initiative, known as embodied AI, was a central component of China's most recent five-year plan.",
+      "enterpriseAngle": "Enterprises should note China's aggressive push into embodied AI, which could lead to advanced humanoid solutions for various industries, impacting automation strategies and global supply chains. Product development teams should monitor these advancements for potential integration or competitive analysis.",
+      "beginner": "China is heavily investing in robots that look and act like humans to bring AI into daily activities.",
+      "advanced": "Evaluate the emerging Chinese embodied AI ecosystem for potential partnership opportunities or competitive threats, particularly in manufacturing, logistics, and service sectors, and assess the implications for your long-term automation roadmap.",
+      "tags": [
+        "enterprise",
+        "product",
+        "policy",
+        "research"
+      ]
+    },
+    {
+      "id": "a685506b5da5",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+      "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+      "publishedAt": "2026-08-25T00:23:12.000Z",
+      "fetchedAt": "2026-08-25T13:55:08.404Z",
+      "contentText": null,
+      "summary": "Situational Awareness, an AI-focused hedge fund, experienced a significant downturn in July due to falling AI stock values, losing billions. The Securities and Exchange Commission (SEC) is now reportedly investigating the firm, issuing subpoenas to banks that conducted business with it. The company stated it would cooperate with any regulatory requests.",
+      "enterpriseAngle": "This situation highlights the financial volatility associated with AI investments and the increased regulatory scrutiny that high-profile AI-centric businesses may face. Enterprise product development and security teams should be aware of the potential for rapid market shifts and the importance of robust financial and compliance practices when integrating or relying on AI technologies.",
+      "beginner": "An AI hedge fund that invested heavily in AI stocks lost a lot of money when those stocks went down, and now the government is investigating them.",
+      "advanced": "Experienced practitioners should consider this a reminder to diversify investment strategies beyond pure AI plays and to ensure comprehensive compliance frameworks are in place, particularly when dealing with emerging and volatile markets.",
+      "tags": [
+        "funding",
+        "governance",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "da55f7d7bd9d",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Disrupting a new covert influence campaign from Russia",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "fetchedAt": "2026-08-25T13:55:06.578Z",
+      "contentText": null,
+      "summary": "OpenAI has taken action against Russian accounts that were using AI to disseminate propaganda. These accounts promoted a fabricated Israeli think tank and a \"sovereignty\" index that favored Russia while criticizing Western nations.",
+      "enterpriseAngle": "Enterprise security teams must be vigilant against AI-powered influence operations that can manipulate public perception and spread misinformation, potentially impacting brand reputation and trust.",
+      "beginner": "AI can be used to create fake information and spread it online, making it harder to know what's true.",
+      "advanced": "Implement robust threat intelligence feeds and AI-driven content analysis tools to detect and mitigate sophisticated influence campaigns leveraging generative AI.",
+      "tags": [
+        "security",
+        "policy",
+        "governance"
+      ]
+    },
     {
       "id": "160e6c86aa02",
       "source": "techcrunch-ai",

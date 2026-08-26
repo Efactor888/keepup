@@ -1,6 +1,189 @@
 {
-  "updatedAt": "2026-08-25T21:36:46.066Z",
+  "updatedAt": "2026-08-26T13:59:48.117Z",
   "articles": [
+    {
+      "id": "18fb21f6df20",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "QueryStory wants you to believe what AI is telling you",
+      "url": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
+      "publishedAt": "2026-08-26T13:00:00.000Z",
+      "fetchedAt": "2026-08-26T13:58:04.080Z",
+      "contentText": null,
+      "summary": "QueryStory, a new startup founded by former Google and Accenture veterans, has emerged from stealth with $6 million in seed funding. The company offers an AI-powered platform designed to help large enterprises analyze complex, proprietary databases and generate reliable, verifiable insights. QueryStory aims to bridge the trust gap in AI by providing transparency, control, and a confidence indicator for its analyses, addressing the brittleness often found in AI systems.",
+      "enterpriseAngle": "Enterprise security and product development teams can leverage QueryStory to gain trusted, verifiable insights from their complex internal data, potentially streamlining data analysis workflows and reducing reliance on extensive human judgment for data interpretation. The platform's focus on transparency and auditability of AI-generated SQL queries and analyses can enhance governance and compliance efforts within regulated industries.",
+      "beginner": "QueryStory helps businesses understand their data better by using AI to quickly find answers and show how confident it is in those answers, making it easier to trust what the AI says.",
+      "advanced": "Evaluate QueryStory's model-agnostic approach and confidence indicators for integrating verifiable AI-driven data analysis into existing enterprise data stacks, particularly for use cases requiring high data integrity and auditability in regulated environments.",
+      "tags": [
+        "enterprise",
+        "product",
+        "funding",
+        "agents"
+      ]
+    },
+    {
+      "id": "038853b2471e",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Arga Labs is building a better way to train enterprise AI agents",
+      "url": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
+      "publishedAt": "2026-08-26T12:55:28.000Z",
+      "fetchedAt": "2026-08-26T13:58:04.080Z",
+      "contentText": null,
+      "summary": "Arga Labs has secured $10 million in seed funding to develop advanced training environments for enterprise AI agents. The company creates digital twins of enterprise software like Salesforce and Workday, allowing for more robust and scalable training of AI agents across complex, multi-system scenarios. This approach addresses the difficulty of training agents in real-world enterprise environments, which are hard to reset and replicate for extensive testing.",
+      "enterpriseAngle": "Enterprise security and product development teams can leverage Arga Labs' digital twin technology to thoroughly test and train AI agents in secure, controlled environments, mitigating risks associated with deploying agents in live systems and ensuring agents can handle complex, real-world business processes.",
+      "beginner": "Training AI agents to work effectively in business software is challenging, but new tools like Arga Labs' digital twins make it easier to practice and improve their skills without disrupting real systems.",
+      "advanced": "To enhance agentic system reliability and performance in complex enterprise workflows, integrate digital twin-based training environments to facilitate scalable reinforcement learning across interconnected business applications, thereby closing the 'reinforcement gap' prevalent in non-coding AI deployments.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "funding",
+        "product"
+      ]
+    },
+    {
+      "id": "37b1bc497524",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
+      "url": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
+      "publishedAt": "2026-08-26T12:00:00.000Z",
+      "fetchedAt": "2026-08-26T13:58:04.080Z",
+      "contentText": null,
+      "summary": "Legato, a new hearing technology startup, has emerged from stealth with $12 million in funding and is set to launch AI-powered hearing glasses called Legato Frames. These glasses integrate patented hearing assistance into eyewear frames, targeting individuals with mild to moderate hearing loss. The company aims to make hearing care more accessible and less stigmatized than traditional hearing aids.",
+      "enterpriseAngle": "Enterprise product development teams in wearables and healthcare can learn from Legato's approach to integrating AI for a discreet, user-friendly experience, potentially influencing future designs for assistive technologies or smart eyewear in professional settings. Security teams should note the increasing integration of AI into personal devices and consider the data privacy implications for users.",
+      "beginner": "Legato's new AI hearing glasses make it easier for people with hearing loss to hear conversations clearly by using artificial intelligence to separate voices from background noise.",
+      "advanced": "Evaluate Legato's proprietary acoustic system and AI signal-processing stack for potential integration or competitive analysis in developing unobtrusive, context-aware audio solutions for enterprise communication or specialized assistive devices.",
+      "tags": [
+        "product",
+        "hardware",
+        "consumer",
+        "funding"
+      ]
+    },
+    {
+      "id": "eef70e8be9a9",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
+      "url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
+      "publishedAt": "2026-08-26T11:00:00.000Z",
+      "fetchedAt": "2026-08-26T13:58:04.080Z",
+      "contentText": null,
+      "summary": "Runable, an Indian startup, has secured $21 million in Series A funding to expand its AI agent services beyond building websites and apps to actively helping small businesses find customers and grow. The company's AI agent is designed to manage tasks like running ad campaigns, creating presentations, and promoting businesses across various digital platforms. Runable aims to provide a comprehensive solution for small business owners, handling infrastructure, analytics, and distribution to achieve specific business outcomes.",
+      "enterpriseAngle": "Enterprise product development teams should observe how Runable's approach to an all-in-one AI agent for business growth could influence future platform integrations and the demand for comprehensive, outcome-driven AI solutions. Security teams should consider the implications of AI agents managing advertising accounts and customer data, ensuring robust data protection and access controls are in place for such integrated services.",
+      "beginner": "Runable is an AI company that helps small businesses not just create things like websites, but also find customers and grow their business using AI tools.",
+      "advanced": "Evaluate the potential for integrating similar end-to-end AI agent capabilities into your enterprise offerings, focusing on the infrastructure, analytics, and distribution layers to deliver measurable business outcomes for customers.",
+      "tags": [
+        "funding",
+        "agents",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "fbeea5bb037e",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "AI models flub these intelligence tests. Can you fare any better?",
+      "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+      "publishedAt": "2026-08-26T09:00:00.000Z",
+      "fetchedAt": "2026-08-26T13:58:05.078Z",
+      "contentText": null,
+      "summary": "The article discusses the historical role of puzzles and games in AI development, highlighting how these challenges are used to evaluate the progress of AI models. It draws a parallel between human enjoyment of puzzles and developers' use of games to test AI advancements.",
+      "enterpriseAngle": "Enterprise AI product development teams can leverage structured puzzles and games as standardized benchmarks to rigorously evaluate the intelligence and problem-solving capabilities of their AI models, ensuring robust performance before deployment.",
+      "beginner": "Puzzles help us understand how smart AI is getting, just like they test human intelligence.",
+      "advanced": "Integrate novel, complex, and domain-specific logical puzzles into your model evaluation pipeline to identify emergent reasoning capabilities and potential failure modes beyond standard benchmarks.",
+      "tags": [
+        "research",
+        "learning",
+        "benchmark",
+        "product"
+      ]
+    },
+    {
+      "id": "e4e71d2c5a54",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
+      "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+      "publishedAt": "2026-08-26T07:01:00.000Z",
+      "fetchedAt": "2026-08-26T13:58:05.078Z",
+      "contentText": null,
+      "summary": "The article describes a sunny day in Kirkland, Washington, at the Gates Ventures conference room, overlooking Carillon Point Marina. The weather is warm with a clear blue sky, and expensive boats are visible in the marina.",
+      "enterpriseAngle": "This text does not contain enough information to determine an enterprise angle related to AI, security, or product development.",
+      "beginner": "The provided text describes a pleasant day at a specific location.",
+      "advanced": "There is no actionable information for experienced practitioners in the provided text.",
+      "tags": []
+    },
+    {
+      "id": "4a98b9a65252",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "India's Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+      "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+      "publishedAt": "2026-08-26T03:30:00.000Z",
+      "fetchedAt": "2026-08-26T13:58:04.080Z",
+      "contentText": null,
+      "summary": "Ringg, an Indian voice AI startup, has secured an additional $10 million in Series A funding from Peak XV Partners, bringing its total Series A to $15.5 million. The company, which processes 20 million call attempts monthly, is expanding beyond simple outbound calls to more complex workflows like appointment booking and KYC checks. Ringg aims to position itself as a platform for AI agents that deliver specific outcomes for enterprises.",
+      "enterpriseAngle": "Enterprise product development teams can leverage Ringg's voice AI agents for automating complex customer interactions, improving efficiency in areas like onboarding, support, and lead qualification, particularly in markets with high voice communication preferences. Security teams should consider the data privacy implications of deploying voice AI for sensitive tasks like KYC.",
+      "beginner": "Ringg uses AI that can talk like a human to help businesses handle customer calls and other tasks, especially in India where many people prefer talking on the phone.",
+      "advanced": "Evaluate Ringg's orchestration layer capabilities and proprietary speech models for integrating end-to-end, high-value enterprise workflows, focusing on their ability to deliver consistent quality in complex L1/L2 support and onboarding scenarios.",
+      "tags": [
+        "funding",
+        "enterprise",
+        "agents",
+        "product"
+      ]
+    },
+    {
+      "id": "cd9e55a32157",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+      "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+      "publishedAt": "2026-08-26T00:40:59.000Z",
+      "fetchedAt": "2026-08-26T13:58:04.080Z",
+      "contentText": null,
+      "summary": "Robotics startup Generalist has achieved a $3 billion valuation after securing an additional $200 million in funding, bringing its Series B round total to $600 million. The company, founded by former Google DeepMind and Boston Dynamics engineers, is developing an AI foundation model that allows robots to learn new tasks from short video demonstrations. Generalist's Gen 1.5 model enables robots to master tasks from 3-12 second video clips.",
+      "enterpriseAngle": "Enterprise product development teams can leverage Generalist's foundation model to create more adaptable robotic solutions, potentially reducing the need for extensive, task-specific training and accelerating deployment across various industrial applications. Security teams should consider the implications of more autonomous robots in their environments, particularly regarding data privacy and potential misuse of learned behaviors.",
+      "beginner": "Generalist is making robots smarter by teaching them to learn new skills just by watching short videos, similar to how a person might learn by observing.",
+      "advanced": "Evaluate the integration of Generalist's Gen 1.5 model for enhancing robotic task generalization, focusing on API robustness, data privacy implications of video-based learning, and the potential for rapid deployment in diverse operational environments.",
+      "tags": [
+        "funding",
+        "product",
+        "enterprise",
+        "research"
+      ]
+    },
+    {
+      "id": "d34e82eae2f2",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "How loveholidays is making everyone a builder with Codex",
+      "url": "https://openai.com/index/loveholidays",
+      "publishedAt": "2026-08-26T00:00:00.000Z",
+      "fetchedAt": "2026-08-26T13:57:57.096Z",
+      "contentText": null,
+      "summary": "Loveholidays is leveraging OpenAI Codex to democratize software development, enabling various teams within the company to participate in creating products. This approach aims to accelerate the process of transforming initial ideas into tangible products.",
+      "enterpriseAngle": "Enterprises can utilize AI coding assistants like Codex to empower non-traditional developers, thereby increasing development velocity and fostering innovation across different departments. This can lead to more efficient product delivery and broader participation in technical projects.",
+      "beginner": "AI tools can help people who aren't professional coders create software.",
+      "advanced": "Integrate AI-powered coding assistants into your development pipeline to empower citizen developers and accelerate time-to-market for new features and products.",
+      "tags": [
+        "coding",
+        "enterprise",
+        "product"
+      ]
+    },
     {
       "id": "75979cc45734",
       "source": "techcrunch-ai",

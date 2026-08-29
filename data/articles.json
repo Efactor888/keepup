@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-08-28T23:00:52.707Z",
+  "updatedAt": "2026-08-29T17:04:30.453Z",
   "articles": [
+    {
+      "id": "9764c79bea7c",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Nvidia’s AI advantage is moving beyond the GPU",
+      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "publishedAt": "2026-08-29T13:00:00.000Z",
+      "fetchedAt": "2026-08-29T17:03:17.138Z",
+      "contentText": null,
+      "summary": "Nvidia's competitive advantage in the AI market is expanding beyond just GPUs to include the entire system orchestration, as managing large-scale AI data centers efficiently becomes increasingly complex. The company's new Vera Rubin architecture, which integrates specialized CPUs and other components, aims to optimize data flow and overall system performance. This shift highlights a new area of competition in AI infrastructure, focusing on efficient data traffic control rather than just raw processing power.",
+      "enterpriseAngle": "Enterprise product development and security teams should recognize that optimizing AI infrastructure now involves more than just selecting powerful GPUs; efficient data orchestration and system-level integration are critical for performance and cost-effectiveness. This also implies that security considerations must extend beyond individual components to the entire AI system's data flow and management.",
+      "beginner": "Nvidia is making sure that all the parts of an AI computer system work together smoothly, not just the main processing chips, which helps make AI run faster and more efficiently.",
+      "advanced": "As AI compute scales to gigawatt levels, prioritize system-level data orchestration and traffic control solutions, such as Nvidia's Vera CPU, to achieve significant efficiency gains and avoid bottlenecks, rather than solely focusing on GPU raw compute power.",
+      "tags": [
+        "enterprise",
+        "infrastructure",
+        "hardware",
+        "product"
+      ]
+    },
     {
       "id": "1546804b7d31",
       "source": "techcrunch-ai",
@@ -103,6 +124,26 @@
         "enterprise",
         "partnership",
         "workforce",
+        "policy"
+      ]
+    },
+    {
+      "id": "092c8de02e8b",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "publishedAt": "2026-08-28T06:00:00.000Z",
+      "fetchedAt": "2026-08-29T17:03:14.844Z",
+      "contentText": null,
+      "summary": "OpenAI has decided to terminate its contract to provide models to Cursor. This decision follows Cursor's acquisition by SpaceX.",
+      "enterpriseAngle": "Enterprises relying on third-party AI model providers should be aware of potential service disruptions due to acquisitions or changes in corporate strategy, necessitating robust vendor management and contingency planning.",
+      "beginner": "When one company buys another, existing business deals, like using AI models, can sometimes end.",
+      "advanced": "Evaluate supply chain risks for critical AI dependencies, particularly when vendors are acquired by entities with potentially conflicting interests or strategic shifts.",
+      "tags": [
+        "enterprise",
+        "partnership",
         "policy"
       ]
     },
@@ -358,6 +399,27 @@
       ]
     },
     {
+      "id": "89278112f544",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Plaud's new earphones come with an eSIM-enabled case for talking to AI agents",
+      "url": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
+      "publishedAt": "2026-08-27T13:00:00.000Z",
+      "fetchedAt": "2026-08-29T17:03:17.138Z",
+      "contentText": null,
+      "summary": "Plaud has launched Plaud One, new earphones with an eSIM-enabled case designed for recording conversations and interacting with AI agents. The device aims to differentiate itself through software capabilities, allowing its AI agent to perform tasks like writing emails or creating documents based on transcribed conversations. The eSIM in the case enables remote instruction of AI agents without needing a phone or computer.",
+      "enterpriseAngle": "Enterprise product development teams can observe Plaud's strategy of integrating AI agents directly into wearable hardware, particularly the eSIM functionality for phone-free interaction, as a potential direction for enhancing productivity tools and hands-free workflows. Security teams should consider the implications of always-on recording devices and the data privacy aspects of AI agents accessing and processing sensitive conversational data.",
+      "beginner": "Plaud's new earphones can record what people say and then use AI to help with tasks like writing emails, even without needing your phone.",
+      "advanced": "Evaluate the integration of eSIM-enabled AI agent interaction in hardware for potential use cases in secure, hands-free enterprise workflows, while also assessing the data governance and privacy frameworks required for conversational AI processing.",
+      "tags": [
+        "product",
+        "agents",
+        "enterprise",
+        "hardware"
+      ]
+    },
+    {
       "id": "c92e20e633fb",
       "source": "venturebeat-ai",
       "sourceName": "VentureBeat AI",
@@ -379,6 +441,27 @@
       ]
     },
     {
+      "id": "32ef27a0c539",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "OpenAI to start showing ads on ChatGPT's free and Go tiers in India",
+      "url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+      "publishedAt": "2026-08-27T11:35:59.000Z",
+      "fetchedAt": "2026-08-29T17:03:17.138Z",
+      "contentText": null,
+      "summary": "OpenAI is introducing advertisements on its free and Go subscription tiers for ChatGPT in India, following similar rollouts in the U.S. and Europe. This initiative, which includes partnerships with WPP and Omnicom and the launch of an ad manager, aims to diversify revenue streams ahead of a potential IPO. OpenAI has actively cultivated its user base in India through various promotions and strategic hires.",
+      "enterpriseAngle": "Enterprise product teams should note OpenAI's strategy to monetize its large user base through advertising, which could influence future AI service models and user experiences. Security teams need to consider potential data privacy implications and ad-related vulnerabilities as AI platforms integrate advertising.",
+      "beginner": "OpenAI is putting ads on its free AI chatbot, ChatGPT, in India to make more money.",
+      "advanced": "Evaluate the implications of OpenAI's ad integration for data privacy and user experience within enterprise AI applications, and assess the potential for ad-driven revenue models to impact the cost and features of future AI services.",
+      "tags": [
+        "enterprise",
+        "product",
+        "funding",
+        "consumer"
+      ]
+    },
+    {
       "id": "3062d8cdad5f",
       "source": "openai",
       "sourceName": "OpenAI",
@@ -396,6 +479,27 @@
         "research",
         "learning",
         "product"
+      ]
+    },
+    {
+      "id": "81247968d5a9",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Nvidia closes in on Hugging Face acquisition",
+      "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+      "publishedAt": "2026-08-27T06:32:51.000Z",
+      "fetchedAt": "2026-08-29T17:03:17.138Z",
+      "contentText": null,
+      "summary": "Nvidia is reportedly close to acquiring Hugging Face for approximately $12.9 billion, a significant increase from its last valuation. This acquisition would give Nvidia a stronger presence in the open-source AI ecosystem, which is crucial as major AI labs develop their own chips to reduce reliance on Nvidia's hardware. The deal also offers Nvidia a potential reentry into the cloud computing market and a way to utilize unused computing capacity.",
+      "enterpriseAngle": "This acquisition could significantly impact enterprise AI strategies by solidifying Nvidia's role in both hardware and open-source model development, potentially influencing which platforms and models enterprises adopt. It also highlights the increasing consolidation in the AI infrastructure space, which could affect vendor choices and pricing for enterprise product development and security teams.",
+      "beginner": "Nvidia, a big chip company, wants to buy Hugging Face, a popular place where people share free AI models, to keep its lead in the AI industry.",
+      "advanced": "Evaluate the long-term implications of Nvidia's potential acquisition of Hugging Face on your organization's AI infrastructure and model selection strategy, particularly concerning open-source model availability, cloud computing options, and potential vendor lock-in.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "infrastructure",
+        "model-release"
       ]
     },
     {
@@ -17351,6 +17455,50 @@
       "dateChecked": true
     },
     {
+      "id": "1281374bf316",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "Anthropic and the Government of Rwanda sign MOU for AI in health and education",
+      "url": "https://www.anthropic.com/news/anthropic-rwanda-mou",
+      "publishedAt": "2026-02-17",
+      "fetchedAt": "2026-08-29T17:03:14.632Z",
+      "contentText": null,
+      "summary": "Anthropic and the Government of Rwanda have signed a three-year Memorandum of Understanding (MOU) to expand their partnership, focusing on integrating AI into Rwanda's education, health, and public sector systems. This agreement builds on a previous education partnership and is Anthropic's first multi-sector government MOU in Africa. The collaboration aims to accelerate health goals, enable public sector developers with AI tools and training, and deepen existing education initiatives.",
+      "enterpriseAngle": "This partnership demonstrates how AI companies are collaborating with national governments to deploy AI solutions for public sector challenges, offering a model for other enterprises seeking to expand their global impact and market reach. Enterprise product teams can learn from this multi-sector approach to develop AI solutions tailored for specific national needs in health, education, and governance.",
+      "beginner": "AI is being used to help countries like Rwanda improve important services such as healthcare and education.",
+      "advanced": "Explore opportunities for multi-sector AI deployment in emerging markets by partnering with national governments, focusing on capacity building, local autonomy, and responsible AI integration to address specific societal needs.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "product",
+        "governance"
+      ],
+      "dateChecked": true
+    },
+    {
+      "id": "b5a24577e00a",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "Anthropic partners with CodePath to bring Claude to the US’s largest collegiate computer science program",
+      "url": "https://www.anthropic.com/news/anthropic-codepath-partnership",
+      "publishedAt": "2026-02-13",
+      "fetchedAt": "2026-08-29T17:03:14.544Z",
+      "contentText": null,
+      "summary": "Anthropic is partnering with CodePath, the largest provider of collegiate computer science education in the US, to integrate Claude and Claude Code into its curriculum. This collaboration aims to provide over 20,000 students, particularly those from underrepresented backgrounds, with access to advanced AI tools for software development. The partnership will also involve public research into the impact of AI on coding education and economic opportunity.",
+      "enterpriseAngle": "Enterprise product development teams should note the increasing integration of AI tools like Claude into foundational computer science education, indicating a future workforce highly proficient in AI-assisted coding. This partnership also highlights the importance of accessible AI education for fostering a diverse talent pipeline in the tech industry.",
+      "beginner": "AI tools are now being taught in college computer science programs, helping students learn to code faster and prepare for future jobs.",
+      "advanced": "Evaluate your organization's AI-assisted development workflows and consider how to best onboard new hires who have learned to code using frontier AI tools like Claude from the outset of their education.",
+      "tags": [
+        "partnership",
+        "workforce",
+        "product",
+        "learning"
+      ],
+      "dateChecked": true
+    },
+    {
       "id": "b846f83a598d",
       "source": "xai",
       "sourceName": "xAI (Grok)",
@@ -17370,6 +17518,28 @@
         "product",
         "security"
       ]
+    },
+    {
+      "id": "25047844812d",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "Anthropic partners with Allen Institute and Howard Hughes Medical Institute to accelerate scientific discovery",
+      "url": "https://www.anthropic.com/news/anthropic-partners-with-allen-institute-and-howard-hughes-medical-institute",
+      "publishedAt": "2026-02-02",
+      "fetchedAt": "2026-08-29T17:03:14.446Z",
+      "contentText": null,
+      "summary": "Anthropic has partnered with the Allen Institute and Howard Hughes Medical Institute (HHMI) to integrate its Claude AI into scientific research. These collaborations aim to accelerate biological discovery by using AI to manage and interpret large datasets, generate hypotheses, and assist with experimental design. The goal is to augment human scientific judgment, not replace it, by providing AI tools that are transparent and interpretable.",
+      "enterpriseAngle": "Enterprise product development teams can learn from these partnerships about designing AI agents that integrate deeply with specialized instruments and analysis pipelines, ensuring real-world applicability and addressing usability gaps through direct scientific feedback. Security teams should note the emphasis on interpretability and traceable reasoning, which are crucial for auditing and validating AI-generated insights in critical enterprise applications.",
+      "beginner": "Anthropic is working with science organizations to use AI to help scientists understand huge amounts of data and speed up new discoveries.",
+      "advanced": "Leverage these insights to develop specialized, multi-agent AI systems that integrate with existing scientific instruments and analysis pipelines, focusing on interpretability and traceable reasoning to augment human expertise in complex research environments.",
+      "tags": [
+        "partnership",
+        "research",
+        "product",
+        "agents"
+      ],
+      "dateChecked": true
     },
     {
       "id": "a7903de9b5cd",

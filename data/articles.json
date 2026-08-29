@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-08-29T17:04:30.453Z",
+  "updatedAt": "2026-08-29T23:12:07.214Z",
   "articles": [
+    {
+      "id": "4d9cf7893a2e",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Sony Music, Warner sue Anthropic, alleging a \"brazen campaign\" of intellectual property theft",
+      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "publishedAt": "2026-08-29T18:41:59.000Z",
+      "fetchedAt": "2026-08-29T23:11:40.585Z",
+      "contentText": null,
+      "summary": "Sony Music Publishing, Warner Chappell, and other music publishers have sued Anthropic, alleging the AI lab engaged in a \"brazen campaign\" of intellectual property theft by illegally torrenting and scraping copyrighted works. The lawsuit claims Anthropic used thousands of copyrighted works, including lyrics and sheet music, to train its AI model Claude. Anthropic has stated it disagrees with the claims and intends to defend itself in court.",
+      "enterpriseAngle": "This lawsuit highlights the significant legal risks and intellectual property challenges enterprises face when developing and training AI models, particularly concerning data acquisition methods. Enterprise legal and product development teams must ensure robust compliance frameworks to avoid accusations of piracy and copyright infringement.",
+      "beginner": "AI companies can get into legal trouble if they use copyrighted songs or books without permission to teach their AI models.",
+      "advanced": "Implement stringent data provenance tracking and licensing protocols for all training data to mitigate legal exposure from intellectual property infringement claims, especially concerning large-scale content acquisition.",
+      "tags": [
+        "policy",
+        "governance",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "2555789944ab",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "\"We're not doing 30 bets a year\": Vijay Pande on betting small after running $4 billion at a16z",
+      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "publishedAt": "2026-08-29T17:36:47.000Z",
+      "fetchedAt": "2026-08-29T23:11:40.585Z",
+      "contentText": null,
+      "summary": "Vijay Pande, formerly of a16z, has launched VZVC, a smaller, AI-focused venture capital firm. He believes biology is transitioning from a discovery science to an engineering one and that open, shared datasets are crucial for AI to revolutionize medicine, despite the high costs of clinical trials.",
+      "enterpriseAngle": "Enterprises in biotech and healthcare should consider the strategic advantage of contributing to and leveraging open datasets to accelerate AI-driven research and development, rather than relying solely on proprietary data. This shift could impact product development cycles and the cost-effectiveness of bringing new medical solutions to market.",
+      "beginner": "A new investment firm is focusing on using AI to change how we develop medicine, emphasizing sharing data to make progress faster.",
+      "advanced": "Evaluate strategies for integrating open, shared datasets into your AI development pipeline to mitigate clinical trial costs and accelerate biological engineering initiatives.",
+      "tags": [
+        "funding",
+        "science",
+        "enterprise",
+        "research"
+      ]
+    },
     {
       "id": "9764c79bea7c",
       "source": "techcrunch-ai",
@@ -20,6 +61,26 @@
         "infrastructure",
         "hardware",
         "product"
+      ]
+    },
+    {
+      "id": "ea6418c0c8d6",
+      "source": "xai",
+      "sourceName": "xAI (Grok)",
+      "tier": "realtime",
+      "title": "Aug 29, 2026 Grok Bot now works with X Aug 29, 2026 Grok Bot now works with X Grok Bot now has a tighter integration with X. Read More",
+      "url": "https://x.ai/news/grok-bot-and-x",
+      "publishedAt": "2026-08-29",
+      "fetchedAt": "2026-08-29T23:11:39.266Z",
+      "contentText": null,
+      "summary": "Grok Bot now offers a tighter integration with X, allowing users to connect their X accounts directly within Grok Bot. This integration enables the bot to perform actions such as searching posts, reading timelines, and checking mentions on X. Paid Grok Bot users will also receive free X API credits.",
+      "enterpriseAngle": "Enterprise product teams can leverage this integration to develop AI-powered tools that interact directly with social media platforms, enhancing capabilities for market research, customer service, and real-time information gathering. Security teams should consider the implications of granting AI bots access to social media accounts and ensure appropriate access controls and data privacy measures are in place.",
+      "beginner": "Grok Bot can now connect to your X account to help you do things like search posts or see what's happening on X.",
+      "advanced": "Implement granular access controls and audit trails for Grok Bot's X integration to mitigate risks associated with automated social media interactions and data access.",
+      "tags": [
+        "product",
+        "enterprise",
+        "agents"
       ]
     },
     {

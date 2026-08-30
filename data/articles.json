@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-08-29T23:12:07.214Z",
+  "updatedAt": "2026-08-30T17:18:19.654Z",
   "articles": [
+    {
+      "id": "1e0d2ad7cf6c",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Musk's faster path to more gas turbines comes with pollution problem",
+      "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+      "publishedAt": "2026-08-30T16:54:25.000Z",
+      "fetchedAt": "2026-08-30T17:18:01.512Z",
+      "contentText": null,
+      "summary": "Elon Musk's new SpaceX foundry aims to accelerate gas turbine production by 18 months through in-house blade casting. However, this strategy relies on gas power, a fuel source currently facing environmental lawsuits and health concerns.",
+      "enterpriseAngle": "Enterprises considering rapid infrastructure expansion, particularly in energy-intensive sectors, should weigh the benefits of accelerated deployment against potential environmental liabilities and public relations challenges associated with certain fuel sources.",
+      "beginner": "Elon Musk is trying to build power plants faster using a new factory, but the type of power he's using, gas, is causing environmental problems.",
+      "advanced": "Evaluate the long-term regulatory and reputational risks associated with energy infrastructure choices, even when presented with significant speed-to-market advantages.",
+      "tags": [
+        "infrastructure",
+        "enterprise",
+        "policy"
+      ]
+    },
+    {
+      "id": "8cafc050dee1",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "publishedAt": "2026-08-30T15:00:00.000Z",
+      "fetchedAt": "2026-08-30T17:18:01.512Z",
+      "contentText": null,
+      "summary": "Caterpillar is leveraging its extensive experience in automating mining operations to deploy AI across its broader business, including tools for field technicians and internal software development. The company's CTO, Jaime Mineart, highlighted how learnings from physical world automation are being applied to more dynamic environments like construction sites. Caterpillar is also investing significantly in training its workforce to adapt to these new AI and autonomous technologies.",
+      "enterpriseAngle": "Enterprises can learn from Caterpillar's approach to AI deployment, which emphasizes integrating technology into existing workflows and rethinking how employees interact with new systems, rather than just focusing on technology development. The company's use of proprietary data from connected assets and its investment in workforce training are key strategies for successful AI adoption.",
+      "beginner": "Caterpillar, a big machinery company, is using its past experience automating mining to help deploy AI in new ways, like creating voice assistants for repair technicians and improving its own software.",
+      "advanced": "Leverage institutional knowledge and domain experts to train AI systems and plan for significant workforce retraining to ensure successful integration of AI and autonomous technologies into enterprise operations and workflows.",
+      "tags": [
+        "enterprise",
+        "product",
+        "workforce",
+        "learning"
+      ]
+    },
     {
       "id": "4d9cf7893a2e",
       "source": "techcrunch-ai",

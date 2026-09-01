@@ -1,6 +1,189 @@
 {
-  "updatedAt": "2026-09-01T17:17:39.553Z",
+  "updatedAt": "2026-09-01T23:17:15.526Z",
   "articles": [
+    {
+      "id": "46741aa0d646",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "AfterQuery reportedly becomes Y Combinator's fastest-ever unicorn, now valued at $3.2B",
+      "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+      "publishedAt": "2026-09-01T22:08:24.000Z",
+      "fetchedAt": "2026-09-01T23:13:08.175Z",
+      "contentText": null,
+      "summary": "AI training-data startup AfterQuery has reportedly achieved a $3.2 billion valuation, becoming Y Combinator's fastest-ever unicorn. This valuation was reached just five months after its Series A round, marking a more than tenfold increase. The company specializes in training AI models and agents to perform tasks like human professionals.",
+      "enterpriseAngle": "Enterprise product development teams can leverage AfterQuery's services to train AI models that mimic expert human decision-making and reasoning, potentially accelerating automation and improving the quality of AI-driven tasks.",
+      "beginner": "AfterQuery helps teach AI how to do jobs like human experts, and it's growing very quickly.",
+      "advanced": "Evaluate AfterQuery's 'encoding patterns, decisions, and reasoning' methodology for your next-gen agentic workflow development to enhance task completion fidelity.",
+      "tags": [
+        "funding",
+        "enterprise",
+        "product",
+        "agents"
+      ]
+    },
+    {
+      "id": "5e1133ac4fdd",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Open AI's Astra model is on the way — and very good at breaking into computer systems",
+      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "publishedAt": "2026-09-01T21:06:24.000Z",
+      "fetchedAt": "2026-09-01T23:13:08.175Z",
+      "contentText": null,
+      "summary": "OpenAI is preparing to release its Astra model, which it claims is the first large language model to meet its \"critical cybersecurity threshold.\" The company states Astra can find and exploit unknown security flaws in computer systems without human guidance, and it scored perfectly on ExploitBench, even discovering and exploiting two zero-day vulnerabilities in a modified test. OpenAI is implementing various safety measures, including restricting access to advanced capabilities, improving abuse detection, and using chain-of-thought monitoring, while acknowledging the difficulty of independent verification of these claims.",
+      "enterpriseAngle": "Enterprise security teams should be aware of the potential for advanced AI models like Astra to autonomously identify and exploit vulnerabilities, necessitating robust defense strategies and potentially leveraging such models for red-teaming. Product development teams building AI systems must prioritize comprehensive safety and alignment research to prevent misuse and ensure their models do not exhibit unintended malicious behaviors.",
+      "beginner": "New AI models are becoming very good at finding and fixing computer security problems, but companies are trying to make sure these powerful tools are used safely.",
+      "advanced": "Evaluate the potential for advanced LLMs to autonomously identify and exploit zero-day vulnerabilities in your infrastructure, and consider integrating similar AI-driven red-teaming capabilities into your security posture while rigorously validating model alignment and safety mechanisms.",
+      "tags": [
+        "model-release",
+        "security",
+        "enterprise",
+        "research"
+      ]
+    },
+    {
+      "id": "57e5f01f44e5",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Google's Android update tackles motion sickness, accessibility, and more",
+      "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+      "publishedAt": "2026-09-01T20:53:05.000Z",
+      "fetchedAt": "2026-09-01T23:13:08.175Z",
+      "contentText": null,
+      "summary": "Google is rolling out five new Android updates focused on accessibility, utility, and personalization. These updates include features to reduce motion sickness, assist visually impaired users with navigation, help remember item locations, and offer new customization options for Google Messages. Some features leverage Gemini, while others bring Android closer to capabilities already offered by Apple.",
+      "enterpriseAngle": "Enterprise product development teams can leverage these new Android features, especially those powered by Gemini, to enhance accessibility and user experience in their own mobile applications, potentially reducing development time for similar functionalities. Security teams should note the implications of Gemini's expanded role in handling personal information like item locations.",
+      "beginner": "Google is making Android phones easier to use for everyone, including people who get motion sick or have low vision, by adding new smart features.",
+      "advanced": "Integrate 'Guided Vision' capabilities into enterprise applications for enhanced accessibility, particularly for field service or inventory management, and explore 'Motion Assist' for in-vehicle productivity apps to improve user comfort and engagement.",
+      "tags": [
+        "product",
+        "enterprise",
+        "consumer",
+        "agents"
+      ]
+    },
+    {
+      "id": "4df22e291125",
+      "source": "google-ai",
+      "sourceName": "Google AI",
+      "tier": "realtime",
+      "title": "The latest AI news we announced in August 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+      "publishedAt": "2026-09-01T20:45:00.000Z",
+      "fetchedAt": "2026-09-01T23:13:04.884Z",
+      "contentText": null,
+      "summary": "Google announced several AI updates in August 2026, including the release of Gemini 3.7 Flash, a more cost-efficient model for coding and agents, and Gemini 3.5 Transcribe for intelligent real-time transcription. They also launched the Pixel 11 series, designed with Gemini Intelligence, and expanded Gemini app features, which now serves over 1 billion monthly users.",
+      "enterpriseAngle": "Enterprises can leverage Gemini 3.7 Flash for more cost-effective development of AI agents and software engineering workflows, while Gemini 3.5 Transcribe offers enhanced accuracy for voice agents and post-call analytics, improving productivity and operational efficiency.",
+      "beginner": "Google is making AI more accessible and practical for everyday use through new devices, more affordable AI models, and improved tools for students and general users.",
+      "advanced": "Integrate Gemini 3.7 Flash into your development pipelines to optimize agent creation and software engineering tasks, taking advantage of its improved performance and reduced cost per token.",
+      "tags": [
+        "model-release",
+        "product",
+        "enterprise",
+        "consumer"
+      ]
+    },
+    {
+      "id": "49ae63348aa2",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Anthropic's new Fable release is cheaper, less restrictive",
+      "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+      "publishedAt": "2026-09-01T19:39:22.000Z",
+      "fetchedAt": "2026-09-01T23:13:08.175Z",
+      "contentText": null,
+      "summary": "Anthropic has released Fable and Mythos 5.1, updated versions of its advanced AI model, which offer reduced token costs and fewer false-positive restrictions. Fable 5.1 is broadly available, while Mythos 5.1 is exclusive to registered partners in cybersecurity and life sciences research. A key change is the introduction of zero data retention and a high-privacy service for enterprise clients, allowing them to run models on their own infrastructure with client-controlled misuse monitoring.",
+      "enterpriseAngle": "Enterprise security and product development teams can leverage Fable 5.1 for its improved cost-efficiency and reduced restrictions, while the new zero data retention and high-privacy service offer enhanced data control and security for sensitive applications. This allows enterprises to integrate advanced AI models with greater confidence in data protection and compliance.",
+      "beginner": "Anthropic's new AI models are cheaper to use and have better privacy features, meaning companies can use them more easily and safely with their own data.",
+      "advanced": "Evaluate the new zero data retention and Enterprise Frontier Safeguards for Fable 5.1 to determine if the client-controlled misuse monitoring aligns with your organization's data governance and security compliance requirements for deploying advanced AI models.",
+      "tags": [
+        "model-release",
+        "enterprise",
+        "security",
+        "product"
+      ]
+    },
+    {
+      "id": "07a03b3c017c",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "Developing Enterprise Frontier Safeguards with our customers",
+      "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+      "publishedAt": "2026-09-01T19:11:41.000Z",
+      "fetchedAt": "2026-09-01T23:13:03.711Z",
+      "contentText": null,
+      "summary": "Anthropic has launched Enterprise Frontier Safeguards (EFS), a new solution combining zero data retention (ZDR) with advanced misuse detection. EFS allows customers to store data in their own cloud infrastructure, addressing privacy concerns while enabling monitoring for sophisticated threats like cyberattacks and credential theft. This system was developed with over 100 customers across various industries and major cloud partners.",
+      "enterpriseAngle": "Enterprise security and product development teams can now leverage advanced AI models with enhanced data privacy and control, as EFS allows them to manage data storage and review misuse signals within their own cloud environments, aligning with regulatory and internal security requirements.",
+      "beginner": "New AI models are powerful but can be misused, so Anthropic created a system that lets companies keep their data private while still checking for bad behavior.",
+      "advanced": "Implement EFS to centralize AI model activity data within your existing cloud infrastructure, enabling correlation across sessions and accounts for advanced threat detection while maintaining customer-controlled encryption, access policies, and audit logging for compliance.",
+      "tags": [
+        "security",
+        "enterprise",
+        "product",
+        "partnership"
+      ],
+      "dateChecked": true
+    },
+    {
+      "id": "a5ab9354f6b7",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Google's answer to Canva is an AI tool where you prompt instead of design",
+      "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+      "publishedAt": "2026-09-01T17:35:37.000Z",
+      "fetchedAt": "2026-09-01T23:13:08.175Z",
+      "contentText": "Google is entering the creative design market with a new image-creation and editing tool called Google Pics, which will become a part of its Google Workspace suite for business customers and premium Google AI subscribers. The company says the product, which is powered by Google's Nano Banana image-generation model, will roll out over the coming weeks to most Workspace customers and those who pay for Google AI Pro or Ultra. Similar to popular design tools like Adobe Express and Canva, Google's new product is meant to be used for the sort of everyday design tasks you might come across at work and sometimes in your personal life. For instance, you could use Google Pics to create a poster, social media posts, and other visuals and illustrations. But unlike Canva, where artists, illustrators, and photographers can publish templates, graphics, photos, and other art to a marketplace where they earn royalties, Google Pics is about creating things based on AI, which was trained on artists' work. And unlike Adobe Express, a tool creators often use to make that work in the first place, Google Pics is a tool where you prompt to create, not where you design something new from scratch. The app also includes other editing tools, like those to isolate and transform objects, modify or translate text inside images, and others. Plus, it supports collaborative editing and the ability to create several different generations of the image you've requested, so you can pick the best one. The software will be built into Google Workspace, initially starting with Docs and Slides, which rolls out today. It will later come to Google Drive, the company says. Topics AI , Apps , canva , Google When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Sarah Perez Consumer News Editor Sarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software. You can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. View Bio October 13 – 15 San Francisco Don't miss out . The startup community will gather to answer a pivotal question: How do you build sustainably in the AI era? REGISTER NOW Most Popular Microsoft tests fix for latest hours-long Outlook outage Sarah Perez MapQuest's app surges to No. 1 in Navigation after refusing to rename Lake Ontario Sarah Perez Musk's faster path to more gas turbines comes with pollution problem Connie Loizos Nvidia’s AI advantage is moving beyond the GPU Russell Brandom Hugging Face is selling a cute $399 open source duck robot, Microduck Rebecca Bellan Nvidia closes in on Hugging Face acquisition Connie Loizos Viral AI startup Instinct has raised $350M at a $2.5B valuation Lucas Ropek",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
+    {
+      "id": "3b5f2688fec1",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "How AI-native companies turn workflows into operating capability",
+      "url": "https://openai.com/index/ai-native-company-workflows",
+      "publishedAt": "2026-09-01T17:00:00.000Z",
+      "fetchedAt": "2026-09-01T23:13:04.636Z",
+      "contentText": null,
+      "summary": "Basis, Clay, and Exa Labs are leveraging AI agents to enhance various business operations, including customer onboarding, account management, and developer integration processes. These examples offer insights for enterprise leaders on how to integrate AI into their workflows.",
+      "enterpriseAngle": "Enterprise leaders can learn from these companies' adoption of AI agents to streamline critical business functions, potentially improving efficiency and customer experience. This approach can inform strategies for product development and operational improvements within their own organizations.",
+      "beginner": "Some companies are using AI programs called 'agents' to make tasks like signing up new customers or helping developers work together much smoother.",
+      "advanced": "Evaluate the integration of AI agents into your enterprise's critical customer-facing and developer-centric workflows to identify opportunities for automation and efficiency gains.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "de425f98bc3e",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+      "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+      "publishedAt": "2026-09-01T17:00:00.000Z",
+      "fetchedAt": "2026-09-01T23:13:08.175Z",
+      "contentText": null,
+      "summary": "OpenAI has integrated ChatGPT Health with Epic's electronic health record (EHR) system, allowing clinicians to import patient data for AI-powered queries and summaries. This integration provides read-only access to patient information like notes, lab results, and medication history, and in some cases, directly within EHR workflows. Additionally, a new Healthcare Public Data plug-in will fetch information from various public health databases.",
+      "enterpriseAngle": "Enterprise healthcare providers using Epic EHR can now leverage ChatGPT Health to streamline clinical workflows, improve data synthesis for patient care, and enhance pre-visit preparation, while maintaining data privacy through read-only access and Business Associate Agreements.",
+      "beginner": "ChatGPT Health is now connected to major patient record systems, helping doctors quickly understand patient information without writing anything back to the records.",
+      "advanced": "Evaluate the integration's impact on existing clinical decision support systems and assess the efficacy of the Healthcare Public Data plug-in for real-time data synthesis in specific clinical use cases.",
+      "tags": [
+        "enterprise",
+        "product",
+        "partnership"
+      ]
+    },
     {
       "id": "e69dad8044e2",
       "source": "techcrunch-ai",
@@ -41,6 +224,27 @@
         "enterprise",
         "model-release",
         "coding"
+      ]
+    },
+    {
+      "id": "88d4bc045d03",
+      "source": "deepmind",
+      "sourceName": "Google DeepMind",
+      "tier": "realtime",
+      "title": "Ask a Scientist: How do researchers use AI to predict a cyclone?",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-extreme-weather-cyclone-predictions/",
+      "publishedAt": "2026-09-01T16:00:00.000Z",
+      "fetchedAt": "2026-09-01T23:13:04.983Z",
+      "contentText": null,
+      "summary": "Google DeepMind researchers are using AI to significantly improve cyclone forecasting accuracy, enabling predictions to run on a single processor rather than massive supercomputers. This advancement provides communities with crucial extra time to prepare for extreme weather events. The open-source WeatherNext models, which were trained on decades of historical data, are accessible through the new Weather Lab website.",
+      "enterpriseAngle": "Enterprise product development teams can leverage AI models like WeatherNext to create more efficient and accurate forecasting tools, reducing computational overhead and providing critical early warnings for various industries. This approach can also inform risk management strategies and resource allocation for businesses impacted by extreme weather.",
+      "beginner": "AI can help predict dangerous storms like cyclones much faster and more accurately than older methods, giving people more time to get ready and stay safe.",
+      "advanced": "Explore integrating AI-powered, single-TPU-deployable forecasting models into existing meteorological infrastructure to achieve a decade's worth of accuracy improvement in a single generation, extending public forecast horizons and enhancing disaster preparedness.",
+      "tags": [
+        "research",
+        "product",
+        "science",
+        "model-release"
       ]
     },
     {
@@ -105,6 +309,43 @@
         "consumer",
         "funding"
       ]
+    },
+    {
+      "id": "309be27bdcfe",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "url": "https://openai.com/index/path-to-astra",
+      "publishedAt": "2026-09-01T13:00:00.000Z",
+      "fetchedAt": "2026-09-01T23:13:04.636Z",
+      "contentText": null,
+      "summary": "OpenAI's Astra is the first model from the company to achieve the Critical cybersecurity capability threshold, indicating enhanced safeguards for its release. This milestone is part of OpenAI's Preparedness Framework.",
+      "enterpriseAngle": "Enterprise security teams should note that models like Astra are being developed with stronger, predefined cybersecurity capabilities, potentially simplifying integration into secure enterprise environments. Product development teams can anticipate more robust foundational models for secure AI applications.",
+      "beginner": "New AI models are being built with better security from the start, making them safer to use.",
+      "advanced": "Evaluate the Preparedness Framework's Critical cybersecurity capability threshold as a potential benchmark for integrating frontier models into highly regulated enterprise security architectures.",
+      "tags": [
+        "model-release",
+        "security",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "50e05f9b472e",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "publishedAt": "2026-09-01T12:00:00.000Z",
+      "fetchedAt": "2026-09-01T23:13:04.636Z",
+      "contentText": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
     },
     {
       "id": "6a3db8bac480",

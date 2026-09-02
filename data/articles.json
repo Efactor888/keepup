@@ -1,6 +1,172 @@
 {
-  "updatedAt": "2026-09-01T23:17:15.526Z",
+  "updatedAt": "2026-09-02T17:07:29.628Z",
   "articles": [
+    {
+      "id": "f95dfcb0a242",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
+      "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+      "publishedAt": "2026-09-02T16:04:10.000Z",
+      "fetchedAt": "2026-09-02T17:05:34.521Z",
+      "contentText": null,
+      "summary": "Wonderful, an Israeli-Dutch AI startup, has secured $550 million in Series C funding, raising its valuation to $5 billion in less than six months. The company, initially known for its customer service AI agent platform, has evolved to offer \"Wonderful AI OS,\" a platform designed to coordinate AI agents, workflows, and applications with enterprise data and existing systems. This new funding will support product development and the expansion of its forward-deployed engineering teams.",
+      "enterpriseAngle": "Enterprise product and security teams can leverage Wonderful's platform to integrate various AI models and applications into their existing tech stacks, potentially accelerating AI adoption while maintaining control over their data and custom builds. The company's strategy of using forward-deployed engineers can help enterprises quickly embed AI solutions, addressing the demand for expert implementation.",
+      "beginner": "Wonderful is a company that helps businesses use AI more effectively by providing a platform that connects different AI tools and data, making it easier for companies to adopt AI.",
+      "advanced": "Evaluate Wonderful AI OS for its interoperability with diverse AI models and existing enterprise infrastructure, focusing on its ability to orchestrate agents and workflows while ensuring data ownership and security within your specific compliance framework.",
+      "tags": [
+        "enterprise",
+        "funding",
+        "product",
+        "agents"
+      ]
+    },
+    {
+      "id": "40d5f1d8eb31",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "India's richest man now wants to turn aging computers into AI-ready PCs",
+      "url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+      "publishedAt": "2026-09-02T16:01:48.000Z",
+      "fetchedAt": "2026-09-02T17:05:34.521Z",
+      "contentText": null,
+      "summary": "Reliance Jio, led by Mukesh Ambani, has expanded its JioPC cloud PC service to all Indian internet users, allowing them to transform older computers into \"AI-ready\" machines without hardware upgrades. This service streams a virtual PC from Jio's cloud, offering various configurations of virtual CPUs, RAM, and storage. The initiative aims to extend the lifespan of existing PCs and challenge traditional hardware upgrade cycles in India.",
+      "enterpriseAngle": "Enterprise security teams should note the shift towards cloud-based virtual PCs, which could centralize data and application management, potentially simplifying security controls but also increasing reliance on cloud provider security. Product development teams might find opportunities in creating AI applications optimized for cloud streaming, catering to a market with extended hardware lifecycles.",
+      "beginner": "Cloud PCs let you use powerful computers over the internet, making your old computer capable of running new AI programs without needing to buy a new one.",
+      "advanced": "Evaluate the TCO of cloud PC solutions like JioPC against traditional hardware refresh cycles, considering the implications for data residency, network dependency, and the integration of dedicated AI accelerators for on-device workloads.",
+      "tags": [
+        "enterprise",
+        "product",
+        "infrastructure",
+        "consumer"
+      ]
+    },
+    {
+      "id": "7f0cad5ff04b",
+      "source": "google-ai",
+      "sourceName": "Google AI",
+      "tier": "realtime",
+      "title": "Proactive cyber defense for governments and enterprises",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+      "publishedAt": "2026-09-02T15:40:00.000Z",
+      "fetchedAt": "2026-09-02T17:05:32.333Z",
+      "contentText": null,
+      "summary": "Google has launched the Fairwind Program, a limited-access initiative providing governments and trusted partners with advanced AI-powered cyber defense capabilities. This program leverages Gemini 3.8 Flash Cyber and the CodeMender harness to autonomously identify, verify, and fix software vulnerabilities rapidly. The goal is to help critical infrastructure operators, government agencies, and core technology platforms proactively address cyber risks at scale.",
+      "enterpriseAngle": "Enterprise security teams can utilize the Fairwind Program to significantly reduce the time and cost associated with vulnerability remediation, moving from weeks to minutes for generating verified, deployment-ready patches within their secure cloud environments. This offers a substantial advantage in protecting critical assets and maintaining operational resilience against evolving cyber threats.",
+      "beginner": "Google is offering special AI tools to governments and big companies to help them find and fix computer security problems much faster than before.",
+      "advanced": "Investigate integrating Gemini 3.8 Flash Cyber with CodeMender into your organization's secure cloud environment to achieve agentic-scale vulnerability remediation and accelerate patch deployment, focusing on critical infrastructure and core technology platforms.",
+      "tags": [
+        "security",
+        "enterprise",
+        "partnership",
+        "product"
+      ]
+    },
+    {
+      "id": "4f5cb1e3be05",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+      "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+      "publishedAt": "2026-09-02T15:01:23.000Z",
+      "fetchedAt": "2026-09-02T17:05:34.521Z",
+      "contentText": null,
+      "summary": "HiddenLayer, an AI security startup, has secured $100 million in Series B funding due to a significant increase in demand for AI security solutions. The company's annual recurring revenue has grown over tenfold in the past year, driven by new customers in financial services, large tech, and government sectors. This growth reflects a broader market trend where enterprises are rapidly investing in tools to protect AI models, agents, and workflows from various attacks.",
+      "enterpriseAngle": "Enterprise security and product development teams are facing an urgent need to secure their AI deployments, with spending on AI security tools projected to reach nearly $4.78 billion next year. Companies like HiddenLayer are expanding their offerings to address new threats such as prompt injection, agent manipulation, and malicious tool use, making runtime security a critical priority for businesses integrating AI.",
+      "beginner": "As more companies use AI, it's becoming crucial to protect these AI systems from attacks, similar to how we protect our computers from viruses.",
+      "advanced": "Prioritize integrating AI-specific runtime protection and supply chain security solutions, extending beyond traditional ML models to encompass GenAI and agentic workflows, to mitigate risks from prompt injection, agent manipulation, and malicious open-source model exploitation.",
+      "tags": [
+        "security",
+        "enterprise",
+        "funding",
+        "product"
+      ]
+    },
+    {
+      "id": "92b00fb02e6c",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "PSA: Amazon's shopping AI can now tell you if that message is a scam",
+      "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+      "publishedAt": "2026-09-02T14:56:34.000Z",
+      "fetchedAt": "2026-09-02T17:05:34.521Z",
+      "contentText": null,
+      "summary": "Amazon has introduced a new AI feature within its Alexa for Shopping service that helps customers determine if a message they received from Amazon is a scam. This AI analyzes various message attributes like sender, content, and metadata to confirm authenticity, aiming to reduce the 360,000 annual customer inquiries about suspicious communications. The system is designed to improve over time as more scam messages are reported by users.",
+      "enterpriseAngle": "Enterprise security teams can learn from Amazon's approach to leverage AI for proactive threat detection and customer protection against phishing and social engineering, potentially integrating similar AI-powered verification tools into their own customer-facing platforms. Product development teams should consider how AI can enhance trust and safety features, reducing the burden on customer service and improving user experience.",
+      "beginner": "Amazon is using a special computer program called AI to help you figure out if an email or message claiming to be from them is real or a trick by scammers.",
+      "advanced": "Implement a multi-modal AI verification system that analyzes sender information, content, timing, and metadata, and integrate user reporting mechanisms to continuously refine scam detection models and enhance enterprise-wide security posture against evolving social engineering tactics.",
+      "tags": [
+        "security",
+        "enterprise",
+        "product",
+        "consumer"
+      ]
+    },
+    {
+      "id": "b0d25a4a946f",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Adobe acquires Indian market intelligence startup Rilo",
+      "url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
+      "publishedAt": "2026-09-02T14:03:57.000Z",
+      "fetchedAt": "2026-09-02T17:05:34.521Z",
+      "contentText": null,
+      "summary": "Adobe has acquired Rilo, an Indian marketing intelligence startup, for an undisclosed sum, marking its second acquisition from India. Rilo's technology focuses on automating marketing workflows, including competitor intelligence and content distribution, and will be integrated into Adobe's products to enhance customer experience and productivity. Rilo will cease operations post-acquisition.",
+      "enterpriseAngle": "This acquisition allows Adobe to bolster its enterprise marketing and customer experience suites with AI-powered workflow automation, helping businesses streamline campaign creation, deployment, and tracking, and gain better visibility into marketing actions. Enterprise product development teams can leverage Rilo's IP to build more sophisticated automation tools for their customers.",
+      "beginner": "Adobe bought a startup called Rilo that helps businesses automate their marketing tasks using AI, making it easier to create and manage campaigns.",
+      "advanced": "Evaluate integrating Rilo's workflow automation capabilities into existing Adobe CX and marketing cloud deployments to enhance competitive intelligence, content repurposing, and sales call analysis for complex enterprise workflows.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "product"
+      ]
+    },
+    {
+      "id": "38df72fd5f87",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "Facilitating AI integration with simplicity at scale",
+      "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+      "publishedAt": "2026-09-02T14:00:00.000Z",
+      "fetchedAt": "2026-09-02T17:05:34.682Z",
+      "contentText": null,
+      "summary": "As companies expand, their operational technology can become a hindrance due to disconnected systems, site-specific tools, and manual processes. These issues lead to data silos, making it difficult to identify problems, coordinate responses, and make informed decisions. This challenge is particularly relevant for large global manufacturing companies like Jabil.",
+      "enterpriseAngle": "Enterprise product development teams should focus on creating integrated solutions that prevent data silos and facilitate seamless information flow across global operations. Security teams must ensure that these integrated systems maintain robust data protection and compliance across diverse operational environments.",
+      "beginner": "When businesses grow, their computer systems can become messy and make it hard to use information effectively.",
+      "advanced": "Implement a unified data platform strategy to consolidate operational data, leveraging API-first design principles to ensure interoperability and real-time data access across all enterprise systems.",
+      "tags": [
+        "enterprise",
+        "product",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "b98012d6ac06",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
+      "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
+      "publishedAt": "2026-09-02T12:09:42.000Z",
+      "fetchedAt": "2026-09-02T17:05:34.521Z",
+      "contentText": null,
+      "summary": "OpenAI is facing 30 new lawsuits related to the Tumbler Ridge mass shooting, bringing the total to 37. The new complaints, filed by Edelson PC, accuse OpenAI of aiding and abetting the shooting, alleging the company prioritized public relations over safety by not alerting Canadian authorities about the shooter's concerning ChatGPT activity. OpenAI denies these claims, stating the activity did not meet their criteria for an \"imminent and credible risk.\"",
+      "enterpriseAngle": "Enterprise AI providers must carefully balance user privacy with public safety, as the legal and reputational risks of perceived negligence in threat assessment can be severe. Product development teams need robust internal protocols and clear lines of authority for escalating potential real-world threats identified through AI model interactions.",
+      "beginner": "AI companies are being sued for not reporting dangerous user behavior to the police, raising questions about who is responsible when AI is used to plan violence.",
+      "advanced": "Review and fortify your organization's threat assessment protocols, ensuring clear, auditable decision-making frameworks for escalating potential real-world threats identified by AI systems, independent of PR or legal department influence.",
+      "tags": [
+        "security",
+        "governance",
+        "policy",
+        "enterprise"
+      ]
+    },
     {
       "id": "46741aa0d646",
       "source": "techcrunch-ai",
@@ -137,12 +303,17 @@
       "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
       "publishedAt": "2026-09-01T17:35:37.000Z",
       "fetchedAt": "2026-09-01T23:13:08.175Z",
-      "contentText": "Google is entering the creative design market with a new image-creation and editing tool called Google Pics, which will become a part of its Google Workspace suite for business customers and premium Google AI subscribers. The company says the product, which is powered by Google's Nano Banana image-generation model, will roll out over the coming weeks to most Workspace customers and those who pay for Google AI Pro or Ultra. Similar to popular design tools like Adobe Express and Canva, Google's new product is meant to be used for the sort of everyday design tasks you might come across at work and sometimes in your personal life. For instance, you could use Google Pics to create a poster, social media posts, and other visuals and illustrations. But unlike Canva, where artists, illustrators, and photographers can publish templates, graphics, photos, and other art to a marketplace where they earn royalties, Google Pics is about creating things based on AI, which was trained on artists' work. And unlike Adobe Express, a tool creators often use to make that work in the first place, Google Pics is a tool where you prompt to create, not where you design something new from scratch. The app also includes other editing tools, like those to isolate and transform objects, modify or translate text inside images, and others. Plus, it supports collaborative editing and the ability to create several different generations of the image you've requested, so you can pick the best one. The software will be built into Google Workspace, initially starting with Docs and Slides, which rolls out today. It will later come to Google Drive, the company says. Topics AI , Apps , canva , Google When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Sarah Perez Consumer News Editor Sarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software. You can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. View Bio October 13 – 15 San Francisco Don't miss out . The startup community will gather to answer a pivotal question: How do you build sustainably in the AI era? REGISTER NOW Most Popular Microsoft tests fix for latest hours-long Outlook outage Sarah Perez MapQuest's app surges to No. 1 in Navigation after refusing to rename Lake Ontario Sarah Perez Musk's faster path to more gas turbines comes with pollution problem Connie Loizos Nvidia’s AI advantage is moving beyond the GPU Russell Brandom Hugging Face is selling a cute $399 open source duck robot, Microduck Rebecca Bellan Nvidia closes in on Hugging Face acquisition Connie Loizos Viral AI startup Instinct has raised $350M at a $2.5B valuation Lucas Ropek",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Google is launching Google Pics, an AI-powered image creation and editing tool, as part of its Google Workspace suite for business customers and premium Google AI subscribers. Powered by the Nano Banana image-generation model, it allows users to create visuals like posters and social media posts through prompting rather than traditional design. The tool also offers editing features such as object isolation, text modification, collaborative editing, and multiple image generations.",
+      "enterpriseAngle": "Enterprise product development teams can integrate AI-driven design tools like Google Pics into their workflows to streamline content creation for marketing, internal communications, and presentations, potentially reducing reliance on traditional graphic design expertise. Security teams should consider the implications of AI model training data and potential misuse of generated content.",
+      "beginner": "Google Pics is a new tool that lets you create images by telling an AI what you want, instead of drawing or designing it yourself.",
+      "advanced": "Evaluate the integration of Google Pics within Workspace for automated content generation and assess its impact on existing design tool subscriptions and internal creative workflows, while also reviewing the governance of AI-generated assets.",
+      "tags": [
+        "product",
+        "enterprise",
+        "model-release",
+        "coding"
+      ]
     },
     {
       "id": "3b5f2688fec1",
@@ -340,12 +511,36 @@
       "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
       "publishedAt": "2026-09-01T12:00:00.000Z",
       "fetchedAt": "2026-09-01T23:13:04.636Z",
-      "contentText": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "ChatGPT now offers connectivity to trusted healthcare data sources, enabling clinicians to securely access patient information and medical research. This integration aims to provide healthcare professionals with enhanced context for their work.",
+      "enterpriseAngle": "Enterprise healthcare organizations can leverage this integration to improve clinical workflows, streamline access to patient data, and enhance decision-making for their medical teams. This could lead to more efficient operations and better patient care outcomes.",
+      "beginner": "ChatGPT can now be used by doctors and nurses to quickly find patient information and medical research.",
+      "advanced": "Evaluate the security and compliance implications of integrating ChatGPT with EHR systems and other sensitive healthcare data sources, focusing on data governance and access controls.",
+      "tags": [
+        "enterprise",
+        "product",
+        "security"
+      ]
+    },
+    {
+      "id": "631a857c7a24",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+      "url": "https://openai.com/index/gilbert-tobin",
+      "publishedAt": "2026-09-01T01:00:00.000Z",
+      "fetchedAt": "2026-09-02T17:05:32.131Z",
+      "contentText": null,
+      "summary": "Law firm Gilbert + Tobin is scaling its use of AI tools like ChatGPT Enterprise and Codex by combining strong leadership commitment, strict governance, and human oversight. This approach helps the firm integrate AI effectively across its operations.",
+      "enterpriseAngle": "Enterprises can learn from Gilbert + Tobin's strategy of integrating AI with a focus on CEO-led commitment, robust governance frameworks, and human accountability to ensure successful and responsible AI adoption.",
+      "beginner": "Even complex organizations like law firms are using AI tools, and they need clear rules and human checks to make sure it's used well.",
+      "advanced": "Implement a CEO-sponsored AI governance framework that emphasizes human accountability and continuous oversight to effectively scale AI solutions like ChatGPT Enterprise across your organization.",
+      "tags": [
+        "enterprise",
+        "governance",
+        "product"
+      ]
     },
     {
       "id": "6a3db8bac480",

@@ -1,6 +1,130 @@
 {
-  "updatedAt": "2026-09-02T17:07:29.628Z",
+  "updatedAt": "2026-09-02T23:14:45.604Z",
   "articles": [
+    {
+      "id": "f6657d932555",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-02T23:01:00.000Z",
+      "fetchedAt": "2026-09-02T23:13:09.210Z",
+      "contentText": null,
+      "summary": "TechCrunch Disrupt 2026 will feature \"The Builders Stage,\" a dedicated track for startup founders, operators, and investors. The stage will offer practical advice on scaling companies, covering topics like fundraising, hiring, go-to-market strategies, and navigating the AI landscape. Sessions will address challenges such as competing in an AI-dominated market, dealing with competition from AI giants, and attracting AI talent.",
+      "enterpriseAngle": "Enterprise product development and security teams can gain insights into the evolving startup ecosystem, particularly how AI is influencing product roadmaps, talent acquisition, and competitive strategies. Understanding these dynamics can help enterprises anticipate market shifts and refine their own innovation and talent management approaches.",
+      "beginner": "Startups are learning how to grow and compete in a world where AI is changing everything, from how they get money to who they hire.",
+      "advanced": "Evaluate your product roadmap for defensibility against rapidly evolving AI giants and adapt your talent acquisition and retention strategies to compete for specialized AI expertise.",
+      "tags": [
+        "enterprise",
+        "workforce",
+        "product",
+        "funding"
+      ]
+    },
+    {
+      "id": "361a495fe5ec",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+      "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+      "publishedAt": "2026-09-02T22:44:56.000Z",
+      "fetchedAt": "2026-09-02T23:13:09.210Z",
+      "contentText": null,
+      "summary": "Palo Alto Networks acquired Console, a two-year-old startup specializing in AI agents for automating IT help desk tasks, for an estimated $500 million in cash and stock. Console's technology will be integrated into Palo Alto Networks' Cortex platform to enhance autonomous security operations. The acquisition marks Palo Alto Networks' seventh in 2026, aiming to expand its AI capabilities.",
+      "enterpriseAngle": "Enterprise security and product development teams can leverage Console's AI agents within Palo Alto Networks' Cortex platform to automate routine IT and security tasks, enabling faster threat resolution and more autonomous security outcomes. This integration aims to streamline operations and free up human resources for more complex challenges.",
+      "beginner": "Palo Alto Networks bought a company called Console that uses AI to automatically handle common IT problems, making security systems smarter and more independent.",
+      "advanced": "Evaluate the integration of Console's agentic functionality within Cortex for automating security incident response and consider its impact on your organization's mean time to detect (MTTD) and mean time to respond (MTTR) metrics.",
+      "tags": [
+        "enterprise",
+        "product",
+        "agents",
+        "security"
+      ]
+    },
+    {
+      "id": "f77da1d55673",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+      "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+      "publishedAt": "2026-09-02T22:24:09.000Z",
+      "fetchedAt": "2026-09-02T23:13:09.210Z",
+      "contentText": null,
+      "summary": "TechCrunch Disrupt 2026 is introducing a new \"Real World AI Stage\" to focus on the intersection of digital and physical AI, expanding its coverage beyond a single AI stage due to rapid developments. This new stage will feature discussions on autonomous hardware, robotics, and the application of AI in biology, including efforts to de-extinct species. Speakers from companies like Nvidia, Shield AI, and Colossal Biosciences will address challenges such as data gaps for robots, building reliable AI systems where failure is critical, and operating AI at the edge.",
+      "enterpriseAngle": "Enterprise product development teams will gain insights into overcoming critical challenges in deploying AI in physical environments, such as ensuring safety in autonomous systems, developing robust data pipelines for robotics, and implementing AI solutions in edge computing scenarios with limited connectivity.",
+      "beginner": "AI is moving beyond just software and into physical things like robots and self-driving cars, bringing new challenges like making sure these systems are safe and have enough data to learn from.",
+      "advanced": "To accelerate general-purpose robotic intelligence, focus on developing comprehensive data pipelines, robust simulation environments, and foundational models that can bridge the significant data gap currently hindering physical AI's 'ChatGPT moment'.",
+      "tags": [
+        "enterprise",
+        "product",
+        "research",
+        "agents"
+      ]
+    },
+    {
+      "id": "13c4ef216462",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "publishedAt": "2026-09-02T20:19:14.000Z",
+      "fetchedAt": "2026-09-02T23:13:09.210Z",
+      "contentText": null,
+      "summary": "OpenAI's new Astra model utilizes a reasoning technique called \"recurrent depth\" or \"opaque recurrence,\" which allows it to process information non-sequentially, making its chain of thought harder to monitor. This has raised concerns among AI safety experts who fear it could hinder the ability to detect misbehavior or misalignment in AI models. While Astra's current use of the technique is limited, experts worry about its potential for broader adoption and the impact on AI transparency.",
+      "enterpriseAngle": "Enterprise security and product development teams relying on AI models need to be aware of emerging opaque reasoning techniques that could complicate model monitoring and auditing, potentially impacting compliance and incident response. The increased difficulty in tracing AI decision-making processes could pose significant challenges for ensuring accountability and trustworthiness in enterprise AI deployments.",
+      "beginner": "Some new AI models are using a different way of thinking that makes it harder for us to see how they reach their conclusions, which could make it harder to ensure they are behaving as intended.",
+      "advanced": "Evaluate the implications of opaque recurrence on existing model interpretability frameworks and develop strategies for monitoring and auditing AI systems where traditional chain-of-thought logging may be compromised.",
+      "tags": [
+        "security",
+        "research",
+        "governance",
+        "model-release"
+      ]
+    },
+    {
+      "id": "9eff64c42b6e",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Pangram's Max Spero on why AI detection is harder than ‘Real or Fake'",
+      "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+      "publishedAt": "2026-09-02T17:18:13.000Z",
+      "fetchedAt": "2026-09-02T23:13:09.210Z",
+      "contentText": null,
+      "summary": "AI-generated content, including text and images, is increasingly appearing in various contexts such as job applications, product reviews, and insurance claims. This proliferation of AI-generated material is creating a trust problem online, making it difficult for platforms and users to distinguish between authentic and artificial content.",
+      "enterpriseAngle": "Enterprise security teams face growing challenges in verifying the authenticity of user-submitted content, necessitating advanced detection methods to prevent fraud and maintain data integrity. Product development teams must consider integrating robust AI detection capabilities into their platforms to combat the spread of synthetic content and preserve user trust.",
+      "beginner": "It's becoming harder to tell if online content like reviews or job applications are written by a person or an AI.",
+      "advanced": "Implement multi-modal AI detection strategies that analyze linguistic patterns, metadata, and visual cues to identify synthetic content across diverse enterprise applications.",
+      "tags": [
+        "security",
+        "product",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "e9ddda31f3b9",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "We're ‘dangerously close’ to dead internet theory, says Pangram's CEO",
+      "url": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
+      "publishedAt": "2026-09-02T17:09:57.000Z",
+      "fetchedAt": "2026-09-02T23:13:09.210Z",
+      "contentText": null,
+      "summary": "The internet is facing a growing trust problem due to the proliferation of AI-generated content, which is appearing in various contexts like job applications, product reviews, and insurance claims. This rise in AI-generated text and images is making it difficult for both platforms and users to discern authentic information.",
+      "enterpriseAngle": "Enterprise security and product development teams must prioritize robust content authentication and verification mechanisms to combat the influx of AI-generated content and maintain trust in their platforms and data.",
+      "beginner": "AI-generated content is making it harder to tell what's real online, impacting everything from job applications to product reviews.",
+      "advanced": "Implement advanced AI detection and content provenance solutions to safeguard data integrity and user trust across enterprise applications and workflows.",
+      "tags": [
+        "security",
+        "product",
+        "governance"
+      ]
+    },
     {
       "id": "f95dfcb0a242",
       "source": "techcrunch-ai",
@@ -165,6 +289,48 @@
         "governance",
         "policy",
         "enterprise"
+      ]
+    },
+    {
+      "id": "63f23fd56160",
+      "source": "cursor",
+      "sourceName": "Cursor",
+      "tier": "realtime",
+      "title": "Sep 2, 2026 · product Run cloud agents on machines you manage Jack Pertschuk 6m Jack Pertschuk · 6m",
+      "url": "https://cursor.com/blog/self-hosted-machines",
+      "publishedAt": "2026-09-02",
+      "fetchedAt": "2026-09-02T23:13:08.255Z",
+      "contentText": null,
+      "summary": "Cursor now allows users to run its cloud agents on self-managed infrastructure, giving teams more control over execution environments. This feature enables agents to access internal services, utilize custom hardware, and integrate with specific operating systems or build pipelines. While the agent's core logic remains in the Cursor cloud, tool execution moves to the user's network, connected via a worker.",
+      "enterpriseAngle": "Enterprise security and product development teams can now deploy AI coding agents within their own network boundaries, ensuring direct access to sensitive internal resources and adherence to specific security and compliance requirements. This also allows for the use of specialized infrastructure like GPUs or custom build environments, enhancing development flexibility and control.",
+      "beginner": "You can now make AI tools for coding run on your own computers and networks, instead of only on Cursor's computers.",
+      "advanced": "Implement self-hosted Cursor agents with worker pools to leverage internal infrastructure for tool execution, ensuring direct access to source control and custom hardware while maintaining Cursor's orchestration for inference and planning.",
+      "tags": [
+        "enterprise",
+        "product",
+        "infrastructure",
+        "coding"
+      ]
+    },
+    {
+      "id": "a5699f9ef3b6",
+      "source": "cursor",
+      "sourceName": "Cursor",
+      "tier": "realtime",
+      "title": "Nokia analyzes 50M+ lines of code in two weeks with Cursor Sep 2, 2026",
+      "url": "https://cursor.com/blog/nokia",
+      "publishedAt": "2026-09-02",
+      "fetchedAt": "2026-09-02T23:13:08.467Z",
+      "contentText": null,
+      "summary": "Nokia utilized Cursor to analyze over 50 million lines of code in two weeks with only two engineers, a task that previously would have taken a dozen experts several months. This analysis provided an evidence-based plan for decomposing their monolithic architecture. Nokia is also using Cursor to automate new functionality deployment and accelerate root cause analysis for customer-impacting defects.",
+      "enterpriseAngle": "Enterprises can leverage AI-powered platforms like Cursor to dramatically reduce the time and personnel required for complex code analysis, accelerate software development lifecycles, and improve incident response times, leading to significant cost savings and increased efficiency. This shift enables engineering teams to focus on higher-value tasks by offloading labor-intensive processes to AI agents.",
+      "beginner": "AI tools can help companies analyze huge amounts of computer code very quickly, making it easier to fix problems and build new software faster.",
+      "advanced": "Integrate multi-agent deployment and orchestration platforms to automate large-scale code analysis, streamline SDLC processes from PRD generation to root cause analysis, and free up specialized engineering resources for strategic initiatives.",
+      "tags": [
+        "enterprise",
+        "product",
+        "coding",
+        "agents"
       ]
     },
     {

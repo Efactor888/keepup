@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-09-04T16:49:40.221Z",
+  "updatedAt": "2026-09-04T22:58:10.677Z",
   "articles": [
+    {
+      "id": "886491e995a1",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+      "publishedAt": "2026-09-04T21:12:11.000Z",
+      "fetchedAt": "2026-09-04T22:57:21.000Z",
+      "contentText": null,
+      "summary": "Nscale, a British AI infrastructure company, is reportedly seeking $3.5 billion in pre-IPO financing, including $1.5 billion in convertible notes and $2 billion from Nvidia. This comes as the company, founded two years ago, prepares for a potential IPO as early as this month. Nscale recently secured a significant $45 billion deal with Anthropic, leading to projected revenues of $103 billion based on signed customer leases.",
+      "enterpriseAngle": "Enterprises relying on AI infrastructure should note the rapid growth and significant investment in providers like Nscale, indicating a robust and competitive market for compute resources. The large deal with Anthropic highlights the substantial financial commitments and long-term contracts being made for AI compute, which can impact future pricing and availability for other businesses.",
+      "beginner": "Companies that provide the computing power for AI are growing very fast and attracting a lot of money, showing how important these resources are for AI development.",
+      "advanced": "Evaluate the long-term implications of large-scale, multi-billion dollar compute lease agreements, such as Nscale's deal with Anthropic, on the supply chain and cost structures for enterprise AI model training and inference.",
+      "tags": [
+        "infrastructure",
+        "funding",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "5d819de11d79",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "Architecting memory and storage in the AI era",
+      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+      "publishedAt": "2026-09-04T18:39:19.000Z",
+      "fetchedAt": "2026-09-04T22:57:21.410Z",
+      "contentText": null,
+      "summary": "The current era of AI inference is enabling real-time analysis in various sectors, such as healthcare and customer service. These advancements are driven by sophisticated infrastructure that supports continuous intelligence and real-time services.",
+      "enterpriseAngle": "Enterprise product development teams should prioritize robust and scalable memory and storage architectures to support the increasing demands of real-time AI inference in their applications. Security teams must ensure these advanced infrastructures are protected against data breaches and unauthorized access, especially when handling sensitive real-time data.",
+      "beginner": "AI inference is when AI models use what they've learned to make predictions or decisions in real-time.",
+      "advanced": "Evaluate current memory and storage solutions for bottlenecks in real-time AI inference workloads and explore emerging technologies like in-memory computing and advanced persistent memory to optimize performance and reduce latency.",
+      "tags": [
+        "infrastructure",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "8387f1efcfcf",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "What will Apple's John Ternus era look like?",
+      "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+      "publishedAt": "2026-09-04T17:18:00.000Z",
+      "fetchedAt": "2026-09-04T22:57:21.000Z",
+      "contentText": null,
+      "summary": "John Ternus has officially taken over as CEO of Apple, succeeding Tim Cook, who will remain as Executive Chairman. Ternus's tenure begins with a major product launch, likely the next iPhone event, scheduled for next week. Cook will continue to focus on policy in his new role.",
+      "enterpriseAngle": "Enterprise product development teams should monitor Apple's strategic shifts under new leadership, particularly how hardware and software integration evolves, to anticipate future platform capabilities and requirements. The continued involvement of Tim Cook in policy suggests a sustained focus on regulatory and ethical considerations that could impact enterprise adoption of Apple technologies.",
+      "beginner": "Apple has a new boss, John Ternus, who is taking over from Tim Cook, and his first big task is a new iPhone launch.",
+      "advanced": "Evaluate the implications of Ternus's hardware-centric background on Apple's AI strategy and developer ecosystem, preparing for potential shifts in platform priorities and SDK enhancements.",
+      "tags": [
+        "enterprise",
+        "product",
+        "policy"
+      ]
+    },
     {
       "id": "1db7ddb57e18",
       "source": "techcrunch-ai",
@@ -143,6 +203,47 @@
         "funding",
         "enterprise",
         "product"
+      ]
+    },
+    {
+      "id": "7b08ecf43270",
+      "source": "xai",
+      "sourceName": "xAI (Grok)",
+      "tier": "realtime",
+      "title": "Sep 4, 2026 Setting Grok Bot loose on procurement",
+      "url": "https://x.ai/news/grok-bot-procurement",
+      "publishedAt": "2026-09-04",
+      "fetchedAt": "2026-09-04T22:57:18.159Z",
+      "contentText": null,
+      "summary": "xAI has introduced \"Haggle Bot,\" an AI agent designed to automate and optimize procurement processes for enterprises. This bot is configured to analyze vendor spend data, identify savings opportunities, and manage negotiations within predefined organizational permissions and negotiation strategies. It prioritizes evidence-backed savings, conducts thorough research on alternatives, and drafts negotiation plans for operator approval.",
+      "enterpriseAngle": "Enterprise security and product development teams can leverage such AI agents to streamline procurement, ensuring cost efficiency and compliance with internal policies, while also needing to consider how to securely integrate these agents with sensitive financial and contract data systems.",
+      "beginner": "AI can be used to automatically find ways for companies to save money on things they buy from other businesses.",
+      "advanced": "Implement robust access controls and data governance policies for AI procurement agents to prevent unauthorized data exposure or manipulation during automated negotiations and data analysis.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "139a1faa79a6",
+      "source": "cursor",
+      "sourceName": "Cursor",
+      "tier": "realtime",
+      "title": "How Basis builds long-horizon accounting agents with Cursor Sep 4, 2026",
+      "url": "https://cursor.com/blog/basis",
+      "publishedAt": "2026-09-04",
+      "fetchedAt": "2026-09-04T22:57:20.215Z",
+      "contentText": null,
+      "summary": "Basis, an AI company, leverages Cursor to develop accounting agents that automate complex, long-horizon accounting workflows, such as tax returns and month-end closes. These agents are significantly faster than human accountants, completing tasks like partnership tax returns up to six times quicker. Basis emphasizes rigorous development of agent context and uses behavior specifications to define and evaluate agent performance.",
+      "enterpriseAngle": "Enterprise product development teams can learn from Basis's approach to building reliable, long-horizon AI agents by treating context as a critical production input and using behavior specifications to ensure consistent and auditable agent performance. This methodology helps in tackling complex, multi-step tasks where errors can compound and ground-truth evaluation is expensive.",
+      "beginner": "AI agents can automate complicated, multi-step tasks that usually take humans a long time, making work much faster and more efficient.",
+      "advanced": "Implement a rigorous context management strategy and leverage behavior specifications as non-prompt-facing evaluation criteria to ensure robust, auditable performance for long-horizon AI agents, particularly in domains with high-stakes, multi-step workflows.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product",
+        "coding"
       ]
     },
     {

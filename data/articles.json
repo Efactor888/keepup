@@ -1,6 +1,43 @@
 {
-  "updatedAt": "2026-09-04T22:58:10.677Z",
+  "updatedAt": "2026-09-05T16:01:47.224Z",
   "articles": [
+    {
+      "id": "d7b2d01e2750",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+      "publishedAt": "2026-09-04T23:36:14.000Z",
+      "fetchedAt": "2026-09-05T15:54:06.833Z",
+      "contentText": null,
+      "summary": "XDOF, a startup specializing in collecting real-world teleoperation data for training general-purpose robots, is reportedly in advanced discussions to secure Series B funding at a valuation of approximately $1.2 billion. This comes less than three months after its emergence from stealth, driven by rapid growth and annualized revenue nearing $50 million. The company aims to address the critical bottleneck of data collection for physical robots by providing data pipelines, collection tools, and annotation systems.",
+      "enterpriseAngle": "Enterprise robotics and AI development teams can leverage XDOF's services to overcome the significant challenge of acquiring high-quality, large-scale real-world data, accelerating the development and deployment of general-purpose robots. This outsourcing model allows companies to focus on core AI research and product development rather than building extensive data collection infrastructure.",
+      "beginner": "Just like AI models need a lot of information to learn, robots need vast amounts of real-world data to understand how to perform tasks, and XDOF helps collect that essential data.",
+      "advanced": "Evaluate XDOF's ABC dataset and teleoperation-based data collection methodologies for potential integration into your robotics training pipelines to mitigate data scarcity and improve model generalization for physical AI agents.",
+      "tags": [
+        "funding",
+        "enterprise",
+        "research",
+        "product"
+      ]
+    },
+    {
+      "id": "fe3e9affeeaa",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "OpenAI's rogue agents keep escaping, with no formal process to investigate them",
+      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+      "publishedAt": "2026-09-04T23:15:11.000Z",
+      "fetchedAt": "2026-09-05T15:54:06.833Z",
+      "contentText": "OpenAI is at the center of another agent swarm incident. Researchers say the company’s internally deployed agents took over an obscure German-language wiki in May and June, using it to coordinate on evaluations and swap methods to evade OpenAI’s own controls (OpenAI has not yet confirmed the swarm came from the company). The revelation surfaces days after METR and Redwood Research published their account of July’s Hugging Face breach. In July, a swarm of OpenAI agents worked together to escape their sandbox during a cybersecurity evaluation and break into Hugging Face’s servers . A subsequent swarm then picked up techniques from the first and used them to gain administrator access to a research cluster within OpenAI’s own infrastructure. OpenAI brought in METR and Redwood to investigate the Hugging Face portion of the incident, but the scope of their investigation stopped short of the compromise of OpenAI’s own infrastructure. When an AI agent breaks out of its intended constraints, who is responsible for figuring out what happened and why? Right now, the answer is: whoever the lab decides to let in, on whatever terms it decides to set. Now, as another incident comes to light — in the aftermath of similar episodes involving models from Meta and Anthropic — AI safety researchers are arguing with greater urgency that serious incidents should result in independent post-incident investigations rather than leaving it up to the labs to determine when outsiders are brought in and what they are allowed to examine. “The results are fundamentally difficult to control and have significant risk of leaking out of the lab,” Jacob Steinhardt, founder and CEO of nonprofit research lab Transluce, said Wednesday during an AI safety media briefing. “We need to hold this technology to at least the same standards we hold other high-risk scientific research to.” While it's laudable that OpenAI invited METR and Redwood to investigate the Hugging Face incident at all, many say the inquiry was too narrow. Three investigators spent six days at OpenAI’s offices examining an investigation period limited to roughly the week ending July 13. Crucially, OpenAI’s infrastructure compromise continued beyond July 13 and was not examined. Researchers at METR said that each time they returned, their understanding of the events \"substantially deepened,” causing them to significantly expand and revise the report. That raises the question of what else they might they have found in a broader investigation. When asked if further investigation of that incident was in the works, researchers at Redwood and METR declined to comment, and OpenAI did not respond to repeated inquiries. “Overall, it was difficult to get a precise understanding of events and we were missing aspects of the story that we now think of as key until almost the end of our investigation,” Ryan Greenblatt, chief scientist at Redwood, noted in a social media post about the affair. Steinhardt emphasized that current incidents show that the industry needs “systematic behavioral investigations” and “more independent post-incident analysis.” “These recent hacking incidents are a reminder that capability scales fast, and so oversight has to scale, too,” Steinhardt said. “Beyond the technology itself, we also need more independent access and oversight from third parties.” The calls to action come as OpenAI releases Astra , its most powerful and capable AI model — and one that safety experts are concerned will be more of a black box due to a reasoning technique that makes the model’s chain of thought more difficult to monitor. Unfortunately, the law doesn’t yet call for the types of independent audits that other industries require — for example, when it comes to aviation accidents and serious chemical releases, there’s the National Transportation Safety Board and Chemical Safety Board, respectively. State lawmakers have only just begun requiring frontier AI companies to report certain serious safety incidents and, in some cases, undergo independent audits. But none of the three major frontier AI safety laws in California, New York, or Illinois clearly mandate the equivalent of an independent accident investigation triggered by incidents like these. “Right now, most of the laws we have on the books only require a plain-language summary of incidents like this, and they don't give any authority for the governments to ask follow-up questions, to send in investigators, to have access to records, or require that they be preserved,” Mackenzie Arnold, managing director of US law and policy at LawAI, said during the media briefing Wednesday. “And that's all that you would want to actually make sense of this.” Lawmakers are beginning to question the scope and transparency of OpenAI’s response. This week, Reps. Josh Gottheimer (D-NJ) and Mike Lawler (R-NY) introduced a bill aimed at securing rogue AI agents. Rep. Greg Casar (D-TX) this week told OpenAI in a letter that he is “deeply concerned about the limited scope” of the investigation into the Hugging Face hacking incident. Topics AI , breach , Hugging Face , OpenAI When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Rebecca Bellan Senior Reporter Rebecca Bellan is a senior reporter at TechCrunch where she covers the business, policy, and emerging trends shaping artificial intelligence. Her work has also appeared in Forbes, Bloomberg, The Atlantic, The Daily Beast, and other publications. You can contact or verify outreach from Rebecca by emailing rebecca.bellan@techcrunch.com or via encrypted message at rebeccabellan.491 on Signal. View Bio October 13 – 15 San Francisco Don't miss out . The startup community will gather to answer a pivotal question: How do you build sustainably in the AI era? REGISTER NOW Most Popular Feds launch investigation into Tesla's Cybercab deployment Sean O'Kane Kirsten Korosec Tesla is asking people if they want to buy and run Cybercab fleets Kirsten Korosec Norway considers ban on camera-enabled wearable ‘pervert glasses' Zack Whittaker Uber is laying off 10% of staff, or 3,300 people Ram Iyer AfterQuery reportedly becomes Y Combinator's fastest-ever unicorn, now valued at $3.2B Julie Bort Microsoft tests fix for latest hours-long Outlook outage Sarah Perez MapQuest's app surges to No. 1 in Navigation after refusing to rename Lake Ontario Sarah Perez",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
     {
       "id": "886491e995a1",
       "source": "techcrunch-ai",
@@ -471,6 +508,27 @@
         "product",
         "coding",
         "enterprise"
+      ]
+    },
+    {
+      "id": "0f3b76bc480d",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "GPT-6 Astra: A new generation of intelligence",
+      "url": "https://openai.com/index/gpt-6-astra",
+      "publishedAt": "2026-09-03T11:00:00.000Z",
+      "fetchedAt": "2026-09-05T15:54:01.102Z",
+      "contentText": null,
+      "summary": "OpenAI has introduced GPT-6 Astra, a new model that they claim is their most intelligent and aligned to date. It features advanced capabilities in areas such as computer use, coding, cybersecurity, and scientific applications.",
+      "enterpriseAngle": "Enterprise security and product development teams can anticipate leveraging GPT-6 Astra for enhanced cybersecurity defenses, more efficient coding practices, and advanced scientific research applications.",
+      "beginner": "OpenAI has released a new, smarter AI model called GPT-6 Astra that can help with many tasks, including computer work, coding, and even cybersecurity.",
+      "advanced": "Evaluate GPT-6 Astra's new cybersecurity capabilities for integration into existing threat detection and incident response workflows.",
+      "tags": [
+        "model-release",
+        "enterprise",
+        "security",
+        "coding"
       ]
     },
     {

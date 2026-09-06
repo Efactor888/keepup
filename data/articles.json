@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-09-05T22:45:41.015Z",
+  "updatedAt": "2026-09-06T16:07:49.956Z",
   "articles": [
+    {
+      "id": "19672c4832d4",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "publishedAt": "2026-09-06T08:00:00.000Z",
+      "fetchedAt": "2026-09-06T16:07:30.516Z",
+      "contentText": null,
+      "summary": "OpenAI is utilizing coding agents internally to transform its AI research processes. Early data is being analyzed to understand the impact of these agents on experiment speed, task difficulty, and overall research acceleration.",
+      "enterpriseAngle": "Enterprise product development teams can explore integrating similar coding agents to automate parts of their development lifecycle, potentially increasing efficiency and accelerating product delivery. Security teams should consider the implications of agents on code integrity and access controls.",
+      "beginner": "AI models called 'coding agents' are helping OpenAI researchers write and test code faster.",
+      "advanced": "Evaluate the potential of integrating coding agents into your MLOps pipeline to automate experimental iterations and analyze their impact on development velocity and resource utilization.",
+      "tags": [
+        "agents",
+        "research",
+        "coding",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "1d3d4d76fcdc",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "publishedAt": "2026-09-05T22:49:55.000Z",
+      "fetchedAt": "2026-09-06T16:07:32.330Z",
+      "contentText": null,
+      "summary": "The Seattle Times and Newsday have filed a lawsuit against OpenAI and Microsoft, alleging that their journalism was used without permission to train AI models. The lawsuit claims that generative AI consumes human-authored content to produce copies and imitations, potentially harming the journalism industry. This legal action follows a similar lawsuit filed by The New York Times in 2023.",
+      "enterpriseAngle": "Enterprise product development teams leveraging large language models must carefully consider the provenance of their training data to mitigate legal risks related to copyright infringement. This ongoing litigation highlights the critical need for robust data governance and ethical sourcing practices in AI development.",
+      "beginner": "AI models learn by using vast amounts of information, and some news organizations are suing AI companies because they believe their articles were used without permission.",
+      "advanced": "Implement a comprehensive data lineage tracking system for all training data, ensuring clear rights and permissions, and proactively engage with content creators to establish licensing agreements to avoid potential copyright litigation.",
+      "tags": [
+        "policy",
+        "governance",
+        "enterprise"
+      ]
+    },
     {
       "id": "05d8db6c1707",
       "source": "techcrunch-ai",

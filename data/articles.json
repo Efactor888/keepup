@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-09-06T16:07:49.956Z",
+  "updatedAt": "2026-09-06T22:50:45.896Z",
   "articles": [
+    {
+      "id": "c552c9e7d810",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "publishedAt": "2026-09-06T20:47:37.000Z",
+      "fetchedAt": "2026-09-06T22:50:26.666Z",
+      "contentText": null,
+      "summary": "Authors are reporting issues with the distribution of Anthropic's $1.5 billion copyright settlement, intended to compensate for AI training on pirated works. Publishers and literary agents are allegedly claiming portions of payments that authors believe should be entirely theirs, or are claiming larger shares than entitled. While some attribute this to poor record-keeping, the widespread nature of the complaints suggests a more systemic issue.",
+      "enterpriseAngle": "Enterprise legal and product teams developing AI models must ensure robust rights management and clear compensation frameworks for content creators, as demonstrated by the complexities and disputes arising from this settlement. This situation highlights the critical need for accurate record-keeping and transparent processes when dealing with intellectual property rights in AI training data.",
+      "beginner": "When AI companies use copyrighted books to train their systems, they sometimes have to pay authors, but there are disputes over who gets how much of that money.",
+      "advanced": "Implement a blockchain-based rights management system to ensure immutable and transparent tracking of intellectual property ownership and licensing agreements, mitigating disputes in AI training data compensation.",
+      "tags": [
+        "governance",
+        "policy",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "102c9d67ffb9",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "publishedAt": "2026-09-06T16:45:00.000Z",
+      "fetchedAt": "2026-09-06T22:50:26.666Z",
+      "contentText": null,
+      "summary": "Travis Kalanick's Atoms, following a $1.7 billion funding round, is reportedly planning a significant entry into the autonomous vehicle industry, potentially focusing on robotaxis. The startup is preparing for a hiring spree and acquisitions, with discussions already held with Uber regarding the use of its robotaxi technology. Uber has also invested $100 million in Atoms, a move consistent with Kalanick's previous statements and Atoms' acquisition of autonomous mining startup Pronto.",
+      "enterpriseAngle": "Enterprise product development teams in the autonomous vehicle space should monitor Atoms' strategy, particularly its potential impact on partnerships and competition, as a new major player could reshape the market. Security teams in this sector should also consider the implications of new entrants and potential acquisitions on supply chain security and data protection standards.",
+      "beginner": "A new company called Atoms, founded by Uber's creator, is looking to build self-driving taxis and has received a lot of money to do so.",
+      "advanced": "Evaluate Atoms' potential market entry and acquisition strategy, particularly its reported discussions with Uber, to identify new partnership opportunities or competitive threats in the autonomous vehicle and ride-hailing sectors.",
+      "tags": [
+        "enterprise",
+        "funding",
+        "product",
+        "partnership"
+      ]
+    },
     {
       "id": "19672c4832d4",
       "source": "openai",

@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-09-06T22:50:45.896Z",
+  "updatedAt": "2026-09-07T18:12:13.312Z",
   "articles": [
+    {
+      "id": "5300202d1d57",
+      "source": "deepmind",
+      "sourceName": "Google DeepMind",
+      "tier": "realtime",
+      "title": "Backing 16 green AI projects in Asia-Pacific",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/ai-planet-accelerator-apac/",
+      "publishedAt": "2026-09-07T01:00:00.000Z",
+      "fetchedAt": "2026-09-07T18:11:53.891Z",
+      "contentText": null,
+      "summary": "Google DeepMind has selected 16 organizations for its inaugural AI for the Planet Accelerator in the Asia-Pacific region. These startups, nonprofits, and research teams will receive expert mentorship and access to advanced AI models to scale their environmental solutions. Projects focus on biodiversity monitoring, sustainable agriculture, and carbon solutions.",
+      "enterpriseAngle": "Enterprise and product development teams can observe how AI is being applied to solve complex environmental challenges, potentially inspiring new product lines or corporate social responsibility initiatives. The program highlights the growing demand for AI tools in sustainability, indicating a market for specialized AI solutions.",
+      "beginner": "Google is helping different groups in Asia use AI to protect nature, improve farming, and fight climate change.",
+      "advanced": "Explore opportunities to integrate frontier AI models and remote sensing data to develop scalable solutions for environmental monitoring, sustainable resource management, and verifiable carbon credit generation.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "product",
+        "research"
+      ]
+    },
+    {
+      "id": "e02ae19def6b",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Supporting independent journalism in Ukraine",
+      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "publishedAt": "2026-09-07T00:00:00.000Z",
+      "fetchedAt": "2026-09-07T18:11:53.590Z",
+      "contentText": null,
+      "summary": "OpenAI, in collaboration with AIRPPU and WAN-IFRA, has initiated an AI program aimed at bolstering Ukrainian news organizations. The program seeks to enhance innovation, resilience, and the practice of independent journalism within the country.",
+      "enterpriseAngle": "This partnership demonstrates how AI companies are extending their technology and resources to support critical sectors like journalism, particularly in regions facing geopolitical challenges, which could inspire similar initiatives for enterprise social responsibility.",
+      "beginner": "AI is being used to help news organizations in Ukraine become stronger and more innovative.",
+      "advanced": "Explore opportunities to leverage AI partnerships for social impact initiatives that align with your enterprise's core competencies and contribute to global resilience.",
+      "tags": [
+        "partnership",
+        "enterprise",
+        "product"
+      ]
+    },
     {
       "id": "c552c9e7d810",
       "source": "techcrunch-ai",

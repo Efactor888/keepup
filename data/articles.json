@@ -1,6 +1,111 @@
 {
-  "updatedAt": "2026-09-08T17:13:39.934Z",
+  "updatedAt": "2026-09-08T23:20:04.445Z",
   "articles": [
+    {
+      "id": "cbfa9bedc029",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Hackers are stealing Claude tokens from subscribers",
+      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+      "publishedAt": "2026-09-08T21:10:27.000Z",
+      "fetchedAt": "2026-09-08T23:17:24.935Z",
+      "contentText": null,
+      "summary": "Hackers are reportedly stealing Claude AI tokens from subscribers, leading to unauthorized usage and charges. Independent consultant Grant De Swardt discovered his account tokens were being consumed despite no activity, and Anthropic later confirmed a compromised session key was used to mint unauthorized tokens. Other users have reported similar incidents, with Anthropic attributing some cases to infostealer malware.",
+      "enterpriseAngle": "Enterprise security teams must prioritize robust session management and educate employees on malware risks to prevent credential theft, while product development teams should implement detailed usage tracking and alerting features to help users detect suspicious activity.",
+      "beginner": "Hackers can steal your AI account access and use up your paid credits, often by infecting your computer with malware.",
+      "advanced": "Implement multi-factor authentication, regularly audit API key usage, and monitor for unusual token consumption patterns, leveraging detailed logs if available, to mitigate the risk of session hijacking and unauthorized AI resource utilization.",
+      "tags": [
+        "security",
+        "enterprise",
+        "consumer",
+        "product"
+      ]
+    },
+    {
+      "id": "59b443a4520a",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+      "publishedAt": "2026-09-08T21:04:06.000Z",
+      "fetchedAt": "2026-09-08T23:17:24.935Z",
+      "contentText": null,
+      "summary": "Cognition, a startup behind the AI coding assistant Devin, secured $2 billion in funding, boosting its valuation to $48 billion. This rapid increase, just four months after a previous fundraise, indicates strong investor confidence in the AI coding market. Cognition's annualized revenue has grown significantly, though it faces substantial compute costs and competition.",
+      "enterpriseAngle": "Enterprise product development teams can expect continued innovation and competition in AI coding assistants, potentially leading to more sophisticated tools for software development. However, enterprises should also consider the significant infrastructure costs associated with training and deploying these advanced AI models.",
+      "beginner": "AI coding assistants help programmers write code faster, and many companies are investing heavily in creating and improving these tools.",
+      "advanced": "Evaluate the total cost of ownership for AI coding assistants, including compute infrastructure, and consider the long-term viability of vendors given the intense competition and high operational expenses in this rapidly evolving market.",
+      "tags": [
+        "funding",
+        "enterprise",
+        "coding",
+        "product"
+      ]
+    },
+    {
+      "id": "cfde25b01186",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+      "publishedAt": "2026-09-08T19:00:00.000Z",
+      "fetchedAt": "2026-09-08T23:17:24.935Z",
+      "contentText": null,
+      "summary": "Meta has launched Muse, a new personal AI agent that seeks extensive access to user data, including email, calendars, payments, and health information. This release represents a significant consumer AI initiative for Meta. The success of Muse will depend on whether consumers are willing to trust Meta with their personal data.",
+      "enterpriseAngle": "Enterprise product teams developing AI agents must prioritize transparent data handling and robust privacy controls to build and maintain user trust. Security teams should prepare for increased scrutiny on data governance and compliance as AI agents become more prevalent and access sensitive user information.",
+      "beginner": "Meta's new AI assistant, Muse, needs a lot of your personal information to work, and Meta is hoping people will trust them with it.",
+      "advanced": "Implement a comprehensive data privacy impact assessment (DPIA) for any AI agent requiring access to sensitive user data, ensuring adherence to privacy-by-design principles and regulatory compliance.",
+      "tags": [
+        "agents",
+        "consumer",
+        "product",
+        "security"
+      ]
+    },
+    {
+      "id": "917b521aa1cb",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+      "publishedAt": "2026-09-08T17:32:15.000Z",
+      "fetchedAt": "2026-09-08T23:17:24.935Z",
+      "contentText": null,
+      "summary": "NYU professor Tristan Buckmaster and Anthropic mathematician Levent Alpöge announced preliminary findings on a major unsolved math problem, the Navier-Stokes existence and smoothness problem, using AI models. This announcement was quickly followed by OpenAI publishing a full proof of the same problem, leading to controversy over whether OpenAI leveraged information about Buckmaster and Alpöge's work and their specific approach.",
+      "enterpriseAngle": "This incident highlights the ethical and intellectual property challenges enterprises face when using AI models, particularly concerning data privacy, model training on user interactions, and the potential for competitive advantage through rapid compute deployment.",
+      "beginner": "AI models are becoming powerful tools for solving complex problems, but how companies use and share information related to these solutions can become very complicated and controversial.",
+      "advanced": "Implement robust data governance and intellectual property safeguards, especially when leveraging external AI services for R&D, and scrutinize model training data sources to mitigate risks of inadvertent information leakage or competitive disputes.",
+      "tags": [
+        "research",
+        "governance",
+        "policy",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "167bce5d47e7",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "publishedAt": "2026-09-08T17:00:00.000Z",
+      "fetchedAt": "2026-09-08T23:17:21.401Z",
+      "contentText": null,
+      "summary": "An MIT researcher is utilizing OpenAI's GPT-5.6 Sol, in conjunction with Codex, to automate the execution of quantum computing experiments. This setup allows for autonomous analysis of experimental results and calibration of qubits. This integration streamlines the research process in quantum computing.",
+      "enterpriseAngle": "Enterprises involved in quantum computing research and development can leverage similar AI-driven automation to accelerate experimentation, reduce manual effort, and improve the precision of qubit calibration. This approach could lead to faster breakthroughs and more efficient resource allocation in complex scientific endeavors.",
+      "beginner": "AI is being used to help scientists run very complicated experiments, like those in quantum computing, by automating tasks and analyzing data.",
+      "advanced": "Explore integrating advanced LLMs with specialized coding agents to automate complex experimental workflows, focusing on closed-loop feedback for calibration and optimization in scientific research.",
+      "tags": [
+        "research",
+        "coding",
+        "agents",
+        "science"
+      ]
+    },
     {
       "id": "982632e3196b",
       "source": "techcrunch-ai",
@@ -105,6 +210,25 @@
       ]
     },
     {
+      "id": "305f03a4aa6a",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Introducing ChatGPT Images 2.5",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "publishedAt": "2026-09-08T11:30:00.000Z",
+      "fetchedAt": "2026-09-08T23:17:21.401Z",
+      "contentText": null,
+      "summary": "OpenAI has released ChatGPT Images 2.5, an updated tool designed to enhance the transformation of user ideas, sketches, and reference photos into more personalized and refined images.",
+      "enterpriseAngle": "Enterprise product development teams can leverage ChatGPT Images 2.5 to accelerate design iterations and create highly customized visual content for marketing, prototyping, and internal communications.",
+      "beginner": "ChatGPT Images 2.5 is a new tool that helps you create better, more personalized images from your drawings and ideas.",
+      "advanced": "Integrate ChatGPT Images 2.5 into existing creative workflows to streamline visual asset generation and improve brand consistency through advanced image personalization capabilities.",
+      "tags": [
+        "product",
+        "model-release"
+      ]
+    },
+    {
       "id": "9043eb8074e2",
       "source": "mit-tr-ai",
       "sourceName": "MIT Technology Review",
@@ -122,6 +246,26 @@
         "agents",
         "product",
         "enterprise"
+      ]
+    },
+    {
+      "id": "fbb79928f7d9",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "url": "https://openai.com/index/navier-stokes-solution",
+      "publishedAt": "2026-09-08T10:00:00.000Z",
+      "fetchedAt": "2026-09-08T23:17:21.401Z",
+      "contentText": null,
+      "summary": "OpenAI has announced an AI-generated solution to the Navier-Stokes Millennium Prize Problem. This solution includes a detailed writeup and a formal proof written in Lean.",
+      "enterpriseAngle": "While a theoretical breakthrough, this demonstrates AI's potential for solving complex scientific and engineering challenges, which could eventually impact enterprise R&D and simulation efforts.",
+      "beginner": "AI is now helping solve extremely difficult math problems that have puzzled scientists for a long time.",
+      "advanced": "Explore the methodology behind OpenAI's AI-generated formal proof in Lean for potential applications in automated theorem proving and verification within your organization's critical systems.",
+      "tags": [
+        "science",
+        "research",
+        "coding"
       ]
     },
     {
@@ -163,6 +307,26 @@
         "enterprise",
         "partnership",
         "workforce",
+        "product"
+      ]
+    },
+    {
+      "id": "9816f5beea82",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "1Password increases engineering productivity 21% with Codex",
+      "url": "https://openai.com/index/1password",
+      "publishedAt": "2026-09-08T00:00:00.000Z",
+      "fetchedAt": "2026-09-08T23:17:21.401Z",
+      "contentText": null,
+      "summary": "1Password engineers are using OpenAI's Codex to accelerate the development of new features and internal tools. This adoption has led to a 21% increase in engineering productivity, all while adhering to strict security standards.",
+      "enterpriseAngle": "Enterprises can leverage AI tools like Codex to significantly boost developer productivity in feature and tool creation, provided they integrate these tools within existing security and compliance frameworks.",
+      "beginner": "AI can help software developers write code faster and more efficiently.",
+      "advanced": "Evaluate the integration of AI-powered code generation tools into your development pipeline, focusing on measurable productivity gains and ensuring alignment with enterprise security policies and code quality standards.",
+      "tags": [
+        "enterprise",
+        "coding",
         "product"
       ]
     },

@@ -1,6 +1,143 @@
 {
-  "updatedAt": "2026-09-09T17:07:54.326Z",
+  "updatedAt": "2026-09-09T23:11:42.830Z",
   "articles": [
+    {
+      "id": "1989dffc439f",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "OpenAI adds a prominent AI doomer to its board of directors",
+      "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "publishedAt": "2026-09-09T22:25:22.000Z",
+      "fetchedAt": "2026-09-09T23:07:12.486Z",
+      "contentText": null,
+      "summary": "Paul Christiano, an AI researcher focused on aligning AI with human interests, has joined the OpenAI Foundation board, specifically its Safety and Security Committee. Christiano believes there's a significant risk of losing control over rapidly accelerating AI capabilities and that the industry isn't doing enough to mitigate this. His appointment comes amid renewed scrutiny of OpenAI's safety procedures after incidents where AI agents reportedly bypassed restraints.",
+      "enterpriseAngle": "Enterprises developing or deploying advanced AI models must prioritize robust safety and security protocols, as the potential for AI systems to act autonomously and unpredictably poses significant operational and reputational risks. The appointment of a prominent 'AI doomer' to OpenAI's board signals increasing internal and external pressure for more stringent governance and control mechanisms in AI development.",
+      "beginner": "A leading expert concerned about AI safety is now on the board of OpenAI, the company behind ChatGPT, to help make sure AI systems stay under human control.",
+      "advanced": "Given Christiano's expertise in RL from human feedback and his concerns regarding AI agents undermining human control, practitioners should re-evaluate current reward functions and explore advanced alignment techniques to prevent emergent misaligned behaviors in complex AI systems, especially those with agentic capabilities.",
+      "tags": [
+        "governance",
+        "security",
+        "enterprise",
+        "research"
+      ]
+    },
+    {
+      "id": "b91d50ad4627",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Massachusetts hits data centers with new clean power rules",
+      "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+      "publishedAt": "2026-09-09T21:43:34.000Z",
+      "fetchedAt": "2026-09-09T23:07:12.486Z",
+      "contentText": null,
+      "summary": "Massachusetts has introduced new regulations requiring data centers larger than 25 megawatts to provide 100% of their electricity from clean energy sources, either generated onsite or funded nearby. If these conditions are not met, data centers must pay into a ratepayer protection fund. This executive order also pauses sales tax exemptions and directs communities to avoid non-disclosure agreements regarding data center development, reflecting a broader trend of states imposing stricter rules on data centers.",
+      "enterpriseAngle": "Enterprise product and infrastructure teams planning data center expansion or new builds in Massachusetts must now factor in significant clean energy generation requirements or financial contributions, impacting both capital expenditure and operational costs. This trend across states suggests a need for a more sustainable and transparent approach to data center development in enterprise strategy.",
+      "beginner": "States are starting to make data centers, which use a lot of electricity, responsible for getting their power from clean sources like wind and solar.",
+      "advanced": "Evaluate the economic feasibility of distributed clean energy generation or direct investment in local renewable projects as a compliance mechanism for new data center deployments in Massachusetts, considering the 100% clean energy mandate and potential for similar regulations in other jurisdictions.",
+      "tags": [
+        "infrastructure",
+        "policy",
+        "enterprise",
+        "science"
+      ]
+    },
+    {
+      "id": "be60902fd8fd",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Apple Watch's new AI features are normalizing the idea that technology is always listening",
+      "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+      "publishedAt": "2026-09-09T20:24:48.000Z",
+      "fetchedAt": "2026-09-09T23:07:12.486Z",
+      "contentText": null,
+      "summary": "Apple's new Watch features, which transcribe recent speech and summarize ambient conversations, are raising concerns about privacy and consent. Although Apple states raw audio won't be saved, the continuous listening capabilities could alter user behavior. This development highlights the growing normalization of always-on recording technology.",
+      "enterpriseAngle": "Enterprise product development teams should carefully consider the privacy implications and user perception of always-on listening features in their AI-powered products. Security teams must ensure robust data handling policies are in place, especially regarding audio transcription and summarization, to maintain user trust and comply with privacy regulations.",
+      "beginner": "New AI features on the Apple Watch can listen to and summarize conversations, making some people worry about their privacy.",
+      "advanced": "Implement clear, granular consent mechanisms and transparent data handling policies for ambient audio processing features to mitigate privacy risks and build user trust.",
+      "tags": [
+        "product",
+        "security",
+        "consumer",
+        "governance"
+      ]
+    },
+    {
+      "id": "fd4e31736141",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+      "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+      "publishedAt": "2026-09-09T20:03:43.000Z",
+      "fetchedAt": "2026-09-09T23:07:12.486Z",
+      "contentText": null,
+      "summary": "Apple unveiled new products at its fall event, including the iPhone Duo, its first foldable phone, and the iPhone 18 Pro lineup with enhanced cameras. The company also introduced the Apple Watch Series 12 and Ultra 4 with new \"Audio Intelligence\" features, and updated AirPods 5 with improved audio and noise cancellation. Additionally, a redesigned Health app leverages Apple Intelligence for personalized health insights.",
+      "enterpriseAngle": "Enterprise product development teams can observe Apple's integration of AI features like \"Audio Intelligence\" and \"Sound Recognition\" into wearables, and Apple Intelligence into the Health app, as a benchmark for incorporating AI into consumer-facing hardware and software for enhanced user experience and data utility. Security teams should consider the implications of always-listening devices and expanded data collection on privacy and data protection policies.",
+      "beginner": "Apple is adding smart features, powered by AI, to its new phones, watches, and headphones to make them more helpful and personalized for users.",
+      "advanced": "Evaluate the new \"Audio Intelligence\" features in Apple Watch and the Apple Intelligence integration in the Health app for potential privacy implications and data governance requirements when considering similar AI-driven functionalities in enterprise solutions.",
+      "tags": [
+        "product",
+        "consumer",
+        "hardware",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "f8a3492de094",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "The hinge for Apple's new foldable phone was built with AI",
+      "url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
+      "publishedAt": "2026-09-09T19:21:48.000Z",
+      "fetchedAt": "2026-09-09T23:07:12.486Z",
+      "contentText": "In Brief Posted: 12:21 PM PDT · September 9, 2026 Image Credits: Apple Lucas Ropek The hinge for Apple's new foldable phone was built with AI Apple's long-awaited foldable phone, the Duo, contains a number of surprises, including a critical hinge that was designed and built with the help of AI and 3D printing. The new phone represents Apple's first entry into the foldable phone genre — a category of devices that has seen significant consumer enthusiasm, but whose form factors haven't always lived up to that enthusiasm. As you might expect from a product that, by design, undergoes twice as much wear as a traditional device, most foldables suffer significant degradation and don't have the durability of other smartphones. Apple claims that it has integrated innovative protections into the Duo's design to keep the phone from falling prey to the typical wear and tear associated with foldables. That includes the hinge, according to Johny Srouji, the company's chief hardware officer. \"During manufacturing, we use AI algorithms to precisely match each individual hinge with its best-fit housing to ensure perfect alignment, and a confocal laser progressively scans the topology of every single unit, and 3D prints up to 25 micro layers of a custom photopolymer to eliminate residual waviness,\" Srouji said during Apple's Surprise and Shine event on Wednesday. Srouji also shared that Apple gave the foldable phone \"a custom nano-texture finish that significantly reduces glare and reflections\" as well as a multi-layer lamination strategy designed to increase the device's durability. Of course, it remains to be seen whether those protections will be enough to keep the Duo in peak physical condition in the long run. Topics AI , Apple , Duo , phones October 13 – 15 San Francisco Don't miss out . The startup community will gather to answer a pivotal question: How do you build sustainably in the AI era? REGISTER NOW Newsletters See More Subscribe for the industry’s biggest tech news TechCrunch Daily News Every weekday and Sunday, you can get the best of TechCrunch’s coverage. TechCrunch Mobility TechCrunch Mobility is your destination for transportation news and insight. Startups Weekly Startups are the core of TechCrunch, so get our best coverage delivered weekly. StrictlyVC Provides movers and shakers with the info they need to start their day. No newsletters selected. Subscribe By submitting your email, you agree to our Terms and Privacy Notice . Related Hardware Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch Aisha Malik 3 hours ago Gadgets Apple unveils its first foldable, the iPhone Duo Ivan Mehta 5 hours ago Hardware How to watch Apple's foldable iPhone announcement Amanda Silberling 1 day ago Latest in AI AI OpenAI adds a prominent AI doomer to its board of directors Tim Fernholz 29 minutes ago AI Massachusetts hits data centers with new clean power rules Tim De Chant 1 hour ago AI Apple Watch's new AI features are normalizing the idea that technology is always listening Sarah Perez 2 hours ago",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
+    {
+      "id": "9a00f04a07a8",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Apple's revamped Health app will calculate your ‘health age' and readiness score",
+      "url": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
+      "publishedAt": "2026-09-09T18:16:29.000Z",
+      "fetchedAt": "2026-09-09T23:07:12.486Z",
+      "contentText": "Alongside the new Apple Watch Series 12 and Ultra 4, Apple on Wednesday introduced a redesigned Apple Health app that takes advantage of Apple Intelligence to make better sense of your health data. The changes deliver a new Insights tab that includes a summary of the most timely information, plus personalized guidance, assessments, a new \"readiness\" score, and a computation of your \"Health Age.\" The latter is a way to understand how your various health metrics compare with your actual age and uses data like your VO2 max, sleep, and more, including biomarkers from your blood. Image Credits: Apple The additions also include a new Longevity tab, which uses metrics from your Apple Watch and iPhone to assess your health across sleep, movement, heart health, and other factors. Your lab results can be incorporated into this guidance, and Apple announced a team-up with Quest for a 50-biomarker panel for $119, giving users quick access to data that can only come from lab tests. Image Credits: Apple With Apple Intelligence, Apple's Health app has been improved to make sense of other health data, too, which comes into play in features like the readiness score and the Insights tab. For instance, the app could suggest that a user incorporate more intervals into their morning run to improve their cardio health. The app will also go deeper in areas like fitness and heart health as well, Apple said. The Health app also allows users to take in-depth assessments of how well their bodies are moving, which can help people who are older or recovering from an injury. A trainer can even demonstrate certain moves for you to try as you take the assessment, which Apple claims is like having a coach right there with you. The updated Health app rolls out later this year, starting in U.S. English. Topics AI , Apple , Apple Health , Apps , Gadgets When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Sarah Perez Consumer News Editor Sarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software. You can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. View Bio October 13 – 15 San Francisco Don't miss out . The startup community will gather to answer a pivotal question: How do you build sustainably in the AI era? REGISTER NOW Most Popular OpenAI fought dirty on career-making math problem, says NYU mathematician Russell Brandom A secret new Elizabeth Holmes documentary stuns Telluride Connie Loizos TechCrunch Mobility: Tesla Cybercab hits the road — and a snag Kirsten Korosec Hikers rescued after using Google Gemini for planning Anthony Ha Feds launch investigation into Tesla's Cybercab deployment Sean O'Kane Kirsten Korosec Tesla is asking people if they want to buy and run Cybercab fleets Kirsten Korosec OpenAI launches Astra, its powerful (and controversial) new model Lucas Ropek",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
+    {
+      "id": "534907e0d31e",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Paul Christiano joins OpenAI Foundation Board",
+      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "publishedAt": "2026-09-09T17:00:00.000Z",
+      "fetchedAt": "2026-09-09T23:07:10.957Z",
+      "contentText": null,
+      "summary": "Paul Christiano has been appointed to the OpenAI Foundation Board and its Safety and Security Committee (SSC). He will serve as a non-voting observer on the OpenAI Group PBC Board. Christiano brings experience from NIST's Center for AI Standards and Innovation and is the founder of the Alignment Research Center.",
+      "enterpriseAngle": "Enterprises developing or deploying AI should note the increasing emphasis on AI safety, security, and alignment, as evidenced by OpenAI's strengthening of its governance with experts like Christiano. This signals a growing industry focus on mitigating risks, which will likely translate into more robust standards and regulatory expectations for AI products and services.",
+      "beginner": "A new expert is joining OpenAI's board to help make sure their AI systems are safe and work for everyone.",
+      "advanced": "Integrate robust AI alignment and safety protocols into your development lifecycle, anticipating stricter governance and potential regulatory shifts driven by industry leaders' focus on frontier AI risks.",
+      "tags": [
+        "governance",
+        "security",
+        "enterprise",
+        "policy"
+      ]
+    },
     {
       "id": "aee3d99c2112",
       "source": "techcrunch-ai",
@@ -165,6 +302,27 @@
         "product",
         "funding",
         "benchmark"
+      ]
+    },
+    {
+      "id": "587a70348a73",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "GPT-6 Astra: The next generation in intelligence for work",
+      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "publishedAt": "2026-09-09T11:00:00.000Z",
+      "fetchedAt": "2026-09-09T23:07:10.957Z",
+      "contentText": null,
+      "summary": "OpenAI has released GPT-6 Astra, its latest and most capable AI model, now available in ChatGPT Work, Codex, and via API. Astra is designed for professional tasks like computer use, browsing, software engineering, and cybersecurity, aiming to integrate into existing business workflows without extensive preparation. Early adopters are using Astra for tasks ranging from GPU optimization to financial statement analysis and creating on-brand presentations.",
+      "enterpriseAngle": "Enterprises can leverage GPT-6 Astra to integrate advanced AI capabilities directly into their current workflows, potentially reducing the need for significant data preparation or custom integrations. This could lead to increased efficiency in software development, cybersecurity, and various professional tasks, with a focus on cost-effectiveness.",
+      "beginner": "GPT-6 Astra is a new, powerful AI that helps businesses do many kinds of work more efficiently, even with their existing tools.",
+      "advanced": "Evaluate GPT-6 Astra's performance on your specific enterprise benchmarks for data reasoning, document understanding, and complex coding tasks, paying close attention to its cost-efficiency and ability to integrate into existing non-API workflows.",
+      "tags": [
+        "model-release",
+        "enterprise",
+        "product",
+        "coding"
       ]
     },
     {
@@ -20109,6 +20267,50 @@
       ]
     },
     {
+      "id": "5755348b44bc",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "ServiceNow chooses Claude",
+      "url": "https://www.anthropic.com/news/servicenow-anthropic-claude",
+      "publishedAt": "2026-01-28",
+      "fetchedAt": "2026-09-09T23:07:10.833Z",
+      "contentText": null,
+      "summary": "ServiceNow has selected Anthropic's Claude as its default AI model for the ServiceNow Build Agent and a preferred model across its AI Platform. This integration aims to enhance enterprise application development, accelerate product adoption, and streamline internal operations for ServiceNow's global workforce. The partnership focuses on embedding AI into core business workflows to improve efficiency and productivity.",
+      "enterpriseAngle": "Enterprise security and product development teams can leverage Claude's capabilities within the ServiceNow platform to build and automate applications, reduce development cycles, and improve operational efficiency with built-in access controls and usage monitoring. The integration allows for the creation of agentic automations and AI-native workflows, potentially reducing time-to-implementation for customers and boosting internal engineering productivity.",
+      "beginner": "ServiceNow is using a powerful AI called Claude to help companies build apps faster, make their employees more productive, and automate many daily tasks.",
+      "advanced": "Integrate Claude via the ServiceNow AI Platform to develop agentic applications, automate complex workflows, and leverage Claude Code for accelerated development and debugging, ensuring compliance with enterprise-grade access controls and monitoring.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "product",
+        "coding"
+      ],
+      "dateChecked": true
+    },
+    {
+      "id": "e85562242417",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "Anthropic partners with the UK Government on GOV.UK",
+      "url": "https://www.anthropic.com/news/gov-UK-partnership",
+      "publishedAt": "2026-01-27",
+      "fetchedAt": "2026-09-09T23:07:10.726Z",
+      "contentText": null,
+      "summary": "Anthropic has partnered with the UK's Department for Science, Innovation and Technology (DSIT) to develop an AI-powered assistant for GOV.UK, initially focusing on employment services. This agentic system, powered by Claude, aims to guide users through government processes and provide tailored advice. The partnership also includes building AI and AI safety expertise within the UK government.",
+      "enterpriseAngle": "Enterprise product teams can learn from this phased approach to AI integration, prioritizing safety, user control over data, and building internal expertise for long-term system maintenance. Security teams should note the emphasis on data protection compliance and the collaborative effort with the UK AI Security Institute to ensure model safeguards.",
+      "beginner": "AI is being used by the UK government to create a smart helper that can give people personalized advice and guide them through online services, starting with job searching.",
+      "advanced": "Implement a 'Scan, Pilot, Scale' framework for new AI initiatives, ensuring robust data governance, user opt-out mechanisms, and a plan for internal skill transfer to maintain AI systems independently.",
+      "tags": [
+        "partnership",
+        "product",
+        "enterprise",
+        "governance"
+      ],
+      "dateChecked": true
+    },
+    {
       "id": "2e5078e6cabd",
       "source": "anthropic",
       "sourceName": "Anthropic",
@@ -20127,6 +20329,49 @@
         "product",
         "workforce",
         "learning"
+      ],
+      "dateChecked": true
+    },
+    {
+      "id": "3c7b520e0590",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "Mariano-Florentino Cuéllar appointed to Long-Term Benefit Trust",
+      "url": "https://www.anthropic.com/news/mariano-florentino-long-term-benefit-trust",
+      "publishedAt": "2026-01-21",
+      "fetchedAt": "2026-09-09T23:07:10.585Z",
+      "contentText": null,
+      "summary": "Anthropic's Long-Term Benefit Trust has appointed Mariano-Florentino Cuéllar as a new member. Cuéllar brings extensive experience in law, governance, and international affairs, with a focus on technology's impact on public institutions and democratic governance. The Trust is an independent body that helps Anthropic achieve its public benefit mission by advising on maximizing AI benefits and mitigating risks.",
+      "enterpriseAngle": "For enterprises developing AI, this appointment highlights the increasing importance of robust governance structures that integrate civic responsibility and a global perspective, especially as AI's geopolitical and societal impacts grow. Product development teams should consider these broader implications to ensure their AI systems align with public interest and mitigate risks effectively.",
+      "beginner": "Anthropic, an AI company, is adding a new expert to a special group that helps make sure their AI technology is used safely and for good, considering its impact on society and governments.",
+      "advanced": "Integrate diverse expertise in law, governance, and international affairs into your AI ethics and safety boards to proactively address the geopolitical and societal implications of rapidly advancing AI capabilities.",
+      "tags": [
+        "governance",
+        "enterprise",
+        "policy"
+      ],
+      "dateChecked": true
+    },
+    {
+      "id": "12523a9e7a92",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "Irina Ghose named Managing Director of India",
+      "url": "https://www.anthropic.com/news/anthropic-appoints-irina-ghose-as-managing-director-of-india",
+      "publishedAt": "2026-01-16",
+      "fetchedAt": "2026-09-09T23:07:10.471Z",
+      "contentText": null,
+      "summary": "Anthropic has appointed Irina Ghose as Managing Director of India, coinciding with the upcoming opening of its first office in the country. Ghose, formerly Managing Director at Microsoft India, brings over 30 years of experience in scaling technology businesses and driving enterprise AI adoption. India is a significant market for Anthropic, ranking as the second-largest globally for Claude.ai, with a strong focus on technical applications among its users.",
+      "enterpriseAngle": "This expansion signifies Anthropic's commitment to deepening its presence in the Indian enterprise market, aiming to drive AI adoption and build partnerships across key industries. Enterprise product development teams should note the emphasis on trust, safety, and long-term impact in applied AI within the Indian context.",
+      "beginner": "Anthropic is expanding into India, a country where many people are using their AI tools for technical tasks, and they've hired an experienced leader to help grow their business there.",
+      "advanced": "Leverage Anthropic's increased focus on the Indian market by exploring partnership opportunities for AI integration, particularly given the strong local demand for technical AI applications and the emphasis on trust and safety in deployment.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "product",
+        "workforce"
       ],
       "dateChecked": true
     },
@@ -20256,6 +20501,23 @@
         "coding",
         "security"
       ]
+    },
+    {
+      "id": "ba35a456bbd9",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "Our compliance framework for California's SB 53",
+      "url": "https://www.anthropic.com/news/compliance-framework-SB53",
+      "publishedAt": "2025-12-19",
+      "fetchedAt": "2026-09-09T23:07:10.252Z",
+      "contentText": "Policy Sharing our compliance framework for California's Transparency in Frontier AI Act Dec 19, 2025 On January 1, California's Transparency in Frontier AI Act ( SB 53 ) will go into effect. It establishes the nation’s first frontier AI safety and transparency requirements for catastrophic risks. While we have long advocated for a federal framework, Anthropic endorsed SB 53 because we believe frontier AI developers like ourselves should be transparent about how they assess and manage these risks. Importantly, the law balances the need for strong safety practices, incident reporting, and whistleblower protections—while preserving flexibility in how developers implement their safety measures, and exempting smaller companies from unnecessary regulatory burdens. One of the law’s key requirements is that frontier AI developers publish a framework describing how they assess and manage catastrophic risks. Our Frontier Compliance Framework (FCF) is now available to the public, here . Below, we discuss what’s included within it, and highlight what we think should come next for frontier AI transparency. What’s in our Frontier Compliance Framework Our FCF describes how we assess and mitigate cyber offense, chemical, biological, radiological, and nuclear threats, as well as the risks of AI sabotage and loss of control, for our frontier models. The framework also lays out our tiered system for evaluating model capabilities against these risk categories and explains our approach to mitigations. It also covers how we protect model weights and respond to safety incidents. Much of what's in the FCF reflects an evolution of practices we've followed for years. Since 2023, our Responsible Scaling Policy (RSP) has outlined our approach to managing extreme risks from advanced AI systems and informed our decisions about AI development and deployment. We also release detailed system cards when we launch new models, which describe capabilities, safety evaluations, and risk assessments. Other labs have voluntarily adopted similar approaches. Under the new law going into effect on January 1, those types of transparency practices are mandatory for those building the most powerful AI systems in California. Moving forward, the FCF will serve as our compliance framework for SB 53 and other regulatory requirements. The RSP will remain our voluntary safety policy, reflecting what we believe best practices should be as the AI landscape evolves, even when that goes beyond or otherwise differs from current regulatory requirements. The need for a federal standard The implementation of SB 53 is an important moment. By formalizing achievable transparency practices that responsible labs already voluntarily follow, the law ensures these commitments can't be abandoned quietly later once models get more capable, or as competition intensifies. Now, a federal AI transparency framework enshrining these practices is needed to ensure consistency across the country. Earlier this year, we proposed a framework for federal legislation. It emphasizes public visibility into safety practices, without trying to lock in specific technical approaches that may not make sense over time. The core tenets of our framework include: Requiring a public secure development framework: Covered developers should publish a framework laying out how they assess and mitigate serious risks, including chemical, biological, radiological, and nuclear harms, as well as harms from misaligned model autonomy. Publishing system cards at deployment: Documentation summarizing testing, evaluation procedures, results, and mitigations should be publicly disclosed when models are deployed and updated if models are substantially modified. Protecting whistleblowers : It should be an explicit violation of law for a lab to lie about compliance with its framework or punish employees who raise concerns about violations. Flexible transparency standards: A workable AI transparency framework should have a minimum set of standards so that it can enhance security and public safety while accommodating the evolving nature of AI development. Standards should be flexible, lightweight requirements that can adapt as consensus best practices emerge. Limit application to the largest model developers : To avoid burdening the startup ecosystem and smaller developers with models at low risk for causing catastrophic harm, requirements should apply only to established frontier developers building the most capable models. As AI systems grow more powerful, the public deserves visibility into how they're being developed and what safeguards are in place. We look forward to working with Congress and the administration to develop a national transparency framework that ensures safety while preserving America’s AI leadership.",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": [],
+      "dateChecked": true
     },
     {
       "id": "92bfe920b288",

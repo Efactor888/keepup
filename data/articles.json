@@ -1,6 +1,152 @@
 {
-  "updatedAt": "2026-09-11T16:59:42.325Z",
+  "updatedAt": "2026-09-11T23:10:12.698Z",
   "articles": [
+    {
+      "id": "4c67a72ea8b0",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "publishedAt": "2026-09-11T22:58:17.000Z",
+      "fetchedAt": "2026-09-11T23:08:58.563Z",
+      "contentText": null,
+      "summary": "Mecka AI, a startup focused on collecting human motion data to train humanoid robots, is reportedly nearing a $500 million valuation in a new funding round led by Sequoia Capital. This comes shortly after a $60 million raise, highlighting the increasing demand for real-world physical data to advance general-purpose robotics. The company pays individuals to record everyday tasks using sensors and smartphones to create this essential training data.",
+      "enterpriseAngle": "Enterprise robotics and AI product development teams can leverage specialized data collection services like Mecka AI to overcome the bottleneck of acquiring diverse, real-world physical interaction data, accelerating the development and deployment of more capable general-purpose robots. This trend indicates a growing market for third-party data providers essential for training advanced AI models in physical domains.",
+      "beginner": "Companies are paying people to record themselves doing daily activities so that robots can learn how to perform those same tasks in the real world.",
+      "advanced": "Evaluate third-party data collection platforms for high-fidelity, egocentric human interaction data to augment existing simulation and teleoperation datasets, thereby improving the robustness and generalization capabilities of embodied AI models in enterprise robotics applications.",
+      "tags": [
+        "funding",
+        "research",
+        "product",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "543492d80546",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Y Combinator's Garry Tan wants US open-weight AI labs to ‘distill' frontier models, too",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "publishedAt": "2026-09-11T20:59:47.000Z",
+      "fetchedAt": "2026-09-11T23:08:58.563Z",
+      "contentText": null,
+      "summary": "Y Combinator CEO Garry Tan believes U.S. open-weight AI labs should be encouraged to use distillation techniques on American frontier models, rather than restricting the practice. Distillation involves extensively prompting one model to understand its workings and reasoning, a common and legitimate training method. Tan's stance contrasts with Anthropic's calls for regulators to crack down on what it terms \"illicit distillation attacks\" by Chinese labs.",
+      "enterpriseAngle": "Enterprise product development teams could benefit from a more robust ecosystem of open-weight models, potentially reducing reliance on single proprietary providers and fostering innovation through broader access to AI intelligence. Security teams should note the distinction between legitimate distillation and illicit activities involving fraud or stolen credentials, as the latter poses significant data protection and compliance risks.",
+      "beginner": "Distillation is like a student learning from a teacher by asking many questions to understand how the teacher thinks, and some believe this should be encouraged for AI models to create more widely available AI tools.",
+      "advanced": "Evaluate the strategic implications of an \"American distillation regime\" on your model development pipeline, considering both the opportunities for leveraging open-weight models and the potential intellectual property and security challenges associated with model interaction and knowledge transfer.",
+      "tags": [
+        "enterprise",
+        "policy",
+        "research",
+        "governance"
+      ]
+    },
+    {
+      "id": "3c9a79c82f31",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "OpenAI's feud with mathematicians is only escalating",
+      "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+      "publishedAt": "2026-09-11T20:57:36.000Z",
+      "fetchedAt": "2026-09-11T23:08:58.563Z",
+      "contentText": null,
+      "summary": "Twenty-five Fields Medal-winning mathematicians have signed an open letter accusing AI labs, specifically OpenAI, of threatening their intellectual work by rushing to solve famous math problems without proper attribution or time for community understanding. This follows accusations against OpenAI for pressuring a professor not to credit a collaborator and for withdrawing sponsorship from a math event after criticism. The mathematicians argue that AI solutions must be understandable and integrated into the mathematical community to be truly beneficial.",
+      "enterpriseAngle": "Enterprises developing AI solutions, especially those involving complex problem-solving, must prioritize ethical attribution, transparency, and collaboration with human experts to avoid accusations of plagiarism and maintain trust within professional communities. The rapid pace of AI development could incentivize secrecy, posing a risk to open research and the integration of AI-conceived ideas into broader human knowledge.",
+      "beginner": "AI models are becoming so advanced they can solve very difficult math problems, but experts are worried about how these solutions are shared and if the original human work is properly recognized.",
+      "advanced": "Implement robust provenance tracking and explainability frameworks for AI-generated solutions to ensure proper attribution and facilitate human validation and integration into existing knowledge bases, mitigating risks of intellectual property disputes and fostering collaborative research environments.",
+      "tags": [
+        "research",
+        "governance",
+        "policy",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "970271eaf902",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-11T20:33:18.000Z",
+      "fetchedAt": "2026-09-11T23:08:58.563Z",
+      "contentText": null,
+      "summary": "TechCrunch Disrupt 2026 is accepting exhibit table bookings until September 18, 11:59 p.m. PT, or until tables sell out. Exhibitors receive a dedicated table, lead-generation tools, ten team passes, event-wide branding, and access to the press list. The event aims to connect startups with customers, investors, and partners.",
+      "enterpriseAngle": "Enterprise product and business development teams can leverage this event to showcase their AI solutions, generate leads, and forge strategic partnerships within the startup ecosystem. This provides a direct channel for market validation and customer acquisition.",
+      "beginner": "Exhibiting at TechCrunch Disrupt allows new companies to show off their products and meet important people who can help their business grow.",
+      "advanced": "Prioritize pre-event outreach to targeted investors and potential partners, and utilize the Disrupt app's lead-generation tools to maximize post-event follow-up and conversion.",
+      "tags": [
+        "enterprise",
+        "product",
+        "partnership",
+        "funding"
+      ]
+    },
+    {
+      "id": "5ae88bf4e335",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+      "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
+      "publishedAt": "2026-09-11T20:30:17.000Z",
+      "fetchedAt": "2026-09-11T23:08:58.563Z",
+      "contentText": null,
+      "summary": "TechCrunch Disrupt 2026 is making a final call for applications to host official Side Events, with the deadline set for tonight, September 11, at 11:59 p.m. PT. These events offer organizations a chance to connect with founders, investors, and partners, build relationships, and promote their brand within the Disrupt ecosystem. Hosting a Side Event also allows organizations to activate their community and extend their reach through TechCrunch's promotional channels.",
+      "enterpriseAngle": "Enterprises can leverage Side Events at TechCrunch Disrupt to directly engage with key decision-makers, foster deeper relationships beyond the main conference floor, and strategically position their brand at the forefront of relevant industry conversations. This provides a targeted opportunity for business development, partnership cultivation, and talent acquisition.",
+      "beginner": "Side Events at big conferences like TechCrunch Disrupt are special gatherings hosted by companies to meet important people, share ideas, and make their brand more visible.",
+      "advanced": "To maximize ROI from a Disrupt Side Event, focus on curating an exclusive experience that facilitates high-value interactions and thought leadership, leveraging TechCrunch's promotional reach to amplify your message and attract a targeted audience beyond your immediate network.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "product",
+        "workforce"
+      ]
+    },
+    {
+      "id": "20712504e2f9",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "Roundtables: AI’s apocalypse crisis",
+      "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+      "publishedAt": "2026-09-11T20:05:06.000Z",
+      "fetchedAt": "2026-09-11T23:08:59.431Z",
+      "contentText": null,
+      "summary": "Employees at major AI labs are concerned about the possibility of advanced AI leading to human extinction. MIT Technology Review is hosting a discussion to explore whether these fears are legitimate or simply hype.",
+      "enterpriseAngle": "Enterprise AI development teams should consider the ethical implications and potential long-term risks associated with increasingly powerful AI systems. This discussion highlights the growing internal concerns within the AI community that could influence future regulatory landscapes and public perception of AI products.",
+      "beginner": "Some people working on AI are worried that very smart AI could be dangerous for humans.",
+      "advanced": "Integrate robust risk assessment frameworks and red-teaming exercises into your AI development lifecycle, focusing on emergent behaviors and potential misuse scenarios beyond immediate functional requirements.",
+      "tags": [
+        "governance",
+        "research",
+        "policy"
+      ]
+    },
+    {
+      "id": "3d8e4a73da0d",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+      "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+      "publishedAt": "2026-09-11T19:35:54.000Z",
+      "fetchedAt": "2026-09-11T23:08:58.563Z",
+      "contentText": null,
+      "summary": "Moonshot AI, a prominent Chinese AI lab and creator of the Kimi model, is targeting $2 billion in annualized revenue by the end of the year, doubling its August revenue run rate. This aggressive goal reflects the success of its K3 model, despite a slight decline in recent usage. However, Moonshot AI faces controversy, with Anthropic accusing it of a model distillation campaign that allegedly routed user requests to Claude Opus and collected millions of responses for training.",
+      "enterpriseAngle": "Enterprise product development teams should be aware of the potential for model distillation campaigns, as highlighted by Anthropic's allegations against Moonshot AI, which could impact intellectual property and fair use of AI models. For security teams, this raises concerns about data provenance and the ethical implications of using third-party models for training, necessitating robust due diligence and contractual agreements.",
+      "beginner": "Some AI companies are trying to make a lot of money from their AI models, but there are also concerns about how they are developing and training these models, including accusations of copying from other companies.",
+      "advanced": "Implement rigorous model provenance tracking and establish clear contractual terms with third-party model providers to mitigate risks associated with unauthorized model distillation and intellectual property infringement.",
+      "tags": [
+        "enterprise",
+        "product",
+        "security",
+        "governance"
+      ]
+    },
     {
       "id": "3e343d7d31d7",
       "source": "techcrunch-ai",
@@ -20,6 +166,27 @@
         "infrastructure",
         "funding",
         "product"
+      ]
+    },
+    {
+      "id": "c7d3c8aeae42",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "publishedAt": "2026-09-11T10:00:00.000Z",
+      "fetchedAt": "2026-09-11T23:08:56.461Z",
+      "contentText": null,
+      "summary": "OpenAI developed Habitat, an online storage platform, to manage the rapid growth of its products like ChatGPT, which now serves over a billion users weekly. Habitat, initially a Python library, evolved into a complex distributed system handling over 70 million requests per second and 500 petabytes of data. This platform abstracts database management for product engineers, ensuring fast and reliable data access.",
+      "enterpriseAngle": "Enterprises facing hyper-growth in user base and data volume can learn from OpenAI's approach to scaling infrastructure, particularly the strategic evolution from a simple library to a robust distributed service. The focus on abstracting complex data operations for product developers can significantly improve development velocity and system reliability.",
+      "beginner": "OpenAI built a special system called Habitat to make sure its AI products, like ChatGPT, can quickly and reliably get the information they need, even with billions of users.",
+      "advanced": "To manage extreme scale, consider abstracting storage complexities into a dedicated service like Habitat, initially leveraging existing language stacks (e.g., Python) for rapid iteration before optimizing critical components with more performant languages (e.g., Rust) and finely tuning database interactions.",
+      "tags": [
+        "infrastructure",
+        "enterprise",
+        "product",
+        "coding"
       ]
     },
     {

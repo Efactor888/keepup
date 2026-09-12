@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-09-11T23:10:12.698Z",
+  "updatedAt": "2026-09-12T16:10:01.778Z",
   "articles": [
+    {
+      "id": "12e9dd685180",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "publishedAt": "2026-09-14T00:00:00.000Z",
+      "fetchedAt": "2026-09-12T16:09:03.426Z",
+      "contentText": null,
+      "summary": "Perplexity, an AI-powered answer engine, is leveraging OpenAI's GPT-6 Astra to enhance its search capabilities and manage its end-to-end systems. Astra helps Perplexity write communications, modify software, and monitor production systems, allowing for less frequent human intervention compared to previous models. The model's ability to generate and test code is particularly valuable for improving the accuracy and efficiency of Perplexity's search engine.",
+      "enterpriseAngle": "Enterprises can utilize advanced AI models like GPT-6 Astra for automating critical operational tasks, including code generation, system monitoring, and end-to-end testing, thereby increasing efficiency and reducing manual oversight. This demonstrates a shift towards greater trust in AI for managing complex, real-world enterprise systems.",
+      "beginner": "AI models are becoming smart enough to help companies write code, manage their computer systems, and even test their own software, making things run more smoothly.",
+      "advanced": "Integrate advanced LLMs for autonomous end-to-end system management and testing, focusing on generating realistic test cases and monitoring production workflows to reduce human oversight and accelerate development cycles.",
+      "tags": [
+        "enterprise",
+        "product",
+        "partnership",
+        "coding"
+      ]
+    },
+    {
+      "id": "725588a31c85",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Anthropic CEO outlines plan to ‘pace the frontier’",
+      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "publishedAt": "2026-09-12T15:52:11.000Z",
+      "fetchedAt": "2026-09-12T16:09:06.100Z",
+      "contentText": null,
+      "summary": "Anthropic CEO Dario Amodei has proposed a three-part strategy to \"pace the frontier\" of AI development, citing rapid advancements and recent security incidents as reasons for caution. His plan includes embedding third-party evaluators within AI companies, coordinating common safety standards among leading AI firms in democratic countries, and pursuing global coordination with authoritarian governments on specific AI prohibitions. Anthropic is unilaterally committing to the embedded evaluator approach.",
+      "enterpriseAngle": "Enterprise AI product development teams should anticipate increased scrutiny and potential regulatory requirements for AI safety and pacing, particularly if third-party evaluators become standard. Security teams will need to integrate external oversight into their risk assessment and incident reporting protocols, while legal and compliance teams should prepare for potential antitrust implications of industry-wide safety coordination.",
+      "beginner": "Some AI leaders believe we need to slow down how fast AI is developed to make sure it's safe, and they are suggesting ways to do this, like having outside experts check on AI companies.",
+      "advanced": "Implement robust internal risk assessment frameworks and prepare for potential external audits by third-party evaluators, ensuring transparency and clear incident reporting mechanisms are in place to align with evolving industry safety standards.",
+      "tags": [
+        "governance",
+        "policy",
+        "enterprise",
+        "security"
+      ]
+    },
     {
       "id": "4c67a72ea8b0",
       "source": "techcrunch-ai",
@@ -148,6 +190,27 @@
       ]
     },
     {
+      "id": "d8bb09927abd",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
+      "url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+      "publishedAt": "2026-09-11T18:41:49.000Z",
+      "fetchedAt": "2026-09-12T16:09:06.100Z",
+      "contentText": null,
+      "summary": "An Anthropic researcher recently resigned, publicly stating that the company is rapidly pursuing self-improving superintelligence, which they believe poses a significant risk. This warning was notably co-signed by Anthropic's alignment lead. The timing of this public concern is particularly interesting as Anthropic is reportedly preparing for an IPO.",
+      "enterpriseAngle": "Enterprise AI development teams must balance rapid innovation with ethical considerations and safety protocols, especially when public warnings from internal researchers can impact investor confidence and public perception. Companies should prioritize robust internal governance and alignment research to mitigate risks associated with advanced AI development.",
+      "beginner": "A researcher at a major AI company is worried that the company is developing AI too quickly and without enough safety, which could be dangerous.",
+      "advanced": "Evaluate internal AI development roadmaps for alignment with safety research and consider the potential impact of public researcher dissent on investor relations and regulatory scrutiny, particularly in pre-IPO phases.",
+      "tags": [
+        "governance",
+        "research",
+        "enterprise",
+        "policy"
+      ]
+    },
+    {
       "id": "3e343d7d31d7",
       "source": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -166,6 +229,27 @@
         "infrastructure",
         "funding",
         "product"
+      ]
+    },
+    {
+      "id": "c3aa33826442",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "publishedAt": "2026-09-11T16:00:00.000Z",
+      "fetchedAt": "2026-09-12T16:09:03.426Z",
+      "contentText": null,
+      "summary": "Cognition, the company behind the autonomous software engineer Devin, is using OpenAI's GPT-6 Astra to enhance Devin's ability to test software and demonstrate its functionality. This integration aims to streamline the code review process for Cognition's engineering teams, allowing them to ship more code with less manual inspection. Devin, powered by Astra, can now test applications like iPhone games, providing recordings of the software in action and reports on testing scope, and can also quickly address customer-reported bugs by fixing issues and providing visual confirmation.",
+      "enterpriseAngle": "Enterprise software development teams can leverage advanced AI models like GPT-6 Astra to automate and improve software testing, significantly reducing the burden of manual code review and accelerating product delivery cycles. This partnership demonstrates a path toward more efficient development workflows and quicker bug resolution, directly impacting an enterprise's ability to innovate and respond to customer needs.",
+      "beginner": "AI is being used to help software engineers test their programs more quickly and efficiently, reducing the amount of manual work they have to do.",
+      "advanced": "Integrate advanced AI testing agents into your CI/CD pipeline to automate validation, generate visual evidence of functionality, and reduce manual code review overhead, focusing human expertise on architectural decisions and complex problem-solving.",
+      "tags": [
+        "enterprise",
+        "product",
+        "agents",
+        "coding"
       ]
     },
     {

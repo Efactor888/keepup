@@ -1,6 +1,67 @@
 {
-  "updatedAt": "2026-09-14T18:31:54.065Z",
+  "updatedAt": "2026-09-14T23:50:43.449Z",
   "articles": [
+    {
+      "id": "e957c507988f",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Nvidia CEO Jensen Huang tells Trump ‘we're not going to let [an AI slowdown] happen'",
+      "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "publishedAt": "2026-09-14T21:51:02.000Z",
+      "fetchedAt": "2026-09-14T23:48:30.102Z",
+      "contentText": null,
+      "summary": "During a live conference, Nvidia CEO Jensen Huang received a phone call from former President Donald Trump, who expressed his opposition to slowing down AI development. Trump characterized calls for an AI slowdown as a \"hoax\" that could benefit political adversaries or China. Huang publicly agreed with Trump, stating that they would not let an AI slowdown happen.",
+      "enterpriseAngle": "Enterprise leaders in AI development, particularly those involved in hardware and infrastructure, may find political support for rapid innovation, potentially influencing investment and strategic planning. However, they should also be mindful of growing public concern regarding data center environmental impact and cost-of-living increases, which could lead to local opposition and regulatory challenges.",
+      "beginner": "Some influential people want to slow down how fast AI technology improves, but others, like Nvidia's CEO and former President Trump, believe we should keep pushing AI forward quickly.",
+      "advanced": "Factor potential political backing for accelerated AI development into long-term R&D and infrastructure investment strategies, while proactively addressing public and environmental concerns related to data center expansion to mitigate future operational hurdles.",
+      "tags": [
+        "enterprise",
+        "policy",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "fbf3222df417",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "publishedAt": "2026-09-14T20:44:14.000Z",
+      "fetchedAt": "2026-09-14T23:48:30.102Z",
+      "contentText": null,
+      "summary": "OpenAI has reportedly acquired Glass Imaging, a smartphone camera maker, for over $300 million. Glass Imaging, founded by former Apple engineers, utilizes AI and neural networks to enhance smartphone camera performance by optimizing image capture at the moment the photo is taken, rather than post-processing. This acquisition fuels speculation about OpenAI's potential entry into hardware development, following previous rumors and a past acquisition related to AI companion devices.",
+      "enterpriseAngle": "This acquisition suggests that AI capabilities are extending beyond software into hardware, indicating that enterprise product development teams may need to consider integrating AI directly into physical devices for enhanced functionality. For security teams, this could introduce new challenges related to securing AI models embedded in hardware and managing data captured by such devices.",
+      "beginner": "OpenAI, known for ChatGPT, is buying a company that uses AI to make smartphone cameras better, which might mean they are planning to make their own smart devices.",
+      "advanced": "Evaluate the strategic implications of integrating AI directly into hardware at the point of capture, considering potential competitive advantages in image processing and the expanded attack surface for embedded AI systems.",
+      "tags": [
+        "enterprise",
+        "product",
+        "hardware",
+        "funding"
+      ]
+    },
+    {
+      "id": "6860ae25bff9",
+      "source": "google-ai",
+      "sourceName": "Google AI",
+      "tier": "realtime",
+      "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+      "publishedAt": "2026-09-14T19:00:00.000Z",
+      "fetchedAt": "2026-09-14T23:48:28.891Z",
+      "contentText": null,
+      "summary": "NASA astronaut Christina Koch and Google's James Manyika discussed space exploration, technology, and discovery in a recent dialogue. Koch shared insights from her career, including her time on the International Space Station and the Artemis II mission. They also explored the partnership between astronauts, robotics, and AI, and the question of life beyond Earth.",
+      "enterpriseAngle": "Enterprises involved in space technology and AI development can gain insights into the collaborative potential between human exploration and advanced AI systems. This dialogue highlights the increasing integration of AI in complex missions, which could inform future product development and strategic partnerships.",
+      "beginner": "AI is becoming an important tool that helps astronauts explore space and understand our universe better.",
+      "advanced": "Evaluate potential applications of advanced AI and robotics in extreme environments, considering the operational synergies and ethical implications discussed in the context of space exploration.",
+      "tags": [
+        "research",
+        "partnership",
+        "science"
+      ]
+    },
     {
       "id": "b847922400c7",
       "source": "mit-tr-ai",
@@ -165,6 +226,48 @@
         "research",
         "enterprise",
         "product"
+      ]
+    },
+    {
+      "id": "3ade7c421843",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "5 days left to exhibit at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/",
+      "publishedAt": "2026-09-14T14:00:00.000Z",
+      "fetchedAt": "2026-09-14T23:48:30.102Z",
+      "contentText": null,
+      "summary": "The deadline to apply for an exhibit table at TechCrunch Disrupt 2026 is September 18th, with only five days remaining to secure a spot. Exhibiting offers businesses the opportunity to showcase their products to over 10,000 founders, investors, and tech leaders.",
+      "enterpriseAngle": "Enterprise product and business development teams should consider exhibiting at events like TechCrunch Disrupt to gain visibility and connect with potential partners and investors. This can be a key strategy for market penetration and fundraising.",
+      "beginner": "TechCrunch Disrupt is a major event where new technology companies can show off their ideas to important people in the industry.",
+      "advanced": "Prioritize securing exhibition space at high-profile industry events like TechCrunch Disrupt to accelerate market validation, investor relations, and strategic partnerships.",
+      "tags": [
+        "enterprise",
+        "product",
+        "funding",
+        "partnership"
+      ]
+    },
+    {
+      "id": "c512ba40efa4",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "A Vinyl Bar in Shibuya is a startup from a former Spotify leader for making music apps",
+      "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/",
+      "publishedAt": "2026-09-14T13:55:00.000Z",
+      "fetchedAt": "2026-09-14T23:48:30.102Z",
+      "contentText": null,
+      "summary": "A Vinyl Bar in Shibuya, a startup founded by former Spotify innovation head Máuhan M. Zonoozy, has secured $5.5 million in pre-seed funding to develop a suite of interactive music apps. These apps focus on empowering users to create and modify music through playful interfaces, rather than solely relying on generative AI. The company aims to release a \"musical sandbox mixer\" product this year.",
+      "enterpriseAngle": "Enterprise product development teams in creative industries can learn from this approach, focusing on user interaction and participation in AI-powered tools rather than just automated generation, to enhance user engagement and foster creativity. This strategy could lead to more dynamic and user-centric products in the competitive AI landscape.",
+      "beginner": "This startup is making fun apps that let people play with music and sounds, using a little bit of AI to help, but mostly letting people be creative themselves.",
+      "advanced": "When integrating AI into creative applications, prioritize user agency and interactive manipulation over pure generative output to cultivate deeper engagement and differentiate products in an increasingly saturated market.",
+      "tags": [
+        "product",
+        "funding",
+        "consumer",
+        "enterprise"
       ]
     },
     {

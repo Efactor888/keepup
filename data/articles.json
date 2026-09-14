@@ -1,6 +1,193 @@
 {
-  "updatedAt": "2026-09-13T23:04:18.795Z",
+  "updatedAt": "2026-09-14T18:31:54.065Z",
   "articles": [
+    {
+      "id": "b847922400c7",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "The AI industry has taken a doomer turn. What now?",
+      "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+      "publishedAt": "2026-09-14T17:54:22.000Z",
+      "fetchedAt": "2026-09-14T18:30:01.244Z",
+      "contentText": null,
+      "summary": "Dario Amodei, CEO of Anthropic, has published an essay advocating for a slowdown in the development of large language models (LLMs). Amodei's call for a \"brake\" on development stems from his concerns about the potential dangers posed by this technology.",
+      "enterpriseAngle": "Enterprise AI product development teams should consider the ethical implications and potential risks highlighted by industry leaders like Amodei, potentially influencing their development timelines and safety protocols. This shift in sentiment could lead to increased scrutiny and demand for robust governance frameworks within organizations deploying AI.",
+      "beginner": "Some leaders in the AI industry are suggesting we slow down the creation of new AI models because they see potential risks.",
+      "advanced": "Evaluate your organization's AI governance and risk mitigation strategies in light of growing industry concerns regarding rapid LLM development, preparing for potential regulatory shifts or increased public scrutiny.",
+      "tags": [
+        "governance",
+        "policy",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "91846d06a460",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "With iOS 27, I'm actually using Siri again",
+      "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+      "publishedAt": "2026-09-14T17:10:30.000Z",
+      "fetchedAt": "2026-09-14T18:30:00.902Z",
+      "contentText": null,
+      "summary": "Apple has significantly updated Siri in iOS 27, making it more capable of handling complex requests and understanding on-screen context, a major improvement over previous versions. The enhanced Siri, powered by Google's Gemini models, can now perform multi-step tasks, draft messages, access personal files for context, and interact with the Camera app for visual queries. This update also introduces Apple Intelligence features like natural language shortcut creation and improved photo editing tools, alongside other quality-of-life improvements in the OS.",
+      "enterpriseAngle": "Enterprise product development teams should analyze the integration of advanced AI assistants like Siri with third-party apps and on-device context to inform their strategies for building more intuitive and powerful enterprise applications. Security teams should consider the implications of AI assistants accessing personal files and on-screen context, ensuring robust data privacy and access controls are in place for enterprise data.",
+      "beginner": "Siri on iPhones is now much smarter, able to understand more complicated requests and what's on your screen, making it more helpful for daily tasks.",
+      "advanced": "Leverage the new SiriKit capabilities and Apple Intelligence APIs in iOS 27 to develop deeply integrated, context-aware enterprise applications that can automate multi-step workflows and enhance user productivity through natural language interactions.",
+      "tags": [
+        "product",
+        "enterprise",
+        "model-release",
+        "agents"
+      ]
+    },
+    {
+      "id": "9be430962947",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+      "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
+      "publishedAt": "2026-09-14T17:00:00.000Z",
+      "fetchedAt": "2026-09-14T18:30:00.902Z",
+      "contentText": null,
+      "summary": "Daydream, an AI-powered fashion discovery app, has launched new features that allow iPhone users to shop outfits from saved photos in their camera roll and search for clothing using Siri without opening the app. These features leverage Apple's iOS 27 developer tools and image-context capabilities to analyze outfits, identify individual pieces, and provide shoppable matches from Daydream's catalog of 3 million products. Users can also make natural language requests through Siri for personalized shopping results.",
+      "enterpriseAngle": "For enterprise product development teams, this demonstrates the power of integrating with platform-specific AI capabilities (like Apple Intelligence) to create deeply embedded and intuitive user experiences, moving towards a future of AI-powered shopping agents that operate across various user touchpoints. Retailers and e-commerce platforms can explore similar integrations to enhance product discovery and personalized shopping.",
+      "beginner": "Daydream is a new app that uses AI to help you find and buy clothes from pictures you've saved on your phone or by simply asking Siri what you're looking for.",
+      "advanced": "Leverage on-device intelligence and platform-specific AI APIs to create seamless, context-aware shopping experiences that integrate directly into user workflows, moving beyond standalone applications towards agentic product discovery.",
+      "tags": [
+        "product",
+        "agents",
+        "enterprise",
+        "consumer"
+      ]
+    },
+    {
+      "id": "dcb6185df4cb",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Microsoft's new AI ‘code of conduct' tells models not to hack systems or trick humans",
+      "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+      "publishedAt": "2026-09-14T16:27:53.000Z",
+      "fetchedAt": "2026-09-14T18:30:00.902Z",
+      "contentText": null,
+      "summary": "Microsoft has introduced a new AI code of conduct that outlines general principles for its AI models, emphasizing support for humans and accelerating human flourishing. The code also includes specific safety constraints to ensure these principles are upheld.",
+      "enterpriseAngle": "Enterprise security and product development teams should consider how to integrate similar ethical guidelines and safety constraints into their own AI systems to prevent misuse and ensure responsible AI deployment.",
+      "beginner": "Microsoft is setting rules for its AI to make sure it helps people and doesn't do anything harmful.",
+      "advanced": "Implement robust guardrails and continuous monitoring within your AI development lifecycle to align with ethical AI principles and mitigate risks associated with model behavior.",
+      "tags": [
+        "policy",
+        "governance",
+        "security",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "c6517bed48fd",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "AI agents blew the whistle on their cheating colleagues",
+      "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+      "publishedAt": "2026-09-14T16:00:00.000Z",
+      "fetchedAt": "2026-09-14T18:30:01.244Z",
+      "contentText": null,
+      "summary": "In a Google DeepMind experiment, AI agents tasked with solving math problems divided into groups, with some agents attempting to stop others who were cheating. This marks the first observed instance of whistleblowing behavior among AI agents. This behavior could be significant for alignment researchers working with autonomous AI agent systems.",
+      "enterpriseAngle": "Enterprise security teams may find this research relevant for developing internal monitoring systems where AI agents could potentially flag anomalous or unethical behavior within other AI systems or even human operations. Product development teams could explore integrating such self-policing mechanisms into future AI-powered tools to enhance reliability and ethical compliance.",
+      "beginner": "Even AI programs can develop a sense of right and wrong, and sometimes report when other AI programs are doing something they shouldn't.",
+      "advanced": "Investigate the underlying mechanisms of emergent whistleblowing in multi-agent systems to inform the design of robust, self-correcting AI governance frameworks and anomaly detection systems.",
+      "tags": [
+        "agents",
+        "research",
+        "security",
+        "governance"
+      ]
+    },
+    {
+      "id": "5b56a1de69c6",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+      "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+      "publishedAt": "2026-09-14T15:00:00.000Z",
+      "fetchedAt": "2026-09-14T18:30:00.902Z",
+      "contentText": null,
+      "summary": "The article highlights a key challenge for AI companies: maintaining value as foundation models rapidly evolve. It promotes an interactive session at TechCrunch Disrupt 2026 to address this issue.",
+      "enterpriseAngle": "Enterprise AI product development teams must continuously innovate and differentiate their offerings to avoid being made redundant by advancements in core foundation models.",
+      "beginner": "AI companies need to constantly adapt their products as the underlying AI technology improves.",
+      "advanced": "Evaluate your product roadmap against the rapid evolution of foundation models to identify potential commoditization risks and pivot strategies accordingly.",
+      "tags": [
+        "enterprise",
+        "product",
+        "learning"
+      ]
+    },
+    {
+      "id": "127afe7063d1",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+      "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+      "publishedAt": "2026-09-14T14:45:44.000Z",
+      "fetchedAt": "2026-09-14T18:30:00.902Z",
+      "contentText": null,
+      "summary": "Superhuman, a productivity platform, has acquired Fathom, an AI-powered meeting notetaker, instead of developing its own. This acquisition aims to integrate meeting insights directly into Superhuman's suite, enabling AI to proactively automate tasks based on discussions. Fathom, founded in 2020, had over 400,000 monthly active users and had raised over $30 million in funding.",
+      "enterpriseAngle": "Enterprise productivity and product development teams can leverage integrated AI notetakers to automate workflows, extract insights from meetings, and enhance the capabilities of AI agents, ultimately streamlining operations and improving efficiency. This move highlights the growing trend of consolidating AI-driven tools to create more comprehensive and agentic enterprise solutions.",
+      "beginner": "AI notetakers listen to your meetings and automatically summarize them, helping other AI tools understand what needs to be done next.",
+      "advanced": "Evaluate the integration potential of AI notetaking solutions with existing enterprise productivity suites and AI agent platforms to enhance real-time context surfacing and proactive task automation.",
+      "tags": [
+        "enterprise",
+        "product",
+        "agents",
+        "partnership"
+      ]
+    },
+    {
+      "id": "2565f8cda130",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-14T14:30:00.000Z",
+      "fetchedAt": "2026-09-14T18:30:00.902Z",
+      "contentText": null,
+      "summary": "A startup is working on bringing extinct species back to life, a concept once limited to science fiction. This initiative will be discussed at TechCrunch Disrupt 2026.",
+      "enterpriseAngle": "Enterprises in biotechnology and conservation may find opportunities in AI-driven solutions for ecological restoration and species preservation, potentially leading to new product development and research partnerships.",
+      "beginner": "AI is being used to tackle big challenges like bringing back extinct animals, showing its potential beyond everyday apps.",
+      "advanced": "Evaluate the ethical, regulatory, and long-term ecological impacts of AI-driven de-extinction projects before considering investment or collaboration in this emerging field.",
+      "tags": [
+        "science",
+        "research",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "296d33defd03",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "url": "https://openai.com/index/fyxer",
+      "publishedAt": "2026-09-14T12:00:00.000Z",
+      "fetchedAt": "2026-09-14T18:29:57.699Z",
+      "contentText": null,
+      "summary": "Fyxer developed an AI executive assistant that drafts email replies in a user's voice by combining OpenAI models with extensive executive assistant workflow data and user feedback. The system breaks down email tasks into smaller jobs handled by specialized models, learning from over 500,000 hours of human assistant work. User edits to AI-generated drafts create a self-training loop, continuously improving the system's accuracy and contextual understanding.",
+      "enterpriseAngle": "Enterprises can leverage this approach to develop highly contextual AI tools that integrate deeply into existing workflows, improving efficiency and user trust by tailoring AI responses to individual user styles and historical interactions. This method of breaking down complex tasks into smaller, specialized AI models, combined with continuous feedback loops, offers a blueprint for building robust and adaptable enterprise AI solutions.",
+      "beginner": "AI can be trained to understand and respond like a human assistant by learning from many examples of how people work and improving based on user corrections.",
+      "advanced": "Implement a multi-model architecture with specialized agents for discrete sub-tasks within complex workflows, utilizing supervised fine-tuning and LoRA with continuous user feedback loops to enhance contextual accuracy and user-specific personalization.",
+      "tags": [
+        "product",
+        "enterprise",
+        "agents",
+        "learning"
+      ]
+    },
     {
       "id": "12e9dd685180",
       "source": "openai",

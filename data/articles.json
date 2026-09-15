@@ -1,6 +1,234 @@
 {
-  "updatedAt": "2026-09-14T23:50:43.449Z",
+  "updatedAt": "2026-09-15T17:38:51.384Z",
   "articles": [
+    {
+      "id": "73c493e5b2ef",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Meta expands subscription push with new AI-focused plans",
+      "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+      "publishedAt": "2026-09-15T17:05:24.000Z",
+      "fetchedAt": "2026-09-15T17:36:57.675Z",
+      "contentText": null,
+      "summary": "Meta has launched \"Meta One,\" a new subscription service offering expanded AI usage and premium features across its platforms like Facebook, Instagram, and WhatsApp. These plans, which include tiers for individual users, businesses, and creators, aim to monetize Meta's AI investments and are projected to significantly boost the company's revenue. The new offerings allow users to access AI tools for image and video generation, editing, and enhanced business management features.",
+      "enterpriseAngle": "Enterprise product development teams can observe Meta's strategy for monetizing AI features through tiered subscriptions, which could inform their own approaches to integrating and charging for AI capabilities in their products. Security teams should note the enhanced impersonation detection offered in business plans, indicating an increasing focus on account integrity for enterprise users.",
+      "beginner": "Meta is introducing new paid plans that give you more access to AI tools for creating and editing content, and extra features for businesses, to help them make money from their AI technology.",
+      "advanced": "Evaluate Meta's tiered AI subscription model, particularly the business and creator plans, for potential revenue generation strategies and feature prioritization in your own enterprise AI product roadmap, while also considering the implications of enhanced impersonation detection for platform security and trust.",
+      "tags": [
+        "enterprise",
+        "product",
+        "funding",
+        "consumer"
+      ]
+    },
+    {
+      "id": "149a852934bd",
+      "source": "google-ai",
+      "sourceName": "Google AI",
+      "tier": "realtime",
+      "title": "AI for Societal Impact",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+      "publishedAt": "2026-09-15T16:00:00.000Z",
+      "fetchedAt": "2026-09-15T17:36:56.649Z",
+      "contentText": null,
+      "summary": "Google AI is focusing on applying artificial intelligence to address significant global challenges, moving from theoretical research to practical applications. The company is collaborating with communities and researchers to use AI for purposes such as disease detection, natural disaster prediction, educational expansion, and creating economic opportunities. This initiative aims to ensure that the benefits of AI are accessible to everyone.",
+      "enterpriseAngle": "Enterprises can leverage AI for social impact initiatives, aligning their product development and research efforts with global challenges like disaster prediction and healthcare. This approach not only contributes to societal well-being but also opens new avenues for innovation and market differentiation.",
+      "beginner": "AI is being used to solve big problems in the world, like predicting floods and helping with health, making it useful for everyone.",
+      "advanced": "Explore partnerships with research institutions and NGOs to deploy AI solutions for disaster preparedness and public health, leveraging open-access data and models where available to accelerate impact.",
+      "tags": [
+        "research",
+        "product",
+        "enterprise",
+        "science"
+      ]
+    },
+    {
+      "id": "2db68954a435",
+      "source": "google-ai",
+      "sourceName": "Google AI",
+      "tier": "realtime",
+      "title": "Building AI to accelerate science and improve lives",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+      "publishedAt": "2026-09-15T16:00:00.000Z",
+      "fetchedAt": "2026-09-15T17:36:56.649Z",
+      "contentText": null,
+      "summary": "Google is leveraging AI to accelerate scientific advancements across various domains, including health, natural disaster prediction, learning, and economic opportunity. Recent breakthroughs include mapping genetic changes with AlphaGenome Atlas, improving weather forecasts with WeatherNext 3, and creating a Planetary Prediction Engine for crisis forecasting. The company is also making strides in disease detection, such as identifying missed breast cancers and screening for tuberculosis and diabetic retinopathy.",
+      "enterpriseAngle": "Enterprises can leverage Google's open-sourced AI tools and research, such as AlphaGenome Atlas and DeepConsensus, to accelerate their own scientific discovery, product development, and health initiatives, potentially leading to earlier disease detection and improved operational resilience.",
+      "beginner": "Google is using advanced computer programs to help scientists discover new things faster, like finding diseases earlier or predicting bad weather, which can help many people.",
+      "advanced": "Integrate Google's openly available AlphaGenome Atlas and DeepConsensus into your research pipelines to enhance genetic variation analysis and accelerate drug discovery or diagnostic tool development.",
+      "tags": [
+        "research",
+        "science",
+        "product",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "98c36a850624",
+      "source": "google-ai",
+      "sourceName": "Google AI",
+      "tier": "realtime",
+      "title": "AI for everyone in every language",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+      "publishedAt": "2026-09-15T16:00:00.000Z",
+      "fetchedAt": "2026-09-15T17:36:56.649Z",
+      "contentText": null,
+      "summary": "Google is advancing AI to understand and translate over 300 languages, moving beyond text to capture the nuances of human communication like emotion, tone, and slang. They are training models like Gemini 3.5 Live Translate and Transcribe to process audio directly, supporting real-time dialogue and precise speech-to-text across numerous language pairs. This initiative, including the 1,000 Languages Initiative and partnerships like WAXAL and Project Vaani, aims to support the world's most spoken languages by working with local communities to gather diverse language data.",
+      "enterpriseAngle": "Enterprises can leverage these advanced multilingual AI capabilities to enhance global communication, improve customer service in diverse markets, and develop more inclusive products that accurately understand and respond to a wider range of human expression and cultural nuances. This also means better internal communication and collaboration across international teams, breaking down language barriers in real-time meetings and documentation.",
+      "beginner": "Google is making AI better at understanding and translating many languages, even those not commonly found online, by focusing on how people really talk, including their feelings and local expressions.",
+      "advanced": "Integrate Google's advanced audio intelligence models, such as Gemini 3.5 Live Translate and Transcribe, into your enterprise applications to enable real-time, nuanced multilingual communication and content processing, particularly for under-resourced languages, leveraging cross-lingual transfer learning for improved accuracy.",
+      "tags": [
+        "model-release",
+        "enterprise",
+        "product",
+        "research"
+      ]
+    },
+    {
+      "id": "564ec8477305",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+      "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+      "publishedAt": "2026-09-15T15:47:03.000Z",
+      "fetchedAt": "2026-09-15T17:36:57.675Z",
+      "contentText": null,
+      "summary": "OpenAI, Anthropic, and Google DeepMind have been engaged in discussions for several weeks regarding AI safety, as confirmed by OpenAI's global policy chief, Chris Lehane. These talks follow Anthropic CEO Dario Amodei's call for industry collaboration to mitigate catastrophic AI risks. The companies are reportedly exploring the creation of an AI industry standards body.",
+      "enterpriseAngle": "Enterprise AI product development and security teams should monitor these discussions as they could lead to industry-wide safety standards, potentially impacting future compliance requirements and the integration of third-party model evaluators. The focus on slowing frontier AI development and establishing governance could influence resource allocation and risk management strategies for advanced AI deployments.",
+      "beginner": "Major AI companies are talking to each other about how to make sure advanced AI is developed safely, to prevent potential big problems.",
+      "advanced": "Actively engage with proposed AI safety frameworks and standards bodies to ensure your organization's interests are represented and to prepare for potential regulatory or industry-mandated safety verification processes for frontier models.",
+      "tags": [
+        "enterprise",
+        "policy",
+        "governance",
+        "partnership"
+      ]
+    },
+    {
+      "id": "dffc79cb7df6",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+      "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+      "publishedAt": "2026-09-15T15:22:48.000Z",
+      "fetchedAt": "2026-09-15T17:36:57.675Z",
+      "contentText": null,
+      "summary": "Profound, a startup specializing in marketing software for AI search results, has achieved a $1.8 billion valuation after raising $180 million in Series D funding. This funding round, led by Sequoia and Kleiner Perkins, occurred less than seven months after its previous Series C round. The company helps brands appear in AI search results and has expanded its services to include research and marketing strategy.",
+      "enterpriseAngle": "Enterprise marketing and product teams should note Profound's rapid growth and significant funding as an indicator of the increasing importance of \"answer engine optimization\" (AEO) for brand visibility in AI-driven search. Businesses need to consider how their products and services are discoverable through AI systems, as this directly impacts consumer engagement and market reach.",
+      "beginner": "Profound helps companies make sure their products show up when people use AI to search for things online, similar to how websites try to appear high in Google search results.",
+      "advanced": "To capitalize on the AEO trend, experienced practitioners should evaluate and integrate AI-driven content optimization strategies and tools to ensure brand visibility and discoverability within emerging AI search and recommendation engines.",
+      "tags": [
+        "funding",
+        "enterprise",
+        "product",
+        "agents"
+      ]
+    },
+    {
+      "id": "401afc56f779",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+      "url": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
+      "publishedAt": "2026-09-15T14:42:37.000Z",
+      "fetchedAt": "2026-09-15T17:36:57.675Z",
+      "contentText": null,
+      "summary": "Former TikTok executives have launched Superpose, an iOS app that uses AI to suggest poses for photos, aiming to help users take better portrait pictures. The app generates four potential poses from a user's selfie or photo, and has been downloaded over 22,000 times since its July launch. Superpose has also secured $2.2 million in funding from investors including Khosla Ventures and Meitu.",
+      "enterpriseAngle": "This consumer-focused AI application highlights the growing trend of leveraging AI for personalized visual content creation, which could inspire enterprise product teams to explore similar AI-driven guidance features in their own visual or creative tools. The focus on real-life photo capture, rather than generative backgrounds, also points to a market segment valuing authenticity in AI-assisted content.",
+      "beginner": "AI can now help you take better photos by suggesting how to pose, making it easier to get good pictures.",
+      "advanced": "Investigate integrating pose estimation and generative AI for personalized visual guidance within existing enterprise creative suites or customer-facing applications to enhance user experience and content quality.",
+      "tags": [
+        "product",
+        "consumer",
+        "funding"
+      ]
+    },
+    {
+      "id": "82d9ac8d6e70",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-15T14:30:00.000Z",
+      "fetchedAt": "2026-09-15T17:36:57.675Z",
+      "contentText": null,
+      "summary": "TechCrunch Disrupt 2026 will feature sessions on scaling startups from prototype to production, with insights from leaders like Adrian Macneil, John Mackey, and Boris Sofman. Attendees can save up to $200 on passes by registering before September 25.",
+      "enterpriseAngle": "Enterprise product development teams can gain valuable insights into scaling strategies and operationalizing new technologies by observing how startups transition from early-stage prototypes to full production.",
+      "beginner": "This event helps new companies learn how to grow their initial ideas into real products that customers can use.",
+      "advanced": "Experienced practitioners should attend to network with scaling leaders and identify best practices for accelerating product-market fit and operational efficiency in AI-driven solutions.",
+      "tags": [
+        "enterprise",
+        "product",
+        "learning"
+      ]
+    },
+    {
+      "id": "9171bea33b3c",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-15T14:00:00.000Z",
+      "fetchedAt": "2026-09-15T17:36:57.675Z",
+      "contentText": null,
+      "summary": "TechCrunch Disrupt 2026 is accepting exhibitors for its October 13-15 event in San Francisco, with a deadline of September 18 for booking exhibit tables. The event expects over 10,000 attendees, including founders, investors, and tech leaders, offering startups a platform to showcase products, generate leads, and meet potential partners and investors. An exhibit table costs $12,500 and includes passes, press list access, and branding opportunities.",
+      "enterpriseAngle": "Enterprise product development and security teams can leverage events like TechCrunch Disrupt to scout emerging technologies, identify potential partners, and assess the competitive landscape, while also gaining visibility for their own innovations.",
+      "beginner": "TechCrunch Disrupt is a big event where new companies can show off their ideas to people who might invest in them or use their products.",
+      "advanced": "Strategically utilize the Disrupt Expo Hall's high-traffic environment for targeted lead generation and investor engagement, ensuring pre-event outreach to maximize ROI from the included press list access and networking opportunities.",
+      "tags": [
+        "enterprise",
+        "product",
+        "partnership",
+        "funding"
+      ]
+    },
+    {
+      "id": "63b04c12395d",
+      "source": "google-ai",
+      "sourceName": "Google AI",
+      "tier": "realtime",
+      "title": "New insights from Google’s AI & Economy ATLAS",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+      "publishedAt": "2026-09-15T13:00:00.000Z",
+      "fetchedAt": "2026-09-15T17:36:56.649Z",
+      "contentText": null,
+      "summary": "Google's AI & Economy ATLAS provides new data visualizations and research insights into global AI adoption. The data shows that India's creative industry and the U.S. technical sector are leading in AI usage, while scientists are using AI at a higher rate than many other occupations, saving nearly seven hours a week. However, this increased efficiency is creating bottlenecks further down the research pipeline, suggesting a need to redesign scientific processes.",
+      "enterpriseAngle": "Enterprise product development and security teams should consider how AI adoption trends impact their workforce's productivity and potential new bottlenecks in workflows. Understanding regional and occupational AI usage can inform strategic investments in AI tools and training, while also highlighting the need for robust validation processes for AI outputs.",
+      "beginner": "People are using AI in many different jobs around the world, saving time but also creating new challenges in how work gets done.",
+      "advanced": "Leverage the ATLAS data to benchmark your organization's AI adoption against industry and regional trends, and proactively address emerging bottlenecks in AI-augmented workflows by redesigning processes to maximize end-to-end efficiency.",
+      "tags": [
+        "research",
+        "enterprise",
+        "workforce",
+        "product"
+      ]
+    },
+    {
+      "id": "140a9042b172",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "What's at stake in AI’s trillion-dollar gamble",
+      "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+      "publishedAt": "2026-09-15T10:00:00.000Z",
+      "fetchedAt": "2026-09-15T17:36:58.082Z",
+      "contentText": null,
+      "summary": "A finance professor at the University of Pennsylvania's Wharton School, Jessica Wachter, is examining the economic impact of AI. Her research begins by acknowledging a significant, undisputed fact regarding the current state of AI's influence.",
+      "enterpriseAngle": "Enterprise leaders should closely monitor economic analyses like Wachter's to understand the broader financial landscape and potential risks associated with large-scale AI investments. This research can inform strategic planning for resource allocation and market positioning.",
+      "beginner": "Experts are trying to understand how much money AI will make and how it will change the economy.",
+      "advanced": "Integrate economic forecasts from reputable academic sources into your long-term AI strategy to anticipate market shifts and optimize investment in AI infrastructure and talent.",
+      "tags": [
+        "research",
+        "enterprise",
+        "funding"
+      ]
+    },
     {
       "id": "e957c507988f",
       "source": "techcrunch-ai",

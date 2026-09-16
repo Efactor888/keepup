@@ -1,6 +1,191 @@
 {
-  "updatedAt": "2026-09-15T23:30:53.664Z",
+  "updatedAt": "2026-09-16T17:36:15.465Z",
   "articles": [
+    {
+      "id": "29b48237ac8b",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Your AI agents can now control your Google Home devices",
+      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+      "publishedAt": "2026-09-16T17:00:00.000Z",
+      "fetchedAt": "2026-09-16T17:34:52.798Z",
+      "contentText": null,
+      "summary": "Google is introducing early access to a new MCP server for Google Home, enabling AI agents such as Claude and ChatGPT to manage connected devices. This integration allows AI agents to review camera summaries and access smart home activity through natural language commands.",
+      "enterpriseAngle": "This development could lead to more sophisticated enterprise applications for smart building management and automation, requiring careful consideration of access controls and data privacy for AI agents interacting with physical infrastructure. Product development teams can explore integrating their AI solutions with smart home ecosystems for enhanced control and automation features.",
+      "beginner": "AI agents are now able to understand and control your smart home devices, making them more helpful for daily tasks.",
+      "advanced": "Evaluate the new MCP server's API for integrating custom AI agents to automate facility management tasks, focusing on robust authentication and authorization mechanisms to prevent unauthorized access.",
+      "tags": [
+        "agents",
+        "product",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "15baa612d96c",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Anthropic merges Claude chat and Cowork in one interface",
+      "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+      "publishedAt": "2026-09-16T16:30:00.000Z",
+      "fetchedAt": "2026-09-16T17:34:52.798Z",
+      "contentText": null,
+      "summary": "Anthropic has merged its Claude chat and Cowork interfaces into a single, unified window, aiming to simplify user experience by automatically routing requests without requiring tab switching. This update also introduces dedicated features for creating and editing presentations and documents, with capabilities for sharing and cross-device editing. These new features are rolling out to Pro and Max plans first, with plans to extend them to free and team tiers later.",
+      "enterpriseAngle": "Enterprise teams using Claude will benefit from a more streamlined workflow, reducing friction in task management and potentially increasing productivity by integrating chat, collaborative workspaces, and document creation within one interface. The ability to create, edit, and share presentations and documents directly within Claude could also enhance internal communication and content generation processes.",
+      "beginner": "Anthropic's AI assistant, Claude, is now easier to use because all its features, like chatting and working on projects, are in one place, and it can help you make presentations and documents.",
+      "advanced": "Leverage the unified Claude interface and new presentation/document features to consolidate workflows, potentially reducing context-switching overhead and improving content generation efficiency within your enterprise AI applications.",
+      "tags": [
+        "product",
+        "enterprise",
+        "agents"
+      ]
+    },
+    {
+      "id": "027811ca1632",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Helping older adults use AI in everyday life",
+      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "publishedAt": "2026-09-16T16:00:00.000Z",
+      "fetchedAt": "2026-09-16T17:34:50.909Z",
+      "contentText": null,
+      "summary": "OpenAI, in collaboration with Older Adults Technology Services (OATS) from AARP, is launching the \"Older Adults AI Skills Jam,\" a free, in-person workshop series to teach older adults how to use ChatGPT confidently and safely. This initiative, part of a multi-year effort, aims to provide practical AI skills to 1,000 older adults across 10 U.S. cities, focusing on everyday tasks and online safety, including scam detection. The program highlights the growing use of ChatGPT by individuals aged 55+ for information and guidance.",
+      "enterpriseAngle": "Enterprises developing AI products should note the increasing demand for user-friendly interfaces and educational programs tailored to diverse demographics, particularly older adults, to ensure broad adoption and safe usage. Integrating scam detection and online safety features into AI tools can enhance user trust and provide a valuable service, especially for vulnerable populations.",
+      "beginner": "AI tools like ChatGPT can help older adults with daily tasks and protect them from online scams by providing an extra layer of scrutiny.",
+      "advanced": "Integrate robust, user-friendly scam detection and online safety features into AI-powered applications, leveraging large language models to analyze suspicious communications and provide actionable advice, thereby expanding market reach and user trust among diverse demographics.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "product",
+        "security"
+      ]
+    },
+    {
+      "id": "26c48edc2eec",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-16T15:00:00.000Z",
+      "fetchedAt": "2026-09-16T17:34:52.798Z",
+      "contentText": null,
+      "summary": "Nvidia's Les Karpas believes the robotics industry is awaiting a significant breakthrough, similar to the impact of ChatGPT, to integrate more fully into daily life. He will elaborate on this perspective at TechCrunch Disrupt 2026.",
+      "enterpriseAngle": "Enterprise product development teams in robotics should focus on identifying and developing the 'killer app' or foundational technology that can unlock widespread adoption and utility for robotic solutions.",
+      "beginner": "Robots aren't yet as common in our daily lives as many expected, and experts are looking for a big innovation to change that.",
+      "advanced": "To accelerate robotics adoption, prioritize R&D into general-purpose manipulation and robust, adaptable perception systems that can operate effectively in unstructured environments.",
+      "tags": [
+        "product",
+        "research",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "7da679bc9c36",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Threads' new features let podcasters promote shows and reach listeners",
+      "url": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
+      "publishedAt": "2026-09-16T14:24:58.000Z",
+      "fetchedAt": "2026-09-16T17:34:52.798Z",
+      "contentText": null,
+      "summary": "Threads is introducing new features designed to help podcasters promote their shows and connect with listeners. These tools include profile cards, direct episode links, transcripts, guest tagging, posting reminders, and audience insights. Meta aims to position Threads as a central platform for podcast promotion and discussion.",
+      "enterpriseAngle": "Enterprise marketing and content teams can leverage these new Threads features to expand the reach and engagement of their podcast content, providing more direct ways to share episodes and analyze audience interaction. Product development teams building social media integrations should note the evolving feature sets of platforms like Threads for content creators.",
+      "beginner": "Threads is adding new tools specifically for people who make podcasts, making it easier for them to share their shows and see who is listening.",
+      "advanced": "Integrate Threads' new podcast promotion features into your content distribution strategy, leveraging episode links, guest tags, and audience insights to optimize reach and engagement for your audio content.",
+      "tags": [
+        "product",
+        "consumer",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "d21d6c6322c0",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-16T14:00:00.000Z",
+      "fetchedAt": "2026-09-16T17:34:52.798Z",
+      "contentText": null,
+      "summary": "TechCrunch Disrupt 2026, a major tech conference, is accepting exhibitor bookings until September 18, 2026, offering startups a chance to demo products, meet investors, and generate leads. The event, held from October 13-15 in San Francisco, expects over 10,000 attendees, including founders, investors, and tech leaders. Exhibitors receive a dedicated table, team passes, branding, and access to networking opportunities.",
+      "enterpriseAngle": "Enterprise product development and sales teams can leverage events like TechCrunch Disrupt to showcase their innovations, secure funding, and forge strategic partnerships, accelerating their market penetration and growth. Security teams should be aware of the potential data exposure risks associated with lead capture and networking tools used at such large-scale events.",
+      "beginner": "TechCrunch Disrupt is a big event where new companies can show off their ideas to people who might invest in them or become partners.",
+      "advanced": "Strategically utilize the Disrupt mobile app and investor-to-founder networking opportunities to pre-qualify leads and maximize deal flow conversion during the three-day exhibition.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "funding",
+        "product"
+      ]
+    },
+    {
+      "id": "52752974efc0",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Reimagining advertising with AI",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "publishedAt": "2026-09-16T13:00:00.000Z",
+      "fetchedAt": "2026-09-16T17:34:50.909Z",
+      "contentText": null,
+      "summary": "OpenAI is introducing new AI-powered advertising features for ChatGPT, including \"Sponsored Agents\" that allow users to converse with business-sponsored AI after clicking an ad. The company is also making ad creation and management easier for businesses through natural language prompts in ChatGPT and AI assistance in Ads Manager. Additionally, OpenAI is integrating ChatGPT Ads with HubSpot and Shopify to streamline ad campaign management within existing business tools.",
+      "enterpriseAngle": "Enterprise marketing and product development teams can leverage these new AI capabilities to create more personalized ad experiences, automate campaign management, and integrate advertising efforts directly into their CRM and e-commerce platforms, potentially increasing efficiency and customer engagement. The introduction of Sponsored Agents offers a novel way for businesses to provide interactive, AI-driven customer support and product information directly within an advertising context.",
+      "beginner": "OpenAI is making ads smarter and easier to use by letting AI help create them and allowing you to chat with AI about products you see in ads.",
+      "advanced": "Explore the integration capabilities with HubSpot and Shopify to streamline ad campaign deployment and lead management, and consider piloting Sponsored Agents to enhance post-click user engagement and qualification.",
+      "tags": [
+        "product",
+        "enterprise",
+        "agents",
+        "partnership"
+      ]
+    },
+    {
+      "id": "82986f89daa5",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "Building the materials foundation for AI",
+      "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+      "publishedAt": "2026-09-16T12:47:34.000Z",
+      "fetchedAt": "2026-09-16T17:34:53.063Z",
+      "contentText": null,
+      "summary": "The rapid growth of AI is creating significant challenges for the materials that underpin computing infrastructure. Semiconductors and data centers are nearing their physical limits in terms of performance, heat dissipation, power consumption, and dependability. This necessitates the development of new materials to support future AI advancements.",
+      "enterpriseAngle": "Enterprise product development teams must prioritize research into advanced materials to overcome current hardware limitations and ensure the scalability and sustainability of AI-driven solutions. Security teams should consider the long-term reliability and environmental impact of hardware as part of their overall risk assessment for AI infrastructure.",
+      "beginner": "As AI gets more powerful, the physical parts of computers, like chips and data centers, need new and better materials to keep up.",
+      "advanced": "Invest in R&D for novel semiconductor and thermal management materials to address the impending physical constraints on AI compute infrastructure, focusing on efficiency and reliability for next-generation deployments.",
+      "tags": [
+        "infrastructure",
+        "hardware",
+        "research",
+        "science"
+      ]
+    },
+    {
+      "id": "71646fffd914",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "How workers are unlocking new ways of working",
+      "url": "https://openai.com/index/unlocking-new-ways-of-working",
+      "publishedAt": "2026-09-16T09:00:00.000Z",
+      "fetchedAt": "2026-09-16T17:34:50.909Z",
+      "contentText": null,
+      "summary": "New OpenAI research, based on analyzing over 1.5 million ChatGPT messages, indicates that workers are increasingly using AI for tasks outside their traditional job descriptions. These \"cross-occupation\" tasks are not just experimental but are becoming recurring parts of their workflows. This suggests that AI is enabling job expansion and reshaping roles even before job titles formally change.",
+      "enterpriseAngle": "Enterprise product development and security teams should consider how AI tools can be integrated to support employees in performing a broader range of tasks, potentially leading to more versatile roles and increased efficiency. Understanding these evolving AI usage patterns can inform strategies for AI adoption and work design within organizations.",
+      "beginner": "People new to AI are finding that it helps them do tasks that aren't usually part of their job, and they keep using AI for these new tasks.",
+      "advanced": "Leverage observed patterns of recurring cross-occupation AI use, particularly in areas like customer discussion, advertising, and marketing material creation, to strategically integrate AI into workflow design and training programs, fostering job expansion and efficiency.",
+      "tags": [
+        "research",
+        "workforce",
+        "enterprise",
+        "learning"
+      ]
+    },
     {
       "id": "ac343a3cc32d",
       "source": "techcrunch-ai",

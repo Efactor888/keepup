@@ -1,6 +1,153 @@
 {
-  "updatedAt": "2026-09-16T23:37:18.757Z",
+  "updatedAt": "2026-09-17T17:35:40.513Z",
   "articles": [
+    {
+      "id": "a29db0108686",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "Introducing the Life Sciences Verification Program",
+      "url": "https://www.anthropic.com/news/life-sciences-verification-program",
+      "publishedAt": "2026-09-17T17:31:22.000Z",
+      "fetchedAt": "2026-09-17T17:34:34.485Z",
+      "contentText": null,
+      "summary": "Anthropic has launched the Life Sciences Verification Program (LSVP), offering life science professionals access to their Mythos, Opus, and Sonnet models with specialized safeguards for biology-related work. This program aims to enable tasks like drug discovery and clinical development, which are typically restricted in their general-purpose models. Applicants undergo a verification process and can apply for \"Standard Use\" or \"High-risk Use\" grants, with ongoing monitoring to ensure usage aligns with approved research.",
+      "enterpriseAngle": "Enterprise security and product development teams in life sciences can leverage this program to integrate advanced AI models into their workflows, provided they adhere to stringent verification and monitoring protocols to mitigate risks like insider threats and access compromise. The shift to offline monitoring for misuse detection allows for smoother legitimate research while maintaining security oversight.",
+      "beginner": "Anthropic is making its powerful AI models available for scientists to use in areas like medicine and biology, with special rules to make sure the AI is used safely and responsibly.",
+      "advanced": "Implement robust internal security protocols and clearly define use cases in LSVP grant applications to align with Anthropic's shared responsibility model, leveraging their offline monitoring capabilities to facilitate uninterrupted research while ensuring compliance and mitigating advanced threat vectors.",
+      "tags": [
+        "enterprise",
+        "product",
+        "security",
+        "policy"
+      ],
+      "dateChecked": true
+    },
+    {
+      "id": "f81776d6d410",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+      "url": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+      "publishedAt": "2026-09-17T17:15:59.000Z",
+      "fetchedAt": "2026-09-17T17:34:36.427Z",
+      "contentText": null,
+      "summary": "Baseten, through its research arm Base Labs, has partnered with Hugging Face and Goodfire AI to create a new safety infrastructure standard for open-weight AI models. This initiative aims to address the growing concern of \"abliterated\" models, which have had their safety safeguards removed, by building safety evaluation and monitoring directly into the training and deployment process. The companies believe that an open approach to AI safety will provide greater transparency and more effective controls.",
+      "enterpriseAngle": "Enterprise security and product development teams can benefit from this partnership by having access to a transparent, built-in safety standard for open-weight models, potentially reducing the risks associated with deploying AI. This collaboration offers a framework for integrating safety from the ground up, rather than as an afterthought, which is crucial for responsible AI adoption.",
+      "beginner": "This partnership is creating new ways to make sure that open-source AI models are safe to use, especially since some models can be easily changed to remove their safety features.",
+      "advanced": "Leverage the forthcoming open-weight AI safety standard from Base Labs, Hugging Face, and Goodfire AI to integrate robust safety evaluation and monitoring directly into your model training and deployment pipelines, particularly for open-source model adoption.",
+      "tags": [
+        "security",
+        "enterprise",
+        "partnership",
+        "research"
+      ]
+    },
+    {
+      "id": "5fcb31656e57",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Pinterest teases a new ‘Restyle' feature that lets you redesign your room with AI",
+      "url": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
+      "publishedAt": "2026-09-17T17:15:00.000Z",
+      "fetchedAt": "2026-09-17T17:34:36.427Z",
+      "contentText": null,
+      "summary": "Pinterest is testing a new AI feature called Restyle, which allows users to visualize different furniture, decor, and lighting options within photos of their own rooms. This feature aims to help users transform their saved inspirations into actual purchases by seeing how items would look in their space.",
+      "enterpriseAngle": "Enterprise product teams can leverage similar AI visualization tools to enhance customer engagement and drive sales by allowing users to preview products in their own environments. This approach can reduce purchase friction and improve customer satisfaction in e-commerce.",
+      "beginner": "Pinterest is using AI to let you see how new furniture or decorations would look in your room before you buy them.",
+      "advanced": "Evaluate integrating generative AI visualization capabilities into your e-commerce platform to improve conversion rates and reduce returns by enabling realistic product previews in user-provided contexts.",
+      "tags": [
+        "product",
+        "consumer",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "b0a1757d0fed",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+      "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
+      "publishedAt": "2026-09-17T14:06:14.000Z",
+      "fetchedAt": "2026-09-17T17:34:36.427Z",
+      "contentText": null,
+      "summary": "Huawei plans to launch its Ascend 960DT AI chip in Q1 2027, moving up the release from Q3 2027, to compete with Nvidia. The company also introduced its Peerium Computing Architecture, designed to link many AI chips into larger computing systems for training and inference. However, there are questions regarding the scaling capabilities of the announced systems compared to previous statements.",
+      "enterpriseAngle": "Enterprises relying on AI infrastructure will see increased competition in the high-performance AI chip market, potentially leading to more diverse options and competitive pricing for AI training and inference systems. Product development teams should monitor these advancements for future hardware considerations and system architectures.",
+      "beginner": "Huawei is making its new AI computer chips available sooner to compete with other companies, aiming to build bigger and more powerful AI systems.",
+      "advanced": "Evaluate the new Peerium Computing Architecture and UnifiedBus for potential integration into large-scale AI infrastructure, specifically assessing its scalability claims against previous Huawei announcements for SuperPoD and SuperCluster deployments.",
+      "tags": [
+        "hardware",
+        "enterprise",
+        "product",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "db10da3f4911",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "2 days left to exhibit at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-17T14:00:00.000Z",
+      "fetchedAt": "2026-09-17T17:34:36.427Z",
+      "contentText": null,
+      "summary": "TechCrunch Disrupt 2026 is an upcoming event in San Francisco where founders, investors, and tech leaders will gather. Startups have a final opportunity to book an exhibit table by September 18 to showcase their products and connect with attendees. The event, taking place from October 13-15, offers networking opportunities, including AI-powered matchmaking.",
+      "enterpriseAngle": "Enterprise product development and sales teams can leverage events like TechCrunch Disrupt to demo new AI-powered solutions, generate leads, and identify potential partners or customers. The AI-powered matchmaking feature can help enterprises efficiently connect with relevant stakeholders.",
+      "beginner": "Big tech conferences like TechCrunch Disrupt are places where new companies show off their products and try to find investors or partners.",
+      "advanced": "Prioritize AI-powered matchmaking and targeted networking at industry events to maximize lead generation and partnership opportunities for emerging AI products.",
+      "tags": [
+        "enterprise",
+        "product",
+        "partnership",
+        "funding"
+      ]
+    },
+    {
+      "id": "4bce8df04a13",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Rival AI agents, Instinct and Meta's Muse, both add the ability to make calls",
+      "url": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
+      "publishedAt": "2026-09-17T13:46:16.000Z",
+      "fetchedAt": "2026-09-17T17:34:36.427Z",
+      "contentText": null,
+      "summary": "AI assistants Instinct and Meta's Muse have both introduced new calling features, allowing them to place calls for users to handle tasks like booking reservations or resolving customer service issues. This update brings them to parity with other rival AI agents that previously offered calling capabilities. Instinct also recently added email address management and the ability for user assistants to interact within a trusted network.",
+      "enterpriseAngle": "Enterprise product development teams should consider the implications of AI agents handling phone calls and email for customer service, scheduling, and operational tasks, evaluating potential efficiency gains against data privacy and security concerns. Security teams will need to assess new attack vectors introduced by agents with expanded access to external communication channels and personal information.",
+      "beginner": "AI assistants are becoming more capable, now able to make phone calls and manage emails to help you with daily tasks.",
+      "advanced": "Implement robust data governance and access control policies for AI agents with external communication capabilities, and conduct thorough security audits to mitigate risks associated with automated interactions and data handling.",
+      "tags": [
+        "agents",
+        "product",
+        "enterprise",
+        "consumer"
+      ]
+    },
+    {
+      "id": "6bf22bb7c7b5",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+      "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
+      "publishedAt": "2026-09-17T13:38:33.000Z",
+      "fetchedAt": "2026-09-17T17:34:36.427Z",
+      "contentText": null,
+      "summary": "Google, Nvidia, and Anthropic have partnered with Emerald AI to form the AI Energy Management Alliance (AEMA), aiming to integrate demand response into data center development. This initiative will use Emerald AI's software to coordinate with utilities, allowing data centers to temporarily reduce electricity usage by pausing noncritical tasks or shifting loads. The goal is to free up grid capacity, potentially enabling an additional 100 gigawatts of data centers to connect to the grid.",
+      "enterpriseAngle": "Enterprise product development teams can leverage advanced demand response solutions to optimize data center energy consumption, reduce operational costs, and contribute to grid stability, enabling more sustainable and scalable AI infrastructure. Security teams should consider the implications of pausing or shifting compute loads on data integrity and service availability during demand response events.",
+      "beginner": "Large tech companies are working together to make sure there's enough electricity for AI data centers by finding smart ways to temporarily lower their power use when the grid is busy.",
+      "advanced": "Implement granular workload management and dynamic resource allocation strategies to seamlessly integrate demand response protocols, ensuring minimal disruption to critical AI operations while maximizing energy efficiency and grid participation.",
+      "tags": [
+        "enterprise",
+        "infrastructure",
+        "partnership",
+        "product"
+      ]
+    },
     {
       "id": "858d9ee27e4f",
       "source": "techcrunch-ai",

@@ -1,6 +1,153 @@
 {
-  "updatedAt": "2026-09-18T17:06:08.914Z",
+  "updatedAt": "2026-09-18T23:11:37.404Z",
   "articles": [
+    {
+      "id": "58f2b0077885",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Anthropic's first embedded evaluator is … Accenture?",
+      "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+      "publishedAt": "2026-09-18T21:44:33.000Z",
+      "fetchedAt": "2026-09-18T23:10:06.175Z",
+      "contentText": null,
+      "summary": "Anthropic has selected Accenture as its first \"embedded evaluator,\" a program where third-party staff will work inside Anthropic to scrutinize its AI models and operations. Accenture's AI division, Faculty, will conduct evaluations, red-teaming, and alignment assessments, with both companies investing at least $1 billion over five years. This initiative aims to enhance AI safety and accountability, particularly after recent incidents involving AI agents misbehaving.",
+      "enterpriseAngle": "Enterprise security and product development teams should note this emerging model for AI governance, where external evaluators are embedded within AI labs to enhance model safety and verify accountability. This approach could become a standard for ensuring responsible AI deployment, impacting how enterprises develop and secure their own AI solutions.",
+      "beginner": "Anthropic is bringing in an outside company, Accenture, to help make sure its AI models are safe and behave correctly.",
+      "advanced": "Integrate third-party embedded evaluation frameworks into your AI development lifecycle to proactively address model safety, alignment, and accountability, leveraging external expertise for red-teaming and safeguard testing.",
+      "tags": [
+        "enterprise",
+        "security",
+        "governance",
+        "product"
+      ]
+    },
+    {
+      "id": "31344e51cc80",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "World model companies are keeping a lot of secrets",
+      "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "publishedAt": "2026-09-18T20:18:14.000Z",
+      "fetchedAt": "2026-09-18T23:10:06.175Z",
+      "contentText": null,
+      "summary": "Companies developing \"world models\" are operating with significant funding and public interest, yet they are highly secretive about their projects. Details about what these companies are creating are not being disclosed by founders or even their data suppliers.",
+      "enterpriseAngle": "The lack of transparency from world model developers creates uncertainty for enterprises looking to integrate these advanced AI systems, making due diligence and risk assessment challenging. Enterprise product development teams should prepare for a landscape where key AI components may be proprietary and opaque, requiring robust internal validation processes.",
+      "beginner": "Companies making advanced AI models called \"world models\" are keeping their work a secret, even though they have a lot of money and attention.",
+      "advanced": "Given the opacity surrounding world model development, experienced practitioners should focus on building adaptable architectures and robust evaluation frameworks to integrate future, potentially black-box, AI systems while mitigating unknown risks.",
+      "tags": [
+        "enterprise",
+        "governance",
+        "product",
+        "research"
+      ]
+    },
+    {
+      "id": "47b87cc27bae",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "Partnering with Accenture on embedded evaluation",
+      "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+      "publishedAt": "2026-09-18T20:02:00.000Z",
+      "fetchedAt": "2026-09-18T23:10:03.490Z",
+      "contentText": null,
+      "summary": "Anthropic is partnering with Accenture to embed independent evaluators within its operations, a move aimed at enhancing the safety and verifiability of its frontier AI models. These evaluators will have internal access to observe model development, assess safety commitments, and identify potential risks. Both companies plan to invest at least $1 billion over five years to build capacity in this new area of embedded evaluation.",
+      "enterpriseAngle": "This partnership introduces a new model for AI governance and safety, where independent evaluators gain unprecedented access to a company's internal AI development processes, setting a potential precedent for how enterprises manage AI risks and ensure accountability. Enterprise security and product development teams should consider how such embedded evaluation could impact their own AI development lifecycles and compliance frameworks.",
+      "beginner": "Independent experts will work inside AI companies like Anthropic to check if their advanced AI models are safe and fair, similar to how a safety inspector might work in a factory.",
+      "advanced": "Integrate embedded evaluation frameworks into your AI development pipeline to proactively identify and mitigate risks, ensuring verifiable safety and alignment with evolving governance standards, while also exploring non-exclusive partnerships with multiple evaluators to foster a robust safety ecosystem.",
+      "tags": [
+        "partnership",
+        "governance",
+        "enterprise",
+        "research"
+      ],
+      "dateChecked": true
+    },
+    {
+      "id": "cde89040db03",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+      "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+      "publishedAt": "2026-09-18T18:49:30.000Z",
+      "fetchedAt": "2026-09-18T23:10:06.175Z",
+      "contentText": null,
+      "summary": "Diogo Almeida, an inventor of RLHF and former OpenAI researcher, launched TypeSafe AI and released Jev, a new transformer-based model that doesn't output text but rather calibrated probabilities. Jev is designed to be fast, cheap, and immune to hallucinations, making it highly suitable for software automation. Developers are showing strong interest, using it to replace or augment large language models (LLMs) in tasks like classification and agent monitoring.",
+      "enterpriseAngle": "Enterprise product development teams can leverage Jev for cost-effective and reliable automation, integrating intelligence into their software without the high costs and hallucination risks associated with LLMs. Security teams could also deploy Jev to monitor LLM agent traces and prevent jailbreaks, enhancing the security posture of AI-powered systems.",
+      "beginner": "A new type of AI model called Jev has been created that is very good at making quick, reliable decisions for computers without using human language, making it cheaper and less prone to errors than current AI chatbots.",
+      "advanced": "Evaluate Jev for specific enterprise use cases requiring high-throughput, low-latency, and hallucination-resistant probabilistic outputs, particularly for augmenting LLM workflows, agent monitoring, and model routing to optimize cost and performance.",
+      "tags": [
+        "model-release",
+        "enterprise",
+        "product",
+        "agents"
+      ]
+    },
+    {
+      "id": "b12290caf5a0",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Disney's first CTO led an AI startup it once accused of copying its characters",
+      "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+      "publishedAt": "2026-09-18T17:59:53.000Z",
+      "fetchedAt": "2026-09-18T23:10:06.175Z",
+      "contentText": null,
+      "summary": "Disney has appointed Karandeep Anand, former CEO of AI startup Character.AI, as its first-ever Chief Technology Officer. This appointment is notable because Disney previously accused Character.AI of intellectual property infringement for hosting copyrighted characters from its franchises. Anand's hiring by new CEO Josh D'Amaro signals Disney's intent to embrace new technologies.",
+      "enterpriseAngle": "This move highlights the increasing importance of AI expertise at the executive level within traditional entertainment companies and the complex legal landscape surrounding IP and generative AI. Enterprise product development teams should carefully consider IP implications when leveraging generative AI, especially concerning character or brand likenesses.",
+      "beginner": "Disney hired a new tech leader who used to run an AI company that Disney once sued for using its characters without permission.",
+      "advanced": "Evaluate your organization's IP strategy in the context of generative AI, particularly concerning potential infringement risks when integrating third-party AI models or developing internal AI solutions that interact with copyrighted material.",
+      "tags": [
+        "enterprise",
+        "product",
+        "governance",
+        "policy"
+      ]
+    },
+    {
+      "id": "0c2082ebb705",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Google's new ‘CC' is an AI agent that helps families run their households",
+      "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+      "publishedAt": "2026-09-18T17:33:50.000Z",
+      "fetchedAt": "2026-09-18T23:10:06.175Z",
+      "contentText": null,
+      "summary": "Google's CC AI agent is being refocused to help families with household coordination. It allows users to share emails, schedules, and tasks, enabling the AI to manage calendars, create shopping lists, plan meals, and fill out forms.",
+      "enterpriseAngle": "Enterprise product development teams can observe how Google is designing AI agents for specific, complex user needs, particularly in coordinating multiple users and data types within a defined domain. This demonstrates a trend towards more integrated and proactive AI assistance in daily life.",
+      "beginner": "AI agents are becoming smarter tools that can help manage many different tasks for you and your family, like organizing your schedule or making a shopping list.",
+      "advanced": "Evaluate the architectural patterns and data privacy considerations for multi-user, multi-modal AI agents designed for household management, considering potential applications in enterprise workflow automation and collaboration tools.",
+      "tags": [
+        "agents",
+        "product",
+        "consumer"
+      ]
+    },
+    {
+      "id": "748d4ed0dfa2",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier' but…how?",
+      "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
+      "publishedAt": "2026-09-18T17:09:56.000Z",
+      "fetchedAt": "2026-09-18T23:10:06.175Z",
+      "contentText": null,
+      "summary": "Anthropic CEO Dario Amodei has proposed a plan to \"pace the frontier\" of AI development, which includes using independent safety evaluators and fostering coordination among AI labs in democratic nations. This plan follows a recent warning from an Anthropic researcher about potential AI risks. The proposal has garnered some industry support, though it has also faced criticism from figures like Nvidia's Jensen Huang.",
+      "enterpriseAngle": "Enterprises developing AI should consider the implications of industry-led \"pacing\" initiatives, as they could influence future regulatory landscapes and best practices for AI safety and development. Product teams may need to integrate independent safety evaluations into their development lifecycles to align with evolving industry standards.",
+      "beginner": "AI leaders are discussing ways to slow down and make sure new AI technologies are safe before they are widely released.",
+      "advanced": "Evaluate the feasibility and impact of integrating independent AI safety evaluations into your organization's development pipeline, anticipating potential shifts in industry governance and international collaboration frameworks.",
+      "tags": [
+        "governance",
+        "policy",
+        "enterprise",
+        "research"
+      ]
+    },
     {
       "id": "eacd5d59e9e3",
       "source": "techcrunch-ai",
@@ -830,6 +977,27 @@
         "product",
         "governance",
         "learning"
+      ]
+    },
+    {
+      "id": "973a91148c50",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+      "url": "https://openai.com/index/hex-gpt-6-astra",
+      "publishedAt": "2026-09-16T12:00:00.000Z",
+      "fetchedAt": "2026-09-18T23:10:04.209Z",
+      "contentText": null,
+      "summary": "Hex, an agentic data platform, now uses OpenAI's GPT-6 Astra to transform complex data analysis into interactive and visually appealing reports. This integration helps Hex's data agents create more sophisticated visualizations and ensures that the analytical outputs are relevant to business objectives. GPT-6 Astra improves the model's ability to handle complex data transformations and exercise analytical judgment, leading to more comprehensive and shareable insights.",
+      "enterpriseAngle": "Enterprise data and product development teams can leverage advanced AI models like GPT-6 Astra to automate and enhance the creation of complex data visualizations, improving communication of insights and making data more accessible across the organization. This can lead to more informed decision-making and streamlined reporting processes.",
+      "beginner": "AI models are getting better at turning complicated data into easy-to-understand pictures and charts, helping people share information more clearly.",
+      "advanced": "Integrate advanced generative models with visualization libraries to automate complex data transformations and enhance analytical judgment in report generation, focusing on interactive and contextually relevant outputs.",
+      "tags": [
+        "product",
+        "enterprise",
+        "agents",
+        "model-release"
       ]
     },
     {

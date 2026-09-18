@@ -1,6 +1,191 @@
 {
-  "updatedAt": "2026-09-17T23:33:26.098Z",
+  "updatedAt": "2026-09-18T17:06:08.914Z",
   "articles": [
+    {
+      "id": "eacd5d59e9e3",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
+      "url": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
+      "publishedAt": "2026-09-18T16:35:49.000Z",
+      "fetchedAt": "2026-09-18T17:01:22.899Z",
+      "contentText": null,
+      "summary": "Chinese AI startup Manus is reportedly seeking to raise $500 million at a $4 billion valuation after its planned merger with Meta was blocked by Beijing due to concerns over AI talent and export controls. The company, which offers AI products and agents similar to those from OpenAI, has resumed independent operations and is considering an IPO in Hong Kong. As part of its separation from Meta, Manus required users to export their data, which was subsequently deleted to comply with regulatory requirements.",
+      "enterpriseAngle": "Enterprises developing AI products, especially those with international aspirations, must navigate complex geopolitical landscapes and regulatory hurdles, particularly concerning data residency, export controls, and foreign investment rules. This case highlights the potential for government intervention to disrupt major M&A deals and impact product development and data management strategies.",
+      "beginner": "AI companies, especially those operating across different countries, face challenges with government rules and regulations that can affect their business deals and how they handle user data.",
+      "advanced": "Given the increasing scrutiny on cross-border AI M&A and data governance, enterprise AI product and security teams should proactively assess geopolitical risks, implement robust data localization strategies, and ensure compliance with evolving international export controls and foreign investment regulations to mitigate potential deal disruptions and data deletion mandates.",
+      "tags": [
+        "enterprise",
+        "funding",
+        "policy",
+        "product"
+      ]
+    },
+    {
+      "id": "956c7663208f",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Open or closed AI? Nvidia's Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-18T15:30:00.000Z",
+      "fetchedAt": "2026-09-18T17:01:22.899Z",
+      "contentText": null,
+      "summary": "Nvidia's Nader Khalil and Sydney Sykes will lead a session at TechCrunch Disrupt 2026 discussing the business implications of choosing between open and proprietary AI models for startups. The discussion will cover how this decision impacts costs, infrastructure, competitive advantage, and product development. The session aims to provide clarity on the trade-offs rather than engaging in a philosophical debate.",
+      "enterpriseAngle": "Enterprise product development and security teams must carefully evaluate the trade-offs between open and proprietary AI models, considering factors like cost, data control, infrastructure maintenance, and the ability to adapt to rapidly changing model capabilities. This decision directly influences procurement, security posture, and long-term strategic flexibility.",
+      "beginner": "When building AI products, companies must choose between using readily available proprietary AI models or more customizable open-source models, a decision that affects everything from cost to how unique their product can be.",
+      "advanced": "When architecting new AI solutions, assess whether a hybrid model strategy, combining open and proprietary components, offers superior defensibility and adaptability compared to a singular approach, especially given the rapid evolution of model capabilities and economic shifts.",
+      "tags": [
+        "enterprise",
+        "product",
+        "infrastructure",
+        "governance"
+      ]
+    },
+    {
+      "id": "9a79b55d35bc",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Meta's Muse hits Mac, letting the AI take actions on your computer",
+      "url": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
+      "publishedAt": "2026-09-18T15:22:48.000Z",
+      "fetchedAt": "2026-09-18T17:01:22.899Z",
+      "contentText": null,
+      "summary": "Meta has launched its AI assistant app, Muse, for Mac, allowing it to interact with native applications like files, messages, and calendars. This release follows its successful debut on mobile and web, where it quickly topped app store charts. Users maintain control over Muse's access and must approve sensitive actions.",
+      "enterpriseAngle": "The rise of consumer-facing AI agents like Muse, which can automate tasks across applications, signals a shift that enterprise product development teams should monitor, as these agents could disrupt existing software-as-a-service models and influence future computing paradigms. Enterprise security teams must prepare for managing and securing AI agents that can access and manipulate sensitive company data on employee devices, emphasizing granular access controls and audit trails.",
+      "beginner": "AI assistants are becoming more capable, able to perform actions on your computer like managing files and messages, but you always decide what they can access and approve their actions.",
+      "advanced": "Evaluate the integration of agentic AI into enterprise workflows, focusing on robust access control mechanisms, data governance policies, and audit capabilities to manage the risks associated with AI agents interacting with sensitive corporate data and applications.",
+      "tags": [
+        "agents",
+        "product",
+        "enterprise",
+        "consumer"
+      ]
+    },
+    {
+      "id": "19ad4fea4494",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-18T15:00:00.000Z",
+      "fetchedAt": "2026-09-18T17:01:22.899Z",
+      "contentText": null,
+      "summary": "Robinhood's VP of Product Management, Abhishek Fatehpuria, will speak at TechCrunch Disrupt 2026 about how technology and evolving consumer expectations are reshaping financial services. Robinhood has expanded beyond commission-free stock trading to offer a wide range of financial products, including AI-powered investing tools like Agentic Trading, and has seen significant customer adoption across its new offerings. The company aims to become a comprehensive financial platform, moving beyond individual products to manage customers' entire financial lives.",
+      "enterpriseAngle": "Enterprise product development teams in fintech must focus on building trusted, intuitive, and responsive products at massive scale, integrating AI-powered tools while expanding into diverse financial services to meet changing consumer demands. The challenge lies in adding complexity without making the user experience feel complex, prioritizing customer trust and seamless integration across an expanding product ecosystem.",
+      "beginner": "Financial apps are adding more services like banking and credit, and using AI to help people manage their money, making them more like a one-stop shop for all financial needs.",
+      "advanced": "To capture greater wallet share, product leaders should analyze how AI-powered agents and prediction markets are driving engagement and consider integrating similar personalized, instant-access features into their own financial ecosystems, while meticulously managing complexity to maintain a seamless user experience.",
+      "tags": [
+        "product",
+        "enterprise",
+        "agents",
+        "consumer"
+      ]
+    },
+    {
+      "id": "58d1c7f5bb66",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Researchers used Anthropic's Claude to hack into OpenAI",
+      "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+      "publishedAt": "2026-09-18T14:00:14.000Z",
+      "fetchedAt": "2026-09-18T17:01:22.899Z",
+      "contentText": null,
+      "summary": "Security researchers leveraged Anthropic's Claude to identify and exploit vulnerabilities within OpenAI's systems. This allowed them to compromise employee accounts and access an internal code repository before they disclosed the security flaws.",
+      "enterpriseAngle": "This incident highlights the critical need for robust security testing and red-teaming strategies in AI product development, even when using competitor models as attack tools. Enterprise security teams must anticipate sophisticated attacks that could exploit vulnerabilities across different AI platforms and integrations.",
+      "beginner": "Even advanced AI models can be used to find weaknesses in other AI systems, showing that no technology is perfectly secure.",
+      "advanced": "Implement cross-platform red-teaming exercises using diverse LLMs to proactively identify and mitigate novel attack vectors targeting integrated AI systems and internal infrastructure.",
+      "tags": [
+        "security",
+        "research",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "c72f60fcf6ad",
+      "source": "google-ai",
+      "sourceName": "Google AI",
+      "tier": "realtime",
+      "title": "New experts join Google’s AI & Economy team",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+      "publishedAt": "2026-09-18T14:00:00.000Z",
+      "fetchedAt": "2026-09-18T17:01:21.383Z",
+      "contentText": null,
+      "summary": "Google is expanding its AI & Economy Research Program by adding Nobel Laureate Philippe Aghion, Professor Ajay Agrawal, and new directors Anu Madgavkar and Daniel Rock. This initiative aims to deepen the scientific understanding of AI's impact on global economic activity, including jobs, productivity, and enterprise growth. The team will analyze real-time data to help organizations, workers, and policymakers navigate the complex shifts brought about by artificial intelligence.",
+      "enterpriseAngle": "Enterprise leaders can leverage the research from Google's expanded AI & Economy team to better understand AI adoption patterns, labor market shifts, and productivity impacts, informing their strategic planning and workforce development initiatives. This research will provide data-driven insights for businesses to adapt to AI-driven economic transformations and optimize their use of AI tools.",
+      "beginner": "Google is bringing in top economic experts to study how AI changes jobs and businesses around the world.",
+      "advanced": "Leverage the ongoing research from Google's AI & Economy program, particularly the ATLAS updates and empirical findings, to refine your organization's AI adoption strategies, anticipate labor market restructuring, and measure productivity gains from frontier models.",
+      "tags": [
+        "research",
+        "enterprise",
+        "workforce",
+        "policy"
+      ]
+    },
+    {
+      "id": "de43352a546a",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-18T14:00:00.000Z",
+      "fetchedAt": "2026-09-18T17:01:22.899Z",
+      "contentText": null,
+      "summary": "TechCrunch Disrupt 2026 is closing exhibit table bookings tonight, September 18, at 11:59 p.m. PT. The event, taking place from October 13-15 in San Francisco, will host over 10,000 founders, investors, operators, and tech leaders. Startups can showcase their products, meet VCs, generate leads, and secure partnerships through an exhibit package.",
+      "enterpriseAngle": "Enterprise product development and security teams can leverage events like TechCrunch Disrupt to identify emerging startups for potential partnerships, investment, or acquisition, helping to scout innovative solutions or integrate new technologies into their offerings.",
+      "beginner": "Large tech conferences are places where new companies show off their ideas and try to find partners or money to grow.",
+      "advanced": "Evaluate the ROI of exhibiting at or attending major tech conferences by assessing lead generation potential, investor access, and competitive intelligence gathering against the cost of participation.",
+      "tags": [
+        "enterprise",
+        "product",
+        "partnership",
+        "funding"
+      ]
+    },
+    {
+      "id": "94ad9f737cb6",
+      "source": "google-ai",
+      "sourceName": "Google AI",
+      "tier": "realtime",
+      "title": "Co-creating the future of fashion with Google",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+      "publishedAt": "2026-09-18T13:00:00.000Z",
+      "fetchedAt": "2026-09-18T17:01:21.383Z",
+      "contentText": null,
+      "summary": "Google's Envisioning Studio collaborated with fashion designers Jane Wade and Sergio Hudson to develop custom AI tools within Google Flow. These tools helped Jane virtually style runway looks and allowed Sergio to visualize his show within budget constraints for New York Fashion Week. Users can now create their own custom design tools in Google Flow using natural language without needing coding skills.",
+      "enterpriseAngle": "Enterprise product development teams can leverage platforms like Google Flow to create industry-specific AI tools that streamline complex workflows, reduce operational costs, and accelerate creative processes for their clients, even for non-technical users.",
+      "beginner": "AI tools like Google Flow can help creative professionals, such as fashion designers, save time and resources by automating tedious tasks and allowing for virtual experimentation.",
+      "advanced": "Explore Google Flow's natural language tool-building capabilities to rapidly prototype and deploy bespoke AI solutions tailored to specific departmental or client needs, focusing on workflow optimization and cost reduction.",
+      "tags": [
+        "product",
+        "enterprise",
+        "coding"
+      ]
+    },
+    {
+      "id": "84145fbe5ff7",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "Could AI really kill us all? Your questions, answered.",
+      "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+      "publishedAt": "2026-09-18T11:29:22.000Z",
+      "fetchedAt": "2026-09-18T17:01:23.430Z",
+      "contentText": null,
+      "summary": "MIT Technology Review held a subscriber event to discuss the question of whether AI could pose an existential threat to humanity. Due to time constraints, many attendee questions remained unanswered.",
+      "enterpriseAngle": "Enterprise security teams should consider the broader societal discussions around AI risk as they develop internal AI governance and risk management frameworks.",
+      "beginner": "Some people are worried that advanced AI could become dangerous to humans.",
+      "advanced": "Integrate discussions on AI safety and existential risk into your organization's long-term AI strategy and ethical guidelines.",
+      "tags": [
+        "governance",
+        "policy"
+      ]
+    },
     {
       "id": "6f911ec31259",
       "source": "techcrunch-ai",
@@ -292,6 +477,27 @@
         "infrastructure",
         "partnership",
         "product"
+      ]
+    },
+    {
+      "id": "964ae1dd0fac",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "url": "https://openai.com/index/cooley-gopublic",
+      "publishedAt": "2026-09-17T12:00:00.000Z",
+      "fetchedAt": "2026-09-18T17:01:21.102Z",
+      "contentText": null,
+      "summary": "Cooley, an international law firm, has developed \"GO Public,\" a proprietary AI product built on ChatGPT Work to accelerate the initial public offering (IPO) process. This tool helps lawyers synthesize vast amounts of information, identify issues earlier, and create tailored starting points for IPOs, allowing legal teams to focus on strategic decision-making. By leveraging AI, Cooley aims to improve efficiency and quality in capital markets transactions.",
+      "enterpriseAngle": "Enterprise legal and product development teams can learn from Cooley's approach to integrating AI: by building proprietary agentic systems on existing AI platforms, they can automate information synthesis and streamline complex workflows, freeing up expert personnel for higher-value tasks and strategic oversight. This demonstrates a clear path for enterprises to productize their internal expertise using AI.",
+      "beginner": "AI can help professionals like lawyers handle large amounts of information faster, allowing them to spend more time on important decisions.",
+      "advanced": "Experienced practitioners should investigate how to build controlled, agentic workflows on top of foundational AI models to productize domain expertise, ensuring human oversight at critical validation points to maintain quality and accountability.",
+      "tags": [
+        "enterprise",
+        "product",
+        "agents",
+        "partnership"
       ]
     },
     {

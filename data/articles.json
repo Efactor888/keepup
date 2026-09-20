@@ -1,6 +1,88 @@
 {
-  "updatedAt": "2026-09-20T16:44:21.356Z",
+  "updatedAt": "2026-09-20T23:08:24.284Z",
   "articles": [
+    {
+      "id": "caea4d57fd61",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "World model companies are keeping a lot of secrets",
+      "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "publishedAt": "2026-09-20T20:29:07.000Z",
+      "fetchedAt": "2026-09-20T23:07:47.742Z",
+      "contentText": null,
+      "summary": "Companies developing \"world models\" are receiving significant investment and attention, yet they are highly secretive about their projects. Both company founders and their data suppliers are reluctant to disclose details about what they are creating.",
+      "enterpriseAngle": "The lack of transparency from world model developers poses challenges for enterprise security and product teams in assessing risks, ensuring compliance, and integrating these potentially powerful but opaque technologies responsibly.",
+      "beginner": "World models are a new type of AI that companies are developing, but they are not sharing details about how they work.",
+      "advanced": "Evaluate the long-term implications of integrating black-box world models into enterprise systems, focusing on potential data governance, explainability, and supply chain security risks.",
+      "tags": [
+        "enterprise",
+        "governance",
+        "research"
+      ]
+    },
+    {
+      "id": "773aac6433e1",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Is the AI industry really ready to slow down?",
+      "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+      "publishedAt": "2026-09-20T18:56:04.000Z",
+      "fetchedAt": "2026-09-20T23:07:47.742Z",
+      "contentText": null,
+      "summary": "A debate is ongoing within the AI industry regarding the necessity and feasibility of slowing down AI development for safety, with some leaders like Anthropic's Dario Amodei proposing a \"pace the frontier\" plan involving third-party evaluators and international coordination. However, others, including Nvidia's Jensen Huang, argue against a slowdown and regulation, aligning with views that the AI backlash is exaggerated. Critics of the slowdown plan note its lack of specific details and question the industry's genuine commitment, especially given the potential for market consolidation and the current regulatory environment.",
+      "enterpriseAngle": "Enterprise security and product development teams face a complex landscape where some industry leaders advocate for a cautious, regulated approach to AI development, while others push for rapid advancement. This divergence means enterprises must navigate evolving safety standards and potential regulatory changes, while also considering the competitive implications of either embracing or resisting a slowdown in AI innovation.",
+      "beginner": "Some leaders in the AI industry want to slow down how fast AI is developed to make sure it's safe, but others believe this isn't necessary and could hinder progress.",
+      "advanced": "Evaluate the proposed \"pace the frontier\" framework for its potential impact on your AI development roadmap, considering both the risks of non-compliance with future safety standards and the competitive advantages of continued rapid innovation in the absence of clear, enforceable industry-wide slowdowns.",
+      "tags": [
+        "policy",
+        "governance",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "cac0b3905995",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Vocci's ring adds a new form factor to meeting note-taking",
+      "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+      "publishedAt": "2026-09-20T18:32:52.000Z",
+      "fetchedAt": "2026-09-20T23:07:47.742Z",
+      "contentText": null,
+      "summary": "Vocci has launched a new ring-shaped device designed for meeting note-taking, offering a convenient form factor for recording conversations. While the hardware excels at capturing accurate transcripts even in noisy environments, the accompanying software is described as confusing and lacking in integration with other apps. The device also raises privacy concerns due to its discreet appearance and the inward-facing recording indicator.",
+      "enterpriseAngle": "Enterprise product development teams should consider the balance between discreet form factors and clear privacy indicators when designing wearable recording devices, especially given legal and ethical requirements for disclosure. Security teams should be aware of the potential for misuse of such devices for surreptitious recording within corporate environments.",
+      "beginner": "Vocci's new ring lets you record meetings easily, but its app can be tricky to use, and it's important to be mindful of privacy when recording others.",
+      "advanced": "Evaluate the integration capabilities of meeting transcription devices with existing enterprise workflows and reminder systems, and prioritize solutions with robust, user-configurable privacy safeguards and clear recording disclosures.",
+      "tags": [
+        "product",
+        "consumer",
+        "security",
+        "hardware"
+      ]
+    },
+    {
+      "id": "f4686059b250",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "ScrollEd wants to turn textbooks into TikTok",
+      "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+      "publishedAt": "2026-09-20T18:00:00.000Z",
+      "fetchedAt": "2026-09-20T23:07:47.742Z",
+      "contentText": null,
+      "summary": "ScrollEd is a Palo Alto startup that transforms traditional textbooks into an interactive, scrollable feed, similar to Instagram, incorporating video, audio, and quizzes. Founded by student co-founders Utsav Gupta and Rebecca Neff, the company is set to present its platform at TechCrunch Disrupt.",
+      "enterpriseAngle": "For enterprises in education technology, ScrollEd represents a potential shift in content delivery and engagement, highlighting the increasing demand for dynamic and interactive learning experiences. Product development teams should consider integrating similar multimedia and social-media-like features to enhance user engagement and retention in their educational offerings.",
+      "beginner": "ScrollEd makes learning from textbooks more like scrolling through social media, using videos and quizzes to make it more engaging.",
+      "advanced": "EdTech product managers should explore ScrollEd's user engagement metrics to inform strategies for integrating short-form multimedia and gamified assessment into enterprise learning platforms.",
+      "tags": [
+        "product",
+        "learning",
+        "consumer"
+      ]
+    },
     {
       "id": "410fb4adc82c",
       "source": "techcrunch-ai",

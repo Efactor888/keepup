@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-19T22:51:29.773Z",
+  "updatedAt": "2026-09-20T16:44:21.356Z",
   "articles": [
+    {
+      "id": "410fb4adc82c",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "6 days left to get ahead at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-20T14:00:00.000Z",
+      "fetchedAt": "2026-09-20T16:44:02.874Z",
+      "contentText": null,
+      "summary": "TechCrunch Disrupt 2026, a three-day event in San Francisco, will gather over 10,000 founders, investors, operators, and tech leaders to discuss ideas and opportunities in the startup ecosystem. The event will feature more than 250 speakers and 200 sessions covering topics from AI and robotics to fintech and the future of work. Attendees can save up to $200 on tickets if purchased by September 25.",
+      "enterpriseAngle": "Enterprise product development and security teams can gain insights into emerging technologies and strategic approaches to AI, competitive advantage, and scaling, which can inform their future roadmaps and risk assessments. The event also offers networking opportunities for potential partnerships and talent acquisition.",
+      "beginner": "TechCrunch Disrupt is a large conference where people involved in technology and startups meet to learn about new ideas, make connections, and see what's next in the industry, including AI.",
+      "advanced": "Leverage the AI-powered matchmaking and 1:1 meetings at Disrupt to strategically connect with potential investors, customers, and partners to accelerate product development and market entry for your enterprise solutions.",
+      "tags": [
+        "enterprise",
+        "product",
+        "partnership",
+        "funding"
+      ]
+    },
     {
       "id": "3c7d411657a0",
       "source": "techcrunch-ai",
@@ -388,6 +409,27 @@
       "enterpriseAngle": "Enterprises developing AI should consider the implications of industry-led \"pacing\" initiatives, as they could influence future regulatory landscapes and best practices for AI safety and development. Product teams may need to integrate independent safety evaluations into their development lifecycles to align with evolving industry standards.",
       "beginner": "AI leaders are discussing ways to slow down and make sure new AI technologies are safe before they are widely released.",
       "advanced": "Evaluate the feasibility and impact of integrating independent AI safety evaluations into your organization's development pipeline, anticipating potential shifts in industry governance and international collaboration frameworks.",
+      "tags": [
+        "governance",
+        "policy",
+        "enterprise",
+        "research"
+      ]
+    },
+    {
+      "id": "5b054754d625",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Automattic's 33-Hour Coup, and can AI labs police themselves?",
+      "url": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
+      "publishedAt": "2026-09-18T17:06:32.000Z",
+      "fetchedAt": "2026-09-20T16:44:02.874Z",
+      "contentText": null,
+      "summary": "Anthropic CEO Dario Amodei has proposed a plan to regulate AI development, emphasizing independent safety evaluations and collaboration among AI labs in democratic nations. This initiative follows a recent warning from an Anthropic researcher regarding potential AI risks. The proposal has garnered some industry backing but also faced criticism, notably from Nvidia's Jensen Huang.",
+      "enterpriseAngle": "Enterprises developing AI should monitor these regulatory discussions as they could influence future compliance requirements and the availability of safety evaluation frameworks. Product teams may need to integrate independent safety assessments into their development lifecycle to align with emerging industry standards.",
+      "beginner": "AI companies are starting to think about how to make sure their powerful AI systems are safe, and they're suggesting ways for different companies to work together on safety.",
+      "advanced": "Evaluate the feasibility of integrating independent safety evaluators into your AI development pipeline and consider participating in industry coordination efforts to shape future AI governance frameworks.",
       "tags": [
         "governance",
         "policy",

@@ -1,6 +1,89 @@
 {
-  "updatedAt": "2026-09-21T18:39:44.751Z",
+  "updatedAt": "2026-09-21T23:59:40.420Z",
   "articles": [
+    {
+      "id": "df69de99cbd8",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "The man who built Apple's stores doesn't buy Silicon Valley's bet on AI shopping",
+      "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+      "publishedAt": "2026-09-21T23:44:28.000Z",
+      "fetchedAt": "2026-09-21T23:58:53.873Z",
+      "contentText": null,
+      "summary": "Ron Johnson, who developed Apple's retail stores, believes that while AI will enhance online shopping, it won't fundamentally change how people shop, particularly for significant purchases. He argues that consumers will still prefer physical experiences for products like laptops and that AI agents will primarily serve to make shoppers more informed before visiting a store. Johnson emphasizes the importance of human interaction and product experience, which he believes AI cannot replicate.",
+      "enterpriseAngle": "Enterprise retail and product development teams should consider AI as a tool to augment the customer journey, providing better information and streamlining online processes, rather than a complete replacement for physical interaction and human sales expertise. Investing in physical store experiences and well-trained staff remains crucial for high-value or experiential products, even as AI advances.",
+      "beginner": "AI can help you find products online, but for big purchases, many people still want to see and touch items in a store.",
+      "advanced": "Integrate AI agents to pre-qualify and inform customers, then leverage this enhanced knowledge to optimize in-store experiences and sales associate interactions, focusing on experiential value that AI cannot deliver.",
+      "tags": [
+        "enterprise",
+        "product",
+        "consumer",
+        "agents"
+      ]
+    },
+    {
+      "id": "60d6567d7f21",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+      "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+      "publishedAt": "2026-09-21T20:15:58.000Z",
+      "fetchedAt": "2026-09-21T23:58:53.873Z",
+      "contentText": null,
+      "summary": "OpenAI has established a new independent advisory group, the Advisory Group on Mathematics and Artificial Intelligence, hosted at the Institute for Advanced Study. This group aims to integrate mathematicians' input into OpenAI's math research, following claims that OpenAI's AI has solved over 100 open mathematical problems, including the Navier-Stokes Millennium Prize problem. The creation of this group comes amidst concerns from some mathematicians about the rapid pace of AI-driven problem-solving and its potential impact on their field.",
+      "enterpriseAngle": "Enterprises leveraging AI for complex problem-solving, particularly in scientific or engineering domains, should consider establishing similar external advisory bodies to ensure rigor, address ethical concerns, and maintain community trust. While AI can accelerate discovery, the governance of its outputs and the integration of expert human oversight remain critical for responsible deployment and validation.",
+      "beginner": "OpenAI is creating a group of expert mathematicians to help guide its research, especially as its AI is solving very difficult math problems quickly.",
+      "advanced": "To mitigate potential backlash and ensure the validity of AI-generated solutions to grand challenge problems, establish independent, external advisory groups with clear mandates for assessment and coordination, while carefully defining their influence on internal research pacing.",
+      "tags": [
+        "research",
+        "governance",
+        "science",
+        "partnership"
+      ]
+    },
+    {
+      "id": "da4a505d91a6",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
+      "url": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-21T19:25:00.000Z",
+      "fetchedAt": "2026-09-21T23:58:53.873Z",
+      "contentText": null,
+      "summary": "TechCrunch Disrupt 2026, a conference for founders, investors, and operators, will take place from October 13-15 at Moscone West in San Francisco. Attendees have five days left to save up to $200 on tickets, with an additional 50% discount on a second pass. Ticket prices will increase after September 25 at 11:59 p.m. PT.",
+      "enterpriseAngle": "Enterprise leaders and product development teams can attend to network with founders and investors, discover emerging technologies, and identify potential partnerships or acquisition targets. The event offers a chance to gauge market trends and competitive landscapes.",
+      "beginner": "TechCrunch Disrupt is a large conference where people involved in starting and funding new companies meet to discuss new ideas and technologies.",
+      "advanced": "Leverage the early-bird discount to send key personnel to scout for disruptive technologies, assess startup innovation, and engage in strategic networking for future collaborations or talent acquisition.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "funding",
+        "product"
+      ]
+    },
+    {
+      "id": "365635f4f8ce",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Meta's Muse is outpacing ChatGPT’s early mobile launch",
+      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+      "publishedAt": "2026-09-21T19:19:21.000Z",
+      "fetchedAt": "2026-09-21T23:58:53.873Z",
+      "contentText": null,
+      "summary": "Meta's new AI agent, Muse, has surpassed ChatGPT's initial mobile launch performance in terms of downloads and daily active users in the U.S. and Canada. This data comes from Appfigures' estimates comparing the two platforms' early mobile adoption.",
+      "enterpriseAngle": "Enterprise product teams should analyze the factors contributing to Muse's rapid adoption to inform their own AI agent development and go-to-market strategies. The strong early performance of Muse indicates a growing user appetite for accessible AI tools, which could influence enterprise product roadmaps.",
+      "beginner": "Meta's new AI tool, Muse, is proving to be very popular on mobile devices, even more so than ChatGPT was when it first launched.",
+      "advanced": "Evaluate the UI/UX and integration strategies of Meta's Muse for insights into driving rapid mobile adoption for enterprise AI applications.",
+      "tags": [
+        "product",
+        "consumer",
+        "benchmark"
+      ]
+    },
     {
       "id": "11f6953e11ef",
       "source": "techcrunch-ai",
@@ -223,6 +306,27 @@
       "tags": [
         "policy",
         "governance"
+      ]
+    },
+    {
+      "id": "d37f5b2c5927",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "publishedAt": "2026-09-21T12:00:00.000Z",
+      "fetchedAt": "2026-09-21T23:58:52.645Z",
+      "contentText": null,
+      "summary": "Higgsfield AI, a startup focused on AI-powered video ad creation, has leveraged OpenAI's GPT-6 Astra to rapidly develop and deploy new features. This integration allows Higgsfield AI to help small businesses create diverse video ad variations more easily and quickly bring new creative tools to market. The company's CEO noted that GPT-6 Astra enabled a single engineer to deliver new exploration features within a day.",
+      "enterpriseAngle": "Enterprise product development teams can significantly accelerate their feature release cycles and enhance developer productivity by integrating advanced AI models like GPT-6 Astra for long-horizon task planning and multi-step work execution. This allows for faster iteration and delivery of new capabilities to end-users, including small businesses. Security teams should ensure that the integration of such powerful AI models adheres to data privacy and intellectual property guidelines, especially when generating creative content for clients.",
+      "beginner": "AI models like GPT-6 Astra can help companies build new tools and features much faster, making it easier for businesses to create things like video ads.",
+      "advanced": "Leverage advanced LLMs with long-horizon task planning capabilities to streamline multi-step engineering workflows, enabling single engineers to rapidly prototype and deploy complex features, while also implementing robust data governance for generated content.",
+      "tags": [
+        "product",
+        "enterprise",
+        "model-release",
+        "coding"
       ]
     },
     {

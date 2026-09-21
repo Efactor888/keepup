@@ -1,6 +1,293 @@
 {
-  "updatedAt": "2026-09-20T23:08:24.284Z",
+  "updatedAt": "2026-09-21T18:39:44.751Z",
   "articles": [
+    {
+      "id": "11f6953e11ef",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Meta's AI agent has been blocked from using Amazon.com",
+      "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+      "publishedAt": "2026-09-21T17:55:18.000Z",
+      "fetchedAt": "2026-09-21T18:35:22.026Z",
+      "contentText": null,
+      "summary": "Amazon has blocked Meta's AI assistant, Muse, from making purchases on its platform, citing a violation of its Conditions of Use by unauthorized AI agents. This action prevents users from buying goods through Muse on Amazon.com.",
+      "enterpriseAngle": "Enterprises developing AI agents for e-commerce must consider platform-specific terms of service and potential interoperability challenges, as major retailers may restrict AI-driven transactions due to liability concerns or competitive interests.",
+      "beginner": "AI assistants like Meta's Muse can be blocked by websites if they violate the site's rules, meaning you can't use them to shop there.",
+      "advanced": "Evaluate the legal and technical implications of agentic commerce integrations, prioritizing robust error handling and clear liability frameworks to mitigate risks associated with AI-driven transactions and potential platform restrictions.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product",
+        "policy"
+      ]
+    },
+    {
+      "id": "4c9291d46e14",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+      "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+      "publishedAt": "2026-09-21T16:38:51.000Z",
+      "fetchedAt": "2026-09-21T18:35:22.026Z",
+      "contentText": null,
+      "summary": "Ahad Ali, a former accountant, developed Tabby, an AI-powered real-time bookkeeping interface for small businesses. Tabby aims to automate bookkeeping by providing up-to-the-minute financial data, directly integrating with bank accounts via Plaid. The platform has garnered 5,500 small business users and is currently seeking $1 million in pre-seed funding.",
+      "enterpriseAngle": "Enterprise product development teams in the financial software sector should note Tabby's focus on direct-to-consumer automation and a natural language interface, which could disrupt traditional SaaS accounting models. Security teams must consider the implications of AI-driven real-time financial data integration and ensure robust data protection and compliance.",
+      "beginner": "Tabby is an AI tool that helps small businesses automatically manage their finances and see their profits and losses in real-time, aiming to simplify accounting.",
+      "advanced": "Evaluate the potential for AI-driven, direct-to-consumer financial automation platforms like Tabby to disintermediate existing enterprise accounting software solutions and explore integration strategies for real-time data feeds and natural language interfaces.",
+      "tags": [
+        "product",
+        "enterprise",
+        "funding",
+        "agents"
+      ]
+    },
+    {
+      "id": "09c1a4e0bc43",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-21T15:00:00.000Z",
+      "fetchedAt": "2026-09-21T18:35:22.026Z",
+      "contentText": null,
+      "summary": "Benchmark's full partnership will discuss the origins of future breakout startups at TechCrunch Disrupt 2026. Attendees can register now and save up to $200 before September 25.",
+      "enterpriseAngle": "Enterprise leaders and product development teams should monitor discussions from leading venture capital firms like Benchmark to identify emerging trends and potential areas for innovation and investment.",
+      "beginner": "Big investment firms like Benchmark often share their predictions about where new, successful companies will come from.",
+      "advanced": "Analyze venture capital firm insights from events like TechCrunch Disrupt to inform strategic planning for M&A, partnership opportunities, and internal R&D initiatives.",
+      "tags": [
+        "funding",
+        "enterprise",
+        "digest"
+      ]
+    },
+    {
+      "id": "298e70367333",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Google's $899 Googlebook is a bet that you'll buy a new laptop for Gemini",
+      "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+      "publishedAt": "2026-09-21T14:39:22.000Z",
+      "fetchedAt": "2026-09-21T18:35:22.026Z",
+      "contentText": null,
+      "summary": "Google has launched the Googlebook, an $899 AI-powered laptop designed to integrate Gemini's capabilities directly into the device. It runs on Android OS and features an AI-powered cursor, vibe-coded widgets, and an AI-enhanced dictation tool called Rambler. Google is betting that these AI features will entice consumers to purchase new hardware rather than relying on existing software solutions.",
+      "enterpriseAngle": "Enterprise product development teams should observe whether integrated AI hardware drives consumer adoption, as this could influence future strategies for embedding AI capabilities directly into devices rather than relying solely on cloud or software-based solutions. Security teams should consider the implications of AI-powered cursors and dictation tools on data privacy and potential new attack vectors if such features become widespread in enterprise hardware.",
+      "beginner": "Google's new laptop, the Googlebook, is designed to make using AI easier by building Google's Gemini AI directly into the computer itself.",
+      "advanced": "Evaluate the long-term viability of dedicated AI hardware given the rapid advancements in AI agents and cloud-based AI, and assess the potential for Googlebook's integrated AI features to set a new standard for enterprise device functionality and security requirements.",
+      "tags": [
+        "product",
+        "enterprise",
+        "consumer",
+        "hardware"
+      ]
+    },
+    {
+      "id": "899713e1c319",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-21T14:30:00.000Z",
+      "fetchedAt": "2026-09-21T18:35:22.026Z",
+      "contentText": null,
+      "summary": "Robby Stein, Google Search VP of Product, will speak at TechCrunch Disrupt 2026 about scaling products from initial concepts to billions of users, focusing on how product decisions must evolve. His session will address the challenges of balancing speed and innovation with trust and reliability when updates affect a global user base. Stein's experience spans startups and major tech companies, including his current work on generative AI products within Google Search.",
+      "enterpriseAngle": "Enterprise product development teams, especially those integrating AI, must adapt their decision-making processes as products scale, prioritizing reliability and user trust while continuing to innovate. This involves re-evaluating early-stage instincts and understanding when to shift from rapid experimentation to more deliberate, impactful changes.",
+      "beginner": "As a product grows from a small idea to something used by many people, the way decisions are made about it needs to change to keep users happy and trusting.",
+      "advanced": "When scaling AI-powered products, practitioners should critically assess the trade-offs between rapid iteration and maintaining user trust and reliability, leveraging insights from leaders who have navigated this transition across diverse product life cycles.",
+      "tags": [
+        "product",
+        "enterprise",
+        "learning",
+        "workforce"
+      ]
+    },
+    {
+      "id": "071762ab1b32",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-21T14:15:00.000Z",
+      "fetchedAt": "2026-09-21T18:35:22.026Z",
+      "contentText": null,
+      "summary": "TechCrunch Disrupt 2026 will feature a Startup Battlefield 200 competition judged by a new group of VCs. Attendees can register by September 25 to save money and watch the startup pitches.",
+      "enterpriseAngle": "While not directly about enterprise AI, events like Startup Battlefield can reveal emerging technologies and trends that may eventually impact enterprise product development or investment strategies.",
+      "beginner": "Startup competitions like this help new companies get noticed and potentially funded by investors.",
+      "advanced": "Monitor the Startup Battlefield 200 winners and participants for early indicators of disruptive technologies or investment opportunities in the AI space.",
+      "tags": [
+        "funding",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "a7ca59844a94",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "publishedAt": "2026-09-21T12:00:00.000Z",
+      "fetchedAt": "2026-09-21T18:35:19.637Z",
+      "contentText": null,
+      "summary": "OpenAI has formed an independent advisory group of mathematicians to guide the responsible development and deployment of its AI models, which have recently solved over 100 long-standing mathematical problems. This initiative responds to concerns from the mathematical community regarding the potential negative impacts of AI's rapid progress in this field. The group will advise on communicating results, supporting mathematical research and learning, and maintaining academic standards.",
+      "enterpriseAngle": "Enterprises developing advanced AI capabilities, especially in fundamental sciences, should consider establishing independent advisory bodies to ensure responsible development, address community concerns, and integrate expert feedback. This approach can help navigate ethical considerations and foster collaboration with affected professional communities.",
+      "beginner": "AI is becoming very good at solving complex math problems, and a new group of experts will help guide how this powerful technology is used responsibly.",
+      "advanced": "Establish an independent advisory framework for advanced AI research to proactively address ethical concerns, ensure community engagement, and guide the responsible dissemination and application of high-impact scientific discoveries.",
+      "tags": [
+        "research",
+        "governance",
+        "partnership",
+        "science"
+      ]
+    },
+    {
+      "id": "333806803f07",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+      "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+      "publishedAt": "2026-09-21T12:00:00.000Z",
+      "fetchedAt": "2026-09-21T18:35:22.354Z",
+      "contentText": null,
+      "summary": "A 15-month investigation by MIT Technology Review and Times of San Diego, titled \"Dying on Camera,\" is examining deaths near US-Mexico border surveillance towers. The investigation seeks to understand why fatalities occur in areas equipped with government surveillance technology designed for tracking and apprehension. This collaborative effort aims to map these deaths comprehensively.",
+      "enterpriseAngle": "For enterprises involved in surveillance technology or border security, this investigation highlights the critical need to evaluate the humanitarian impact and effectiveness of deployed systems. It underscores the importance of considering ethical implications and potential unintended consequences when developing and implementing advanced monitoring solutions.",
+      "beginner": "Journalists are studying deaths near border surveillance towers to understand if technology meant to help track people might also be linked to fatalities.",
+      "advanced": "Integrate ethical AI frameworks and comprehensive impact assessments into the development and deployment lifecycle of surveillance technologies to proactively identify and mitigate adverse humanitarian outcomes.",
+      "tags": [
+        "research",
+        "policy",
+        "governance"
+      ]
+    },
+    {
+      "id": "f19c641f8d57",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+      "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+      "publishedAt": "2026-09-21T12:00:00.000Z",
+      "fetchedAt": "2026-09-21T18:35:22.354Z",
+      "contentText": null,
+      "summary": "An investigation by MIT Technology Review found instances where individuals died near the US-Mexico border after passing undetected through areas monitored by AI-enabled surveillance towers. Their bodies remained unnoticed for extended periods, despite the presence of advanced monitoring technology.",
+      "enterpriseAngle": "Enterprise security teams deploying AI-powered surveillance or monitoring systems must rigorously test for real-world failure modes and integrate robust human oversight and response protocols to prevent critical oversights and ensure ethical operation.",
+      "beginner": "Even advanced AI surveillance systems can fail to detect important events, leading to serious consequences.",
+      "advanced": "Implement a multi-layered detection strategy combining AI with human-in-the-loop verification and establish clear protocols for responding to both AI-generated alerts and potential system blind spots.",
+      "tags": [
+        "security",
+        "policy",
+        "research"
+      ]
+    },
+    {
+      "id": "c66c5cd73f99",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+      "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+      "publishedAt": "2026-09-21T12:00:00.000Z",
+      "fetchedAt": "2026-09-21T18:35:22.354Z",
+      "contentText": null,
+      "summary": "José Morales Bernal's border crossing in April 2024, near his 32nd birthday, should have activated a series of technological alerts and human responses, as he was within range of three newly installed surveillance towers in southern New Mexico. Despite billions spent on border surveillance technology, the system failed to prevent his death. This incident highlights a critical gap between the investment in surveillance infrastructure and its effectiveness in preventing fatalities.",
+      "enterpriseAngle": "Enterprises developing or deploying surveillance technologies should prioritize not only detection capabilities but also the integration of these systems with effective human response protocols to ensure the technology achieves its intended safety and security outcomes. This case underscores the importance of evaluating the real-world impact and ethical implications of surveillance systems beyond mere technical specifications.",
+      "beginner": "Even with advanced technology like surveillance towers, human lives can still be at risk if the systems aren't designed to trigger effective help when needed.",
+      "advanced": "Security and product teams must move beyond mere deployment metrics to rigorously assess the end-to-end efficacy of surveillance systems, including their integration with human-in-the-loop response mechanisms and ethical considerations regarding life preservation.",
+      "tags": [
+        "security",
+        "infrastructure",
+        "policy"
+      ]
+    },
+    {
+      "id": "bb99e4e8a621",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "She died at the San Diego border. A surveillance camera was in plain sight",
+      "url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
+      "publishedAt": "2026-09-21T12:00:00.000Z",
+      "fetchedAt": "2026-09-21T18:35:22.354Z",
+      "contentText": null,
+      "summary": "The article describes the tragic death of Graciela Gómez Hernández, a 30-year-old woman who became lost after crossing the border from Tijuana into Southern California. She was sending voice messages to her family during her journey.",
+      "enterpriseAngle": "While this article focuses on a personal tragedy, the presence of surveillance cameras in plain sight at the border highlights the ethical and privacy considerations for enterprises deploying monitoring technologies, especially concerning data handling and potential misuse.",
+      "beginner": "Surveillance cameras are common in many places, and this story shows how they are used at borders.",
+      "advanced": "Evaluate your organization's data retention policies and access controls for surveillance footage to ensure compliance with privacy regulations and ethical guidelines, particularly when deploying AI-powered monitoring systems in sensitive areas.",
+      "tags": [
+        "policy",
+        "governance"
+      ]
+    },
+    {
+      "id": "2c9792fbb14a",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Building standards for the next phase of AI",
+      "url": "https://openai.com/index/building-standards-next-phase-ai",
+      "publishedAt": "2026-09-21T10:00:00.000Z",
+      "fetchedAt": "2026-09-21T18:35:19.637Z",
+      "contentText": null,
+      "summary": "OpenAI emphasizes the need for international standards in AI development to ensure safety and alignment with human values, especially as AI systems become more capable and autonomous. They highlight the potential for automated AI research to accelerate progress, but also warn of risks if human control and oversight are lost. The company advocates for common measurements, incident reporting protocols, and robust safeguards to mitigate catastrophic AI risks.",
+      "enterpriseAngle": "Enterprise security and product development teams must prioritize integrating robust safety and alignment mechanisms into their AI systems, understanding that international standards will likely shape future compliance and best practices. Developing internal protocols for incident reporting and risk assessment, aligned with emerging global guidelines, will be crucial for responsible AI deployment.",
+      "beginner": "As AI gets smarter, it's important to have rules and safety measures in place across different countries to make sure it helps people and stays under human control.",
+      "advanced": "Implement anticipatory governance frameworks and contribute to the development of international AI safety standards, focusing on verifiable alignment metrics and incident response protocols to manage the risks associated with increasingly autonomous AI research and development.",
+      "tags": [
+        "policy",
+        "governance",
+        "security",
+        "research"
+      ]
+    },
+    {
+      "id": "530db518a73a",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Expanding OpenAI Academy with new learning paths",
+      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "publishedAt": "2026-09-21T07:00:00.000Z",
+      "fetchedAt": "2026-09-21T18:35:19.637Z",
+      "contentText": null,
+      "summary": "OpenAI has expanded its OpenAI Academy with new role-based learning paths designed for developers, leaders, educators, and college students. These new courses complement the existing \"Apply AI at Work\" pathway, aiming to help individuals and organizations build practical AI skills and integrate AI safely and effectively into their daily work. Learners practice on real tasks and can earn course badges by passing assessments.",
+      "enterpriseAngle": "Enterprise security and product development teams can leverage these new learning paths to upskill their workforce, ensuring employees from various roles, including developers and leaders, understand how to build, deploy, and manage AI systems responsibly and effectively within the organization. The courses help establish shared habits for AI adoption and provide a structured way to develop role-specific AI competencies.",
+      "beginner": "OpenAI Academy offers courses to help anyone, from students to leaders, learn how to use AI tools effectively in their specific jobs and daily tasks.",
+      "advanced": "Integrate OpenAI Academy's role-specific learning paths, particularly \"Build with AI\" and \"Lead AI Adoption,\" into your enterprise's continuous learning programs to standardize AI development practices and strategic AI deployment across technical and leadership teams.",
+      "tags": [
+        "learning",
+        "enterprise",
+        "product",
+        "workforce"
+      ]
+    },
+    {
+      "id": "d1749ba76a98",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "How V7 gives AI agents institutional memory",
+      "url": "https://openai.com/index/v7",
+      "publishedAt": "2026-09-21T00:00:00.000Z",
+      "fetchedAt": "2026-09-21T18:35:19.637Z",
+      "contentText": null,
+      "summary": "V7 Go is an agentic platform that transforms company files into structured context for AI agents, enabling them to understand business operations and execute complex workflows. By organizing scattered internal data into a \"Context Graph,\" V7 Go allows OpenAI's GPT models to achieve high accuracy on demanding queries and complete multi-step tasks much faster than traditional methods. This approach provides AI agents with institutional memory, significantly improving efficiency and reducing costs in document-heavy industries like finance and insurance.",
+      "enterpriseAngle": "Enterprise product and security teams can leverage platforms like V7 Go to build more reliable and accurate AI agents by providing them with structured, auditable access to internal company knowledge, which is crucial for mission-critical workflows and data protection. This approach helps reduce hallucinations and ensures AI systems are grounded in enterprise-specific information, enhancing trust and compliance.",
+      "beginner": "AI agents can be taught to understand a company's unique information by organizing all its documents and data into a connected memory system, making the AI much smarter and more reliable for business tasks.",
+      "advanced": "Implement a Context Graph architecture to provide AI agents with structured, auditable institutional memory, leveraging advanced RAG and graph traversal for improved accuracy and reduced hallucination rates in complex, multi-step enterprise workflows.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product",
+        "infrastructure"
+      ]
+    },
     {
       "id": "caea4d57fd61",
       "source": "techcrunch-ai",

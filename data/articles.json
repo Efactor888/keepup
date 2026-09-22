@@ -1,6 +1,171 @@
 {
-  "updatedAt": "2026-09-21T23:59:40.420Z",
+  "updatedAt": "2026-09-22T17:37:34.663Z",
   "articles": [
+    {
+      "id": "f07639ae5e3d",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+      "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+      "publishedAt": "2026-09-22T16:30:07.000Z",
+      "fetchedAt": "2026-09-22T17:35:48.780Z",
+      "contentText": null,
+      "summary": "Anthropic has released Opus 5.5, its latest and most advanced AI model, which reportedly outperforms the larger Fable model in various benchmarks, particularly in coding and knowledge work. The new model is also more affordable, with reduced pricing for output tokens, and features improved communication that is less jargon-filled. This release follows Anthropic's CEO's commitment to deliberately pace AI capabilities to allow alignment and safety measures to catch up.",
+      "enterpriseAngle": "Enterprise product development teams can leverage Opus 5.5's enhanced coding and knowledge work performance, along with its lower cost and improved communication, to build more efficient and user-friendly AI applications. Security teams should note the continued safeguards for biology and cybersecurity capabilities, ensuring responsible deployment while anticipating more advanced security and monitoring systems in future models.",
+      "beginner": "Anthropic's new AI model, Opus 5.5, is smarter and cheaper than previous versions, making it easier for computers to understand and use.",
+      "advanced": "Integrate Opus 5.5 for advanced coding and knowledge automation tasks, leveraging its improved performance and cost efficiency, while closely monitoring Anthropic's upcoming security and monitoring system enhancements for future model deployments.",
+      "tags": [
+        "model-release",
+        "enterprise",
+        "coding",
+        "security"
+      ]
+    },
+    {
+      "id": "2bcfe8147944",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "AstroForge is putting AI in command of its next spacecraft",
+      "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+      "publishedAt": "2026-09-22T15:00:00.000Z",
+      "fetchedAt": "2026-09-22T17:35:48.780Z",
+      "contentText": null,
+      "summary": "AstroForge, a startup focused on asteroid mining, is developing an autonomous control system called \"Solo\" for its spacecraft, utilizing a transformer-based AI model. This system aims to enable spacecraft to resolve issues independently, reducing reliance on constant communication with Earth-based flight controllers. The company plans to test Solo in \"shadow mode\" on its DeepSpace-2 mission by late 2026, with a fully autonomous mission, Autonomy-1, slated for 2027.",
+      "enterpriseAngle": "Enterprise product development teams can learn from AstroForge's approach to integrating advanced AI for autonomous operations, particularly in environments with limited human intervention and communication, to enhance system resilience and reduce operational costs. This also highlights a growing trend in leveraging AI for complex, real-time decision-making in critical infrastructure.",
+      "beginner": "A company called AstroForge is teaching its space robots to fix their own problems using AI, so they don't need constant help from people on Earth.",
+      "advanced": "Evaluate the feasibility and risk profile of deploying transformer-based models for real-time, constrained autonomy in mission-critical systems, focusing on the trade-offs between ground network investment and onboard AI capabilities for anomaly resolution and operational independence.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "1bb4b69fa852",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+      "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+      "publishedAt": "2026-09-22T15:00:00.000Z",
+      "fetchedAt": "2026-09-22T17:35:48.780Z",
+      "contentText": null,
+      "summary": "TechCrunch Disrupt 2026 will feature five sessions dedicated to AI safety, with speakers from companies like Anthropic, Nvidia, AWS, and Waabi. Attendees can register before September 25 to receive a discount.",
+      "enterpriseAngle": "Enterprise leaders should note the emphasis on AI safety at a major tech conference, indicating a growing industry focus on responsible AI development and deployment. This trend suggests that security and governance will be increasingly important considerations for product development and operational teams.",
+      "beginner": "Major tech conferences are starting to focus on making sure AI is built and used safely.",
+      "advanced": "Prioritize attending sessions on AI safety at industry events to gain insights into emerging best practices and regulatory considerations for secure and ethical AI integration.",
+      "tags": [
+        "governance",
+        "enterprise",
+        "product",
+        "security"
+      ]
+    },
+    {
+      "id": "e5bfcbc26e07",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
+      "url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
+      "publishedAt": "2026-09-22T14:30:00.000Z",
+      "fetchedAt": "2026-09-22T17:35:48.780Z",
+      "contentText": null,
+      "summary": "Hello Robot CEO Aaron Edsinger will demonstrate the Stretch 4 robot live at TechCrunch Disrupt 2026. Attendees can register by September 25 to receive a discount on passes.",
+      "enterpriseAngle": "Enterprises interested in robotics and automation should monitor the Stretch 4's capabilities for potential applications in logistics, manufacturing, or service industries.",
+      "beginner": "A new robot called Stretch 4 will be shown off live at a big tech event.",
+      "advanced": "Evaluate the Stretch 4's real-world performance during the live demo for its suitability in specific enterprise automation workflows and integration with existing systems.",
+      "tags": [
+        "product",
+        "enterprise",
+        "hardware"
+      ]
+    },
+    {
+      "id": "e53b61fdb1a9",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/",
+      "publishedAt": "2026-09-22T14:15:00.000Z",
+      "fetchedAt": "2026-09-22T17:35:48.780Z",
+      "contentText": null,
+      "summary": "TechCrunch Disrupt 2026 has reopened its exhibitor program, offering startups a final opportunity to book an exhibit table by September 30. This event, held from October 13-15 at SF's Moscone West, provides a platform to showcase innovations to over 10,000 founders, investors, and tech leaders.",
+      "enterpriseAngle": "Enterprise AI startups can leverage this opportunity to gain visibility among potential investors and partners, accelerating product development and market entry.",
+      "beginner": "Startups can exhibit their new AI ideas at a big tech conference to meet people who might invest in or partner with them.",
+      "advanced": "Prioritize securing an exhibit table to demo your latest AI product or service, focusing on investor pitches and strategic networking to drive enterprise adoption.",
+      "tags": [
+        "enterprise",
+        "product",
+        "funding",
+        "partnership"
+      ]
+    },
+    {
+      "id": "c04970b62db7",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-22T14:00:00.000Z",
+      "fetchedAt": "2026-09-22T17:35:48.780Z",
+      "contentText": null,
+      "summary": "TechCrunch Disrupt 2026, taking place October 13-15 in San Francisco, offers attendees the opportunity to gain diverse perspectives on the rapidly evolving tech landscape. The event will feature over 200 sessions with 250+ tech leaders, covering topics such as AI, robotics, infrastructure, and new financial models. Attendees can save up to $200 on passes if they register before September 25.",
+      "enterpriseAngle": "Enterprise leaders and product development teams can leverage the event to understand how AI is reshaping product development, assess emerging infrastructure demands, and gain insights into the future of agents and automation within their organizations. The diverse perspectives offered can help inform strategic decisions on technology adoption, investment, and team structuring.",
+      "beginner": "TechCrunch Disrupt is a conference where you can learn about new technologies like AI and robotics from many different experts.",
+      "advanced": "To maximize value, prioritize sessions and networking opportunities that directly address strategic challenges in AI defensibility, infrastructure constraints, or the integration of physical AI, and utilize AI-powered matchmaking to connect with relevant founders and investors.",
+      "tags": [
+        "enterprise",
+        "product",
+        "infrastructure",
+        "learning"
+      ]
+    },
+    {
+      "id": "3178ac7a6d69",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+      "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+      "publishedAt": "2026-09-22T13:42:05.000Z",
+      "fetchedAt": "2026-09-22T17:35:49.071Z",
+      "contentText": null,
+      "summary": "A recent investigation by MIT Technology Review has revealed that the \"virtual wall\" of surveillance towers along the US southern border, despite billions spent over 25 years, has failed to prevent over a thousand border crossings in monitored areas. The technology was intended to detect and apprehend individuals and save lives, but its effectiveness is now being questioned.",
+      "enterpriseAngle": "Enterprises developing or deploying surveillance technologies should critically evaluate their real-world efficacy and ethical implications, especially when human lives are at stake. This case highlights the potential for significant investment in technology to not yield promised safety or operational benefits.",
+      "beginner": "Even advanced surveillance technology can have serious limitations and may not always achieve its intended goals, especially in complex real-world situations.",
+      "advanced": "When implementing large-scale surveillance or detection systems, prioritize rigorous, independent third-party validation of real-world performance metrics over vendor claims, and establish clear, measurable success criteria beyond simple deployment.",
+      "tags": [
+        "research",
+        "policy",
+        "security"
+      ]
+    },
+    {
+      "id": "4c16a55043f0",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "Don’t be fooled by this summer of AI hype",
+      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+      "publishedAt": "2026-09-22T11:04:51.000Z",
+      "fetchedAt": "2026-09-22T17:35:49.071Z",
+      "contentText": null,
+      "summary": "Recent months have seen significant AI hype, including Anthropic's claim that its Claude Mythos model surpasses human experts in identifying software vulnerabilities. This period also included hacking incidents involving OpenAI, Hugging Face, Anthropic, and Meta models.",
+      "enterpriseAngle": "Enterprise security teams should critically evaluate vendor claims about AI model capabilities in vulnerability detection and be aware of the increasing risk of AI model-related hacking incidents.",
+      "beginner": "AI models are being developed to find security flaws, but they can also be targets or vectors for hacking.",
+      "advanced": "Implement robust security testing and incident response protocols for AI-powered tools, especially those interacting with sensitive codebases, and scrutinize vendor security claims with independent verification.",
+      "tags": [
+        "security",
+        "model-release",
+        "enterprise"
+      ]
+    },
     {
       "id": "df69de99cbd8",
       "source": "techcrunch-ai",

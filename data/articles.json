@@ -1,6 +1,214 @@
 {
-  "updatedAt": "2026-09-22T23:34:53.033Z",
+  "updatedAt": "2026-09-23T17:49:07.408Z",
   "articles": [
+    {
+      "id": "7cff1964bf19",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "url": "https://openai.com/index/ringg",
+      "publishedAt": "2026-09-24T12:00:00.000Z",
+      "fetchedAt": "2026-09-23T17:47:32.789Z",
+      "contentText": null,
+      "summary": "Ringg, an AI agent platform, uses OpenAI's GPT-5.6 to resolve up to 65% of customer calls across various channels like voice, chat, and WhatsApp. This approach has reduced model costs by 90% compared to GPT-4.1 while maintaining high customer satisfaction. Ringg's system intelligently routes tasks to different OpenAI models based on specific requirements, such as real-time interaction or post-call analysis.",
+      "enterpriseAngle": "Enterprises can leverage AI agent platforms like Ringg to significantly reduce customer service costs and improve efficiency by automating a large percentage of customer interactions, freeing human agents for more complex issues. The strategic use of different AI models for specific tasks, combined with robust evaluation processes, is crucial for optimizing performance and cost-effectiveness in enterprise deployments.",
+      "beginner": "AI can help businesses answer customer questions and solve problems automatically, making customer service faster and cheaper.",
+      "advanced": "Implement a multi-model routing strategy for AI agents, leveraging specialized models for tasks like real-time interaction, post-call analysis, and evaluation to optimize cost, latency, and quality across diverse enterprise workloads.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product",
+        "model-release"
+      ]
+    },
+    {
+      "id": "be57f79d5784",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Even Americans who use AI every day are worried about it",
+      "url": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
+      "publishedAt": "2026-09-23T16:49:58.000Z",
+      "fetchedAt": "2026-09-23T17:47:34.408Z",
+      "contentText": null,
+      "summary": "A recent Gallup survey, commissioned by Microsoft and polling 37 countries, reveals that a significant portion of daily AI users in the U.S. (68%) are worried about the technology, with overall U.S. anxiety about AI at 74%. This contrasts with countries like Singapore and China, where most daily users expect AI to improve their lives. The study indicates that while curiosity about AI is widespread, trust in its accuracy remains low globally, with only 36% of respondents expressing high confidence.",
+      "enterpriseAngle": "Enterprise product development and security teams must recognize that user adoption does not equate to trust or comfort with AI, particularly in Western markets, necessitating transparent communication and robust safeguards to address public concerns about accuracy, job displacement, and potential misuse.",
+      "beginner": "Even people who use AI every day can still be worried about its impact on society and whether the information it provides is accurate.",
+      "advanced": "Integrate user sentiment data, especially from high-anxiety regions like the U.S., into your AI governance framework to proactively address public concerns regarding job impact, data privacy, and model accuracy, potentially influencing future regulatory landscapes and market acceptance.",
+      "tags": [
+        "research",
+        "governance",
+        "consumer",
+        "policy"
+      ]
+    },
+    {
+      "id": "9d02eeb8cef1",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Two years of OpenAI Academy",
+      "url": "https://openai.com/index/two-years-of-openai-academy",
+      "publishedAt": "2026-09-23T16:00:00.000Z",
+      "fetchedAt": "2026-09-23T17:47:32.789Z",
+      "contentText": null,
+      "summary": "OpenAI Academy has provided practical AI training to over 4 million people through more than 250 events in the past two years. The Academy offers self-paced courses, guides, workshops, and AI Skills Jams, with new learning paths for various professionals. OpenAI is expanding its reach by launching a Community Trainer Program to empower local organizations to teach AI skills.",
+      "enterpriseAngle": "Enterprises can leverage the OpenAI Academy's expanded training programs to upskill their workforce in AI applications, ensuring employees have the practical skills to integrate AI into their daily tasks and problem-solving.",
+      "beginner": "OpenAI Academy helps people learn how to use AI tools like ChatGPT for everyday tasks, from teaching to running a business.",
+      "advanced": "Explore the new Community Trainer Program to potentially integrate OpenAI Academy curriculum into your organization's internal training initiatives, fostering localized AI expertise and adoption.",
+      "tags": [
+        "enterprise",
+        "workforce",
+        "learning",
+        "product"
+      ]
+    },
+    {
+      "id": "02b2e87836a2",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "YouTube Music gets more conversational with new AI features",
+      "url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
+      "publishedAt": "2026-09-23T15:19:30.000Z",
+      "fetchedAt": "2026-09-23T17:47:34.408Z",
+      "contentText": null,
+      "summary": "YouTube Music is introducing new AI features, \"Ask Music\" and \"Your Podcast Lineup,\" to enhance music and podcast discovery. \"Ask Music\" allows users to use conversational language to find music, create queues, and explore artist details across YouTube Music's extensive catalog. \"Your Podcast Lineup\" offers personalized, AI-generated audio previews of recommended podcasts to help users discover new shows.",
+      "enterpriseAngle": "These consumer-facing AI features demonstrate how large language models can be integrated into existing products to improve user experience through natural language interaction and personalized content curation, offering a blueprint for other enterprises. Product development teams can learn from YouTube's approach to leverage AI for discovery and engagement, potentially reducing friction in user journeys.",
+      "beginner": "AI is making it easier to find new music and podcasts by understanding what you want to hear through everyday language and suggesting shows you might like.",
+      "advanced": "Evaluate the efficacy of conversational AI for content discovery and personalized curation within your product roadmap, considering the potential for increased user engagement and reduced churn through intuitive, natural language interfaces.",
+      "tags": [
+        "product",
+        "consumer",
+        "agents"
+      ]
+    },
+    {
+      "id": "f28c995c4f3c",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "YouTube will let you build your own algorithm with AI",
+      "url": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
+      "publishedAt": "2026-09-23T14:30:00.000Z",
+      "fetchedAt": "2026-09-23T17:47:34.409Z",
+      "contentText": null,
+      "summary": "YouTube is introducing \"custom feeds,\" an AI-powered feature that allows users to describe their desired video recommendations in natural language. Leveraging Google's Gemini AI model, these personalized feeds will appear as pinned tabs on the YouTube homepage, offering a tailored viewing experience. This initiative aims to help users navigate the platform's vast content library more effectively.",
+      "enterpriseAngle": "For enterprises, this feature highlights the growing trend of AI-driven personalization in consumer-facing products, suggesting that similar AI-powered customization could enhance user engagement and content discoverability within enterprise applications or internal knowledge platforms. Product development teams should consider how AI can empower users to define their own content consumption experiences.",
+      "beginner": "YouTube is using AI to let you tell it exactly what kind of videos you want to see, making your recommendations much more personal.",
+      "advanced": "Leverage prompt-based AI for user-defined content curation to improve discoverability and engagement within your product, focusing on detailed user input to refine recommendation algorithms.",
+      "tags": [
+        "product",
+        "consumer",
+        "agents",
+        "learning"
+      ]
+    },
+    {
+      "id": "ad9b5464300c",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "YouTube releases new AI features for creators within its Studio app",
+      "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
+      "publishedAt": "2026-09-23T14:30:00.000Z",
+      "fetchedAt": "2026-09-23T17:47:34.409Z",
+      "contentText": null,
+      "summary": "YouTube has introduced new AI-powered features within its Studio app to assist creators in analyzing their videos, growing their audiences, and optimizing content. These updates include an expanded AI Q&A feature, AI-driven feedback on video drafts, and tools for generating and testing dynamic thumbnails and titles. The platform will also offer enhanced analytics that explain video performance and provide actionable advice.",
+      "enterpriseAngle": "Enterprise product development teams can learn from YouTube's approach to integrating AI features that directly address user pain points, such as content optimization and performance analysis, within an existing creator platform. This demonstrates how AI can be leveraged to provide personalized feedback and automate creative tasks, enhancing user productivity and engagement.",
+      "beginner": "YouTube is using AI to help people who make videos understand what works best and create better content more easily.",
+      "advanced": "Leverage AI to provide granular, actionable insights on content performance and automate A/B testing for creative assets, moving beyond raw metrics to prescriptive guidance for content optimization.",
+      "tags": [
+        "product",
+        "consumer",
+        "learning",
+        "agents"
+      ]
+    },
+    {
+      "id": "a35c7e7921ad",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+      "url": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
+      "publishedAt": "2026-09-23T14:30:00.000Z",
+      "fetchedAt": "2026-09-23T17:47:34.409Z",
+      "contentText": null,
+      "summary": "StrictlyVC at TechCrunch Disrupt 2026 will host discussions on the evolving landscape of venture capital, influenced by AI and rapid startup scaling. The event, taking place in San Francisco, will cover topics such as the new rules for going public, the role of family offices in venture investing, and what limited partners are currently seeking. Attendees can network and gain insights from investors and market experts.",
+      "enterpriseAngle": "Enterprise product development and security teams should be aware of the shifting funding landscape, as it impacts the types of startups receiving investment and the expectations for growth and governance, which can influence future partnerships and acquisitions. Understanding investor priorities, especially regarding AI exposure, can inform strategic planning for product roadmaps and security initiatives.",
+      "beginner": "Venture capital, which funds new companies, is changing rapidly because of new technologies like AI and how quickly startups are growing.",
+      "advanced": "Evaluate how the increasing influence of family offices and evolving LP expectations, particularly concerning AI concentration and liquidity, might impact your firm's fundraising strategies and partnership opportunities.",
+      "tags": [
+        "enterprise",
+        "funding",
+        "partnership",
+        "governance"
+      ]
+    },
+    {
+      "id": "2798abfc79b6",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/23/3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-23T14:00:00.000Z",
+      "fetchedAt": "2026-09-23T17:47:34.409Z",
+      "contentText": null,
+      "summary": "TechCrunch Disrupt 2026 is offering a discount of up to $200 on passes, with an additional 50% off a second pass. This promotional offer ends on September 25 at 11:59 p.m. PT. The event provides an opportunity to connect with over 10,000 technology leaders.",
+      "enterpriseAngle": "Enterprise product and business development teams can leverage this event for networking and potential partnership opportunities with other tech leaders and startups. Attending can help identify emerging trends and competitive landscapes.",
+      "beginner": "TechCrunch Disrupt is a major conference where people in the technology industry meet and share ideas.",
+      "advanced": "Prioritize attendance for keynotes and startup battlefield sessions to identify potential investment opportunities or strategic partnerships, and utilize the networking app to pre-schedule meetings with relevant industry leaders.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "product"
+      ]
+    },
+    {
+      "id": "1d77064cbebb",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "publishedAt": "2026-09-23T13:00:00.000Z",
+      "fetchedAt": "2026-09-23T17:47:32.789Z",
+      "contentText": null,
+      "summary": "OpenAI is providing the Ukrainian government with access to its Daybreak program to enhance the cyber defense of civilian infrastructure. This initiative, announced at the UN General Assembly, will equip Ukrainian teams with AI tools to identify and fix software vulnerabilities more rapidly. Ukraine faces persistent cyberattacks from Russia, with nearly 6,000 incidents reported in 2025 targeting essential services like hospitals and energy.",
+      "enterpriseAngle": "Enterprise security teams can leverage AI tools like Daybreak to proactively identify and remediate software vulnerabilities, strengthening their defenses against sophisticated cyber threats. This partnership highlights the increasing role of AI in national security and critical infrastructure protection, offering a model for other organizations to consider for their own security postures.",
+      "beginner": "AI is being used to help countries like Ukraine find and fix weaknesses in their computer systems to protect important services from cyberattacks.",
+      "advanced": "Integrate AI-powered vulnerability assessment and remediation tools into your DevSecOps pipeline to accelerate the identification and patching of critical software flaws, drawing lessons from national cyber defense strategies.",
+      "tags": [
+        "security",
+        "enterprise",
+        "partnership",
+        "product"
+      ]
+    },
+    {
+      "id": "09a0c6dbf1c6",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+      "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+      "publishedAt": "2026-09-23T00:00:00.000Z",
+      "fetchedAt": "2026-09-23T17:47:32.789Z",
+      "contentText": null,
+      "summary": "OpenAI and Grab have partnered to launch \"GO Forward with AI,\" a program aimed at equipping 30,000 Grab driver, delivery, and merchant partners across Southeast Asia with practical AI skills over the next two years. The initiative, starting in Singapore and expanding to other countries, will offer hands-on workshops to help participants use AI tools like ChatGPT for business decisions, idea generation, and operational tasks. This collaboration builds on their existing work, which includes an AI Assistant for Grab drivers powered by OpenAI models.",
+      "enterpriseAngle": "This partnership demonstrates how enterprises can leverage AI to upskill their extended workforce, fostering innovation and efficiency among gig economy workers and small businesses within their ecosystem. For product development teams, it highlights the value of creating accessible AI tools that address specific, practical business challenges faced by diverse user groups.",
+      "beginner": "AI tools like ChatGPT can help people in various jobs, such as delivery drivers or small business owners, make better decisions and explore new ideas.",
+      "advanced": "Experienced practitioners should consider developing tailored AI training programs and accessible agentic AI capabilities for non-technical users within their enterprise's extended network to drive practical application and foster economic opportunity.",
+      "tags": [
+        "partnership",
+        "workforce",
+        "learning",
+        "enterprise"
+      ]
+    },
     {
       "id": "04cb5c18383a",
       "source": "techcrunch-ai",

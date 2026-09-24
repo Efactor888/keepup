@@ -1,6 +1,69 @@
 {
-  "updatedAt": "2026-09-24T17:50:49.073Z",
+  "updatedAt": "2026-09-24T23:50:22.822Z",
   "articles": [
+    {
+      "id": "68f4d23a5b32",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+      "url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+      "publishedAt": "2026-09-24T19:15:00.000Z",
+      "fetchedAt": "2026-09-24T23:49:28.525Z",
+      "contentText": null,
+      "summary": "TechCrunch Disrupt 2026 is offering a limited-time \"buy one, get one 50% off\" discount on all ticket types until October 13, 8 a.m. PT. This promotion encourages attendees to bring a colleague, co-founder, or partner to maximize networking and learning opportunities at the conference, which features over 300 startups and 10,000 tech leaders. The event, running from October 13-15 in San Francisco, focuses on various tech sectors including AI, fintech, and infrastructure.",
+      "enterpriseAngle": "Enterprise product development and security teams can leverage this discount to send multiple members, enabling them to cover more sessions, compare insights, and accelerate their understanding of emerging technologies and market trends. Attending in pairs can enhance knowledge sharing and strategic planning for product roadmaps and security postures.",
+      "beginner": "Bringing a friend or colleague to a tech conference like Disrupt can help you learn more and make better connections.",
+      "advanced": "Utilize the BOGO offer to send cross-functional team members to TechCrunch Disrupt, strategically dividing coverage across stages and networking events to gather comprehensive competitive intelligence and partnership opportunities.",
+      "tags": [
+        "enterprise",
+        "product",
+        "partnership",
+        "workforce"
+      ]
+    },
+    {
+      "id": "1c18de282b50",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+      "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+      "publishedAt": "2026-09-24T19:00:42.000Z",
+      "fetchedAt": "2026-09-24T23:49:28.525Z",
+      "contentText": null,
+      "summary": "PrismML, an AI lab founded by Caltech researchers, has developed a compact version of its language models for smart glasses powered by Qualcomm's Snapdragon chips. This 1-bit Bonsai LLM, showcased at Qualcomm's Snapdragon Summit, can run locally on AI smart glasses built on the Snapdragon AR1 Gen 1 Platform. The model is a 2-billion-parameter model optimized for vision and language, enabling real-time object identification for users.",
+      "enterpriseAngle": "Enterprises developing smart glasses or other edge AI devices can leverage PrismML's technology to integrate powerful AI capabilities directly onto hardware, reducing reliance on cloud-based processing and potentially enhancing data privacy and real-time responsiveness.",
+      "beginner": "PrismML makes AI models much smaller so they can run directly on devices like smart glasses, letting them understand what you see and ask questions without needing the internet.",
+      "advanced": "Evaluate PrismML's 1-bit Bonsai LLM for on-device inferencing on Snapdragon AR1 Gen 1 platforms, specifically assessing its performance retention against larger models for vision-language tasks to optimize edge computing strategies.",
+      "tags": [
+        "model-release",
+        "product",
+        "hardware",
+        "research"
+      ]
+    },
+    {
+      "id": "ede000a15927",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
+      "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
+      "publishedAt": "2026-09-24T18:11:44.000Z",
+      "fetchedAt": "2026-09-24T23:49:28.525Z",
+      "contentText": null,
+      "summary": "Oracle has issued a force majeure notice to the developer of its Project Jupiter Stargate data center in New Mexico, which could allow Oracle to delay payments if the facility misses its 2028 operational target. The notice comes amid construction challenges, particularly concerning the energy supply, including delays in a gas pipeline and pending air-quality permits. Despite the notice, Oracle and Blue Owl Capital, the developer, maintain that the project remains on schedule and financial commitments are unchanged.",
+      "enterpriseAngle": "Enterprise product and infrastructure teams relying on future Oracle Stargate capacity should monitor the Project Jupiter development closely, as energy supply issues and regulatory hurdles could impact the timely availability of critical AI infrastructure. Delays in such large-scale data center projects can have ripple effects on AI product roadmaps and service delivery.",
+      "beginner": "A 'force majeure' notice means Oracle might not have to pay on time if unexpected problems, like energy supply issues, delay their big AI data center project.",
+      "advanced": "Evaluate contractual agreements for AI infrastructure dependencies, ensuring robust force majeure clauses and diversified energy supply strategies to mitigate risks associated with large-scale data center development and regulatory challenges.",
+      "tags": [
+        "infrastructure",
+        "enterprise",
+        "product",
+        "policy"
+      ]
+    },
     {
       "id": "4f47c154f117",
       "source": "techcrunch-ai",
@@ -120,6 +183,68 @@
         "agents",
         "product",
         "consumer"
+      ]
+    },
+    {
+      "id": "6ffd8810cadd",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-24T15:00:00.000Z",
+      "fetchedAt": "2026-09-24T23:49:28.525Z",
+      "contentText": null,
+      "summary": "Leaders from Waabi, Shield AI, and General Motors will discuss building AI on the Real World AI Stage at TechCrunch Disrupt 2026. The event offers a discount on passes until September 25.",
+      "enterpriseAngle": "Enterprises operating in high-stakes environments, such as autonomous vehicles and defense, can gain insights into developing reliable AI systems where errors are unacceptable. This discussion will likely focus on robust testing, validation, and safety protocols essential for enterprise AI adoption in critical applications.",
+      "beginner": "Some companies are building AI for situations where mistakes could be very dangerous, like self-driving cars or defense systems.",
+      "advanced": "Investigate the methodologies and validation frameworks these leaders employ to achieve high reliability and fault tolerance in AI systems for safety-critical enterprise applications.",
+      "tags": [
+        "enterprise",
+        "product",
+        "learning"
+      ]
+    },
+    {
+      "id": "1fab0cdb69c4",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Lovable's annualized revenue crosses $600M as vibe coding takes off",
+      "url": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/",
+      "publishedAt": "2026-09-24T14:43:25.000Z",
+      "fetchedAt": "2026-09-24T23:49:28.525Z",
+      "contentText": null,
+      "summary": "Lovable, a \"vibe-coding\" platform, has achieved an annualized revenue run-rate of over $600 million, an increase from $500 million in June. The company states that two-thirds of Fortune 500 companies, including Microsoft and Nvidia, are now using its product. Lovable focuses on providing a platform where the output is a product or business, handling hosting, deployment, and scaling of user-created apps, which collectively attract nearly a billion views monthly.",
+      "enterpriseAngle": "Enterprise product development teams can leverage platforms like Lovable to accelerate product creation and deployment, shifting focus from raw code output to delivering complete, hosted, and scalable business solutions. This approach simplifies the development lifecycle, potentially reducing time-to-market and operational overhead for new applications.",
+      "beginner": "Lovable helps people create apps and businesses without writing traditional code, handling all the technical parts like hosting and making sure the apps can handle many users.",
+      "advanced": "Evaluate 'vibe-coding' platforms for their ability to abstract infrastructure and deployment complexities, enabling rapid ideation-to-product cycles and potentially reducing reliance on traditional DevOps pipelines for specific application types.",
+      "tags": [
+        "enterprise",
+        "product",
+        "coding",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "be4c10b9fec1",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
+      "url": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
+      "publishedAt": "2026-09-24T14:31:00.000Z",
+      "fetchedAt": "2026-09-24T23:49:28.525Z",
+      "contentText": null,
+      "summary": "Ando has launched a new team messaging platform designed for seamless collaboration between humans and AI agents, aiming to replace existing platforms like Slack and Microsoft Teams. The app allows AI agents to participate in conversations, join channels, and proactively communicate with human team members, addressing the limitations of current systems where agents are treated as separate applications. Ando has secured $20 million in funding to further develop its platform and expand its team.",
+      "enterpriseAngle": "Enterprise product development teams should consider how to integrate AI agents as active participants in their internal communication workflows rather than just as installed apps. Security teams will need to evaluate new platforms like Ando for data privacy, access controls for AI agents, and potential risks associated with autonomous agent communication.",
+      "beginner": "Ando is a new chat app for work that lets both people and AI computer programs talk and work together easily, unlike older apps where AI felt separate.",
+      "advanced": "Evaluate Ando's agent-native communication architecture for potential improvements in workflow automation and cross-functional collaboration, while also assessing its security posture regarding agent autonomy, data handling, and integration with existing enterprise identity and access management systems.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product",
+        "funding"
       ]
     },
     {

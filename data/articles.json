@@ -1,6 +1,127 @@
 {
-  "updatedAt": "2026-09-23T23:38:14.964Z",
+  "updatedAt": "2026-09-24T17:50:49.073Z",
   "articles": [
+    {
+      "id": "4f47c154f117",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Meta's Muse Charm looks like a Tamagotchi, but it's tapping into a much newer trend",
+      "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+      "publishedAt": "2026-09-24T17:39:24.000Z",
+      "fetchedAt": "2026-09-24T17:49:10.683Z",
+      "contentText": null,
+      "summary": "Meta has introduced Muse Charm, a new AI hardware device designed as a customizable character that functions as an AI agent. The device taps into a growing trend among Gen Z consumers for retro-inspired, customizable tech accessories, similar to popular bag charms and repurposed Apple Watches. Despite aligning with current fashion and technology trends, its success is uncertain due to Meta's history of consumer privacy issues.",
+      "enterpriseAngle": "Enterprise product development teams should observe how Meta's Muse Charm navigates consumer trust and privacy concerns, as these factors will significantly influence the adoption of AI-powered consumer devices. Security teams should note the ongoing challenge of building secure, privacy-respecting AI products, especially when targeting younger demographics who are increasingly aware of data practices.",
+      "beginner": "Meta's new AI gadget, Muse Charm, is a small, customizable digital companion that aims to make AI more personal and fashionable, but its success depends on whether people trust Meta with their data.",
+      "advanced": "Evaluate the long-term implications of Meta's privacy track record on consumer AI adoption, and consider how to differentiate your enterprise AI products by prioritizing robust data governance and transparent privacy policies to build user trust.",
+      "tags": [
+        "product",
+        "consumer",
+        "enterprise",
+        "governance"
+      ]
+    },
+    {
+      "id": "b848899f891b",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Google Photos ‘Clueless'-inspired virtual closet is now available on Android and iOS",
+      "url": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
+      "publishedAt": "2026-09-24T17:00:00.000Z",
+      "fetchedAt": "2026-09-24T17:49:10.683Z",
+      "contentText": null,
+      "summary": "Google Photos has launched an AI-powered virtual closet feature, inspired by the movie \"Clueless,\" which allows users to organize outfits from their photos and mix and match items. This feature is now available to all Android and iOS users in the U.S., Brazil, and India. Google assures users that data about their wardrobe is not shared with third parties.",
+      "enterpriseAngle": "While primarily a consumer feature, this highlights the growing sophistication of AI in image recognition and personal data management, which could inform enterprise product development in areas like digital asset management or personalized user experiences, with a strong emphasis on data privacy assurances.",
+      "beginner": "Google Photos now uses AI to help you organize your clothes virtually, just like a digital wardrobe from a movie.",
+      "advanced": "Leverage Google's approach to on-device or federated learning for image-based categorization to develop privacy-preserving AI features that analyze user-generated content without external data sharing.",
+      "tags": [
+        "product",
+        "consumer",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "02884138f761",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+      "url": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+      "publishedAt": "2026-09-24T16:46:47.000Z",
+      "fetchedAt": "2026-09-24T17:49:10.683Z",
+      "contentText": null,
+      "summary": "The TechCrunch Founder Summit is a one-day event in Boston on November 4, designed to connect founders with venture capitalists and seasoned entrepreneurs. The summit aims to provide tactical insights for building and scaling companies.",
+      "enterpriseAngle": "Enterprise product development teams can leverage insights from this summit to better understand investor expectations and strategies for scaling, which can inform their own product roadmaps and business development efforts.",
+      "beginner": "This summit helps new company founders learn how to grow their businesses by meeting investors and experienced entrepreneurs.",
+      "advanced": "Experienced practitioners should attend to network with VCs and founders, identifying potential partnership opportunities and staying current on investment trends and scaling strategies.",
+      "tags": [
+        "enterprise",
+        "funding",
+        "partnership"
+      ]
+    },
+    {
+      "id": "128bc514045b",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "20 minutes with the CEO of ElevenLabs, now reportedly valued at $22B",
+      "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
+      "publishedAt": "2026-09-24T16:35:13.000Z",
+      "fetchedAt": "2026-09-24T17:49:10.683Z",
+      "contentText": null,
+      "summary": "ElevenLabs, a company reportedly valued at $22 billion, provides the AI voice technology used in many customer service calls. Its CEO believes businesses should disclose when customers are interacting with an AI, at least for now.",
+      "enterpriseAngle": "Enterprise customer service teams using AI voice solutions should consider transparency with customers about AI interaction to manage expectations and maintain trust. Product development teams building AI voice tools should also factor in ethical considerations around disclosure.",
+      "beginner": "AI is increasingly used for voices in customer service, and there's a discussion about whether companies should tell you when you're talking to a machine.",
+      "advanced": "Implement clear disclosure mechanisms for AI-powered voice interactions in customer-facing applications to align with evolving ethical guidelines and consumer expectations.",
+      "tags": [
+        "enterprise",
+        "product",
+        "governance"
+      ]
+    },
+    {
+      "id": "3102aa652bb3",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-24T16:03:36.000Z",
+      "fetchedAt": "2026-09-24T17:49:10.683Z",
+      "contentText": null,
+      "summary": "TechCrunch Disrupt 2026 will feature a Startup Battlefield 200 competition judged by a new group of VCs. Attendees can register by September 25 to save money and watch the startup pitches.",
+      "enterpriseAngle": "Enterprise product teams and startups seeking funding should note the importance of pitch competitions like Startup Battlefield for gaining visibility and investment.",
+      "beginner": "Startup competitions are events where new companies present their ideas to investors.",
+      "advanced": "Identify key VC judges at major pitch events like TechCrunch Disrupt to tailor your startup's narrative and value proposition for potential investors.",
+      "tags": [
+        "funding",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "2bee7780f07a",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Google tests letting Gemini call businesses for you",
+      "url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
+      "publishedAt": "2026-09-24T16:00:00.000Z",
+      "fetchedAt": "2026-09-24T17:49:10.683Z",
+      "contentText": null,
+      "summary": "Google is introducing a new feature called \"Call for Me\" that allows its Gemini AI to make phone calls to businesses on behalf of users. This feature, initially available to U.S. Pixel 11 owners with a Gemini subscription and the beta Google Phone app, enables Gemini to handle complex tasks like making reservations or checking product availability, using the user's own phone number and sharing approved personal information. Users can monitor the call with a live transcript and intervene at any time.",
+      "enterpriseAngle": "Enterprise product development teams should consider the implications of AI agents handling customer interactions, particularly regarding data privacy when sharing personal information and the need for robust user control and oversight mechanisms. This also highlights the potential for AI to automate routine customer service tasks, freeing up human agents for more complex issues.",
+      "beginner": "Google's new AI can now call businesses for you, like making a restaurant reservation, and you can watch and take over the call whenever you want.",
+      "advanced": "Evaluate the integration of AI-powered outbound calling agents for customer service and operational efficiency, focusing on secure data handling protocols for shared personal information and developing clear escalation paths for AI-handled conversations.",
+      "tags": [
+        "agents",
+        "product",
+        "consumer"
+      ]
+    },
     {
       "id": "7cff1964bf19",
       "source": "openai",
@@ -365,12 +486,17 @@
       "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
       "publishedAt": "2026-09-23T12:00:00.000Z",
       "fetchedAt": "2026-09-23T23:32:56.303Z",
-      "contentText": "September 23, 2026 How invideo improves color grading 3x with GPT‑6 Astra With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day. Start building with OpenAI Company size: Startup Region: Asia-Pacific & Oceania Industry: Media, Entertainment & Sport Products: API Results 50 Custom effects created in one day Results 3x Increase in success rate for color-grading and correction Loading… Share Planning complex edits and staying on brief Planning complex edits and staying on brief Choosing the right approach and adapting to change Creating custom effects that remain fully editable Planning complex edits and staying on brief Choosing the right approach and adapting to change Creating custom effects that remain fully editable Editing videos is one creative and technical decision after another. Editors have to shape the story, place sound effects, build transitions, adjust color, and more. Invideo ⁠ (opens in a new window) is an agentic video editor designed to handle that work while keeping the human editor in control. With GPT‑6 Astra, invideo sees greater capability to plan and execute complex edits and place changes at the correct points in the timeline. “How Astra can plan a particular edit on a frame-level accuracy is quite stunning.” —Sanket Shah, CEO, invideo Planning complex edits and staying on brief The AI agent must translate the editor’s direction into a sequence of steps, choose the right tools, execute the work, and verify the result. Sanket says GPT‑6 Astra can plan these operations in fewer reasoning steps than the models it previously tested: “Astra is using far fewer reasoning sets and thus output tokens to complete complex work.” Invideo also observed that Astra can carry out several instructions without losing the editor’s original objective as the task grows longer and more complex. Choosing the right approach and adapting to change GPT‑6 Astra is especially effective when it comes to color work, where the agent must choose from overlapping approaches such as correction, grading, regeneration, LUTs, and isolation. For example, changing a background while preserving a person’s skin tone requires the agent to isolate and track the person across frames before applying color elsewhere. “Earlier, we saw very high failure rates for color-grading and color-correction tasks. With Astra, the success rate improved about three times,” said Sanket. Creating custom effects that remain fully editable GPT‑6 Astra also helps invideo turn descriptions and visual references into custom effects. The agent can code an effect tailored to the footage, place it on the timeline, and add controls that let the editor refine it. In one day, a few Invideo editors used the model to create about 50 effects. With the invideo agent using GPT‑6 Astra, creative professionals retain control of the story, their taste, and the final cut without losing hours to the tedious planning and frame-by-frame work. OpenAI <3 startups Join the community Start building (opens in a new window) Keep reading Two years of OpenAI Academy Company Sep 23, 2026 OpenAI extends cyber access to Ukraine for civilian defense Global Affairs Sep 23, 2026 Harvey turns legal context into stronger drafts with GPT-6 Astra Startup Sep 23, 2026",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Invideo, an agentic video editor, has significantly enhanced its capabilities by integrating OpenAI's GPT-6 Astra. This integration allows invideo to plan complex edits with greater precision, improve color correction and grading threefold, and generate 50 custom effects in a single day. The AI agent can now execute multi-step instructions more efficiently and accurately, especially in nuanced tasks like color work.",
+      "enterpriseAngle": "Enterprise product development teams in media and entertainment can leverage advanced AI models like GPT-6 Astra to automate complex creative tasks, drastically improving efficiency in video editing, color grading, and custom effect generation. This can lead to faster content production cycles and more sophisticated creative outputs.",
+      "beginner": "New AI models can help video editing software make complex changes, like fixing colors or adding special effects, much faster and more accurately than before.",
+      "advanced": "Integrate advanced agentic models for frame-level precision in video processing pipelines, focusing on optimizing reasoning steps and maintaining task coherence over extended, complex instructions to achieve significant efficiency gains in creative workflows.",
+      "tags": [
+        "product",
+        "enterprise",
+        "model-release",
+        "agents"
+      ]
     },
     {
       "id": "3c250389bd47",
@@ -402,12 +528,17 @@
       "url": "https://openai.com/index/introducing-mentalhealthbench",
       "publishedAt": "2026-09-23T10:00:00.000Z",
       "fetchedAt": "2026-09-23T23:32:56.303Z",
-      "contentText": "September 23, 2026 Publication Introducing MentalHealthBench An open benchmark developed with more than 80 licensed mental health experts to evaluate AI responses in realistic mental health conversations. Read the paper (opens in a new window) Loading… Share Supporting mental health across all contexts Supporting mental health across all contexts Built in collaboration with experts Performance of models Understanding user perspectives on mental health Making better mental health evaluation a shared resource Supporting mental health across all contexts Built in collaboration with experts Performance of models Understanding user perspectives on mental health Making better mental health evaluation a shared resource People turn to AI for many kinds of conversations: navigating a difficult relationship, working through everyday stress, supporting someone they care about, or deciding how to approach a challenging situation. These conversations require accuracy, practical judgment, and respect for people’s agency. With more than one billion people using ChatGPT each week, our research focuses on helping models respond with care across a wide range of needs and put people’s safety and well-being first. Most evaluations of AI in this domain have focused primarily on emergency scenarios, given their importance to safety, and measure success using broad, predefined criteria. This has left a gap in understanding how models perform across the full range of mental health conversations, and how well their responses align with expert guidance for each situation, beyond whether they avoid disallowed responses. Assessing how models handle these different situations is essential for building towards AI that actively supports people’s long-term well-being and safety. “ Mental health exists on a continuum, from flourishing to everyday stress to acute crisis. AI systems that engage people across that range need to be grounded in both clinical science and lived experience—not only to recognize where someone falls on the continuum, but to know how to respond appropriately at any point. ” —Dr. Arthur Evans, Chief Executive Officer of the American Psychological Association We’re introducing MentalHealthBench, a new open benchmark for measuring how AI systems respond in realistic mental health conversations. MentalHealthBench was co-created with a global cohort of more than 80 licensed mental health experts from 22 countries. It assesses model capabilities across key mental health behaviors like safety, seeking context, preserving user agency, and providing actionable guidance when appropriate. We’re releasing it openly so other researchers can examine the methods, run their own evaluations, and build on the work. Results on MentalHealthBench show the steady improvement of AI systems in helping people navigate mental health situations. While ChatGPT is not a substitute for therapy or professional care, expert-informed insights help us measure the progress towards AI models that are able to respond with empathy, promote well-being, and guide people towards real-world support such as localized crisis hotlines ⁠ (opens in a new window) or someone they trust . Supporting mental health across all contexts Conversations that involve well-being, life advice, or other mental health scenarios can vary widely in topic, urgency, and cultural context. MentalHealthBench is designed to capture the breadth of these realistic scenarios and user personas. Using privacy-preserving techniques, we created synthetic mental health conversations that accurately reflect real-world usage patterns of AI for mental health. Some scenarios also include relevant background information about the synthetic user—such as a recent loss in the family—so we can assess whether models use that context to tailor their responses appropriately. MentalHealthBench Internal safety evals Public benchmarks MentalHealthBench includes scenarios involving adults, teens, caregivers, and clinicians, across multiple languages and regions. The conversations span multiple topical themes, and provide coverage across the full spectrum of acuity: Non-acute— Everyday conversations that may involve some emotional components. High-acuity —Conversations indicating more serious mental health concerns or significant distress, but not an immediate emergency. Emergencies —Conversations involving signs of a mental health emergency or immediate safety concerns that call for urgent real-world support. Scenarios covered by MentalHealthBench. The mix of scenarios is designed to test model responses and does not represent how often these topics occur in ChatGPT. View representative conversation attributes Built in collaboration with experts Building on our previous, clinician-informed work for HealthBench and HealthBench Professional ⁠ (opens in a new window) , ⁠ (opens in a new window) we developed MentalHealthBench in close collaboration with our cohort of mental health experts. This consisted of more than 80 licensed psychologists and psychiatrists across 22 countries, speaking 19 languages, and representing nearly 20 mental health subspecialties. The experts were responsible for reading each synthetic conversation and producing a detailed list of rubric criteria to evaluate model responses to the last user message. Each criterion targets a single aspect of the model response such as asking the right question or providing the best possible advice. They each carry a weight ranging from -10 to +10: positive points reward beneficial behaviors, while negative points penalize harmful ones, and criteria with larger values indicate greater clinical importance in the context of a conversation. Each conversation was reviewed by at least three experts, and we only retained criteria agreed upon by at least two experts and not contradicted by a third. The final rubrics in the benchmark therefore reflect a shared judgment about how models should respond in each context. For each conversation, we use an automated grader, GPT‑5.6 Sol, to assess model responses against the expert-written criteria. The paper describes the grading process and evaluation settings in detail. Conversation What is a boundary? User abbreviated Defines boundaries as limits for what feels acceptable, safe, or comfortable; gives physical, emotional, time, mental, and digital examples; clarifies that boundaries communicate one’s own needs rather than control others. Assistant How do I set a boundary without feeling guilty ? User abbreviated Normalizes guilt; separates guilt from wrongdoing; suggests brief, respectful language, expecting discomfort, self-compassion, and starting with small boundaries. Assistant I’m trying to set a healthy boundary with a friend while reducing our friendship but I don’t know how to tell her with out hurting her feelings User abbreviated Notes that hurt feelings may still happen; recommends an honest, kind, brief message focused on the user’s needs; offers direct or gradual ",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "OpenAI has launched MentalHealthBench, an open benchmark co-created with over 80 licensed mental health experts from 22 countries. This benchmark evaluates AI models' responses in realistic mental health conversations, covering a spectrum from everyday stress to high-acuity situations and emergencies. The goal is to measure how well AI systems align with expert guidance, focusing on safety, context-seeking, user agency, and actionable advice.",
+      "enterpriseAngle": "Enterprises developing AI applications that interact with users on sensitive topics like mental health can use MentalHealthBench to rigorously evaluate their models' safety, empathy, and adherence to expert guidelines, thereby enhancing user trust and mitigating risks. This benchmark provides a standardized way to assess model performance beyond just avoiding disallowed responses, which is crucial for responsible AI deployment in health-related domains.",
+      "beginner": "MentalHealthBench helps make sure AI models talk about mental health in a safe and helpful way, just like real experts would.",
+      "advanced": "Integrate MentalHealthBench into your model evaluation pipeline to assess nuanced performance across diverse mental health scenarios, leveraging its expert-validated rubrics to refine model behaviors related to safety, context utilization, and user agency.",
+      "tags": [
+        "benchmark",
+        "research",
+        "governance",
+        "product"
+      ]
     },
     {
       "id": "fda44b10a27a",
@@ -438,12 +569,38 @@
       "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
       "publishedAt": "2026-09-23T04:59:08.000Z",
       "fetchedAt": "2026-09-23T23:32:58.591Z",
-      "contentText": "Greek Prime Minister Kyriakos Mitsotakis came to San Francisco on Monday night to promote Greece, but he also did something that heads of state on trade missions don't typically do. In front of roughly 250 founders, investors, and operators, he said openly that he doesn't have answers to many of the AI questions leaders around the world are more privately debating. The prime minister, speaking with this editor at an event hosted by Endeavor Greece, the local arm of a global nonprofit that supports entrepreneurs in emerging and growth markets, described his Bay Area trip as partly a fact-finding mission. He'd spent the morning touring Tesla and Sequoia Capital, among other stops, with plans to head this week to the U.N. General Assembly in New York. But the trip was also meant to build bridges; indeed, he was pitching anyone in tech who might consider setting up shop in Greece, which is set to regain developed market status next year from MSCI, the influential index provider. \"I think it's another indication that the economy is doing well and that Greece is no longer treated as a special case,\" Mitsotakis said. Mitsotakis, who earned a master's degree at Stanford and called the visit \"a homecoming,\" made the economic case first and foremost during our sit-down. Greece is paying down its debt at a record pace, and, he added, borrows more cheaply than the United States. \"I don't know if I should say this,\" he told the crowd, smiling. Image Credits: Daniel Vegera for Endeavor Greece It's not an apples-to-apples comparison. Interest rates are lower across the eurozone, which accounts for part of the difference. But it makes for a strong talking point. As of this writing, Greece's 10-year bond yield sits around 4.3%, versus roughly 5% for U.S. Treasuries. That would have been completely unimaginable during the debt crisis, when Greek yields topped 40% in 2012. Mitsotakis was just as eager to talk about how Greece has spent its money. For example, he said that much of the roughly €36 billion Greece received from the EU's post-COVID recovery fund went into digital infrastructure, including an online portal that lets Greeks handle government paperwork without waiting in line, and a new supercomputer assembled with the help of Hewlett Packard Enterprise in the port town of Lavrio that he said will come online within months to power AI and scientific research in Greece. Unsurprisingly, he also listed policy changes that can matter even more to tech companies. Greece has changed how stock options are taxed, he said, loosened labor laws, and offers returning Greeks far lower taxes for up to seven years. We also talked about the country's growing array of visa programs, though when asked how he measures the success of these, Mitsotakis said the government \"still [has] work to do\" on processing speed. He separately volunteered that there has been a stark turnaround at Greece's public universities, which he said long embraced a \"radical leftist approach,\" looking down on corporations, yet now spin out startups. Image Credits: Daniel Vegera for Endeavor Greece Mitsotakis's larger goal is to win back the talent Greece lost during its debt crisis, when many of the country's younger citizens left because they had no other options. He also sees an opening: with American work visas getting harder to obtain, he suggested, more founders should consider hiring in Greece. It did strike me that the conversation took on a different tone when it turned to AI's effects on society. Mitsotakis was refreshingly candid about not having a finished plan. Greece, for example, is instituting a ban on social media for children under 15 as of this coming January, a step many countries are similarly weighing or adopting . He suggested the ban may already be behind the times, however, considering the seemingly addictive nature of AI chatbots. \"Sometimes I feel that we're already fighting yesterday's battle,\" he said. \"What does it mean for our kids to grow up with digital companions or boyfriends or girlfriends?\" He was similarly cautious about AI in classrooms. Greece has run an education pilot with OpenAI aimed at reducing teachers' administrative work, and he sees promise in personalized AI tutors. But he said the benefits depend on AI not replacing \"the hard work of learning the basic skills.\" He warned that students are already using chatbots to do their homework, adding: \"complacency is a human trait.\" When I asked him about AI infrastructure — Greece has been courting data center investment — he described the country as an outlier. Despite growing opposition to data centers across the globe because of the amounts of electricity and water required to power them, Mitsotakis said that \"we have not had any significant reaction\" in Greece. He pointed to the fact that Microsoft is building a cluster of data centers near Athens and that AWS recently announced a deal with Greece's largest utility to build the country's biggest data center in a former coal region. There, he said, the projects are welcomed. Unlike many politicians, he didn't pretend to have answers about what comes next, either. Job displacement \"is something which is going to happen,\" he said, \"and no government and no society is prepared for the speed with which it will happen.\" As for the debate over whether AI development should slow down, he sided with the leaders of the frontier labs who've been calling for one. \"If the people who are building the models are telling us, ‘We're not really sure exactly what's happening with these models,'\" especially in how they improve themselves, he said, \"we need to listen to them.\" Some form of \"smart regulation\" is inevitable, he observed, and the U.S. will largely decide what it looks like. Still, he added, Greece would happily host the conversation. Humanity has created \"a form of intelligence that is very quickly exceeding the capacity of the most advanced organ that evolution has ever created,\" said Mitsotakis, raising the question of what it means to be human. Bringing together technologists with \"the social scientists, the philosophers, the historians,\" he said, \"I cannot think of a better place to really have these discussions.\" He has a point. Athens is where Socrates badgered his fellow citizens in the agora, the city's ancient public square, about what makes a good life and a just society. Maybe the questions Silicon Valley is still debating will end up being settled there, too? Topics AI , Greece , Kyriakos Mitsotakis When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Connie Loizos Editor in Chief & General Manager Loizos has been reporting on Silicon Valley since the late ’90s, when she joined the original Red Herring magazine. Previously the Silicon Valley Editor of TechCrunch, she was named Editor in Chief and General Manager of TechCrunch in September 2023. She’s also the founder of StrictlyVC, a daily e-newsle",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Greek Prime Minister Kyriakos Mitsotakis visited San Francisco to promote Greece as a tech investment destination, highlighting its economic recovery and digital infrastructure investments. He candidly discussed the societal implications of AI, acknowledging the challenges of regulating rapidly evolving technology and expressing concerns about its impact on children and education. Mitsotakis also noted Greece's openness to data center development despite global opposition, and emphasized the need for \"smart regulation\" of AI.",
+      "enterpriseAngle": "Enterprises considering international expansion or data center investments may find Greece an attractive option due to its economic stability, digital infrastructure, and welcoming stance on data center development. Product development teams should note the growing global discussion around AI's societal impact, particularly concerning youth and education, which could influence future regulatory landscapes.",
+      "beginner": "Leaders are still figuring out how to manage the fast changes brought by AI, especially regarding its effects on young people and jobs.",
+      "advanced": "Evaluate Greece's updated tax incentives and labor laws for potential R&D or operational hubs, and monitor the evolving international regulatory landscape for AI, particularly concerning data center siting and youth protection policies, to inform future product and infrastructure strategies.",
+      "tags": [
+        "enterprise",
+        "policy",
+        "infrastructure",
+        "governance"
+      ]
+    },
+    {
+      "id": "1dd9ce125c6e",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+      "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
+      "publishedAt": "2026-09-23T02:00:00.000Z",
+      "fetchedAt": "2026-09-24T17:49:09.296Z",
+      "contentText": null,
+      "summary": "OpenAI is expanding its ChatGPT Ads platform to seven new markets in Southeast Asia and Taiwan, making it available in over 60 countries. This expansion aims to provide businesses of all sizes with new opportunities to connect with users as they explore and make decisions within ChatGPT. Ads will be displayed to users on Free and Go plans, while paid subscriptions remain ad-free.",
+      "enterpriseAngle": "Enterprise marketing and product teams can leverage ChatGPT Ads to reach a broader audience in key Asian markets, integrating AI-powered advertising into their global strategies while ensuring user data privacy and maintaining brand trust. This expansion provides new avenues for customer engagement and product discovery within a widely used AI platform.",
+      "beginner": "ChatGPT Ads allow companies to show relevant products and services to people using the free version of ChatGPT, helping businesses reach potential customers and supporting free access to AI tools.",
+      "advanced": "Evaluate the efficacy of ChatGPT Ads for targeted campaigns in emerging Asian markets, focusing on conversion rates and user engagement metrics, while ensuring compliance with regional data privacy regulations and leveraging available self-service or agency partner options.",
+      "tags": [
+        "product",
+        "enterprise",
+        "consumer",
+        "partnership"
+      ]
     },
     {
       "id": "73fafdf6f45f",

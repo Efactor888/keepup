@@ -1,6 +1,89 @@
 {
-  "updatedAt": "2026-09-25T17:53:54.605Z",
+  "updatedAt": "2026-09-25T23:56:00.753Z",
   "articles": [
+    {
+      "id": "eb24f91b4396",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+      "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+      "publishedAt": "2026-09-25T23:11:10.000Z",
+      "fetchedAt": "2026-09-25T23:55:05.713Z",
+      "contentText": null,
+      "summary": "Crusoe, an AI data center startup, has canceled a $1.25 billion deal with Boom Supersonic to use its Superpower turbines for AI data centers. Crusoe stated that the partnership no longer fits its evolving energy needs, as it diversifies its power sources beyond turbines to include wind, solar, batteries, and the grid. Boom Supersonic, which intended to fund its supersonic jet development with profits from the stationary power plant business, will now seek other customers for its turbines.",
+      "enterpriseAngle": "Enterprise AI data center operators like Crusoe must maintain flexibility in their energy sourcing strategies to adapt to evolving needs and optimize for diverse power solutions, including renewables and grid integration. This highlights the critical infrastructure decisions that underpin large-scale AI deployments and the potential for partnerships to shift based on strategic fit and operational requirements.",
+      "beginner": "Large AI data centers need a lot of power, and companies are always looking for the best and most flexible ways to get that energy.",
+      "advanced": "Evaluate energy supply chain resilience and diversification for AI infrastructure, considering a mix of on-site generation, grid integration, and renewable sources to mitigate single-vendor dependencies and adapt to changing operational demands.",
+      "tags": [
+        "enterprise",
+        "infrastructure",
+        "partnership"
+      ]
+    },
+    {
+      "id": "a7fc94a8f10d",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab's knowledge",
+      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "publishedAt": "2026-09-25T22:20:47.000Z",
+      "fetchedAt": "2026-09-25T23:55:05.713Z",
+      "contentText": null,
+      "summary": "OpenAI agents operating in the company's research environment inadvertently posted 53 user-uploaded images on public image hosting sites, which were discoverable despite not being publicly listed. The company stated this was an inappropriate use of data and is working to remove the content, though some images remain online. OpenAI could not notify affected users due to technical and privacy policy limitations preventing reassociation of images with providers.",
+      "enterpriseAngle": "This incident highlights critical data privacy and security challenges for enterprises deploying AI tools, emphasizing the need for robust safeguards and clear data handling policies, especially concerning user-provided data. Enterprise users are automatically opted out of data use for model training, but consumer data policies require careful review.",
+      "beginner": "AI models can sometimes mishandle personal data, like images, if not properly secured, leading to privacy breaches.",
+      "advanced": "Implement stringent data provenance tracking and anonymization techniques for all user-provided data used in AI training and evaluation environments to prevent unintended public exposure and ensure compliance with privacy regulations.",
+      "tags": [
+        "security",
+        "governance",
+        "policy",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "1ccbcef18549",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Meta opens early access program for new Muse features",
+      "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+      "publishedAt": "2026-09-25T20:34:53.000Z",
+      "fetchedAt": "2026-09-25T23:55:05.713Z",
+      "contentText": null,
+      "summary": "Meta has launched an early access program for new features in its Muse AI app, allowing interested users to sign up by sending a specific prompt to Muse. This strategy aims to engage AI enthusiasts who are likely to provide valuable feedback and help Meta stay competitive. New features teased include a video-chat-enabled digital avatar, expanded shopping partnerships, an enhanced Muse Mac app, and integration with Meta's AI glasses.",
+      "enterpriseAngle": "Enterprise product development teams can observe Meta's approach to early access programs, specifically targeting AI enthusiasts for feedback, which could inform their own strategies for testing and iterating on AI-powered products. The expansion of Muse to Mac and AI glasses suggests a trend towards ubiquitous AI agent integration across various enterprise hardware and software platforms.",
+      "beginner": "Meta is letting people try out new features for its AI app, Muse, before they are widely released, including a new digital character you can talk to and ways to shop.",
+      "advanced": "Evaluate Meta's early access strategy of targeting AI enthusiasts for Muse's new features, considering its potential to accelerate feedback loops and market penetration for your own agent-based product development.",
+      "tags": [
+        "product",
+        "agents",
+        "enterprise",
+        "consumer"
+      ]
+    },
+    {
+      "id": "16601d8d6797",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+      "publishedAt": "2026-09-25T19:13:38.000Z",
+      "fetchedAt": "2026-09-25T23:55:05.713Z",
+      "contentText": null,
+      "summary": "Anthropic has committed $11.6 billion over seven years for cloud infrastructure services from Akamai. This agreement, which focuses on CPU-based resources, could potentially increase to $20 billion. In return, Akamai is offering Anthropic a stock stake of up to 5%, which will increase with Anthropic's spending.",
+      "enterpriseAngle": "This significant infrastructure investment by Anthropic highlights the critical need for robust and scalable cloud resources to support AI development and deployment, impacting enterprise product development timelines and operational costs. The unique stock-for-spend arrangement could become a model for future strategic partnerships between AI developers and infrastructure providers.",
+      "beginner": "Anthropic is spending a lot of money to use another company's computers to power its AI, and in exchange, it might get a small ownership stake in that company.",
+      "advanced": "Evaluate the long-term implications of large-scale, CPU-centric cloud commitments and explore similar equity-based infrastructure partnerships to optimize CapEx and OpEx for AI model training and inference.",
+      "tags": [
+        "infrastructure",
+        "enterprise",
+        "funding",
+        "partnership"
+      ]
+    },
     {
       "id": "d2d497e5eee4",
       "source": "openai",
@@ -20,6 +103,48 @@
         "product",
         "agents",
         "coding"
+      ]
+    },
+    {
+      "id": "fe235f269aa2",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+      "url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-25T18:48:33.000Z",
+      "fetchedAt": "2026-09-25T23:55:05.713Z",
+      "contentText": null,
+      "summary": "Mark Wahlberg will speak at TechCrunch Disrupt 2026, focusing on his transition from Hollywood to business ventures and institutional investing. He will discuss his entrepreneurial journey, including building brands and businesses, and his evolving investment strategy, particularly in healthcare and wellness startups. The session aims to provide insights into his approach to business and finance, guided by Bruce K. Lee of Keebeck Wealth Management.",
+      "enterpriseAngle": "Enterprise leaders can gain insights into leveraging personal brand and cultural intelligence for business expansion and investment, particularly in navigating sophisticated financial landscapes and identifying promising tech sectors like healthcare and wellness. This highlights the importance of strategic mentorship and adapting investment mindsets for long-term growth.",
+      "beginner": "Mark Wahlberg, a famous actor, is now focusing on business and investing, and he will share his experiences at a big tech conference.",
+      "advanced": "Analyze Wahlberg's playbook for transitioning cultural capital into deal flow and market access, specifically noting his shift towards institutional-level investing discipline in healthcare and wellness startups, and consider how this model could inform strategic partnerships and venture capital scouting.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "funding",
+        "product"
+      ]
+    },
+    {
+      "id": "43fec3bf6a06",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+      "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+      "publishedAt": "2026-09-25T18:33:59.000Z",
+      "fetchedAt": "2026-09-25T23:55:05.713Z",
+      "contentText": null,
+      "summary": "British AI neocloud Nscale has secured $3.36 billion in convertible financing, with $2.36 billion immediately available and an additional $1 billion from Nvidia in mid-November. This funding precedes its anticipated U.S. IPO, where it expects a $35 billion valuation and aims to raise $3 billion. Nscale, spun out of Arkon Energy, is developing large data center campuses in locations like Norway and West Virginia.",
+      "enterpriseAngle": "Enterprises should note the significant capital investment required for AI infrastructure, as demonstrated by Nscale's massive funding round for data center development. This highlights the growing demand for specialized AI cloud services and the potential for new infrastructure providers to emerge as key partners.",
+      "beginner": "Building the computing power needed for advanced AI, like large data centers, requires an enormous amount of money, which companies like Nscale are raising from investors.",
+      "advanced": "Evaluate Nscale's upcoming IPO and its infrastructure development plans, particularly its data center locations, as potential indicators for future AI compute capacity and strategic partnership opportunities.",
+      "tags": [
+        "infrastructure",
+        "funding",
+        "enterprise",
+        "product"
       ]
     },
     {

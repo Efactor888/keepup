@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-09-25T23:56:00.753Z",
+  "updatedAt": "2026-09-26T17:02:32.213Z",
   "articles": [
+    {
+      "id": "dc5183e86bb5",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "I created an interactive digital avatar of myself — and you can talk to it",
+      "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+      "publishedAt": "2026-09-26T14:00:00.000Z",
+      "fetchedAt": "2026-09-26T17:01:04.123Z",
+      "contentText": null,
+      "summary": "Synthesia, a video-generation startup valued at $4 billion, creates interactive digital avatars that can answer questions and facilitate roleplay sessions. A journalist had an avatar made of herself, trained on a specific article, to demonstrate the technology's capabilities. These avatars combine voice-to-text, video, language, and text-to-voice models to create a responsive digital twin.",
+      "enterpriseAngle": "Enterprise product development teams can leverage Synthesia's platform to build interactive training videos and agentic roleplay simulations, allowing employees to practice skills with responsive AI avatars. Security teams should consider the implications of creating and hosting digital twins, including data privacy for voice and image capture, and the potential for misuse or deepfake concerns.",
+      "beginner": "Digital avatars are AI-powered copies of people that can talk and respond, useful for things like training or answering specific questions.",
+      "advanced": "Evaluate Synthesia's API platform for integrating their video and voice models with existing tech stacks to develop custom interactive avatar solutions, while ensuring robust data governance and consent mechanisms for biometric data capture.",
+      "tags": [
+        "product",
+        "enterprise",
+        "agents",
+        "security"
+      ]
+    },
+    {
+      "id": "fe937b84825f",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "At Meta Connect, the company's smart glasses were everywhere",
+      "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+      "publishedAt": "2026-09-26T01:08:57.000Z",
+      "fetchedAt": "2026-09-26T17:01:04.123Z",
+      "contentText": null,
+      "summary": "Meta showcased its new smart glasses at Connect, including audio-only versions designed to address privacy concerns and assist the hearing impaired. These glasses integrate with Muse, Meta's personal agentic system, allowing users to verbally command the AI for various tasks. The company is aiming to make smart glasses more widely adopted by focusing on style, functionality, and usefulness.",
+      "enterpriseAngle": "Enterprise product development teams can learn from Meta's approach to user privacy and accessibility in hardware design, particularly with the introduction of camera-less smart glasses and devices for the hearing impaired. The integration of an AI agent like Muse into a wearable form factor also highlights potential for hands-free enterprise applications.",
+      "beginner": "Meta is making glasses that can do smart things, like play music, make calls, and even help people who can't hear well, all while trying to make sure they respect your privacy.",
+      "advanced": "Evaluate the potential for integrating multimodal AI agents like Muse into enterprise wearable devices, considering the trade-offs between user convenience, privacy implications of data capture, and the need for robust, context-aware interaction models to prevent misinterpretations.",
+      "tags": [
+        "product",
+        "agents",
+        "hardware",
+        "enterprise"
+      ]
+    },
     {
       "id": "eb24f91b4396",
       "source": "techcrunch-ai",
@@ -148,6 +190,27 @@
       ]
     },
     {
+      "id": "fdba889df7cc",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+      "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+      "publishedAt": "2026-09-25T18:22:47.000Z",
+      "fetchedAt": "2026-09-26T17:01:04.123Z",
+      "contentText": null,
+      "summary": "Meta's personal AI agent, Muse, is reportedly outperforming early metrics set by ChatGPT and is slated for integration into smart glasses. This development occurred during a week when both Anthropic released Opus 5.5 and OpenAI updated its GPT-6 model.",
+      "enterpriseAngle": "Enterprise product development teams should consider Meta's Muse as a significant competitor in the AI agent space, especially for consumer-facing applications and hardware integrations. Security teams should prepare for the unique data privacy and security challenges posed by AI agents integrated into personal devices like smart glasses.",
+      "beginner": "New AI models and agents are constantly being released, with Meta's Muse showing strong early performance.",
+      "advanced": "Evaluate the performance benchmarks and integration capabilities of Meta's Muse against existing enterprise AI solutions, particularly for edge computing and wearable device applications.",
+      "tags": [
+        "agents",
+        "model-release",
+        "product",
+        "consumer"
+      ]
+    },
+    {
       "id": "ca53c408de44",
       "source": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -211,6 +274,27 @@
       ]
     },
     {
+      "id": "6927cc92c4d1",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Meta’s AI Tamagotchi bet is…working?",
+      "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+      "publishedAt": "2026-09-25T16:00:00.000Z",
+      "fetchedAt": "2026-09-26T17:01:04.123Z",
+      "contentText": null,
+      "summary": "Meta's personal AI agent, Muse, is reportedly outperforming early adoption numbers set by ChatGPT, even as OpenAI released GPT-6 and Anthropic launched Opus 5.5. Muse is also slated for integration into smart glasses. This suggests a shift in AI focus towards more personalized and integrated applications.",
+      "enterpriseAngle": "Enterprise product development teams should consider the success of Meta's Muse as an indicator of growing consumer demand for personalized AI agents integrated into everyday devices. Security teams will need to address new challenges related to data privacy and secure integration of AI into hardware like smart glasses.",
+      "beginner": "AI is becoming more personal and integrated into devices we use daily, like smart glasses.",
+      "advanced": "Evaluate the potential for personalized AI agents to drive user engagement and explore secure integration strategies for deploying AI on edge devices and wearables.",
+      "tags": [
+        "agents",
+        "product",
+        "consumer",
+        "hardware"
+      ]
+    },
+    {
       "id": "1f14fef7c28f",
       "source": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -270,6 +354,47 @@
         "research",
         "product",
         "enterprise"
+      ]
+    },
+    {
+      "id": "c6b6939f433a",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Affected by layoffs? Don't miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+      "url": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+      "publishedAt": "2026-09-25T14:15:00.000Z",
+      "fetchedAt": "2026-09-26T17:01:04.123Z",
+      "contentText": null,
+      "summary": "TechCrunch is offering a discounted $75 Expo+ Pass for its Disrupt 2026 conference to individuals affected by layoffs. This special offer is limited to the first 100 eligible registrants or until the event begins on October 13. The pass provides access to the Expo Hall, breakout sessions, side events, and AI-powered networking tools, allowing attendees to connect with founders, investors, and tech leaders.",
+      "enterpriseAngle": "Enterprise product development and security teams can leverage events like Disrupt to scout emerging technologies, identify potential partners, and recruit talent, especially from a pool of experienced professionals impacted by recent layoffs.",
+      "beginner": "If you've lost your job in tech, this event offers a chance to meet people and companies that could lead to your next career opportunity.",
+      "advanced": "Utilize the event's AI-powered matchmaking to strategically connect with key founders, investors, or potential hires, focusing on specific technological advancements or talent acquisition goals relevant to your enterprise's roadmap.",
+      "tags": [
+        "enterprise",
+        "workforce",
+        "product",
+        "learning"
+      ]
+    },
+    {
+      "id": "2bd068ea01eb",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5 of 5 to attend: Momentum",
+      "url": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum/",
+      "publishedAt": "2026-09-25T14:00:00.000Z",
+      "fetchedAt": "2026-09-26T17:01:04.123Z",
+      "contentText": null,
+      "summary": "TechCrunch Disrupt 2026 is offering a discount of up to $200 on passes for the next 24 hours. Attendees are encouraged to register to advance their startup's progress.",
+      "enterpriseAngle": "Enterprise product development and strategy teams can leverage events like TechCrunch Disrupt to identify emerging startups, potential partners, and new technologies that could influence future product roadmaps or competitive landscapes.",
+      "beginner": "TechCrunch Disrupt is an event where new companies and technologies are showcased, offering opportunities for networking and growth.",
+      "advanced": "Evaluate attending TechCrunch Disrupt 2026 to scout for early-stage innovation, potential acquisition targets, or strategic partnerships that align with your enterprise's long-term technology and market objectives.",
+      "tags": [
+        "enterprise",
+        "product",
+        "partnership"
       ]
     },
     {

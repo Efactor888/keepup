@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-09-26T17:02:32.213Z",
+  "updatedAt": "2026-09-26T23:28:49.646Z",
   "articles": [
+    {
+      "id": "71b88d6b7195",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Insurers claim AI is already increasing healthcare costs",
+      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "publishedAt": "2026-09-26T21:02:06.000Z",
+      "fetchedAt": "2026-09-26T23:28:31.184Z",
+      "contentText": null,
+      "summary": "A Blue Cross Blue Shield Association analysis suggests that hospitals' use of AI tools in submitting insurance claims led to an additional $942 million in healthcare spending over two years. The analysis indicates a rise in documented complex conditions without a corresponding change in care delivered, creating a disconnect between medical coding and actual treatment. Insurers claim this trend is increasing healthcare costs, with one executive describing it as a \"one-sided blood bath.\"",
+      "enterpriseAngle": "Enterprise healthcare providers and insurers must carefully evaluate the ethical implications and financial impacts of AI tools in claims processing and medical coding. Product development teams should focus on creating AI solutions that enhance efficiency and accuracy without inadvertently inflating costs or creating adversarial \"bot-on-bot\" scenarios.",
+      "beginner": "AI is being used by hospitals to help with insurance claims, but insurers say this is making healthcare more expensive because of how conditions are documented.",
+      "advanced": "Implement robust auditing mechanisms and explainable AI (XAI) frameworks within claims processing systems to identify and mitigate potential cost inflation driven by AI-assisted coding discrepancies.",
+      "tags": [
+        "enterprise",
+        "product",
+        "governance"
+      ]
+    },
     {
       "id": "dc5183e86bb5",
       "source": "techcrunch-ai",
@@ -415,6 +435,27 @@
         "research",
         "security",
         "policy"
+      ]
+    },
+    {
+      "id": "c27e736f539d",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+      "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+      "publishedAt": "2026-09-25T05:00:00.000Z",
+      "fetchedAt": "2026-09-26T23:28:31.184Z",
+      "contentText": null,
+      "summary": "Lightspeed is launching a new $250 million fund, Lightspeed India Partners V, specifically for early-stage AI startups in India and Southeast Asia. This fund is half the size of its predecessor and has already secured 80% of its target, with investments expected to begin within two months. The firm believes AI will create more value in India than the internet did, despite the region's nascent frontier AI model development.",
+      "enterpriseAngle": "Enterprise product development teams in India and Southeast Asia can anticipate increased early-stage funding opportunities for AI-driven solutions, potentially accelerating innovation in the application layer. This focused investment could lead to new partnerships and competitive solutions for enterprises leveraging India's software development talent.",
+      "beginner": "A big investment firm is putting a lot of money into new AI companies in India because they think AI will be a huge growth area there.",
+      "advanced": "Monitor Lightspeed's portfolio from this new fund for emerging AI application layer companies in India and Southeast Asia, as they could represent future acquisition targets or strategic partnership opportunities for enterprise AI initiatives.",
+      "tags": [
+        "funding",
+        "enterprise",
+        "product",
+        "partnership"
       ]
     },
     {

@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-09-27T17:38:31.725Z",
+  "updatedAt": "2026-09-27T23:43:57.823Z",
   "articles": [
+    {
+      "id": "63f85032962d",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Anthropic’s CEO is about to have dinner with President Trump",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "publishedAt": "2026-09-27T20:34:28.000Z",
+      "fetchedAt": "2026-09-27T23:43:39.030Z",
+      "contentText": null,
+      "summary": "Anthropic CEO Dario Amodei is scheduled to have dinner with President Donald Trump at the White House, marking their first one-on-one meeting. The two have differing views on AI development, with Amodei advocating for caution and Trump dismissing AI safety concerns as a \"hoax\" and preferring the term \"super intelligence.\" This meeting follows a period of tension between Anthropic and the Trump administration, including a Pentagon designation of Anthropic as a supply-chain risk.",
+      "enterpriseAngle": "Enterprises developing or deploying AI should note the direct engagement between AI leaders and top government officials, indicating increasing scrutiny and potential policy shifts that could impact product development and regulatory compliance. The differing views on AI safety between industry and government could lead to complex regulatory landscapes for businesses.",
+      "beginner": "Leaders in AI are starting to meet directly with government leaders to discuss how AI should be developed and used, which could lead to new rules for AI companies.",
+      "advanced": "Monitor the outcomes of high-level government-industry dialogues on AI safety and development, as they may foreshadow future regulatory frameworks and compliance requirements for enterprise AI solutions.",
+      "tags": [
+        "policy",
+        "governance",
+        "enterprise",
+        "partnership"
+      ]
+    },
+    {
+      "id": "80032e73c06a",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Can Muse overcome Meta’s trust issues?",
+      "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "publishedAt": "2026-09-27T19:57:30.000Z",
+      "fetchedAt": "2026-09-27T23:43:39.030Z",
+      "contentText": null,
+      "summary": "Meta unveiled Muse, a new consumer-focused AI agent, at its annual Connect event, signaling a push for AI features across its platforms. While other major AI companies are focusing on enterprise tools, Meta is targeting everyday users with Muse, which some early testers found to be more of a \"party-trick type thing\" than a tool for ongoing usage. A key challenge for Muse will be overcoming user trust issues, especially concerning the sharing of sensitive personal and financial information with a company whose business model relies on advertising.",
+      "enterpriseAngle": "While many AI companies are prioritizing enterprise solutions, Meta's consumer-centric approach with Muse highlights a different strategy for AI adoption, potentially creating a competitive landscape where consumer trust and data privacy will be critical differentiators. Enterprise product teams should consider how consumer-facing AI agents might influence user expectations for convenience and personalized assistance, even as they grapple with the inherent data privacy concerns associated with such tools.",
+      "beginner": "Meta's new AI, Muse, is designed for everyday people to use, but many wonder if they can trust Meta with their personal information.",
+      "advanced": "Evaluate the long-term implications of Meta's consumer-focused AI strategy on data privacy frameworks and consider how to build robust trust mechanisms into your own AI products, particularly when handling sensitive user data.",
+      "tags": [
+        "product",
+        "consumer",
+        "enterprise",
+        "governance"
+      ]
+    },
     {
       "id": "39e6d83733f3",
       "source": "techcrunch-ai",

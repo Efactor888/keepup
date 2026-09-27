@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-09-26T23:28:49.646Z",
+  "updatedAt": "2026-09-27T17:38:31.725Z",
   "articles": [
+    {
+      "id": "39e6d83733f3",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Anthropic's Dario Amodei gets the SNL treatment",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "publishedAt": "2026-09-27T16:30:00.000Z",
+      "fetchedAt": "2026-09-27T17:38:13.375Z",
+      "contentText": null,
+      "summary": "Saturday Night Live featured a skit impersonating Anthropic CEO Dario Amodei, highlighting recent warnings from the AI industry about potential existential risks. The skit portrayed Amodei as conflicted about AI's implications, humorously suggesting that AI executives are aware of the dangers while continuing their work. The segment also touched on AI's potential benefits, like curing cancer, with a darkly comedic outlook.",
+      "enterpriseAngle": "The skit reflects growing public and media attention on the ethical and existential concerns raised by AI leaders, which could influence public perception and regulatory scrutiny of enterprise AI development. Enterprise AI teams may face increased pressure to address safety and governance as these discussions become more mainstream.",
+      "beginner": "Even leaders in AI are publicly discussing the potential dangers of the technology, which is now becoming a topic for mainstream comedy shows.",
+      "advanced": "Monitor public discourse and media portrayals of AI risks, as they can shape regulatory landscapes and consumer trust, directly impacting enterprise AI adoption and compliance strategies.",
+      "tags": [
+        "governance",
+        "consumer",
+        "digest"
+      ]
+    },
+    {
+      "id": "7777e4571374",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "publishedAt": "2026-09-27T01:30:00.000Z",
+      "fetchedAt": "2026-09-27T17:38:13.375Z",
+      "contentText": null,
+      "summary": "Google is testing a new feature in India that allows users to purchase products directly from Walmart-owned Flipkart through Gemini and AI Mode. This initiative aims to expand Google's AI services beyond product discovery into direct transactions, with a \"Buy\" button appearing on select product listings that leads to a Flipkart checkout flow within the AI interface. The test is currently limited to some users and products, with a broader rollout planned for October.",
+      "enterpriseAngle": "This move by Google to integrate direct purchasing into its AI platforms highlights a growing trend for enterprises to leverage AI for end-to-end commerce, moving from discovery to transaction within a single AI-powered experience. Enterprise product teams should consider how their AI agents can facilitate direct sales and integrate with existing e-commerce platforms to streamline the customer journey.",
+      "beginner": "Google is making it easier to buy things online by letting you click a \"Buy\" button right inside its AI tools, taking you directly to checkout.",
+      "advanced": "Explore implementing the Universal Commerce Protocol (UCP) or similar agentic shopping frameworks to enable direct transactional capabilities within your AI agents, focusing on seamless integration with existing e-commerce checkout flows and merchant partnerships.",
+      "tags": [
+        "enterprise",
+        "product",
+        "agents",
+        "partnership"
+      ]
+    },
     {
       "id": "71b88d6b7195",
       "source": "techcrunch-ai",

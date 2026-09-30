@@ -1,6 +1,108 @@
 {
-  "updatedAt": "2026-09-29T18:35:00.483Z",
+  "updatedAt": "2026-09-30T00:17:28.288Z",
   "articles": [
+    {
+      "id": "91a3f4f5da3a",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "America.gov gets really weird when you ask it about Minecraft, but it's not a glitch",
+      "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+      "publishedAt": "2026-09-29T23:30:55.000Z",
+      "fetchedAt": "2026-09-30T00:16:33.486Z",
+      "contentText": null,
+      "summary": "The U.S. government launched its America.gov AI chatbot, developed in partnership with Google and SpaceXAI. When asked about Minecraft, the chatbot produces a lengthy, poetic response that is a rewritten version of the game's \"End Poem,\" not a hallucination. This Easter egg is attributed to a programmer named Edward Coristine.",
+      "enterpriseAngle": "Enterprise product development teams should consider incorporating creative and unexpected \"Easter eggs\" into their public-facing AI tools, as long as they are intentional and do not compromise the system's core function or security. This approach can humanize the AI and demonstrate control over its outputs, rather than indicating a malfunction.",
+      "beginner": "Even advanced AI chatbots can have hidden, pre-programmed responses, like a game's secret message, which are not signs of the AI thinking on its own.",
+      "advanced": "When deploying public-facing AI, anticipate and plan for \"red teaming\" by users, ensuring that any unusual outputs are either robustly safeguarded against or are intentional, controlled features like Easter eggs, rather than vulnerabilities or hallucinations.",
+      "tags": [
+        "product",
+        "enterprise",
+        "coding"
+      ]
+    },
+    {
+      "id": "8000c8f00f46",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "The internet is convinced Elon Musk's xAI trolled OpenAI's ‘Dots' launch",
+      "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+      "publishedAt": "2026-09-29T22:20:59.000Z",
+      "fetchedAt": "2026-09-30T00:16:33.486Z",
+      "contentText": null,
+      "summary": "OpenAI recently launched a new AI agent product called \"Dots.\" Coincidentally, the domain \"dot.com\" was recently acquired by Elon Musk's xAI and now redirects to xAI's Grok chatbot download page, leading to speculation that xAI trolled OpenAI's launch.",
+      "enterpriseAngle": "This situation highlights the competitive landscape in the AI industry and how brand perception and even domain name ownership can become part of rivalries, which could influence marketing and intellectual property strategies for enterprises.",
+      "beginner": "AI companies are very competitive, and sometimes they even play pranks on each other, like one company buying a website name similar to a competitor's new product.",
+      "advanced": "When launching new AI products, conduct thorough due diligence on potential domain name conflicts and consider defensive registrations to prevent brand confusion or competitive trolling.",
+      "tags": [
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "d219cdb2cc72",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "OpenAI's latest features take direct aim at the app store model",
+      "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+      "publishedAt": "2026-09-29T20:15:47.000Z",
+      "fetchedAt": "2026-09-30T00:16:33.486Z",
+      "contentText": null,
+      "summary": "OpenAI's latest announcements, including agentic assistants called Dots and an expanded plugin architecture for ChatGPT, aim to transform ChatGPT into a central hub for discovering, launching, and using software. This initiative allows users to bring their ChatGPT identity and AI allowance to third-party apps, while also enabling developers to build AI-native versions of their applications directly within the ChatGPT interface. The company is also introducing an enterprise app marketplace and improving the plugin submission process for developers.",
+      "enterpriseAngle": "Enterprise security and product development teams should consider how integrating their applications with ChatGPT's new ecosystem could offer a new distribution channel and enhance user experience, while also evaluating the security implications of allowing AI agents to access and operate within their tools. Product teams can leverage the expanded plugin architecture to create interactive, AI-native versions of their software, potentially reducing reliance on traditional app store models.",
+      "beginner": "OpenAI wants ChatGPT to be the main place where you find and use apps, making it easier for AI to help you with tasks without needing to download separate programs.",
+      "advanced": "Evaluate the new ChatGPT plugin architecture and 'Sign in with ChatGPT' for potential integration points to expand product reach and streamline user workflows, while simultaneously assessing the security posture of AI agent interactions with enterprise applications and data.",
+      "tags": [
+        "product",
+        "enterprise",
+        "agents",
+        "partnership"
+      ]
+    },
+    {
+      "id": "9ce258e5a60b",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+      "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "publishedAt": "2026-09-29T19:52:37.000Z",
+      "fetchedAt": "2026-09-30T00:16:33.486Z",
+      "contentText": null,
+      "summary": "OpenAI is reportedly in discussions to secure at least $30 billion in a pre-IPO funding round, which would value the company at approximately $1.4 trillion. This comes as the company has seen a significant increase in revenue, reaching $40 billion in August, driven by a strategic focus on areas like coding. CEO Sam Altman has indicated that a public debut is now unlikely in 2026, prioritizing AI safety.",
+      "enterpriseAngle": "Enterprises relying on OpenAI's models can expect continued investment in product development and safety, potentially leading to more robust and secure AI tools, though the delayed IPO suggests a focus on long-term stability over immediate public market pressures.",
+      "beginner": "OpenAI, the company behind ChatGPT, is seeking a large amount of money from investors to grow even bigger, but its CEO wants to make sure AI is safe before the company goes public.",
+      "advanced": "Given the reported $1.4T valuation and delayed IPO to prioritize AI safety, enterprise AI leaders should assess their long-term strategic alignment with OpenAI's evolving product roadmap and governance posture, particularly concerning model safety and responsible deployment.",
+      "tags": [
+        "funding",
+        "enterprise",
+        "policy",
+        "product"
+      ]
+    },
+    {
+      "id": "dd9b71cbd384",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Here's why OpenAI is absent from Nvidia's industry-wide effort to end rogue AI agents",
+      "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+      "publishedAt": "2026-09-29T18:35:00.000Z",
+      "fetchedAt": "2026-09-30T00:16:33.486Z",
+      "contentText": null,
+      "summary": "Nvidia has launched the Open Agent Safety Platform, a consortium of over 100 companies aimed at preventing rogue AI agents, but OpenAI is notably absent from the public pledge. Despite this, an OpenAI spokesperson confirmed their support for Nvidia's efforts, including collaboration on OpenShell, a key sandboxing software within the platform. The platform combines open-source software with proprietary hardware monitoring to detect and shut down misbehaving AI agents.",
+      "enterpriseAngle": "Enterprise security teams should be aware of emerging hardware-backed solutions for AI agent safety, as these could offer more robust protection against sophisticated agent behaviors. Product development teams building with AI agents should consider integrating such safety platforms to mitigate risks associated with autonomous agent operation.",
+      "beginner": "AI agents are programs that can act on their own, and new tools are being developed to make sure these agents don't do things they shouldn't.",
+      "advanced": "Evaluate the Open Agent Safety Platform's hybrid open-source and proprietary hardware approach, specifically the Nvidia Sentry and BlueField-4 DPUs, for its potential to provide undetectable, real-time agent behavior enforcement in your enterprise AI deployments.",
+      "tags": [
+        "agents",
+        "security",
+        "enterprise",
+        "product"
+      ]
+    },
     {
       "id": "925a5e11fe99",
       "source": "techcrunch-ai",
@@ -124,6 +226,27 @@
         "product",
         "security",
         "enterprise"
+      ]
+    },
+    {
+      "id": "4e6047898df7",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Can a chatbot fix the government maze? The White House is about to find out",
+      "url": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
+      "publishedAt": "2026-09-29T16:55:56.000Z",
+      "fetchedAt": "2026-09-30T00:16:33.486Z",
+      "contentText": null,
+      "summary": "The White House has launched America.gov, an AI chatbot powered by Google's Gemini and Grok, to simplify access to government services and information. President Trump stated it will serve as a single point of access, replacing the need to navigate numerous government websites. However, concerns exist regarding the chatbot's potential for hallucinations and the serious consequences errors could have for citizens seeking vital information.",
+      "enterpriseAngle": "Enterprises developing AI solutions for public-facing services must prioritize accuracy and reliability, as even minor errors in critical applications can lead to significant user impact and reputational damage. The government's use of multiple AI models (Gemini, Grok) also highlights a trend towards multi-model strategies in enterprise AI deployments.",
+      "beginner": "AI chatbots are being used by the government to help people find information, but they can sometimes make mistakes.",
+      "advanced": "Implement robust fact-checking mechanisms and human oversight for AI-powered government service chatbots to mitigate hallucination risks and ensure accuracy for critical citizen interactions.",
+      "tags": [
+        "product",
+        "policy",
+        "enterprise",
+        "governance"
       ]
     },
     {

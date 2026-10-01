@@ -1,6 +1,90 @@
 {
-  "updatedAt": "2026-09-30T18:23:17.119Z",
+  "updatedAt": "2026-10-01T00:29:44.608Z",
   "articles": [
+    {
+      "id": "5c1f615d64d2",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+      "publishedAt": "2026-09-30T23:43:07.000Z",
+      "fetchedAt": "2026-10-01T00:28:05.141Z",
+      "contentText": null,
+      "summary": "Google has launched Gemini 4 Argon, an AI model designed for tasks like coding, research, writing, and especially cybersecurity. It is currently being rolled out to select cyber partners through Google's Fairwind Program and is capable of autonomously finding, validating, and patching software vulnerabilities. Google claims Argon outperforms OpenAI's GPT-6 Astra and Anthropic's Fable and Opus models on various AI benchmarks.",
+      "enterpriseAngle": "Enterprise security teams can anticipate more sophisticated AI tools for defensive cyber work, potentially automating vulnerability management and enhancing code security. Product development teams may leverage such models for improved debugging, codebase migrations, and overall engineering efficiency.",
+      "beginner": "Google has released a new powerful AI model called Gemini 4 Argon that is particularly good at cybersecurity and can help fix software problems automatically.",
+      "advanced": "Evaluate the integration of Gemini 4 Argon's autonomous vulnerability discovery and patching capabilities into existing DevSecOps pipelines to enhance proactive security posture and reduce mean time to remediation.",
+      "tags": [
+        "model-release",
+        "security",
+        "enterprise",
+        "benchmark"
+      ]
+    },
+    {
+      "id": "b4341699df22",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+      "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+      "publishedAt": "2026-09-30T21:07:40.000Z",
+      "fetchedAt": "2026-10-01T00:28:05.141Z",
+      "contentText": null,
+      "summary": "Flow Engineering, a three-year-old AI startup specializing in AI tools for hardware design, has successfully raised a $50 million Series B funding round, valuing the company at $750 million. The round was co-led by Valor Equity Partners and Atreides Management, with participation from previous investor Sequoia Capital and individual investor Roelof Botha, who also joined Flow's board. The company's AI agents assist in aligning CAD drawings with product requirements and simulation results, serving customers such as Anduril, Rivian, and General Motors PPU.",
+      "enterpriseAngle": "Enterprise product development and engineering teams can leverage Flow Engineering's AI agents to automate and streamline complex hardware design processes, potentially accelerating product cycles and improving design accuracy. This investment highlights a growing trend in applying AI to optimize traditionally time-consuming and resource-intensive engineering tasks.",
+      "beginner": "A company called Flow Engineering uses AI to help design physical products like cars and rockets more efficiently, making it easier to create new hardware.",
+      "advanced": "Evaluate Flow Engineering's AI agent capabilities for integrating CAD with simulation and testing workflows to identify potential efficiencies in your hardware design and verification pipelines.",
+      "tags": [
+        "funding",
+        "enterprise",
+        "product",
+        "agents"
+      ]
+    },
+    {
+      "id": "d4c4ffc0ae75",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "OpenAI's Jev clone could help the frontier lab stop its swarming agents",
+      "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+      "publishedAt": "2026-09-30T19:00:57.000Z",
+      "fetchedAt": "2026-10-01T00:28:05.141Z",
+      "contentText": null,
+      "summary": "OpenAI has introduced its new \"Decisions API,\" which offers similar functionality to TypeSafe AI's Jev model. Both models are designed for fast, cheap software automation by providing an LLM with predefined choices, which they output as probabilities. This approach, termed \"System One compatible\" by TypeSafe, aims to address the comparative slowness and expense of traditional LLMs for certain tasks.",
+      "enterpriseAngle": "Enterprise security teams could leverage these fast and cost-effective decision models to monitor AI agents for misbehavior, potentially preventing incidents and significantly reducing the computational cost associated with current monitoring methods. Product development teams can integrate these APIs to augment LLMs, leading to faster and cheaper AI-powered applications.",
+      "beginner": "New AI tools are emerging that help make artificial intelligence faster and cheaper by giving it specific choices to pick from, rather than having it think broadly.",
+      "advanced": "Investigate integrating decision models like OpenAI's Decisions API or TypeSafe's Jev into agentic workflows to implement real-time, cost-effective behavioral monitoring and enhance agent reliability, particularly for high-volume or security-critical applications.",
+      "tags": [
+        "model-release",
+        "agents",
+        "security",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "b93ab270a51b",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+      "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+      "publishedAt": "2026-09-30T18:23:57.000Z",
+      "fetchedAt": "2026-10-01T00:28:05.141Z",
+      "contentText": null,
+      "summary": "AI voice startup ElevenLabs has doubled its valuation to $22 billion, allowing employees to sell vested equity in a $300 million tender offer. This marks the second time the company has offered employee liquidity, a growing trend among fast-growing AI startups to retain staff. The transaction was co-led by institutional investors Wellington and T. Rowe Price.",
+      "enterpriseAngle": "For enterprise product development teams, ElevenLabs' advanced voice AI capabilities offer significant opportunities to enhance user experience through realistic voice generation in applications. Enterprise security teams should note the increasing value of AI startups, which can impact M&A activity and the need for robust IP protection.",
+      "beginner": "ElevenLabs, a company that makes very realistic computer voices, is now worth twice as much money as before, and they're letting their employees sell some of their company shares.",
+      "advanced": "Evaluate the potential for integrating ElevenLabs' ultra-realistic voice generation technology into your product roadmap, while also assessing the competitive landscape and talent retention strategies in the rapidly appreciating AI startup market.",
+      "tags": [
+        "funding",
+        "enterprise",
+        "product",
+        "workforce"
+      ]
+    },
     {
       "id": "6860a783c564",
       "source": "techcrunch-ai",
@@ -145,6 +229,47 @@
         "research",
         "science",
         "security"
+      ]
+    },
+    {
+      "id": "3ea2f4486554",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-30T14:30:00.000Z",
+      "fetchedAt": "2026-10-01T00:28:05.141Z",
+      "contentText": null,
+      "summary": "Cerebras Systems CEO Andrew Feldman will discuss the increasing need for computational power, energy, and infrastructure for AI at TechCrunch Disrupt 2026. He will also address how Cerebras is tackling these challenges and what the future holds if current AI hardware capabilities are exhausted.",
+      "enterpriseAngle": "Enterprise product development teams should pay close attention to discussions around AI hardware limitations and alternative approaches to compute, as these factors directly impact the scalability and cost-effectiveness of their AI initiatives. Understanding these constraints will be crucial for long-term strategic planning and infrastructure investment.",
+      "beginner": "AI systems need a lot of computing power and energy, and there are questions about whether current technology can keep up with the growing demand.",
+      "advanced": "Evaluate your organization's long-term AI compute strategy, considering potential hardware limitations and exploring alternative architectures or specialized solutions like those offered by Cerebras to ensure sustainable scaling and cost efficiency.",
+      "tags": [
+        "infrastructure",
+        "hardware",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "3b382bc8ae7f",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
+      "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
+      "publishedAt": "2026-09-30T14:27:11.000Z",
+      "fetchedAt": "2026-10-01T00:28:05.141Z",
+      "contentText": null,
+      "summary": "Restate has secured $20 million in funding to support its durable execution engine. The company's unique architecture, which includes its own storage, replication, and redundancy layers, contributes to its speed and efficiency.",
+      "enterpriseAngle": "Enterprises can leverage Restate's lightweight and fast infrastructure to build more robust and scalable AI agent systems, reducing reliance on external databases for critical operations.",
+      "beginner": "Restate is a company that helps make AI programs more reliable and faster by building its own special storage system.",
+      "advanced": "Evaluate Restate's custom storage and replication architecture for potential integration into your AI agent deployment strategy to enhance durability and performance.",
+      "tags": [
+        "infrastructure",
+        "funding",
+        "agents"
       ]
     },
     {

@@ -1,6 +1,191 @@
 {
-  "updatedAt": "2026-10-01T00:29:44.608Z",
+  "updatedAt": "2026-10-01T18:49:05.767Z",
   "articles": [
+    {
+      "id": "3f1d1537d7c4",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+      "publishedAt": "2026-10-01T18:14:42.000Z",
+      "fetchedAt": "2026-10-01T18:46:56.360Z",
+      "contentText": null,
+      "summary": "OpenAI has dismissed three safety researchers for allegedly sharing confidential company information with an external AI safety organization, according to The Wall Street Journal. An internal investigation confirmed that these individuals mishandled sensitive information outside established company procedures. This incident follows reports of OpenAI executives downplaying employee warnings about safety practices and a series of security incidents involving its AI agents.",
+      "enterpriseAngle": "Enterprise security teams must establish clear policies and robust controls for handling sensitive company information, especially in rapidly evolving fields like AI, to prevent internal data breaches and maintain trust. Product development teams should prioritize security and safety concerns, ensuring internal channels for reporting issues are effective and that concerns are addressed before product launches.",
+      "beginner": "Even in advanced tech companies, employees must follow strict rules about sharing company information to protect secrets and maintain trust.",
+      "advanced": "Implement a comprehensive insider threat program that includes data loss prevention (DLP) solutions, regular security awareness training, and clear guidelines for external communication to mitigate risks associated with sensitive information handling by employees.",
+      "tags": [
+        "security",
+        "governance",
+        "enterprise",
+        "policy"
+      ]
+    },
+    {
+      "id": "eddd6741471d",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Opus 5.5 loves to tell you ‘this matters' (and other AI writing tells)",
+      "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+      "publishedAt": "2026-10-01T17:50:19.000Z",
+      "fetchedAt": "2026-10-01T18:46:56.360Z",
+      "contentText": "Now that LLM-generated prose is everywhere, human beings are eager for ways to sniff it out. While early tells like em-dashes and “delve” are long gone, researchers say there are still plenty of telltale habits that AI models fall back on when writing prose. A new study from the marketing firm Graphite looked at the writing habits of frontier models, sussing out each model's favorite words and phrases. While old tells like em-dash use have been stamped out, models still fall back on contrast-heavy constructions, with each model version showing its own unique quirks. The biggest surprise is how broad the scope of tells turns out to be. Graphite found 13,000 phrases that were at least twice as common in the AI content as human content — their definition of a “tell.” “It turns out that Claude models are actually getting closer to the human word distribution over time,” Graphite’s chief AI officer Greg Druck told TechCrunch. “And for the GPT models, it's getting further away.” Studying AI-generated writing at scale required a careful study design. Graphite started with a corpus of 10,000 articles published before the release of ChatGPT, serving as the human-generated control group. Then researchers had different AI models rewrite the articles from summaries, hoping to eliminate as much source bias as possible. With matching samples from both humans and each model, they could compare how often certain words and phrases appeared in AI writing, as well as broader patterns in sentence construction. According to Graphite’s results, Claude Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples. While Opus 5.5 now avoids the “it’s not X, it’s Y” sentence construction , it still tends to say something “is more than an X, it’s a Y.” Above all, Opus loves to tell you why things matter, using the phrase “this matters” 116 times more often than human writing, while “why X matters” occurs 92 times more often. OpenAI's Astra has a different set of tip-offs. This model loves to describe “another dimension” of whatever it’s talking about, and tends to hedge claims by saying an action “may provide” or “can provide” a particular benefit. Its biggest tell is what Graphite calls the “corrective framing,” where a topic is defined as “not simply X” or offered as an alternative, “rather than relying on X.” According to graphite’s research, those constructions were more than 100 times more common in Astra-generated prose than in human writing. Notably, all the frontier labs seem to have responded to the idea that models overuse em-dashes. In Graphite’s samples, Opus 5.5 used the punctuation mark 99% less often than Opus 5. Astra now uses it 88% less than human samples, whereas Gemini 3.1 Pro has almost completely eliminated the em-dash from its writing. But while individual tells change, Graphite says the overall number is mostly holding steady. “It’s not like the tells are decreasing,” Druck told TechCrunch. “They are managing to remove the most well-known tells, but other ones pop up. And every model version has its own.” It’s surprising that tells are so persistent, given the labs' focus on human-like writing styles. In the Opus 5.5 release , Anthropic boasted that the model “communicates more naturally than prior models,” saying early users “found its writing clearer and easier to follow.” OpenAI made similar claims when releasing the GPT-6 versions of Sol and Luna , saying users could “expect to see more clarity, less jargon, [and] fewer odd turns of phrase.” But Druck is skeptical about how much the labs can do to completely eliminate telltale construction or phrases. “A general hypothesis I have is that the labs are less able to control some of these things than you might expect,” Druck says. “These are giant models with billions of parameters. They have some finite number of tests they can run, and things slip through.” Topics AI , Anthropic , writing When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Russell Brandom AI Editor Russell Brandom has been covering the tech industry since 2012, with a focus on platform policy and emerging technologies. He previously worked at The Verge and Rest of World, and has written for Wired, The Awl and MIT's Technology Review. He can be reached at russell.brandom@techcrunch.com or on Signal at 412-401-5489. View Bio October 13 – 15 San Francisco Get 50% off a second pass The Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem. BOOK NOW Most Popular The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next Dominic-Madori Davis OpenAI launches Dots, its bubbly agentic avatar Lucas Ropek AMD will acquire Fei-Fei Li's World Labs for $8.2B Tim Fernholz Viral AI agent Instinct raises $1B Series C at a $10B valuation Sarah Perez Crusoe abandons $1.25B plan to use Boom turbines at AI data centers Kirsten Korosec Unsecured OpenAI agents posted 53 user images on the internet without the lab's knowledge Tim Fernholz Astra and Opus just passed Turing's other test Tim Fernholz",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
+    {
+      "id": "7e67b43cf9d0",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "The eternal complement",
+      "url": "https://openai.com/index/the-eternal-complement",
+      "publishedAt": "2026-10-01T17:00:00.000Z",
+      "fetchedAt": "2026-10-01T18:46:54.813Z",
+      "contentText": null,
+      "summary": "Humanity's capacity for exploration and discovery has outpaced its ability to execute complex projects, leading to a bottleneck in progress. The article suggests that advanced intelligence, whether human or artificial, requires a robust support system of execution and institutional intelligence to turn ideas into reality. This increasing complexity means that even genius-level insights depend heavily on extensive resources and coordinated effort.",
+      "enterpriseAngle": "Enterprises face growing complexity in product development and research, requiring significant resources and coordination to bring innovative ideas to fruition. AI can address this by automating monotonous tasks and streamlining execution, thereby enhancing institutional intelligence and accelerating progress.",
+      "beginner": "As AI becomes more advanced, it will help us do the repetitive, behind-the-scenes work that makes big ideas happen, freeing up humans for more creative tasks.",
+      "advanced": "Leverage AI to automate institutional intelligence functions, such as project management, resource allocation, and compliance, to unblock bottlenecks and scale frontier innovation efforts.",
+      "tags": [
+        "enterprise",
+        "research",
+        "workforce",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "0fbb393ce28b",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Amazon releases its own Jev clone as decision models flood the web",
+      "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+      "publishedAt": "2026-10-01T16:49:22.000Z",
+      "fetchedAt": "2026-10-01T18:46:56.360Z",
+      "contentText": null,
+      "summary": "Amazon Web Services has released Strands Decider 2B, an open-source decision model inspired by TypeSafe's Jev, designed for automated workflows. This model offers a high-speed, low-cost way to choose between predefined options and provides a confidence score for its selections. It is small enough to run locally and is intended for AI agentic workflows that do not always require the full capabilities or cost of a large language model.",
+      "enterpriseAngle": "Enterprise product development teams can leverage Strands Decider 2B to build more efficient and cost-effective AI agents for specific workflow steps, reducing reliance on expensive, general-purpose LLMs for every decision. Security teams should note that running models locally can offer more control over data privacy compared to cloud-based LLMs, but still requires careful implementation to prevent misuse.",
+      "beginner": "Instead of generating text like ChatGPT, this new type of AI model helps computers quickly make choices from a set of options, which is useful for automating tasks.",
+      "advanced": "Integrate Strands Decider 2B into agentic workflows for low-latency, high-confidence decision points, leveraging its open-source nature and local deployability to optimize cost and data sovereignty while carefully balancing performance on accuracy and calibration without degrading its general knowledge base.",
+      "tags": [
+        "model-release",
+        "agents",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "d94262263987",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+      "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+      "publishedAt": "2026-10-01T16:44:35.000Z",
+      "fetchedAt": "2026-10-01T18:46:56.360Z",
+      "contentText": null,
+      "summary": "Shopify has launched Canvas, a new AI-powered tool that allows merchants to build and customize their online stores by chatting with an AI agent called Sidekick. This tool displays real-time changes and allows for interactive testing across different screen sizes, making website creation more accessible without direct coding. Canvas aims to simplify the store setup process, building on Sidekick's existing capabilities for code generation and theme customization.",
+      "enterpriseAngle": "Enterprise product development teams should note the trend of AI-driven, conversational interfaces for complex tasks like website building, as this approach can significantly lower the barrier to entry for users and accelerate product creation. Security teams should consider the implications of AI agents directly modifying core application files and ensure robust access controls and validation mechanisms are in place.",
+      "beginner": "Shopify's new tool lets you create an online store just by telling an AI what you want, without needing to know how to code.",
+      "advanced": "Leverage conversational AI interfaces for internal tooling and customer-facing products to abstract complex technical processes, while ensuring the underlying architecture is simplified for AI interaction and robust security protocols are in place for direct file manipulation.",
+      "tags": [
+        "product",
+        "enterprise",
+        "agents",
+        "coding"
+      ]
+    },
+    {
+      "id": "a80484c2d584",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "url": "https://openai.com/index/albertsons-reimagining-retail",
+      "publishedAt": "2026-10-01T16:00:00.000Z",
+      "fetchedAt": "2026-10-01T18:46:54.813Z",
+      "contentText": null,
+      "summary": "Albertsons Companies is expanding its partnership with OpenAI to integrate AI into its retail operations and customer experiences. This collaboration aims to streamline internal workflows for teams and enhance the grocery shopping experience for millions of customers across its 2,200+ stores. A new Safeway experience within ChatGPT allows shoppers to plan meals, build carts, and find products more easily.",
+      "enterpriseAngle": "Enterprise product development and security teams should note the increasing integration of AI, like ChatGPT Enterprise and custom AI-powered experiences, into core business functions, requiring robust data privacy and model governance strategies. The use of AI for personalized customer experiences and data-driven recommendations highlights the need for secure and ethical AI deployment.",
+      "beginner": "AI is being used by grocery stores like Safeway to make shopping easier and help employees work more efficiently.",
+      "advanced": "Evaluate the potential for integrating generative AI into your enterprise's customer-facing applications and internal operational tools, focusing on secure data handling, explainable AI for business insights, and scalable deployment strategies.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "product",
+        "consumer"
+      ]
+    },
+    {
+      "id": "0d142c0352b5",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Brian Chesky interview: AI agents need their own operating system",
+      "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+      "publishedAt": "2026-10-01T15:12:00.000Z",
+      "fetchedAt": "2026-10-01T18:46:56.360Z",
+      "contentText": null,
+      "summary": "Airbnb CEO Brian Chesky believes current chatbot interfaces are not ideal for e-commerce, especially for travel planning, as they limit browsing and collaborative experiences. He envisions a future where AI interfaces are more dynamic and \"multiplayer,\" allowing groups to plan together. Chesky also foresees a shift towards AI agents and agent-to-agent interoperability, suggesting that a dedicated operating system for AI is needed to facilitate this evolution.",
+      "enterpriseAngle": "Enterprise product teams should focus on developing adaptive, generative, and collaborative AI interfaces beyond simple chatbots, while also preparing their platforms for seamless agent-to-agent interactions and robust software infrastructure to support external AI agents. Companies should consider how their applications can become more \"agentic\" and provide comprehensive SDKs to integrate with future AI operating systems.",
+      "beginner": "AI is changing how we interact with apps, moving beyond simple chatbots to more helpful tools that can work together and even create new screens on the fly.",
+      "advanced": "To prepare for the agent-driven future, prioritize developing robust, agent-friendly APIs and consider how your application's core functionalities can be exposed and utilized by external AI agents within a potential AI operating system.",
+      "tags": [
+        "agents",
+        "product",
+        "enterprise",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "2781adb3b156",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+      "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+      "publishedAt": "2026-10-01T14:00:00.000Z",
+      "fetchedAt": "2026-10-01T18:46:56.360Z",
+      "contentText": null,
+      "summary": "Photon, a startup, has secured $4.5 million in funding to develop AI agents that operate across various messaging platforms like iMessage, SMS/RCS, and email. The company believes these agents will eventually replace traditional mobile applications for consumers.",
+      "enterpriseAngle": "Enterprise product development teams should consider integrating AI agents into their customer communication strategies to offer services directly through messaging platforms, potentially reducing reliance on dedicated mobile apps.",
+      "beginner": "AI agents are like smart assistants that can help you do things through text messages or email, instead of needing to download a separate app.",
+      "advanced": "Evaluate the feasibility of migrating core mobile app functionalities to agent-based interfaces on prevalent messaging platforms to enhance user accessibility and reduce app development overhead.",
+      "tags": [
+        "agents",
+        "funding",
+        "product",
+        "consumer"
+      ]
+    },
+    {
+      "id": "91b1f786ee50",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "Barclays scales Claude to upgrade operations and improve client experience",
+      "url": "https://www.anthropic.com/news/barclays-scales-claude",
+      "publishedAt": "2026-10-01T09:16:50.000Z",
+      "fetchedAt": "2026-10-01T18:46:54.192Z",
+      "contentText": null,
+      "summary": "Barclays is expanding its collaboration with Anthropic, integrating Claude AI across its global operations to accelerate software development, modernize systems, and enhance operational efficiency. The bank anticipates Claude Code adoption by 50% of its developers by late 2026, aiming for a majority by 2027. This expansion includes using Claude for a Colleague Knowledge Assistant, which has handled over a million searches, and for streamlining email processing in its Global Markets business.",
+      "enterpriseAngle": "Enterprise security and product development teams can leverage AI, like Claude Code, to modernize legacy systems, improve software quality, and enhance operational efficiency, while integrating robust governance and security controls for responsible deployment.",
+      "beginner": "Large banks are using AI to help their employees find information faster and improve how they handle customer requests.",
+      "advanced": "Implement retrieval-augmented generation (RAG) architectures with robust governance and human oversight to deploy AI solutions for knowledge assistance and workflow automation, focusing on measurable improvements in operational efficiency and developer productivity.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "product",
+        "coding"
+      ],
+      "dateChecked": true
+    },
     {
       "id": "5c1f615d64d2",
       "source": "techcrunch-ai",

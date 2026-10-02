@@ -1,6 +1,69 @@
 {
-  "updatedAt": "2026-10-01T18:49:05.767Z",
+  "updatedAt": "2026-10-02T00:41:21.455Z",
   "articles": [
+    {
+      "id": "578143be7e8f",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Musk's AI chatbot Grok reportedly encouraged Trump to capture Venezuela's president",
+      "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+      "publishedAt": "2026-10-01T21:08:11.000Z",
+      "fetchedAt": "2026-10-02T00:38:32.784Z",
+      "contentText": null,
+      "summary": "Elon Musk's Grok chatbot reportedly advised then-President Trump on the potential public reaction to capturing Venezuela's president, Nicolás Maduro, prior to the U.S. invasion in December 2025. Grok indicated that Maduro was unpopular and his downfall would be celebrated, which reportedly impressed Trump when events unfolded as predicted. The Pentagon's head of AI later stated that the military used a version of Grok, called Gov Grok, for target deployment and strikes during the Iran War.",
+      "enterpriseAngle": "Enterprises developing or deploying AI models, especially those with government or military applications, must consider the ethical implications and potential for their models to influence high-stakes decisions, highlighting the critical need for robust governance and oversight frameworks. The use of AI in military operations also raises questions about accountability and the role of AI in strategic planning.",
+      "beginner": "AI chatbots can provide information that might influence important decisions, even in government and military contexts.",
+      "advanced": "Implement rigorous red-teaming and adversarial testing for AI models intended for sensitive applications, focusing on geopolitical scenarios and potential for biased or inflammatory advice, to mitigate risks of unintended influence and ensure alignment with ethical guidelines.",
+      "tags": [
+        "governance",
+        "policy",
+        "enterprise",
+        "agents"
+      ]
+    },
+    {
+      "id": "9b59a27765f5",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "ChatGPT can now virtually try on clothes for you",
+      "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+      "publishedAt": "2026-10-01T19:21:53.000Z",
+      "fetchedAt": "2026-10-02T00:38:32.784Z",
+      "contentText": null,
+      "summary": "OpenAI has introduced new shopping features for ChatGPT, including a virtual try-on function for clothing and accessories, and a favoriting option to save products. These features leverage the new ChatGPT Images 2.5 model, which offers improved image generation capabilities. Users can upload photos to visualize items on themselves or find similar styles based on descriptions or celebrity outfits.",
+      "enterpriseAngle": "Enterprise product development teams in e-commerce can explore integrating similar AI-powered virtual try-on and product discovery tools to enhance customer experience and drive sales. Security teams should consider the implications of users uploading personal images for virtual try-on, ensuring robust data privacy and image handling protocols are in place.",
+      "beginner": "ChatGPT can now help you see how clothes might look on you before you buy them online, just by uploading a picture of yourself.",
+      "advanced": "Leverage the improved image generation and editing capabilities of models like ChatGPT Images 2.5 to develop more realistic and interactive virtual try-on experiences, while also integrating robust data privacy measures for user-uploaded imagery.",
+      "tags": [
+        "product",
+        "consumer",
+        "model-release",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "a7b14ae6edab",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Google thinks SpaceX's Starship has to launch 1,800 times before space data centers get off the ground",
+      "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+      "publishedAt": "2026-10-01T19:18:03.000Z",
+      "fetchedAt": "2026-10-02T00:38:32.784Z",
+      "contentText": null,
+      "summary": "Google has launched its first orbital compute satellite, carrying a Tensor Processing Unit (TPU) chip into space to test its functionality in the harsh environment. This is part of Project Suncatcher, Google's long-term initiative to develop large-scale orbital data centers. The company envisions a network of 81 satellites working in parallel to handle future AI workloads, but acknowledges that the necessary cost-effective rocket launches, specifically from SpaceX's Starship, are still years away.",
+      "enterpriseAngle": "Enterprise product development teams exploring edge computing or specialized AI workloads in extreme environments should note Google's rigorous testing of hardware resilience and power management in space. This initiative highlights the long-term vision for distributed AI infrastructure, which could eventually offer new paradigms for data processing and service delivery.",
+      "beginner": "Google is sending its special AI computer chips into space to see if they can work there, aiming to build a network of orbiting data centers for future AI needs.",
+      "advanced": "Evaluate the feasibility of deploying specialized AI inference workloads in radiation-hardened orbital platforms, considering the projected cost reductions in launch services and the implications for latency-sensitive, multi-rack compute architectures.",
+      "tags": [
+        "infrastructure",
+        "research",
+        "enterprise",
+        "product"
+      ]
+    },
     {
       "id": "3f1d1537d7c4",
       "source": "techcrunch-ai",
@@ -31,12 +94,16 @@
       "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
       "publishedAt": "2026-10-01T17:50:19.000Z",
       "fetchedAt": "2026-10-01T18:46:56.360Z",
-      "contentText": "Now that LLM-generated prose is everywhere, human beings are eager for ways to sniff it out. While early tells like em-dashes and “delve” are long gone, researchers say there are still plenty of telltale habits that AI models fall back on when writing prose. A new study from the marketing firm Graphite looked at the writing habits of frontier models, sussing out each model's favorite words and phrases. While old tells like em-dash use have been stamped out, models still fall back on contrast-heavy constructions, with each model version showing its own unique quirks. The biggest surprise is how broad the scope of tells turns out to be. Graphite found 13,000 phrases that were at least twice as common in the AI content as human content — their definition of a “tell.” “It turns out that Claude models are actually getting closer to the human word distribution over time,” Graphite’s chief AI officer Greg Druck told TechCrunch. “And for the GPT models, it's getting further away.” Studying AI-generated writing at scale required a careful study design. Graphite started with a corpus of 10,000 articles published before the release of ChatGPT, serving as the human-generated control group. Then researchers had different AI models rewrite the articles from summaries, hoping to eliminate as much source bias as possible. With matching samples from both humans and each model, they could compare how often certain words and phrases appeared in AI writing, as well as broader patterns in sentence construction. According to Graphite’s results, Claude Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples. While Opus 5.5 now avoids the “it’s not X, it’s Y” sentence construction , it still tends to say something “is more than an X, it’s a Y.” Above all, Opus loves to tell you why things matter, using the phrase “this matters” 116 times more often than human writing, while “why X matters” occurs 92 times more often. OpenAI's Astra has a different set of tip-offs. This model loves to describe “another dimension” of whatever it’s talking about, and tends to hedge claims by saying an action “may provide” or “can provide” a particular benefit. Its biggest tell is what Graphite calls the “corrective framing,” where a topic is defined as “not simply X” or offered as an alternative, “rather than relying on X.” According to graphite’s research, those constructions were more than 100 times more common in Astra-generated prose than in human writing. Notably, all the frontier labs seem to have responded to the idea that models overuse em-dashes. In Graphite’s samples, Opus 5.5 used the punctuation mark 99% less often than Opus 5. Astra now uses it 88% less than human samples, whereas Gemini 3.1 Pro has almost completely eliminated the em-dash from its writing. But while individual tells change, Graphite says the overall number is mostly holding steady. “It’s not like the tells are decreasing,” Druck told TechCrunch. “They are managing to remove the most well-known tells, but other ones pop up. And every model version has its own.” It’s surprising that tells are so persistent, given the labs' focus on human-like writing styles. In the Opus 5.5 release , Anthropic boasted that the model “communicates more naturally than prior models,” saying early users “found its writing clearer and easier to follow.” OpenAI made similar claims when releasing the GPT-6 versions of Sol and Luna , saying users could “expect to see more clarity, less jargon, [and] fewer odd turns of phrase.” But Druck is skeptical about how much the labs can do to completely eliminate telltale construction or phrases. “A general hypothesis I have is that the labs are less able to control some of these things than you might expect,” Druck says. “These are giant models with billions of parameters. They have some finite number of tests they can run, and things slip through.” Topics AI , Anthropic , writing When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Russell Brandom AI Editor Russell Brandom has been covering the tech industry since 2012, with a focus on platform policy and emerging technologies. He previously worked at The Verge and Rest of World, and has written for Wired, The Awl and MIT's Technology Review. He can be reached at russell.brandom@techcrunch.com or on Signal at 412-401-5489. View Bio October 13 – 15 San Francisco Get 50% off a second pass The Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem. BOOK NOW Most Popular The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next Dominic-Madori Davis OpenAI launches Dots, its bubbly agentic avatar Lucas Ropek AMD will acquire Fei-Fei Li's World Labs for $8.2B Tim Fernholz Viral AI agent Instinct raises $1B Series C at a $10B valuation Sarah Perez Crusoe abandons $1.25B plan to use Boom turbines at AI data centers Kirsten Korosec Unsecured OpenAI agents posted 53 user images on the internet without the lab's knowledge Tim Fernholz Astra and Opus just passed Turing's other test Tim Fernholz",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "A new study by Graphite reveals that despite efforts to make AI writing more human-like, large language models still exhibit distinct linguistic \"tells,\" or frequently used words and phrases. While some common tells like em-dashes have been reduced, new ones emerge with each model version. For example, Claude Opus 5.5 often uses phrases like \"this matters,\" and OpenAI's Astra frequently employs \"another dimension\" or \"may provide\" constructions.",
+      "enterpriseAngle": "Enterprise product development teams building with LLMs must be aware that AI-generated content still carries identifiable linguistic patterns, which could impact brand voice, authenticity, and user trust. Security teams should consider how these unique writing styles might be leveraged for content provenance or detection of AI-generated misinformation.",
+      "beginner": "Even as AI gets better at writing, it still has unique habits in how it phrases things, making it possible to tell AI-written text apart from human writing.",
+      "advanced": "Implement continuous linguistic analysis on LLM outputs to identify and mitigate emerging model-specific tells, ensuring content aligns with desired human-like qualities and avoiding unintended stylistic biases.",
+      "tags": [
+        "research",
+        "product",
+        "learning"
+      ]
     },
     {
       "id": "7e67b43cf9d0",
@@ -165,6 +232,48 @@
       ]
     },
     {
+      "id": "8823ad0e46f1",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Hearing tech startup Legato launches its AI hearing glasses",
+      "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+      "publishedAt": "2026-10-01T13:00:00.000Z",
+      "fetchedAt": "2026-10-02T00:38:32.784Z",
+      "contentText": null,
+      "summary": "Legato, a hearing tech startup, has launched its AI-powered hearing glasses, Legato Frames, designed for adults with moderate hearing loss. These glasses integrate hearing assistance into eyewear frames, aiming to provide a more accessible and less stigmatized alternative to traditional hearing aids. The AI system in the glasses distinguishes and amplifies voices while reducing background noise, with all processing occurring on the device itself.",
+      "enterpriseAngle": "Enterprise product development teams in health tech and wearables can learn from Legato's approach to integrating AI for a seamless user experience, particularly in addressing common user pain points like cost, comfort, and social stigma. Security teams should note the emphasis on on-device processing and lack of recording, which can be a strong selling point for privacy-conscious consumers and enterprises.",
+      "beginner": "Legato's new glasses use AI to help people with hearing loss hear better by making voices clearer and reducing background noise.",
+      "advanced": "Evaluate Legato's on-device AI processing architecture for potential applications in edge computing and privacy-preserving audio solutions, particularly its dual-speaker system for sound direction and cancellation, which could inform future secure audio hardware designs.",
+      "tags": [
+        "product",
+        "hardware",
+        "consumer",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "29fe7c1feed5",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+      "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+      "publishedAt": "2026-10-01T12:00:00.000Z",
+      "fetchedAt": "2026-10-02T00:38:32.784Z",
+      "contentText": null,
+      "summary": "Satlyt, a new company founded by former Google and SpaceX product manager Rama Afullo, has raised $8 million to develop software that enables AI models to run on satellites. The company aims to create a shared computing system in space, allowing satellites to process data and make decisions onboard, reducing the need for costly and slow data transmission to Earth. Satlyt's software has already demonstrated efficiency gains, such as cutting transmission sizes for software errors by over 60%.",
+      "enterpriseAngle": "Enterprise product development teams can leverage Satlyt's platform to deploy AI models on satellites, enabling real-time data processing and decision-making in space, which can lead to significant operational cost savings and enhanced capabilities for space-based services. This also opens new avenues for enterprises in areas like space surveillance and in-orbit cloud computing.",
+      "beginner": "Satlyt is building software that lets artificial intelligence work directly on satellites, making them smarter and more efficient without constantly talking to Earth.",
+      "advanced": "Evaluate Satlyt's horizontally integrated software for deploying AI models like Google DeepMind's Gemma on existing satellite infrastructure to optimize downlink costs and enable autonomous in-orbit operations, particularly for sensor data processing and anomaly resolution.",
+      "tags": [
+        "enterprise",
+        "product",
+        "infrastructure",
+        "funding"
+      ]
+    },
+    {
       "id": "91b1f786ee50",
       "source": "anthropic",
       "sourceName": "Anthropic",
@@ -185,6 +294,26 @@
         "coding"
       ],
       "dateChecked": true
+    },
+    {
+      "id": "3bba52758573",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "url": "https://openai.com/index/the-den-family-social",
+      "publishedAt": "2026-10-01T00:00:00.000Z",
+      "fetchedAt": "2026-10-02T00:38:30.492Z",
+      "contentText": null,
+      "summary": "The Den, a social club, has significantly reduced administrative time by using ChatGPT Work, saving its leadership team 10-15 hours weekly. This efficiency gain allows them to prepare grant applications in two hours instead of three days and liquor license materials in three hours instead of four days. The adoption of AI has enabled the small business to manage increasing workloads and focus on growth while expanding to a second location.",
+      "enterpriseAngle": "Enterprise and product development teams can leverage AI tools like ChatGPT Work to streamline administrative tasks, accelerate critical processes such as licensing and grant applications, and improve decision-making through data analysis. This frees up valuable human resources to focus on strategic growth and innovation, even for small to medium-sized businesses.",
+      "beginner": "AI tools can help businesses save a lot of time on daily tasks, making it easier to grow and manage operations.",
+      "advanced": "Integrate AI-powered assistants with existing enterprise systems (e.g., Gmail, Slack, Google Drive) to automate information gathering, analysis, and initial drafting of complex documents, ensuring human review for accuracy and final decision-making.",
+      "tags": [
+        "enterprise",
+        "product",
+        "agents"
+      ]
     },
     {
       "id": "5c1f615d64d2",

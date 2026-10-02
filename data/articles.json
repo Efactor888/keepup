@@ -1,6 +1,255 @@
 {
-  "updatedAt": "2026-10-02T00:41:21.455Z",
+  "updatedAt": "2026-10-02T18:20:52.296Z",
   "articles": [
+    {
+      "id": "39b9fbb58d7c",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Apple says it's tightening macOS ‘Full Disk Access' controls due to new risks from AI agents",
+      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "publishedAt": "2026-10-02T18:11:27.000Z",
+      "fetchedAt": "2026-10-02T18:19:07.347Z",
+      "contentText": null,
+      "summary": "Apple is enhancing macOS Full Disk Access controls to mitigate risks posed by advanced AI agents. The company notes that AI agents with broad access to user data, including files, messages, mail, and browsing history, present new security challenges.",
+      "enterpriseAngle": "Enterprise security teams should prepare for updated macOS security policies and assess how their internal AI agent deployments interact with these tightened access controls to prevent data leakage or unauthorized access. Product development teams building AI agents for macOS will need to ensure their applications comply with the stricter Full Disk Access requirements.",
+      "beginner": "Apple is making it harder for AI programs to snoop on your computer files, like messages and browsing history, to keep your information safer.",
+      "advanced": "Review and update your macOS endpoint security configurations and AI agent deployment strategies to align with Apple's tightened Full Disk Access controls, focusing on least privilege principles for AI-driven applications.",
+      "tags": [
+        "security",
+        "agents",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "88ce35f7c1e7",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+      "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
+      "publishedAt": "2026-10-02T17:56:00.000Z",
+      "fetchedAt": "2026-10-02T18:19:07.347Z",
+      "contentText": null,
+      "summary": "The White House hosted major tech CEOs, including Zuckerberg, Bezos, Musk, and Amodei, to sign an AI safety pledge that President Trump deemed \"morally binding.\" President Trump also issued an executive order to officially rename AI as \"super intelligence.\" Concurrently, Meta and OpenAI are working to make their AI products more user-friendly.",
+      "enterpriseAngle": "Enterprise product development teams should note the White House's push for AI safety pledges and the rebranding of AI, which could influence public perception and regulatory landscapes. Companies developing AI products should consider the impact of these initiatives on consumer trust and adoption, as well as potential future compliance requirements.",
+      "beginner": "AI is getting a new name from the government and tech companies are promising to make it safe, while also trying to make their AI tools easier for everyone to use.",
+      "advanced": "Monitor evolving regulatory frameworks and public perception shifts driven by government initiatives and industry pledges to inform product roadmaps and risk management strategies.",
+      "tags": [
+        "policy",
+        "governance",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "fe94e1e83959",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "It's not AI anymore, it's ‘super intelligence’ (according to the White House)",
+      "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+      "publishedAt": "2026-10-02T17:48:16.000Z",
+      "fetchedAt": "2026-10-02T18:19:07.347Z",
+      "contentText": null,
+      "summary": "The White House recently gathered major tech CEOs, including Zuckerberg, Bezos, Musk, and Amodei, to sign an AI safety pledge. President Trump also issued an executive order officially renaming AI as “super intelligence.” Concurrently, Meta and OpenAI are working to make their AI products more user-friendly.",
+      "enterpriseAngle": "Enterprise product teams should note the shift in official terminology from “AI” to “super intelligence” and consider its implications for public perception and regulatory language. This also highlights a growing emphasis on AI safety and ethical considerations, which will likely influence future product development and compliance requirements.",
+      "beginner": "The government is taking AI seriously, even changing its name to “super intelligence” and asking big tech companies to promise to make it safe.",
+      "advanced": "Monitor the evolving regulatory landscape and public discourse around “super intelligence” to anticipate future compliance requirements and adjust product roadmaps accordingly, particularly regarding safety and ethical AI development.",
+      "tags": [
+        "policy",
+        "governance",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "77605701fd67",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+      "publishedAt": "2026-10-02T17:32:05.000Z",
+      "fetchedAt": "2026-10-02T18:19:07.347Z",
+      "contentText": null,
+      "summary": "Jas Khaira, global head of Blackstone N1, will speak at TechCrunch Disrupt 2026 about what it takes for AI startups to become enduring businesses. He will discuss how founders should approach capital decisions and what Blackstone looks for when investing in AI companies. The discussion will cover the significant capital requirements for scaling AI, including infrastructure and product development.",
+      "enterpriseAngle": "Enterprise product development and security teams should understand that building sustainable AI solutions requires substantial, well-managed capital, not just rapid growth, to fund critical infrastructure and talent. This perspective can inform strategic planning for long-term AI initiatives and partnerships.",
+      "beginner": "Building an AI company requires a lot of money, not just for creating products, but also for powerful computers and data centers.",
+      "advanced": "When evaluating AI investment opportunities, prioritize companies demonstrating a clear strategy for capital deployment beyond initial traction, focusing on sustainable infrastructure and talent acquisition to ensure long-term viability.",
+      "tags": [
+        "enterprise",
+        "funding",
+        "infrastructure",
+        "product"
+      ]
+    },
+    {
+      "id": "9f2dde650fe4",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "Claude Frontier Academy: $100M to train 10,000 engineers",
+      "url": "https://www.anthropic.com/news/claude-frontier-academy",
+      "publishedAt": "2026-10-02T17:12:50.000Z",
+      "fetchedAt": "2026-10-02T18:19:04.851Z",
+      "contentText": null,
+      "summary": "Anthropic has launched the Claude Frontier Academy, committing $100 million to train 10,000 \"Frontier Deployed Engineers\" (FDEs) by the end of 2027. This program aims to address the talent gap in enterprise AI implementation by training engineers from partner organizations to deploy Claude within their businesses. The academy uses a residency model, similar to medical training, where engineers learn from practitioners and work on real-world projects.",
+      "enterpriseAngle": "This initiative directly tackles the critical shortage of skilled AI engineers within enterprises, enabling companies to more effectively integrate and leverage advanced AI models like Claude for product development and operational efficiency. Enterprise security teams will benefit from engineers trained to consider security reviews as part of the deployment process, ensuring AI solutions are built and shipped securely.",
+      "beginner": "Anthropic is investing a lot of money to teach many engineers how to use their AI, Claude, in businesses because there aren't enough people with those skills.",
+      "advanced": "Leverage the Claude Frontier Academy's residency model to upskill your organization's top software engineers in secure, agentic system deployment, focusing on practical application and real-world project leadership to accelerate AI integration and productization.",
+      "tags": [
+        "enterprise",
+        "workforce",
+        "product",
+        "learning"
+      ],
+      "dateChecked": true
+    },
+    {
+      "id": "a84fd7ae93e8",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+      "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+      "publishedAt": "2026-10-02T17:00:00.000Z",
+      "fetchedAt": "2026-10-02T18:19:07.347Z",
+      "contentText": null,
+      "summary": "Circuit Breaker Labs is developing \"crash-test dummies\" for AI to address the psychological harm that artificial intelligence has already caused some individuals. This initiative aims to enhance the safety of AI systems.",
+      "enterpriseAngle": "Enterprise product development teams should consider integrating similar \"crash-test dummy\" methodologies to proactively identify and mitigate potential psychological harms in their AI applications, particularly those interacting with users. This approach can help in building more robust and ethically sound AI products.",
+      "beginner": "AI can sometimes cause psychological harm, and Circuit Breaker Labs is creating tools to test AI systems to prevent this.",
+      "advanced": "Implement adversarial testing frameworks using simulated user profiles to stress-test AI systems for psychological safety and identify potential failure modes before deployment.",
+      "tags": [
+        "product",
+        "security",
+        "research"
+      ]
+    },
+    {
+      "id": "8e206c4d9ed6",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "A model guide for the GPT-6 family",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "publishedAt": "2026-10-02T16:15:00.000Z",
+      "fetchedAt": "2026-10-02T18:19:05.764Z",
+      "contentText": null,
+      "summary": "OpenAI has released a guide for its GPT-6 family of models, offering practical advice for optimizing performance, managing costs, and preparing AI workflows for production. The guide emphasizes matching the right GPT-6 model to specific workloads, adjusting prompts for clarity, and efficiently handling long-running tasks. It also introduces features like caching, compaction, and variable reasoning levels to enhance model effectiveness.",
+      "enterpriseAngle": "Enterprise teams can leverage this guide to optimize their AI deployments, ensuring efficient resource utilization and improved model performance for various business applications, from complex coding to routine data extraction. The focus on cost management, production readiness, and task-specific model selection directly addresses key concerns for enterprise AI adoption.",
+      "beginner": "GPT-6 is OpenAI's newest set of AI models, and this guide helps you pick the right one for your task and give it clear instructions to get the best results.",
+      "advanced": "Implement prompt caching and context compaction strategies, along with dynamic reasoning level adjustments and model-to-workload matching, to maximize efficiency and cost-effectiveness for GPT-6 API integrations in production environments.",
+      "tags": [
+        "model-release",
+        "enterprise",
+        "product",
+        "coding"
+      ]
+    },
+    {
+      "id": "c4d9a25e0d17",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "Redefining enterprise intelligence with autonomous AI",
+      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+      "publishedAt": "2026-10-02T15:49:04.000Z",
+      "fetchedAt": "2026-10-02T18:19:07.605Z",
+      "contentText": null,
+      "summary": "Enterprise AI is rapidly becoming operational, with model capabilities improving quickly and costs decreasing. Global investment in AI is projected to hit $2.5 trillion in 2026, marking a 44% increase from the prior year.",
+      "enterpriseAngle": "Enterprise security and product development teams must adapt to the accelerating pace of AI innovation and integrate new capabilities while managing associated costs.",
+      "beginner": "AI is becoming a standard part of business operations, with significant money being invested in its development and use.",
+      "advanced": "Prioritize strategic integration of advanced AI models to leverage falling performance costs, focusing on scalable and secure deployment.",
+      "tags": [
+        "enterprise",
+        "funding",
+        "product"
+      ]
+    },
+    {
+      "id": "7170e2014863",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Pope Leo XIV is not a fan of AI-generated art",
+      "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+      "publishedAt": "2026-10-02T15:39:41.000Z",
+      "fetchedAt": "2026-10-02T18:19:07.347Z",
+      "contentText": null,
+      "summary": "Pope Leo XIV stated that AI-generated art lacks the \"spark of humanity\" and has an ontological difference from art created by humans. He believes that machines generate images through statistical calculations rather than true artistic creation.",
+      "enterpriseAngle": "Enterprises developing AI art tools or integrating AI into creative workflows should consider the ethical and philosophical implications of AI-generated content, especially regarding authenticity and human creativity.",
+      "beginner": "AI-generated art is made by computers using math, not human feelings, which some people believe makes it fundamentally different from art made by people.",
+      "advanced": "When developing AI art generation models, prioritize explainable AI and mechanisms that allow for human oversight and intervention to address concerns about authenticity and the 'spark of humanity' in creative outputs.",
+      "tags": [
+        "policy",
+        "product",
+        "governance"
+      ]
+    },
+    {
+      "id": "d26cbd179582",
+      "source": "google-ai",
+      "sourceName": "Google AI",
+      "tier": "realtime",
+      "title": "The latest AI news we announced in September 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "publishedAt": "2026-10-02T15:00:00.000Z",
+      "fetchedAt": "2026-10-02T18:19:05.945Z",
+      "contentText": null,
+      "summary": "Google announced several AI updates in September 2026, including the release of Gemini 4 Argon, a new frontier model designed for complex tasks with a 1-million-token context window. Other updates include new voice models, app integrations within the Gemini app, and scientific advancements in DNA mapping and methane tracking. Google also introduced Gemini for Windows and the Googlebook laptop.",
+      "enterpriseAngle": "Enterprises can leverage Gemini 4 Argon for heavy-duty workloads like cybersecurity defense, financial research, and legal drafting, while Gemini 3.8 Flash Cyber offers autonomous vulnerability discovery and automated code patching for enhanced security. The integration of various productivity and creative apps into Gemini streamlines workflows and boosts efficiency for enterprise users.",
+      "beginner": "Google is making its AI more powerful and easier to use by releasing new models, improving voice interactions, and allowing you to connect your favorite apps directly to its AI tools.",
+      "advanced": "Explore the Fairwind Program for early access to Gemini 4 Argon and Gemini 3.8 Flash Cyber to integrate advanced reasoning and autonomous cybersecurity capabilities into your enterprise solutions, focusing on feedback for guardrail iteration.",
+      "tags": [
+        "model-release",
+        "enterprise",
+        "product",
+        "security"
+      ]
+    },
+    {
+      "id": "5a3c2fdeffa2",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "Don’t be fooled—LLMs don’t reason",
+      "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+      "publishedAt": "2026-10-02T08:00:00.000Z",
+      "fetchedAt": "2026-10-02T18:19:07.605Z",
+      "contentText": null,
+      "summary": "The article discusses a specific move in a Go game played by an AI program in 2016, which appeared to be a mistake to human observers and commentators at the time. This event is used to illustrate a point about how AI systems, specifically large language models (LLMs), operate.",
+      "enterpriseAngle": "Enterprise product development teams should understand that current AI models, including LLMs, do not possess human-like reasoning capabilities, which is crucial for setting realistic expectations for AI-powered solutions. This understanding impacts how AI systems are designed, evaluated, and integrated into enterprise workflows, particularly for tasks requiring complex problem-solving or nuanced decision-making.",
+      "beginner": "Even advanced AI programs can make moves or generate outputs that seem illogical to humans, highlighting that they operate differently from human intelligence.",
+      "advanced": "When designing AI applications for critical enterprise functions, rigorously evaluate model outputs for genuine reasoning versus pattern matching to avoid over-reliance on seemingly intelligent but ultimately non-reasoning systems.",
+      "tags": [
+        "research",
+        "product",
+        "learning"
+      ]
+    },
+    {
+      "id": "a97398f76ee5",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "url": "https://openai.com/index/chatham-financial",
+      "publishedAt": "2026-10-02T00:00:00.000Z",
+      "fetchedAt": "2026-10-02T18:19:05.764Z",
+      "contentText": null,
+      "summary": "Chatham Financial, an advisory firm, is using OpenAI's Codex and GPT-5.6 to enhance its capital markets operations, reducing trade validation time from 30 minutes to under 4 minutes. They are developing internal and client-facing tools, including their Chatham Onyx operating system, to automate routine tasks and allow experts to focus on complex client needs. The firm emphasizes designing workflows around desired outcomes, identifying where human judgment is critical, and using AI to support those processes.",
+      "enterpriseAngle": "Enterprises can leverage AI models like Codex and GPT-5.6 to reengineer complex workflows, significantly reduce processing times for routine tasks, and free up expert personnel for higher-value activities. This approach also highlights the importance of integrating AI into existing systems and developing internal platforms for employee-built applications to scale AI adoption.",
+      "beginner": "AI tools can help businesses automate repetitive tasks, making processes much faster and allowing human experts to concentrate on more important, complex work.",
+      "advanced": "Implement a 'Process Zero' methodology to reengineer critical workflows, explicitly defining human judgment points and AI's role, while validating AI application performance against real-world transactions and experienced reviewers before scaling automation.",
+      "tags": [
+        "enterprise",
+        "product",
+        "coding",
+        "agents"
+      ]
+    },
     {
       "id": "578143be7e8f",
       "source": "techcrunch-ai",

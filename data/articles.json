@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-10-02T18:20:52.296Z",
+  "updatedAt": "2026-10-03T00:20:58.792Z",
   "articles": [
+    {
+      "id": "5113cb653680",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Sean Parker is rebuilding Stability AI around music",
+      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "publishedAt": "2026-10-02T21:09:14.000Z",
+      "fetchedAt": "2026-10-03T00:20:19.913Z",
+      "contentText": null,
+      "summary": "Sean Parker, co-founder of Napster, is leading the rebuilding of Stability AI, focusing on becoming a premier AI toolmaker for music professionals. The company secured $76 million in funding from major music labels like Sony, Warner, and Universal, which also licensed their music catalogs for AI training. Stability AI has since released new audio models and AI music-editing software capable of generating instrumental tracks from text prompts, with future updates allowing users to input melodies by humming or beatboxing.",
+      "enterpriseAngle": "This strategic shift by Stability AI, backed by major music labels, signals a significant move towards legitimate, licensed AI tools for creative industries, potentially setting a precedent for how enterprises in content creation can leverage AI while respecting intellectual property. For product development teams, this highlights the importance of integrating licensing and rights management into AI model training and application design, especially in creative fields.",
+      "beginner": "Stability AI, led by Sean Parker, is now making AI tools specifically for music creators, using licensed music to train its AI.",
+      "advanced": "Leverage Stability AI's new audio models and upcoming intuitive input methods to explore novel music generation and editing workflows within your enterprise's creative production pipeline, ensuring compliance with the established licensing agreements.",
+      "tags": [
+        "enterprise",
+        "product",
+        "funding",
+        "partnership"
+      ]
+    },
+    {
+      "id": "5d6b83b837ff",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Affected by layoffs? Don't miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+      "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+      "publishedAt": "2026-10-02T19:15:51.000Z",
+      "fetchedAt": "2026-10-03T00:20:19.913Z",
+      "contentText": null,
+      "summary": "TechCrunch is offering a discounted $75 Expo+ Pass for its Disrupt 2026 conference to individuals affected by layoffs. This special offer is limited to the first 100 eligible attendees or until the event begins on October 13. The pass provides access to the Expo Hall, breakout sessions, side events, and AI-powered matchmaking to help attendees network and explore new career opportunities.",
+      "enterpriseAngle": "Enterprise product development and security teams can leverage events like Disrupt to scout emerging technologies, identify potential talent, and understand the evolving startup landscape, which can inform future product roadmaps and security strategies.",
+      "beginner": "If you've been laid off, you can get a special discount to attend a big tech conference where you can meet people and find new job opportunities.",
+      "advanced": "Utilize the AI-powered matchmaking and targeted networking opportunities at Disrupt to identify potential strategic partners, acquisition targets, or key talent for your organization's innovation and security initiatives.",
+      "tags": [
+        "enterprise",
+        "workforce",
+        "product",
+        "partnership"
+      ]
+    },
     {
       "id": "39b9fbb58d7c",
       "source": "techcrunch-ai",
@@ -207,6 +249,47 @@
         "enterprise",
         "product",
         "security"
+      ]
+    },
+    {
+      "id": "ddc48cc4ab40",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
+      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
+      "publishedAt": "2026-10-02T14:30:00.000Z",
+      "fetchedAt": "2026-10-03T00:20:19.913Z",
+      "contentText": null,
+      "summary": "The role of the \"GTM engineer\" is emerging as AI and automation transform go-to-market strategies, allowing companies to build revenue systems that previously required extensive manual effort and multiple resources. Clay co-founder and CEO Kareem Amin will discuss this new discipline at TechCrunch Disrupt 2026, explaining how AI has reshaped traditional GTM processes and created this new job category. This shift enables companies to automate tasks like prospect research, data management, and personalized outreach, leading to more efficient growth.",
+      "enterpriseAngle": "Enterprise product development teams should consider how AI-powered GTM engineering can streamline their own sales and marketing efforts, potentially reducing the need for extensive manual processes and enabling more agile customer acquisition strategies. Security teams should evaluate the data privacy and access controls within these new AI-driven GTM systems, especially as they handle sensitive customer and prospect information.",
+      "beginner": "AI is creating new job roles, like the GTM engineer, who uses AI to automate sales and marketing tasks, making it easier for companies to find customers and grow.",
+      "advanced": "Evaluate the integration of AI-native GTM platforms and the potential for a dedicated GTM engineering function within your organization to build automated revenue workflows, optimizing resource allocation and accelerating market penetration.",
+      "tags": [
+        "enterprise",
+        "product",
+        "workforce",
+        "agents"
+      ]
+    },
+    {
+      "id": "494e2c59e4cf",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
+      "url": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
+      "publishedAt": "2026-10-02T14:00:00.000Z",
+      "fetchedAt": "2026-10-03T00:20:19.913Z",
+      "contentText": null,
+      "summary": "TechCrunch Disrupt 2026 is accepting exhibit table bookings until today, October 2nd. The event, held from October 13-15 in San Francisco, is expected to draw over 10,000 tech leaders, founders, investors, and operators.",
+      "enterpriseAngle": "Enterprise product and business development teams should consider participating in major industry events like TechCrunch Disrupt to showcase their innovations and connect with potential partners and customers.",
+      "beginner": "Large tech conferences are places where new companies show off their ideas and products to many important people in the tech world.",
+      "advanced": "Prioritize exhibiting at industry-leading conferences to accelerate market penetration and foster strategic partnerships within the tech ecosystem.",
+      "tags": [
+        "enterprise",
+        "product",
+        "partnership"
       ]
     },
     {

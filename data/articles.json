@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-10-03T17:09:29.800Z",
+  "updatedAt": "2026-10-03T23:42:48.495Z",
   "articles": [
+    {
+      "id": "d442265d4558",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+      "publishedAt": "2026-10-03T18:43:57.000Z",
+      "fetchedAt": "2026-10-03T23:42:39.069Z",
+      "contentText": null,
+      "summary": "Amazon Web Services (AWS) CEO Matt Garman announced that the company has stopped using non-disclosure agreements (NDAs) with government agencies for data center projects. This change is part of a broader effort by Amazon to address public backlash and concerns about data centers' environmental impact, energy consumption, and community benefits. Garman also attempted to debunk common myths surrounding data centers, such as excessive water usage and pollution.",
+      "enterpriseAngle": "Enterprise product development teams building AI infrastructure need to be aware of increasing public scrutiny and regulatory challenges surrounding data center construction and operations. Transparency in community engagement and environmental impact reporting will become crucial for securing project approvals and maintaining public trust.",
+      "beginner": "Data centers, which are essential for powering AI, are facing public criticism for their environmental impact, leading companies like Amazon to be more open about their plans.",
+      "advanced": "To mitigate regulatory risks and community opposition, infrastructure teams should proactively engage with local governments and communities, providing transparent data on environmental impact and economic benefits, and consider adopting advanced cooling technologies to reduce water consumption.",
+      "tags": [
+        "enterprise",
+        "infrastructure",
+        "policy",
+        "governance"
+      ]
+    },
     {
       "id": "f143fce070e1",
       "source": "techcrunch-ai",

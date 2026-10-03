@@ -1,6 +1,69 @@
 {
-  "updatedAt": "2026-10-03T00:20:58.792Z",
+  "updatedAt": "2026-10-03T17:09:29.800Z",
   "articles": [
+    {
+      "id": "f143fce070e1",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "publishedAt": "2026-10-03T16:30:01.000Z",
+      "fetchedAt": "2026-10-03T17:09:01.709Z",
+      "contentText": null,
+      "summary": "A long-tenured OpenAI safety employee, David Robinson, has resigned, citing a \"broken culture\" at the company. He argues that OpenAI's iterative deployment approach, while fostering growth, inherently leads to failures that are increasing in scale as AI systems become more capable. Robinson believes the industry needs to adopt a safety-first mindset similar to nuclear power plants or airports, with robust planning and redundancy.",
+      "enterpriseAngle": "Enterprise security and product development teams should consider the cultural implications of rapid AI deployment and prioritize robust safety protocols and redundant systems, especially when developing highly capable AI agents. The call for external incentives for safety suggests that regulatory or industry-wide standards may become more prevalent, impacting how enterprises build and deploy AI.",
+      "beginner": "An experienced safety expert left OpenAI because he believes the company's fast-paced development style isn't safe enough for powerful AI.",
+      "advanced": "Implement a multi-layered safety and security framework for AI development, incorporating principles from high-reliability organizations, and actively engage with evolving external safety incentives and governance standards.",
+      "tags": [
+        "security",
+        "governance",
+        "enterprise",
+        "policy"
+      ]
+    },
+    {
+      "id": "9a415d111d44",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "All the AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "publishedAt": "2026-10-03T14:00:00.000Z",
+      "fetchedAt": "2026-10-03T17:09:01.709Z",
+      "contentText": null,
+      "summary": "A new wave of AI agents is emerging, allowing users to interact with them directly through text messages rather than requiring separate app downloads. These agents can remember context, connect to existing apps, and perform various tasks like scheduling, research, and online shopping. Notable examples include Caddy for organizing phone information, Fambot for family management, Folk for general assistance, and Instinct, which recently secured significant funding for its autonomous capabilities.",
+      "enterpriseAngle": "Enterprise product development teams should consider integrating AI agent capabilities directly into existing communication platforms to reduce user friction and enhance productivity, while security teams must address the privacy and security implications of agents with high levels of autonomy and access to user data.",
+      "beginner": "AI agents are becoming more accessible, allowing you to text them like a person to get tasks done without needing to download new apps.",
+      "advanced": "Evaluate the integration of text-based AI agents into enterprise workflows, prioritizing robust data governance and access controls, especially for agents with autonomous action capabilities and dedicated email addresses.",
+      "tags": [
+        "agents",
+        "product",
+        "enterprise",
+        "security"
+      ]
+    },
+    {
+      "id": "2d915e86c260",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Meta wants your next gadget to be Muse-infused",
+      "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+      "publishedAt": "2026-10-03T00:45:39.000Z",
+      "fetchedAt": "2026-10-03T17:09:01.709Z",
+      "contentText": null,
+      "summary": "Meta has launched Muse Gadgets, an open-source project that allows developers to build custom hardware that connects to Muse, their personal AI agent. The company provides open-source firmware and a Linux SDK, along with project ideas for hobbyists. Meta also developed and distributed 5,000 Muse Home Link gadgets, which connect Muse to smart home networks.",
+      "enterpriseAngle": "For enterprise product development teams, Muse Gadgets presents an opportunity to integrate Meta's AI agent capabilities into custom hardware solutions, potentially expanding the reach and utility of AI-powered services within specialized business environments. The broader push with Muse for Small Business and Meta Enterprise Platform indicates Meta's intent to make its AI offerings accessible and adaptable for various business needs.",
+      "beginner": "Meta is letting people build their own custom devices that can use its AI assistant, Muse, to do things like book travel or control smart home gadgets.",
+      "advanced": "Leverage the open-source firmware and Linux SDK provided by Meta to prototype and develop bespoke hardware integrations for Muse, exploring applications that extend beyond consumer use cases into specialized enterprise automation or IoT solutions.",
+      "tags": [
+        "agents",
+        "product",
+        "enterprise",
+        "coding"
+      ]
+    },
     {
       "id": "5113cb653680",
       "source": "techcrunch-ai",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T21:15:16.147Z",
+  "updatedAt": "2026-10-06T01:44:03.173Z",
   "articles": [
     {
       "id": "8dc6e37ab123",
@@ -146,6 +146,27 @@
       ]
     },
     {
+      "id": "bf5186192593",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "OpenAI launches visual ads that appear alongside image generation results",
+      "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+      "publishedAt": "2026-10-05T15:14:24.000Z",
+      "fetchedAt": "2026-10-06T01:43:07.659Z",
+      "contentText": null,
+      "summary": "OpenAI is introducing visual display ads within ChatGPT, which will appear alongside image generation results, initially in the U.S. The company is also expanding its ad measurement tools and partnerships to support advertisers. These ads are part of OpenAI's strategy to monetize its free and low-cost ChatGPT tiers and will be clearly labeled.",
+      "enterpriseAngle": "Enterprise product development teams should consider the impact of integrated advertising on user experience and explore how to leverage new ad measurement and brand suitability tools for their own marketing efforts. Security teams should note the continued expansion of data collection and partnerships for advertising purposes, which could introduce new data privacy considerations.",
+      "beginner": "ChatGPT, an AI chatbot, will now show pictures of products and services next to images it creates, helping OpenAI make money from its free version.",
+      "advanced": "Evaluate the expanded ad measurement ecosystem, including new attribution and full-funnel partners, and the brand suitability pilots with DoubleVerify and Integral Ad Science, to optimize ad spend and ensure brand safety within AI-driven platforms.",
+      "tags": [
+        "product",
+        "enterprise",
+        "partnership",
+        "consumer"
+      ]
+    },
+    {
       "id": "78ad53815846",
       "source": "openai",
       "sourceName": "OpenAI",
@@ -167,6 +188,90 @@
       ]
     },
     {
+      "id": "33d81eb1e819",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-10-05T15:00:00.000Z",
+      "fetchedAt": "2026-10-06T01:43:07.659Z",
+      "contentText": null,
+      "summary": "AI startups are increasingly navigating complex decisions regarding model selection, with many opting for multi-model approaches rather than committing to a single open or proprietary solution. This flexibility impacts operating costs, product development, and the ability to adapt to emerging AI technologies. TechCrunch Disrupt 2026 will feature discussions on these choices, covering topics from multi-model applications and model ownership to the interplay between AI architecture and hardware design.",
+      "enterpriseAngle": "Enterprise product development teams must consider the strategic implications of model choice, including the balance between cost, performance, flexibility, and the potential competitive advantage of owning or customizing parts of their AI stack. Security teams should be aware that using multiple models or customizing open-source models introduces new considerations for data protection, model integrity, and compliance across a more diverse AI infrastructure.",
+      "beginner": "AI companies are finding that using different AI models for different tasks can be more effective than relying on just one, similar to how a chef might use various tools for different cooking needs.",
+      "advanced": "Evaluate your AI architecture for multi-model integration strategies, prioritizing frameworks that enable dynamic model switching and customizability to optimize for cost, performance, and future-proofing against rapid advancements in both open and proprietary models.",
+      "tags": [
+        "enterprise",
+        "product",
+        "infrastructure",
+        "learning"
+      ]
+    },
+    {
+      "id": "9e34d668a5ca",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Researchers are tracking a Chinese AI ‘agent fleet'",
+      "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+      "publishedAt": "2026-10-05T14:35:09.000Z",
+      "fetchedAt": "2026-10-06T01:43:07.659Z",
+      "contentText": null,
+      "summary": "Researchers are tracking a new \"agent fleet\" of AI programs, likely operating on Tencent's infrastructure, that are querying Alibaba's map service, Amap. These agents appear to be seeking directions to various public locations and are not coordinated like a \"swarm.\" Their activity was discovered by monitoring traffic to a domain-scanning service.",
+      "enterpriseAngle": "Enterprise security teams should be aware of the increasing prevalence of AI agent activity, as these agents can bypass API rules and potentially engage in more malicious actions. Product development teams should consider how their services might be targeted by automated agents and implement robust API governance.",
+      "beginner": "AI agents are automated programs that perform tasks online, and researchers are observing many of them operating in parallel without direct communication.",
+      "advanced": "Implement real-time monitoring of API traffic and domain-scanning service interactions to detect and analyze persistent AI agent activity, particularly for unusual query patterns or attempts to circumvent API usage policies.",
+      "tags": [
+        "agents",
+        "security",
+        "research",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "97218d4e91aa",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-10-05T14:30:00.000Z",
+      "fetchedAt": "2026-10-06T01:43:07.659Z",
+      "contentText": null,
+      "summary": "TechCrunch Disrupt 2026 will feature a Startup Battlefield competition where 20 finalists will pitch their companies to a panel of five venture capital judges. These judges, all founders or co-founders of their investment firms, will decide the champion. The event also includes an AMA session with the judges, offering insights into their investment strategies and what they seek in founders and companies.",
+      "enterpriseAngle": "Enterprise product development teams can gain insights into investor priorities and market trends by observing the types of startups and technologies that attract top-tier venture capital funding, potentially influencing future product roadmaps and strategic partnerships.",
+      "beginner": "A group of experienced investors will pick the best new company from a competition, and you can learn what they look for in successful businesses.",
+      "advanced": "Analyze the investment theses and portfolio companies of the Startup Battlefield judges to identify emerging sectors and founder profiles that are currently attracting significant early-stage venture capital.",
+      "tags": [
+        "enterprise",
+        "funding",
+        "product",
+        "partnership"
+      ]
+    },
+    {
+      "id": "e1456ab13530",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-10-05T14:00:00.000Z",
+      "fetchedAt": "2026-10-06T01:43:07.659Z",
+      "contentText": null,
+      "summary": "TechCrunch Disrupt 2026, held from October 13-15 in San Francisco, will feature prominent founders, CEOs, and investors discussing the future of technology, including AI, robotics, and biotech. Speakers like Rivian's RJ Scaringe and Cerebras' Andrew Feldman will address challenges in scaling complex products and AI, respectively. The event also includes the Startup Battlefield competition, where emerging companies vie for funding and recognition.",
+      "enterpriseAngle": "Enterprise leaders can gain insights into the future trajectory of AI scaling, hardware design, and the impact of AI on software development and public safety, informing their strategic investments and product roadmaps. The event also offers networking opportunities with key figures in venture capital and emerging startups, potentially leading to partnerships or acquisitions.",
+      "beginner": "TechCrunch Disrupt is a major conference where top tech leaders and new startups meet to discuss and showcase the latest advancements in technology, especially in AI.",
+      "advanced": "Evaluate the discussions on AI scaling limitations and AI-designed hardware for potential implications on compute infrastructure and supply chain strategies, and explore opportunities for collaboration with Startup Battlefield participants in enterprise and security.",
+      "tags": [
+        "enterprise",
+        "product",
+        "infrastructure",
+        "funding"
+      ]
+    },
+    {
       "id": "4352d77744ab",
       "source": "mit-tr-ai",
       "sourceName": "MIT Technology Review",
@@ -185,6 +290,27 @@
         "enterprise",
         "product",
         "governance"
+      ]
+    },
+    {
+      "id": "8869fe719edb",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Can Safeworld convince people that GenAI robots won't hurt them?",
+      "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
+      "publishedAt": "2026-10-05T12:00:00.000Z",
+      "fetchedAt": "2026-10-06T01:43:07.659Z",
+      "contentText": null,
+      "summary": "Safeworld, a new company founded by Dr. Ding Zhao, Kyle Wong, and Simo Rachidi, has emerged from stealth with over $12 million in seed funding to address the safety and trust challenges of generative AI-powered robots. The company specializes in evaluating robotic control systems through simulations with realistic human models to ensure safe operation in unpredictable, unstructured environments. Safeworld aims to establish industry safety standards for robots before widespread deployment to prevent incidents.",
+      "enterpriseAngle": "Enterprise product development teams building robots with generative AI need robust third-party validation to ensure safety and build trust, especially as these robots operate in complex, human-centric environments. Security teams must consider how to underwrite the risk of probabilistic AI systems and ensure compliance with evolving safety standards for autonomous systems.",
+      "beginner": "New companies are creating ways to test if AI-powered robots are safe to be around people, using simulations to prevent accidents before robots are widely used.",
+      "advanced": "Leverage third-party simulation platforms like Safeworld's to empirically validate the safety of generative AI-driven robotic systems, focusing on edge cases involving unpredictable human interactions in unstructured environments to mitigate deployment risks and accelerate compliance.",
+      "tags": [
+        "product",
+        "enterprise",
+        "research",
+        "funding"
       ]
     },
     {

@@ -1,6 +1,112 @@
 {
-  "updatedAt": "2026-10-06T18:53:10.393Z",
+  "updatedAt": "2026-10-07T00:34:17.979Z",
   "articles": [
+    {
+      "id": "adc1cdfb4828",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+      "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+      "publishedAt": "2026-10-06T22:34:03.000Z",
+      "fetchedAt": "2026-10-07T00:33:05.124Z",
+      "contentText": null,
+      "summary": "Melius, an AI platform for generating ad campaigns, images, and videos, has secured $25 million in funding, including a $20 million Series A round. The company, founded by former Ramp engineers, initially developed an AI-powered performance marketing tool but pivoted to focus on creating generative AI tools for creative assets after their first product didn't gain traction. Melius claims to have achieved over $1 million in annualized revenue within two months of its new product launch.",
+      "enterpriseAngle": "Enterprise marketing and product development teams can leverage platforms like Melius to rapidly generate diverse creative assets for ad campaigns, potentially streamlining content creation workflows and reducing reliance on traditional creative agencies. This shift allows enterprises to experiment more quickly with different campaign visuals and messaging.",
+      "beginner": "Melius is a new company that helps businesses create ads, pictures, and videos using AI, and they just received a lot of money to grow.",
+      "advanced": "Evaluate Melius's 'agents lab for creative work' against established competitors like Higgsfield, Krea, and Flora AI to determine its potential for integrating into existing enterprise creative workflows and its capacity for scalable, brand-consistent asset generation.",
+      "tags": [
+        "funding",
+        "product",
+        "enterprise",
+        "agents"
+      ]
+    },
+    {
+      "id": "2196494782f8",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "How AI decision models could change content moderation",
+      "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+      "publishedAt": "2026-10-06T20:35:20.000Z",
+      "fetchedAt": "2026-10-07T00:33:05.124Z",
+      "contentText": null,
+      "summary": "Musubi has released PolicyLM-1.7B, a new open-weight decision model designed for real-time content moderation. This model can apply complex content policies written in plain English to messages quickly and cost-effectively, without needing retraining when policies change. It aims to provide platform managers with a scalable way to proactively label content.",
+      "enterpriseAngle": "Enterprise product development teams can leverage PolicyLM-1.7B to implement flexible and efficient content moderation systems that adapt to evolving policies without extensive retraining, improving platform safety and user experience. Security teams can benefit from the ability to quickly and consistently apply complex content policies, helping to mitigate risks associated with harmful or non-compliant user-generated content.",
+      "beginner": "AI decision models can help social media platforms automatically check if content follows their rules, making moderation faster and easier.",
+      "advanced": "Evaluate PolicyLM-1.7B's open weights and real-time performance for integrating dynamic, policy-driven content classification into your platform's moderation pipeline, particularly for use cases requiring rapid iteration on policy changes.",
+      "tags": [
+        "model-release",
+        "enterprise",
+        "product",
+        "governance"
+      ]
+    },
+    {
+      "id": "43f8aab03973",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "publishedAt": "2026-10-06T20:00:30.000Z",
+      "fetchedAt": "2026-10-07T00:33:05.124Z",
+      "contentText": null,
+      "summary": "AI computing startup Lambda plans to raise up to $4 billion at a $14.5 billion pre-money valuation in what may be its final private funding round before a 2027 IPO. The company's backlog surged from $15 billion to $50 billion, largely due to a $35 billion commitment from Anthropic. This funding will help Lambda finance data center expansions, which are crucial given the high demand for GPU capacity.",
+      "enterpriseAngle": "Enterprises relying on cloud providers for AI compute, especially those with large-scale GPU needs, should monitor the financial health and IPOs of 'neoclouds' like Lambda, as their ability to expand infrastructure directly impacts service availability and pricing. The reliance on a few large contracts, like Anthropic's with Lambda, highlights potential concentration risks in the AI infrastructure supply chain.",
+      "beginner": "AI companies need a lot of specialized computer power, and companies like Lambda provide this by building large data centers, which are very expensive to set up.",
+      "advanced": "Evaluate the long-term stability of your AI infrastructure providers by scrutinizing their funding models, customer concentration, and debt-to-equity ratios, especially as more 'neoclouds' transition to public markets to finance their capital-intensive buildouts.",
+      "tags": [
+        "funding",
+        "infrastructure",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "fe89f2d659e0",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "The next hurdle for AI agents: getting websites to let them in",
+      "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+      "publishedAt": "2026-10-06T19:56:50.000Z",
+      "fetchedAt": "2026-10-07T00:33:05.124Z",
+      "contentText": null,
+      "summary": "AI agents designed to perform tasks like shopping or booking flights are facing obstacles from websites that block them with anti-bot defenses. This situation is hindering the widespread adoption and utility of these personal AI tools. A new standard is being developed to address these issues and facilitate agent access.",
+      "enterpriseAngle": "Enterprise product teams developing AI agents must prioritize compliance with emerging web standards and develop strategies to navigate existing anti-bot measures to ensure their agents can effectively interact with target websites. Security teams should evaluate the implications of allowing AI agents on their platforms, balancing user experience with the need to prevent malicious automated activity.",
+      "beginner": "AI agents are like personal assistants that can do things for you online, but websites often block them, making it hard for these agents to work.",
+      "advanced": "Implement the new AI agent access standard to ensure your web properties are discoverable and usable by legitimate AI agents, while simultaneously refining bot detection and mitigation strategies to differentiate between beneficial and malicious automated traffic.",
+      "tags": [
+        "agents",
+        "product",
+        "security",
+        "policy"
+      ]
+    },
+    {
+      "id": "a22a6ca92e5c",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "Expanding the Cyber Verification Program",
+      "url": "https://www.anthropic.com/news/cyber-verification-program",
+      "publishedAt": "2026-10-06T19:39:32.000Z",
+      "fetchedAt": "2026-10-07T00:33:02.348Z",
+      "contentText": null,
+      "summary": "Anthropic has expanded its Cyber Verification Program (CVP) to offer security professionals tiered access to advanced AI capabilities and reduced content blocking for cybersecurity tasks. This program integrates previous initiatives like Project Glasswing and now includes three tiers: Defense Access, Red Team Access, and Specialized Access, each with varying levels of model access and verification requirements. The goal is to equip defenders with powerful tools while maintaining safeguards against malicious use.",
+      "enterpriseAngle": "Enterprise security teams can leverage this program to access more powerful AI models for defensive operations, red teaming, and specialized security testing, enhancing their ability to identify and mitigate vulnerabilities within their systems. The program's tiered approach allows organizations to select the appropriate level of access based on their specific security needs and compliance requirements.",
+      "beginner": "Anthropic is giving cybersecurity experts special access to its AI models, allowing them to use the AI for finding and fixing computer system weaknesses, but with different levels of access depending on their job.",
+      "advanced": "Security practitioners should evaluate the CVP's tiered access, particularly the Red Team and Specialized Access, to determine if the reduced blocking classifiers and access to models like Claude Opus 5.5 and Mythos 5.1 can enhance their advanced penetration testing, vulnerability analysis, and critical infrastructure defense operations, while also considering the data retention requirements and the upcoming Enterprise Frontier Safeguards (EFS).",
+      "tags": [
+        "enterprise",
+        "security",
+        "product",
+        "model-release"
+      ],
+      "dateChecked": true
+    },
     {
       "id": "cd24bf90e045",
       "source": "techcrunch-ai",
@@ -165,6 +271,69 @@
         "product",
         "consumer",
         "agents"
+      ]
+    },
+    {
+      "id": "1a4fa7afdfab",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
+      "url": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/",
+      "publishedAt": "2026-10-06T14:00:00.000Z",
+      "fetchedAt": "2026-10-07T00:33:05.124Z",
+      "contentText": null,
+      "summary": "TechCrunch Disrupt 2026, a conference focused on scaling and technology, will take place from October 13-15 in San Francisco. The full agenda for its breakout sessions has been revealed, and registration is currently open with discounts available.",
+      "enterpriseAngle": "Enterprise teams can leverage this event to gain insights into scaling technologies and network with other professionals, potentially finding solutions to their own operational challenges. Product development teams might discover new tools or strategies to enhance their offerings and accelerate growth.",
+      "beginner": "Conferences like TechCrunch Disrupt are great places to learn about new technologies and how companies grow.",
+      "advanced": "Prioritize sessions on advanced scaling architectures and emerging tech integrations to identify potential strategic advantages for your enterprise's product roadmap.",
+      "tags": [
+        "enterprise",
+        "product",
+        "learning",
+        "digest"
+      ]
+    },
+    {
+      "id": "342677ae7ead",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "url": "https://openai.com/index/jump-trading",
+      "publishedAt": "2026-10-06T12:00:00.000Z",
+      "fetchedAt": "2026-10-07T00:33:03.018Z",
+      "contentText": null,
+      "summary": "Jump Trading, a quantitative trading firm, is using OpenAI's GPT-6 Astra to enhance its research capabilities, allowing agents to tackle more complex and longer-duration problems with increased autonomy. This advancement enables AI to move beyond simple code snippets to developing entire codebases and conducting advanced quantitative studies, with human oversight remaining crucial for validation and security in the heavily regulated finance industry. The firm aims for a future where \"autoresearch\" becomes a standard part of quantitative research workflows, with agents coordinating to explore ideas and integrate findings from general questions.",
+      "enterpriseAngle": "Enterprise product development and security teams can leverage advanced AI agents for complex, long-horizon tasks, but must prioritize robust system design, clear constraints, and human review processes to ensure accuracy, compliance, and security in regulated environments. The shift towards autonomous agents necessitates a focus on building secure, observable, and steerable AI infrastructure to manage risks effectively.",
+      "beginner": "AI is becoming smart enough to handle big, complicated research tasks on its own, but human experts are still needed to guide it and check its work, especially in important fields like finance.",
+      "advanced": "Implement agentic architectures with GPT-6 Astra or similar models for recursive improvement cycles in quantitative research, ensuring a secure environment with human-in-the-loop validation, strong system design, and comprehensive observability for compliance and risk management.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product",
+        "research"
+      ]
+    },
+    {
+      "id": "47b9255d8fa0",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "publishedAt": "2026-10-06T12:00:00.000Z",
+      "fetchedAt": "2026-10-07T00:33:03.018Z",
+      "contentText": null,
+      "summary": "OpenAI has released new mathematical results generated by an internal frontier model, publishing them on GitHub with protocols for revisions and citations. They are also sharing formalizations of proofs in Lean and details about how the results were obtained, including model reasoning summaries and compute estimations. This initiative aims to advance mathematical knowledge and will be supported by funding workshops and conferences.",
+      "enterpriseAngle": "Enterprises developing AI models for scientific research can adopt similar transparency practices, such as publishing results with formalizations and detailed methodology, to foster trust and collaboration within the scientific community. The use of Lean for verifiable proofs also highlights a potential standard for ensuring the accuracy and reliability of AI-generated scientific outputs.",
+      "beginner": "OpenAI is using AI to discover new math, and they are sharing how the AI did it so other scientists can learn from it.",
+      "advanced": "Leverage formal verification languages like Lean for AI-generated proofs to enhance the rigor and trustworthiness of scientific outputs, and consider open-sourcing methodologies and compute metrics to foster community collaboration and validation.",
+      "tags": [
+        "research",
+        "science",
+        "model-release",
+        "enterprise"
       ]
     },
     {

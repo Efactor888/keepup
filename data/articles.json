@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-10-07T19:19:54.098Z",
+  "updatedAt": "2026-10-08T00:54:24.648Z",
   "articles": [
+    {
+      "id": "92be971aec51",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "publishedAt": "2026-10-07T20:48:45.000Z",
+      "fetchedAt": "2026-10-08T00:53:31.354Z",
+      "contentText": null,
+      "summary": "Nous Research, the developer of the open-source Hermes Agent, has secured $90 million in Series B funding, bringing its total funding to $158 million and valuing the company at $1.5 billion. The company is now expanding into the enterprise sector with \"Hermes for Businesses,\" offering customized AI agents for multi-step workflows with a focus on data privacy and security. The Hermes Agent has been cloned over 24 million times and accounts for approximately 2.5% of global AI token usage.",
+      "enterpriseAngle": "Enterprise security and product development teams can leverage Nous Research's new \"Hermes for Businesses\" to deploy customized AI agents for automating complex workflows while ensuring data privacy and security. This offers a new avenue for integrating AI into business processes with a focus on controlled data environments.",
+      "beginner": "AI agents are like smart computer programs that can do many tasks for you, and now businesses can get special versions of these agents to help with their work while keeping their information safe.",
+      "advanced": "Evaluate the integration of Nous Research's Hermes for Businesses into existing enterprise architectures, focusing on its data privacy features and customizability for multi-step workflow automation to enhance operational efficiency and security posture.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "funding",
+        "product"
+      ]
+    },
+    {
+      "id": "54da693e6cb2",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "publishedAt": "2026-10-07T20:22:37.000Z",
+      "fetchedAt": "2026-10-08T00:53:31.354Z",
+      "contentText": null,
+      "summary": "Microsoft has released new AI-ready PCs, including the Surface Laptop Ultra and Surface RTX Spark Dev Box, powered by Nvidia's RTX Spark chip. These devices are designed to run AI models locally and feature a revamped Windows 11 with \"Execution Containers\" for sandboxing AI agents. The Surface RTX Spark Dev Box, aimed at developers, comes pre-equipped with Microsoft development tools.",
+      "enterpriseAngle": "Enterprise product development teams can leverage these new AI PCs for on-device model training and agent development, benefiting from local processing and enhanced security features like sandboxed execution containers. The inclusion of developer tools and a trade-in offer for MacBook Pro users indicates Microsoft's push to capture the developer market for AI-powered applications.",
+      "beginner": "New AI-ready computers from Microsoft can run AI programs directly on the device, making them faster and more private.",
+      "advanced": "Evaluate the new Windows 11 \"Execution Containers\" and local AI processing capabilities on the Surface RTX Spark Dev Box for secure, efficient on-device agent development and deployment within your enterprise.",
+      "tags": [
+        "product",
+        "enterprise",
+        "hardware",
+        "agents"
+      ]
+    },
     {
       "id": "36bf85cb5432",
       "source": "techcrunch-ai",
@@ -128,6 +170,67 @@
       ]
     },
     {
+      "id": "a7cd3ac1dead",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Google experiments with an AI-powered gaming platform",
+      "url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
+      "publishedAt": "2026-10-07T14:36:23.000Z",
+      "fetchedAt": "2026-10-08T00:53:31.354Z",
+      "contentText": null,
+      "summary": "Google Labs has launched Playground, an experimental AI-powered platform that allows users to create browser-based games using simple text prompts, eliminating the need for traditional coding skills. Users can specify game genres, dimensions, player modes, and visual styles, and even upload visuals for AI transformation into game assets. The platform supports mobile and computer play, with options for private projects, shared links, or publication to an Explore gallery, and future plans include Unity Spark integration for enhanced capabilities.",
+      "enterpriseAngle": "This platform significantly lowers the barrier to entry for game development, enabling enterprise product teams to rapidly prototype and iterate on interactive experiences without extensive coding resources. It also highlights a growing trend in AI-assisted content creation tools that can accelerate product development cycles and reduce specialized skill dependencies.",
+      "beginner": "Google's new tool lets anyone create simple video games just by typing what they want, without needing to know how to code.",
+      "advanced": "Evaluate the potential of low-code/no-code AI game development platforms like Playground for rapid prototyping, internal training simulations, or gamified enterprise applications, considering integration with professional tools like Unity Spark for scalability and advanced features.",
+      "tags": [
+        "product",
+        "enterprise",
+        "coding",
+        "consumer"
+      ]
+    },
+    {
+      "id": "72452dba288e",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
+      "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
+      "publishedAt": "2026-10-07T14:30:00.000Z",
+      "fetchedAt": "2026-10-08T00:53:31.355Z",
+      "contentText": null,
+      "summary": "Alexander Embiricos from OpenAI is scheduled to speak at TechCrunch Disrupt 2026 on the AI Stage, shortly after the release of a product called Dots.",
+      "enterpriseAngle": "Enterprises should monitor this event for potential insights into OpenAI's future product strategy and how Dots might integrate into business applications.",
+      "beginner": "A key person from OpenAI will be speaking at a big tech conference soon after their new product, Dots, comes out.",
+      "advanced": "Attend or follow TechCrunch Disrupt 2026 for potential announcements or strategic discussions from OpenAI regarding the enterprise applicability of Dots.",
+      "tags": [
+        "enterprise",
+        "product",
+        "partnership"
+      ]
+    },
+    {
+      "id": "31faaa09aae5",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-10-07T14:15:00.000Z",
+      "fetchedAt": "2026-10-08T00:53:31.355Z",
+      "contentText": null,
+      "summary": "TechCrunch Disrupt 2026 will feature interactive roundtables with participants including Nvidia, Chime, Obvious Ventures, and Anthropic. Attendees can register now to receive a discount on passes.",
+      "enterpriseAngle": "Enterprise product and partnership teams can use these roundtables as networking and learning opportunities, engaging with key players in the AI and tech industry.",
+      "beginner": "Big companies like Nvidia and Anthropic are participating in a tech conference to discuss new ideas.",
+      "advanced": "Prioritize attending roundtables relevant to your enterprise's strategic AI initiatives to foster potential partnerships and gather competitive intelligence.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "product"
+      ]
+    },
+    {
       "id": "0fa13121f082",
       "source": "deepmind",
       "sourceName": "Google DeepMind",
@@ -146,6 +249,27 @@
         "governance",
         "security",
         "enterprise"
+      ]
+    },
+    {
+      "id": "d78e8cbe49a0",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
+      "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
+      "publishedAt": "2026-10-07T14:00:00.000Z",
+      "fetchedAt": "2026-10-08T00:53:31.355Z",
+      "contentText": null,
+      "summary": "TechCrunch Disrupt 2026, a major startup and tech conference, is scheduled to begin in six days at Moscone West in San Francisco, expecting over 10,000 attendees. Prospective participants can save up to $100 on their passes, and 50% on a second pass of the same type, by registering before ticket prices increase at the door. This event brings together a wide range of individuals from the global tech ecosystem.",
+      "enterpriseAngle": "Enterprise product development and strategy teams can leverage this event for networking, discovering emerging technologies, and identifying potential partnerships or acquisition targets within the startup ecosystem. Attending provides an opportunity to gauge market trends and competitor activities.",
+      "beginner": "TechCrunch Disrupt is a big conference where many people from tech companies meet to talk about new ideas and products.",
+      "advanced": "Prioritize attendance at keynotes and breakout sessions relevant to your strategic roadmap, and pre-schedule meetings with promising startups to maximize partnership or investment opportunities.",
+      "tags": [
+        "enterprise",
+        "product",
+        "partnership",
+        "digest"
       ]
     },
     {

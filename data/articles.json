@@ -1,6 +1,62 @@
 {
-  "updatedAt": "2026-10-08T19:16:42.341Z",
+  "updatedAt": "2026-10-09T01:12:31.925Z",
   "articles": [
+    {
+      "id": "ca5fcc9baf2e",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "publishedAt": "2026-10-09T00:08:24.000Z",
+      "fetchedAt": "2026-10-09T01:07:25.078Z",
+      "contentText": null,
+      "summary": "In 2025, Stanford PhD student Samuel King utilized a generative AI model to create genetic blueprints for microscopic viruses. While this is not yet AI-generated life, it represents a step towards that possibility. This development will be discussed in an upcoming roundtable.",
+      "enterpriseAngle": "Enterprise security teams should consider the implications of AI's potential to design novel biological threats, necessitating advanced detection and containment strategies. Product development teams in biotech need to anticipate both the ethical challenges and the potential for AI to accelerate biological design, requiring robust governance frameworks.",
+      "beginner": "AI can now design the genetic instructions for new viruses, raising questions about future AI-created life.",
+      "advanced": "Implement red-teaming exercises focused on AI-driven biological threat generation to proactively identify vulnerabilities and develop defensive countermeasures.",
+      "tags": [
+        "security",
+        "research",
+        "science",
+        "governance"
+      ]
+    },
+    {
+      "id": "da3ca48318e6",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Pretend you're sitting at Elizabeth Holmes' desk on this weirdly detailed website",
+      "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+      "publishedAt": "2026-10-08T21:00:00.000Z",
+      "fetchedAt": "2026-10-09T01:07:24.950Z",
+      "contentText": null,
+      "summary": "A website created by Extend engineer Bo Lau simulates the experience of sifting through documents from the United States v. Elizabeth Holmes trial. The site includes over a thousand emails, slides, texts, and other documents from the trial.",
+      "enterpriseAngle": "This project demonstrates how publicly available legal documents can be transformed into interactive digital experiences, offering new avenues for legal tech and educational tools within enterprises. For product development teams, it highlights the potential for creating engaging interfaces from complex data sets.",
+      "beginner": "Someone made a website where you can look through a lot of documents from a famous court case, like you're at the desk of the person on trial.",
+      "advanced": "Leverage public domain legal data and advanced UI/UX design to develop immersive educational or analytical platforms for legal and compliance training.",
+      "tags": [
+        "product",
+        "learning"
+      ]
+    },
+    {
+      "id": "301544ff1a07",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "publishedAt": "2026-10-08T20:04:26.000Z",
+      "fetchedAt": "2026-10-09T01:07:24.950Z",
+      "contentText": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
     {
       "id": "db9c355075ab",
       "source": "anthropic",
@@ -188,6 +244,43 @@
       ]
     },
     {
+      "id": "d12d77aa7dd5",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Natura’s $99 smart ring puts AI agents on your finger",
+      "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+      "publishedAt": "2026-10-08T16:00:00.000Z",
+      "fetchedAt": "2026-10-09T01:07:24.950Z",
+      "contentText": null,
+      "summary": "Natura, an AI and hardware startup, is launching Interface, a $99 smart ring designed to interact with AI agents and perform tasks without a phone. The ring also functions as a health tracker, monitoring metrics like heart rate and sleep. It connects with various AI agents such as Meta's Muse, Instinct, Grok Bot, Claude, and ChatGPT.",
+      "enterpriseAngle": "Enterprise product development teams should consider how wearable AI interfaces like smart rings could integrate with existing workflows and security protocols, especially for hands-free task management and data capture. Security teams will need to evaluate the implications of constant AI agent access and data transmission from such devices.",
+      "beginner": "This new smart ring lets you talk to AI assistants from your finger to get things done, like setting alarms or ordering items, without needing your phone.",
+      "advanced": "Evaluate the potential for integrating always-on, multi-agent wearable interfaces into enterprise environments, focusing on API compatibility, data governance, and the development of custom agents for specific business processes.",
+      "tags": [
+        "product",
+        "agents",
+        "hardware",
+        "consumer"
+      ]
+    },
+    {
+      "id": "8f83cc80b2fd",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+      "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+      "publishedAt": "2026-10-08T16:00:00.000Z",
+      "fetchedAt": "2026-10-09T01:07:24.950Z",
+      "contentText": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
+    {
       "id": "26f5049650b4",
       "source": "anthropic",
       "sourceName": "Anthropic",
@@ -196,13 +289,50 @@
       "url": "https://www.anthropic.com/news/genesis-mission-commitment",
       "publishedAt": "2026-10-08T15:49:10.000Z",
       "fetchedAt": "2026-10-08T19:13:20.743Z",
-      "contentText": "Announcements Building on our commitment to American scientific discovery Oct 8, 2026 Anthropic is deepening its support for American scientific research by committing $150 million over three years to the Genesis Mission , a federal initiative to accelerate scientific and technological discovery through AI. The funding will go toward making Claude available to more than 15 agencies that are part of the mission, including NASA, the National Institutes of Health, and the National Science Foundation. We first announced our partnership with the US Department of Energy (DOE) and the Genesis Mission last December . Since then, we have worked with DOE to bring Claude to scientists across the national laboratories. Today, we announced this new commitment as part of the Science: A New Golden Age Summit hosted by the White House Office of Science and Technology Policy in Washington, DC. Supporting American scientists We share the administration’s view, laid out in “ Science: A New Golden Age ,” that AI can have a profound and positive impact on scientific discovery, and we are glad to back its efforts to support American scientists. Researchers at federal agencies and national laboratories work on some of the world’s most difficult scientific problems. Through our commitment, we aim to help them use Claude to meaningfully advance their work. Over the next three years, we will: Provide Claude, Claude Code, and API credits to several hundred Genesis Mission research projects; Partner closely with agencies and national laboratories on the administration’s top science priorities, including fusion energy and quantum computing; and Provide training, onboarding, and technical support to scientists on Genesis Mission projects, and help agencies new to the Genesis Mission get their first projects running. Accelerating scientific research This commitment is part of our broader effort to support scientific research. Earlier this year we launched Claude Science , an AI workbench that integrates the tools and packages researchers most commonly use, and opened 10,000 free and discounted Claude seats for academic scientists. We also expanded our AI for Science program, which gives credits to researchers on high-impact projects, and kicked off a research preview of the Model Hardware Standard , a shared specification for AI agents to safely operate lab instruments. Our commitment to the Genesis Mission is our next step toward helping researchers everywhere.",
+      "contentText": null,
+      "summary": "Anthropic is investing $150 million over three years into the federal Genesis Mission, an initiative to accelerate scientific and technological discovery using AI. This funding will make Anthropic's Claude AI available to over 15 federal agencies, including NASA and the National Institutes of Health. The commitment aims to support American scientists in tackling complex problems, building on Anthropic's existing partnership with the US Department of Energy.",
+      "enterpriseAngle": "Enterprises developing AI solutions can see this as a model for strategic partnerships with government initiatives, focusing on providing tailored AI tools and support to specific sectors like scientific research. It highlights the potential for AI to drive innovation in public sector R&D, creating new avenues for product integration and specialized services.",
+      "beginner": "Anthropic is giving a lot of money and its AI tool, Claude, to government scientists to help them make new discoveries faster.",
+      "advanced": "Leverage this public-private partnership model to explore how your organization can integrate AI solutions with federal research priorities, focusing on specialized toolchains, API access, and dedicated technical support for high-impact scientific domains.",
+      "tags": [
+        "partnership",
+        "enterprise",
+        "research",
+        "product"
+      ],
+      "dateChecked": true
+    },
+    {
+      "id": "86cf93ed4e70",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
+      "publishedAt": "2026-10-08T15:00:00.000Z",
+      "fetchedAt": "2026-10-09T01:07:24.950Z",
+      "contentText": "AI may be built in software, but scaling it is becoming a physical-world problem. Every new model, agent, and AI application needs somewhere to run, and an infrastructure connecting them all. At TechCrunch Disrupt 2026 , Ben Longmier, CEO of Ambrosia Energy, and Bill Thayer, SVP and Head of Datacenter Solutions at Bloom Energy, come together on the Smart Systems Stage for a conversation on “ Where the AI Infrastructure Boom Is Creating Winners .” Image Credits: TechCrunch This industry stage session will examine which constraints are creating durable business opportunities, where new categories are beginning to emerge, and what founders can build as AI moves further into the physical world. Get your pass now to save up to $100 before rates go up at the door on October 13. Grab a second pass at 50% off. Register now . The AI race is becoming an infrastructure race Much of the AI conversation has focused on models, chips, and applications. But none of them operate in isolation. Scaling AI depends on an expanding physical stack: power generation, grid connections, data centers, cooling, electrical equipment, and the systems required to keep everything running. That creates a different kind of challenge. What happens when demand for compute grows faster than power and infrastructure can be delivered? Which shortages are temporary, and which could reshape the market for years? Where does a constraint stop being a problem and start becoming a category of its own? Those are the questions this session will tackle. Rather than looking at AI solely through the software layer, Bill Thayer and Ben Longmier will examine the infrastructure underneath it — and what those pressures could mean for founders, investors, and companies planning for the next phase of AI growth. Where do the real opportunities sit? Infrastructure booms create opportunity, but the benefits are rarely distributed evenly. The challenge is identifying which parts of the stack genuinely need new solutions, where spending is likely to persist, and which emerging categories can support durable businesses rather than short-term demand. Bringing together leaders across energy, data center solutions, and market intelligence gives the discussion a wider view of that question. Expect the conversation to explore where constraints are appearing, how the market is responding, and which areas founders should be watching as more capital flows into AI infrastructure. For founders, that means looking beyond the obvious AI application. For investors, it means understanding where infrastructure demand could create defensible markets. For tech leaders, it offers a clearer view of the physical systems increasingly shaping where and how AI can scale. The next AI company may solve a physical-world problem The next major opportunity created by AI may not look like an AI company at all. It could emerge in energy, data centers, cooling, grid technology, electrical equipment, infrastructure software, or entirely new categories that don’t yet have established names. The common factor is the same: AI is creating new demands on the physical world, and those demands need solutions. That is what makes this session broader than an infrastructure discussion. It’s about understanding where the next markets could emerge — and who is positioned to build for them. Join Ben Longmier and Bill Thayer at the Smart Systems Stage at TechCrunch Disrupt 2026 and explore where the AI infrastructure boom is creating its next opportunities. Don’t forget about the 250+ speakers leading 200+ sessions. Save up to $100 before doors open at Moscone West on October 13 at 8 a.m. PT. Bring a co-founder, partner, colleague, or peer and get 50% off a second pass of the same ticket type. Image Credits: Kimberly White / Getty Images Topics AI , Ambrosia Energy , Bloom Energy , Startups , TechCrunch Disrupt When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. TechCrunch Events View Bio October 13 – 15 San Francisco Get 50% off a second pass The Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem. BOOK NOW Most Popular Anthropic is giving startups a free year of Claude Team and $1,000 in credits Russell Brandom Etched fields funding offers at $40B+ valuation, sources say Marina Temkin At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI Dominic-Madori Davis Trump unveils his new Super Intelligence Force Anthony Ha Federal judge calls Flock ‘indiscriminate mass surveillance’ Anthony Ha Amazon responds to data center backlash, says it no longer uses NDAs Anthony Ha OpenAI safety employee resigns, claiming the company’s ‘culture is broken’ Anthony Ha",
       "summary": null,
       "enterpriseAngle": null,
       "beginner": null,
       "advanced": null,
-      "tags": [],
-      "dateChecked": true
+      "tags": []
+    },
+    {
+      "id": "b5df5b287127",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass",
+      "url": "https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/",
+      "publishedAt": "2026-10-08T14:00:00.000Z",
+      "fetchedAt": "2026-10-09T01:07:24.950Z",
+      "contentText": "Five days from now, the global tech ecosystem gathers at TechCrunch Disrupt 2026 at San Francisco’s Moscone West. If Disrupt is already on your calendar, but your ticket isn’t in your inbox, now is the time to change that before prices go up. Final discounted rates are still available before event doors open at 8 a.m. PT on October 13, with pass savings of up to $100. Coming as a pair? Get 50% off a second pass of the same type . Or take advantage of more savings with a group of four or more . Six stages and 200+ sessions — build your own Disrupt If insightful content is what you’re coming for, Disrupt gives you 200+ sessions across six stages to choose from. Explore the agenda to get to know the sessions and speakers. The Disrupt Stage brings together the biggest conversations in tech and the ultimate pitch competition, Startup Battlefield 200. Hear from leaders like Max Hodak (Science Corporation), Garrett Langley (Flock), Andrew Feldman (Cerebras Systems), plus a special appearance by Mark Wahlberg, and more. Image Credits: Paul Devlin Builders Stage is a giant tactical workshop on fundraising, hiring, product-market fit, go-to-market strategy, and scaling. Featuring leaders from Nvidia, Uber, Google Cloud, Lovable, and more. AI Stage digs into technologies and business models being reshaped by generative and agentic AI. These conversations are led by leaders from Luma, AWS, Anthropic, OpenAI, and many more. Real World AI Stage looks at where AI is already being deployed across the physical world. Witness live robotics demonstrations, and hear from leaders from General Motors, Agility Robotics, Waabi, and more. Smart Money Stage covers fintech, payments, stablecoins, and financial infrastructure with discussions shaped by leaders from Robinhood, Airwallex, American Express, and more. Smart Systems Stage explores data centers, energy, automation, and robotics in conversations led by Helion, Ambrosia Energy, Inertia, and more. Bonus: You can also partake in interactive roundtables, Q&A breakout sessions, and unparalleled networking. There are plenty of ways to shape the event around what matters most to you. Where 10,000 tech leaders converge: The Expo Hall Image Credits: Eric Slomonson, The Photo Group But you don’t have to build your Disrupt around the stages. The Expo Hall offers a different kind of experience, giving you the freedom to explore 300+ companies and products at your own pace, talk directly with the people building them, and uncover ideas outside your usual network. You’ll also have the opportunity to witness live pitches from early-stage startups looking to perfect their pitch and be noticed by VCs. Save up to $100 before Disrupt doors open on October 13 Five days remain. Get your discounted pass from $299, plus get 50% off a second pass of the same type before prices increase at the event. Laid off? Grab your Expo+ Layoff ticket for just $75 before they run out. Image Credits: Slava Blazer Photography Topics AI , Fintech , Fundraising , Robotics , Startups , TechCrunch Disrupt , Venture When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. TechCrunch Events View Bio October 13 – 15 San Francisco Get 50% off a second pass The Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem. BOOK NOW Most Popular Anthropic is giving startups a free year of Claude Team and $1,000 in credits Russell Brandom Etched fields funding offers at $40B+ valuation, sources say Marina Temkin At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI Dominic-Madori Davis Trump unveils his new Super Intelligence Force Anthony Ha Federal judge calls Flock ‘indiscriminate mass surveillance’ Anthony Ha Amazon responds to data center backlash, says it no longer uses NDAs Anthony Ha OpenAI safety employee resigns, claiming the company’s ‘culture is broken’ Anthony Ha",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
     },
     {
       "id": "ca1ec6c6a1a1",
@@ -224,6 +354,22 @@
         "model-release",
         "agents"
       ]
+    },
+    {
+      "id": "f6d3626eb7c8",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "LegalOn halves Codex costs while maintaining development speed",
+      "url": "https://openai.com/index/legalon-halves-codex-costs",
+      "publishedAt": "2026-10-08T12:00:00.000Z",
+      "fetchedAt": "2026-10-09T01:07:23.327Z",
+      "contentText": "October 8, 2026 LegalOn halves Codex costs while maintaining development speed LegalOn cut costs by 65% while maintaining development speed by matching Astra, Sol, and Luna to tasks and managing budgets strategically. Start building (opens in a new window) Company size: Startup Region: Asia-Pacific & Oceania Industry: Technology Products: Codex Results -20% Cost reduction in mature business areas Results -65% Reduction in estimated daily costs Loading… Share Optimizing models to maintain development speed and reduce costs Optimizing models to maintain development speed and reduce costs Matching models to tasks and allocating resources strategically Choosing among three models for different tasks Results at a glance Measuring the true ROI of AI investment through feature releases Building an organization and governance for the AI era Optimizing models to maintain development speed and reduce costs Matching models to tasks and allocating resources strategically Choosing among three models for different tasks Results at a glance Measuring the true ROI of AI investment through feature releases Building an organization and governance for the AI era LegalOn Technologies offers Professional AI globally, using AI to support legal work and other key business functions. By combining domain expertise with AI, it enables people to focus on complex judgments and decisions. Its goal is AI-driven management that improves the quality and speed of business decision-making. This approach extends beyond its products to making the organization itself AI-native. The company integrated Codex into its development process and expanded adoption across the organization through day-to-day use. As adoption took hold, a new challenge emerged: cost control. Unlimited use of high-performance models could drive up spending, while blanket restrictions risked undermining the productivity gains AI had enabled. How could it reduce costs without slowing development? LegalOn Technologies addressed this challenge by selecting among GPT‑6 (Astra, Luna) and GPT‑6.1 Sol based on task complexity and development stage, and aligning budgets with each business’s stage of growth. The company halved costs while maintaining development speed. Optimizing models to maintain development speed and reduce costs The company initially gave developers unlimited access to its main model, GPT‑5.5 in Fast mode. They expanded its use to design, implementation, and everyday work, learning through experimentation how best to divide responsibilities between people and AI. Continuing to use high-performance models without limits, however, would inevitably exceed the annual budget. The company's AI-powered Development CoE (AID CoE) began developing guidelines for model selection. AID CoE tested and monitored models, while managers shared its findings with their teams. This enabled each engineer to independently choose the most suitable model for each task. Matching models to tasks and allocating resources strategically The new guidelines shifted the company from using the highest-capability model for every task to choosing the right model for the job. Teams started with a lightweight model and moved to more capable models as task complexity increased. To support governance, the company also introduced system controls through administrator settings, with monthly usage limits for departments and individuals. AID CoE monitors usage and adjusts limits as business needs require. Internal testing under these controls helped make the selection criteria more specific. GPT‑6 Luna, the lightest model, handles code implementation with clear requirements; GPT‑6.1 Sol supports standard design, data analysis, and document preparation; and GPT‑6 Astra, the most capable model, handles advanced judgment, including architecture design. Matching models to tasks gradually became a shared practice across teams. Choosing among three models for different tasks GPT-6 Luna Everyday execution and implementation; running everyday automations; delegating relatively simple tasks and analysis; code implementation, mainly as a subagent. GPT-6.1 Sol Standard design and analysis; relatively simple software design; routine numerical analysis and document creation; tasks requiring shorter completion times than with Luna. GPT-6 Astra Complex analysis, design, and orchestration; complex analysis and document creation; complex software design; coordinating agents as the orchestrator. Alongside model selection, the company began restricting Fast mode by default, allowing individual requests only when needed. Although the change raised concerns about development speed, teams used approaches such as running tasks in parallel to maintain performance and transition smoothly. It also introduced budget caps for AI spending at the department, group, and individual levels. The established LegalOn business was asked to improve cost efficiency by up to approximately 20%, while new businesses in the launch phase received generous budgets to encourage active use of AI. Yuta Tokitake, Senior Engineering Manager at LegalOn Technologies, explains that new businesses prioritized business speed over cost efficiency. The aim was to use AI extensively to increase output and ultimately drive business growth. Together, model selection, feature restrictions, and budgets tailored to each business reduced estimated daily costs by approximately 65%. This approach kept the overall budget under control while directing resources toward businesses the company wanted to grow. Results at a glance Model optimization and strategic resource allocation delivered the following results: A shift from using the most capable model for every task to selecting GPT‑6 Astra, GPT‑6.1 Sol, or GPT‑6 Luna based on task complexity and development stage. Development performance maintained after restricting Fast mode by default, supported by team practices such as parallel task execution. Budget caps that combined approximately 20% greater efficiency in mature businesses with active investment in new businesses. A 65% reduction in estimated daily costs compared with GPT‑5.5 by choosing among GPT‑6 and 6.1 models. Measuring the true ROI of AI investment through feature releases Through model optimization, the company reduced costs without sacrificing development speed or quality. Teams are also seeing AI steadily shorten the cycle from development to release. But the company is looking further ahead. Does faster development alone make AI investment a success? The connection between faster development and customer value remained unclear. “It is almost a given that AI can accelerate system development and updates,” says Tokitake. “What we really want to understand is whether that faster development actually translates into value for customers.” This question prompted the company to develop its own metric, shifting the basis for evaluating AI investment from development speed and usage volume to customer value. Tokitake expl",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
     },
     {
       "id": "dcd9f5d91c11",

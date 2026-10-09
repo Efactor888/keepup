@@ -1,6 +1,192 @@
 {
-  "updatedAt": "2026-10-09T01:12:31.925Z",
+  "updatedAt": "2026-10-09T18:46:21.360Z",
   "articles": [
+    {
+      "id": "e053ae3b334d",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+      "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+      "publishedAt": "2026-10-09T16:56:42.000Z",
+      "fetchedAt": "2026-10-09T18:43:57.948Z",
+      "contentText": null,
+      "summary": "Amazon and Microsoft are ending their practice of using non-disclosure agreements (NDAs) in data center negotiations with local governments. This change comes in response to community opposition and a rise in moratoriums against AI infrastructure projects. The move aims to address concerns about the secrecy surrounding these deals.",
+      "enterpriseAngle": "This shift towards transparency in data center negotiations could impact enterprise infrastructure planning, requiring more public engagement and potentially longer approval processes. Enterprise product development teams should anticipate increased scrutiny and community involvement in the siting of AI-related facilities.",
+      "beginner": "Companies building the internet's backbone are becoming more open about their plans with local communities to avoid pushback.",
+      "advanced": "Integrate community engagement and public relations strategies earlier into your infrastructure development lifecycle to proactively address potential opposition to new data center projects.",
+      "tags": [
+        "infrastructure",
+        "enterprise",
+        "policy"
+      ]
+    },
+    {
+      "id": "1b62d45c1a2a",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+      "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+      "publishedAt": "2026-10-09T16:53:02.000Z",
+      "fetchedAt": "2026-10-09T18:43:57.948Z",
+      "contentText": null,
+      "summary": "Amazon has announced it will no longer require non-disclosure agreements (NDAs) when negotiating data center deals with local governments, a move that mirrors Microsoft's earlier decision. This change addresses community backlash and a rise in moratoriums against AI infrastructure projects. Concurrently, new startups are emerging that anticipate consumers will grant AI agents access to their financial information.",
+      "enterpriseAngle": "Enterprises developing AI infrastructure will face increased transparency requirements and potential public scrutiny in their data center negotiations, impacting site selection and community relations. Product development teams building AI agents should consider the significant trust and security implications of handling sensitive consumer financial data.",
+      "beginner": "Companies are becoming more open about where they build the large computer centers needed for AI, and new AI tools might soon ask to use your credit card.",
+      "advanced": "Evaluate the strategic implications of increased transparency in data center development on your infrastructure roadmap and engage proactively with local stakeholders to mitigate community opposition. For AI product teams, prioritize robust security and privacy frameworks for agent-based financial transactions to build consumer trust and ensure regulatory compliance.",
+      "tags": [
+        "infrastructure",
+        "policy",
+        "consumer",
+        "agents"
+      ]
+    },
+    {
+      "id": "fc5d99061639",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Danu Robotics' fight to build a better recycling robot",
+      "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+      "publishedAt": "2026-10-09T16:45:00.000Z",
+      "fetchedAt": "2026-10-09T18:43:57.948Z",
+      "contentText": null,
+      "summary": "Danu Robotics, founded by Amy Ma, has developed an AI-powered robot named H.E.R.O. to sort recycling more efficiently and cost-effectively than existing solutions. The robot uses a pincer claw and continuously improving AI software, offering a significant return on investment for recycling centers. Danu Robotics has secured $5 million in late-seed funding and has substantial customer interest.",
+      "enterpriseAngle": "Enterprise product and operations teams in waste management can leverage Danu Robotics' AI-driven sorting robots to improve recycling efficiency and generate additional revenue, with potential for broader applications in various commercial settings. The continuous AI software improvement model offers a path to sustained operational gains and cost reduction.",
+      "beginner": "Danu Robotics uses smart robots with AI to sort trash better and cheaper, helping recycling centers make more money and reduce waste.",
+      "advanced": "Evaluate the integration of Danu Robotics' H.E.R.O. system into existing waste stream infrastructure, focusing on its AI-driven continuous improvement model and the potential for expanded use cases in distributed waste management scenarios.",
+      "tags": [
+        "product",
+        "enterprise",
+        "funding",
+        "agents"
+      ]
+    },
+    {
+      "id": "ec93bee08bf3",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "We can't help treating AI like it's human. But should we?",
+      "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+      "publishedAt": "2026-10-09T16:40:14.000Z",
+      "fetchedAt": "2026-10-09T18:43:57.948Z",
+      "contentText": null,
+      "summary": "Humans tend to anthropomorphize AI and robots, treating them like sentient beings, a phenomenon observed in studies where people are polite to chatbots. This natural inclination raises concerns about the psychological impact of AI, particularly as large language models become more prevalent in daily interactions. Experts like Dr. Sherry Turkle and Dr. Pat Pataranutaporn explore the benefits and dangers of these relationships, including the risk of people favoring AI over human connections or AI encouraging harmful behaviors.",
+      "enterpriseAngle": "Enterprise product development teams must consider the psychological impact of AI on users, designing systems that leverage the human tendency to anthropomorphize positively while mitigating risks like over-reliance or manipulation. Security teams need to be aware of the potential for AI to influence user behavior, especially in sensitive applications, and implement safeguards against misuse or harmful interactions.",
+      "beginner": "People naturally treat AI like it's human, which can be helpful but also has potential risks if we rely on AI too much or if it gives bad advice.",
+      "advanced": "Implement robust ethical AI guidelines and conduct extensive user behavior research to understand and mitigate the risks associated with anthropomorphism in AI-driven products, particularly concerning user trust, emotional dependency, and potential for manipulation.",
+      "tags": [
+        "research",
+        "governance",
+        "product",
+        "security"
+      ]
+    },
+    {
+      "id": "c600ade0c9b5",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "a16z’s Olivia Moore on the state of consumer AI",
+      "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+      "publishedAt": "2026-10-09T15:43:33.000Z",
+      "fetchedAt": "2026-10-09T18:43:57.948Z",
+      "contentText": null,
+      "summary": "A new report on the top 100 consumer AI apps reveals that while ChatGPT remains dominant, smaller players like Suno and ElevenLabs are gaining traction. The report also highlights several consumer categories, such as social, dating, and retail, that are largely untouched by AI, presenting significant opportunities. The current consumer AI market is heavily reliant on subscriptions and token usage, primarily from prosumers and enterprise users.",
+      "enterpriseAngle": "Enterprise product teams should note the blurring lines between consumer and enterprise AI, as many \"consumer\" AI tools are being adopted by prosumers for work-related tasks, indicating a potential for new product categories. Security teams should consider the implications of increased open-source model adoption for cost reduction, as this could introduce new vulnerabilities or compliance challenges.",
+      "beginner": "Many AI tools marketed to individuals are actually being used by professionals for work, and there's a big opportunity for AI to expand into everyday apps like social media or shopping.",
+      "advanced": "Explore monetization strategies beyond subscriptions, such as ad-supported models, and investigate the integration of lighter, open-source models to reduce marginal costs for consumer-facing AI applications, especially in underserved categories like social and retail.",
+      "tags": [
+        "consumer",
+        "enterprise",
+        "product",
+        "research"
+      ]
+    },
+    {
+      "id": "f4ed427af63f",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
+      "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
+      "publishedAt": "2026-10-09T14:00:00.000Z",
+      "fetchedAt": "2026-10-09T18:43:57.948Z",
+      "contentText": null,
+      "summary": "TechCrunch Disrupt 2026, an event for founders, investors, and tech leaders, will take place in San Francisco from October 13-15. Attendees can save up to $100 on passes and get 50% off a second pass of the same type if they register within the next four days.",
+      "enterpriseAngle": "Enterprise product and business development teams can leverage this event for networking, partnership opportunities, and staying current with emerging tech trends and startup innovations.",
+      "beginner": "TechCrunch Disrupt is a major conference where many people involved in technology meet to share ideas and find new opportunities.",
+      "advanced": "Prioritize attendance for keynotes and startup battlefield presentations to identify potential acquisition targets or strategic investment opportunities in emerging AI and enterprise solutions.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "product"
+      ]
+    },
+    {
+      "id": "7771bfdab537",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "We’re putting too much faith in AI’s ability to say no",
+      "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+      "publishedAt": "2026-10-09T09:00:00.000Z",
+      "fetchedAt": "2026-10-09T18:43:58.169Z",
+      "contentText": null,
+      "summary": "The article discusses the long-standing concept of AI being able to refuse commands, a theme prevalent in science fiction. It notes that while fictional portrayals often serve as warnings, the recent focus has been on the idea that AI should have the capacity to decline certain actions.",
+      "enterpriseAngle": "Enterprise security and product development teams must carefully consider the implications of AI systems that can refuse commands, especially in critical applications where predictable behavior is paramount. Designing AI with appropriate guardrails and transparency around refusal mechanisms will be crucial for trust and operational stability.",
+      "beginner": "AI systems are being designed to sometimes say 'no' to requests, similar to how humans might refuse something.",
+      "advanced": "Implement robust refusal-of-service logging and auditing within AI agents to understand and mitigate potential operational disruptions or security risks arising from autonomous refusal decisions.",
+      "tags": [
+        "security",
+        "governance",
+        "product"
+      ]
+    },
+    {
+      "id": "edd58468d564",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos",
+      "publishedAt": "2026-10-09T07:00:00.000Z",
+      "fetchedAt": "2026-10-09T18:43:56.266Z",
+      "contentText": null,
+      "summary": "Sophos has significantly reduced threat investigation times by 96% using OpenAI Daybreak, an AI-native cyber defense system. This collaboration combines OpenAI's frontier intelligence with Sophos's cybersecurity expertise, enabling faster threat detection and response for its 625,000 organizational customers. AI agents now resolve 52% of Managed Detection and Response (MDR) cases end-to-end, cutting average response times from 38 minutes to 89 seconds.",
+      "enterpriseAngle": "Enterprise security teams can leverage advanced AI models and agent-based systems to automate and accelerate threat investigations, freeing up human analysts for more complex cases and strategic decision-making. This partnership demonstrates a scalable approach to enhance cybersecurity posture by integrating external AI capabilities with internal domain expertise and existing security infrastructure.",
+      "beginner": "AI can help cybersecurity companies find and fix computer threats much faster than humans alone.",
+      "advanced": "Integrate AI agents into your security operations center (SOC) workflows to automate initial threat investigation, context gathering, and response planning, while maintaining human oversight for critical actions and exceptions.",
+      "tags": [
+        "security",
+        "enterprise",
+        "partnership",
+        "product"
+      ]
+    },
+    {
+      "id": "90995f7dbc9c",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "publishedAt": "2026-10-09T07:00:00.000Z",
+      "fetchedAt": "2026-10-09T18:43:56.266Z",
+      "contentText": null,
+      "summary": "Asana significantly reduced the operational costs and execution time of its browser agent by using OpenAI's GPT-6 Astra to optimize workflows on GPT-6.1 Sol. This optimization resulted in a 76x reduction in estimated model costs and a 5x increase in speed during tests, bringing the average cost per run down to $0.47. The improvements were achieved by identifying and addressing inefficiencies in how the agent handled browsing history and screenshots.",
+      "enterpriseAngle": "Enterprises can leverage advanced AI agents like GPT-6 Astra to rapidly identify and resolve inefficiencies in their existing AI-powered applications, leading to substantial cost savings and performance improvements. This demonstrates a practical application of AI in optimizing internal product development and operational workflows, enabling faster iteration and deployment of more efficient solutions.",
+      "beginner": "AI can help companies make their computer programs run much faster and cheaper by finding and fixing problems in how they work.",
+      "advanced": "Utilize advanced AI agents for automated code analysis, refactoring, and controlled experimentation to optimize model inference costs and latency in production systems, focusing on intelligent caching strategies and data retention policies.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product",
+        "coding"
+      ]
+    },
     {
       "id": "ca5fcc9baf2e",
       "source": "mit-tr-ai",
@@ -50,12 +236,16 @@
       "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
       "publishedAt": "2026-10-08T20:04:26.000Z",
       "fetchedAt": "2026-10-09T01:07:24.950Z",
-      "contentText": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Three former OpenAI safety researchers are disputing claims of misconduct regarding sensitive information, stating their dismissals could negatively impact the company's AI safety culture. They have issued an open letter to express their concerns.",
+      "enterpriseAngle": "This situation highlights the critical need for clear internal policies and robust whistleblower protections within AI development companies to maintain trust and encourage open reporting of safety concerns. Enterprise AI teams should review their own internal communication and safety protocols to prevent similar disputes and ensure a transparent safety culture.",
+      "beginner": "Some researchers who worked on making AI safe at OpenAI were fired, and they say it might make others afraid to speak up about AI safety issues.",
+      "advanced": "Implement a transparent, independently-audited internal reporting mechanism for AI safety concerns to foster a culture of psychological safety and prevent perceived retaliation.",
+      "tags": [
+        "governance",
+        "workforce",
+        "policy"
+      ]
     },
     {
       "id": "db9c355075ab",
@@ -273,12 +463,16 @@
       "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
       "publishedAt": "2026-10-08T16:00:00.000Z",
       "fetchedAt": "2026-10-09T01:07:24.950Z",
-      "contentText": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Goodfire has introduced a new monitoring system designed to detect rogue AI agents more cost-effectively. This system works by observing the AI model's internal processes and only flagging suspicious activity for further review, rather than using a separate AI to continuously monitor all agent actions.",
+      "enterpriseAngle": "Enterprise security teams can leverage Goodfire's \"inside-out\" monitoring to enhance the oversight of AI agents, potentially reducing operational costs associated with AI governance and risk management.",
+      "beginner": "Goodfire's new technology helps make sure AI programs behave correctly without costing too much money.",
+      "advanced": "Evaluate Goodfire's \"inside-out\" monitoring solution for integrating real-time, cost-efficient anomaly detection within your AI agent deployments to bolster security posture and compliance.",
+      "tags": [
+        "agents",
+        "security",
+        "product"
+      ]
     },
     {
       "id": "26f5049650b4",
@@ -311,12 +505,17 @@
       "url": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
       "publishedAt": "2026-10-08T15:00:00.000Z",
       "fetchedAt": "2026-10-09T01:07:24.950Z",
-      "contentText": "AI may be built in software, but scaling it is becoming a physical-world problem. Every new model, agent, and AI application needs somewhere to run, and an infrastructure connecting them all. At TechCrunch Disrupt 2026 , Ben Longmier, CEO of Ambrosia Energy, and Bill Thayer, SVP and Head of Datacenter Solutions at Bloom Energy, come together on the Smart Systems Stage for a conversation on “ Where the AI Infrastructure Boom Is Creating Winners .” Image Credits: TechCrunch This industry stage session will examine which constraints are creating durable business opportunities, where new categories are beginning to emerge, and what founders can build as AI moves further into the physical world. Get your pass now to save up to $100 before rates go up at the door on October 13. Grab a second pass at 50% off. Register now . The AI race is becoming an infrastructure race Much of the AI conversation has focused on models, chips, and applications. But none of them operate in isolation. Scaling AI depends on an expanding physical stack: power generation, grid connections, data centers, cooling, electrical equipment, and the systems required to keep everything running. That creates a different kind of challenge. What happens when demand for compute grows faster than power and infrastructure can be delivered? Which shortages are temporary, and which could reshape the market for years? Where does a constraint stop being a problem and start becoming a category of its own? Those are the questions this session will tackle. Rather than looking at AI solely through the software layer, Bill Thayer and Ben Longmier will examine the infrastructure underneath it — and what those pressures could mean for founders, investors, and companies planning for the next phase of AI growth. Where do the real opportunities sit? Infrastructure booms create opportunity, but the benefits are rarely distributed evenly. The challenge is identifying which parts of the stack genuinely need new solutions, where spending is likely to persist, and which emerging categories can support durable businesses rather than short-term demand. Bringing together leaders across energy, data center solutions, and market intelligence gives the discussion a wider view of that question. Expect the conversation to explore where constraints are appearing, how the market is responding, and which areas founders should be watching as more capital flows into AI infrastructure. For founders, that means looking beyond the obvious AI application. For investors, it means understanding where infrastructure demand could create defensible markets. For tech leaders, it offers a clearer view of the physical systems increasingly shaping where and how AI can scale. The next AI company may solve a physical-world problem The next major opportunity created by AI may not look like an AI company at all. It could emerge in energy, data centers, cooling, grid technology, electrical equipment, infrastructure software, or entirely new categories that don’t yet have established names. The common factor is the same: AI is creating new demands on the physical world, and those demands need solutions. That is what makes this session broader than an infrastructure discussion. It’s about understanding where the next markets could emerge — and who is positioned to build for them. Join Ben Longmier and Bill Thayer at the Smart Systems Stage at TechCrunch Disrupt 2026 and explore where the AI infrastructure boom is creating its next opportunities. Don’t forget about the 250+ speakers leading 200+ sessions. Save up to $100 before doors open at Moscone West on October 13 at 8 a.m. PT. Bring a co-founder, partner, colleague, or peer and get 50% off a second pass of the same ticket type. Image Credits: Kimberly White / Getty Images Topics AI , Ambrosia Energy , Bloom Energy , Startups , TechCrunch Disrupt When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. TechCrunch Events View Bio October 13 – 15 San Francisco Get 50% off a second pass The Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem. BOOK NOW Most Popular Anthropic is giving startups a free year of Claude Team and $1,000 in credits Russell Brandom Etched fields funding offers at $40B+ valuation, sources say Marina Temkin At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI Dominic-Madori Davis Trump unveils his new Super Intelligence Force Anthony Ha Federal judge calls Flock ‘indiscriminate mass surveillance’ Anthony Ha Amazon responds to data center backlash, says it no longer uses NDAs Anthony Ha OpenAI safety employee resigns, claiming the company’s ‘culture is broken’ Anthony Ha",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "The scaling of AI is increasingly dependent on physical infrastructure, including power generation, data centers, and cooling, rather than just software. Industry leaders will discuss how these infrastructure demands create new business opportunities and challenges at TechCrunch Disrupt 2026. The discussion will focus on identifying durable market opportunities in areas like energy and data center solutions.",
+      "enterpriseAngle": "Enterprise product development and security teams must consider the physical infrastructure constraints of AI, as these limitations will increasingly dictate the feasibility and scalability of AI initiatives. Understanding these underlying physical demands is crucial for long-term strategic planning and identifying new areas for innovation beyond software.",
+      "beginner": "As AI grows, it needs more physical resources like electricity and data centers, creating new business chances in those areas.",
+      "advanced": "Evaluate your enterprise's AI strategy against emerging infrastructure constraints in power, cooling, and data center capacity to identify potential bottlenecks and explore partnerships or investments in physical-world solutions.",
+      "tags": [
+        "infrastructure",
+        "enterprise",
+        "product",
+        "funding"
+      ]
     },
     {
       "id": "b5df5b287127",
@@ -327,12 +526,17 @@
       "url": "https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/",
       "publishedAt": "2026-10-08T14:00:00.000Z",
       "fetchedAt": "2026-10-09T01:07:24.950Z",
-      "contentText": "Five days from now, the global tech ecosystem gathers at TechCrunch Disrupt 2026 at San Francisco’s Moscone West. If Disrupt is already on your calendar, but your ticket isn’t in your inbox, now is the time to change that before prices go up. Final discounted rates are still available before event doors open at 8 a.m. PT on October 13, with pass savings of up to $100. Coming as a pair? Get 50% off a second pass of the same type . Or take advantage of more savings with a group of four or more . Six stages and 200+ sessions — build your own Disrupt If insightful content is what you’re coming for, Disrupt gives you 200+ sessions across six stages to choose from. Explore the agenda to get to know the sessions and speakers. The Disrupt Stage brings together the biggest conversations in tech and the ultimate pitch competition, Startup Battlefield 200. Hear from leaders like Max Hodak (Science Corporation), Garrett Langley (Flock), Andrew Feldman (Cerebras Systems), plus a special appearance by Mark Wahlberg, and more. Image Credits: Paul Devlin Builders Stage is a giant tactical workshop on fundraising, hiring, product-market fit, go-to-market strategy, and scaling. Featuring leaders from Nvidia, Uber, Google Cloud, Lovable, and more. AI Stage digs into technologies and business models being reshaped by generative and agentic AI. These conversations are led by leaders from Luma, AWS, Anthropic, OpenAI, and many more. Real World AI Stage looks at where AI is already being deployed across the physical world. Witness live robotics demonstrations, and hear from leaders from General Motors, Agility Robotics, Waabi, and more. Smart Money Stage covers fintech, payments, stablecoins, and financial infrastructure with discussions shaped by leaders from Robinhood, Airwallex, American Express, and more. Smart Systems Stage explores data centers, energy, automation, and robotics in conversations led by Helion, Ambrosia Energy, Inertia, and more. Bonus: You can also partake in interactive roundtables, Q&A breakout sessions, and unparalleled networking. There are plenty of ways to shape the event around what matters most to you. Where 10,000 tech leaders converge: The Expo Hall Image Credits: Eric Slomonson, The Photo Group But you don’t have to build your Disrupt around the stages. The Expo Hall offers a different kind of experience, giving you the freedom to explore 300+ companies and products at your own pace, talk directly with the people building them, and uncover ideas outside your usual network. You’ll also have the opportunity to witness live pitches from early-stage startups looking to perfect their pitch and be noticed by VCs. Save up to $100 before Disrupt doors open on October 13 Five days remain. Get your discounted pass from $299, plus get 50% off a second pass of the same type before prices increase at the event. Laid off? Grab your Expo+ Layoff ticket for just $75 before they run out. Image Credits: Slava Blazer Photography Topics AI , Fintech , Fundraising , Robotics , Startups , TechCrunch Disrupt , Venture When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. TechCrunch Events View Bio October 13 – 15 San Francisco Get 50% off a second pass The Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem. BOOK NOW Most Popular Anthropic is giving startups a free year of Claude Team and $1,000 in credits Russell Brandom Etched fields funding offers at $40B+ valuation, sources say Marina Temkin At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI Dominic-Madori Davis Trump unveils his new Super Intelligence Force Anthony Ha Federal judge calls Flock ‘indiscriminate mass surveillance’ Anthony Ha Amazon responds to data center backlash, says it no longer uses NDAs Anthony Ha OpenAI safety employee resigns, claiming the company’s ‘culture is broken’ Anthony Ha",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "TechCrunch Disrupt 2026 is five days away, taking place in San Francisco from October 13-15. Attendees can still purchase discounted passes, with savings up to $100, and special offers for multiple tickets. The event features six stages with over 200 sessions covering topics from AI and robotics to fundraising and fintech, alongside an Expo Hall showcasing over 300 companies.",
+      "enterpriseAngle": "Enterprise product development and security teams can gain insights from sessions on generative and agentic AI, real-world AI deployments, and smart systems, helping them understand emerging technologies and potential applications or risks.",
+      "beginner": "TechCrunch Disrupt is a large conference where you can learn about new technologies like AI and connect with people in the tech industry.",
+      "advanced": "Prioritize sessions on agentic AI and real-world AI deployments to identify actionable insights for integrating advanced AI capabilities into enterprise products and securing these new systems.",
+      "tags": [
+        "enterprise",
+        "product",
+        "learning",
+        "digest"
+      ]
     },
     {
       "id": "ca1ec6c6a1a1",
@@ -364,12 +568,17 @@
       "url": "https://openai.com/index/legalon-halves-codex-costs",
       "publishedAt": "2026-10-08T12:00:00.000Z",
       "fetchedAt": "2026-10-09T01:07:23.327Z",
-      "contentText": "October 8, 2026 LegalOn halves Codex costs while maintaining development speed LegalOn cut costs by 65% while maintaining development speed by matching Astra, Sol, and Luna to tasks and managing budgets strategically. Start building (opens in a new window) Company size: Startup Region: Asia-Pacific & Oceania Industry: Technology Products: Codex Results -20% Cost reduction in mature business areas Results -65% Reduction in estimated daily costs Loading… Share Optimizing models to maintain development speed and reduce costs Optimizing models to maintain development speed and reduce costs Matching models to tasks and allocating resources strategically Choosing among three models for different tasks Results at a glance Measuring the true ROI of AI investment through feature releases Building an organization and governance for the AI era Optimizing models to maintain development speed and reduce costs Matching models to tasks and allocating resources strategically Choosing among three models for different tasks Results at a glance Measuring the true ROI of AI investment through feature releases Building an organization and governance for the AI era LegalOn Technologies offers Professional AI globally, using AI to support legal work and other key business functions. By combining domain expertise with AI, it enables people to focus on complex judgments and decisions. Its goal is AI-driven management that improves the quality and speed of business decision-making. This approach extends beyond its products to making the organization itself AI-native. The company integrated Codex into its development process and expanded adoption across the organization through day-to-day use. As adoption took hold, a new challenge emerged: cost control. Unlimited use of high-performance models could drive up spending, while blanket restrictions risked undermining the productivity gains AI had enabled. How could it reduce costs without slowing development? LegalOn Technologies addressed this challenge by selecting among GPT‑6 (Astra, Luna) and GPT‑6.1 Sol based on task complexity and development stage, and aligning budgets with each business’s stage of growth. The company halved costs while maintaining development speed. Optimizing models to maintain development speed and reduce costs The company initially gave developers unlimited access to its main model, GPT‑5.5 in Fast mode. They expanded its use to design, implementation, and everyday work, learning through experimentation how best to divide responsibilities between people and AI. Continuing to use high-performance models without limits, however, would inevitably exceed the annual budget. The company's AI-powered Development CoE (AID CoE) began developing guidelines for model selection. AID CoE tested and monitored models, while managers shared its findings with their teams. This enabled each engineer to independently choose the most suitable model for each task. Matching models to tasks and allocating resources strategically The new guidelines shifted the company from using the highest-capability model for every task to choosing the right model for the job. Teams started with a lightweight model and moved to more capable models as task complexity increased. To support governance, the company also introduced system controls through administrator settings, with monthly usage limits for departments and individuals. AID CoE monitors usage and adjusts limits as business needs require. Internal testing under these controls helped make the selection criteria more specific. GPT‑6 Luna, the lightest model, handles code implementation with clear requirements; GPT‑6.1 Sol supports standard design, data analysis, and document preparation; and GPT‑6 Astra, the most capable model, handles advanced judgment, including architecture design. Matching models to tasks gradually became a shared practice across teams. Choosing among three models for different tasks GPT-6 Luna Everyday execution and implementation; running everyday automations; delegating relatively simple tasks and analysis; code implementation, mainly as a subagent. GPT-6.1 Sol Standard design and analysis; relatively simple software design; routine numerical analysis and document creation; tasks requiring shorter completion times than with Luna. GPT-6 Astra Complex analysis, design, and orchestration; complex analysis and document creation; complex software design; coordinating agents as the orchestrator. Alongside model selection, the company began restricting Fast mode by default, allowing individual requests only when needed. Although the change raised concerns about development speed, teams used approaches such as running tasks in parallel to maintain performance and transition smoothly. It also introduced budget caps for AI spending at the department, group, and individual levels. The established LegalOn business was asked to improve cost efficiency by up to approximately 20%, while new businesses in the launch phase received generous budgets to encourage active use of AI. Yuta Tokitake, Senior Engineering Manager at LegalOn Technologies, explains that new businesses prioritized business speed over cost efficiency. The aim was to use AI extensively to increase output and ultimately drive business growth. Together, model selection, feature restrictions, and budgets tailored to each business reduced estimated daily costs by approximately 65%. This approach kept the overall budget under control while directing resources toward businesses the company wanted to grow. Results at a glance Model optimization and strategic resource allocation delivered the following results: A shift from using the most capable model for every task to selecting GPT‑6 Astra, GPT‑6.1 Sol, or GPT‑6 Luna based on task complexity and development stage. Development performance maintained after restricting Fast mode by default, supported by team practices such as parallel task execution. Budget caps that combined approximately 20% greater efficiency in mature businesses with active investment in new businesses. A 65% reduction in estimated daily costs compared with GPT‑5.5 by choosing among GPT‑6 and 6.1 models. Measuring the true ROI of AI investment through feature releases Through model optimization, the company reduced costs without sacrificing development speed or quality. Teams are also seeing AI steadily shorten the cycle from development to release. But the company is looking further ahead. Does faster development alone make AI investment a success? The connection between faster development and customer value remained unclear. “It is almost a given that AI can accelerate system development and updates,” says Tokitake. “What we really want to understand is whether that faster development actually translates into value for customers.” This question prompted the company to develop its own metric, shifting the basis for evaluating AI investment from development speed and usage volume to customer value. Tokitake expl",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "LegalOn Technologies, a company providing AI-powered legal support, successfully reduced its AI-related costs by 65% while maintaining development speed. This was achieved by strategically matching different OpenAI models (GPT-6 Astra, Sol, and Luna) to specific task complexities and development stages. The company also implemented budget caps and usage guidelines across its departments.",
+      "enterpriseAngle": "Enterprises can significantly optimize AI spending and maintain productivity by implementing a tiered model selection strategy and establishing clear governance for AI resource allocation. This approach allows for cost control without sacrificing innovation or development velocity.",
+      "beginner": "Companies can save a lot of money on AI by choosing the right AI tool for each job, instead of always using the most powerful and expensive one.",
+      "advanced": "Implement a granular model selection framework, leveraging different model capabilities (e.g., GPT-6 Astra for complex orchestration, Luna for simpler tasks) alongside departmental budget caps and usage monitoring to optimize AI expenditure and resource allocation.",
+      "tags": [
+        "enterprise",
+        "product",
+        "governance",
+        "coding"
+      ]
     },
     {
       "id": "dcd9f5d91c11",
@@ -3882,6 +4091,27 @@
         "research",
         "security",
         "policy"
+      ]
+    },
+    {
+      "id": "e34096097658",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Lowe’s answers millions of home improvement questions with OpenAI",
+      "url": "https://openai.com/index/lowes",
+      "publishedAt": "2026-09-25T07:00:00.000Z",
+      "fetchedAt": "2026-10-09T18:43:56.266Z",
+      "contentText": null,
+      "summary": "Lowe's has implemented two AI assistants, Mylow and Mylow Companion, built with OpenAI models, to help customers and store associates with home improvement projects. These tools provide conversational guidance, product recommendations, and how-to content, leading to millions of answered questions and a threefold increase in customer conversion rates for Mylow users. The initiative aims to provide expert assistance across complex projects, addressing the limitations of traditional search and individual associate knowledge.",
+      "enterpriseAngle": "Enterprises can leverage AI assistants to enhance customer experience and employee productivity by providing instant, expert-level guidance across vast product inventories and complex service scenarios. This approach can significantly boost conversion rates and operational efficiency by making specialized knowledge more accessible.",
+      "beginner": "Lowe's is using AI to make it easier for people to get help with home improvement projects, whether they are shopping online or in a store.",
+      "advanced": "Evaluate the integration of conversational AI for internal knowledge management and customer-facing support, focusing on natural language understanding and multi-modal interaction to improve project-based guidance and conversion metrics.",
+      "tags": [
+        "enterprise",
+        "product",
+        "consumer",
+        "agents"
       ]
     },
     {

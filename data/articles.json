@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-10-11T00:10:53.837Z",
+  "updatedAt": "2026-10-11T17:59:02.691Z",
   "articles": [
+    {
+      "id": "df97c62cc773",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+      "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+      "publishedAt": "2026-10-11T16:52:33.000Z",
+      "fetchedAt": "2026-10-11T17:58:44.254Z",
+      "contentText": null,
+      "summary": "Amazon and Microsoft have announced they will no longer use non-disclosure agreements (NDAs) when negotiating with local governments for data center projects. This move aims to address public backlash and improve communication, as critics argue that secret negotiations contribute to community concerns about data centers' impact on property values, electricity, and water usage. While some believe this is a positive first step, the long-term effect on community resistance and data center development remains uncertain.",
+      "enterpriseAngle": "Enterprise AI companies developing and deploying large models will need to consider the public perception and local government relations surrounding their data center infrastructure, as transparency in negotiations may become a standard expectation. Product development teams should anticipate potential delays in infrastructure build-out due to community pushback, which could impact the scaling and availability of AI services.",
+      "beginner": "Companies building the large computer centers needed for AI are trying to be more open with local communities to address concerns about their impact.",
+      "advanced": "Evaluate the strategic implications of increased transparency in data center negotiations on your infrastructure roadmap and consider proactive community engagement strategies to mitigate potential project delays and foster local support.",
+      "tags": [
+        "enterprise",
+        "infrastructure",
+        "policy"
+      ]
+    },
+    {
+      "id": "778ab122b6ef",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "These execs think voice AI hasn't reached its ChatGPT moment yet",
+      "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "publishedAt": "2026-10-11T14:00:00.000Z",
+      "fetchedAt": "2026-10-11T17:58:44.254Z",
+      "contentText": null,
+      "summary": "Despite advancements like full-duplex models, voice AI has not yet achieved its \"ChatGPT moment\" due to challenges in rapid reasoning and natural conversation flow. Executives from PolyAI and Otter highlight the need for AI agents to quickly fetch answers, sound human, and accurately understand context to build user confidence and enable effective automation. Improving Automatic Speech Recognition (ASR) and ensuring transparency about AI interaction are crucial next steps for the technology.",
+      "enterpriseAngle": "Enterprise product development teams must prioritize faster reasoning, improved ASR accuracy, and natural language understanding in voice AI solutions to enhance customer service and meeting productivity. Security teams should consider the implications of recording and AI interaction, ensuring clear transparency and trust with users to maintain data privacy and compliance.",
+      "beginner": "Voice AI is getting better at sounding human, but it still needs to improve its ability to quickly understand and respond to what people say to be truly useful.",
+      "advanced": "To advance voice AI, focus on optimizing real-time reasoning for full-duplex models and enhancing ASR accuracy to minimize downstream errors in transcription and intent capture, thereby improving user trust and enabling robust automation.",
+      "tags": [
+        "product",
+        "enterprise",
+        "research",
+        "agents"
+      ]
+    },
     {
       "id": "2c9728d3318b",
       "source": "techcrunch-ai",

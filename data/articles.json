@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-10-10T17:44:32.475Z",
+  "updatedAt": "2026-10-11T00:10:53.837Z",
   "articles": [
+    {
+      "id": "2c9728d3318b",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "publishedAt": "2026-10-10T21:47:51.000Z",
+      "fetchedAt": "2026-10-11T00:10:31.075Z",
+      "contentText": null,
+      "summary": "Microsoft CEO Satya Nadella suggests that AI models require an \"emergency brake\" to improve safety and trust. He advocates for separating the model from its operational harness, externalizing controls, documenting all significant model actions with tamper-proof evidence, and enabling authorized individuals to pause or shut down a model during a task. Nadella emphasizes the need to assume models are compromised from the outset and contain them.",
+      "enterpriseAngle": "Enterprise security and product development teams should prioritize building robust \"trust architectures\" for AI, incorporating externalized controls, comprehensive audit trails for model actions, and clear mechanisms for human intervention like emergency shutdowns. This approach is crucial for mitigating risks and ensuring responsible AI deployment within organizations.",
+      "beginner": "AI systems need a way for humans to stop them if something goes wrong, similar to an emergency brake in a car.",
+      "advanced": "Implement a decoupled control plane for AI models that includes externalized, tamper-proof logging of all significant actions and an always-on, authorized human-initiated circuit breaker capability to pause or terminate model execution mid-task.",
+      "tags": [
+        "security",
+        "governance",
+        "enterprise",
+        "policy"
+      ]
+    },
+    {
+      "id": "ac1984a6a99c",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "publishedAt": "2026-10-10T19:50:00.000Z",
+      "fetchedAt": "2026-10-11T00:10:31.075Z",
+      "contentText": null,
+      "summary": "Apple has entered into an agreement to hire team members and license technology from Huxe, a personalized audio startup that recently announced its shutdown. This \"reverse acqui-hire\" allows Apple to gain AI talent and intellectual property without fully acquiring the company. Huxe's founders previously worked on AI-generated podcast features for Gemini Notebook.",
+      "enterpriseAngle": "This deal highlights a strategy for large enterprises like Apple to acquire specialized AI talent and technology from startups without the complexities and antitrust scrutiny of a full acquisition. It suggests a growing interest in personalized audio within the enterprise product development space, potentially impacting future offerings in media and entertainment.",
+      "beginner": "Apple is hiring people and getting technology from a smaller company to improve its own products, especially in personalized audio.",
+      "advanced": "Evaluate reverse acqui-hires as a strategic talent and IP acquisition model to circumvent M&A complexities and antitrust concerns, particularly in rapidly evolving AI domains like personalized media.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "product",
+        "workforce"
+      ]
+    },
     {
       "id": "7ff5bfb82852",
       "source": "techcrunch-ai",

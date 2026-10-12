@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-10-11T17:59:02.691Z",
+  "updatedAt": "2026-10-12T00:24:11.973Z",
   "articles": [
+    {
+      "id": "7d4e278f0b74",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Will the HomeView be Apple’s first smart home success?",
+      "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+      "publishedAt": "2026-10-11T21:14:40.000Z",
+      "fetchedAt": "2026-10-12T00:23:53.900Z",
+      "contentText": null,
+      "summary": "Apple is set to announce a new smart home hub called HomeView, which will feature a display, an A18 chip, and Siri integration for controlling smart home devices. This product, available in countertop and wall-mounted versions, represents Apple's latest attempt to gain traction in the smart home market after previous efforts with HomeKit and HomePod. Additionally, Apple is expected to unveil updated Apple TV and HomePod mini devices, and a partnership with LG for smart home accessories.",
+      "enterpriseAngle": "Enterprise product development teams in the smart home sector should observe Apple's HomeView launch and its partnership with LG for potential shifts in consumer expectations and integration standards. This could influence future product roadmaps and strategic alliances for competing smart home platforms and device manufacturers.",
+      "beginner": "Apple is launching a new device to help people control all their smart home gadgets, hoping to succeed where its past efforts haven't.",
+      "advanced": "Evaluate the HomeView's A18 chip and Siri integration for potential new AI-driven automation capabilities and assess the impact of Apple's LG partnership on the broader smart home ecosystem's interoperability and competitive landscape.",
+      "tags": [
+        "product",
+        "hardware",
+        "enterprise",
+        "partnership"
+      ]
+    },
+    {
+      "id": "8d1b5970f0e4",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+      "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+      "publishedAt": "2026-10-11T19:00:00.000Z",
+      "fetchedAt": "2026-10-12T00:23:53.900Z",
+      "contentText": null,
+      "summary": "TechCrunch Disrupt 2026 is scheduled to begin in less than 48 hours at Moscone West in San Francisco. Attendees can save up to $100 on passes by purchasing them before prices increase at the door, and there is also a 50% discount available on a second pass.",
+      "enterpriseAngle": "Enterprise product and development teams can attend to explore emerging technologies and network with innovators, potentially identifying new tools or partnerships.",
+      "beginner": "TechCrunch Disrupt is a conference where you can learn about new technology and meet people working in the field.",
+      "advanced": "Prioritize sessions and networking opportunities that align with your current product roadmap or strategic R&D initiatives to maximize ROI from attendance.",
+      "tags": [
+        "enterprise",
+        "product",
+        "partnership",
+        "digest"
+      ]
+    },
     {
       "id": "df97c62cc773",
       "source": "techcrunch-ai",

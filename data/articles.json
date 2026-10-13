@@ -1,6 +1,236 @@
 {
-  "updatedAt": "2026-10-12T21:41:57.019Z",
+  "updatedAt": "2026-10-13T19:50:43.655Z",
   "articles": [
+    {
+      "id": "d3f06c5cb28b",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+      "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+      "publishedAt": "2026-10-13T18:30:00.000Z",
+      "fetchedAt": "2026-10-13T19:48:58.766Z",
+      "contentText": null,
+      "summary": "Flox Intelligence has developed an AI-powered system that uses edge devices with on-device models to identify wildlife near infrastructure like train tracks and airports. The system then emits species-appropriate sounds to deter animals, learning and varying its responses to prevent habituation. This approach aims to reduce costly delays and damage caused by wildlife collisions, which currently cost U.S. civil aviation an estimated $272 million annually and affect over 8,000 trains yearly in France.",
+      "enterpriseAngle": "Enterprise security and product development teams in transportation, agriculture, and critical infrastructure sectors can leverage Flox's technology to enhance operational safety, reduce financial losses from wildlife incidents, and improve regulatory compliance through biodiversity monitoring. The company's OEM partnerships and subscription model for software deployment on vehicles like trains offer a scalable solution for integrating nature intelligence into existing and future outdoor machinery.",
+      "beginner": "Flox Intelligence uses smart devices with AI to recognize animals and scare them away from dangerous places like roads and train tracks, making travel safer and preventing accidents.",
+      "advanced": "Evaluate integrating Flox Intelligence's edge-based perception systems and adaptive deterrents into existing infrastructure monitoring and autonomous vehicle platforms to enhance environmental awareness and mitigate wildlife-related operational risks, particularly considering its reported success in preventing animal habituation.",
+      "tags": [
+        "product",
+        "enterprise",
+        "agents",
+        "hardware"
+      ]
+    },
+    {
+      "id": "c06a934276cf",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Facebook is giving users more control over their algorithm",
+      "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
+      "publishedAt": "2026-10-13T18:05:24.000Z",
+      "fetchedAt": "2026-10-13T19:48:58.766Z",
+      "contentText": null,
+      "summary": "Facebook has launched a new AI-powered feature called \"Your Algorithm,\" allowing users to control the content in their feeds and Reels by describing their preferences in natural language. This tool, previously introduced on Instagram and Threads, enables users to directly communicate what topics and content they want to see more or less of, with real-time adjustments to their recommendations. The update aims to make content more relevant and gives users greater influence over their social media experience.",
+      "enterpriseAngle": "Enterprise product development teams can learn from Meta's approach to user-controlled algorithms, as giving users more direct input on content recommendations can enhance user satisfaction and engagement. This shift towards explicit user preferences, rather than solely relying on implicit signals, could be applied to various enterprise applications to personalize user experiences more effectively.",
+      "beginner": "Facebook is giving you more power to tell its AI what kind of posts and videos you want to see, making your feed more personalized.",
+      "advanced": "Implement natural language processing capabilities to allow end-users to directly articulate content preferences, thereby refining recommendation engines and improving user-algorithm interaction beyond traditional implicit feedback loops.",
+      "tags": [
+        "product",
+        "consumer",
+        "agents",
+        "learning"
+      ]
+    },
+    {
+      "id": "fa1a37fdc416",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+      "publishedAt": "2026-10-13T17:30:00.000Z",
+      "fetchedAt": "2026-10-13T19:48:58.766Z",
+      "contentText": null,
+      "summary": "Laplace Intelligence, a University of Michigan spinout, employs AI agents and interactive simulations to rigorously test robots and self-driving vehicles prior to their real-world deployment. The company is participating in Startup Battlefield at TechCrunch Disrupt.",
+      "enterpriseAngle": "Enterprise product development teams building autonomous systems can leverage Laplace Intelligence's simulation and AI agent-based red-teaming to identify and mitigate potential failures before physical deployment, enhancing safety and reliability. This approach offers a proactive method for ensuring the robustness of AI-powered hardware in critical applications.",
+      "beginner": "Laplace Intelligence helps make sure robots and self-driving cars are safe by testing them in computer simulations before they are used in the real world.",
+      "advanced": "Integrate Laplace Intelligence's AI agent-driven simulation for pre-deployment red-teaming of autonomous systems to uncover edge cases and vulnerabilities, thereby accelerating validation cycles and reducing physical prototyping costs.",
+      "tags": [
+        "agents",
+        "product",
+        "enterprise",
+        "security"
+      ]
+    },
+    {
+      "id": "d59d959ca724",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+      "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+      "publishedAt": "2026-10-13T17:18:25.000Z",
+      "fetchedAt": "2026-10-13T19:48:58.766Z",
+      "contentText": null,
+      "summary": "Pluto Security has secured $42 million in funding to address new security challenges arising from the widespread adoption of AI tools within enterprises. The concern is that employees using AI tools in unforeseen ways could create significant security vulnerabilities for companies.",
+      "enterpriseAngle": "Enterprise security teams face increased complexity as AI tool proliferation introduces new vectors for data exposure and system vulnerabilities, necessitating specialized solutions to manage these risks. Product development teams should prioritize embedding security-by-design principles into AI-powered applications to mitigate potential misuse and data leakage.",
+      "beginner": "When companies let employees use AI, it can create new ways for their computer systems to be attacked or data to be leaked.",
+      "advanced": "Implement robust AI governance frameworks, including usage policies, data access controls, and continuous monitoring of AI tool interactions to identify and remediate novel security risks.",
+      "tags": [
+        "security",
+        "enterprise",
+        "funding"
+      ]
+    },
+    {
+      "id": "5b75b71a6459",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
+      "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+      "publishedAt": "2026-10-13T17:00:00.000Z",
+      "fetchedAt": "2026-10-13T19:48:58.766Z",
+      "contentText": null,
+      "summary": "Google Play now allows users to create and run private, \"vibe-coded\" applications on Android devices without publicizing them on the Play Store. This feature enables individuals to develop personal apps using AI tools like Google AI Studio for their own use. Initially available in the U.S. for users 18 and older, the capability will later expand to allow sharing with trusted friends and eventually public release after review.",
+      "enterpriseAngle": "This development could empower enterprise developers to rapidly prototype internal tools or custom applications for specific team needs, testing them privately on Android devices before considering broader deployment or public release. It also highlights a growing trend of personalized app development, which enterprises might leverage for highly tailored internal solutions or niche customer experiences.",
+      "beginner": "You can now make your own apps for your Android phone using AI and keep them just for yourself, without everyone else seeing them on the app store.",
+      "advanced": "Leverage Google Play's new private app deployment feature to accelerate internal Android application prototyping and user acceptance testing within a controlled environment, ensuring policy compliance while iterating rapidly on AI-generated or custom solutions.",
+      "tags": [
+        "product",
+        "enterprise",
+        "coding",
+        "consumer"
+      ]
+    },
+    {
+      "id": "950fd49d85d3",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
+      "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+      "publishedAt": "2026-10-13T16:30:00.000Z",
+      "fetchedAt": "2026-10-13T19:48:58.766Z",
+      "contentText": null,
+      "summary": "Satlyt, a new company founded by former Google and SpaceX engineer Rama Afullo, has raised $8 million to develop software that enables AI models to run on satellites. This software aims to create efficiencies by processing data and making decisions in space, reducing the need for costly and slow data transmission to Earth. Satlyt's software is set to launch on a SpaceX rocket alongside Google's Project Suncatcher prototype, with initial missions demonstrating significant data transmission reductions.",
+      "enterpriseAngle": "Enterprise product development teams can leverage Satlyt's platform to deploy AI models on satellites, enabling real-time data processing and decision-making in orbit, which can lead to substantial operational cost savings and new service offerings for space-based applications. This approach allows enterprises to utilize space computing without investing in their own satellite hardware, similar to how cloud platforms abstract infrastructure.",
+      "beginner": "A new company is making software that lets artificial intelligence work directly on satellites in space, saving money by processing information there instead of sending it all the way back to Earth.",
+      "advanced": "Evaluate Satlyt's horizontally integrated software for deploying AI models on third-party satellite infrastructure, particularly for optimizing downlink costs and enabling in-orbit data processing for applications like space surveillance and anomaly resolution, and consider its potential for future multi-satellite compute clouds.",
+      "tags": [
+        "enterprise",
+        "product",
+        "infrastructure",
+        "funding"
+      ]
+    },
+    {
+      "id": "8c17f1f1ac30",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "Redesigning source control at Anthropic",
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "publishedAt": "2026-10-13T16:27:06.000Z",
+      "fetchedAt": "2026-10-13T19:48:55.436Z",
+      "contentText": null,
+      "summary": "Anthropic has developed Scion, an in-house version control system, to manage the exponential growth in code generated by its AI, Claude. The company's daily code merges increased from 2,500 to over 30,000 in just five months, overwhelming traditional Git-based infrastructure. Scion, along with other tools like Antique for code review, was built to support this agent-driven coding scale.",
+      "enterpriseAngle": "Enterprise product development and security teams leveraging AI for code generation will face similar scalability challenges with existing developer infrastructure, necessitating new approaches to source control, CI/CD, and code review systems. Security teams will also need to adapt their controls and monitoring for a significantly higher volume of code changes and potentially autonomous agent activity.",
+      "beginner": "As AI gets better at writing code, the tools we use to manage that code, like version control systems, need to be completely redesigned to handle the massive increase in changes.",
+      "advanced": "Evaluate your current source control and CI/CD infrastructure for bottlenecks in handling agent-generated code at scale, and consider architectural shifts towards online-first, API-driven, and horizontally scalable systems, drawing lessons from Anthropic's Scion and Google's Piper.",
+      "tags": [
+        "enterprise",
+        "coding",
+        "infrastructure",
+        "product"
+      ],
+      "dateChecked": true
+    },
+    {
+      "id": "66cb1e68848f",
+      "source": "google-ai",
+      "sourceName": "Google AI",
+      "tier": "realtime",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "publishedAt": "2026-10-13T16:00:00.000Z",
+      "fetchedAt": "2026-10-13T19:48:56.941Z",
+      "contentText": null,
+      "summary": "Google has released Gemini 4 Argon, a new frontier model designed to tackle complex real-world tasks across various domains including coding, finance, legal, cybersecurity, and science. It is now available to developers, enterprises, scientists, and consumers, outperforming other frontier models on benchmarks like the Vals Index. Argon has already been used internally at Google and by external researchers to achieve significant impact in areas such as large codebase refactoring, optimizing business workflows, and identifying cybersecurity vulnerabilities.",
+      "enterpriseAngle": "Enterprise security and product development teams can leverage Gemini 4 Argon to enhance their operations, from refactoring large codebases and optimizing engineering workflows to proactively identifying and patching critical cybersecurity vulnerabilities, thereby improving efficiency and security posture.",
+      "beginner": "Google's new AI model, Gemini 4 Argon, is very good at solving difficult problems in many fields, like writing code, managing money, and even finding computer security issues.",
+      "advanced": "Integrate Gemini 4 Argon via API into your development pipelines to automate complex engineering tasks, optimize existing codebases, and enhance vulnerability detection and patching processes, leveraging its superior performance on multi-step, real-world problems.",
+      "tags": [
+        "model-release",
+        "enterprise",
+        "security",
+        "coding"
+      ]
+    },
+    {
+      "id": "ffc748cb8d88",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "publishedAt": "2026-10-13T12:00:00.000Z",
+      "fetchedAt": "2026-10-13T19:48:56.646Z",
+      "contentText": null,
+      "summary": "Higgsfield AI, a startup, has extended AI video creation from one minute to over ten minutes using OpenAI's GPT-6 Astra. This advancement, combined with GPT-Image-2.5 for precise visuals and Codex for faster prototyping, aims to make professional video and image creation more accessible to smaller creative teams and businesses. The company is also exploring voice-to-video filmmaking with GPT-Live-1.",
+      "enterpriseAngle": "Enterprise creative and product development teams can leverage these advancements to significantly reduce production time and costs for video content and promotional materials, enabling smaller teams to execute high-end campaigns and accelerate product development cycles. The ability of GPT-6 Astra to ship production-ready code also streamlines the transition from prototype to product.",
+      "beginner": "AI is making it easier for anyone to create professional-quality videos and images, even if they don't have a lot of experience or a big budget.",
+      "advanced": "Integrate GPT-6 Astra's extended video capabilities and GPT-Image-2.5's precise rendering into your creative workflows to scale content production and explore voice-to-video prototyping with GPT-Live-1 for real-time content generation.",
+      "tags": [
+        "product",
+        "enterprise",
+        "model-release",
+        "coding"
+      ]
+    },
+    {
+      "id": "c48f77cfce80",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "Open models have real benefits. Do they outweigh the risks?",
+      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+      "publishedAt": "2026-10-13T10:00:00.000Z",
+      "fetchedAt": "2026-10-13T19:48:59.063Z",
+      "contentText": null,
+      "summary": "Anthropic recently published a report suggesting that the GLM-5.3 model could significantly increase the risk of cyberattacks. The report highlights specific concerns regarding the potential misuse of this open model.",
+      "enterpriseAngle": "Enterprise security teams should evaluate the GLM-5.3 model's potential vulnerabilities and consider its implications for their cybersecurity posture, especially if integrating open models into their systems. Product development teams need to assess the security risks when incorporating open-source AI models to prevent introducing new attack vectors.",
+      "beginner": "Some AI models, if made openly available, might be used for harmful purposes like cyberattacks.",
+      "advanced": "Conduct a thorough threat modeling exercise for GLM-5.3 and similar open models before deployment, focusing on data exfiltration, adversarial attacks, and supply chain vulnerabilities.",
+      "tags": [
+        "security",
+        "model-release",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "6b99b1697520",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "AI labs are buying data from dead startups to train their models",
+      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+      "publishedAt": "2026-10-13T09:00:00.000Z",
+      "fetchedAt": "2026-10-13T19:48:59.063Z",
+      "contentText": null,
+      "summary": "AI labs are acquiring data from defunct startups to train their models, with one crypto startup founder, Keelan Miskell, selling his company's code base for $25,000 and anticipating more for its digital archives. This trend indicates a new market for data from failed companies, even if the data initially seems to have limited value.",
+      "enterpriseAngle": "Enterprise product development teams should consider the long-term value and potential monetization of their data assets, even if a product fails, as this data could be valuable for AI training. Security teams need to establish clear data retention and disposal policies for defunct projects, ensuring sensitive information is handled appropriately even when selling data assets.",
+      "beginner": "Even if a company fails, the information it collected can be valuable to other AI companies for teaching their computer programs.",
+      "advanced": "Implement robust data valuation frameworks and secure data anonymization/sanitization protocols for all data assets, especially when considering liquidation or sale to AI training initiatives, to maximize revenue and mitigate privacy risks.",
+      "tags": [
+        "enterprise",
+        "funding",
+        "product",
+        "security"
+      ]
+    },
     {
       "id": "9726aa3a5f66",
       "source": "techcrunch-ai",

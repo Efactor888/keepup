@@ -1,6 +1,109 @@
 {
-  "updatedAt": "2026-10-13T19:50:43.655Z",
+  "updatedAt": "2026-10-14T00:14:26.501Z",
   "articles": [
+    {
+      "id": "2ce212c19db2",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+      "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+      "publishedAt": "2026-10-13T23:13:31.000Z",
+      "fetchedAt": "2026-10-14T00:13:33.212Z",
+      "contentText": null,
+      "summary": "Max Hodak, co-founder of Neuralink, discussed his new company's work with PRIMA, aiming to develop a novel brain-computer interface (BCI). This initiative was presented at TechCrunch Disrupt.",
+      "enterpriseAngle": "Enterprises in the medical device and AI sectors should monitor advancements in BCIs like PRIMA for potential long-term impacts on healthcare technology and accessibility solutions. Product development teams could explore future integrations with such neural interface technologies.",
+      "beginner": "A brain-computer interface (BCI) is a technology that allows direct communication between the brain and an external device.",
+      "advanced": "Evaluate the ethical implications and regulatory pathways for integrating novel BCI technologies into existing medical and consumer product lines, focusing on data privacy and long-term user safety.",
+      "tags": [
+        "science",
+        "product",
+        "research",
+        "hardware"
+      ]
+    },
+    {
+      "id": "14cee17a15e6",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Cerebras CEO says we're nearing a future where everyone has a personal AI assistant at home",
+      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+      "publishedAt": "2026-10-13T23:05:34.000Z",
+      "fetchedAt": "2026-10-14T00:13:33.212Z",
+      "contentText": null,
+      "summary": "Cerebras Systems CEO Andrew Feldman predicts that personal AI assistants running locally in homes are not far off, similar to how cell phones operate with both on-device and cloud processing. These AI appliances will learn user habits, manage finances, and enhance daily life, with a security perimeter around them. Feldman, whose company builds AI infrastructure, uses a collection of agents himself for tasks like calendar management.",
+      "enterpriseAngle": "Enterprise product development teams should consider the implications of local AI processing and robust security perimeters for consumer-facing AI agents, especially as these agents gain access to sensitive financial information. Infrastructure providers will find new opportunities in supporting both on-device and cloud components of these personal AI systems.",
+      "beginner": "Soon, you might have a smart AI device in your home that acts like a personal assistant, learning about you and helping with daily tasks.",
+      "advanced": "Architect future consumer AI products with a hybrid local-cloud processing model, prioritizing on-device security and data privacy for agents handling sensitive user information and financial transactions.",
+      "tags": [
+        "enterprise",
+        "product",
+        "consumer",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "f267b0c17dba",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+      "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+      "publishedAt": "2026-10-13T23:00:00.000Z",
+      "fetchedAt": "2026-10-14T00:13:33.212Z",
+      "contentText": null,
+      "summary": "Industrial Next, a startup founded by former Tesla engineers, has developed AI-driven robotic stations that can switch manufacturing tasks in minutes instead of weeks. These robots use proprietary foundation models and high-fidelity simulations to learn complex, delicate tasks without traditional programming. The company has partnered with BMW Group Technology Office to evaluate its technology for manufacturing applications.",
+      "enterpriseAngle": "Enterprise manufacturers can leverage Industrial Next's AI-powered robotic stations to significantly reduce downtime for retooling, enabling faster adaptation to new products and processes. This technology allows for the automation of intricate tasks previously requiring human labor, potentially increasing efficiency and product complexity.",
+      "beginner": "New AI-powered robots can learn new factory jobs very quickly by practicing in a virtual world, making manufacturing much more flexible.",
+      "advanced": "Evaluate the integration of Industrial Next's simulation-driven, foundation model-powered robotic stations into existing production lines to achieve rapid retooling and automate high-precision dexterous manipulation tasks, particularly for products requiring frequent design changes or complex assembly.",
+      "tags": [
+        "product",
+        "enterprise",
+        "research",
+        "partnership"
+      ]
+    },
+    {
+      "id": "f2fb2747c1a4",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Cerebras CEO pushes back on AI doomsday warnings",
+      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+      "publishedAt": "2026-10-13T22:36:59.000Z",
+      "fetchedAt": "2026-10-14T00:13:33.212Z",
+      "contentText": null,
+      "summary": "Cerebras CEO Andrew Feldman believes that discussions around the potential dangers of AI are overshadowing its positive applications. He suggests that AI leaders should reduce their focus on doomsday scenarios.",
+      "enterpriseAngle": "Enterprise leaders should consider balancing discussions of AI risks with its potential benefits to foster innovation and adoption within their organizations. This perspective encourages a more optimistic outlook on AI's role in business transformation.",
+      "beginner": "Some AI leaders are worried about the future dangers of AI, but others, like the CEO of Cerebras, think we should focus more on the good things AI can do.",
+      "advanced": "To counter negative narratives, emphasize tangible ROI and productivity gains when presenting AI initiatives to stakeholders, ensuring a balanced view of both risks and rewards.",
+      "tags": [
+        "enterprise",
+        "policy"
+      ]
+    },
+    {
+      "id": "70093601d146",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+      "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+      "publishedAt": "2026-10-13T20:36:44.000Z",
+      "fetchedAt": "2026-10-14T00:13:33.212Z",
+      "contentText": null,
+      "summary": "A judge has ordered OpenAI to provide Apple with expedited access to hiring documents related to former Apple employees who applied for roles in OpenAI's consumer hardware and robotics groups. This ruling is part of a trade secrets lawsuit filed by Apple, which alleges a pattern of theft by OpenAI, including former employees downloading confidential materials and sharing information about unannounced technologies. The court also approved depositions for three former Apple employees now at OpenAI and access to private messages between some individuals named in the case.",
+      "enterpriseAngle": "This case highlights the critical importance for enterprises to implement robust intellectual property protection measures and secure offboarding processes to prevent trade secret leakage, especially when employees move to competitors. For product development teams, it underscores the competitive landscape in consumer hardware, where AI companies are increasingly venturing into physical devices.",
+      "beginner": "Companies are fighting in court over who owns ideas and information, especially when employees move from one company to another and might take valuable secrets with them.",
+      "advanced": "Review and strengthen your organization's IP protection policies, exit interview protocols, and digital forensics capabilities to mitigate risks associated with employee transitions to competitors, particularly in rapidly evolving sectors like AI hardware.",
+      "tags": [
+        "enterprise",
+        "policy",
+        "product",
+        "security"
+      ]
+    },
     {
       "id": "d3f06c5cb28b",
       "source": "techcrunch-ai",
@@ -167,6 +270,26 @@
         "enterprise",
         "security",
         "coding"
+      ]
+    },
+    {
+      "id": "82ec47719a83",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "TechCrunch Disrupt 2026: Day 1",
+      "url": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
+      "publishedAt": "2026-10-13T14:00:00.000Z",
+      "fetchedAt": "2026-10-14T00:13:33.212Z",
+      "contentText": null,
+      "summary": "TechCrunch Disrupt 2026, a major tech conference, has begun its first day at Moscone West in San Francisco. The event is expected to attract over 10,000 tech leaders.",
+      "enterpriseAngle": "Enterprise product and partnership teams should consider attending events like TechCrunch Disrupt to network with industry leaders and identify emerging startup technologies. These events offer opportunities for strategic alliances and market intelligence.",
+      "beginner": "Big tech conferences bring together many people from the technology world to talk about new ideas and products.",
+      "advanced": "Prioritize attendance at key industry conferences to scout potential acquisition targets, identify disruptive technologies, and foster strategic partnerships.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "product"
       ]
     },
     {

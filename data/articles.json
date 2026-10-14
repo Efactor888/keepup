@@ -1,6 +1,237 @@
 {
-  "updatedAt": "2026-10-14T00:14:26.501Z",
+  "updatedAt": "2026-10-14T17:56:39.906Z",
   "articles": [
+    {
+      "id": "f1c8e20f7598",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Deezer will soon let you filter out AI-generated music",
+      "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
+      "publishedAt": "2026-10-14T15:16:04.000Z",
+      "fetchedAt": "2026-10-14T17:54:52.231Z",
+      "contentText": null,
+      "summary": "Deezer is introducing a new feature that allows users to filter out AI-generated music from their streaming experience, including search results. This decision was driven by significant user demand, with a survey indicating 45% of customers wanted this option, and the rapid increase of AI-generated tracks, which now constitute over 50% of daily uploads on the platform. Other streaming services like Bandcamp and Tidal have also implemented policies regarding AI music, ranging from outright bans to monetization restrictions.",
+      "enterpriseAngle": "For enterprise product development teams in media and entertainment, this highlights the growing need for robust AI detection and content filtering tools to address user preferences and manage the influx of AI-generated content. Security teams should consider the implications of AI-generated content on platform integrity and potential misuse, even if this specific article doesn't detail security vulnerabilities.",
+      "beginner": "Music streaming services are starting to give listeners control over whether they hear music made by AI or by humans.",
+      "advanced": "Implement a multi-faceted content governance strategy that includes AI detection, user-configurable filtering, and clear monetization policies to manage the proliferation of AI-generated content and maintain platform integrity.",
+      "tags": [
+        "product",
+        "consumer",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "2e447a71d8fc",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco's Moscone West",
+      "url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
+      "publishedAt": "2026-10-14T15:13:24.000Z",
+      "fetchedAt": "2026-10-14T17:54:52.231Z",
+      "contentText": null,
+      "summary": "TechCrunch Disrupt 2026 is offering a 50% discount for the final two days of its event, taking place on October 14-15 in San Francisco. The event focuses on both physical and software AI, bringing together the startup ecosystem.",
+      "enterpriseAngle": "Enterprise product development teams can leverage this event to explore emerging AI trends and network with startups that could become future partners or acquisition targets. Security teams might find value in understanding how new AI technologies could impact their threat landscape or offer new defense mechanisms.",
+      "beginner": "TechCrunch Disrupt is a conference where you can learn about new AI technologies and meet people from startup companies.",
+      "advanced": "Prioritize attending sessions and networking with startups demonstrating novel applications of physical and software AI to identify potential integration opportunities or competitive intelligence.",
+      "tags": [
+        "enterprise",
+        "product",
+        "partnership",
+        "learning"
+      ]
+    },
+    {
+      "id": "88518a254bc6",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
+      "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
+      "publishedAt": "2026-10-14T15:08:00.000Z",
+      "fetchedAt": "2026-10-14T17:54:52.231Z",
+      "contentText": null,
+      "summary": "Zenzap, an AI-powered chat app, has secured $44 million in funding to replace consumer messaging apps like WhatsApp in the workplace. The platform aims to provide secure communication and AI tools for businesses across various sectors, including hospitality, healthcare, and fast food. Zenzap offers features like group chats, task management, AI-powered voice chat, and workflow automation agents, with clients including FedEx and Starbucks.",
+      "enterpriseAngle": "Enterprise security and product development teams should note Zenzap's focus on IT and security compliance, which addresses a key challenge of using consumer apps for business communication. The integration of AI agents for workflow automation and AI-aided transcriptions presents opportunities for enhancing productivity and streamlining operations within a secure, dedicated platform.",
+      "beginner": "Zenzap is a new app that helps companies talk to their employees and manage tasks using AI, designed to be more secure and suitable for work than regular chat apps.",
+      "advanced": "Evaluate Zenzap's AI agent capabilities for workflow automation and its compliance features against existing enterprise communication solutions to determine its potential for secure, mobile-first operational efficiency across diverse workforces.",
+      "tags": [
+        "enterprise",
+        "product",
+        "funding",
+        "agents"
+      ]
+    },
+    {
+      "id": "cef3a61011ee",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Floqer's AI agents research sales prospects so teams don't have to",
+      "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
+      "publishedAt": "2026-10-14T15:00:00.000Z",
+      "fetchedAt": "2026-10-14T17:54:52.231Z",
+      "contentText": null,
+      "summary": "Floqer, an autonomous customer knowledge platform, uses AI agents to automate the research of sales prospects for B2B teams, continuously collecting and updating customer information. The company plans to open-source its core technology in early 2027, pending security reviews, and has achieved significant revenue growth and customer adoption.",
+      "enterpriseAngle": "Enterprise sales and marketing teams can leverage Floqer's AI agents to drastically reduce manual prospecting time and maintain accurate, up-to-date customer relationship management (CRM) data, improving efficiency and growth. The upcoming open-source release will offer enterprises greater control over data hosting and customization, addressing key concerns for large organizations.",
+      "beginner": "Floqer uses AI to automatically find and update information about potential customers, saving sales teams a lot of time they would otherwise spend searching manually.",
+      "advanced": "Evaluate Floqer's open-source autonomous customer knowledge database for integration into existing CRM and sales enablement stacks, prioritizing security review outcomes and potential for custom development to enhance data governance and workflow automation.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product",
+        "coding"
+      ]
+    },
+    {
+      "id": "613feca97589",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "TechCrunch Disrupt 2026: Day 2",
+      "url": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
+      "publishedAt": "2026-10-14T14:30:00.000Z",
+      "fetchedAt": "2026-10-14T17:54:52.231Z",
+      "contentText": null,
+      "summary": "TechCrunch Disrupt 2026 Day 2 in San Francisco features an Expo Hall with over 300 startups, live pitches, and AI-powered matchmaking for networking. The event covers topics like AI, robotics, AI hardware, public safety, and venture investment, with speakers from companies such as Nvidia, Waabi, and Flock Safety. Attendees can explore emerging technologies, discover business solutions, and connect with founders, investors, and tech leaders.",
+      "enterpriseAngle": "Enterprise security and product development teams can find new tools and solutions in the Expo Hall, gain insights into emerging AI hardware and public safety applications, and learn about funding strategies for startups. The event offers opportunities to scout investment, compare solutions, and understand the latest trends in AI and robotics that could impact future product roadmaps and security considerations.",
+      "beginner": "TechCrunch Disrupt is a conference where new technology companies showcase their innovations and experts discuss the future of AI and other tech fields.",
+      "advanced": "Evaluate the enterprise fast pitches for potential strategic partnerships or acquisition targets, and attend sessions on AI hardware and public safety to inform your long-term product and security roadmaps.",
+      "tags": [
+        "enterprise",
+        "product",
+        "infrastructure",
+        "funding"
+      ]
+    },
+    {
+      "id": "a0e0fec2c2b5",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "publishedAt": "2026-10-14T12:00:00.000Z",
+      "fetchedAt": "2026-10-14T17:54:49.440Z",
+      "contentText": null,
+      "summary": "Amp, a startup, is leveraging OpenAI's latest models, including GPT-6 Astra, Ultrafast, and GPT-Live-1, to develop an AI agent that assists developers throughout the software development lifecycle. This agent helps with tasks from ideation and design to coding and post-launch activities. Amp also introduced \"Sign in with ChatGPT\" to provide users with more tokens, reducing cost concerns and enabling agents to handle larger tasks.",
+      "enterpriseAngle": "Enterprise product development teams can leverage advanced AI agents to streamline their entire software development process, from initial planning and design to coding and post-deployment support, potentially reducing costs and accelerating product delivery. The integration of real-time conversational AI and faster model inference can significantly enhance developer productivity and the scope of agent-assisted tasks.",
+      "beginner": "AI agents are becoming more capable, helping people with many steps of creating software, not just writing code, and new tools are making it cheaper to use them more often.",
+      "advanced": "Explore integrating advanced AI agents powered by models like GPT-6 Astra and Ultrafast into your development pipeline to automate ideation, design, and post-ship activities, and consider cost-effective token access solutions for scaling agent usage.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product",
+        "coding"
+      ]
+    },
+    {
+      "id": "9931ca009c40",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Scimplify raises $25M to challenge China's grip on critical materials with AI",
+      "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+      "publishedAt": "2026-10-14T11:00:00.000Z",
+      "fetchedAt": "2026-10-14T17:54:52.231Z",
+      "contentText": null,
+      "summary": "Indian startup Scimplify has raised $25 million in an all-equity strategic round led by Hitachi Ventures, bringing its total funding to $80 million. The company uses an AI platform called Scinode to accelerate the production of specialty chemicals and critical materials, aiming to reduce reliance on Chinese suppliers. Scimplify's platform helps coordinate research, manufacturing, and quality control, significantly shortening the time from customer requirements to product delivery.",
+      "enterpriseAngle": "Enterprise product development and supply chain teams can leverage AI-powered platforms like Scimplify's to de-risk their critical material sourcing, accelerate product development cycles, and establish more resilient supply chains outside of concentrated regions. This approach offers a strategic advantage in sectors like semiconductors, defense, and energy by providing faster access to specialized materials.",
+      "beginner": "AI is being used to make it much faster and easier to create important materials needed for things like electronics and defense, helping companies find new suppliers beyond just a few countries.",
+      "advanced": "Evaluate AI-driven material discovery and production platforms for their ability to integrate with existing supply chain management systems and provide verifiable quality and regulatory compliance for critical components, especially when diversifying from single-source dependencies.",
+      "tags": [
+        "enterprise",
+        "funding",
+        "product",
+        "agents"
+      ]
+    },
+    {
+      "id": "87253efedaff",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "Singapore office and government MOU | Anthropic",
+      "url": "https://www.anthropic.com/news/singapore-office-opening",
+      "publishedAt": "2026-10-14T08:31:43.000Z",
+      "fetchedAt": "2026-10-14T17:54:48.425Z",
+      "contentText": null,
+      "summary": "Anthropic has opened a new office in Singapore, its fifth in the Asia-Pacific region, and signed a Memorandum of Understanding (MOU) with the Singapore Ministry of Digital Development and Information. This partnership aims to support responsible AI adoption, focusing on AI safety, security, and model evaluation, while also strengthening AI skills and assisting businesses in adopting AI responsibly. Claude is already widely used in Singapore by government services and major businesses like GovTech Singapore, Grab, and DBS.",
+      "enterpriseAngle": "Enterprises in Singapore, particularly those in regulated sectors like financial services, can now leverage in-region inference for Claude on Amazon Bedrock, helping them meet stringent data processing requirements. This collaboration will also provide technical exchanges and research data to help organizations build safer models and adopt AI responsibly within their operations.",
+      "beginner": "Anthropic, a company that makes AI, is working with Singapore to make sure AI is used safely and responsibly, and is helping many local businesses and government services use their AI tools.",
+      "advanced": "Leverage the technical exchanges and shared research under the Anthropic-Singapore MOU to inform your organization's AI model evaluation, testing standards, and incident response protocols, particularly for multi-lingual applications and regulated environments.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "policy",
+        "product"
+      ],
+      "dateChecked": true
+    },
+    {
+      "id": "c74ac310b7ea",
+      "source": "deepmind",
+      "sourceName": "Google DeepMind",
+      "tier": "realtime",
+      "title": "We’re powering European scientific discovery with advanced AI compute and frontier models.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/were-powering-european-scientific-discovery-with-advanced-ai-compute-and-frontier-models/",
+      "publishedAt": "2026-10-14T08:00:00.000Z",
+      "fetchedAt": "2026-10-14T17:54:50.049Z",
+      "contentText": null,
+      "summary": "Google DeepMind and Google Cloud are offering 200 European scientific researchers access to their frontier AI models, including AlphaFold 3 and WeatherNext, along with $3 million in compute credits. This initiative aims to accelerate scientific discovery and innovation in Europe by providing vital computing power and advanced tools. It supports the European Union's AI for Science work and the RAISE initiative, which addresses the compute gap faced by European scientists.",
+      "enterpriseAngle": "Enterprises can leverage similar partnerships to provide researchers with advanced AI tools and compute resources, fostering innovation and potentially leading to breakthroughs that can be commercialized. This also highlights the strategic importance of cloud providers in enabling large-scale AI research and development.",
+      "beginner": "Google is giving scientists in Europe powerful AI tools and computing resources to help them make new discoveries faster.",
+      "advanced": "Explore strategic partnerships with leading AI model developers and cloud providers to integrate frontier models and high-performance compute into your R&D pipelines, specifically targeting areas like drug discovery, material science, or climate modeling to gain a competitive edge.",
+      "tags": [
+        "partnership",
+        "research",
+        "science",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "e181547094b0",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "url": "https://openai.com/index/third-moment-research",
+      "publishedAt": "2026-10-14T07:00:00.000Z",
+      "fetchedAt": "2026-10-14T17:54:49.440Z",
+      "contentText": null,
+      "summary": "Third Moment Research uses OpenAI's latest models, including GPT-6 Astra, GPT-6 Sol, GPT-6.1 Sol, and Codex, to run 10,000 self-improving AI agents concurrently for 36-48 hour research sessions. These agents are designed to improve their capabilities with use by identifying weaknesses and creating synthetic scenarios for improvement. The company also employs Daybreak for security testing of agent environments.",
+      "enterpriseAngle": "Enterprises can leverage advanced AI agents for complex, long-duration research and development tasks, potentially automating and accelerating processes like security testing and quantitative analysis. The ability of these agents to self-improve and sustain coherent research over extended periods offers significant opportunities for efficiency and discovery in product development and operational security.",
+      "beginner": "AI agents are becoming smarter and can work on complex tasks for days, learning and improving as they go.",
+      "advanced": "Implement a multi-agent architecture with an outer harness (e.g., GPT-6 Sol) to manage subagents (e.g., Codex) for sustained, complex computational research, focusing on token efficiency and automated context management to prevent task abandonment and optimize resource use.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "research",
+        "product"
+      ]
+    },
+    {
+      "id": "2f3282e48314",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "The EU’s next chapter in AI is agentic",
+      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "publishedAt": "2026-10-14T00:00:00.000Z",
+      "fetchedAt": "2026-10-14T17:54:49.440Z",
+      "contentText": null,
+      "summary": "A new report from OpenAI Economic Research indicates that agentic AI tools, which can carry out tasks from planning to completion, are increasingly being adopted by businesses across the EU. Among ChatGPT Enterprise customers in the EU, agentic use now accounts for over half of output tokens, and weekly active users among small and medium businesses have grown eightfold since May 2026. However, the intensity and type of agentic AI use vary significantly across EU member states, and EU frontier firms still lag behind global frontier firms in AI utilization.",
+      "enterpriseAngle": "Enterprise and small businesses in the EU are rapidly adopting agentic AI tools, shifting from simple queries to task automation, which presents opportunities for increased productivity and stronger businesses. However, enterprise leaders need to address the uneven adoption rates and the gap in intensive AI use compared to global leaders by focusing on skill development, accessibility, and affordability of advanced AI capabilities.",
+      "beginner": "AI tools are becoming more advanced, moving from just answering questions to actually doing tasks for businesses, which is called \"agentic AI.\"",
+      "advanced": "To close the AI utilization gap, focus on upskilling your workforce in agentic AI tools, ensuring accessibility to advanced capabilities, and integrating these tools deeply into workflows beyond initial experimentation.",
+      "tags": [
+        "enterprise",
+        "research",
+        "product",
+        "workforce"
+      ]
+    },
     {
       "id": "2ce212c19db2",
       "source": "techcrunch-ai",

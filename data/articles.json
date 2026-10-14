@@ -1,6 +1,91 @@
 {
-  "updatedAt": "2026-10-14T17:56:39.906Z",
+  "updatedAt": "2026-10-14T23:50:00.945Z",
   "articles": [
+    {
+      "id": "ceac0f96bc6e",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Flock CEO says its microphones detect ‘just gunshots' — its website says different",
+      "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+      "publishedAt": "2026-10-14T21:30:33.000Z",
+      "fetchedAt": "2026-10-14T23:49:06.393Z",
+      "contentText": null,
+      "summary": "Flock CEO Garrett Langley stated that the company's gunshot-detection microphones only detect gunshots, despite the company's website and a spokesperson indicating a broader range of detection capabilities, including fireworks, car crashes, and sideshows. The company previously faced criticism for detecting human distress sounds and has since removed that capability. These comments come amidst growing public and privacy advocate concerns about mass surveillance and the misuse of Flock's technology.",
+      "enterpriseAngle": "Enterprises developing or deploying surveillance technologies must maintain clear, consistent communication regarding product capabilities and data collection practices to avoid public backlash, regulatory scrutiny, and loss of partnerships. Transparency and adherence to stated functionalities are crucial for building and maintaining trust with customers and the public.",
+      "beginner": "Companies that make surveillance tools are facing criticism for not being clear about what sounds their microphones can pick up, beyond just gunshots.",
+      "advanced": "Security and product teams should prioritize rigorous internal and external communication audits for surveillance technologies, ensuring marketing claims align precisely with deployed functionalities to mitigate privacy risks and reputational damage.",
+      "tags": [
+        "security",
+        "enterprise",
+        "policy",
+        "product"
+      ]
+    },
+    {
+      "id": "c9ddbc2bb893",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "Preparing for the 2026 US midterms",
+      "url": "https://www.anthropic.com/news/2026-us-midterms",
+      "publishedAt": "2026-10-14T21:01:13.000Z",
+      "fetchedAt": "2026-10-14T23:49:03.772Z",
+      "contentText": null,
+      "summary": "Anthropic has updated its election safeguards for the 2026 US midterms, focusing on preventing misuse and directing users to accurate voting information. They found that political conversations account for about 5.75% of US Claude.ai interactions, with only 0.01% asking for voting recommendations. Claude will now provide direct, state-specific voting information from Democracy Works and display up-to-date election results.",
+      "enterpriseAngle": "Enterprise product development teams can learn from Anthropic's approach to integrating trusted, third-party data sources for sensitive topics like elections, ensuring accuracy and reducing misinformation. Security teams should note the emphasis on preventing misuse and maintaining political neutrality in AI outputs, which is crucial for public-facing AI applications.",
+      "beginner": "AI models like Claude are being carefully designed to provide neutral and accurate information about elections, helping people learn without telling them who to vote for.",
+      "advanced": "Implement robust, multi-faceted evaluation frameworks, including independent third-party reviews and user-centric feedback loops, to continuously assess and refine model neutrality and mitigate unsolicited caveats or uneven hedging in politically sensitive outputs.",
+      "tags": [
+        "policy",
+        "product",
+        "governance",
+        "security"
+      ],
+      "dateChecked": true
+    },
+    {
+      "id": "877cbcbdbb3b",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+      "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+      "publishedAt": "2026-10-14T18:23:46.000Z",
+      "fetchedAt": "2026-10-14T23:49:06.393Z",
+      "contentText": null,
+      "summary": "YouTube Music has launched a new labeling system to increase transparency regarding AI-generated music, allowing listeners to identify tracks created with AI assistance. These labels, appearing on both YouTube Music and the main YouTube app, will categorize music as \"Fully Gen AI,\" \"Partly Gen AI,\" or \"No Gen AI.\" This initiative aims to inform users about AI's role in music creation without imposing monetization restrictions, unlike some other streaming platforms.",
+      "enterpriseAngle": "Enterprise product teams in media and entertainment must consider implementing clear AI content labeling to maintain user trust and comply with evolving industry standards, while also deciding on their stance regarding monetization and algorithmic promotion of AI-generated content. Security teams should be aware of potential misuse or intellectual property concerns arising from AI-generated content and ensure robust detection mechanisms are in place.",
+      "beginner": "AI is now being used to create music, and YouTube Music is adding labels so you know when a song has AI involved.",
+      "advanced": "Implement a multi-tiered AI content declaration and detection system, integrating with existing content management and monetization pipelines, while evaluating the impact of AI-generated content on royalty distribution and algorithmic recommendation strategies.",
+      "tags": [
+        "product",
+        "enterprise",
+        "consumer",
+        "policy"
+      ]
+    },
+    {
+      "id": "d7ad5c7f5c98",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+      "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+      "publishedAt": "2026-10-14T18:00:00.000Z",
+      "fetchedAt": "2026-10-14T23:49:06.393Z",
+      "contentText": null,
+      "summary": "Apate.ai, an Australian startup, deploys thousands of AI agents to engage with scammers, gathering intelligence on their methods and identities. These agents masquerade as potential victims, wasting scammers' time and extracting crucial details like bank accounts and malicious websites. This information is then provided to Apate's customers, including banks and telecom companies, to enhance their anti-fraud measures.",
+      "enterpriseAngle": "Enterprise security teams can leverage AI agents like Apate's to proactively gather threat intelligence on fraud schemes, enabling them to implement preventative measures before customers are impacted. This approach shifts from reactive fraud detection to a more proactive, intelligence-driven defense strategy.",
+      "beginner": "AI is being used to create 'undercover' digital agents that trick scammers into revealing their tactics, helping to protect real people from fraud.",
+      "advanced": "Integrate intelligence gathered from AI-driven scam-baiting platforms into existing SIEM and SOAR systems to enrich threat intelligence feeds and automate the blocking of identified malicious infrastructure and accounts.",
+      "tags": [
+        "agents",
+        "security",
+        "enterprise",
+        "product"
+      ]
+    },
     {
       "id": "f1c8e20f7598",
       "source": "techcrunch-ai",
@@ -127,6 +212,27 @@
       ]
     },
     {
+      "id": "24cc989c02db",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "url": "https://openai.com/index/sentinelone",
+      "publishedAt": "2026-10-14T12:00:00.000Z",
+      "fetchedAt": "2026-10-14T23:49:04.389Z",
+      "contentText": null,
+      "summary": "SentinelOne has significantly reduced the time required for malware analysis from weeks to mere hours by leveraging OpenAI's Daybreak. This acceleration allows their security researchers to investigate a greater volume of threats and identify broader connections between different malware samples. The increased efficiency also empowers more team members to engage in security work, extending expert-level cyber capabilities across the development team.",
+      "enterpriseAngle": "Enterprise security teams can drastically improve their threat intelligence and response capabilities by integrating AI for faster malware analysis, enabling a more proactive defense posture and better resource allocation. Product development teams can also embed AI-powered security analysis earlier in the development lifecycle, allowing developers to address security concerns as they build.",
+      "beginner": "AI can help cybersecurity experts analyze harmful software much faster, making it easier to find and understand threats.",
+      "advanced": "Integrate AI-powered reverse engineering tools like OpenAI Daybreak into your security operations to accelerate malware analysis, enabling a broader threat landscape mapping and fostering a shift-left security approach within development workflows.",
+      "tags": [
+        "security",
+        "enterprise",
+        "product",
+        "agents"
+      ]
+    },
+    {
       "id": "9931ca009c40",
       "source": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -209,6 +315,27 @@
         "enterprise",
         "research",
         "product"
+      ]
+    },
+    {
+      "id": "7d10f0ddfecf",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "How Block is building AI-powered security with OpenAI technology",
+      "url": "https://openai.com/index/block-ai-powered-security",
+      "publishedAt": "2026-10-14T07:00:00.000Z",
+      "fetchedAt": "2026-10-14T23:49:04.389Z",
+      "contentText": null,
+      "summary": "Block, the company behind Square and Cash App, is using OpenAI's AI systems, including Daybreak, to enhance its cybersecurity operations. This AI integration significantly reduces the time required to identify and fix vulnerabilities, allowing Block's security team to focus on more strategic tasks. The system helps automate vulnerability discovery, detection, and response, completing work in hours that previously took weeks.",
+      "enterpriseAngle": "Enterprises can leverage AI to dramatically improve the efficiency and effectiveness of their security operations, compressing vulnerability remediation times and freeing up human analysts for higher-level strategic work. This approach also enables more thorough investigations and the ability to detect complex attack chains that traditional tools might miss.",
+      "beginner": "AI is helping companies like Block find and fix computer security problems much faster than humans can alone, making their systems safer.",
+      "advanced": "Implement AI-powered security orchestration and response (SOAR) platforms, integrating large language models like Daybreak, to automate vulnerability detection, exploit chain analysis, and patch generation, while maintaining human-in-the-loop validation for critical decisions and context.",
+      "tags": [
+        "security",
+        "enterprise",
+        "product",
+        "agents"
       ]
     },
     {

@@ -1,6 +1,130 @@
 {
-  "updatedAt": "2026-10-15T23:38:47.765Z",
+  "updatedAt": "2026-10-16T17:18:24.582Z",
   "articles": [
+    {
+      "id": "1db14d807722",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+      "publishedAt": "2026-10-16T16:30:00.000Z",
+      "fetchedAt": "2026-10-16T17:17:21.480Z",
+      "contentText": null,
+      "summary": "Amulya Vishwanath, a former NVIDIA product marketing lead for robotics, suggests that the robotics industry is in a foundational \"Lego era,\" where core components such as actuators, robotic hands, software, and safety standards are still under development. This perspective challenges the idea that robotics is on the verge of a breakthrough driven by general foundation models.",
+      "enterpriseAngle": "Enterprise product development teams should focus on robust, modular component development and standardization in robotics, rather than solely relying on a single general foundation model for immediate, broad applications. Security teams should anticipate the need for evolving safety standards and robust compliance frameworks as these physical AI systems mature.",
+      "beginner": "Robots are still being built from basic parts, and the industry is focused on making these parts better and safer before advanced AI can fully take over.",
+      "advanced": "Prioritize investment in modular hardware and software components, and actively contribute to the development of industry-wide safety and interoperability standards to accelerate the transition out of the 'Lego era' of physical AI.",
+      "tags": [
+        "product",
+        "hardware",
+        "research",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "84c2c565c396",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "publishedAt": "2026-10-16T16:30:00.000Z",
+      "fetchedAt": "2026-10-16T17:17:21.480Z",
+      "contentText": null,
+      "summary": "Amulya Vishwanath, a former NVIDIA product marketing lead for robotics, suggests that the robotics industry is currently in a foundational stage, akin to a \"Lego era.\" She believes that essential components such as actuators, robotic hands, software, and safety standards are still under development. This perspective contrasts with the idea that robotics is on the verge of a breakthrough driven by general foundation models.",
+      "enterpriseAngle": "Enterprise product development teams in robotics should focus on solidifying fundamental hardware and software components and establishing robust safety standards before expecting a \"ChatGPT moment\" driven by general foundation models. Companies investing in robotics should prioritize foundational infrastructure and component development.",
+      "beginner": "Robotics is still building its basic parts and rules, much like assembling Legos, before it can have a big breakthrough like AI chatbots.",
+      "advanced": "Prioritize investment in modular, interoperable hardware and software components, and actively contribute to the development of industry-wide safety and performance standards to accelerate the maturation of the robotics ecosystem.",
+      "tags": [
+        "product",
+        "infrastructure",
+        "research",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "1aa8b1ac1c09",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "publishedAt": "2026-10-16T16:01:37.000Z",
+      "fetchedAt": "2026-10-16T17:17:21.480Z",
+      "contentText": null,
+      "summary": "Elorian, an AI startup, has launched its first model, Glimpse, which aims to improve visual reasoning by allowing the model to repeatedly analyze images and videos during the reasoning process, similar to how humans zoom in on details. The company claims Glimpse outperforms larger frontier models in specific visual reasoning tasks, such as scientific chart analysis and short-form video captioning. Glimpse is currently available as a research preview with API access.",
+      "enterpriseAngle": "Enterprise product development teams, particularly in robotics, scientific research, and media, could leverage Glimpse's advanced visual reasoning capabilities to develop more sophisticated applications that require deep understanding and interaction with visual data. Security teams should consider the implications of integrating such powerful visual analysis tools, especially concerning data privacy and potential misuse in surveillance or content analysis.",
+      "beginner": "Unlike current AI that describes images from memory, Glimpse can actively re-examine parts of an image or video to understand it better, much like you would zoom in on a photo.",
+      "advanced": "Evaluate Glimpse's 'visual scratch space' mechanism for enhancing multimodal agentic workflows, particularly in domains requiring iterative visual inspection and contextual code execution, and benchmark its cost-effectiveness against existing frontier models for specific visual reasoning tasks.",
+      "tags": [
+        "model-release",
+        "research",
+        "product",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "351478776159",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Jev is Vercel's fastest-adopted AI model ever",
+      "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+      "publishedAt": "2026-10-16T15:33:49.000Z",
+      "fetchedAt": "2026-10-16T17:17:21.480Z",
+      "contentText": null,
+      "summary": "Jev, a new lightweight decision model from TypeSafe AI, has become Vercel's fastest-adopted AI model, used by 35% of paid teams within two weeks of its limited release. Its design allows for cheaper and faster classification of large datasets compared to alternatives. This rapid adoption has inspired competing offerings from major AI labs, and Vercel itself uses Jev for classifying harmful commands.",
+      "enterpriseAngle": "Enterprise teams can leverage lightweight, specialized models like Jev for cost-effective and rapid data classification, potentially integrating them into existing workflows to enhance efficiency. The growing momentum for open-source models, which now account for a significant portion of tokens processed through platforms like Vercel's AI gateway, suggests a complementary role for both frontier and open-source solutions in enterprise AI strategies.",
+      "beginner": "Jev is a new type of AI that is very good at making quick choices from a few options, making it fast and cheap to use.",
+      "advanced": "Evaluate the integration of specialized, lightweight decision models like Jev for high-volume, low-latency classification tasks to optimize cost and performance within your AI stack, while also monitoring the evolving landscape of open-source model adoption for potential strategic shifts.",
+      "tags": [
+        "model-release",
+        "enterprise",
+        "product",
+        "benchmark"
+      ]
+    },
+    {
+      "id": "de3d82224bc1",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Mark Wahlberg on using AI in film ‘the right way' and being open to an AI clone carrying on his legacy",
+      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+      "publishedAt": "2026-10-16T14:26:51.000Z",
+      "fetchedAt": "2026-10-16T17:17:21.480Z",
+      "contentText": null,
+      "summary": "Actor Mark Wahlberg expressed his openness to using AI in filmmaking to enhance aspects like stadium settings, rather than for scriptwriting or replacing actors. He also stated he would be interested in having an AI likeness of himself created to carry on his legacy, potentially managed by his children or grandchildren. Wahlberg believes storytelling should remain central to filmmaking, despite advancements in visual effects.",
+      "enterpriseAngle": "Entertainment companies and studios are exploring AI for production enhancements and creating digital likenesses of talent, which presents new opportunities for content creation and intellectual property management. This trend will necessitate clear policies and legal frameworks for AI-generated content and digital rights.",
+      "beginner": "AI can help make movies look more realistic or allow actors to have digital versions of themselves for future projects.",
+      "advanced": "Evaluate the legal and ethical implications of creating and managing AI likenesses for talent, focusing on intellectual property rights, revenue sharing, and long-term legacy management within enterprise media strategies.",
+      "tags": [
+        "enterprise",
+        "product",
+        "policy",
+        "consumer"
+      ]
+    },
+    {
+      "id": "311fa86942b3",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+      "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+      "publishedAt": "2026-10-16T14:00:00.000Z",
+      "fetchedAt": "2026-10-16T17:17:21.480Z",
+      "contentText": null,
+      "summary": "Veritas is developing a chip to combat the rise of \"superfakes,\" which are highly convincing counterfeit products. This technology aims to help verify the authenticity of luxury goods.",
+      "enterpriseAngle": "Enterprises in the luxury goods sector can leverage Veritas's anti-counterfeit chip to protect their brand integrity and ensure product authenticity for consumers.",
+      "beginner": "A new chip is being developed to help tell if a luxury item is real or fake, as fakes are becoming very hard to spot.",
+      "advanced": "Evaluate the integration feasibility and supply chain implications of Veritas's anti-counterfeit chip for enhancing product verification and mitigating brand dilution.",
+      "tags": [
+        "product",
+        "enterprise"
+      ]
+    },
     {
       "id": "d5bac5a69bce",
       "source": "techcrunch-ai",
@@ -329,6 +453,27 @@
         "enterprise",
         "product",
         "security"
+      ]
+    },
+    {
+      "id": "dd00c04c9b95",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "url": "https://openai.com/index/sullivan-cromwell",
+      "publishedAt": "2026-10-15T00:00:00.000Z",
+      "fetchedAt": "2026-10-16T17:17:18.620Z",
+      "contentText": null,
+      "summary": "Sullivan & Cromwell, in collaboration with OpenAI, has developed Agreement Analyzer, an AI tool designed to identify issues in draft legal agreements. This tool integrates the firm's expertise, precedents, and negotiating playbooks with ChatGPT Enterprise to assist lawyers in performing deeper analyses and proposing changes. It aims to enhance the quality of legal services by allowing lawyers to focus on critical judgment areas.",
+      "enterpriseAngle": "Enterprise legal teams can leverage AI tools like Agreement Analyzer to streamline complex agreement reviews, improve accuracy by cross-referencing precedents, and free up legal professionals for higher-value strategic tasks. The emphasis on transparency and verifiable sources in AI outputs is crucial for enterprise adoption in sensitive fields like law.",
+      "beginner": "AI is now advanced enough to help lawyers analyze complex documents, not just do simple tasks, by comparing new agreements to past examples and suggesting improvements.",
+      "advanced": "Implement adversarial agent processes within your AI-powered document review workflows to enhance the trustworthiness and verifiability of identified issues by distinguishing supported, dismissed, and qualified findings.",
+      "tags": [
+        "enterprise",
+        "product",
+        "agents",
+        "partnership"
       ]
     },
     {
@@ -30909,28 +31054,6 @@
         "enterprise",
         "research",
         "agents"
-      ],
-      "dateChecked": true
-    },
-    {
-      "id": "bfa87fb31b59",
-      "source": "anthropic",
-      "sourceName": "Anthropic",
-      "tier": "realtime",
-      "title": "Introducing Agent Skills | Claude by Anthropic",
-      "url": "https://www.anthropic.com/news/skills",
-      "publishedAt": "2025-10-16",
-      "fetchedAt": "2026-07-22T15:09:38.344Z",
-      "contentText": null,
-      "summary": "Anthropic has introduced \"Agent Skills\" for Claude, allowing the AI to perform specialized tasks more effectively by loading relevant instructions, scripts, and resources. These skills are composable, portable, and efficient, enabling Claude to excel at tasks like working with Excel or adhering to brand guidelines. Users can build custom skills for use across Claude apps, Claude Code, and the API, with an update adding organization-wide management and an open standard for portability.",
-      "enterpriseAngle": "Enterprise security and product development teams can leverage Agent Skills to create highly specialized AI agents that adhere to internal standards and workflows, but must carefully manage skill sources due to the feature's code execution capabilities. This allows for customized automation of complex tasks while requiring robust governance over skill deployment and usage.",
-      "beginner": "Claude can now learn new, specific abilities by using 'skills,' which are like custom instruction manuals that help it do specialized jobs better.",
-      "advanced": "Implement Agent Skills with the Code Execution Tool beta to enhance Claude's specialized task performance, ensuring secure skill sourcing and leveraging the /v1/skills endpoint for programmatic management and versioning of custom skills.",
-      "tags": [
-        "agents",
-        "product",
-        "enterprise",
-        "coding"
       ],
       "dateChecked": true
     }

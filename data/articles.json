@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T23:25:26.361Z",
+  "updatedAt": "2026-10-17T16:17:25.267Z",
   "articles": [
     {
       "id": "18f9fd010555",
@@ -19,6 +19,27 @@
         "enterprise",
         "partnership",
         "product"
+      ]
+    },
+    {
+      "id": "65442e708214",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "publishedAt": "2026-10-16T19:00:00.000Z",
+      "fetchedAt": "2026-10-17T16:17:05.565Z",
+      "contentText": null,
+      "summary": "Itaú, a major Brazilian bank, is implementing a generative AI strategy called \"AI First\" to serve its entire customer base and employees. They've launched ia.i, a conversational interface for customers, and IARA, a governance platform for internal AI operations. This initiative aims to simplify financial interactions and provide personalized advice, with a goal to reach all customers by the end of 2026.",
+      "enterpriseAngle": "Enterprises in highly regulated sectors like finance can leverage generative AI for customer interaction and internal efficiency, but require robust governance platforms like Itaú's IARA to manage model access, cost, accuracy, and responsible AI principles, including bias reduction and regulatory compliance.",
+      "beginner": "Large banks are using AI to make managing money simpler and more personalized for their customers, acting like a financial assistant.",
+      "advanced": "Implement a multi-model strategy with a robust governance and orchestration layer like Itaú's IARA to manage cost, accuracy, and responsible AI policies across diverse use cases, especially in regulated environments.",
+      "tags": [
+        "enterprise",
+        "product",
+        "governance",
+        "partnership"
       ]
     },
     {
@@ -226,6 +247,27 @@
         "coding",
         "enterprise",
         "partnership"
+      ]
+    },
+    {
+      "id": "4a2f3ca18eb9",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "url": "https://openai.com/index/benefit-street-partners",
+      "publishedAt": "2026-10-16T00:00:00.000Z",
+      "fetchedAt": "2026-10-17T16:17:05.565Z",
+      "contentText": null,
+      "summary": "Benefit Street Partners (BSP), an investment manager, has significantly accelerated its loan valuation and credit agreement analysis processes by using OpenAI's Codex. Portfolio manager Anant Kumar developed tools that leverage Codex for code review and analysis, reducing the time to answer investment committee questions from days or weeks to within a day. This allows BSP to add more rigor to underwriting without extending timelines.",
+      "enterpriseAngle": "Enterprises can empower non-developer employees to build custom tools and automate complex tasks, such as financial analysis and document review, by integrating AI coding assistants like Codex. This can lead to increased efficiency, deeper analytical insights, and faster decision-making within existing teams.",
+      "beginner": "AI tools can help people who aren't computer programmers create their own software to solve specific problems, making their work faster and more accurate.",
+      "advanced": "Evaluate the potential for integrating AI-powered code generation and review tools into your enterprise's internal development workflows to enable citizen developers and accelerate specialized application creation, ensuring appropriate human oversight for critical outputs.",
+      "tags": [
+        "enterprise",
+        "product",
+        "coding",
+        "learning"
       ]
     },
     {

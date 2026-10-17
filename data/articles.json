@@ -1,6 +1,67 @@
 {
-  "updatedAt": "2026-10-17T16:17:25.267Z",
+  "updatedAt": "2026-10-17T22:59:52.117Z",
   "articles": [
+    {
+      "id": "d4d8a21bd997",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "publishedAt": "2026-10-17T21:31:32.000Z",
+      "fetchedAt": "2026-10-17T22:59:24.315Z",
+      "contentText": null,
+      "summary": "Meta recently updated its commercial terms of use with language that suggested the company could use content from business accounts' websites to train its AI models. This provision, which raised concerns among legal experts about potential web scraping, has since been removed by Meta. The company stated that the original terms only applied to ads and business products and did not change how Meta uses web crawlers.",
+      "enterpriseAngle": "Enterprise legal and product teams should carefully review vendor terms of service, especially regarding data usage for AI training, and seek clarification or push for amendments when language is ambiguous or overly broad. This incident highlights the importance of clear data governance policies for businesses engaging with AI service providers.",
+      "beginner": "Companies like Meta sometimes update their rules about how they can use information from other businesses, especially for training AI.",
+      "advanced": "Proactively audit third-party commercial terms for AI data utilization clauses, advocating for explicit opt-out mechanisms or narrowly defined data processing agreements to mitigate intellectual property and data privacy risks.",
+      "tags": [
+        "policy",
+        "enterprise",
+        "governance"
+      ]
+    },
+    {
+      "id": "0dabc6c10b97",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "publishedAt": "2026-10-17T20:21:19.000Z",
+      "fetchedAt": "2026-10-17T22:59:24.315Z",
+      "contentText": null,
+      "summary": "Anthropic's workforce has become less junior, with a significant drop in junior-level technical employees and hires since early 2025. Technical teams now represent a smaller share of the overall workforce, attributed to business expansion and AI coding tools enabling non-technical staff. Employees report increased productivity due to AI, but also a shift towards managing AI outputs, with human attention becoming a bottleneck due to the deluge of AI-generated text.",
+      "enterpriseAngle": "Enterprises adopting AI may see a shift in workforce composition, requiring fewer junior technical roles and enabling non-technical employees to contribute to software development. However, they should anticipate increased meeting times and the potential for human attention to become a bottleneck as employees manage AI-generated content.",
+      "beginner": "AI tools can make employees more productive, but also change their jobs to focus more on managing what the AI creates.",
+      "advanced": "Evaluate the impact of AI adoption on your organization's talent strategy, considering the potential for a more senior workforce and the need to optimize workflows to manage AI output and prevent human attention bottlenecks.",
+      "tags": [
+        "workforce",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "6435f671229b",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "publishedAt": "2026-10-17T18:48:08.000Z",
+      "fetchedAt": "2026-10-17T22:59:24.315Z",
+      "contentText": null,
+      "summary": "Replit, an AI coding platform, has made OpenAI's ChatGPT its default model, replacing Anthropic's Claude models due to reasons including cost, performance, and partnership strength. While OpenAI is now the preferred partner for Replit Agent, customers can still access Anthropic models on the platform. Replit's CEO also noted a significant increase in enterprise revenue, expecting it to exceed 50% of total revenue in 2027.",
+      "enterpriseAngle": "Enterprise product development teams using AI coding platforms like Replit should evaluate their default model choices based on performance, cost-effectiveness, and partnership benefits, as these factors can significantly impact operational efficiency and budget. The shift also highlights the growing importance of enterprise contracts for AI platform providers.",
+      "beginner": "AI coding tools are choosing which underlying AI models to use based on how well they work and how much they cost, similar to how you might choose a specific brand of car for its features and price.",
+      "advanced": "When integrating large language models into your development pipeline, conduct rigorous internal benchmarking against specific use cases and consider the total cost of ownership, including partnership benefits and support, to optimize for performance and economic viability.",
+      "tags": [
+        "enterprise",
+        "product",
+        "partnership",
+        "model-release"
+      ]
+    },
     {
       "id": "18f9fd010555",
       "source": "techcrunch-ai",

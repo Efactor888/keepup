@@ -1,6 +1,69 @@
 {
-  "updatedAt": "2026-10-18T16:25:53.155Z",
+  "updatedAt": "2026-10-18T22:57:17.958Z",
   "articles": [
+    {
+      "id": "efeb3746fdd3",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "publishedAt": "2026-10-18T20:37:40.000Z",
+      "fetchedAt": "2026-10-18T22:56:50.995Z",
+      "contentText": null,
+      "summary": "Anthropic is establishing a \"public benefit fund\" by committing 5% of its shares, with an option for an additional 2% for every 50% increase in company value. This fund aims to support projects for societal good, such as donations to nonprofits or direct distributions to specific populations. This initiative comes amidst growing negative public sentiment towards the AI industry, which Anthropic's CEO describes as a \"crisis of trust.\"",
+      "enterpriseAngle": "Enterprises developing AI should consider how to proactively address public trust and societal impact, potentially through similar governance structures or dedicated funds. This move by Anthropic could set a precedent for corporate social responsibility in the AI sector, influencing stakeholder expectations and regulatory discussions.",
+      "beginner": "Anthropic is putting some of its company ownership into a special fund to help society, showing that big AI companies are thinking about their impact.",
+      "advanced": "Evaluate the long-term implications of Anthropic's public benefit fund on AI governance models and consider integrating similar trust-building mechanisms into your enterprise AI strategy to mitigate reputational risks and foster responsible innovation.",
+      "tags": [
+        "governance",
+        "enterprise",
+        "policy",
+        "funding"
+      ]
+    },
+    {
+      "id": "4c6c987b6534",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "Investing in the public benefit",
+      "url": "https://www.anthropic.com/news/public-benefit-fund",
+      "publishedAt": "2026-10-18T18:05:05.000Z",
+      "fetchedAt": "2026-10-18T22:56:48.509Z",
+      "contentText": null,
+      "summary": "Anthropic is establishing a Public Benefit Fund, initially committing 5% of its shares, with an additional 2% added for every 50% increase in company value above a baseline, subject to stockholder approval. This fund aims to support AI safety research, interpretability, and address potential societal impacts like labor market instability, building on existing employee and co-founder equity donation commitments. The fund is structured as a wholly-owned LLC to allow flexibility in giving, with approximately 20% of Anthropic's shares eventually dedicated to public good initiatives.",
+      "enterpriseAngle": "This initiative demonstrates a growing trend among AI companies to integrate public benefit and societal impact considerations directly into their corporate structure and funding, which could influence enterprise-level ESG strategies and responsible AI development frameworks. Enterprise product development teams should consider how their AI solutions might contribute to or mitigate societal challenges, aligning with broader industry shifts towards ethical AI.",
+      "beginner": "Anthropic is setting aside a portion of its company ownership to fund projects that benefit society, like making AI safer and helping workers adapt to changes caused by AI.",
+      "advanced": "Evaluate the long-term implications of this public benefit fund model on Anthropic's governance, investment appeal, and its potential to set a precedent for other AI enterprises seeking to balance profit with societal impact.",
+      "tags": [
+        "enterprise",
+        "governance",
+        "funding",
+        "research"
+      ],
+      "dateChecked": true
+    },
+    {
+      "id": "218f77bb959f",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "publishedAt": "2026-10-18T16:30:00.000Z",
+      "fetchedAt": "2026-10-18T22:56:50.995Z",
+      "contentText": null,
+      "summary": "Disney has agreed to hire most of Character.AI's workforce, with the majority of employees accepting job offers. This agreement is a \"stalking horse bid,\" meaning another company could still make a higher offer.",
+      "enterpriseAngle": "This move could significantly bolster Disney's internal AI capabilities and talent pool, potentially accelerating their development of AI-driven products and experiences. For Character.AI, it represents a strategic acquisition of human capital rather than a full company buyout.",
+      "beginner": "Disney is hiring many people from an AI company called Character.AI, which will help Disney use more AI in its own products.",
+      "advanced": "Monitor the finalization of this stalking horse bid, as the integration of Character.AI's talent into Disney could signal new strategic directions in AI-powered content creation and interactive experiences.",
+      "tags": [
+        "enterprise",
+        "workforce",
+        "partnership"
+      ]
+    },
     {
       "id": "d4d8a21bd997",
       "source": "techcrunch-ai",

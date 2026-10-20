@@ -1,6 +1,213 @@
 {
-  "updatedAt": "2026-10-20T00:12:32.840Z",
+  "updatedAt": "2026-10-20T17:54:45.519Z",
   "articles": [
+    {
+      "id": "319f79c551ee",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Meta's Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+      "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+      "publishedAt": "2026-10-20T17:12:48.000Z",
+      "fetchedAt": "2026-10-20T17:52:34.323Z",
+      "contentText": null,
+      "summary": "Meta's AI companion app, Muse, has achieved over 10 million downloads in the U.S. within its first 40 days, a rapid growth rate matched by only a few other applications. The app is also demonstrating stronger user retention compared to competing AI applications.",
+      "enterpriseAngle": "Enterprises should note Muse's rapid adoption and high retention rates, indicating strong consumer interest in AI companions and potential for integrating similar AI-driven engagement strategies into their own products. This success could influence future product development and customer interaction models.",
+      "beginner": "Meta's new AI app, Muse, is incredibly popular, showing that many people are interested in using AI companions.",
+      "advanced": "Evaluate the underlying engagement mechanisms and user experience design of Meta's Muse to inform strategies for improving retention in enterprise AI applications.",
+      "tags": [
+        "consumer",
+        "product",
+        "benchmark",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "87c5cb39af2e",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+      "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+      "publishedAt": "2026-10-20T16:00:00.000Z",
+      "fetchedAt": "2026-10-20T17:52:34.323Z",
+      "contentText": null,
+      "summary": "Electric Plant, a startup founded by Justin Mast and neuroscientist Lee von Kraus, has developed an AI model named Bombadil to interpret the electrical signals within plants. This model, trained on data from 125 species, aims to provide growers with real-time insights into plant needs, potentially boosting yields and reducing water usage. The company recently secured $11.2 million in seed funding to bring its sensors and AI model to market.",
+      "enterpriseAngle": "Enterprise agriculture and forestry operations can leverage this AI-powered plant monitoring system to optimize resource allocation, improve crop yields, and enhance sustainability through precise, real-time insights into plant health and needs. The cost-effective sensors and cloud-based interpretation offer a scalable solution for large-scale plant management.",
+      "beginner": "A new AI model can understand what plants need by listening to their electrical signals, helping farmers grow healthier crops.",
+      "advanced": "Evaluate the integration of Electric Plant's Bombadil model and low-cost sensor technology into existing agricultural IoT platforms to achieve granular, real-time plant physiological monitoring and optimize resource management strategies for improved operational efficiency and yield.",
+      "tags": [
+        "product",
+        "research",
+        "funding",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "ebc7ad18c4ce",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "The new economics of enterprise AI",
+      "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+      "publishedAt": "2026-10-20T15:20:25.000Z",
+      "fetchedAt": "2026-10-20T17:52:34.683Z",
+      "contentText": null,
+      "summary": "The article draws an analogy between the early adoption of electricity and the current state of enterprise AI, suggesting that initial focus on basic utility will shift towards optimizing efficiency as AI becomes more integrated into business operations. This transition implies a move from simply implementing AI to strategically managing its widespread use and associated costs. The core idea is that as AI evolves from a novel tool to essential infrastructure, its economic impact and management will become critical.",
+      "enterpriseAngle": "Enterprise leaders must prepare for a future where AI is not just a specialized tool but a fundamental part of their operational infrastructure, requiring a strategic shift from initial adoption to continuous optimization of AI resource consumption and cost-effectiveness. Product development teams should focus on building AI solutions that are not only functional but also highly efficient and scalable to meet future enterprise demands.",
+      "beginner": "Just like electricity became essential for everything, AI is becoming a core part of how businesses operate, moving from a cool new tool to a necessary utility.",
+      "advanced": "Develop and implement robust AI governance frameworks and cost-optimization strategies now to ensure sustainable and efficient scaling of AI initiatives across the enterprise, focusing on resource allocation and performance metrics.",
+      "tags": [
+        "enterprise",
+        "infrastructure",
+        "governance"
+      ]
+    },
+    {
+      "id": "b3c5441d5c67",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+      "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
+      "publishedAt": "2026-10-20T14:13:32.000Z",
+      "fetchedAt": "2026-10-20T17:52:34.323Z",
+      "contentText": null,
+      "summary": "Figma co-founder Dylan Field has voiced concerns about the Model Context Protocol (MCP), an open-source standard for AI agents to connect with external data and tools, despite Figma expanding its support for it. Field believes MCP is not a perfect protocol and is more advantageous to frontier AI labs, while also noting that Anthropic, MCP's creator, does not fully expose its own resources via the protocol. Figma's CEO also cited potential for abuse as a reason for not being fully open with data through MCP.",
+      "enterpriseAngle": "Enterprises adopting AI agents need to carefully evaluate open protocols like MCP, balancing the benefits of standardization and ecosystem integration with potential security risks and the protocol's inherent biases towards certain AI developers. Product development teams should consider the trade-offs between openness and data protection when integrating with such standards.",
+      "beginner": "MCP is like a universal translator that helps different AI programs talk to various data sources and tools, but some people worry it's not fair or secure enough.",
+      "advanced": "When implementing AI agent integrations, assess MCP's suitability for your specific data governance and security requirements, considering its current limitations and potential for asymmetric context sharing that may favor frontier model providers.",
+      "tags": [
+        "enterprise",
+        "product",
+        "agents",
+        "security"
+      ]
+    },
+    {
+      "id": "3309b6ce15f4",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+      "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+      "publishedAt": "2026-10-20T13:07:24.000Z",
+      "fetchedAt": "2026-10-20T17:52:34.323Z",
+      "contentText": null,
+      "summary": "The U.S. has ordered federal civilian agencies to remove services and products from Chinese AI startup DeepSeek from their IT systems due to national security concerns, specifically regarding potential access to sensitive U.S. government user data by Chinese authorities. This directive extends to third-party products utilizing DeepSeek technology, though exceptions can be requested. China has criticized the U.S. move, stating it politicizes technology and trade.",
+      "enterpriseAngle": "Enterprise security teams in federal agencies must identify and eliminate all DeepSeek-related technologies, including those embedded in third-party solutions, to comply with the U.S. government order. Product development teams should be aware of geopolitical risks associated with integrating foreign AI models, particularly those under scrutiny for data handling and intellectual property concerns.",
+      "beginner": "The U.S. government is worried that a Chinese AI company, DeepSeek, might allow the Chinese government to see sensitive American information, so they are banning its use in federal agencies.",
+      "advanced": "Conduct a comprehensive audit of your enterprise's AI supply chain to identify direct and indirect dependencies on DeepSeek technology, and develop a remediation plan to ensure compliance with the federal mandate and mitigate potential data exfiltration risks.",
+      "tags": [
+        "security",
+        "policy",
+        "enterprise",
+        "governance"
+      ]
+    },
+    {
+      "id": "15705003f60b",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+      "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+      "publishedAt": "2026-10-20T13:00:00.000Z",
+      "fetchedAt": "2026-10-20T17:52:34.323Z",
+      "contentText": null,
+      "summary": "Eka Robotics, a startup founded by MIT and Google DeepMind researchers, has achieved a $1.45 billion valuation after a $150 million Series A funding round. The company has developed a novel robotic manipulation architecture that combines a force-sensitive gripper with a vision-force-action deep-learning model, enabling robots to perform dexterous manipulation tasks with superhuman speed and reliability. This approach, which heavily leverages physics simulation and reinforcement learning, allows robots to adapt to various objects without extensive retraining and handle delicate items like raspberries without damage.",
+      "enterpriseAngle": "Enterprise product development teams can leverage Eka's advancements in robotic manipulation to create more versatile and reliable automation solutions for logistics, manufacturing, and other industries requiring precise object handling. Security teams should note the emphasis on robust algorithms that prevent self-damage, indicating a focus on operational safety and reliability in advanced robotic systems.",
+      "beginner": "Eka Robotics has made a breakthrough in teaching robots to pick up and handle objects much better and faster than before, even delicate ones, by focusing on how robots feel force and touch.",
+      "advanced": "Integrate vision-force-action models and advanced reinforcement learning from physics simulations to overcome the generality-performance gap in robotic manipulation, enabling rapid adaptation to novel objects and tasks without extensive real-world data collection.",
+      "tags": [
+        "product",
+        "research",
+        "funding",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "0a18db4caf21",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "AI adoption by industry shows what other sectors can learn",
+      "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+      "publishedAt": "2026-10-20T12:00:00.000Z",
+      "fetchedAt": "2026-10-20T17:52:34.683Z",
+      "contentText": null,
+      "summary": "The adoption of AI in the workplace is often viewed through the lens of the tech industry, but this perspective overlooks broader trends. As generative AI and automation tools advance, similar transformations seen in software engineering and product management are expected to impact other sectors.",
+      "enterpriseAngle": "Enterprise leaders should anticipate that AI-driven shifts observed in the tech sector will soon influence their own industries, requiring proactive strategies for integration and workforce adaptation.",
+      "beginner": "AI is changing how tech companies work, and soon it will change how many other types of companies work too.",
+      "advanced": "Evaluate current AI adoption patterns in adjacent industries to forecast potential impacts and develop a phased AI integration roadmap for your enterprise.",
+      "tags": [
+        "enterprise",
+        "workforce",
+        "product"
+      ]
+    },
+    {
+      "id": "b0930e389e92",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+      "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+      "publishedAt": "2026-10-20T11:00:00.000Z",
+      "fetchedAt": "2026-10-20T17:52:34.323Z",
+      "contentText": null,
+      "summary": "Yelp has introduced a new feature called \"Check for Me\" that allows an AI voice agent to call restaurants on behalf of users to inquire about wait times, then text the results. This expands on Yelp's existing voice solutions for businesses and aims to fulfill the consumer side of the equation. Additionally, Yelp is enhancing its AI assistant with better personalization, OpenTable integration, chat history, and new list-building capabilities.",
+      "enterpriseAngle": "Enterprises can leverage AI agents for customer-facing tasks like checking wait times or lead qualification, as demonstrated by Yelp's new Smart Lead Reply product for businesses. However, they must also consider the potential for agent-to-agent communication breakdowns and ensure robust integration with existing platforms like OpenTable.",
+      "beginner": "Yelp is using AI to make it easier for you to find out how long you'll have to wait at a restaurant and to help businesses respond to customer questions automatically.",
+      "advanced": "Implement robust error handling and fallback mechanisms for agent-to-agent interactions, and explore fine-tuning AI models for personalized user experiences based on historical preferences and chat data.",
+      "tags": [
+        "agents",
+        "product",
+        "enterprise",
+        "consumer"
+      ]
+    },
+    {
+      "id": "b3fcb2e42d32",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "url": "https://openai.com/index/ted-taylor-restaurant",
+      "publishedAt": "2026-10-20T10:00:00.000Z",
+      "fetchedAt": "2026-10-20T17:52:31.899Z",
+      "contentText": null,
+      "summary": "A Schlotzsky's and Cinnabon franchisee, Ted Taylor, significantly reduced the time spent on various business operations using ChatGPT Work. He cut menu repricing time by 95% (from 5 days to 1-2 hours) and monthly cash reconciliation time by 94%. Additionally, he saved 4 hours on every payroll run and developed a workflow that could potentially free up to $100,000 in annual cash flow through optimized labor scheduling.",
+      "enterpriseAngle": "Enterprises can leverage AI tools like ChatGPT Work to automate time-consuming back-office tasks, leading to substantial reductions in operational costs and improvements in efficiency across areas like pricing analysis, labor management, and policy drafting. This allows businesses to reallocate resources and focus on strategic growth initiatives rather than routine administrative work.",
+      "beginner": "AI tools can help businesses complete repetitive tasks much faster, saving time and money.",
+      "advanced": "Integrate AI-powered data analysis and recommendation engines into existing ERP and POS systems to automate complex financial and operational workflows, focusing on custom rule refinement for optimal output.",
+      "tags": [
+        "enterprise",
+        "product",
+        "coding"
+      ]
+    },
+    {
+      "id": "56702cb0c64f",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "A visit to Samsung’s massive new semiconductor hub",
+      "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+      "publishedAt": "2026-10-20T09:00:00.000Z",
+      "fetchedAt": "2026-10-20T17:52:34.683Z",
+      "contentText": null,
+      "summary": "Samsung is constructing a large semiconductor manufacturing complex in Pyeongtaek, South Korea, to address the increasing demand for specialized memory chips essential for generative AI models. Three fabrication plants are currently operational, with a fourth facility nearing completion.",
+      "enterpriseAngle": "Enterprise product development teams relying on AI infrastructure will benefit from increased availability of high-bandwidth memory, potentially accelerating the development and deployment of advanced AI applications. This expansion helps secure the supply chain for critical AI hardware components.",
+      "beginner": "Powerful AI programs need special computer chips, and Samsung is building huge factories to make more of these chips to keep up with demand.",
+      "advanced": "Monitor Samsung's HBM production timelines and capacity forecasts to inform strategic procurement and supply chain resilience planning for AI hardware.",
+      "tags": [
+        "infrastructure",
+        "hardware",
+        "enterprise",
+        "product"
+      ]
+    },
     {
       "id": "c86664b601af",
       "source": "techcrunch-ai",
@@ -30941,6 +31148,28 @@
         "enterprise",
         "coding",
         "product"
+      ],
+      "dateChecked": true
+    },
+    {
+      "id": "843cb2274f3f",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "Responsible Scaling Policy Version 3.0",
+      "url": "https://www.anthropic.com/news/responsible-scaling-policy-v3",
+      "publishedAt": "2026-02-24",
+      "fetchedAt": "2026-10-20T17:52:30.689Z",
+      "contentText": null,
+      "summary": "Anthropic has released version 3.0 of its Responsible Scaling Policy (RSP), a voluntary framework designed to mitigate catastrophic risks from AI systems. The updated policy aims to enhance transparency and accountability while addressing new risks that have emerged as AI capabilities rapidly advance. The RSP uses a system of \"AI Safety Levels\" (ASLs) with conditional commitments, where stricter safeguards are introduced as models exceed certain capability thresholds.",
+      "enterpriseAngle": "Enterprise product development teams should consider implementing similar conditional safeguard frameworks to proactively address emerging AI risks as their models evolve. Security teams can leverage this approach to integrate escalating security measures tied to increasing model capabilities and potential misuse vectors.",
+      "beginner": "As AI models get smarter and can do more things, companies like Anthropic are creating rules to make sure these powerful AIs are used safely and don't cause harm.",
+      "advanced": "Evaluate the feasibility of adopting a tiered AI Safety Level (ASL) framework within your organization, defining specific capability thresholds and corresponding escalating safeguards for model deployment and training, particularly concerning CBRN risks and state-level actor misuse.",
+      "tags": [
+        "policy",
+        "governance",
+        "security",
+        "enterprise"
       ],
       "dateChecked": true
     },

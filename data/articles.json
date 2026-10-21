@@ -1,6 +1,147 @@
 {
-  "updatedAt": "2026-10-21T18:00:00.333Z",
+  "updatedAt": "2026-10-21T23:59:50.989Z",
   "articles": [
+    {
+      "id": "3acc865d1f4f",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Blackstone's Jas Khaira says fears over AI-buildout debt are overblown",
+      "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+      "publishedAt": "2026-10-21T22:51:22.000Z",
+      "fetchedAt": "2026-10-21T23:57:26.958Z",
+      "contentText": null,
+      "summary": "Blackstone, a private equity firm, is heavily investing in the AI sector, providing significant loans to data centers and investing in AI models and applications through its Blackstone N1 initiative. Jas Khaira, head of BXN1, believes fears about the large debt accumulated for AI infrastructure are overblown, citing the creditworthiness of the hyperscalers backing these investments. The firm has pioneered financing structures for \"neoclouds\" like CoreWeave and Firmus, using customer contracts and GPUs as collateral, though recent market jitters have led to increased borrowing costs and valuation adjustments for some providers.",
+      "enterpriseAngle": "Enterprise security and product development teams should note that the continued massive investment in AI infrastructure, driven by firms like Blackstone, ensures the availability of compute resources for AI adoption. However, rising capital costs and market volatility for infrastructure providers could impact future pricing and stability of AI services.",
+      "beginner": "Big investment firms are pouring money into building the computing power needed for AI, which helps make AI tools more widely available.",
+      "advanced": "Evaluate the stability and long-term cost implications of your AI infrastructure providers, considering the increasing cost of capital and market volatility impacting neoclouds and data center financing.",
+      "tags": [
+        "enterprise",
+        "infrastructure",
+        "funding",
+        "product"
+      ]
+    },
+    {
+      "id": "bee997298d40",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+      "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+      "publishedAt": "2026-10-21T21:16:20.000Z",
+      "fetchedAt": "2026-10-21T23:57:26.958Z",
+      "contentText": null,
+      "summary": "The TechCrunch Founder Summit is a one-day event held in Boston on November 4, bringing together founders, venture capitalists, and experienced entrepreneurs. The summit aims to provide tactical insights for building and scaling companies.",
+      "enterpriseAngle": "Enterprise product development and security teams can leverage insights from this summit to understand current startup trends and investor priorities, potentially influencing their own strategic roadmaps and partnership opportunities. Networking with founders and VCs could also offer early insights into emerging technologies and market needs relevant to enterprise solutions.",
+      "beginner": "This summit is a place where new company leaders can learn from experts and investors about how to grow their businesses.",
+      "advanced": "Experienced practitioners should attend to identify potential acquisition targets, scout emerging talent, and gain direct insight into venture capital investment theses for strategic planning.",
+      "tags": [
+        "enterprise",
+        "funding",
+        "workforce"
+      ]
+    },
+    {
+      "id": "e9fc4036438c",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Meta says Muse has over 10M users, with shopping a top activity",
+      "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "publishedAt": "2026-10-21T21:14:19.000Z",
+      "fetchedAt": "2026-10-21T23:57:26.958Z",
+      "contentText": null,
+      "summary": "Meta's AI app, Muse, has surpassed 10 million users, with a quarter of daily users engaging in shopping activities, leading to an average purchase size of over $200. The app also supports personal productivity tasks and is central to Meta's smart glasses strategy. Meta plans to scale Muse, improve its cost efficiency, and aims for it to generate more revenue per user than its existing family of apps.",
+      "enterpriseAngle": "Enterprise product development teams can learn from Muse's success in integrating AI agents for commerce and productivity, highlighting the importance of robust security features like 'Muse Secure VM' and 'Muse Confidential VM' to build user trust. The focus on scaling and cost optimization for compute-intensive AI applications also provides a blueprint for managing large-scale AI deployments.",
+      "beginner": "Meta's new AI app, Muse, is gaining popularity by helping people shop and manage their daily tasks, and Meta is making sure it's secure for users.",
+      "advanced": "To capitalize on AI agent trends, explore integrating secure, agentic commerce capabilities with robust data privacy controls (e.g., confidential VMs) and prioritize compute cost optimization for scalable, profitable AI deployments.",
+      "tags": [
+        "product",
+        "enterprise",
+        "agents",
+        "security"
+      ]
+    },
+    {
+      "id": "2ed22a61b2f1",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Broad access through consistent standards",
+      "url": "https://openai.com/index/broad-access-through-consistent-standards",
+      "publishedAt": "2026-10-21T21:00:00.000Z",
+      "fetchedAt": "2026-10-21T23:57:24.118Z",
+      "contentText": null,
+      "summary": "OpenAI is updating its Usage Policies and aligning safety standards across all services that provide access to its models, including direct access, partners, and resellers. These changes aim to ensure consistent safeguards and clearer rules for developers, especially as models like GPT-6 Astra expand capabilities. The company emphasizes evaluating model risks, training for safety, and monitoring for abuse, while also introducing features like SafetyIDs to help investigate misuse more precisely.",
+      "enterpriseAngle": "Enterprise security and product development teams leveraging OpenAI models must adhere to updated Usage Policies and consistent safety standards, ensuring their implementations meet or exceed OpenAI's requirements for secure and responsible AI deployment. The introduction of SafetyIDs offers a mechanism for more precise misuse investigations without compromising user privacy, which can be valuable for incident response.",
+      "beginner": "OpenAI is making sure that all its AI models, no matter where you use them, have the same safety rules and clear guidelines for developers to follow.",
+      "advanced": "Integrate OpenAI's updated Usage Policies and partner safeguard requirements into your AI governance framework, and explore leveraging SafetyIDs for enhanced, privacy-preserving misuse detection and response within your applications.",
+      "tags": [
+        "governance",
+        "policy",
+        "enterprise",
+        "security"
+      ]
+    },
+    {
+      "id": "d777d785a3ac",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+      "publishedAt": "2026-10-21T20:27:41.000Z",
+      "fetchedAt": "2026-10-21T23:57:26.958Z",
+      "contentText": null,
+      "summary": "Recursive, an AI startup, has launched Flint, a free coding model that can run on a laptop and was largely built by AI. The company's automated research system, the Eureka Machine, assisted in nearly every step of Flint's development, allowing a small team to build the model quickly. Flint is designed to be lightweight and fast, outperforming similar models in speed and some bug-fixing benchmarks.",
+      "enterpriseAngle": "Enterprise development teams can leverage Flint for offline coding, enhanced code privacy, and reduced cloud usage fees, potentially accelerating development cycles for smaller, specialized tasks. The underlying 'Eureka Machine' concept of AI-driven model development could lead to more efficient and rapid AI product creation in the future.",
+      "beginner": "AI is now helping to build other AI models, making it possible to create useful tools like coding assistants that can run directly on your computer.",
+      "advanced": "Evaluate Flint for on-device coding tasks requiring privacy and low latency, particularly for smaller code generation and bug-fixing, and consider the implications of AI-driven model development for future MLOps and research efficiency.",
+      "tags": [
+        "model-release",
+        "coding",
+        "product",
+        "research"
+      ]
+    },
+    {
+      "id": "4472664e9020",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+      "publishedAt": "2026-10-21T19:30:00.000Z",
+      "fetchedAt": "2026-10-21T23:57:26.958Z",
+      "contentText": null,
+      "summary": "Walmart is implementing new technology that allows AI agents to make purchases for customers, incorporating controls for spending and transaction approvals. This contrasts with Amazon's policy, which currently blocks AI agents from making purchases on its platform.",
+      "enterpriseAngle": "Enterprise product development teams can explore integrating AI agent purchasing capabilities into their platforms, focusing on robust control mechanisms for spending limits and approval workflows to ensure secure and compliant transactions. Security teams will need to develop new safeguards to prevent misuse and ensure data privacy when AI agents handle financial transactions.",
+      "beginner": "Some companies are letting AI programs shop for you, while others are blocking them.",
+      "advanced": "When designing AI agent integration for e-commerce, prioritize granular control over spending limits, explicit transaction approval processes, and comprehensive audit trails to mitigate financial risks and enhance user trust.",
+      "tags": [
+        "agents",
+        "product",
+        "enterprise",
+        "security"
+      ]
+    },
+    {
+      "id": "a61190ef2d92",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "PHP Armageddon: OpenAI, Google's Wiz find ancient holes, panicking the internet",
+      "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+      "publishedAt": "2026-10-21T17:59:12.000Z",
+      "fetchedAt": "2026-10-21T23:57:26.958Z",
+      "contentText": "The U.S. National Security Agency's sent out an alarming warning on Wednesday that two critical holes had been found in PHP, with patches already issued by the PHP Foundation . PHP is a server-side programming language so widely used for web applications that it powers roughly 70% of the websites on the internet; by some accounts, that's more than 33 million sites . It is also used by popular content management systems like WordPress. The NSA warned that these holes are so severe that if a website can't be patched immediately, it should be pulled off the web until it can be. The holes allow attackers to infiltrate the server's file system or a database that may be used by the web app. Interestingly, these holes have been tucked away in all versions of PHP since version 5, which was released in 2004. Websites not running relatively current versions of PHP will have some updating work to do, as PHP 8.1 and older versions are no longer supported. The recommendation is to update the web server to the current version of PHP, which is 8.5.12. So how did two such ubiquitous, decades-old flaws that affect nearly every website on the internet suddenly come to light? AI, naturally, particularly via OpenAI and Google's Wiz. Security testing company Calif was engaged in OpenAI's \"Patch the Planet\" initiative to find flaws in open source software. Using GPT‑5.6 Sol, it found one of the flaws, OpenAI disclosed in a blog post . Separately, the Wiz team also used AI, namely its Wiz Atlas security AI agent, Gemini 4 Argon, and GPT-5.6 Sol to find multiple vulnerabilities in PHP. Both OpenAI and Wiz followed responsible security research practices and worked with PHP on patches before publicly disclosing the flaws. Then they all worked together to flesh out what they found, and test the patches, drawing in a host of others to help. Wiz thanked Automattic, Akamai, AWS, Cloudflare, Fastly, Imperva, Microsoft, and Vercel. (While WordPress sites use PHP, WordPress has issued a statement saying that the flaw isn't WordPress specific, and sites running its CMS must patch their servers and work with their web-hosting companies to ensure their sites are protected.) OpenAI says that these flaws were found by researchers before hackers discovered them. So there were no reports of exploits in the wild. This is also in part because, before AI, these flaws were too hard for hackers to exploit. \"With AI this is no longer a barrier. LLMs can help adapt an exploit to different PHP versions, configurations and memory layouts,\" Wiz warned in its blog about the flaws. In other words, this is the kind of security issue that was found and prevented because of AI, but is also a high risk only because of AI. Now that the issue has been disclosed, hackers are fully in the know. The race is on for the internet to patch tens millions of websites before hackers can attack the unpatched ones. Hence the NSA's guidance that if you can't patch your PHP website right away, you're better off pulling it offline until you can. Topics AI , OpenAI , php , Security , wiz When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Julie Bort Venture Editor Julie Bort is the Startups/Venture Desk editor for TechCrunch. You can contact or verify outreach from Julie by emailing [email protected] or via @Julie188 on X. View Bio November 4 Boston Buy One Pass, Get a Second Free Cover more ground at TechCrunch's ultimate founder bootcamp of the year by bringing your co-founder or partner for free Book before the BOGO deal expires Register Now Most Popular People are using AI to make their smart TVs dumb again Sarah Perez Disney agrees to hire the majority of Character AI’s workforce Anthony Ha Anthropic says its workforce has become less junior and is spending more time in meetings Anthony Ha Replit makes OpenAI its default over Anthropic, CEO says Kirsten Korosec Lucas Ropek Rebecca Bellan Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept Connie Loizos India becomes the latest country to report rogue AI agent activity Aditya Mehta Tesla reveals SpaceX-powered Roadster that flies and falls with style Sean O'Kane",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
     {
       "id": "b12d9d8f2012",
       "source": "anthropic",
@@ -22,6 +163,26 @@
         "research"
       ],
       "dateChecked": true
+    },
+    {
+      "id": "4ab93569e260",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "url": "https://openai.com/index/att-legal",
+      "publishedAt": "2026-10-21T17:00:00.000Z",
+      "fetchedAt": "2026-10-21T23:57:24.118Z",
+      "contentText": null,
+      "summary": "AT&T is collaborating with OpenAI to enhance its in-house legal operations, focusing on improving access to internal knowledge and expertise. This partnership builds on AT&T's existing LegalEdge initiative, which applies AI to legal matters. The goal is to streamline the intake process for legal requests, allowing lawyers to more efficiently access relevant information and past work.",
+      "enterpriseAngle": "Enterprise legal departments can leverage AI to create knowledge layers that connect accumulated expertise, improving efficiency in legal intake, research, and matter assessment while ensuring human lawyers retain ultimate decision-making authority. This approach can help scale legal judgment across a business, addressing more needs with greater speed.",
+      "beginner": "AT&T is using AI to help its lawyers find information faster, so they can spend more time giving legal advice.",
+      "advanced": "Implement natural language intake systems powered by large language models to classify and prioritize legal requests, automatically linking them to relevant internal precedents and historical context to provide lawyers with a more informed starting point.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "product"
+      ]
     },
     {
       "id": "6c14b19c5f4c",
@@ -167,6 +328,27 @@
         "product",
         "agents",
         "infrastructure"
+      ]
+    },
+    {
+      "id": "b2deaf97c98c",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+      "url": "https://openai.com/index/empowering-cyber-defenders",
+      "publishedAt": "2026-10-21T00:00:00.000Z",
+      "fetchedAt": "2026-10-21T23:57:24.118Z",
+      "contentText": null,
+      "summary": "OpenAI has released a blueprint for empowering cyber defenders, emphasizing a \"defender's window\" to strengthen protections before advanced AI cyber offensive capabilities become widespread. The blueprint proposes concrete actions for governments and industry across three areas: strengthening safety and security for advanced AI, modernizing cybersecurity for the intelligence age, and building resilient public institutions. This initiative builds on previous cybersecurity action plans and frontier safety blueprints, drawing lessons from OpenAI's own experiences with model misalignment and security incidents.",
+      "enterpriseAngle": "Enterprise security teams should prepare for both the enhanced defensive capabilities and new risks introduced by advanced AI, focusing on adopting advanced tools, addressing existing vulnerabilities, and establishing robust incident reporting and response mechanisms. Product development teams creating AI systems must prioritize stronger safeguards, accountability, and reliable shutdown controls to mitigate dangerous behaviors and ensure secure operations.",
+      "beginner": "AI can help protect against cyberattacks, but it also creates new ways for attackers to cause harm, so we need to act quickly to put AI in the hands of defenders.",
+      "advanced": "Implement robust AI safety protocols, including clear responsibilities for model security, dangerous behavior detection, and reliable shutdown controls, while actively engaging with government and industry to establish consistent incident reporting and coordinated response frameworks.",
+      "tags": [
+        "security",
+        "policy",
+        "governance",
+        "enterprise"
       ]
     },
     {

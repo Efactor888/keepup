@@ -1,6 +1,195 @@
 {
-  "updatedAt": "2026-10-22T17:57:03.509Z",
+  "updatedAt": "2026-10-22T23:59:04.321Z",
   "articles": [
+    {
+      "id": "6372ebaa66c8",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "publishedAt": "2026-10-22T22:08:24.000Z",
+      "fetchedAt": "2026-10-22T23:56:11.357Z",
+      "contentText": null,
+      "summary": "OpenAI is reportedly seeking to raise up to $30 billion in private funding, which could value the company at $1.25 trillion. This potential funding round, led by Coatue and UAE investors, would make OpenAI the most valued private company ever. The terms are still under negotiation, and this move comes after OpenAI confidentially filed for an IPO in June.",
+      "enterpriseAngle": "This significant valuation increase for OpenAI, and potentially for competitors like Anthropic, signals a robust and competitive AI market that enterprise product development teams must continue to monitor for strategic partnerships and technology integration. The potential for securing computing capacity from the UAE also highlights the growing importance of infrastructure in AI development.",
+      "beginner": "OpenAI, the company behind ChatGPT, is trying to raise a lot of money from private investors, which could make it the most valuable private company in the world.",
+      "advanced": "Given OpenAI's pursuit of a $1.25 trillion valuation and potential infrastructure deals, enterprise strategists should evaluate the long-term implications for AI platform stability, pricing, and competitive landscape, particularly concerning compute resource access and sovereign AI initiatives.",
+      "tags": [
+        "enterprise",
+        "funding",
+        "infrastructure",
+        "product"
+      ]
+    },
+    {
+      "id": "98d45c75b11c",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "Open call for guest investigators in the life sciences",
+      "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+      "publishedAt": "2026-10-22T21:59:15.000Z",
+      "fetchedAt": "2026-10-22T23:56:06.687Z",
+      "contentText": null,
+      "summary": "Anthropic is inviting life science researchers from academic, nonprofit, and government institutions to collaborate on projects using their AI model, Claude. Guest investigators will work with Anthropic researchers for 8-12 weeks on topics like human biology, drug discovery, and clinical science, with Anthropic providing model access and support at no cost. The goal is to produce publishable outputs, open-source data and code, and allow investigators to retain rights to their data and follow-on research.",
+      "enterpriseAngle": "Enterprise R&D teams in pharmaceuticals, biotech, and healthcare can leverage similar AI collaboration models to accelerate drug discovery, molecular biology research, and clinical science, potentially reducing development cycles and costs. This initiative highlights a growing trend of AI companies partnering with scientific institutions to drive innovation and create new tools and datasets.",
+      "beginner": "Anthropic is offering scientists free access to its AI to help them solve big problems in biology and medicine.",
+      "advanced": "Life science principal investigators should consider applying to Anthropic's guest investigator program to leverage Claude for causal human biology, structural/computational molecular biology, medicinal chemistry, drug discovery, or clinical science, focusing on projects with preliminary evidence achievable within an 8-12 week timeframe.",
+      "tags": [
+        "research",
+        "partnership",
+        "science",
+        "enterprise"
+      ],
+      "dateChecked": true
+    },
+    {
+      "id": "6401c720abcc",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "Designing an AI serving harness built to last",
+      "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+      "publishedAt": "2026-10-22T21:17:29.000Z",
+      "fetchedAt": "2026-10-22T23:56:11.684Z",
+      "contentText": null,
+      "summary": "The future of competitive advantage in enterprise AI will depend more on the surrounding infrastructure built around AI models than on the models themselves. This marks a shift from the previous focus on model capabilities like size, reasoning, context windows, and benchmark scores.",
+      "enterpriseAngle": "Enterprise product development teams should prioritize building robust AI serving harnesses to maximize the value of their chosen models and gain a competitive edge. This shift means investing in infrastructure and integration strategies will be crucial for long-term success.",
+      "beginner": "Instead of just picking the best AI model, companies now need to focus on building strong systems around those models to get the most benefit.",
+      "advanced": "Architect and implement scalable, resilient AI serving harnesses that abstract model specifics, enabling rapid iteration and deployment of diverse AI capabilities across enterprise applications.",
+      "tags": [
+        "enterprise",
+        "product",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "fe52d49759b6",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "publishedAt": "2026-10-22T19:07:09.000Z",
+      "fetchedAt": "2026-10-22T23:56:11.357Z",
+      "contentText": null,
+      "summary": "1Password has launched \"1Password for Agents,\" a new tool that allows AI agents to log into user accounts without directly accessing their passwords. This system creates a secure communication channel between the agent, the user, and the password manager, requiring user confirmation for each login attempt. The initiative addresses growing concerns about the security implications of AI agents accessing sensitive user credentials.",
+      "enterpriseAngle": "Enterprise security teams must consider implementing similar secure delegation mechanisms for AI agents to prevent credential exposure, especially as agentic activity in user accounts, including financial ones, becomes more prevalent. Product development teams should integrate with such solutions to enhance the security posture of their AI-powered services.",
+      "beginner": "AI agents can now log into your online accounts to help with tasks without ever seeing or storing your actual password, making it safer to use them.",
+      "advanced": "Implement secure credential delegation protocols for AI agents, leveraging solutions like 1Password for Agents, to mitigate credential exposure risks and ensure auditable user consent for agentic actions.",
+      "tags": [
+        "security",
+        "agents",
+        "product",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "27825e300358",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Build more responsive apps with the Decisions API",
+      "url": "https://openai.com/index/decisions-api",
+      "publishedAt": "2026-10-22T19:00:00.000Z",
+      "fetchedAt": "2026-10-22T23:56:07.628Z",
+      "contentText": null,
+      "summary": "OpenAI has made its Decisions API generally available, leveraging GPT-6 Luna to enable applications and agents to make rapid, low-cost decisions from various inputs. This API is up to 10 times faster than using GPT-6 Luna via the Responses API for bounded questions. It supports real-time voice experiences through native GPT-Live integration and offers features like prompt caching and inference residency in the US and EU.",
+      "enterpriseAngle": "Enterprise teams can use the Decisions API to significantly reduce latency and cost in workflows requiring numerous small, structured decisions, such as document classification, transaction categorization, AI cost attribution, and real-time agent action selection, leading to faster operations and improved efficiency. This can enhance product development by enabling more responsive and interactive AI applications, particularly in areas like customer support and language learning.",
+      "beginner": "The Decisions API helps AI applications make quick, focused choices, making them faster and cheaper to run.",
+      "advanced": "Integrate the Decisions API for high-throughput, low-latency decision points in agentic workflows, leveraging native JSON inputs, image support, and prompt caching to optimize for speed and cost efficiency over general-purpose LLM calls.",
+      "tags": [
+        "product",
+        "enterprise",
+        "model-release",
+        "agents"
+      ]
+    },
+    {
+      "id": "5d204276414b",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "publishedAt": "2026-10-22T19:00:00.000Z",
+      "fetchedAt": "2026-10-22T23:56:11.357Z",
+      "contentText": null,
+      "summary": "OpenAI has made its Decisions API model widely available, entering the market for fast, low-cost decision-making AI models. This new offering competes with TypeSafe's Jev model, which pioneered the category of 'super classifiers' that quickly make choices with confidence ratings. OpenAI's Decisions API is a reconfigured version of ChatGPT Luna, optimized for speed and lower inference cost, achieving response times as low as 100-180 milliseconds.",
+      "enterpriseAngle": "Enterprise product development teams can leverage these faster, cheaper decision models to replace more resource-intensive LLMs in various workflows, significantly improving application responsiveness and reducing operational costs. This allows for higher throughput in AI-powered features, enabling new use cases in areas like real-time voice assistants and potentially video frame analysis.",
+      "beginner": "AI models are getting faster and cheaper, allowing them to make quick decisions in applications, similar to how a human might make a 'gut' decision.",
+      "advanced": "Evaluate the Decisions API's multi-modal capabilities and latency in your specific enterprise workloads, particularly for image classification and real-time interaction, to determine if it offers a superior cost-performance ratio compared to existing LLM implementations or competing decision models like TypeSafe's Jev.",
+      "tags": [
+        "model-release",
+        "enterprise",
+        "product",
+        "benchmark"
+      ]
+    },
+    {
+      "id": "865ffb65f1d5",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Canva releases its first image generation model",
+      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "publishedAt": "2026-10-22T19:00:00.000Z",
+      "fetchedAt": "2026-10-22T23:56:11.357Z",
+      "contentText": null,
+      "summary": "Canva has launched its first in-house image generation model, Canva Craft, designed to compete with models from major tech companies. This new model uses a two-stage process to create high-resolution images with accurate details and legible text, and it was trained using human-designed templates from Canva's library rather than photographs. Canva Craft is available to all users on the platform and will also be accessible via API and third-party chatbots.",
+      "enterpriseAngle": "Enterprises using Canva can leverage Canva Craft for efficient content creation, potentially reducing reliance on external image generation services and gaining more control over image quality and speed. The ability to convert generated images into layered designs offers significant advantages for design workflows and brand consistency.",
+      "beginner": "Canva now has its own AI tool that can create images from your descriptions, making it easier to design things with accurate details and text.",
+      "advanced": "Integrate Canva Craft via API into existing enterprise content pipelines to streamline design asset generation, leveraging its unique training data for layered, editable outputs and potential cost savings on third-party model usage.",
+      "tags": [
+        "model-release",
+        "product",
+        "enterprise",
+        "coding"
+      ]
+    },
+    {
+      "id": "de6d0ccac2bc",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "The Foundations of Scalable AI",
+      "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+      "publishedAt": "2026-10-22T18:48:04.000Z",
+      "fetchedAt": "2026-10-22T23:56:11.684Z",
+      "contentText": null,
+      "summary": "Building scalable AI systems requires a strong foundation where data, engineering, platforms, operating models, and governance work together. This approach is especially critical in highly regulated environments to ensure responsible and trustworthy implementation of emerging AI capabilities.",
+      "enterpriseAngle": "Enterprise teams must integrate data, engineering, and governance to build scalable and responsible AI systems, particularly in regulated sectors. This holistic approach is crucial for deploying emerging AI capabilities, including agentic systems, effectively and ethically.",
+      "beginner": "To make AI systems bigger and better, companies need to make sure all their different parts, like data and how they manage it, work together smoothly.",
+      "advanced": "Architect AI solutions with a converged strategy across data pipelines, MLOps platforms, and governance frameworks to ensure scalability and regulatory compliance, especially when integrating agentic systems.",
+      "tags": [
+        "enterprise",
+        "governance",
+        "infrastructure",
+        "agents"
+      ]
+    },
+    {
+      "id": "d26ae9b2d9ce",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "publishedAt": "2026-10-22T18:43:53.000Z",
+      "fetchedAt": "2026-10-22T23:56:11.357Z",
+      "contentText": null,
+      "summary": "Microsoft's new AI diagnostic system reportedly outperformed generalist doctors on complex medical cases, as detailed in a study published in Science. However, the study suggests that the core AI models, rather than Microsoft's specific system, were primarily responsible for this improved performance.",
+      "enterpriseAngle": "Enterprise product development teams in healthcare should focus on integrating powerful underlying AI models to enhance diagnostic tools, rather than solely on proprietary system interfaces. This highlights the importance of leveraging advanced AI research for practical applications in medical diagnostics.",
+      "beginner": "AI is showing promise in helping doctors diagnose difficult medical conditions.",
+      "advanced": "When evaluating AI diagnostic solutions, prioritize the performance and capabilities of the foundational AI models over the specific vendor's system wrapper.",
+      "tags": [
+        "research",
+        "product",
+        "science",
+        "enterprise"
+      ]
+    },
     {
       "id": "86405d6d1e9f",
       "source": "anthropic",
@@ -249,6 +438,22 @@
         "funding",
         "product"
       ]
+    },
+    {
+      "id": "f7403dc55170",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+      "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+      "publishedAt": "2026-10-21T22:45:34.000Z",
+      "fetchedAt": "2026-10-22T23:56:11.357Z",
+      "contentText": "Meta is making a big push into AI, and it’s creating a new kind of stock that could help pay for it. On Wednesday, as the company reported its third-quarter earnings, Semafor reported the company might issue non-voting stock, meaning shares that don't give their owners a vote on company decisions, to help fund its push into artificial intelligence. During Meta's earnings call, the company confirmed that reporting. Meta's chief financial officer, Susan Li, said the company plans to \"create a new class of non-voting capital stock, which will be distributed to all existing shareholders through a stock dividend.\" Li later added that the company \"created this new class of shares with the purpose of creating a publicly traded non-voting stock usable for capital raising, employee compensation, acquisitions, and other general corporate purposes while preserving the voting power of existing Class A and B shareholders.\" The shares will allow the company to maintain its current \"founder-led structure,\" she added. They will also expand its \"funding tools and give us flexibility to invest behind the unprecedented momentum we're seeing across every part of our business, driven by AI.\" Meta's earnings were strong this past quarter, beating Wall Street expectations. The company made $64 billion in revenue, a jump of 26% from a year earlier. Its costs and expenses also rose, however, by 68% year-over-year. Reality Labs, the division responsible for Meta's AR glasses, VR headsets, and VR software, continues to lose money, though less than it used to. The company said in its earnings report that it expects the division's losses to shrink from its 2025 levels to between $18 billion and $19 billion. Meta has made a big push into AI over the past year. The company has released several AI models, including Muse Spark and Muse Glimmer earlier this year. In recent weeks, it added Muse Wonder and Muse Spark Open, an open-weight model whose underlying parameters are publicly available for outsiders to use and build on. Meta also launched a coding agent for software developers called Muse Code. At its Meta Connect event this year, the company announced a new line of cute and cuddly avatars for AI assistant, Meta Muse, in a push to make its AI services more relatable (and also meme-able ). As far as can be discerned, those AI products are doing well. \"In just a month and a half, more than 10 million people in the U.S. and Canada have set up Muse personal agents,\" CEO Mark Zuckerberg said during Wednesday's earnings call. \"Growth continues to be strong, and we have been number one in the App Store almost every day.\" \"Now that Muse has clear product-market fit, we are entering a new phase and a more operational phase that is focused on scaling it,\" Zuckerberg added, claiming later that the company expects to grow the product's appeal to eventually \"serve billions of people.\" The company also noted that certain storm clouds linger on the horizon in the form of ongoing regulatory and legal issues. \"We continue to monitor active legal and regulatory matters that could significantly impact our business and financial results,\" said Li. \"For example, we continue to see scrutiny on youth-related issues in several markets, and have a number of youth-related trials scheduled in the coming months in the United States.\" Topics AI , Facebook , Mark Zuckerberg , Meta , muse , Social When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Lucas Ropek Senior Writer, TechCrunch Lucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. You can contact Lucas by emailing [email protected] . View Bio November 4 Boston Buy One Pass, Get a Second Free Cover more ground at TechCrunch's ultimate founder bootcamp of the year by bringing your co-founder or partner for free Book before the BOGO deal expires Register Now Most Popular Airbnb limits chores for guests, sparking backlash from hosts Lauren Forristal Tesla starts Optimus robot production in California as profit falls 43% Kirsten Korosec Sean O'Kane The internet is having a very bad cybersecurity day Sarah Perez People are using AI to make their smart TVs dumb again Sarah Perez Anthropic says its workforce has become less junior and is spending more time in meetings Anthony Ha Replit makes OpenAI its default over Anthropic, CEO says Kirsten Korosec Lucas Ropek Rebecca Bellan Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept Connie Loizos",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
     },
     {
       "id": "bee997298d40",

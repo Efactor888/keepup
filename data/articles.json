@@ -1,6 +1,234 @@
 {
-  "updatedAt": "2026-10-21T23:59:50.989Z",
+  "updatedAt": "2026-10-22T17:57:03.509Z",
   "articles": [
+    {
+      "id": "86405d6d1e9f",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+      "publishedAt": "2026-10-22T17:48:51.000Z",
+      "fetchedAt": "2026-10-22T17:55:00.825Z",
+      "contentText": null,
+      "summary": "Anthropic has donated its \"Agent Skills\" open standard to the Agentic AI Foundation (AAIF), an organization co-founded by Anthropic, Block, and OpenAI under the Linux Foundation. Agent Skills, which provides AI agents with specialized knowledge and workflows through a simple folder structure, has been integrated by over 70 agent platforms and has seen 1 million skills published since its launch in December 2025. The donation aims to ensure the standard remains open, community-driven, and vendor-neutral, with a roadmap for future development including versioned releases and security guidance.",
+      "enterpriseAngle": "Enterprises leveraging AI agents can benefit from this move as it promotes interoperability and standardization, potentially simplifying the development and deployment of specialized AI workflows across different platforms. The focus on community governance and future security guidance for skills will be crucial for maintaining trust and stability in enterprise AI applications.",
+      "beginner": "Agent Skills helps different AI tools understand and perform specific tasks by giving them a common way to share instructions and knowledge.",
+      "advanced": "Actively participate in the Agentic AI Foundation's roadmap discussions, particularly regarding versioned releases and security guidance, to shape the future of agent interoperability and ensure enterprise-grade robustness.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product",
+        "governance"
+      ],
+      "dateChecked": true
+    },
+    {
+      "id": "d1b19037538a",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+      "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+      "publishedAt": "2026-10-22T16:47:17.000Z",
+      "fetchedAt": "2026-10-22T17:55:04.180Z",
+      "contentText": null,
+      "summary": "Chinese state-aligned hackers breached IT management company ConnectWise's cloud backup service, stealing credentials that allowed them to access the Microsoft-hosted environments of thousands of corporate customers. The attackers used AI agents, specifically the open-source ARTEX framework, to rapidly compromise approximately 2,250 organizations, attempting nearly 3,000 sign-ins per minute. This enabled them to access customer emails and files, giving defenders little time to react.",
+      "enterpriseAngle": "Enterprise security teams must prioritize robust credential management and multi-factor authentication, especially for third-party cloud services, as AI-powered attacks can exploit stolen credentials at speeds that overwhelm traditional detection and response mechanisms. Product development teams should consider how AI agents could be used to stress-test their own security defenses, mirroring the tactics of advanced attackers.",
+      "beginner": "Hackers are now using AI to break into many companies very quickly, making it harder for security teams to stop them in time.",
+      "advanced": "Implement AI-driven threat detection and response systems capable of operating at machine speed to counter AI-accelerated attacks, and regularly audit third-party cloud service integrations for credential hygiene and access controls.",
+      "tags": [
+        "security",
+        "enterprise",
+        "agents"
+      ]
+    },
+    {
+      "id": "2e9a4426b964",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Uber puts all 30,000 employees on ChatGPT Work",
+      "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+      "publishedAt": "2026-10-22T16:00:00.000Z",
+      "fetchedAt": "2026-10-22T17:55:04.180Z",
+      "contentText": null,
+      "summary": "Uber is expanding its partnership with OpenAI, deploying ChatGPT Work to all 30,000 of its global employees after a successful pilot program. The enterprise AI agent will be used across various departments, including finance, operations, and product, for tasks like data analysis, material localization, and dashboard creation. Uber aims to allow teams to experiment with the tool to discover new efficiencies, rather than dictating specific uses.",
+      "enterpriseAngle": "Enterprise security and product development teams should note Uber's strategy of broad AI tool deployment with an emphasis on employee experimentation, which could lead to novel applications but also requires robust governance and monitoring. This move highlights the growing trend of large enterprises integrating AI agents into core workflows, necessitating careful consideration of data privacy and model output reliability.",
+      "beginner": "Uber is giving all its employees access to an AI tool called ChatGPT Work to help them with many different tasks, even if they aren't engineers.",
+      "advanced": "Implement a phased rollout strategy for enterprise AI tools, prioritizing robust monitoring and feedback mechanisms to identify effective use cases and potential risks before full-scale integration.",
+      "tags": [
+        "enterprise",
+        "agents",
+        "product",
+        "workforce"
+      ]
+    },
+    {
+      "id": "12d0b1a86546",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Spotify's current AI bet is about being the music service that agents choose",
+      "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+      "publishedAt": "2026-10-22T15:03:58.000Z",
+      "fetchedAt": "2026-10-22T17:55:04.180Z",
+      "contentText": null,
+      "summary": "Spotify's co-CEO Gustav Söderström believes the company is well-positioned to thrive in the era of AI agents, seeing them as a way for users to interact with Spotify through conversation rather than directly through the app. Spotify aims to be the preferred music service for these agents, allowing them to handle tasks like creating personalized playlists based on extensive user listening history. The company emphasizes that it does not share user data with partner agents, instead processing requests internally.",
+      "enterpriseAngle": "Enterprise product development teams should consider how their services can integrate with and be chosen by AI agents, focusing on conversational interfaces and leveraging proprietary data for personalized experiences. Security and privacy teams must ensure that data remains protected when interacting with third-party agents, as Spotify does by processing requests internally without sharing user data.",
+      "beginner": "AI agents can help you find and play music on Spotify by understanding your requests and preferences, making it easier to enjoy entertainment without manually searching.",
+      "advanced": "Architect your service APIs to be agent-friendly, prioritize robust internal data processing for personalized responses without external data sharing, and actively pursue integrations with leading AI agent platforms to secure market position in the 'agentic age'.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product",
+        "security"
+      ]
+    },
+    {
+      "id": "8e16d6a95427",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Claude Duet app is Anthropic's bet on agents",
+      "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+      "publishedAt": "2026-10-22T13:53:26.000Z",
+      "fetchedAt": "2026-10-22T17:55:04.180Z",
+      "contentText": null,
+      "summary": "Anthropic has launched Claude Duet, an AI agent designed for professionals and small businesses to automate and manage tasks. Unlike personal assistants, Duet focuses on business-oriented functions such as creating daily briefings, dashboards, and suggesting actions based on user data. The agent, built on the Claude Opus 5.5 model, can connect to over 6,000 plugins and make online purchases with user approval.",
+      "enterpriseAngle": "Enterprise and product development teams can leverage Claude Duet's capabilities for task automation, data-driven insights, and integration with existing business tools through its extensive marketplace connectors. The agent's focus on proactive recommendations and background task completion offers a new paradigm for enhancing operational efficiency within organizations.",
+      "beginner": "AI agents like Claude Duet are like smart assistants for work, helping businesses automate tasks and make decisions based on their information.",
+      "advanced": "Evaluate Claude Duet's integration capabilities with existing enterprise resource planning (ERP) and customer relationship management (CRM) systems via its 6,000+ connectors to optimize workflow automation and data synthesis for strategic decision-making.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "d2c9aa9349dc",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Nirva raises $33M for a pendant that only listens to you",
+      "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+      "publishedAt": "2026-10-22T13:26:52.000Z",
+      "fetchedAt": "2026-10-22T17:55:04.180Z",
+      "contentText": null,
+      "summary": "Nirva, a startup founded by former Meta Reality Labs employees and a fashion designer, has raised $33 million to develop a jewelry-like pendant that uses AI to listen exclusively to the wearer's speech. The device, which can also be worn as a bracelet, aims to provide personal insights on emotions and communication style without recording surrounding conversations or storing audio data. Nirva plans to begin shipping its $249 device by the end of the year.",
+      "enterpriseAngle": "Enterprise product development teams can learn from Nirva's approach to privacy in ambient AI wearables, specifically its method of filtering out external conversations and not retaining audio data, which could inform the design of future enterprise-focused AI devices. Security teams should note the emphasis on user-specific data processing and the default non-retention of audio as a potential model for privacy-by-design in sensitive applications.",
+      "beginner": "Nirva's new wearable device uses AI to understand only what you say, offering personal insights while protecting the privacy of those around you.",
+      "advanced": "Evaluate Nirva's on-device voice model training and real-time audio filtering techniques for potential application in enterprise-grade ambient AI solutions requiring stringent privacy and data minimization.",
+      "tags": [
+        "product",
+        "funding",
+        "consumer",
+        "security"
+      ]
+    },
+    {
+      "id": "2bef5e155399",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "DeepSeek reportedly raises $15B days after US restrictions",
+      "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+      "publishedAt": "2026-10-22T13:11:13.000Z",
+      "fetchedAt": "2026-10-22T17:55:04.180Z",
+      "contentText": null,
+      "summary": "Chinese AI lab DeepSeek has reportedly raised $15 billion, one of the largest funding rounds in China, just two days after the U.S. ordered federal agencies to remove its AI technology due to security concerns. This funding follows earlier rounds in June and July, bringing its total reported funding to over $22 billion. DeepSeek plans to use the capital to expand its AI infrastructure and open models for both domestic and international markets.",
+      "enterpriseAngle": "Enterprise security teams should note the U.S. government's security concerns regarding DeepSeek's AI technology, which could influence future procurement and risk assessments for AI solutions. Product development teams in the AI space will see increased competition from well-funded Chinese firms like DeepSeek, which are rapidly expanding their open-model offerings and infrastructure.",
+      "beginner": "A Chinese AI company called DeepSeek just got a huge amount of money from investors, even though the U.S. government recently told its agencies to stop using DeepSeek's technology because of security worries.",
+      "advanced": "Given the U.S. restrictions and DeepSeek's substantial new funding, evaluate your organization's AI supply chain for potential exposure to restricted technologies and monitor the competitive landscape for advancements in open-weight models from well-capitalized international players.",
+      "tags": [
+        "funding",
+        "enterprise",
+        "security",
+        "model-release"
+      ]
+    },
+    {
+      "id": "58fe41da7be4",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "Making the case for context-aware AI",
+      "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+      "publishedAt": "2026-10-22T10:00:00.000Z",
+      "fetchedAt": "2026-10-22T17:55:04.586Z",
+      "contentText": null,
+      "summary": "Enterprise AI can provide recommendations, automate tasks, and accelerate decision-making within organizations. However, current powerful models may overlook crucial operational constraints and relationships if they lack an understanding of how a business truly functions. This presents a challenge as companies aim to integrate AI into daily operations beyond experimental stages.",
+      "enterpriseAngle": "Enterprise product development teams should prioritize building AI systems that deeply understand business operations to ensure recommendations and automations are effective and aligned with organizational constraints. Security teams must consider how context-aware AI might impact data access and privacy controls, especially as these systems gain deeper insights into internal processes.",
+      "beginner": "AI helps businesses make faster decisions and automate tasks, but it needs to understand how the business actually works to be truly useful.",
+      "advanced": "To enhance enterprise AI efficacy, integrate robust contextual understanding mechanisms that map directly to business process models and operational constraints, moving beyond generic data analysis to informed decision-making.",
+      "tags": [
+        "enterprise",
+        "product",
+        "agents"
+      ]
+    },
+    {
+      "id": "1ab6b1fbef69",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "AI's hidden storage bill: What inference leaves behind",
+      "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+      "publishedAt": "2026-10-22T08:41:18.000Z",
+      "fetchedAt": "2026-10-22T17:55:04.586Z",
+      "contentText": null,
+      "summary": "The article highlights that the significant cost of AI extends beyond just GPUs and power consumption to include data storage. It points out that a large volume of back-end data, such as daily prompts, images, and videos, is generated after a model provides a response and needs to be stored.",
+      "enterpriseAngle": "Enterprise product development and security teams must account for escalating data storage costs and associated data governance challenges when designing and deploying AI systems. This includes planning for the secure retention and eventual disposition of vast amounts of inference-generated data.",
+      "beginner": "AI systems create a lot of data that needs to be saved, and storing all that data costs money.",
+      "advanced": "Implement a robust data lifecycle management strategy for inference data, including automated tiering, retention policies, and secure deletion protocols to mitigate escalating storage costs and compliance risks.",
+      "tags": [
+        "enterprise",
+        "infrastructure",
+        "product",
+        "governance"
+      ]
+    },
+    {
+      "id": "63c31ca523f9",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "What FDE means at OpenAI",
+      "url": "https://openai.com/index/forward-deployed-engineering-means",
+      "publishedAt": "2026-10-22T06:00:00.000Z",
+      "fetchedAt": "2026-10-22T17:55:01.783Z",
+      "contentText": null,
+      "summary": "OpenAI's Forward Deployed Engineering (FDE) team helps customers integrate AI models into their operations, bridging the gap between model capabilities and practical, reliable use. The FDE team works directly with clients to solve complex, real-world problems, ensuring that AI solutions deliver tangible value and can be scaled. Their goal is to make AI applications repeatable and accessible, ultimately reducing the need for custom integration for future customers.",
+      "enterpriseAngle": "Enterprise teams can leverage FDEs to implement AI solutions for their most challenging problems, accelerating the adoption of AI and ensuring that models are effectively deployed in production environments. This approach helps product development teams identify and address real-world limitations of AI models, informing future product enhancements and research directions.",
+      "beginner": "OpenAI's FDE team helps companies use AI to solve their toughest problems, making sure the technology actually works well in real-life situations.",
+      "advanced": "To maximize AI deployment success, embed FDEs directly with customer teams to co-develop solutions, gather domain-specific insights, and iteratively refine AI applications for production, focusing on repeatable outcomes and measurable impact.",
+      "tags": [
+        "enterprise",
+        "product",
+        "workforce"
+      ]
+    },
+    {
+      "id": "ba6fa07d677a",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "publishedAt": "2026-10-22T00:00:00.000Z",
+      "fetchedAt": "2026-10-22T17:55:01.783Z",
+      "contentText": null,
+      "summary": "Uber is rolling out ChatGPT Work to over 30,000 employees globally, making it the company's first widespread deployment of an agentic AI platform for knowledge work. This expansion follows a pilot program and aims to enable employees to automate complex, multi-step tasks by connecting with daily tools like Google Drive and Slack. The platform will utilize OpenAI's frontier models, including GPT-6.1 Sol, and offer multimodal capabilities such as voice and image generation.",
+      "enterpriseAngle": "Enterprise product development and security teams should note the increasing adoption of agentic AI platforms that integrate with existing enterprise tools, requiring robust security measures for data access and workflow automation. This trend highlights the need for secure API integrations and comprehensive employee training on AI tool usage and data governance.",
+      "beginner": "Uber is giving its employees AI tools to help them do their jobs faster and more efficiently by automating many tasks.",
+      "advanced": "Implement granular access controls and data loss prevention (DLP) policies for agentic AI platforms that integrate with enterprise applications to mitigate risks associated with automated data access and workflow execution.",
+      "tags": [
+        "enterprise",
+        "agents",
+        "product",
+        "workforce"
+      ]
+    },
     {
       "id": "3acc865d1f4f",
       "source": "techcrunch-ai",
@@ -135,12 +363,17 @@
       "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
       "publishedAt": "2026-10-21T17:59:12.000Z",
       "fetchedAt": "2026-10-21T23:57:26.958Z",
-      "contentText": "The U.S. National Security Agency's sent out an alarming warning on Wednesday that two critical holes had been found in PHP, with patches already issued by the PHP Foundation . PHP is a server-side programming language so widely used for web applications that it powers roughly 70% of the websites on the internet; by some accounts, that's more than 33 million sites . It is also used by popular content management systems like WordPress. The NSA warned that these holes are so severe that if a website can't be patched immediately, it should be pulled off the web until it can be. The holes allow attackers to infiltrate the server's file system or a database that may be used by the web app. Interestingly, these holes have been tucked away in all versions of PHP since version 5, which was released in 2004. Websites not running relatively current versions of PHP will have some updating work to do, as PHP 8.1 and older versions are no longer supported. The recommendation is to update the web server to the current version of PHP, which is 8.5.12. So how did two such ubiquitous, decades-old flaws that affect nearly every website on the internet suddenly come to light? AI, naturally, particularly via OpenAI and Google's Wiz. Security testing company Calif was engaged in OpenAI's \"Patch the Planet\" initiative to find flaws in open source software. Using GPT‑5.6 Sol, it found one of the flaws, OpenAI disclosed in a blog post . Separately, the Wiz team also used AI, namely its Wiz Atlas security AI agent, Gemini 4 Argon, and GPT-5.6 Sol to find multiple vulnerabilities in PHP. Both OpenAI and Wiz followed responsible security research practices and worked with PHP on patches before publicly disclosing the flaws. Then they all worked together to flesh out what they found, and test the patches, drawing in a host of others to help. Wiz thanked Automattic, Akamai, AWS, Cloudflare, Fastly, Imperva, Microsoft, and Vercel. (While WordPress sites use PHP, WordPress has issued a statement saying that the flaw isn't WordPress specific, and sites running its CMS must patch their servers and work with their web-hosting companies to ensure their sites are protected.) OpenAI says that these flaws were found by researchers before hackers discovered them. So there were no reports of exploits in the wild. This is also in part because, before AI, these flaws were too hard for hackers to exploit. \"With AI this is no longer a barrier. LLMs can help adapt an exploit to different PHP versions, configurations and memory layouts,\" Wiz warned in its blog about the flaws. In other words, this is the kind of security issue that was found and prevented because of AI, but is also a high risk only because of AI. Now that the issue has been disclosed, hackers are fully in the know. The race is on for the internet to patch tens millions of websites before hackers can attack the unpatched ones. Hence the NSA's guidance that if you can't patch your PHP website right away, you're better off pulling it offline until you can. Topics AI , OpenAI , php , Security , wiz When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Julie Bort Venture Editor Julie Bort is the Startups/Venture Desk editor for TechCrunch. You can contact or verify outreach from Julie by emailing [email protected] or via @Julie188 on X. View Bio November 4 Boston Buy One Pass, Get a Second Free Cover more ground at TechCrunch's ultimate founder bootcamp of the year by bringing your co-founder or partner for free Book before the BOGO deal expires Register Now Most Popular People are using AI to make their smart TVs dumb again Sarah Perez Disney agrees to hire the majority of Character AI’s workforce Anthony Ha Anthropic says its workforce has become less junior and is spending more time in meetings Anthony Ha Replit makes OpenAI its default over Anthropic, CEO says Kirsten Korosec Lucas Ropek Rebecca Bellan Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept Connie Loizos India becomes the latest country to report rogue AI agent activity Aditya Mehta Tesla reveals SpaceX-powered Roadster that flies and falls with style Sean O'Kane",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Two critical, decades-old vulnerabilities have been discovered in PHP, a programming language powering approximately 70% of websites, including those using WordPress. The U.S. National Security Agency (NSA) issued an urgent warning, advising that unpatched websites should be taken offline due to the severity of these flaws, which allow attackers to access server file systems or databases. These vulnerabilities, present since PHP version 5 (2004), were uncovered by AI tools from OpenAI and Google's Wiz, highlighting AI's dual role in both finding and potentially enabling the exploitation of such complex security issues.",
+      "enterpriseAngle": "Enterprise security teams must prioritize immediate patching of PHP-based web applications to the latest version (8.5.12) or temporarily remove unpatchable sites from the internet to prevent server and database infiltration. Product development teams should recognize that AI-powered security tools are now capable of uncovering deep-seated, complex vulnerabilities that were previously too difficult for human attackers to exploit, necessitating a re-evaluation of legacy code for potential hidden risks.",
+      "beginner": "AI is helping find serious security problems in widely used website code, but it also makes it easier for bad actors to use those problems if websites aren't updated quickly.",
+      "advanced": "Leverage AI-driven security analysis tools to proactively identify and remediate deeply embedded, complex vulnerabilities in legacy codebases, recognizing that AI's ability to adapt exploits necessitates a rapid patch deployment strategy for newly disclosed flaws.",
+      "tags": [
+        "security",
+        "enterprise",
+        "research",
+        "product"
+      ]
     },
     {
       "id": "b12d9d8f2012",
@@ -349,6 +582,27 @@
         "policy",
         "governance",
         "enterprise"
+      ]
+    },
+    {
+      "id": "9201054eeb4c",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+      "url": "https://openai.com/index/cloudflare-cyber",
+      "publishedAt": "2026-10-21T00:00:00.000Z",
+      "fetchedAt": "2026-10-22T17:55:01.783Z",
+      "contentText": null,
+      "summary": "Cloudflare is using OpenAI's Daybreak and Codex to enhance its security services and developer productivity. Daybreak helps Cloudflare investigate vulnerabilities in customer code by combining OpenAI models with live traffic data and security signals, then proposes fixes. Codex is used by Cloudflare developers to accelerate product development and improve code quality, significantly reducing the time and resources needed for new projects.",
+      "enterpriseAngle": "Enterprise security teams can leverage AI models like Daybreak to automate vulnerability discovery and remediation, freeing up human experts for critical decision-making. Product development teams can integrate AI coding assistants like Codex to boost developer productivity, accelerate product delivery, and improve code quality, leading to faster innovation cycles.",
+      "beginner": "AI tools can help companies find security weaknesses in their software and build new products much faster than before.",
+      "advanced": "Integrate AI-powered vulnerability analysis tools with real-time production data and security controls to prioritize threats and automate mitigation proposals, while also deploying AI coding assistants to enhance developer velocity and code quality across engineering teams.",
+      "tags": [
+        "security",
+        "enterprise",
+        "product",
+        "coding"
       ]
     },
     {

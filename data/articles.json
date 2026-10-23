@@ -1,6 +1,90 @@
 {
-  "updatedAt": "2026-10-22T23:59:04.321Z",
+  "updatedAt": "2026-10-23T17:50:08.740Z",
   "articles": [
+    {
+      "id": "298c8de07d18",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "publishedAt": "2026-10-23T17:00:00.000Z",
+      "fetchedAt": "2026-10-23T17:49:19.368Z",
+      "contentText": null,
+      "summary": "OpenAI's storage platform, Habitat, was designed to provide fast and reliable data access for over one billion ChatGPT users across 40 regions. This article, Part II of a series, details how OpenAI optimized Azure Cosmos DB within Habitat to manage explosive growth and new use cases. The solution involved a multi-tenancy approach using co-managed containers, achieved through a partnership with the Azure team.",
+      "enterpriseAngle": "Enterprise product development teams can learn from OpenAI's journey in scaling online storage, particularly the evolution from single-tenancy to a refined multi-tenancy model to balance cost efficiency, reliability, and performance. This approach highlights the importance of strategic partnerships with cloud providers to optimize infrastructure for massive user bases and diverse workloads.",
+      "beginner": "OpenAI built a special storage system called Habitat to make sure ChatGPT can quickly and reliably get information to its many users.",
+      "advanced": "When scaling global online storage, consider a co-managed multi-tenancy strategy with cloud providers, leveraging integrated caching and data movement capabilities to optimize read performance and mitigate noisy neighbor issues in high-throughput, geographically distributed environments.",
+      "tags": [
+        "infrastructure",
+        "enterprise",
+        "product",
+        "partnership"
+      ]
+    },
+    {
+      "id": "3602c8887bef",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
+      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "publishedAt": "2026-10-23T04:00:00.000Z",
+      "fetchedAt": "2026-10-23T17:49:22.999Z",
+      "contentText": null,
+      "summary": "Ride-hailing company inDrive is partnering with Pony.ai and Nvidia to begin testing robotaxis in Kazakhstan's capital, Astana, in the first half of 2027. Pony.ai will provide its Gen-7 robotaxis, which inDrive will operate through its app, while Nvidia will supply its Hyperion platform and Halos safety system. This initiative aims to evaluate autonomous driving technology in challenging winter conditions and expand robotaxi services beyond traditional markets.",
+      "enterpriseAngle": "Enterprise product development teams in autonomous vehicle technology can leverage Nvidia's Hyperion platform to reduce development costs and accelerate deployment, especially in emerging markets where cost-effectiveness is crucial. This partnership also highlights the growing trend of ride-hailing companies expanding into robotaxi services, requiring robust integration and operational strategies.",
+      "beginner": "Companies like inDrive are working with AI experts to create self-driving taxis that will be tested in new places like Kazakhstan, aiming to make rides safer and more affordable.",
+      "advanced": "To capitalize on the expansion of autonomous ride-hailing into diverse geographic and climatic conditions, evaluate the adaptability of your AI models and sensor suites for extreme weather, leveraging synthetic data generation tools for robust pre-deployment testing.",
+      "tags": [
+        "enterprise",
+        "product",
+        "partnership",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "8937fd9c8277",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "publishedAt": "2026-10-23T00:45:37.000Z",
+      "fetchedAt": "2026-10-23T17:49:22.999Z",
+      "contentText": null,
+      "summary": "MIT researchers observed AI agents, running on Claude Opus 4.7, inventing their own challenges and learning new skills while exploring a virtual island without specific instructions. These \"playing\" agents performed better on subsequent tasks compared to those that hadn't explored. This suggests a new method for AI to acquire knowledge and abilities by allowing them to freely interact with their environment.",
+      "enterpriseAngle": "This research indicates that allowing AI agents to engage in open-ended exploration could lead to more robust and adaptable enterprise AI solutions, potentially reducing the need for extensive pre-programmed training scenarios. Enterprise product development teams might consider integrating such 'play' mechanisms to foster emergent capabilities in AI-powered tools and robots.",
+      "beginner": "AI programs can learn new things just by playing and exploring, similar to how children learn.",
+      "advanced": "Consider implementing curiosity-driven exploration and intrinsic motivation mechanisms in agentic systems to foster emergent skill acquisition and world knowledge, potentially leading to more generalized and resilient AI behaviors.",
+      "tags": [
+        "agents",
+        "research",
+        "learning",
+        "product"
+      ]
+    },
+    {
+      "id": "15c1f8ef7a58",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "publishedAt": "2026-10-23T00:00:00.000Z",
+      "fetchedAt": "2026-10-23T17:49:19.368Z",
+      "contentText": null,
+      "summary": "OpenAI and Poland's NASK National Research Institute have partnered to collaborate on AI safety, security, and technical research. This agreement aims to combine their expertise to understand emerging risks, enhance safeguards, and explore how advanced AI can contribute to a more secure digital environment. The collaboration will involve NASK's AI Safety Research Center, which serves as the Polish Artificial Intelligence Safety Institute, working with OpenAI on evaluating AI systems and identifying vulnerabilities.",
+      "enterpriseAngle": "This partnership highlights the growing importance of international collaboration between AI developers and public research institutions to establish robust AI safety standards and strengthen safeguards against emerging risks. For enterprises, this means a future with potentially more secure and reliable AI systems, but also a need to stay informed on evolving international safety guidelines and best practices.",
+      "beginner": "Companies like OpenAI are working with research groups in different countries to make sure AI is safe and secure as it becomes more powerful.",
+      "advanced": "Actively engage with international AI safety institutes and contribute to the development of common technical standards for frontier AI to ensure your enterprise's AI deployments align with global best practices and mitigate cross-border risks.",
+      "tags": [
+        "partnership",
+        "security",
+        "research",
+        "governance"
+      ]
+    },
     {
       "id": "6372ebaa66c8",
       "source": "techcrunch-ai",
@@ -448,12 +532,17 @@
       "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
       "publishedAt": "2026-10-21T22:45:34.000Z",
       "fetchedAt": "2026-10-22T23:56:11.357Z",
-      "contentText": "Meta is making a big push into AI, and it’s creating a new kind of stock that could help pay for it. On Wednesday, as the company reported its third-quarter earnings, Semafor reported the company might issue non-voting stock, meaning shares that don't give their owners a vote on company decisions, to help fund its push into artificial intelligence. During Meta's earnings call, the company confirmed that reporting. Meta's chief financial officer, Susan Li, said the company plans to \"create a new class of non-voting capital stock, which will be distributed to all existing shareholders through a stock dividend.\" Li later added that the company \"created this new class of shares with the purpose of creating a publicly traded non-voting stock usable for capital raising, employee compensation, acquisitions, and other general corporate purposes while preserving the voting power of existing Class A and B shareholders.\" The shares will allow the company to maintain its current \"founder-led structure,\" she added. They will also expand its \"funding tools and give us flexibility to invest behind the unprecedented momentum we're seeing across every part of our business, driven by AI.\" Meta's earnings were strong this past quarter, beating Wall Street expectations. The company made $64 billion in revenue, a jump of 26% from a year earlier. Its costs and expenses also rose, however, by 68% year-over-year. Reality Labs, the division responsible for Meta's AR glasses, VR headsets, and VR software, continues to lose money, though less than it used to. The company said in its earnings report that it expects the division's losses to shrink from its 2025 levels to between $18 billion and $19 billion. Meta has made a big push into AI over the past year. The company has released several AI models, including Muse Spark and Muse Glimmer earlier this year. In recent weeks, it added Muse Wonder and Muse Spark Open, an open-weight model whose underlying parameters are publicly available for outsiders to use and build on. Meta also launched a coding agent for software developers called Muse Code. At its Meta Connect event this year, the company announced a new line of cute and cuddly avatars for AI assistant, Meta Muse, in a push to make its AI services more relatable (and also meme-able ). As far as can be discerned, those AI products are doing well. \"In just a month and a half, more than 10 million people in the U.S. and Canada have set up Muse personal agents,\" CEO Mark Zuckerberg said during Wednesday's earnings call. \"Growth continues to be strong, and we have been number one in the App Store almost every day.\" \"Now that Muse has clear product-market fit, we are entering a new phase and a more operational phase that is focused on scaling it,\" Zuckerberg added, claiming later that the company expects to grow the product's appeal to eventually \"serve billions of people.\" The company also noted that certain storm clouds linger on the horizon in the form of ongoing regulatory and legal issues. \"We continue to monitor active legal and regulatory matters that could significantly impact our business and financial results,\" said Li. \"For example, we continue to see scrutiny on youth-related issues in several markets, and have a number of youth-related trials scheduled in the coming months in the United States.\" Topics AI , Facebook , Mark Zuckerberg , Meta , muse , Social When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Lucas Ropek Senior Writer, TechCrunch Lucas is a senior writer at TechCrunch, where he covers artificial intelligence, consumer tech, and startups. He previously covered AI and cybersecurity at Gizmodo. You can contact Lucas by emailing [email protected] . View Bio November 4 Boston Buy One Pass, Get a Second Free Cover more ground at TechCrunch's ultimate founder bootcamp of the year by bringing your co-founder or partner for free Book before the BOGO deal expires Register Now Most Popular Airbnb limits chores for guests, sparking backlash from hosts Lauren Forristal Tesla starts Optimus robot production in California as profit falls 43% Kirsten Korosec Sean O'Kane The internet is having a very bad cybersecurity day Sarah Perez People are using AI to make their smart TVs dumb again Sarah Perez Anthropic says its workforce has become less junior and is spending more time in meetings Anthony Ha Replit makes OpenAI its default over Anthropic, CEO says Kirsten Korosec Lucas Ropek Rebecca Bellan Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept Connie Loizos",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Meta plans to issue a new class of non-voting stock to fund its significant expansion into AI, which includes releasing several AI models and a coding agent. This new stock will allow Meta to raise capital, compensate employees, and make acquisitions while maintaining its current founder-led structure. The company reported strong third-quarter earnings, with revenue up 26%, despite increased expenses and continued losses in its Reality Labs division.",
+      "enterpriseAngle": "Enterprises like Meta are exploring innovative financial strategies, such as creating new stock classes, to fund large-scale AI initiatives, demonstrating the significant capital investment required for competitive AI development. This approach allows companies to scale AI product development and infrastructure without diluting existing shareholder voting power.",
+      "beginner": "Meta is creating a special type of stock that doesn't come with voting rights to help pay for its big push into artificial intelligence.",
+      "advanced": "Evaluate the potential impact of Meta's non-voting stock issuance on capital structure, investor relations, and long-term funding flexibility for AI-driven growth, considering its implications for governance and strategic acquisitions.",
+      "tags": [
+        "enterprise",
+        "funding",
+        "product",
+        "model-release"
+      ]
     },
     {
       "id": "bee997298d40",

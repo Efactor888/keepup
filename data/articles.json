@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-10-24T16:31:28.215Z",
+  "updatedAt": "2026-10-24T23:02:57.354Z",
   "articles": [
+    {
+      "id": "dbe76530e989",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "The AI graveyard: a running list of projects and startups that didn't make it",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "publishedAt": "2026-10-24T19:00:00.000Z",
+      "fetchedAt": "2026-10-24T23:02:47.808Z",
+      "contentText": null,
+      "summary": "Many AI projects and startups, including workflow tool Relay and chatbot platform Character.ai, have failed due to various reasons such as competition, technical challenges, or lack of user demand. Even major players like OpenAI have experienced setbacks, such as a confusing ChatGPT redesign and the discontinuation of stand-alone apps like ChatGPT Atlas and Sora. About 42% of AI initiatives are abandoned by their corporate parents, highlighting the high rate of failure in the rapidly evolving AI industry.",
+      "enterpriseAngle": "Enterprise product development teams should carefully consider market demand, competitive landscape, and technical feasibility before investing heavily in AI initiatives, as many projects fail or are absorbed into larger platforms. Security and privacy concerns, as seen with Microsoft's Recall, can significantly delay or derail product launches, requiring robust safeguards and transparent communication.",
+      "beginner": "Many AI products and companies don't succeed because they face tough competition, technical problems, or people just don't want to use them.",
+      "advanced": "When developing new AI products, prioritize clear value propositions and user experience, and be prepared to iterate rapidly or pivot, as even established companies like OpenAI struggle with product-market fit and user adoption.",
+      "tags": [
+        "enterprise",
+        "product",
+        "security",
+        "agents"
+      ]
+    },
     {
       "id": "688136660c10",
       "source": "techcrunch-ai",

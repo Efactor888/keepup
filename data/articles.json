@@ -1,6 +1,69 @@
 {
-  "updatedAt": "2026-10-23T23:48:50.602Z",
+  "updatedAt": "2026-10-24T16:31:28.215Z",
   "articles": [
+    {
+      "id": "688136660c10",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Block's new voice model sounds eerily human",
+      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "publishedAt": "2026-10-24T16:00:00.000Z",
+      "fetchedAt": "2026-10-24T16:31:00.057Z",
+      "contentText": null,
+      "summary": "Block's research lab has developed Dessa, a new full-duplex voice model that runs locally on consumer-grade hardware and is trained entirely on human speech. Dessa is designed to sound highly human-like, incorporating emotions, pauses, and natural cadences, unlike many current models that rely on text-driven speech generation. Block is currently seeking safety researchers to test the model, which is not yet publicly available.",
+      "enterpriseAngle": "This on-device, emotionally nuanced voice model could significantly enhance customer service and interaction for enterprises, particularly in sectors like finance and retail, by providing more natural and cost-effective AI-powered conversational experiences. Enterprise product development teams could integrate Dessa for more engaging and personalized user interfaces without relying on cloud-based processing.",
+      "beginner": "Block has created an AI that can talk and listen like a real person, even showing emotions, and it can run on your personal computer.",
+      "advanced": "Investigate Dessa's local processing capabilities and emotional intelligence for potential integration into edge AI applications requiring highly naturalistic, low-latency voice interactions, while also scrutinizing its safety and ethical implications for mitigating misuse.",
+      "tags": [
+        "model-release",
+        "research",
+        "product",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "e4ac1d3f295a",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "publishedAt": "2026-10-24T15:00:00.000Z",
+      "fetchedAt": "2026-10-24T16:31:00.057Z",
+      "contentText": null,
+      "summary": "A new study found that when forced to recommend a candidate in upcoming midterm elections, SpaceXAI’s Grok 4.7 favored Republican candidates in 92% of answers, while OpenAI’s GPT-6.1 Sol recommended Democrats in 97%. The study, conducted by Convovo, highlighted that while consumer-facing chatbot apps refused to answer directly, their underlying models accessed via API exhibited strong political leanings. Researchers also noted that these biases could be observed in the models' search patterns and preferred sources.",
+      "enterpriseAngle": "Enterprise product development teams integrating AI models via APIs must be aware of potential hidden biases in underlying models, as these can influence outputs and user experiences, even if consumer-facing applications are designed for neutrality. This underscores the need for thorough testing and understanding of model behavior beyond surface-level interactions to ensure fairness and objectivity in AI-powered solutions.",
+      "beginner": "AI models, even when designed to be neutral, can show political preferences when asked specific questions, which might influence the information they provide.",
+      "advanced": "When evaluating LLMs for integration, conduct adversarial testing on API access to uncover latent biases in model weights and search heuristics, particularly when internet search is enabled, to mitigate unintended political or ideological alignment.",
+      "tags": [
+        "research",
+        "governance",
+        "product",
+        "model-release"
+      ]
+    },
+    {
+      "id": "4a535eced667",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "publishedAt": "2026-10-24T14:00:00.000Z",
+      "fetchedAt": "2026-10-24T16:31:00.057Z",
+      "contentText": null,
+      "summary": "A new wave of AI agents is emerging, allowing users to interact with them via text messages rather than dedicated apps. These agents can remember context, connect to existing services, and complete various tasks like scheduling, organizing, researching, and online shopping. Notable examples include Ask Proxy, Caddy, Comma, Fambot, Folk, and Instinct, each offering unique features for personal, family, or work-related assistance.",
+      "enterpriseAngle": "Enterprise teams can leverage work-focused AI agents like Ask Proxy and Comma to streamline employee tasks and potentially improve productivity, while also considering solutions that keep personal data off company systems. The ability of these agents to integrate with existing communication channels and manage complex workflows offers new avenues for operational efficiency.",
+      "beginner": "AI agents are like smart assistants you can text, helping you with daily tasks without needing to download new apps.",
+      "advanced": "Evaluate the integration capabilities and data privacy controls of text-based AI agents for enterprise deployment, focusing on their ability to perform multi-step tasks and maintain context across diverse platforms.",
+      "tags": [
+        "agents",
+        "product",
+        "enterprise",
+        "consumer"
+      ]
+    },
     {
       "id": "f699a3e5cdaf",
       "source": "techcrunch-ai",

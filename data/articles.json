@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-10-25T17:01:17.961Z",
+  "updatedAt": "2026-10-25T23:07:52.468Z",
   "articles": [
+    {
+      "id": "bf7f18e0418c",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "publishedAt": "2026-10-25T21:31:16.000Z",
+      "fetchedAt": "2026-10-25T23:07:43.049Z",
+      "contentText": null,
+      "summary": "Grok has released the first seven minutes of its AI-generated \"Odyssey\" series, three months after Elon Musk announced a full-length, \"historically accurate\" movie. This release follows Musk's previous criticism of Christopher Nolan's version of \"The Odyssey\" for its casting choices. The reviewer found Grok's AI-generated footage to be visually passable in moments but lacking in artistry, inspiration, and human interest.",
+      "enterpriseAngle": "For enterprise product development teams, this highlights the current limitations of AI in generating compelling, long-form creative content, suggesting that while AI can produce technically proficient visuals, human artistic direction remains crucial for engaging narratives. Enterprises leveraging AI for content creation should focus on integrating human oversight to ensure quality and emotional resonance.",
+      "beginner": "AI can create videos that look real, but making them interesting and meaningful still needs a lot of human creativity.",
+      "advanced": "When developing AI-powered content generation tools, prioritize the integration of robust human-in-the-loop mechanisms for artistic direction and narrative refinement to overcome the current limitations in producing emotionally resonant and engaging long-form media.",
+      "tags": [
+        "product",
+        "consumer",
+        "research"
+      ]
+    },
     {
       "id": "b23877b88e69",
       "source": "techcrunch-ai",

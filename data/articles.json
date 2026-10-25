@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-10-24T23:02:57.354Z",
+  "updatedAt": "2026-10-25T17:01:17.961Z",
   "articles": [
+    {
+      "id": "b23877b88e69",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "AI delivers ‘zero financial payoff’ to most companies, according to Apollo economist",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "publishedAt": "2026-10-25T16:57:32.000Z",
+      "fetchedAt": "2026-10-25T17:00:55.067Z",
+      "contentText": null,
+      "summary": "According to an Apollo Global Management economist, AI has not yet provided financial benefits to most large corporations outside of the tech industry. A study of the S&P 493 (S&P 500 excluding major tech companies) found no evidence that AI is improving profit margins or revenue per worker. The economist suggests that AI's inability to understand human elements like judgment, accountability, and ethical trade-offs may limit its business impact.",
+      "enterpriseAngle": "Enterprise leaders should critically evaluate AI investments, as current data suggests a lack of direct financial payoff for non-tech companies. Focus should be on integrating AI in ways that address nuanced business challenges beyond pure calculation, considering aspects like reputational risk and ethical implications.",
+      "beginner": "Even though there's a lot of excitement about AI, it hasn't made most companies outside of big tech more profitable yet.",
+      "advanced": "When deploying AI solutions, prioritize use cases that leverage AI's analytical strengths while carefully designing human-in-the-loop processes to address the 'judgment' gap and mitigate reputational risks.",
+      "tags": [
+        "enterprise",
+        "research",
+        "governance"
+      ],
+      "dateChecked": true
+    },
+    {
+      "id": "611184d5aa6f",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "publishedAt": "2026-10-25T14:10:00.000Z",
+      "fetchedAt": "2026-10-25T17:00:55.067Z",
+      "contentText": null,
+      "summary": "The market is seeing a rise in AI-powered wearable and portable gadgets, including devices like Bee, Friend, Limitless, Muse Charm, Nirva, Omi, Plaud NotePin, and Rabbit R1. These devices offer various functionalities, from recording conversations and providing summaries to acting as emotional support companions and personal growth tools. Companies like Amazon and Meta are also entering this space, indicating a growing trend toward integrating AI into daily life through specialized hardware.",
+      "enterpriseAngle": "Enterprise product development teams should observe the diverse applications and form factors of these AI wearables to identify opportunities for integrating AI into their own products, particularly for productivity, communication, and specialized professional tools. Security teams should consider the data privacy implications of always-listening devices and develop robust policies and controls for any enterprise-deployed AI wearables.",
+      "beginner": "New AI gadgets are emerging that can help with daily tasks, record information, or even act as companions.",
+      "advanced": "Evaluate the integration of on-device AI processing versus cloud-based AI for these wearables to optimize for latency, privacy, and power consumption in enterprise applications.",
+      "tags": [
+        "product",
+        "consumer",
+        "enterprise",
+        "hardware"
+      ]
+    },
     {
       "id": "dbe76530e989",
       "source": "techcrunch-ai",

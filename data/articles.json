@@ -1,6 +1,188 @@
 {
-  "updatedAt": "2026-10-25T23:07:52.468Z",
+  "updatedAt": "2026-10-26T19:09:07.175Z",
   "articles": [
+    {
+      "id": "f7b9bc5b7e40",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "Will the real Anthropic please stand up",
+      "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+      "publishedAt": "2026-10-26T17:45:43.000Z",
+      "fetchedAt": "2026-10-26T19:07:37.672Z",
+      "contentText": null,
+      "summary": "Anthropic has filed its initial public offering (IPO) prospectus, a 335-page document that includes approximately 100 pages dedicated to outlining potential risks. This filing follows weeks of speculation regarding the company's public market debut.",
+      "enterpriseAngle": "The IPO prospectus provides enterprises with insights into Anthropic's operational philosophy and risk assessment, which can inform decisions about adopting or partnering with their AI technologies. Understanding the disclosed risks is crucial for enterprise-level due diligence and strategic planning.",
+      "beginner": "Anthropic, an AI company, is preparing to offer its shares to the public for the first time, detailing its business and potential challenges in a large document.",
+      "advanced": "Review Anthropic's IPO prospectus, particularly the risk factors, to assess potential long-term stability and compliance implications for integrating their models into enterprise solutions.",
+      "tags": [
+        "enterprise",
+        "funding",
+        "policy"
+      ]
+    },
+    {
+      "id": "8d6b6f60f40a",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+      "publishedAt": "2026-10-26T16:49:42.000Z",
+      "fetchedAt": "2026-10-26T19:07:37.391Z",
+      "contentText": null,
+      "summary": "Anthropic's IPO filing indicates that over half of its customers spending more than $100,000 are utilizing both the Claude Platform and a first-party application. This strategy, which involves cross-selling, is reportedly increasing customer retention among its enterprise clients.",
+      "enterpriseAngle": "Enterprise product teams can learn from Anthropic's strategy of integrating platform services with first-party applications to enhance customer stickiness and drive adoption across their offerings. This approach can lead to more robust customer relationships and increased revenue per client.",
+      "beginner": "Anthropic is making its business customers more loyal by getting them to use two of its products together.",
+      "advanced": "To replicate Anthropic's success in enterprise stickiness, product leaders should analyze their customer base for opportunities to cross-sell platform services with proprietary applications, focusing on integrated value propositions.",
+      "tags": [
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "623265788782",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+      "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+      "publishedAt": "2026-10-26T16:46:36.000Z",
+      "fetchedAt": "2026-10-26T19:07:37.391Z",
+      "contentText": null,
+      "summary": "SpaceX has secured a $40 billion financing commitment to acquire AI chips and associated data center equipment. The company stated this represents the largest committed GPU financing deal to date.",
+      "enterpriseAngle": "This massive investment highlights the growing need for substantial capital to fund AI infrastructure, indicating that enterprises will face increasing costs and competition for essential AI hardware.",
+      "beginner": "Companies are spending huge amounts of money to buy special computer chips needed for AI.",
+      "advanced": "Evaluate your AI infrastructure roadmap and budget for significant capital expenditure or explore financing options to secure necessary GPU resources amidst rising demand.",
+      "tags": [
+        "infrastructure",
+        "funding",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "188e9fbc4643",
+      "source": "google-ai",
+      "sourceName": "Google AI",
+      "tier": "realtime",
+      "title": "Our newest AI Quest: Mapping the human brain",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+      "publishedAt": "2026-10-26T16:00:00.000Z",
+      "fetchedAt": "2026-10-26T19:07:35.387Z",
+      "contentText": null,
+      "summary": "Google Research and the Stanford Accelerator for Learning have launched \"Polar Peaks,\" an interactive AI Quest designed for students aged 11 to 14. This program teaches students about mapping the human brain using AI, emphasizing data cleaning, model testing, and the importance of human oversight. It is the third quest in a series that has seen over 400,000 completions and is available in 10 languages.",
+      "enterpriseAngle": "This initiative highlights the growing need for AI literacy across all age groups, suggesting that future workforces will require foundational understanding of AI principles, data handling, and responsible AI use. Enterprise product development teams can learn from this educational approach to simplify complex AI concepts for broader user adoption.",
+      "beginner": "AI Quests help young students understand how artificial intelligence can be used to solve real-world problems, like mapping the brain, while also learning about responsible technology use.",
+      "advanced": "Integrate educational frameworks that emphasize human oversight and critical thinking in AI applications, similar to the \"Polar Peaks\" quest, into internal training programs to foster responsible AI development and deployment.",
+      "tags": [
+        "research",
+        "learning",
+        "product",
+        "workforce"
+      ]
+    },
+    {
+      "id": "edf59637f599",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+      "url": "https://www.anthropic.com/news/s1-sec",
+      "publishedAt": "2026-10-26T15:04:18.000Z",
+      "fetchedAt": "2026-10-26T19:07:34.200Z",
+      "contentText": null,
+      "summary": "Anthropic, PBC has filed an S-1 registration statement with the U.S. Securities and Exchange Commission (SEC) for its proposed initial public offering (IPO) of Class A common stock. The company plans to list its shares on the Nasdaq Global Select Market under the ticker symbol \"ANT.\" The specific number of shares and the price range for the offering are yet to be determined.",
+      "enterpriseAngle": "This IPO indicates Anthropic's move to public ownership, which could impact its long-term strategy, funding for AI research and development, and its competitive position within the enterprise AI market. Enterprises relying on Anthropic's models may see shifts in product offerings or support as the company navigates public market expectations.",
+      "beginner": "Anthropic, a company that makes AI, is planning to sell its shares to the public for the first time, allowing people to invest in it.",
+      "advanced": "Monitor Anthropic's S-1 filing for insights into its financial health, growth strategies, and risk factors, which could inform partnership decisions or competitive analysis in the AI landscape.",
+      "tags": [
+        "funding",
+        "enterprise"
+      ],
+      "dateChecked": true
+    },
+    {
+      "id": "7ca6b100a30f",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Anthropic officially files for its public debut",
+      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+      "publishedAt": "2026-10-26T14:35:22.000Z",
+      "fetchedAt": "2026-10-26T19:07:37.391Z",
+      "contentText": null,
+      "summary": "Anthropic has officially filed for an Initial Public Offering (IPO). The filing revealed significant revenue growth alongside increasing financial losses. It also highlighted substantial adoption of its AI products by enterprise clients.",
+      "enterpriseAngle": "Enterprises considering Anthropic's AI solutions should note the company's rapid growth and increasing losses, which could impact future product development and support. The unique governance structure, designed to maintain founder control and its AI safety mission, may influence long-term strategic stability and ethical AI alignment.",
+      "beginner": "Anthropic, a company that makes AI, is planning to sell shares to the public for the first time, even though it's making more money but also losing more money.",
+      "advanced": "Evaluate Anthropic's S-1 filing for detailed financial health, enterprise customer growth metrics, and the implications of its dual-class share structure on long-term innovation and market responsiveness.",
+      "tags": [
+        "enterprise",
+        "funding",
+        "governance"
+      ]
+    },
+    {
+      "id": "64d59b55a8fb",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "ChatGPT’s expanding world of work",
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "publishedAt": "2026-10-26T10:00:00.000Z",
+      "fetchedAt": "2026-10-26T19:07:35.018Z",
+      "contentText": null,
+      "summary": "OpenAI has released new \"OpenAI Signals\" data, covering 165 work activities across nearly 100 countries, to help researchers understand how consumers use ChatGPT for work. This data, spanning from Q1 2025 to Q3 2026, reveals variations in ChatGPT usage patterns across different countries and over time. Researchers can use this information to study AI's economic impact and compare ChatGPT usage with other economic indicators.",
+      "enterpriseAngle": "Enterprise product development teams can leverage this data to understand consumer-level AI adoption patterns and tailor future AI tools and features to align with evolving work activities. Security teams should note that this data specifically excludes enterprise messages, meaning insights into enterprise-specific AI security challenges are not directly available here.",
+      "beginner": "OpenAI is sharing data to show how people around the world use ChatGPT for different work tasks, like writing or coding.",
+      "advanced": "Integrate the OpenAI Signals data with existing labor market analytics to identify emerging skill gaps and inform workforce development strategies, particularly in regions showing specialized AI-driven work activity shifts.",
+      "tags": [
+        "research",
+        "workforce",
+        "product",
+        "governance"
+      ]
+    },
+    {
+      "id": "67160bc1e72b",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "The focus on AI safety disasters ignores everyday harms",
+      "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+      "publishedAt": "2026-10-26T09:01:00.000Z",
+      "fetchedAt": "2026-10-26T19:07:37.672Z",
+      "contentText": null,
+      "summary": "The article argues that current AI safety policies often focus on preventing extreme, hypothetical disasters while overlooking the more common, everyday harms caused by AI products. It suggests that companies can meet basic safety requirements without addressing broader ethical concerns in their product development. The author implies that a narrow focus on preventing catastrophic events distracts from the ongoing negative impacts of AI in daily life.",
+      "enterpriseAngle": "Enterprise product development teams should broaden their AI safety considerations beyond catastrophic scenarios to include the cumulative impact of everyday harms. Security teams must integrate ethical considerations into their threat modeling to address subtle, pervasive risks rather than just headline-grabbing vulnerabilities.",
+      "beginner": "AI safety is not just about preventing huge, rare problems, but also about stopping the smaller, common ways AI can cause harm every day.",
+      "advanced": "Implement a comprehensive ethical AI framework that proactively identifies and mitigates systemic biases and subtle negative externalities throughout the entire product lifecycle, rather than solely reacting to high-profile safety incidents.",
+      "tags": [
+        "policy",
+        "product",
+        "governance"
+      ]
+    },
+    {
+      "id": "eb7708c5f537",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "How Fanatics and OpenAI streamline the fan experience",
+      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+      "publishedAt": "2026-10-26T07:00:00.000Z",
+      "fetchedAt": "2026-10-26T19:07:35.018Z",
+      "contentText": null,
+      "summary": "Fanatics and OpenAI have partnered to enhance the fan shopping experience with a new \"Shop the Look\" feature, powered by OpenAI's models. This feature recommends coordinated sports merchandise to help fans create complete game-day outfits. The AI-powered recommendations, which draw on product and inventory data, have led to a 10% increase in engagement compared to the previous version.",
+      "enterpriseAngle": "Enterprise product development teams can leverage AI models like ChatGPT and Codex to rapidly prototype and scale new features, as demonstrated by Fanatics' ability to test and deploy a recommendation system across thousands of products in a short timeframe. This partnership highlights how AI can drive higher customer engagement and streamline e-commerce operations by automating complex merchandising tasks.",
+      "beginner": "AI can help online stores suggest matching items to customers, making shopping easier and more engaging.",
+      "advanced": "Integrate large language models and code generation tools into your product development lifecycle to accelerate prototyping, data enrichment, and recommendation engine deployment, aiming for rapid iteration and measurable engagement improvements.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "product",
+        "coding"
+      ]
+    },
     {
       "id": "bf7f18e0418c",
       "source": "techcrunch-ai",
@@ -61,6 +243,26 @@
         "consumer",
         "enterprise",
         "hardware"
+      ]
+    },
+    {
+      "id": "c95cc9144761",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Will AI expose the rickety infrastructure of the internet?",
+      "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+      "publishedAt": "2026-10-24T20:15:33.000Z",
+      "fetchedAt": "2026-10-26T19:07:37.391Z",
+      "contentText": null,
+      "summary": "Recent vulnerabilities discovered in the open-source programming language PHP have forced website owners to immediately patch their sites or take them offline. This incident highlights the fragile nature of the internet's core infrastructure, which relies heavily on decades-old open-source technologies. Experts suggest that the widespread availability of AI models and agents could make it easier to uncover and exploit such vulnerabilities in the future, despite these specific flaws being found by human researchers.",
+      "enterpriseAngle": "Enterprise security teams must prioritize patching critical vulnerabilities in foundational open-source components like PHP, which underpins a vast percentage of the web. Product development teams should also consider the long-term security implications of relying on aging infrastructure and the potential for AI to accelerate the discovery of latent flaws.",
+      "beginner": "The internet relies on many old, basic software components, and newly found problems in these can make many websites unsafe.",
+      "advanced": "Proactively audit legacy open-source dependencies using advanced static analysis tools and participate in vulnerability disclosure programs to mitigate risks before AI-powered agents can exploit decades-old, unpatched flaws at scale.",
+      "tags": [
+        "security",
+        "infrastructure",
+        "enterprise"
       ]
     },
     {

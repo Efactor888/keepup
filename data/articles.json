@@ -1,6 +1,193 @@
 {
-  "updatedAt": "2026-10-27T00:20:16.314Z",
+  "updatedAt": "2026-10-27T18:39:06.745Z",
   "articles": [
+    {
+      "id": "8a93bec2dc7c",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+      "publishedAt": "2026-10-27T17:08:08.000Z",
+      "fetchedAt": "2026-10-27T18:37:35.480Z",
+      "contentText": null,
+      "summary": "OpenAI and Anthropic claim their AI models have refuted the Exponential Time Hypothesis (ETH), a long-standing computer science assumption about the difficulty of solving certain problems. This refutation suggests that some complex problems, previously thought to require exponentially more time to solve as variables increase, might be solvable in sub-exponential time. The scientific community is now evaluating these claims and discussing the implications for foundational computer science.",
+      "enterpriseAngle": "If these claims hold, enterprise product development teams could explore new algorithms for optimization and complex problem-solving, potentially leading to faster processing in areas like logistics, data analysis, and scientific computing. Enterprise security teams should note that while OpenAI claims no immediate cryptographic breaks, such fundamental shifts in computational complexity could eventually impact the security of current cryptographic systems, requiring ongoing vigilance and adaptation.",
+      "beginner": "AI models are challenging a basic idea in computer science about how hard certain problems are to solve, potentially making some difficult tasks much faster.",
+      "advanced": "Evaluate the implications of sub-exponential time algorithms for NP-hard problems on existing computational complexity assumptions and consider potential long-term impacts on cryptographic system design, despite current assurances of no immediate breaks.",
+      "tags": [
+        "research",
+        "science",
+        "security",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "a30b4228516c",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+      "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+      "publishedAt": "2026-10-27T16:30:57.000Z",
+      "fetchedAt": "2026-10-27T18:37:35.480Z",
+      "contentText": null,
+      "summary": "Google DeepMind has released Genie 4, a new world model that generates highly realistic and interactive virtual environments with real-time audio. Users can modify scenes mid-simulation, and the model can maintain consistent scenes for up to two minutes. Genie 4 is also integrated with Google's Gemini AI model to plan and simulate tasks, particularly for robotics.",
+      "enterpriseAngle": "Enterprise product development teams can leverage Genie 4 for rapid prototyping in areas like film ideation and robotics simulation, allowing for quicker iteration and testing of complex scenarios before real-world deployment. The ability to generate and modify interactive worlds in real-time offers significant efficiency gains for design and testing workflows.",
+      "beginner": "Google's new AI can create realistic virtual worlds with sound that you can change as you play, making it useful for games, learning, and even testing robots.",
+      "advanced": "Integrate Genie 4 via the Gemini API or Google AI Studio to explore real-time simulation for robotics task planning and rapid creative prototyping, focusing on maintaining scene consistency and addressing audio/text legibility in longer simulations.",
+      "tags": [
+        "model-release",
+        "product",
+        "research",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "b7dc23ae3cdc",
+      "source": "deepmind",
+      "sourceName": "Google DeepMind",
+      "tier": "realtime",
+      "title": "We’re announcing Genie 4, our new world model for real-time interactive simulation.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-genie-4/",
+      "publishedAt": "2026-10-27T16:00:00.000Z",
+      "fetchedAt": "2026-10-27T18:37:33.664Z",
+      "contentText": null,
+      "summary": "Google DeepMind has unveiled Genie 4, a new \"world model\" designed for real-time interactive simulations. This model integrates capabilities from the Gemini family, including Gemini Omni for realistic appearance and behavior, and other Gemini models for maintaining simulation coherence. Genie 4 allows users to control simulations with natural language, generate native audio, and is being rolled out to a limited group of testers, with wider availability planned for Google AI Ultra subscribers and early access partners.",
+      "enterpriseAngle": "Enterprise product development teams can leverage Genie 4 for creating realistic and interactive simulation environments, which are crucial for safe training of robots and agents, and for enhancing creative tools in sectors like filmmaking, gaming, and manufacturing. This offers new avenues for prototyping, testing, and content generation.",
+      "beginner": "Google DeepMind's new AI, Genie 4, can create realistic virtual worlds that you can control with your voice, making it easier to train AI robots and create new kinds of digital content.",
+      "advanced": "Explore the integration of Genie 4 via the Gemini API or AI Studio to develop advanced simulation-based training modules for autonomous systems or to enhance real-time content generation workflows.",
+      "tags": [
+        "model-release",
+        "research",
+        "product",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "bb124f9e261c",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+      "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+      "publishedAt": "2026-10-27T14:59:09.000Z",
+      "fetchedAt": "2026-10-27T18:37:35.480Z",
+      "contentText": null,
+      "summary": "Rohit Patel, a former director at Meta Superintelligence Labs, has launched Ndoc, a startup aiming to replace traditional office suites like Microsoft Office and Google Workspace with an AI-native unified workspace. Ndoc integrates presentations, analyses, and underlying datasets/scripts into a single platform, allowing users to verify AI-generated content by examining the Python code. Patel designed Ndoc to streamline fragmented workflows and plans to open-source its unique file format for broader adoption.",
+      "enterpriseAngle": "Enterprise product development teams should note Ndoc's approach to integrating diverse workflows and providing transparency into AI-generated outputs, which could inform future strategies for building more verifiable and unified AI-powered tools. Security teams might consider the implications of open-sourcing document formats and the need for robust controls around data handling within such integrated AI environments.",
+      "beginner": "Ndoc is a new kind of software that uses AI to combine all your work tools, like Word and Excel, into one place, making it easier to see how AI creates documents and check its work.",
+      "advanced": "Evaluate Ndoc's open-source .ndoc.html format for potential integration into existing enterprise data ecosystems, while also assessing its cost-efficiency and transparency features against current frontier model-based solutions for document generation and analysis.",
+      "tags": [
+        "enterprise",
+        "product",
+        "coding",
+        "agents"
+      ]
+    },
+    {
+      "id": "3f5bc6113c36",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Japan internet giant GMO says hackers posted stolen customer data",
+      "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+      "publishedAt": "2026-10-27T13:32:57.000Z",
+      "fetchedAt": "2026-10-27T18:37:35.480Z",
+      "contentText": null,
+      "summary": "Japanese internet company GMO Internet is investigating a data leak after suspected unauthorized access to its Onamae cloud desktop service, which provides virtualized desktops to financial traders. The company believes an attacker published information allegedly linked to customers and its business, and has advised customers to reset their passwords due to reports of unauthorized operations on trading accounts. This incident follows a separate report by GMO's cybersecurity unit about a Chinese AI-enabled penetration testing tool called Artex being used in hacks across Japan, though no direct connection has been established.",
+      "enterpriseAngle": "Enterprise security teams must prioritize strong basic defenses like multi-factor authentication and robust vulnerability management, as AI-enabled penetration tools like Artex are being used in sophisticated attacks. Financial institutions, in particular, need to enhance incident preparedness and consider leveraging AI for their own security tools to counter evolving threats.",
+      "beginner": "Even with advanced AI tools, basic security measures like strong passwords and multi-factor authentication are crucial to protect against cyberattacks.",
+      "advanced": "Implement a defense-in-depth strategy, including continuous vulnerability management and multi-factor authentication across all critical services, while evaluating the potential defensive applications of AI security tools to counter emerging threats like those posed by Artex.",
+      "tags": [
+        "security",
+        "enterprise",
+        "policy"
+      ]
+    },
+    {
+      "id": "2d1cc6aaea46",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+      "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+      "publishedAt": "2026-10-27T13:00:00.000Z",
+      "fetchedAt": "2026-10-27T18:37:35.480Z",
+      "contentText": null,
+      "summary": "Opera has introduced WebAI, a new web standard that enables users to run AI models directly within their browser, bypassing the need for cloud-based processing. This feature supports various open-weight AI models, including Google's Gemma and Apple's on-device foundation model on Macs. WebAI aims to enhance user privacy by keeping data on the local device and allows developers to integrate AI features without managing cloud infrastructure.",
+      "enterpriseAngle": "Enterprise product development teams can leverage WebAI to integrate AI functionalities into web applications, reducing reliance on costly cloud AI infrastructure and enhancing data privacy for users. Security teams should note the shift to local processing, which can mitigate some data leakage risks associated with cloud AI, though local device security remains crucial.",
+      "beginner": "Opera's new technology lets you use AI tools on your computer without sending your information to the internet, keeping your data more private.",
+      "advanced": "Evaluate WebAI for integrating local, open-weight AI models into web applications to reduce cloud dependency and enhance user data privacy, while ensuring robust client-side security measures are in place.",
+      "tags": [
+        "product",
+        "enterprise",
+        "security",
+        "model-release"
+      ]
+    },
+    {
+      "id": "e4dd73cec05d",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+      "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+      "publishedAt": "2026-10-27T13:00:00.000Z",
+      "fetchedAt": "2026-10-27T18:37:35.480Z",
+      "contentText": null,
+      "summary": "General Compute, a neocloud company specializing in AI inference chips, has raised $100 million in Series A funding, bringing its valuation to $800 million. This funding round, led by Blackbird Ventures and Abstract Ventures, comes despite broader concerns about the neocloud market. The company's strategy involves using specialized inference chips from Nvidia rivals like SambaNova, Positron, and Cerebras, and converting former bitcoin-mining sites into AI model hubs.",
+      "enterpriseAngle": "Enterprise product development teams can leverage General Compute's specialized inference capacity for cost-effective AI model deployment, particularly for applications requiring high-speed inference. This approach offers an alternative to traditional GPU-centric clouds, potentially optimizing performance and expenditure for specific AI workloads.",
+      "beginner": "General Compute is a company that provides computing power for AI, focusing on a specific type of chip that helps AI models make decisions quickly, and they just received a lot of money from investors.",
+      "advanced": "Consider General Compute's bare-metal inference offerings from diverse chip suppliers (SambaNova, Positron, Cerebras) as a strategic option for optimizing TCO and performance for high-volume inference workloads, especially when hyperscaler GPU capacity or cost becomes a constraint.",
+      "tags": [
+        "funding",
+        "infrastructure",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "ef2da6cf0c5f",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+      "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+      "publishedAt": "2026-10-27T11:19:18.000Z",
+      "fetchedAt": "2026-10-27T18:37:35.778Z",
+      "contentText": null,
+      "summary": "The article discusses \"industrial intelligence\" within manufacturing, which encompasses both documented procedures and the undocumented knowledge held by experienced workers. This intelligence is crucial for tasks like restarting a production line after a changeover, where factors beyond machine settings, such as material behavior and previous shift events, play a significant role.",
+      "enterpriseAngle": "Enterprises can leverage AI to capture and operationalize this often-undocumented industrial intelligence, improving efficiency, reducing downtime, and mitigating the impact of workforce transitions in manufacturing operations. This involves developing systems that can learn from experienced operators' decisions and contextual knowledge.",
+      "beginner": "Industrial intelligence refers to the combined knowledge and experience that helps factories run smoothly, much of which is currently held by human workers.",
+      "advanced": "Implement knowledge capture systems leveraging AI and sensor data to codify tacit industrial intelligence from experienced operators, creating digital twins of operational expertise to enhance predictive maintenance and process optimization.",
+      "tags": [
+        "enterprise",
+        "product",
+        "workforce"
+      ]
+    },
+    {
+      "id": "a3a879144b29",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "publishedAt": "2026-10-27T07:00:00.000Z",
+      "fetchedAt": "2026-10-27T18:37:33.269Z",
+      "contentText": null,
+      "summary": "OpenAI and Oracle are expanding their partnership to integrate Oracle applications and data directly into ChatGPT, while also powering new Oracle products with OpenAI models. This collaboration aims to help businesses leverage AI for core operations, application development, and enhanced security. Oracle reports significant existing usage of ChatGPT and Codex by its customers, indicating a strong foundation for this expanded integration.",
+      "enterpriseAngle": "This partnership offers enterprises a unified environment where AI agents can interact across business applications, simplifying administration and access management. New offerings like Oracle AI Security Mesh and Oracle App Composer will provide tools for vulnerability detection and application development, directly impacting enterprise security and product development teams.",
+      "beginner": "This partnership means that popular business tools from Oracle will become smarter by using AI from OpenAI, making it easier for companies to do their work and build new things.",
+      "advanced": "Leverage Oracle AI Workspace within ChatGPT for streamlined business workflows and consider integrating Oracle AI Security Mesh to enhance application and infrastructure vulnerability management using OpenAI cyber models.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "product",
+        "security"
+      ]
+    },
     {
       "id": "250e5d8f3024",
       "source": "openai",
@@ -620,6 +807,27 @@
         "security",
         "research",
         "governance"
+      ]
+    },
+    {
+      "id": "c6099fc8919f",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
+      "url": "https://openai.com/index/anima",
+      "publishedAt": "2026-10-23T00:00:00.000Z",
+      "fetchedAt": "2026-10-27T18:37:33.269Z",
+      "contentText": null,
+      "summary": "Anima, a startup, is using OpenAI's GPT-6 and GPT-Live models to help healthcare clinics reduce patient phone wait times by 75% and improve document processing efficiency. Their AI assistant, Andi, handles patient calls and guides them through clinically approved intake workflows, while GPT-6 extracts information from clinical documents and drafts notes. This system aims to free up care teams to focus more on patient needs.",
+      "enterpriseAngle": "Enterprise healthcare providers can leverage advanced AI models like GPT-6 and GPT-Live to automate administrative tasks, significantly reduce operational bottlenecks such as long call wait times and document backlogs, and improve overall patient experience and staff efficiency. Product development teams in healthcare can focus on integrating and customizing these powerful language models to create specialized AI agents and workflows that address specific clinical and administrative challenges.",
+      "beginner": "AI is being used in healthcare to make it easier for patients to get help and for doctors to manage their work, by automating tasks like answering calls and processing documents.",
+      "advanced": "Evaluate the integration of advanced LLMs like GPT-6 and GPT-Live into existing healthcare IT infrastructure, focusing on developing proprietary policy engines and multi-stage pipelines to ensure clinically approved, deterministic workflows and efficient in-context learning for diverse practice adaptations.",
+      "tags": [
+        "enterprise",
+        "product",
+        "agents",
+        "model-release"
       ]
     },
     {

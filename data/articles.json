@@ -1,6 +1,193 @@
 {
-  "updatedAt": "2026-10-28T00:24:55.790Z",
+  "updatedAt": "2026-10-28T18:46:11.162Z",
   "articles": [
+    {
+      "id": "5e4098babe95",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Chrome's AI-powered Autofill can now dig through your Gmail to fill out forms",
+      "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+      "publishedAt": "2026-10-28T17:00:00.000Z",
+      "fetchedAt": "2026-10-28T18:44:45.166Z",
+      "contentText": null,
+      "summary": "Google's Chrome browser is introducing an AI-powered Autofill feature that can extract information from a user's Gmail to automatically complete online forms. This update allows Chrome to suggest details like flight confirmation numbers, membership IDs, or addresses by referencing emails. Users can choose to enable or disable this enhanced autofill in their Chrome settings, and Google states that sensitive data is encrypted.",
+      "enterpriseAngle": "Enterprise product development teams should consider how integrating AI with user data, like email content, can enhance user experience while prioritizing robust encryption and user control over data sharing. Security teams must ensure that such features adhere to strict data privacy and security standards to prevent unauthorized access or leakage of sensitive information.",
+      "beginner": "Chrome's new feature uses AI to read your emails and automatically fill out online forms for you, making it easier to complete tasks.",
+      "advanced": "Implement granular user controls and transparent data handling policies for AI-powered features that access personal data, ensuring compliance with privacy regulations and maintaining user trust.",
+      "tags": [
+        "product",
+        "consumer",
+        "security",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "a01db71b034c",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+      "publishedAt": "2026-10-28T17:00:00.000Z",
+      "fetchedAt": "2026-10-28T18:44:45.166Z",
+      "contentText": null,
+      "summary": "Google has launched its Connected Apps Platform, allowing businesses and developers to integrate their applications with Google's AI experiences in Search and Gemini. This platform enables users to interact with third-party services directly through Google's AI, potentially shifting how consumers use individual apps. Developers can now submit their apps for use across Google products, with a public preview currently available in the U.S.",
+      "enterpriseAngle": "Enterprise product development teams can leverage this platform to increase the visibility and accessibility of their applications by integrating them directly into Google's AI-powered Search and Gemini experiences. This could become a critical channel for user engagement, similar to how SEO impacted web visibility.",
+      "beginner": "Google is making it easier for apps to work with its AI, so you can use your favorite services like Canva or YouTube Music directly through Google Search or Gemini without opening separate apps.",
+      "advanced": "Developers should explore integrating their applications with Google's Connected Apps Platform using the MCP server or Android MCP via AppFunctions APIs to gain visibility and track performance metrics within the agentic web ecosystem.",
+      "tags": [
+        "product",
+        "enterprise",
+        "agents",
+        "coding"
+      ]
+    },
+    {
+      "id": "516d6345c17a",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "AI execs may be too out of touch to build for the general public",
+      "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+      "publishedAt": "2026-10-28T15:53:52.000Z",
+      "fetchedAt": "2026-10-28T18:44:45.166Z",
+      "contentText": null,
+      "summary": "AI executives like Marissa Mayer, Sam Altman, and Mark Zuckerberg are facing criticism for suggesting AI can manage personal relationships and child-rearing tasks. Mayer's app, Dazzle, which learns from camera rolls, was used to generate bullet points about her daughter and plan family activities, drawing public backlash. Critics argue these executives are out of touch with the general public's views on human connection, with a Pew Research Center study indicating 50% of U.S. adults believe AI will reduce meaningful relationships.",
+      "enterpriseAngle": "Enterprise product development teams should be mindful of public perception and ethical considerations when designing AI solutions that intersect with personal life and human relationships, as a disconnect can lead to significant user rejection. Security teams must also consider the privacy implications of AI systems that process highly personal data, like camera rolls, to avoid data leakage or misuse.",
+      "beginner": "Some AI leaders propose using AI for personal tasks like parenting or social interactions, but many people worry this could harm human relationships.",
+      "advanced": "When developing AI products for consumer use, conduct thorough user research beyond tech-centric demographics to identify and mitigate potential social and ethical misalignments that could lead to public backlash and erode trust.",
+      "tags": [
+        "product",
+        "consumer",
+        "governance",
+        "research"
+      ]
+    },
+    {
+      "id": "1af93ecc8fda",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "South Korea's financial industry hit by fresh wave of cyberattacks",
+      "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+      "publishedAt": "2026-10-28T15:41:18.000Z",
+      "fetchedAt": "2026-10-28T18:44:45.166Z",
+      "contentText": null,
+      "summary": "South Korea's financial industry, including Daishin Securities, Mirae Asset Global Investments, and crypto exchange Bithumb, has experienced a new series of cyberattacks. Daishin Securities reported a data breach affecting nearly 38,500 customers, while Mirae and Bithumb also reported incidents without confirming data loss. These attacks follow a previous wave linked to an AI penetration testing tool, prompting South Korean regulators to call for enhanced cybersecurity measures.",
+      "enterpriseAngle": "Enterprise security teams, particularly in financial services, must recognize the increasing sophistication of AI-driven penetration tools used by attackers and prioritize robust defense mechanisms and incident response plans. Product development teams should integrate security-by-design principles to mitigate vulnerabilities that could be exploited by such advanced tools.",
+      "beginner": "Cyberattacks are happening more often, even using new AI tools, and companies need to protect customer information better.",
+      "advanced": "Implement advanced threat detection systems capable of identifying AI-generated attack patterns and conduct regular, AI-assisted penetration testing to proactively uncover and patch vulnerabilities in your infrastructure.",
+      "tags": [
+        "security",
+        "enterprise",
+        "policy"
+      ]
+    },
+    {
+      "id": "d9d311919980",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+      "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+      "publishedAt": "2026-10-28T15:00:00.000Z",
+      "fetchedAt": "2026-10-28T18:44:45.166Z",
+      "contentText": null,
+      "summary": "Nvidia has launched a new, free speech-to-text model capable of transcribing audio in up to 40 languages. This model is designed for recorded audio rather than live audio, positioning it as a tool for applications like meeting and medical transcription.",
+      "enterpriseAngle": "Enterprise product development teams can integrate this open-source model to enhance transcription features in their existing applications, particularly for recorded content in diverse languages. This release could also influence the competitive landscape for transcription service providers.",
+      "beginner": "Nvidia has made a new AI tool available for free that can turn spoken words from recordings into text in many languages.",
+      "advanced": "Evaluate Nvidia's new 40-language speech-to-text model for integration into asynchronous transcription workflows, noting its limitation to recorded audio and potential impact on existing real-time transcription solutions.",
+      "tags": [
+        "model-release",
+        "product",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "efca0b654d0c",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
+      "url": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
+      "publishedAt": "2026-10-28T13:00:00.000Z",
+      "fetchedAt": "2026-10-28T18:44:45.166Z",
+      "contentText": null,
+      "summary": "The TechCrunch Founder Summit is scheduled to take place in Boston on November 4th. Attendees have a limited time to save up to $100 on tickets before the event begins. The summit offers an opportunity to network and learn from experienced founders, investors, and startup leaders.",
+      "enterpriseAngle": "Enterprise product and development teams can leverage this summit to connect with potential partners, investors, and talent, fostering innovation and strategic growth. Attending provides insights into emerging startup trends and founder strategies relevant to enterprise-level product development.",
+      "beginner": "This summit is a chance for new entrepreneurs to learn from people who have already built successful companies.",
+      "advanced": "Experienced practitioners should prioritize attending sessions and networking opportunities focused on venture capital trends and strategic partnerships to inform future product roadmaps and investment strategies.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "funding",
+        "workforce"
+      ]
+    },
+    {
+      "id": "85069581580d",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "Pairing industrial AI autonomy and human control",
+      "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+      "publishedAt": "2026-10-28T12:00:00.000Z",
+      "fetchedAt": "2026-10-28T18:44:45.639Z",
+      "contentText": null,
+      "summary": "Industrial plants are increasingly using \"living digital twins\" powered by AI to monitor and manage operations in real time. These advanced digital twins can not only identify issues but also intervene in the physical world through control systems, moving beyond traditional simulation to proactive problem-solving. While AI is enabling greater autonomy and constant adjustments for industrial homeostasis, human oversight remains crucial for defining optimal conditions and ensuring AI systems operate correctly.",
+      "enterpriseAngle": "Enterprise product development teams should focus on integrating agentic AI with robust human-in-the-loop mechanisms to build trust and manage operational risks in industrial automation. Security teams must consider how to secure these increasingly autonomous systems, particularly where AI agents can directly control physical infrastructure.",
+      "beginner": "AI is making factories smarter by creating digital copies that can fix problems on their own, but people are still needed to guide the AI and make sure it's doing the right thing.",
+      "advanced": "Implement a tiered autonomy framework for agentic AI in industrial settings, prioritizing human-defined operational boundaries and real-time monitoring interfaces to validate AI actions and mitigate unintended consequences.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "0dc3cf0b7c98",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "The future of the firm",
+      "url": "https://openai.com/index/the-future-of-the-firm",
+      "publishedAt": "2026-10-28T10:00:00.000Z",
+      "fetchedAt": "2026-10-28T18:44:42.569Z",
+      "contentText": null,
+      "summary": "This essay explores how AI might integrate into company structures, presenting three scenarios: 'Beneath us,' where AI acts as a subordinate labor force for human managers; 'Beside us,' where AI functions as a colleague alongside human employees; and 'Between us,' where AI coordinates work between human managers and workers. The authors suggest that aspects of all three scenarios are already subtly emerging. They argue that as AI capabilities improve, its adoption will become more widespread, leading to hybrid firms where humans and AI collaborate.",
+      "enterpriseAngle": "Enterprise leaders should consider these three models for AI integration to strategically plan workforce evolution, focusing on how AI can augment human roles rather than solely replace them, potentially leading to increased productivity and expanded responsibilities for human employees. Product development teams can leverage these insights to design AI tools that seamlessly fit into existing organizational hierarchies and workflows, enabling more effective human-AI collaboration.",
+      "beginner": "AI is expected to change how companies are organized, with different ways it could work with people, like being an assistant, a coworker, or a coordinator.",
+      "advanced": "Evaluate current organizational structures against the 'Beneath us,' 'Beside us,' and 'Between us' models to identify optimal AI integration points, focusing on augmenting human capabilities and expanding roles rather than direct automation, to maximize productivity and employee development.",
+      "tags": [
+        "enterprise",
+        "workforce",
+        "agents",
+        "product"
+      ]
+    },
+    {
+      "id": "41c97fe8dc29",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Legora is building the agentic operating system for legal work",
+      "url": "https://openai.com/index/legora",
+      "publishedAt": "2026-10-28T09:30:00.000Z",
+      "fetchedAt": "2026-10-28T18:44:42.569Z",
+      "contentText": null,
+      "summary": "Legora, founded in 2023, is developing an \"agentic operating system\" for legal work, leveraging OpenAI models and coding agents. This system aims to accelerate legal processes, broaden analysis, and enable legal professionals to focus on higher-value tasks. The company reports significant reductions in time spent on tasks like NDA review and faster contract turnaround for clients.",
+      "enterpriseAngle": "Enterprise legal and product development teams can leverage AI agents to automate routine tasks, significantly reduce review times, and accelerate development cycles, allowing human experts to focus on strategic, higher-value work. This approach can lead to faster problem resolution and quicker product iterations, enhancing overall operational efficiency and responsiveness.",
+      "beginner": "AI tools can help lawyers and other professionals complete routine tasks much faster, freeing them up for more important work.",
+      "advanced": "Implement agentic workflows powered by large language models to automate document review and leverage coding agents for rapid prototyping and bug resolution, thereby optimizing legal operations and accelerating product development cycles.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product",
+        "coding"
+      ]
+    },
     {
       "id": "a2f907c053da",
       "source": "techcrunch-ai",

@@ -1,6 +1,145 @@
 {
-  "updatedAt": "2026-10-28T18:46:11.162Z",
+  "updatedAt": "2026-10-29T00:44:48.524Z",
   "articles": [
+    {
+      "id": "1134b6a1764a",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Microsoft just shared Azure's actual revenue in dollars: $33.2 billion",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+      "publishedAt": "2026-10-28T21:58:32.000Z",
+      "fetchedAt": "2026-10-29T00:43:29.197Z",
+      "contentText": null,
+      "summary": "Microsoft has for the first time disclosed Azure's quarterly revenue in dollars, reporting $33.2 billion for the July-September quarter, a 48% increase year-over-year. This figure slightly surpasses Google Cloud's $30.7 billion for the same period, though Google Cloud grew at a faster rate. Azure, which supports applications, SaaS, and AI model deployment, is now Microsoft's largest and fastest-growing product line, contributing 36% to the company's total quarterly revenue.",
+      "enterpriseAngle": "The direct dollar comparison of cloud revenues allows enterprise decision-makers to better evaluate the market positions and growth trajectories of major cloud providers like Azure, AWS, and Google Cloud when planning their infrastructure investments and AI development strategies. Azure's strong growth indicates its increasing importance as a platform for enterprise AI model building and deployment.",
+      "beginner": "Microsoft's cloud computing service, Azure, is making a lot of money and growing quickly, showing that many businesses are using it to run their software and build AI.",
+      "advanced": "Leverage the newly transparent revenue figures to refine competitive analyses and inform strategic resource allocation for multi-cloud deployments, particularly considering Azure's strong growth in AI infrastructure.",
+      "tags": [
+        "enterprise",
+        "infrastructure",
+        "product",
+        "benchmark"
+      ]
+    },
+    {
+      "id": "9b7dd4a7a685",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Google expands AI Search ads globally as core ad growth slows",
+      "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+      "publishedAt": "2026-10-28T21:48:37.000Z",
+      "fetchedAt": "2026-10-29T00:43:29.197Z",
+      "contentText": null,
+      "summary": "Google is expanding its AI-powered search ads to international markets to boost revenue as growth in its traditional search advertising slows. The company reported $127.6 billion in revenue, a 25% year-over-year increase, but Search advertising growth decelerated. Google's chief business officer, Philipp Schindler, stated that early results show sponsored product listings in AI Mode have click-through rates comparable to organic listings.",
+      "enterpriseAngle": "Enterprise product development teams should note the success of AI-powered ad formats in driving engagement, suggesting that integrating AI into user-facing products can create new monetization opportunities and enhance user experience. Security teams should consider the implications of multimodal search and longer, more complex queries on data privacy and content moderation within AI-driven platforms.",
+      "beginner": "Google is using AI to create new types of ads in its search results, hoping to make more money as its regular ad business isn't growing as fast.",
+      "advanced": "Leverage multimodal input capabilities and longer query patterns observed in AI-powered search to optimize ad targeting and content generation strategies for enhanced user engagement and conversion.",
+      "tags": [
+        "enterprise",
+        "product",
+        "consumer",
+        "model-release"
+      ]
+    },
+    {
+      "id": "f9d1493b929c",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "publishedAt": "2026-10-28T21:34:30.000Z",
+      "fetchedAt": "2026-10-29T00:43:29.197Z",
+      "contentText": null,
+      "summary": "Microsoft reported $10 billion in revenue from its commercial agreements with OpenAI during the quarter ending September 30. This figure highlights the significant financial reliance within their partnership.",
+      "enterpriseAngle": "This revenue demonstrates the substantial financial impact of strategic AI partnerships on enterprise bottom lines, influencing investment and product integration decisions. For enterprises, such partnerships can drive significant revenue streams and accelerate AI adoption across their offerings.",
+      "beginner": "Microsoft is making a lot of money from its deal with OpenAI, showing how important their collaboration is.",
+      "advanced": "Evaluate the potential for similar strategic AI partnerships to generate substantial revenue and integrate advanced AI capabilities into your enterprise product roadmap.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "funding"
+      ]
+    },
+    {
+      "id": "0ef91bd8c8c1",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+      "publishedAt": "2026-10-28T21:25:30.000Z",
+      "fetchedAt": "2026-10-29T00:43:29.197Z",
+      "contentText": null,
+      "summary": "Microsoft has achieved its tenth consecutive quarter of record-breaking revenue, reporting $92.3 billion, which represents a 19% increase compared to the same quarter last year.",
+      "enterpriseAngle": "This sustained growth indicates strong demand for Microsoft's products and services, suggesting enterprises are continuing to invest heavily in their offerings, including AI-integrated solutions.",
+      "beginner": "Microsoft is making a lot of money, growing bigger each year.",
+      "advanced": "Evaluate Microsoft's latest earnings call for insights into specific product lines driving revenue growth, particularly those related to AI and cloud services, to inform strategic investment and partnership decisions.",
+      "tags": [
+        "enterprise",
+        "funding"
+      ]
+    },
+    {
+      "id": "e164bf48fa23",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "Creating AI value with enterprise context",
+      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+      "publishedAt": "2026-10-28T20:32:02.000Z",
+      "fetchedAt": "2026-10-29T00:43:29.586Z",
+      "contentText": null,
+      "summary": "Many businesses use multiple AI platforms, systems, and tools simultaneously, such as AI-powered customer platforms, conversational assistants, and workflow automation. While these tools are sophisticated and responsive, their outputs can sometimes be incorrect or unclear.",
+      "enterpriseAngle": "Enterprise teams must focus on integrating diverse AI systems effectively to ensure accurate and coherent outcomes, rather than relying on isolated, advanced tools.",
+      "beginner": "Even advanced AI tools can produce wrong or confused results if they don't understand the full business situation.",
+      "advanced": "Prioritize the development of robust integration layers and contextual awareness mechanisms for disparate AI systems to mitigate misaligned outputs and enhance operational accuracy.",
+      "tags": [
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "ea370fdd96af",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "publishedAt": "2026-10-28T19:19:58.000Z",
+      "fetchedAt": "2026-10-29T00:43:29.197Z",
+      "contentText": null,
+      "summary": "Anthropic has launched new reporting tools for its enterprise customers to help them understand the value and cost of their AI token spending, particularly for its Claude Code tool. These tools provide granular data on team productivity, costs, and workflow breakdowns, along with recommendations for improvement. The company aims to demonstrate the return on investment for its AI offerings, as many large businesses struggle to see significant gains from AI deployment.",
+      "enterpriseAngle": "Enterprise product and security teams can leverage these new reporting tools to gain deeper insights into their AI spending, optimize workflows, and demonstrate the ROI of AI adoption. This can help in making informed decisions about AI tool deployment and resource allocation, while also considering the default data usage policy for model training.",
+      "beginner": "Anthropic's new tools help companies see exactly how much they're spending on AI and what they're getting in return, making it easier to decide if the investment is worthwhile.",
+      "advanced": "Implement Anthropic's new reporting tools to analyze team-specific AI token spend, identify workflow bottlenecks, and optimize resource allocation, leveraging the provided recommendations to maximize ROI and inform future AI strategy.",
+      "tags": [
+        "enterprise",
+        "product",
+        "benchmark"
+      ]
+    },
+    {
+      "id": "8500267ec5b4",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse'",
+      "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+      "publishedAt": "2026-10-28T19:05:46.000Z",
+      "fetchedAt": "2026-10-29T00:43:29.197Z",
+      "contentText": null,
+      "summary": "Two critical bugs in PHP, an open-source language used by approximately 70% of websites, recently caused organizations to scramble for fixes. Some organizations even took their websites offline to patch these vulnerabilities. The cleanup effort for these bugs is still ongoing.",
+      "enterpriseAngle": "Enterprise security teams must prioritize patching critical vulnerabilities in widely used open-source components like PHP to prevent service disruptions and potential breaches. Product development teams should also consider the security implications of their chosen technology stacks and have robust incident response plans.",
+      "beginner": "Software used by many websites can have serious flaws that require urgent fixes to keep online services safe.",
+      "advanced": "Implement automated vulnerability scanning and patch management for all open-source dependencies, especially those with high criticality and broad usage, to mitigate risks from widespread vulnerabilities.",
+      "tags": [
+        "security",
+        "enterprise"
+      ]
+    },
     {
       "id": "5e4098babe95",
       "source": "techcrunch-ai",
@@ -102,6 +241,27 @@
         "model-release",
         "product",
         "enterprise"
+      ]
+    },
+    {
+      "id": "75e2017ed4c5",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "publishedAt": "2026-10-28T13:15:00.000Z",
+      "fetchedAt": "2026-10-29T00:43:26.158Z",
+      "contentText": null,
+      "summary": "OpenAI and ServiceNow are expanding their partnership to integrate OpenAI's models and agents into ServiceNow's products and workflows. This collaboration aims to enhance business operations by facilitating application development, streamlining IT requests, and improving security measures through AI. The partnership will also bring ChatGPT Work and Codex to all ServiceNow employees.",
+      "enterpriseAngle": "Enterprise security and product development teams can leverage this expanded partnership to build applications more efficiently, automate IT support, and enhance cybersecurity investigations and remediation efforts. The integration of AI models directly into existing workflows will enable more proactive risk management and faster incident resolution.",
+      "beginner": "This partnership means that AI tools from OpenAI will be built directly into the software that many businesses use every day, making it easier to do tasks like building apps, fixing computer problems, and improving security.",
+      "advanced": "Leverage the new ServiceNow integration with ChatGPT to embed business context and workflow actions directly into AI-driven conversations for incident management and change assessment, while preparing for the early access of OpenAI-powered security capabilities in January 2027.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "product",
+        "security"
       ]
     },
     {

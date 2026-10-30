@@ -1,6 +1,109 @@
 {
-  "updatedAt": "2026-10-29T18:55:55.452Z",
+  "updatedAt": "2026-10-30T00:45:26.461Z",
   "articles": [
+    {
+      "id": "720b04b8c5b9",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+      "publishedAt": "2026-10-29T23:42:22.000Z",
+      "fetchedAt": "2026-10-30T00:44:32.103Z",
+      "contentText": null,
+      "summary": "Amazon CEO Andy Jassy believes AWS can become a trillion-dollar business, driven by increasing demand for cloud services and AI. To achieve this, Amazon plans significant capital expenditures, with approximately $220 billion in 2026 and more in 2027, primarily for AWS infrastructure. Despite investor concerns about the substantial spending, Jassy views the AI boom as a \"once in a lifetime opportunity\" requiring large financial commitment.",
+      "enterpriseAngle": "Enterprise product development teams should anticipate continued expansion and innovation in AWS's core and AI functionalities, offering more robust infrastructure for their workloads. Security teams will need to stay abreast of new AWS services and features to ensure proper configuration and compliance as the platform scales.",
+      "beginner": "Amazon is investing a lot of money to build more cloud computing power, especially for AI, because they believe many businesses will need these services in the future.",
+      "advanced": "Prepare for increased AWS capacity and new AI-driven features, and strategically leverage these advancements to optimize enterprise cloud architecture and accelerate AI workload deployment.",
+      "tags": [
+        "enterprise",
+        "infrastructure",
+        "funding",
+        "product"
+      ]
+    },
+    {
+      "id": "1e09943a421e",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "As search traffic dries up, Reddit announces it's shifting to a logged-in experience",
+      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+      "publishedAt": "2026-10-29T20:08:31.000Z",
+      "fetchedAt": "2026-10-30T00:44:32.103Z",
+      "contentText": null,
+      "summary": "Reddit is transitioning to a primarily \"logged-in experience\" because AI-powered search has caused a significant drop in search traffic referrals, impacting its daily active users. This shift aims to protect its data from AI scraping, enabling lucrative licensing deals with AI model providers, and to boost revenue by providing more targeted advertising through user data. The company reported a decline in U.S. daily active users but an increase in overall revenue and average revenue per daily active user.",
+      "enterpriseAngle": "Enterprises relying on organic search traffic for user acquisition may face similar declines due to AI-powered search, necessitating a reevaluation of their data monetization strategies and user engagement models. This highlights a growing trend where platforms are seeking to control their data assets more tightly, potentially leading to new partnership opportunities for AI model providers.",
+      "beginner": "Websites are changing how they operate because AI is making it easier for people to get answers without visiting their sites, so companies like Reddit are asking users to log in more often to keep their business strong.",
+      "advanced": "Evaluate the impact of AI-driven search on your platform's traffic and user acquisition funnels, and explore strategies for data monetization through licensing or enhanced logged-in experiences to maintain revenue growth amidst evolving web consumption patterns.",
+      "tags": [
+        "enterprise",
+        "product",
+        "policy",
+        "consumer"
+      ]
+    },
+    {
+      "id": "7587406daf7d",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Rivian expands joint venture with VW to include AI assistant",
+      "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+      "publishedAt": "2026-10-29T20:05:47.000Z",
+      "fetchedAt": "2026-10-30T00:44:32.103Z",
+      "contentText": null,
+      "summary": "Rivian and Volkswagen Group have expanded their $5.8 billion joint venture to include Rivian's AI voice assistant technology. Rivian will license elements of its in-house developed AI assistant to Volkswagen, potentially debuting in VW's low-cost EV, the ID EVERY1. This expansion builds on their existing partnership focused on integrating Rivian's electrical architecture and software into Volkswagen's next-generation vehicles.",
+      "enterpriseAngle": "This partnership demonstrates how automotive companies are leveraging vertical integration and in-house AI development to create competitive advantages and generate new revenue streams through technology licensing. Enterprise product development teams can learn from Rivian's strategy of building a unified hardware and software architecture to enable rapid, comprehensive over-the-air updates and support advanced software features.",
+      "beginner": "Car companies are working together to put smart AI assistants, like the ones in phones, into cars to help drivers and passengers.",
+      "advanced": "Evaluate opportunities for licensing internally developed AI frameworks and vertically integrated software platforms to external partners, leveraging existing R&D investments for new revenue streams and market penetration.",
+      "tags": [
+        "partnership",
+        "product",
+        "enterprise",
+        "agents"
+      ]
+    },
+    {
+      "id": "4db20898e948",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "OpenAI-backed Thrive Holdings acquires ADT",
+      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+      "publishedAt": "2026-10-29T19:56:19.000Z",
+      "fetchedAt": "2026-10-30T00:44:32.103Z",
+      "contentText": null,
+      "summary": "Thrive Holdings, a company backed by OpenAI, has acquired physical security firm ADT for approximately $7.6 billion in equity, with a total enterprise value of $15.3 billion. Thrive Holdings aims to revitalize acquired companies with AI technology and currently holds over 75 firms. OpenAI provides AI models, technology, and forward-deployed engineers to Thrive's portfolio companies.",
+      "enterpriseAngle": "This acquisition signals a growing trend of integrating AI into established physical security infrastructure, which will likely lead to new AI-powered security products and services for enterprises. Security and product development teams should anticipate advancements in smart home and business security solutions driven by AI capabilities.",
+      "beginner": "A company that uses AI to improve businesses has bought ADT, a well-known security company, planning to make its security products smarter with artificial intelligence.",
+      "advanced": "Enterprise security architects should evaluate the potential for new AI-driven physical security offerings from ADT under Thrive Holdings, considering their integration capabilities with existing security ecosystems and potential for enhanced threat detection and response.",
+      "tags": [
+        "enterprise",
+        "product",
+        "partnership",
+        "funding"
+      ]
+    },
+    {
+      "id": "bde015e58f37",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Meta quietly launches an AI fashion app called Style Sketch",
+      "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+      "publishedAt": "2026-10-29T19:14:36.000Z",
+      "fetchedAt": "2026-10-30T00:44:32.103Z",
+      "contentText": null,
+      "summary": "Meta has introduced Style Sketch, an AI-powered fashion application. This app allows users to create a virtual wardrobe by importing photos from their Instagram accounts, or by manually adding items through new photos, videos, or camera roll uploads.",
+      "enterpriseAngle": "Enterprise product teams in retail and fashion can observe Style Sketch as an example of AI-driven consumer engagement, potentially inspiring new features for virtual try-ons, personalized styling, or inventory management.",
+      "beginner": "Meta's new app uses AI to help you organize your clothes virtually.",
+      "advanced": "Evaluate Style Sketch's user adoption and data privacy implications to inform future AI product development in consumer-facing applications.",
+      "tags": [
+        "product",
+        "consumer"
+      ]
+    },
     {
       "id": "066f3bd17c5f",
       "source": "techcrunch-ai",
@@ -144,6 +247,27 @@
         "product",
         "infrastructure",
         "agents"
+      ]
+    },
+    {
+      "id": "65d251570ded",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
+      "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/",
+      "publishedAt": "2026-10-29T13:00:00.000Z",
+      "fetchedAt": "2026-10-30T00:44:32.103Z",
+      "contentText": null,
+      "summary": "Amazon has enhanced Alexa with over 100 new shopping-related features, allowing users to manage shopping lists, subscriptions, and delivery instructions. Users can now create, edit, and view shopping lists, modify subscription delivery frequencies, and update delivery addresses or drop-off details. Additionally, Alexa can now answer questions about Prime and Audible subscriptions, as well as billing and payment issues.",
+      "enterpriseAngle": "For enterprises, this update highlights the growing consumer expectation for AI-powered agents to handle complex transactional tasks, pushing product development teams to integrate similar sophisticated conversational AI into their customer service and e-commerce platforms. The 8x growth in agentic feature usage suggests a strong user adoption trend that businesses should consider for their own AI strategies.",
+      "beginner": "Alexa can now help you with many more shopping tasks, like keeping track of your lists and changing your subscriptions, making it easier to manage your online purchases.",
+      "advanced": "Leverage the demonstrated 8x growth in agentic feature adoption by integrating advanced conversational AI capabilities for subscription management, order modifications, and billing inquiries within your enterprise customer relationship management (CRM) and e-commerce platforms to enhance user experience and reduce support overhead.",
+      "tags": [
+        "product",
+        "consumer",
+        "agents",
+        "enterprise"
       ]
     },
     {

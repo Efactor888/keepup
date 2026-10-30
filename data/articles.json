@@ -1,6 +1,171 @@
 {
-  "updatedAt": "2026-10-30T00:45:26.461Z",
+  "updatedAt": "2026-10-30T18:33:10.163Z",
   "articles": [
+    {
+      "id": "a457451f7b0a",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Zest's new AI agent finds restaurants and books reservations over text",
+      "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+      "publishedAt": "2026-10-30T17:47:12.000Z",
+      "fetchedAt": "2026-10-30T18:31:20.212Z",
+      "contentText": null,
+      "summary": "Zest, a restaurant discovery app, has launched an AI-powered \"restaurant concierge\" that operates via text messages. This agent uses a user's dining history, gathered by linking to credit card transactions through Plaid, to provide personalized restaurant recommendations. It can also book reservations through services like OpenTable and Resy, and can be used in group chats to facilitate collective decision-making and bookings.",
+      "enterpriseAngle": "This shift towards conversational AI agents as primary interfaces suggests that enterprise product development teams should explore integrating AI agents into existing communication channels for enhanced user convenience and engagement. Leveraging transaction data, with appropriate privacy safeguards, can enable highly personalized service offerings that differentiate products in competitive markets.",
+      "beginner": "Zest's new AI tool helps you find and book restaurants just by texting it, learning your tastes from where you've eaten before.",
+      "advanced": "Implement secure, consent-driven integration with financial data aggregators like Plaid to power personalized AI agent recommendations and transactional capabilities, ensuring compliance with data privacy regulations.",
+      "tags": [
+        "agents",
+        "product",
+        "enterprise",
+        "consumer"
+      ]
+    },
+    {
+      "id": "fc6c72287137",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Google's first data center satellite is online and writing poetry",
+      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+      "publishedAt": "2026-10-30T17:00:00.000Z",
+      "fetchedAt": "2026-10-30T18:31:20.212Z",
+      "contentText": null,
+      "summary": "Google's Suncatcher project has successfully launched and brought its prototype space data center online. The satellite, equipped with four Google Tensor Processing Units (TPUs), is designed to test large inference workloads in orbit and has already generated a haiku from its pre-loaded AI model, Gemma 4. Engineers are now assessing the TPUs' performance under thermal stress and space radiation, which can cause data corruption.",
+      "enterpriseAngle": "This initiative could lead to new infrastructure for AI inference, potentially offering enterprises novel ways to process data in space, but also introduces challenges related to hardware reliability in extreme environments and complex space-to-ground communications.",
+      "beginner": "Google is testing a small AI data center in space to see if computers can work well there, which could change how we use AI in the future.",
+      "advanced": "Evaluate the implications of space-based AI inference for distributed workload architectures, considering the resilience of TPUs to radiation-induced bit flips and the feasibility of inter-satellite optical links for coherent processing.",
+      "tags": [
+        "infrastructure",
+        "research",
+        "product",
+        "science"
+      ]
+    },
+    {
+      "id": "d906f2ca87fc",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people'",
+      "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+      "publishedAt": "2026-10-30T16:03:45.000Z",
+      "fetchedAt": "2026-10-30T18:31:20.212Z",
+      "contentText": null,
+      "summary": "Theranos whistleblower Tyler Shultz warns that the AI boom presents a significant opportunity for deception, similar to the fraud at Theranos. He highlights the difficulty in performing due diligence on AI companies, making it challenging to distinguish genuine innovation from superficial applications. Shultz suggests that investors need to be more cautious when funding AI ventures, learning from past mistakes where companies like Theranos raised substantial capital without proven technology.",
+      "enterpriseAngle": "Enterprise security and product development teams must prioritize robust validation and transparency in AI solutions to prevent deceptive practices and ensure genuine value, especially given the difficulty in discerning true innovation from superficial applications. Investors should enhance due diligence processes for AI startups, demanding verifiable evidence of technology efficacy beyond mere promises to mitigate risks of fraud.",
+      "beginner": "It's becoming harder to tell if an AI company's technology is truly new and effective or just a simple repackaging of existing tools, making it easy for some to mislead investors.",
+      "advanced": "Implement rigorous, independent technical audits and demand transparent access to model architectures, training data, and performance benchmarks to validate AI claims and mitigate investment risks in a market prone to 'wrapper' solutions.",
+      "tags": [
+        "governance",
+        "funding",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "62373f3f48e1",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+      "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
+      "publishedAt": "2026-10-30T14:00:00.000Z",
+      "fetchedAt": "2026-10-30T18:31:20.213Z",
+      "contentText": null,
+      "summary": "TechCrunch Founder Summit 2026, held on November 4 in Boston, will utilize Braindate for networking. This platform aims to facilitate easier 1:1 and small-group on-site meetings. Attendees can save up to $100 on passes and receive a second pass for free by registering before the event.",
+      "enterpriseAngle": "Enterprises can leverage networking platforms like Braindate at industry events to streamline connections and foster targeted discussions among their teams and potential partners. This approach can enhance the efficiency of business development and knowledge sharing.",
+      "beginner": "Networking tools at events help people connect more easily for discussions.",
+      "advanced": "Evaluate event networking platforms for their ability to facilitate targeted knowledge exchange and partnership opportunities, optimizing ROI for conference attendance.",
+      "tags": [
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "e9e7beb52b83",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "DoorDash said it's only received ‘several hundred' orders from AI agents",
+      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+      "publishedAt": "2026-10-30T13:54:25.000Z",
+      "fetchedAt": "2026-10-30T18:31:20.213Z",
+      "contentText": null,
+      "summary": "DoorDash has reported that orders placed through third-party AI agents are currently minimal, accounting for only \"several hundred\" compared to its daily average of 3 million deliveries. Despite the low volume, DoorDash is exploring how to engage with these agents and potentially advertise within them, while also developing its own AI ordering tools. The company acknowledges the evolving nature of agent-based commerce, with some companies like Amazon blocking agents and others like Walmart embracing them.",
+      "enterpriseAngle": "Enterprise product teams should monitor the adoption of third-party AI agents for commerce, as it could shift how customers interact with services and create new advertising or integration opportunities. Security teams should consider the implications of AI agents accessing enterprise platforms, ensuring data privacy and system integrity are maintained.",
+      "beginner": "AI agents are computer programs that can act on behalf of users, like ordering food, but they are not yet widely used for placing orders on DoorDash.",
+      "advanced": "Evaluate API strategies to either restrict or facilitate third-party AI agent access, considering both potential revenue streams from agent partnerships and necessary security protocols to prevent misuse or data exposure.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "f63058a65b72",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+      "url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
+      "publishedAt": "2026-10-30T13:00:00.000Z",
+      "fetchedAt": "2026-10-30T18:31:20.213Z",
+      "contentText": null,
+      "summary": "The TechCrunch Founder Summit, presented by Fidelity Private Shares, is a forthcoming event designed to offer founders practical advice, connections, and insights for growing their businesses. With only five days left to register, the summit will feature two breakout stages focusing on company building and sustainable scaling, alongside interactive roundtables for direct engagement. Attendees can expect sessions on distribution, fundraising, emerging AI opportunities, product-market fit, and enterprise relationships.",
+      "enterpriseAngle": "Enterprise product development and security teams can gain insights into emerging AI opportunities and strategies for building enterprise partnerships, which are crucial for integrating new technologies and securing collaborations. The focus on scaling responsibly and navigating competitive markets offers valuable lessons for long-term business sustainability and strategic growth.",
+      "beginner": "This summit helps new founders learn how to turn their ideas into successful businesses by providing practical advice and networking opportunities.",
+      "advanced": "Leverage the summit's roundtables to directly address specific challenges like reducing AI hallucinations or securing major enterprise customers before Series A, and apply these insights to refine your product and market strategy.",
+      "tags": [
+        "enterprise",
+        "product",
+        "funding",
+        "workforce"
+      ]
+    },
+    {
+      "id": "25cc4c9bb2e3",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Making it easier for websites to express AI training preferences",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "publishedAt": "2026-10-30T09:30:00.000Z",
+      "fetchedAt": "2026-10-30T18:31:06.561Z",
+      "contentText": null,
+      "summary": "OpenAI will begin honoring a new, common signal within the robots.txt file, allowing websites to communicate their preferences regarding the use of their content for foundational generative AI training. This initiative aims to simplify the process for publishers and website operators by enabling them to express the same preference to multiple participating AI providers simultaneously. This new signal will complement existing robots.txt controls, which will continue to be respected.",
+      "enterpriseAngle": "Enterprise product development teams can leverage this standardized signal to streamline content usage policies for their AI models, reducing the overhead of managing individual crawler rules. Security teams should note that this provides a clearer mechanism for data governance, helping to prevent unintended content ingestion into AI training datasets.",
+      "beginner": "Websites can now tell many AI companies at once if they don't want their content used to train AI, making it much simpler than before.",
+      "advanced": "Implement the new common signal in robots.txt to efficiently communicate content usage preferences for AI training across multiple providers, reducing administrative burden and enhancing data governance.",
+      "tags": [
+        "policy",
+        "governance",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "c7606af40dbb",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Community safety report and new protections for teens",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "publishedAt": "2026-10-30T09:00:00.000Z",
+      "fetchedAt": "2026-10-30T18:31:06.561Z",
+      "contentText": null,
+      "summary": "OpenAI is enhancing its safety measures for ChatGPT, including a new Community Safeguards Report to be published bi-annually, detailing their approach to detecting and responding to harmful behavior. They are also implementing stronger policy boundaries for all users, particularly regarding information about past mass attacks, and increasing protections for minors by restricting access to weapons-related content. These efforts include improved systems for detecting warning signs of violence and making referrals to law enforcement, with over 200 referrals made in Q3 2026.",
+      "enterpriseAngle": "Enterprise product development teams should note OpenAI's commitment to transparency in safety reporting and their evolving content moderation policies, especially regarding sensitive topics and age-gating. Security teams should be aware of the ongoing efforts in threat detection and law enforcement referrals, which could inform their own AI safety protocols and responsible AI development.",
+      "beginner": "OpenAI is making ChatGPT safer by publishing reports on how it handles harmful content, restricting information about violence, and adding more protections for younger users.",
+      "advanced": "Integrate OpenAI's forthcoming Community Safety Report findings and evolving content policies into your responsible AI frameworks, particularly for model governance and the development of age-appropriate safeguards and content moderation strategies.",
+      "tags": [
+        "product",
+        "governance",
+        "policy",
+        "security"
+      ]
+    },
     {
       "id": "720b04b8c5b9",
       "source": "techcrunch-ai",
@@ -327,6 +492,48 @@
       "tags": [
         "enterprise",
         "partnership",
+        "product"
+      ]
+    },
+    {
+      "id": "6750c2461412",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+      "url": "https://openai.com/index/credit-saison",
+      "publishedAt": "2026-10-29T00:00:00.000Z",
+      "fetchedAt": "2026-10-30T18:31:06.561Z",
+      "contentText": null,
+      "summary": "Credit Saison, a financial company, achieved a 954% return on investment (ROI) in a pilot program using ChatGPT Enterprise. The pilot, involving 315 participants for just over a month, resulted in an average saving of 14 hours per employee per month. This success led to a company-wide rollout of ChatGPT Enterprise to all 3,700 employees in Japan within one month of the pilot's conclusion.",
+      "enterpriseAngle": "Enterprises can achieve significant ROI and time savings by strategically implementing AI tools like ChatGPT Enterprise, especially when leadership actively champions adoption and provides practical training and support. The case demonstrates how custom GPTs can be developed for specific business functions, from sales reporting to shareholder meeting simulations, to enhance productivity and employee satisfaction.",
+      "beginner": "AI tools like ChatGPT can help companies save a lot of time and money by automating tasks and making employees more efficient.",
+      "advanced": "Evaluate the potential for custom GPTs to address specific departmental needs, focusing on use cases that streamline documentation, enhance research, or provide interactive training, and ensure executive buy-in to drive company-wide adoption.",
+      "tags": [
+        "enterprise",
+        "product",
+        "benchmark",
+        "workforce"
+      ]
+    },
+    {
+      "id": "f5c413d73956",
+      "source": "cursor",
+      "sourceName": "Cursor",
+      "tier": "realtime",
+      "title": "Oct 29, 2026 · company Security notice — malicious version of Anthropic.claude-code (2.1.313) identified in the Cursor Extension Marketplace Cursor Team 5m Cursor Team · 5m",
+      "url": "https://cursor.com/blog/claude-code-extension-security-notice",
+      "publishedAt": "2026-10-29",
+      "fetchedAt": "2026-10-30T18:31:07.624Z",
+      "contentText": null,
+      "summary": "Cursor identified a security incident where a malicious version of the Anthropic.claude-code extension (version 2.1.313) was available in its VS Code extension marketplace for approximately 11 hours. This unauthorized extension attempted to install a persistent SSH backdoor, collect host information, and establish a reverse SSH tunnel. Cursor has removed the malicious extension, taken the attacker's server offline, and provided remediation steps for affected users.",
+      "enterpriseAngle": "Enterprise security teams should immediately check if any developers installed the compromised extension and follow the provided remediation steps, including rotating credentials and potentially rebuilding affected machines. This incident highlights the critical need for robust supply chain security practices for development tools and extensions.",
+      "beginner": "A fake version of an AI coding tool was briefly available, which tried to secretly install a backdoor on users' computers.",
+      "advanced": "Scan endpoints for indicators of compromise (IOCs) including specific VSIX SHA-256 hashes, network connections to 134.209.82.225, and the 'svc-telemetry' SSH key, then execute platform-specific remediation scripts and rotate all credentials accessible from impacted hosts.",
+      "tags": [
+        "security",
+        "enterprise",
+        "coding",
         "product"
       ]
     },

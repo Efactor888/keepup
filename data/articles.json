@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-10-31T00:37:36.521Z",
+  "updatedAt": "2026-10-31T17:36:53.469Z",
   "articles": [
+    {
+      "id": "c10fef6ec816",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "publishedAt": "2026-10-31T16:12:55.000Z",
+      "fetchedAt": "2026-10-31T17:36:25.046Z",
+      "contentText": null,
+      "summary": "OpenAI has reportedly lowered its funding target for a new investment round to $20 billion, down from previous expectations of $30 billion. The company has secured $11 billion so far, with a group of investors from the United Arab Emirates leading the round. This adjustment comes as some large investors have shown a \"tepid\" response to fundraising efforts, potentially due to broader market wariness regarding heavy AI infrastructure spending.",
+      "enterpriseAngle": "Enterprise product development teams relying on OpenAI's models should monitor these funding developments, as financial shifts could impact future model releases, service stability, or pricing strategies. Enterprise security teams should be aware that any potential changes in OpenAI's operational focus due to funding could indirectly influence the security features or support for their AI deployments.",
+      "beginner": "OpenAI, a major AI company, is finding it harder to raise as much money as it hoped, which might affect its future plans.",
+      "advanced": "Evaluate the potential long-term implications of OpenAI's revised funding on their R&D pipeline and commercialization strategy, particularly concerning enterprise-grade model development and API stability.",
+      "tags": [
+        "funding",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "c6b2d3ea7917",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "publishedAt": "2026-10-31T01:20:05.000Z",
+      "fetchedAt": "2026-10-31T17:36:25.046Z",
+      "contentText": null,
+      "summary": "Nvidia is reportedly considering guaranteeing billions in debt financing for Nscale's planned AI data center in West Virginia, which will host Anthropic's operations. This arrangement, known as a residual value guarantee, would see Nvidia step in if Nscale defaults on construction payments, temporarily taking over the facility. The move highlights the financial challenges in the AI industry's rapid expansion, as investors become more cautious about the significant capital required for such large-scale infrastructure projects.",
+      "enterpriseAngle": "This potential co-signing arrangement by Nvidia signals a growing trend where major AI hardware providers may need to offer financial guarantees to ensure the buildout of critical AI infrastructure, impacting enterprise product development and deployment timelines. Enterprise teams relying on large-scale AI cloud providers should monitor the financial stability of their infrastructure partners and the potential for such guarantees to influence service availability and pricing.",
+      "beginner": "Nvidia might help a company called Nscale get loans for a huge AI data center, showing how expensive it is to build the computer power needed for AI.",
+      "advanced": "Evaluate the implications of residual value guarantees from hardware vendors on your cloud infrastructure strategy, considering both the stability they offer and the potential for vendor lock-in or influence on future technology choices.",
+      "tags": [
+        "enterprise",
+        "infrastructure",
+        "funding",
+        "partnership"
+      ]
+    },
     {
       "id": "5d6f84404e1c",
       "source": "techcrunch-ai",
@@ -287,6 +328,26 @@
         "governance",
         "policy",
         "security"
+      ]
+    },
+    {
+      "id": "3f421dfac052",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "You don't need to believe in a god to get a religious exemption from using AI at work",
+      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+      "publishedAt": "2026-10-30T01:20:48.000Z",
+      "fetchedAt": "2026-10-31T17:36:25.046Z",
+      "contentText": null,
+      "summary": "A nontheistic humanist, David Durman, successfully obtained a religious exemption from using AI in his workplace at the University of Kentucky. He believes that relying on AI diminishes critical thinking and human flourishing, citing concerns about job displacement, environmental costs, and the impact on human creativity. This follows a similar exemption granted to a Unitarian Universalist software engineer, Erin Maus, highlighting a growing trend of individuals seeking accommodations based on personal beliefs regarding AI.",
+      "enterpriseAngle": "Enterprise security and product development teams should anticipate and prepare for requests for religious or belief-based exemptions from AI use, requiring flexible policies and alternative workflows. Organizations will need to balance the push for AI adoption with individual employee convictions and legal protections.",
+      "beginner": "Some people are getting special permission at work to avoid using AI because they believe it goes against their personal values, even if those values aren't tied to a traditional religion.",
+      "advanced": "Develop a clear, legally compliant framework for evaluating and accommodating employee requests for AI exemptions, ensuring job function continuity while respecting diverse belief systems.",
+      "tags": [
+        "workforce",
+        "policy",
+        "governance"
       ]
     },
     {

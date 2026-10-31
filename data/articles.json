@@ -1,6 +1,108 @@
 {
-  "updatedAt": "2026-10-30T18:33:10.163Z",
+  "updatedAt": "2026-10-31T00:37:36.521Z",
   "articles": [
+    {
+      "id": "5d6f84404e1c",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "publishedAt": "2026-10-30T22:56:13.000Z",
+      "fetchedAt": "2026-10-31T00:36:24.422Z",
+      "contentText": null,
+      "summary": "Ollie, an AI assistant startup focused on user privacy and family organization, is shutting down after failing to keep pace with the competitive AI industry. Despite raising $7.5 million in seed funding and achieving SOC 2 privacy compliance, the company found it difficult to stand out and secure further capital. The app, which helped with tasks like appointment bookings and bill payments, will cease operations on November 6.",
+      "enterpriseAngle": "The shutdown of a privacy-focused AI assistant highlights the challenge of monetizing strong privacy standards in the competitive enterprise AI market, emphasizing that compliance alone may not guarantee success without a compelling product and growth strategy. Enterprise teams should consider the long-term viability of AI vendors, even those with robust privacy credentials, and plan for data export and service continuity.",
+      "beginner": "Even good ideas like privacy-focused AI can struggle to succeed if they can't attract enough users or funding in a crowded market.",
+      "advanced": "When evaluating AI solutions, prioritize vendors with clear differentiation, sustainable growth models, and robust data export capabilities, even if they possess strong compliance certifications like SOC 2, to mitigate vendor risk.",
+      "tags": [
+        "enterprise",
+        "product",
+        "funding",
+        "governance"
+      ]
+    },
+    {
+      "id": "a977761811a9",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Intel's stock crashes, knocking $12B from government's stake",
+      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+      "publishedAt": "2026-10-30T21:54:34.000Z",
+      "fetchedAt": "2026-10-31T00:36:24.422Z",
+      "contentText": null,
+      "summary": "Intel's stock dropped significantly after the company provided a weaker-than-expected revenue outlook for the fourth quarter and warned of declining profit margins. This decline reduced the government's stake in Intel by $12 billion, though the investment remains profitable overall. The company cited rising PC prices due to AI industry demand for components as a key factor impacting sales.",
+      "enterpriseAngle": "Enterprise IT budgets are facing increased pressure from rising PC prices, driven by the AI industry's demand for memory and other components, which could impact hardware procurement strategies. While Intel's data center business is growing, its ability to capitalize on this demand is limited by manufacturing capacity until new fabs come online.",
+      "beginner": "Intel's stock fell because it expects to make less money than anticipated, partly due to AI companies buying up computer parts, making PCs more expensive.",
+      "advanced": "Monitor the supply chain for PC components and memory, as AI industry demand is driving up prices and impacting IT hardware budgets, potentially necessitating adjustments to procurement timelines or vendor negotiations.",
+      "tags": [
+        "enterprise",
+        "infrastructure",
+        "funding"
+      ]
+    },
+    {
+      "id": "1ad66cf690a9",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Anthropic expected to receive high ‘junk' rating from credit agencies following IPO, FT report says",
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "publishedAt": "2026-10-30T21:52:03.000Z",
+      "fetchedAt": "2026-10-31T00:36:24.422Z",
+      "contentText": null,
+      "summary": "A recent forecast predicts that Anthropic will likely receive a high 'junk' credit rating after its IPO. Such a rating would increase the difficulty and cost for Anthropic to secure funding for its substantial operational expenses.",
+      "enterpriseAngle": "For enterprise product development teams, this could signal potential instability for a key AI model provider, impacting long-term planning and reliance on Anthropic's offerings. Enterprise security teams should monitor the financial health of critical AI vendors as part of their supply chain risk assessment.",
+      "beginner": "A 'junk' credit rating means a company might struggle to borrow money cheaply, which could affect its ability to grow.",
+      "advanced": "Evaluate the financial stability of AI model providers like Anthropic to mitigate supply chain risks and ensure continuity for critical AI-powered enterprise applications.",
+      "tags": [
+        "enterprise",
+        "funding"
+      ]
+    },
+    {
+      "id": "ade2d7581a3b",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Last-minute Halloween costumes for tech nerds",
+      "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+      "publishedAt": "2026-10-30T21:26:59.000Z",
+      "fetchedAt": "2026-10-31T00:36:24.422Z",
+      "contentText": null,
+      "summary": "This article offers last-minute Halloween costume ideas for tech enthusiasts, drawing inspiration from current AI trends and tech personalities. Suggestions include dressing as \"recursive self-improvement,\" a \"deceptively cute AI agent,\" or a \"PHP vulnerability.\" Other ideas involve mimicking Mark Zuckerberg's fashion or an AI usage limit notification.",
+      "enterpriseAngle": "Enterprise product development teams could consider the public perception of AI agents and privacy concerns highlighted by 'pervert glasses' when designing user interfaces and features. Security teams might note the 'PHP vulnerability' costume as a reminder of the impact of critical flaws and the importance of continuous vigilance.",
+      "beginner": "You can dress up as tech-related concepts for Halloween, like an AI that's always trying to improve itself or a cute but potentially tricky AI assistant.",
+      "advanced": "Leverage public awareness of AI concepts and vulnerabilities, as demonstrated by these costume ideas, to inform user education campaigns and prioritize security patches for critical systems like PHP.",
+      "tags": [
+        "consumer",
+        "product",
+        "security",
+        "agents"
+      ]
+    },
+    {
+      "id": "07912041c313",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Cracks are emerging in the AI spending boom",
+      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "publishedAt": "2026-10-30T21:17:40.000Z",
+      "fetchedAt": "2026-10-31T00:36:24.422Z",
+      "contentText": null,
+      "summary": "Investors are growing concerned about the massive capital expenditures by Big Tech companies like Alphabet, Amazon, and Meta on AI infrastructure, despite strong demand for AI compute. These companies are reporting negative free cash flow and increasing debt, leading to market anxiety and significant drops in stock values for many tech and chip companies. Microsoft was an exception, reporting positive free cash flow, though it cited delays in third-party capacity for its lower-than-projected spending.",
+      "enterpriseAngle": "Enterprise product development teams should be aware of the increasing costs associated with AI infrastructure, as this could impact the pricing and availability of cloud AI services. Security teams should note that the financial pressures on hyperscalers might influence their investment in robust security measures for these expanding AI infrastructures.",
+      "beginner": "Big tech companies are spending huge amounts of money on AI, but investors are worried they might not make enough profit from these investments.",
+      "advanced": "Evaluate your organization's reliance on hyperscaler AI infrastructure, considering potential cost increases and supply chain vulnerabilities as Big Tech navigates significant capital expenditure and debt challenges.",
+      "tags": [
+        "infrastructure",
+        "funding",
+        "enterprise",
+        "product"
+      ]
+    },
     {
       "id": "a457451f7b0a",
       "source": "techcrunch-ai",
@@ -125,6 +227,27 @@
       ]
     },
     {
+      "id": "3e4e3eed2bbf",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+      "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+      "publishedAt": "2026-10-30T13:00:00.000Z",
+      "fetchedAt": "2026-10-31T00:36:24.422Z",
+      "contentText": null,
+      "summary": "Runware, an AI infrastructure company, plans to mass-produce modular data centers, called Sonic Inference Pods, in a factory similar to car manufacturing. The company aims to scale production to 30 megawatts per day by 2028 and bring these pods online within 48 hours of installation. Runware has secured over $60 million in funding and claims $1 billion in committed interest for its pods.",
+      "enterpriseAngle": "Enterprise product development teams can leverage Runware's modular data centers for faster and more efficient AI infrastructure deployment, potentially reducing setup times from years to months. This approach offers flexibility in customization and the option to rent compute or supply their own GPUs, adapting to evolving hardware needs.",
+      "beginner": "Runware is building a factory to quickly make and set up AI data centers, much like how cars are made, to help companies get their AI systems running faster.",
+      "advanced": "Evaluate Runware's modular data center solution for rapid AI infrastructure deployment, considering its claimed 48-hour online capability and adaptability to new GPU generations, while scrutinizing the scalability of its supply chain and power sourcing strategy for large-scale enterprise integration.",
+      "tags": [
+        "infrastructure",
+        "enterprise",
+        "product",
+        "funding"
+      ]
+    },
+    {
       "id": "25cc4c9bb2e3",
       "source": "openai",
       "sourceName": "OpenAI",
@@ -164,6 +287,27 @@
         "governance",
         "policy",
         "security"
+      ]
+    },
+    {
+      "id": "d2282bcce162",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Fair use benefits everyone",
+      "url": "https://openai.com/index/fair-use-benefits-everyone",
+      "publishedAt": "2026-10-30T00:00:00.000Z",
+      "fetchedAt": "2026-10-31T00:36:22.084Z",
+      "contentText": null,
+      "summary": "OpenAI argues that fair use is crucial for innovation, benefiting various fields from medicine to technology, and is essential for AI training. They contend that AI training uses copyrighted works for a fundamentally different purpose, does not substitute access to those works, and does not cause market harm under copyright law. OpenAI, along with several organizations and experts, has filed briefs supporting fair use in response to The New York Times' lawsuit, which they believe seeks to disregard established legal principles.",
+      "enterpriseAngle": "Enterprise product development teams leveraging AI models, especially open-source systems, rely on fair use principles to learn from diverse data without facing undue copyright restrictions. Restricting fair use could hinder the development of transformative AI technologies and impact various industry sectors, from software to law.",
+      "beginner": "Fair use is a legal principle that allows limited use of copyrighted material without permission, which OpenAI believes is vital for developing new AI technologies.",
+      "advanced": "Advocate for the application of fair use in AI training to ensure continued access to diverse data for model development, mitigating potential legal challenges related to market dilution and enabling transformative AI applications.",
+      "tags": [
+        "policy",
+        "enterprise",
+        "research",
+        "governance"
       ]
     },
     {

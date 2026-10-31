@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-10-31T17:36:53.469Z",
+  "updatedAt": "2026-10-31T23:59:54.536Z",
   "articles": [
+    {
+      "id": "9f56e268b05e",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "publishedAt": "2026-10-31T21:41:00.000Z",
+      "fetchedAt": "2026-10-31T23:59:27.434Z",
+      "contentText": null,
+      "summary": "Apple CEO John Ternus stated that the company will integrate AI into new products but will not release AI features simply for the sake of having them. He emphasized that the focus is on creating products users love, regardless of whether AI or traditional software powers them. Ternus also expressed that product creation remains a deeply human endeavor, even with the potential for AI agents to simplify tasks.",
+      "enterpriseAngle": "Enterprise product development teams can learn from Apple's approach by prioritizing user value and seamless integration over simply adding AI features, ensuring that AI enhances the user experience rather than becoming a standalone gimmick. This strategy can lead to more impactful and adopted enterprise solutions.",
+      "beginner": "Apple plans to use AI in its products in ways that are helpful and natural, so you might not even realize AI is working behind the scenes.",
+      "advanced": "When designing new AI-powered enterprise applications, focus on outcome-driven integration and user experience rather than showcasing AI capabilities as a primary feature, to ensure genuine utility and adoption.",
+      "tags": [
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "5a4bff0c2db2",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "publishedAt": "2026-10-31T21:36:07.000Z",
+      "fetchedAt": "2026-10-31T23:59:27.434Z",
+      "contentText": null,
+      "summary": "The TechCrunch Founder Summit, scheduled for November 4 at Boston's SoWa Power Station, will offer a day of networking and insights for startup founders. Attendees can register now to avoid higher prices at the door.",
+      "enterpriseAngle": "Enterprise product development and security teams can leverage such events for networking, talent acquisition, and identifying potential partnerships or competitive intelligence.",
+      "beginner": "Events like the TechCrunch Founder Summit help new entrepreneurs connect with others and learn how to grow their businesses.",
+      "advanced": "Prioritize attending targeted sessions and pre-schedule meetings with key contacts to maximize networking ROI at industry events.",
+      "tags": [
+        "enterprise",
+        "workforce",
+        "product"
+      ]
+    },
+    {
+      "id": "e07dacdb45dc",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "publishedAt": "2026-10-31T21:17:03.000Z",
+      "fetchedAt": "2026-10-31T23:59:27.434Z",
+      "contentText": null,
+      "summary": "A federal judge has allowed a lawsuit filed by the NAACP against xAI to proceed, rejecting xAI's attempt to dismiss the case. The lawsuit alleges that xAI operated gas turbines at its Colossus data center without obtaining necessary air permits, violating the Clean Air Act. xAI had argued that the turbines were exempt as mobile sources and that the plaintiffs lacked standing, but the judge disagreed on all counts.",
+      "enterpriseAngle": "This ruling highlights the increasing scrutiny on environmental compliance for large-scale AI infrastructure, particularly data centers, and signals potential legal challenges for enterprises that do not adhere to local and federal permitting requirements. Enterprise product development teams should anticipate stricter regulatory environments and factor environmental impact into their infrastructure planning.",
+      "beginner": "A judge decided that a lawsuit against xAI, a company that builds AI, can continue because it might have built a large computer center without getting the right environmental permits.",
+      "advanced": "Enterprise legal and infrastructure teams should review their environmental permitting processes for data center operations, especially concerning power generation, given the judicial affirmation of citizen suit standing under the Clean Air Act and the rejection of 'mobile source' exemptions for fixed installations.",
+      "tags": [
+        "enterprise",
+        "policy",
+        "infrastructure",
+        "governance"
+      ]
+    },
     {
       "id": "c10fef6ec816",
       "source": "techcrunch-ai",

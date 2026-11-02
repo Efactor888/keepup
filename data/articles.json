@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-11-01T18:20:53.068Z",
+  "updatedAt": "2026-11-02T00:30:04.982Z",
   "articles": [
+    {
+      "id": "0dbf0226aa90",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "publishedAt": "2026-11-01T21:55:23.000Z",
+      "fetchedAt": "2026-11-02T00:29:46.315Z",
+      "contentText": null,
+      "summary": "OpenAI is reportedly planning a public relations campaign to influence the ongoing AI debate, especially as AI is expected to be a major issue in the 2028 presidential election. Part of this strategy includes rebranding data centers as \"AI compute campuses\" to improve public perception. The company also aims to promote AI \"speed limits,\" highlight AI's empowering aspects, and advocate for U.S. leadership in global AI standards.",
+      "enterpriseAngle": "Enterprise infrastructure teams may need to consider how public perception and regulatory scrutiny of AI compute facilities could impact their operations and community relations. Product development teams should also be aware of the push for \"AI speed limits\" and global standards, which could influence future AI product design and deployment.",
+      "beginner": "OpenAI wants to change how people think about the big computer centers that power AI, hoping to make them seem more positive.",
+      "advanced": "As public and regulatory scrutiny intensifies around AI infrastructure, proactively engaging with local communities and transparently communicating the benefits and safeguards of AI compute facilities will be crucial for maintaining operational social license.",
+      "tags": [
+        "enterprise",
+        "policy",
+        "infrastructure",
+        "governance"
+      ]
+    },
+    {
+      "id": "bb2642061f37",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "publishedAt": "2026-11-01T20:57:58.000Z",
+      "fetchedAt": "2026-11-02T00:29:46.315Z",
+      "contentText": null,
+      "summary": "Tech CEOs, including Marissa Mayer, Sam Altman, and Mark Zuckerberg, are facing criticism for promoting AI use cases that appear out-of-touch with the average person's daily life. Examples include using AI for personal tasks like school descriptions or dating, leading to questions about whether AI executives are building products for normal people. This trend raises concerns about the potential for AI to optimize out basic human interaction, despite the financial incentives for companies to integrate AI into every aspect of life.",
+      "enterpriseAngle": "Enterprise product development teams should be cautious of insular perspectives when designing AI solutions, ensuring that proposed use cases genuinely address broad user needs rather than just the pain points of a select few. Focusing on practical, relatable applications will be crucial for widespread adoption and avoiding the perception of being out-of-touch, especially as investor appetite for AI spending becomes more discerning.",
+      "beginner": "Some AI company leaders suggest using AI for many personal tasks, but critics worry these ideas don't reflect what most people need or want, potentially reducing human interaction.",
+      "advanced": "To mitigate market skepticism and ensure product-market fit, enterprise AI strategists should prioritize user research beyond executive circles, focusing on diverse demographic needs to develop AI applications that offer tangible, relatable value without alienating users through over-optimization of human experiences.",
+      "tags": [
+        "enterprise",
+        "product",
+        "consumer",
+        "governance"
+      ]
+    },
     {
       "id": "9f56e268b05e",
       "source": "techcrunch-ai",

@@ -1,6 +1,212 @@
 {
-  "updatedAt": "2026-11-02T22:17:14.962Z",
+  "updatedAt": "2026-11-03T20:03:41.406Z",
   "articles": [
+    {
+      "id": "42ec3b43220b",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "publishedAt": "2026-11-03T19:34:43.000Z",
+      "fetchedAt": "2026-11-03T20:01:19.926Z",
+      "contentText": null,
+      "summary": "Fal, a San Francisco-based AI inference startup, has doubled its valuation to $16 billion after raising $1.3 billion in its latest funding round, led by Bessemer Venture Partners with participation from Nvidia. The company, which hosts and runs AI video, image, and audio models, has seen surging demand for its inference services, particularly from customers using open-source models. Fal's annualized revenue surpassed $800 million earlier this year, but the high cost of compute keeps gross margins thin for inference providers.",
+      "enterpriseAngle": "Enterprise product development teams can leverage inference services like Fal's to deploy and scale AI models, especially open-source ones, for various applications such as video, image, and audio generation. However, enterprises should be aware of the thin gross margins in this sector due to high compute costs, which could impact pricing and long-term service stability.",
+      "beginner": "AI inference is the process where a trained AI model is run to produce new outputs, like generating images or audio.",
+      "advanced": "Evaluate the cost-efficiency and scalability of third-party inference providers against in-house deployment, considering the impact of high compute costs on vendor pricing and potential future service stability.",
+      "tags": [
+        "funding",
+        "enterprise",
+        "infrastructure",
+        "product"
+      ]
+    },
+    {
+      "id": "36315b3cb5b6",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Netflix's new AI Discover tab helps you find something to watch based on your mood",
+      "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+      "publishedAt": "2026-11-03T18:42:16.000Z",
+      "fetchedAt": "2026-11-03T20:01:19.926Z",
+      "contentText": null,
+      "summary": "Netflix has launched a new \"AI Discover\" tab, an experimental feature designed to help users find content based on their mood, viewing preferences, and available time. This feature aims to move beyond endless scrolling by offering curated themes like \"something light\" or \"scare me,\" powered by a new intelligence layer that learns from user input. The company views this tab as a \"test kitchen\" to refine discovery features before integrating them into the main experience.",
+      "enterpriseAngle": "For enterprise product development teams, this demonstrates a strategy of using AI-powered experimental features in a dedicated 'test kitchen' environment to gather user feedback and iterate rapidly before full integration, minimizing risk and optimizing user experience. It also highlights the growing importance of real-time, personalized AI recommendations to enhance user engagement and content discoverability in large digital libraries.",
+      "beginner": "Netflix is using AI to help you find movies and shows more easily by suggesting things based on your mood or how much time you have.",
+      "advanced": "Implement A/B testing within a dedicated 'discovery lab' environment to rapidly validate user-centric AI recommendation features and gather iterative feedback before broader rollout, focusing on real-time adaptive learning models.",
+      "tags": [
+        "product",
+        "consumer",
+        "learning",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "a4abd1e2a1c1",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Anthropic is still grappling with the economics of compute",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+      "publishedAt": "2026-11-03T17:07:01.000Z",
+      "fetchedAt": "2026-11-03T20:01:19.926Z",
+      "contentText": null,
+      "summary": "Anthropic's recent financial filings show that while its revenue is growing significantly, its operating losses are also increasing due to rising compute costs. In the last quarter, compute expenses accounted for 58% of its revenue, up from 48% previously, as the company paid higher rates for short-term compute commitments to meet demand. This trend is impacting its compute margins, which have worsened despite overall revenue growth.",
+      "enterpriseAngle": "Enterprise product development teams relying on AI models should be aware of the volatile and potentially increasing costs associated with compute infrastructure, especially when demand outstrips readily available long-term commitments. This highlights the importance of strategic compute procurement and potentially exploring in-house infrastructure solutions to manage expenses and ensure scalability.",
+      "beginner": "Even successful AI companies face challenges with the high cost of the powerful computers needed to run their services.",
+      "advanced": "Evaluate your organization's compute procurement strategy, considering the trade-offs between flexible, higher-cost short-term compute and more economical, long-term commitments, while also exploring proprietary infrastructure development to mitigate dependency on external providers.",
+      "tags": [
+        "enterprise",
+        "infrastructure",
+        "funding",
+        "product"
+      ]
+    },
+    {
+      "id": "ba273efe94ab",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+      "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+      "publishedAt": "2026-11-03T16:30:34.000Z",
+      "fetchedAt": "2026-11-03T20:01:19.926Z",
+      "contentText": null,
+      "summary": "Google will disable its AI tools for K-12 students by default next year, requiring school administrators to explicitly enable them. This change, which affects products like Gemini and Google Search, means that schools opting to restrict AI will also lose access to Google Search due to the deep integration of AI features within the search engine. Google's vice president for education stated that \"Search and AI are deeply integrated,\" making them inseparable.",
+      "enterpriseAngle": "Enterprise product development teams, especially those in education technology, must consider the implications of deeply integrating AI features into core products, as it can create difficult choices for institutional clients regarding feature access and control. This also highlights the need for clear communication and transition plans when rolling out significant product changes that impact user access.",
+      "beginner": "Google is making its AI tools optional for schools, but if a school turns off AI, they might also lose access to Google Search because AI is now built into it.",
+      "advanced": "When integrating AI into core product offerings, ensure granular control options are available to enterprise clients to avoid forcing an all-or-nothing adoption scenario that could lead to product abandonment or user friction.",
+      "tags": [
+        "product",
+        "policy",
+        "enterprise",
+        "consumer"
+      ]
+    },
+    {
+      "id": "b20c657114df",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Apple restricts dating apps and AI companions to users 18 and up",
+      "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+      "publishedAt": "2026-11-03T15:38:27.000Z",
+      "fetchedAt": "2026-11-03T20:01:19.926Z",
+      "contentText": null,
+      "summary": "Apple is updating its App Store policies to restrict dating apps and AI companions with \"sexual or romantic content\" to users aged 18 and older. This change, effective November 16, requires developers to use new content descriptors to accurately reflect their app's features and age ratings. The policy also mandates disclosure for apps sharing users' real-world locations.",
+      "enterpriseAngle": "Enterprise product development teams creating consumer-facing AI companion or social apps must ensure their age ratings and content descriptors comply with Apple's new policies, particularly regarding romantic or sexual content and location sharing. This impacts app design, content moderation, and user onboarding processes to prevent access by minors and address privacy concerns.",
+      "beginner": "Apple is making sure that apps with dating or AI companions that talk about romance are only for adults, and apps that share your location have to tell you.",
+      "advanced": "Developers should audit existing and planned AI companion and dating apps for compliance with Apple's updated 18+ age rating and content descriptor requirements, specifically addressing romantic/sexual content and explicit location-sharing disclosures, to avoid App Store delisting or rejections.",
+      "tags": [
+        "policy",
+        "product",
+        "consumer"
+      ]
+    },
+    {
+      "id": "b5b460571a4b",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
+      "url": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
+      "publishedAt": "2026-11-03T14:30:00.000Z",
+      "fetchedAt": "2026-11-03T20:01:19.926Z",
+      "contentText": null,
+      "summary": "The TechCrunch Founder Summit 2026, held in Boston, offers a one-day event for founders and investors focusing on practical learning, candid conversations, and networking. The summit features sessions on building and scaling businesses, fundraising trends, team building, and product-market fit. Attendees can also participate in smaller roundtables, live pitching sessions, and structured networking opportunities.",
+      "enterpriseAngle": "Enterprise product development and security teams can gain insights from discussions on scaling, product-market fit, and building enterprise trust, especially in sessions addressing reducing AI hallucinations with better enterprise context and strategies for landing major global customers. The focus on practical challenges and enterprise selling can inform how companies approach their own product development and market entry strategies.",
+      "beginner": "The summit provides practical lessons for new founders on how to build and grow a company, from getting initial distribution to understanding fundraising trends.",
+      "advanced": "Experienced practitioners should leverage the roundtables to dive into specific challenges like reducing AI hallucinations with better enterprise context or strategies for entering difficult verticals and building enterprise trust.",
+      "tags": [
+        "enterprise",
+        "product",
+        "funding",
+        "workforce"
+      ]
+    },
+    {
+      "id": "26c6032e1d26",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Accelerating engineering for the physical world",
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "publishedAt": "2026-11-03T12:00:00.000Z",
+      "fetchedAt": "2026-11-03T20:01:17.381Z",
+      "contentText": null,
+      "summary": "OpenAI is advancing its AI models to assist engineers in designing, simulating, and building physical products, including mechanical and electrical components and end-to-end systems. These AI capabilities, demonstrated with models like Astra and GPT-6, are already helping OpenAI's internal hardware teams accelerate their design and iteration processes. The company is also collaborating with external industry partners to further develop and safely deploy these AI tools in engineering and manufacturing workflows.",
+      "enterpriseAngle": "Enterprise product development and manufacturing teams can leverage these AI advancements to significantly speed up design cycles, automate routine engineering tasks, and improve cross-disciplinary coordination, leading to faster innovation and reduced time-to-market for complex physical products. However, initial deployments may require human oversight to address gaps in manufacturing constraints and tolerances.",
+      "beginner": "AI is being used to help engineers create new physical products faster, from designing how they look to picking out their electronic parts.",
+      "advanced": "Integrate frontier models like GPT-6 and Astra into your engineering workflows for CAD modeling, PCB design, and simulation setup, while establishing robust human-in-the-loop review processes to validate AI-generated designs against manufacturing constraints and assembly requirements.",
+      "tags": [
+        "product",
+        "enterprise",
+        "research",
+        "coding"
+      ]
+    },
+    {
+      "id": "0e022216c2cb",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "How “reverse game theory” could keep AI agents in check",
+      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "publishedAt": "2026-11-03T10:43:41.000Z",
+      "fetchedAt": "2026-11-03T20:01:20.318Z",
+      "contentText": null,
+      "summary": "A new concept called \"reverse game theory\" is being explored to help control advanced AI models. This approach focuses on designing systems that encourage AI to follow established rules and align with human intentions. The goal is to prevent powerful AI agents from acting autonomously in ways that could be problematic.",
+      "enterpriseAngle": "Enterprise security and product development teams should consider how mechanism design principles from reverse game theory could be integrated into AI system architectures to enforce desired behaviors and prevent unintended actions. This could involve designing reward structures or operational constraints that guide AI agents toward compliant and beneficial outcomes.",
+      "beginner": "Reverse game theory is a way to make sure AI models follow rules by setting up systems that reward them for good behavior.",
+      "advanced": "Implement mechanism design principles to create incentive structures and operational constraints within AI agent architectures, ensuring alignment with enterprise security policies and product objectives.",
+      "tags": [
+        "agents",
+        "security",
+        "research"
+      ]
+    },
+    {
+      "id": "08b710f1e780",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "url": "https://openai.com/index/heimstaden",
+      "publishedAt": "2026-11-03T08:00:00.000Z",
+      "fetchedAt": "2026-11-03T20:01:17.381Z",
+      "contentText": null,
+      "summary": "Heimstaden, a European residential real estate operator, is using OpenAI's ChatGPT and Codex to transform property management. They have achieved a 99% reduction in property image production costs and analyzed over 20,000 property assets with AI. This initiative aims to empower employees, rethink core business processes, and move towards more self-operating buildings.",
+      "enterpriseAngle": "Enterprises can leverage AI to significantly reduce operational costs, streamline complex processes like property marketing and risk assessment, and empower non-technical domain experts to build data solutions. This demonstrates how AI can drive efficiency and innovation across various business functions.",
+      "beginner": "AI is helping a real estate company manage homes better by automating tasks like creating property ads and analyzing data, making things faster and cheaper.",
+      "advanced": "Implement a phased AI adoption strategy focusing on empowering domain experts with tools like Codex for data discovery and pipeline development, while establishing a central transformation office to coordinate larger initiatives and ensure data readiness.",
+      "tags": [
+        "enterprise",
+        "product",
+        "coding",
+        "workforce"
+      ]
+    },
+    {
+      "id": "a6e20d8d1eb1",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+      "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+      "publishedAt": "2026-11-03T04:18:47.000Z",
+      "fetchedAt": "2026-11-03T20:01:20.318Z",
+      "contentText": null,
+      "summary": "President Trump issued an executive order in late September, directing all government agencies to rename \"artificial intelligence\" as \"Super Intelligence.\" This directive was the sole instruction within the executive order.",
+      "enterpriseAngle": "Enterprise product and marketing teams working with government contracts will need to update their terminology to align with the new \"Super Intelligence\" designation, potentially impacting branding and communication strategies. This rebranding could also influence public perception and understanding of AI technologies within a government context.",
+      "beginner": "The government is changing the name it uses for AI to \"Super Intelligence.\"",
+      "advanced": "Monitor government communications and RFPs for the term \"Super Intelligence\" and adjust internal and external messaging accordingly to maintain compliance and relevance in public sector engagements.",
+      "tags": [
+        "policy",
+        "governance"
+      ]
+    },
     {
       "id": "855688c450b2",
       "source": "techcrunch-ai",
@@ -61,6 +267,48 @@
         "policy",
         "enterprise",
         "security"
+      ]
+    },
+    {
+      "id": "6fd6ad7938fa",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "publishedAt": "2026-11-02T18:00:00.000Z",
+      "fetchedAt": "2026-11-03T20:01:17.381Z",
+      "contentText": null,
+      "summary": "OpenAI is significantly increasing rewards in its Security Bug Bounty program to encourage independent researchers to find vulnerabilities in its software. The company is quadrupling the midpoint of reward ranges for medium, high, and critical findings, with exceptional critical vulnerabilities potentially earning up to $172,000 with bonuses. New incentives include bonuses for high-quality reports, a tiered loyalty program for consistent contributors, and priority campaign multipliers for newly launched features.",
+      "enterpriseAngle": "Enterprise security teams can learn from OpenAI's approach to incentivizing external security research through increased bug bounties and loyalty programs, which can enhance product security by leveraging a broader pool of expertise. Product development teams should consider integrating similar external researcher engagement strategies to identify and fix vulnerabilities before product launches.",
+      "beginner": "OpenAI is paying more money to security experts who find flaws in its AI systems, helping to make them safer for everyone.",
+      "advanced": "Implement a tiered bug bounty program with quality and loyalty multipliers, and consider dedicated priority campaigns for new feature releases, to maximize external security research engagement and accelerate vulnerability remediation.",
+      "tags": [
+        "security",
+        "enterprise",
+        "product",
+        "policy"
+      ]
+    },
+    {
+      "id": "262cfa35f430",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "publishedAt": "2026-11-02T18:00:00.000Z",
+      "fetchedAt": "2026-11-03T20:01:17.381Z",
+      "contentText": null,
+      "summary": "OpenAI is launching a new internal security sprint, collaborating with Cathedral researchers to use their AI models to identify and fix system weaknesses. They are also enhancing their Security Bug Bounty program by significantly increasing rewards for critical findings. This initiative is part of OpenAI's ongoing strategy to leverage AI for continuous defense against emerging threats.",
+      "enterpriseAngle": "Enterprise security teams can learn from OpenAI's approach of integrating AI models and external security partnerships to continuously test and harden their systems, moving beyond traditional cyber defenses. Product development teams should consider how to dedicate resources and utilize AI tools to proactively find and patch vulnerabilities in their own offerings.",
+      "beginner": "OpenAI is using its own advanced AI to find and fix security problems in its systems, much like a company hiring experts to test its locks and alarms.",
+      "advanced": "Integrate AI-powered vulnerability discovery and patching into your SDLC, leveraging internal models and external security partnerships to establish continuous defensive loops and proactively address emerging threats.",
+      "tags": [
+        "security",
+        "enterprise",
+        "product",
+        "research"
       ]
     },
     {
@@ -144,6 +392,27 @@
         "enterprise",
         "product",
         "infrastructure"
+      ]
+    },
+    {
+      "id": "de4cf53f9db9",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Scaling Git at OpenAI",
+      "url": "https://openai.com/index/scaling-git-at-openai",
+      "publishedAt": "2026-11-02T15:30:00.000Z",
+      "fetchedAt": "2026-11-03T20:01:17.381Z",
+      "contentText": null,
+      "summary": "OpenAI developed Pando, a new backend for Git repositories, to address the scaling challenges of their monorepo, which struggled with increased demands from agentic development. Pando significantly improved push latency by nearly five times and now handles close to a petabyte of Git data daily. This new system maintains compatibility with existing Git protocols and clients, allowing both engineers and AI agents to integrate it seamlessly into their workflows.",
+      "enterpriseAngle": "Enterprise product development teams can learn from OpenAI's approach to scaling Git for large, concurrent workloads, especially in environments leveraging AI agents for development. The Pando system demonstrates how to enhance source control performance without disrupting developer workflows, offering a model for improving infrastructure efficiency and developer productivity.",
+      "beginner": "OpenAI created a new system called Pando to make their code management faster and more reliable, especially as their AI tools help engineers work on more projects at once.",
+      "advanced": "Evaluate Pando's horizontally scalable writes and optimized read throughput strategies, particularly its independent branch updates and packfile reuse, for potential application in your own monorepo scaling initiatives while maintaining Git protocol compatibility.",
+      "tags": [
+        "enterprise",
+        "product",
+        "infrastructure",
+        "coding"
       ]
     },
     {

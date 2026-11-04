@@ -1,6 +1,87 @@
 {
-  "updatedAt": "2026-11-03T20:03:41.406Z",
+  "updatedAt": "2026-11-04T01:13:13.987Z",
   "articles": [
+    {
+      "id": "993e48dc4504",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Anthropic is working on a system to prove AI models' identity",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "publishedAt": "2026-11-03T22:41:03.000Z",
+      "fetchedAt": "2026-11-04T01:10:05.114Z",
+      "contentText": null,
+      "summary": "Anthropic is developing FlashProve, an open-source system designed to cryptographically verify which AI model produced a specific output. This system aims to provide a mathematical guarantee, or \"provable inference,\" that an output originated from the claimed model, similar to email signatures.",
+      "enterpriseAngle": "FlashProve could help enterprises ensure they are receiving outputs from the specific AI models they intend to use, preventing vendors from substituting models or inflating performance claims, and enabling verification of third-party AI service claims.",
+      "beginner": "Anthropic is creating a way to prove that an AI's answer really came from the AI model you thought you were using.",
+      "advanced": "Integrate FlashProve's open-source cryptographic verification into your AI pipeline to ensure model provenance and prevent undisclosed model substitutions, while collaborating on its ongoing research and development.",
+      "tags": [
+        "research",
+        "security",
+        "governance",
+        "product"
+      ]
+    },
+    {
+      "id": "97ea381abb97",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Data centers are turning to old jet engines as the wait for power grows",
+      "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+      "publishedAt": "2026-11-03T22:19:53.000Z",
+      "fetchedAt": "2026-11-04T01:10:05.114Z",
+      "contentText": null,
+      "summary": "Data center developers are using old jet engines to generate power due to long waits for grid access and new turbines. This solution is less efficient and less environmentally friendly than traditional power sources.",
+      "enterpriseAngle": "Enterprise infrastructure teams building or expanding data centers may face increased costs and environmental concerns due to reliance on less efficient power generation methods. This trend could impact the speed of AI infrastructure deployment and operational expenses for compute-intensive workloads.",
+      "beginner": "Data centers, which power AI, are struggling to get enough electricity and are using old jet engines as a temporary fix.",
+      "advanced": "Evaluate alternative power generation strategies and their associated CapEx/OpEx, including the environmental impact, when planning new data center builds or expansions to mitigate grid access delays.",
+      "tags": [
+        "infrastructure",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "f7b02949050d",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Ted Schlein's Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+      "publishedAt": "2026-11-03T21:43:08.000Z",
+      "fetchedAt": "2026-11-04T01:10:05.114Z",
+      "contentText": null,
+      "summary": "Ballistic Ventures, a venture capital firm specializing in cybersecurity, is seeking to raise $490 million across two new funds. This fundraising effort comes amidst a growing trend where artificial intelligence is both enhancing cyberattack sophistication and creating new opportunities for cybersecurity startups. The firm's strategy aligns with other cybersecurity investors, focusing on companies that address evolving threats.",
+      "enterpriseAngle": "Enterprise security teams face increasing threats from AI-powered cyberattacks, necessitating advanced defense solutions. This funding indicates a robust investment landscape for startups developing AI-driven cybersecurity products, which could offer new tools for enterprises to protect their assets.",
+      "beginner": "AI is making cyberattacks more advanced, but it's also creating new ways for companies to defend themselves.",
+      "advanced": "Evaluate emerging AI-enabled cybersecurity solutions for their efficacy against increasingly sophisticated, AI-driven threats, focusing on those backed by specialized VC firms like Ballistic Ventures.",
+      "tags": [
+        "funding",
+        "security",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "032b81f3baec",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Hiding inside Palantir's skyrocketing quarter is a foreboding signal",
+      "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+      "publishedAt": "2026-11-03T21:05:55.000Z",
+      "fetchedAt": "2026-11-04T01:10:05.114Z",
+      "contentText": null,
+      "summary": "Palantir reported strong third-quarter earnings, with revenue growing 96% year-over-year to $2.31 billion, surpassing analyst expectations. For the first time, the company's U.S. commercial revenue exceeded its U.S. government revenue, driven by demand for its secure AI software. However, a potential concern is the trend of enterprises signing shorter-term trial contracts for AI software, even as they adopt it quickly.",
+      "enterpriseAngle": "Enterprise product development teams should note the market's willingness to quickly adopt AI software through trials, indicating a need for rapid deployment and demonstrable value, while security teams can leverage solutions like Palantir's that allow secure, in-house model training without external data sharing.",
+      "beginner": "Companies are quickly trying out new AI software, but they are also more willing to cancel those contracts if they don't see immediate value.",
+      "advanced": "To capitalize on rapid enterprise AI adoption, focus on developing modular, easily deployable AI solutions that offer clear, short-term ROI to convert trials into expanded, long-term contracts.",
+      "tags": [
+        "enterprise",
+        "product",
+        "funding"
+      ]
+    },
     {
       "id": "42ec3b43220b",
       "source": "techcrunch-ai",
@@ -127,6 +208,22 @@
       ]
     },
     {
+      "id": "994bc94aa467",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
+      "url": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
+      "publishedAt": "2026-11-03T14:00:00.000Z",
+      "fetchedAt": "2026-11-04T01:10:05.114Z",
+      "contentText": "Tomorrow is it! TechCrunch Founder Summit , presented by Fidelity Private Shares, brings founders and investors together at Boston’s SoWa Power Station for a full day focused on building what comes next. Secure your ticket savings before prices increase when doors open at 9 a.m. ET. Whether you're attending solo, bringing a co-founder, or rallying your team, there’s a deal for everyone: Just for you: Save up to $100 on your ticket. Bringing a partner or co-founder? Buy one ticket and get a second pass free Registering a group of 4–12? Save 15% Bringing a group of 13 or more? Get 30% off Don't wait until doors open. Lock in your savings now. Image Credits: Halo Creative Practical takeaways to scale your startup One day to tackle the questions founders carry all year: How do you know you have a real product-market fit? When is it actually time to scale? What does an investor need to hear before agreeing to another meeting? How do you build a team that can keep up? How do you win enterprise customers when you’re still early? Can you build a category-defining company outside Silicon Valley? Founder Summit puts those questions at the center of the day. Explore the full agenda to get to know the scaling experts leading the sessions. Image Credits: Halo Creative / Flickr (opens in a new window) Choose how you want to learn Head to the Build Stage for tactical lessons around fundraising, distribution, teams, and pitching. Use the Impact Stage to think about product-market fit, scale, enterprise relationships, and long-term growth. Go deeper in smaller roundtable conversations . Watch founders put their stories to the test during the live pitch competition. Use the Braindate networking app to connect one-on-one or in small groups with people who want to talk about the same problems you do. Then keep the conversation going at the closing reception. Save on your pass before doors open tomorrow You can read founder advice online all year. Tomorrow is about asking the question yourself. Meeting the person. Hearing the answer firsthand. Finding the idea you can take back to your team the next morning. If Founder Summit has been sitting on your calendar as a maybe, this is your final call. TechCrunch Founder Summit , presented by Fidelity Private Shares, takes place tomorrow, November 4, at SoWa Power Station in Boston. Register now and save on your pass before doors open tomorrow at 9 a.m. ET. Image Credits: TechCrunch Topics AI , Biotech & Health , Climate , Fintech , Fundraising , Startups , TC , Venture When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. TechCrunch Events View Bio November 4 Boston Buy One Pass, Get a Second Free Cover more ground at TechCrunch's ultimate founder bootcamp of the year by bringing your co-founder or partner for free Book before the BOGO deal expires Register Now Most Popular Anthropic warns that it's very close to RSI capability, aka self-building AI Julie Bort New York Times and other outlets sue web browser Brave over alleged content scraping Rebecca Bellan Anthropic expected to receive high ‘junk' rating from credit agencies following IPO, FT report says Lucas Ropek Google's first data center satellite is online and writing poetry Tim Fernholz Binance pauses withdrawals as hackers suspected of stealing billions in crypto Zack Whittaker As search traffic dries up, Reddit announces it's shifting to a logged-in experience Sarah Perez Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction Marina Temkin",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
+    {
       "id": "26c6032e1d26",
       "source": "openai",
       "sourceName": "OpenAI",
@@ -189,6 +286,48 @@
       ]
     },
     {
+      "id": "a2357e701f02",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "url": "https://openai.com/index/cisco-cyber",
+      "publishedAt": "2026-11-03T08:00:00.000Z",
+      "fetchedAt": "2026-11-04T01:10:02.988Z",
+      "contentText": null,
+      "summary": "Cisco is integrating OpenAI models with its network intelligence to enhance enterprise security. This collaboration aims to create more adaptive defenses against AI-driven automated attacks by correlating network signals at machine scale. The partnership leverages OpenAI's data privacy measures, including zero data retention, to ensure secure deployment across critical systems.",
+      "enterpriseAngle": "Enterprise security teams can leverage AI to accelerate threat investigation and remediation, moving from a single security perimeter to distributed controls across microservices. This approach helps organizations outpace AI-powered attacks and improve overall security posture without fundamentally altering existing workflows.",
+      "beginner": "Cisco is using AI to make computer networks safer by detecting threats faster and fixing problems more quickly.",
+      "advanced": "Implement AI-driven correlation of network telemetry with application-level controls to establish a distributed security fabric, enabling machine-speed threat detection and selective isolation of affected microservices.",
+      "tags": [
+        "enterprise",
+        "security",
+        "product",
+        "partnership"
+      ]
+    },
+    {
+      "id": "0947affcb4cc",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Apple Watch's AI features for rewinding and recapping conversations begin beta testing",
+      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+      "publishedAt": "2026-11-03T07:20:00.000Z",
+      "fetchedAt": "2026-11-04T01:10:05.114Z",
+      "contentText": null,
+      "summary": "Apple is beta testing new AI-powered \"Audio Intelligence\" features for the Apple Watch Series 12, including Live Rewind and Siri Recaps. Live Rewind allows users to quickly review the last 15 seconds of a conversation as a text snippet, while Siri Recaps provides summarized notes of conversations without saving raw audio or identifying speakers. These features are designed with privacy considerations, using on-device processing and a secure enclave to handle audio data.",
+      "enterpriseAngle": "Enterprise product development teams can learn from Apple's approach to integrating AI features into wearables, particularly regarding user control, privacy-preserving design (on-device processing, secure enclaves), and clear signaling for ambient listening. This also highlights the growing trend of AI-driven productivity tools that aim to augment human memory and note-taking in professional settings.",
+      "beginner": "Apple Watch is getting new AI features that can help you catch up on missed parts of conversations or summarize meetings, with built-in privacy protections.",
+      "advanced": "Evaluate the secure enclave and on-device processing architecture implemented by Apple for ambient audio intelligence in wearables, considering its implications for data privacy, compliance, and the development of similar enterprise-grade AI applications.",
+      "tags": [
+        "product",
+        "enterprise",
+        "security",
+        "consumer"
+      ]
+    },
+    {
       "id": "a6e20d8d1eb1",
       "source": "mit-tr-ai",
       "sourceName": "MIT Technology Review",
@@ -205,6 +344,26 @@
       "tags": [
         "policy",
         "governance"
+      ]
+    },
+    {
+      "id": "3d509e27bae2",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "publishedAt": "2026-11-03T00:00:00.000Z",
+      "fetchedAt": "2026-11-04T01:10:02.988Z",
+      "contentText": null,
+      "summary": "OpenAI has appointed Jill Hazelbaker as its new Chief Corporate Affairs Officer. She will be responsible for leading the company's global communications and corporate positioning to deepen public understanding and strengthen trust in AI. Hazelbaker brings extensive experience from Uber, Snap, Google, and U.S. politics, where she managed communications, public policy, and corporate affairs during periods of significant growth and challenges.",
+      "enterpriseAngle": "This appointment signals OpenAI's strategic focus on enhancing its public image and navigating complex regulatory landscapes, which is crucial for enterprises adopting and integrating AI technologies. Enterprise product development and security teams should anticipate increased transparency and engagement from OpenAI regarding AI's societal impact and governance.",
+      "beginner": "OpenAI hired a new leader to help explain AI to the public and build trust in the technology.",
+      "advanced": "Leverage OpenAI's enhanced corporate affairs leadership to engage in more proactive dialogues regarding AI governance, ethical deployment, and public perception, influencing policy and fostering responsible AI adoption within your organization.",
+      "tags": [
+        "enterprise",
+        "governance",
+        "workforce"
       ]
     },
     {
@@ -517,6 +676,27 @@
         "coding",
         "enterprise",
         "agents"
+      ]
+    },
+    {
+      "id": "ff138f709a7e",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "url": "https://openai.com/index/dan-driscoll-joins-openai",
+      "publishedAt": "2026-11-02T00:00:00.000Z",
+      "fetchedAt": "2026-11-04T01:10:02.988Z",
+      "contentText": null,
+      "summary": "OpenAI has appointed Dan Driscoll, former Secretary of the Army, as Senior Counselor for National Security Modernization. In this new role, Driscoll will advise on how advanced AI can enhance national and cyber security, focusing on responsible use with U.S. allies. His work will involve collaborating with various sectors to advance practical modernization initiatives that support democratic AI.",
+      "enterpriseAngle": "Enterprises developing AI solutions can anticipate increased focus on integrating AI for national and cyber security applications, particularly in collaboration with government and allied institutions. This appointment signals a push for AI products that align with democratic principles and operational needs of global security institutions.",
+      "beginner": "A new expert at OpenAI will help governments and allies use AI safely to improve national and cyber security.",
+      "advanced": "Leverage this appointment as an opportunity to engage with OpenAI on developing AI solutions that meet national security modernization requirements and align with democratic AI principles, particularly for cyber resilience and essential services.",
+      "tags": [
+        "enterprise",
+        "policy",
+        "security",
+        "partnership"
       ]
     },
     {
@@ -1461,6 +1641,22 @@
         "enterprise",
         "product"
       ]
+    },
+    {
+      "id": "bbd4d7a8dcb5",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Evernote turns AI-driven discovery into paid subscriptions",
+      "url": "https://openai.com/ads/customers/evernote",
+      "publishedAt": "2026-10-28T19:40:49.000Z",
+      "fetchedAt": "2026-11-04T01:10:02.988Z",
+      "contentText": "October 28, 2026 Evernote turns AI-driven discovery into paid subscriptions Evernote used ChatGPT Ads to reach people working with AI and followed new users from free trial to first subscription payment. Start now (opens in a new window) Share ~10–20% higher trial-to-paid conversion for Evernote’s core ChatGPT Ads campaigns, which focused on a single product feature, compared with its historical paid-acquisition average.¹ ~25% of desktop visits from those same campaigns resulted in a new Evernote account.² Giving new users a reason to start Evernote ⁠ (opens in a new window) helps people capture, organize, and retrieve the knowledge they build over time. For longtime users, that collection of notes and ideas becomes a “second brain,” growing more useful as they add to it. “The challenge is helping new users see enough value to become paying customers. We need to show people what Evernote can do for them and give them a clear reason to start using it.” – Claudio Di Blasi, Data Analyst at Bending Spoons That challenge is also a question of relevance. Many people already know Evernote by name, but may not know how the product has evolved. As it develops AI capabilities, the company wants to show prospective users how its approach to capturing and organizing knowledge fits the way they work today. ChatGPT Ads offered a way to introduce that evolving product to people already using AI to create and work with information. Connecting AI workflows with a place to keep knowledge Evernote’s starting point was a practical need: keeping information useful after it has been created. People working with conversations, notes, and transcriptions may want a place to organize that material and find it again. The team saw a natural role for Evernote in that workflow. Its initial ads highlighted Evernote as a place to save and organize notes and transcriptions, drawing on messaging from strong-performing search campaigns. That gave the team a practical starting point for testing how those use cases resonated in ChatGPT. Ads directed people to Evernote’s website, including its homepage, with conversion campaigns optimized for new-account registrations. Using its own web analytics and subscription records, Evernote could follow that initial interest through to a free trial and a first subscription payment. Seeing interest carry through to subscription Evernote built its core campaigns—its primary group of ChatGPT Ads campaigns—around a single product feature. In the first month, around 25% of desktop visits from those campaigns resulted in a new account, giving the team an early indication that people were willing to try the product.² Evernote also saw promise in the step that mattered most to its subscription business. New users from those same campaigns converted from free trial to paid subscription at a rate about 10–20% higher than the historical average earlier this year across its paid acquisition channels.¹ For a team focused on helping new users discover enough value to subscribe, that was a meaningful early finding. Evernote is treating those first-month results as encouraging and directional while it tests whether the performance can hold as the channel grows. Helping more users discover where Evernote fits Evernote’s next step is to make the connection between its product and AI workflows more tangible. The team plans to explore additional use cases and develop creative and dedicated landing pages that show people how Evernote can fit into their own work. “We saw a natural fit between people using ChatGPT and what Evernote offers. What stood out in the early results was how well new users converted to paid subscriptions. For us, that was an encouraging sign that we were reaching people who found real value in the product.” – Claudio Di Blasi, Data Analyst at Bending Spoons Source: Evernote’s first-party web analytics and subscription records. Evernote attributed a new account to ChatGPT Ads when the user’s first tagged visit came from a ChatGPT ad click. ¹ Trial-to-paid conversion. Evernote compared the share of free trials that reached a first subscription payment. Trials from the featured ChatGPT Ads campaigns started August 28–September 12, 2026. Trials in the historical paid-acquisition benchmark started March–August 2026. The comparison does not establish incremental lift. ² Desktop registration. Evernote divided new accounts from the featured campaigns by desktop visits from those campaigns during September 14–28, 2026. Advertise in ChatGPT Reach people as they explore options, compare choices, and make decisions in ChatGPT, with relevant ads that fit naturally into the experience. Start now (opens in a new window)",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
     },
     {
       "id": "ea370fdd96af",
@@ -35754,28 +35950,6 @@
         "enterprise",
         "research",
         "policy",
-        "workforce"
-      ],
-      "dateChecked": true
-    },
-    {
-      "id": "5adf84df5a7c",
-      "source": "anthropic",
-      "sourceName": "Anthropic",
-      "tier": "realtime",
-      "title": "Anthropic and Iceland announce one of the world’s first national AI education pilots",
-      "url": "https://www.anthropic.com/news/anthropic-and-iceland-announce-one-of-the-world-s-first-national-ai-education-pilots",
-      "publishedAt": "2025-11-04",
-      "fetchedAt": "2026-08-27T22:54:22.431Z",
-      "contentText": null,
-      "summary": "Anthropic and Iceland's Ministry of Education and Children are partnering to launch one of the world's first national AI education pilots, providing teachers across Iceland with access to Anthropic's Claude AI. This initiative aims to explore how AI can transform education, support teachers in lesson preparation and instruction, and enhance student learning. The pilot will also focus on safeguarding the Icelandic language by enabling Claude to recognize and interpret it.",
-      "enterpriseAngle": "This partnership demonstrates a growing trend of governments integrating AI into public services, offering a model for enterprises developing AI solutions for the public sector. It highlights the potential for AI to streamline administrative tasks for professionals, freeing them to focus on core responsibilities, and the importance of language support in global AI deployments.",
-      "beginner": "AI is being used to help teachers save time on planning and create better learning experiences for students.",
-      "advanced": "Evaluate the potential for AI tools to reduce administrative burdens and personalize content delivery within your organization, paying close attention to multilingual capabilities and data privacy implications.",
-      "tags": [
-        "partnership",
-        "enterprise",
-        "product",
         "workforce"
       ],
       "dateChecked": true

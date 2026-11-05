@@ -1,6 +1,193 @@
 {
-  "updatedAt": "2026-11-05T01:25:53.593Z",
+  "updatedAt": "2026-11-05T20:34:49.102Z",
   "articles": [
+    {
+      "id": "3c0e84566a0e",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Meta says US users can now video chat with their Muse AI avatar",
+      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "publishedAt": "2026-11-05T19:48:28.000Z",
+      "fetchedAt": "2026-11-05T20:33:19.579Z",
+      "contentText": null,
+      "summary": "Meta has rolled out Muse Voice, a feature enabling U.S. users to video chat with their Muse AI agent, which includes new AI models for real-time avatars and voice technology. This feature allows users to interact with a customizable, animated avatar, nicknamed Jolly, that uses subtle expressions and gestures. The company aims to foster a stronger connection between consumers and their AI agents through these live conversations.",
+      "enterpriseAngle": "While this feature is consumer-focused, the underlying real-time avatar and voice technologies could influence future enterprise applications for customer service, virtual assistants, or interactive training modules. Enterprise product development teams might explore similar anthropomorphic AI interfaces to enhance user engagement and perceived connection.",
+      "beginner": "Meta now lets people in the U.S. have video calls with a friendly, customizable AI character called Muse.",
+      "advanced": "Evaluate the efficacy of Meta's anthropomorphic AI approach in driving user engagement and consider its implications for designing more intuitive and relatable enterprise AI interfaces.",
+      "tags": [
+        "product",
+        "consumer",
+        "model-release"
+      ]
+    },
+    {
+      "id": "2e06a7a163b7",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+      "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+      "publishedAt": "2026-11-05T19:12:39.000Z",
+      "fetchedAt": "2026-11-05T20:33:19.579Z",
+      "contentText": null,
+      "summary": "Meta warns that recent election results, which saw a backlash against data centers, could hinder the expansion of AI infrastructure. The company believes public sentiment against data centers is linked to broader concerns about AI technology. Meta aims to demonstrate the value of both data centers and AI to communities to overcome this resistance.",
+      "enterpriseAngle": "Enterprise product development teams reliant on large-scale AI will face increasing challenges in securing the necessary data center infrastructure due to growing public and political opposition. Companies must proactively engage with communities and demonstrate tangible local benefits to gain support for their AI-driven infrastructure projects.",
+      "beginner": "Building the large computer centers needed for AI is becoming harder because people don't want them in their neighborhoods, partly due to general concerns about AI.",
+      "advanced": "To mitigate infrastructure deployment risks, integrate community engagement and local benefit programs into your data center site selection and development strategy, ensuring bipartisan support and transparent value propositions.",
+      "tags": [
+        "infrastructure",
+        "policy",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "ec73671ce52f",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "OpenAI released a new cybersecurity model. Is that enough?",
+      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+      "publishedAt": "2026-11-05T19:06:12.000Z",
+      "fetchedAt": "2026-11-05T20:33:19.579Z",
+      "contentText": null,
+      "summary": "A cybersecurity hobbyist used OpenAI's GPT 5.6 Sol model to discover a severe vulnerability in Ubuntu, a widely used Linux-based operating system, within two hours. This vulnerability, which could allow hackers to control servers, was reported and subsequently patched. OpenAI has since released a new cybersecurity model, ChatGPT Cyber, and launched a $1 billion initiative to support cybersecurity professionals, aiming to expand access to advanced security research.",
+      "enterpriseAngle": "Enterprise security teams face a growing challenge as AI models make vulnerability discovery easier for both defenders and potential attackers, necessitating increased investment in AI-driven defense mechanisms and proactive patching. Product development teams must consider integrating AI-powered auditing into their development lifecycle to identify and mitigate complex vulnerabilities before deployment.",
+      "beginner": "AI models are becoming powerful tools for finding security flaws in software, making it easier to discover and fix bugs, but also potentially easier for bad actors to find them.",
+      "advanced": "Leverage frontier AI models, such as those in OpenAI's Daybreak program, for proactive vulnerability hunting and exploit development within your organization's critical infrastructure, while also advocating for broader access to these advanced tools for cyber defenders.",
+      "tags": [
+        "security",
+        "enterprise",
+        "model-release",
+        "product"
+      ]
+    },
+    {
+      "id": "cfd1704d56b5",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+      "publishedAt": "2026-11-05T18:02:27.000Z",
+      "fetchedAt": "2026-11-05T20:33:19.579Z",
+      "contentText": null,
+      "summary": "OpenAI president Greg Brockman indicated the company could be ready for an IPO in 2027, citing significant growth in its enterprise revenue. He noted that enterprise business now accounts for the majority of OpenAI's revenue, a substantial increase from 30% previously, with a 70% quarterly growth in annualized revenue in Q3 2026. This shift reflects a strategic focus on the enterprise market, including partnerships like the one with JPMorgan Chase.",
+      "enterpriseAngle": "Enterprise security and product development teams should note OpenAI's increased focus on enterprise solutions, which suggests more robust, tailored offerings and potentially greater integration opportunities, but also a need to evaluate their long-term reliability and commitment. The company's growth in this sector indicates a maturing of its enterprise strategy, moving beyond a consumer-centric perception.",
+      "beginner": "OpenAI, the company behind popular AI tools, is growing fast in serving businesses and might become a publicly traded company by 2027.",
+      "advanced": "Evaluate OpenAI's evolving enterprise offerings and partnership strategies to inform your AI adoption roadmap, particularly considering their recent growth and stated commitment to long-term client relationships.",
+      "tags": [
+        "enterprise",
+        "funding",
+        "product",
+        "partnership"
+      ]
+    },
+    {
+      "id": "7b187a5bdc28",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Claude can now analyze your spending with its new Personal Finance tool",
+      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+      "publishedAt": "2026-11-05T18:00:00.000Z",
+      "fetchedAt": "2026-11-05T20:33:19.579Z",
+      "contentText": null,
+      "summary": "Anthropic has launched a new \"Personal Finance\" tool for its Claude chatbot, allowing users to connect bank and credit card accounts via Plaid to analyze their spending. This read-only tool helps users understand financial patterns, identify issues like duplicate charges, and explains financial concepts. The feature is rolling out in beta to U.S. users on Pro, Max, and Ultra plans, positioning Claude as a financial companion similar to offerings from OpenAI's ChatGPT.",
+      "enterpriseAngle": "Enterprise product development teams in financial services can observe how AI chatbots are being integrated with financial data, offering personalized insights while prioritizing read-only access and data privacy. This trend highlights opportunities for developing AI-powered tools that enhance customer understanding of their finances without direct money management capabilities.",
+      "beginner": "Claude's new tool helps you understand where your money goes by connecting to your bank accounts and explaining your spending in simple terms.",
+      "advanced": "Leverage secure, read-only API integrations with financial data providers like Plaid to build AI-driven analytical tools that offer personalized financial insights and anomaly detection, ensuring user data privacy and avoiding direct transactional capabilities.",
+      "tags": [
+        "product",
+        "consumer",
+        "agents",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "d7e9e3e89ee7",
+      "source": "google-ai",
+      "sourceName": "Google AI",
+      "tier": "realtime",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "publishedAt": "2026-11-05T17:00:00.000Z",
+      "fetchedAt": "2026-11-05T20:33:16.589Z",
+      "contentText": null,
+      "summary": "Google has released Gemini Omni 1.2 Flash, an updated AI model for video creation that offers native 15-second video generation, improved consistency in adhering to references, and multi-turn conversational editing. This new version is 30% more cost-effective than its predecessor and is available through the Gemini API, Google Vids, and Gemini for business. It allows for more natural speech, controllable cinematic looks, and consistent character and object details across longer clips.",
+      "enterpriseAngle": "Enterprise product development teams can leverage Gemini Omni 1.2 Flash to produce high-quality video content at scale with reduced costs, enabling faster iteration and consistent branding for marketing, product explainers, and virtual try-on experiences. The multi-turn conversational editing feature can significantly streamline video production workflows, allowing for quick adjustments without full regeneration.",
+      "beginner": "Google's new AI tool, Gemini Omni 1.2 Flash, helps create videos up to 15 seconds long more easily and affordably, making it simpler to tell stories or create ads with consistent characters and objects.",
+      "advanced": "Integrate Gemini Omni 1.2 Flash via the Gemini API to automate the generation of consistent, branded video assets, utilizing its multi-turn conversational editing for rapid A/B testing of ad variants and product demonstrations.",
+      "tags": [
+        "model-release",
+        "product",
+        "enterprise",
+        "coding"
+      ]
+    },
+    {
+      "id": "2846e03446f4",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Axiom Math wants to keep AI slop out of mathematics",
+      "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+      "publishedAt": "2026-11-05T16:16:45.000Z",
+      "fetchedAt": "2026-11-05T20:33:19.579Z",
+      "contentText": null,
+      "summary": "Axiom Math, a $1.6 billion startup, has formally verified the Stacks Project, a vast collection of human-written mathematics, by translating its 7,654 pages into 16 million lines of computer-checked code using AI agents. This process, known as formal verification, ensures the logical soundness and consistency of mathematical proofs, similar to how engineers verify chip designs. The company aims to provide a reliable, verified foundation for AI agents to build software and conduct scientific research, preventing the generation of inaccurate or \"sloppy\" AI outputs.",
+      "enterpriseAngle": "Enterprise security and product development teams can leverage formal verification to build more reliable and secure AI-generated software, ensuring foundational mathematical and logical consistency. This approach offers a method to validate the integrity of AI-driven code, reducing vulnerabilities and improving the trustworthiness of AI systems.",
+      "beginner": "Axiom Math is using AI to double-check complex math problems, making sure the answers are absolutely correct and reliable.",
+      "advanced": "Investigate integrating formal verification tools like Lean into your AI-driven development pipelines to establish a robust, verifiable substrate for agent-generated code, particularly for critical systems where logical soundness is paramount.",
+      "tags": [
+        "enterprise",
+        "research",
+        "coding",
+        "agents"
+      ]
+    },
+    {
+      "id": "53c56afbaf05",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "url": "https://openai.com/index/introducing-gpt-6-cyber",
+      "publishedAt": "2026-11-05T09:00:00.000Z",
+      "fetchedAt": "2026-11-05T20:33:16.274Z",
+      "contentText": null,
+      "summary": "OpenAI has released GPT-6 Cyber, a new AI model designed to find and fix software vulnerabilities. It shows significant improvements over its predecessor, GPT-5.6 Cyber, in both exploit generation and adherence to task boundaries, as demonstrated on benchmarks like ExploitGym. The model has already been used to identify thousands of vulnerabilities in major software like Linux and Firefox.",
+      "enterpriseAngle": "Enterprise security teams can leverage GPT-6 Cyber for advanced vulnerability research, code review, and authorized penetration testing, potentially enhancing their ability to secure critical infrastructure and software. Product development teams can integrate these capabilities to proactively identify and patch security weaknesses in their own codebases.",
+      "beginner": "GPT-6 Cyber is a new AI tool that helps find and fix security flaws in computer programs, making them safer.",
+      "advanced": "Integrate GPT-6 Cyber via Daybreak Red for deep exploit development and authorized security testing, focusing on its 99.93% out-of-scope avoidance to ensure controlled and aligned security assessments.",
+      "tags": [
+        "model-release",
+        "security",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "f93567576105",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "publishedAt": "2026-11-05T02:00:00.000Z",
+      "fetchedAt": "2026-11-05T20:33:16.274Z",
+      "contentText": null,
+      "summary": "OpenAI has introduced a \"National Community Compact\" and a \"Compute Campus Policy Blueprint\" to guide the responsible development of its AI infrastructure. These initiatives outline commitments to communities hosting OpenAI's future campuses, focusing on local engagement, environmental protection, and economic opportunities. The compact details how OpenAI will operate, while the blueprint proposes policies for federal, state, and local governments to ensure broad benefits and accountability in AI infrastructure development.",
+      "enterpriseAngle": "Enterprise product and infrastructure teams should consider adopting similar community engagement and policy frameworks for their AI development, ensuring transparent operations, local resource protection, and shared economic benefits. This approach can help build trust and mitigate potential community resistance to large-scale AI infrastructure projects.",
+      "beginner": "OpenAI is making sure that the places where they build their big AI computer centers are treated fairly, by promising to pay their own way and create local jobs.",
+      "advanced": "Implement a comprehensive community engagement strategy and policy framework for AI infrastructure development, including transparent reporting on resource utilization (energy, water), local hiring, and financial assurances, while advocating for policy changes that standardize these practices across the industry.",
+      "tags": [
+        "enterprise",
+        "policy",
+        "infrastructure",
+        "governance"
+      ]
+    },
     {
       "id": "a331696f9782",
       "source": "techcrunch-ai",

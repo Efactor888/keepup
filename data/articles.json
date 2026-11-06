@@ -1,6 +1,193 @@
 {
-  "updatedAt": "2026-11-06T01:29:07.963Z",
+  "updatedAt": "2026-11-06T19:56:40.165Z",
   "articles": [
+    {
+      "id": "29c568495a81",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "publishedAt": "2026-11-06T18:44:38.000Z",
+      "fetchedAt": "2026-11-06T19:54:56.373Z",
+      "contentText": null,
+      "summary": "Security researchers have found hundreds of publicly exposed instances of Artex, an open-source AI hacking tool developed in China. Artex, which automates the search for system weaknesses, has been linked to several cyberattacks, including against the Korean finance industry and ConnectWise. Many of these exposed systems were left unprotected without passwords, making them accessible to anyone.",
+      "enterpriseAngle": "Enterprise security teams face increased risk from powerful AI-driven penetration testing tools like Artex, which can be easily misconfigured and exposed, allowing attackers to rapidly exploit simple vulnerabilities such as weak passwords and lack of multi-factor authentication. Product development teams should prioritize secure defaults and clear configuration guidelines for any open-source tools to prevent accidental exposure.",
+      "beginner": "AI tools designed to find security flaws can themselves be left unsecured online, making it easier for bad actors to launch cyberattacks.",
+      "advanced": "Implement continuous scanning for exposed attack infrastructure, prioritize patching simple vulnerabilities like weak credentials and missing MFA, and ensure secure default configurations for all deployed open-source security tools to mitigate risks from misconfigured AI-driven pen-testing platforms.",
+      "tags": [
+        "security",
+        "enterprise",
+        "product",
+        "agents"
+      ]
+    },
+    {
+      "id": "016e849ea3ab",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "publishedAt": "2026-11-06T18:44:20.000Z",
+      "fetchedAt": "2026-11-06T19:54:56.373Z",
+      "contentText": null,
+      "summary": "Meta has introduced \"Spaces,\" a new feature for its Muse AI agents that allows users to create dedicated conversational areas for specific projects like vacation planning or recipe collection. These Spaces can be integrated with third-party apps to keep information updated automatically. This follows the recent launch of Muse Voice, which enables verbal interaction and video chat with the agents.",
+      "enterpriseAngle": "Enterprise product development teams can learn from Meta's approach to enhancing AI agent utility through structured collaboration features and third-party integrations, potentially informing the design of more organized and versatile AI tools for business use cases. Security teams should consider the implications of third-party app integrations with AI agents, ensuring data privacy and access controls are robustly managed.",
+      "beginner": "Meta's new 'Spaces' help you organize your conversations with your AI helper, Muse, by creating separate areas for different tasks, making it easier to manage projects.",
+      "advanced": "Evaluate the architectural patterns of Meta's 'Spaces' and their integration capabilities with third-party applications to inform the design of modular and extensible agentic workflows within your own enterprise AI solutions, prioritizing secure data exchange protocols.",
+      "tags": [
+        "agents",
+        "product",
+        "enterprise",
+        "consumer"
+      ]
+    },
+    {
+      "id": "fc8f30aee8f3",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "How a Blue Wave midterm might reshape the AI industry",
+      "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+      "publishedAt": "2026-11-06T18:00:00.000Z",
+      "fetchedAt": "2026-11-06T19:54:56.373Z",
+      "contentText": null,
+      "summary": "The recent U.S. midterm elections saw Democrats achieve significant victories, which could lead to changes in the tech industry. Voters approved stricter regulations on data center development in 40 out of 41 ballot measures related to data centers.",
+      "enterpriseAngle": "Enterprise product development and infrastructure teams should anticipate increased regulatory hurdles and potential delays in data center expansion, requiring more strategic planning for compute resources. This shift could also drive innovation in more efficient or distributed data processing solutions to mitigate regulatory impacts.",
+      "beginner": "New political outcomes can directly influence how technology companies operate, especially regarding the physical infrastructure like data centers that power AI.",
+      "advanced": "Monitor local and state legislative developments closely for new data center regulations, and consider diversifying infrastructure investments to regions with more favorable development policies or exploring edge computing solutions.",
+      "tags": [
+        "policy",
+        "infrastructure",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "ef57b5d47585",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+      "publishedAt": "2026-11-06T17:23:52.000Z",
+      "fetchedAt": "2026-11-06T19:54:56.373Z",
+      "contentText": null,
+      "summary": "Following the recent U.S. midterm elections, voters approved increased restrictions on data center development in 40 out of 41 ballot measures. This outcome could significantly impact the tech industry, particularly the AI sector.",
+      "enterpriseAngle": "Enterprise AI development and deployment teams may face challenges due to potential slowdowns or increased costs in data center expansion, impacting infrastructure planning and scalability. Product teams should anticipate longer lead times for new compute resources and adjust their roadmaps accordingly.",
+      "beginner": "New rules about where and how data centers can be built might make it harder or more expensive for AI companies to get the computing power they need.",
+      "advanced": "Evaluate your organization's compute infrastructure strategy, considering potential regional supply constraints and increased operational costs for data center resources, and explore hybrid cloud or edge computing alternatives to mitigate risks.",
+      "tags": [
+        "infrastructure",
+        "policy",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "7c70b636a2cf",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "publishedAt": "2026-11-06T15:54:47.000Z",
+      "fetchedAt": "2026-11-06T19:54:56.373Z",
+      "contentText": null,
+      "summary": "A new report indicates that enterprise spending on AI has plateaued, despite an increase in AI usage. This slowdown is attributed to intense price competition among AI providers like OpenAI and Anthropic, who have significantly cut prices, and customers becoming more efficient in their AI consumption. This trend raises concerns about the revenue growth trajectories and valuations of major AI companies as Anthropic approaches its IPO.",
+      "enterpriseAngle": "Enterprise product development and security teams should anticipate continued price reductions and a buyer's market for AI services, enabling more cost-effective integration of AI capabilities. However, they must also be aware that the rapid revenue growth previously assumed for AI providers may not materialize, potentially impacting long-term partnership stability and product roadmaps.",
+      "beginner": "Even though companies are using more AI, they are not spending more money on it because AI services are becoming cheaper and businesses are learning to use them more efficiently.",
+      "advanced": "Leverage the current buyer's market and increased competition among AI providers to negotiate favorable terms and explore open-source or lightweight model alternatives to optimize AI spend while maintaining or increasing AI adoption within your organization.",
+      "tags": [
+        "enterprise",
+        "funding",
+        "product",
+        "benchmark"
+      ]
+    },
+    {
+      "id": "4a6109d50595",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+      "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+      "publishedAt": "2026-11-06T14:10:00.000Z",
+      "fetchedAt": "2026-11-06T19:54:56.373Z",
+      "contentText": null,
+      "summary": "Amazon is launching a new feature that allows select U.S. customers to interact with its Alexa AI agent via text messages for shopping purposes. This functionality enables users to search for items, add them to carts, and make purchases using natural language queries, building on existing Alexa shopping capabilities. The rollout comes after Amazon previously blocked Meta's Muse from accessing its site, indicating a strategic move to develop its own text-based AI shopping agent ahead of the holiday season.",
+      "enterpriseAngle": "Enterprise product development teams should note Amazon's focus on integrating AI agents directly into core commerce workflows, highlighting the importance of seamless, natural language interfaces for customer engagement and sales. This also underscores the trend of platforms prioritizing proprietary AI agent development over third-party integrations for competitive advantage.",
+      "beginner": "Amazon is making it easier to shop by letting you text Alexa to find and buy things, just like you're chatting with a person.",
+      "advanced": "To compete with platform-native AI agents like Amazon's, consider developing robust, secure APIs that allow your product catalog and services to be programmatically accessed and integrated by external AI systems, while also exploring proprietary agent development for direct customer interaction.",
+      "tags": [
+        "product",
+        "enterprise",
+        "agents",
+        "consumer"
+      ]
+    },
+    {
+      "id": "93fc4c1ba090",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+      "publishedAt": "2026-11-06T10:00:00.000Z",
+      "fetchedAt": "2026-11-06T19:54:56.537Z",
+      "contentText": null,
+      "summary": "A new humanoid-robot cleaning service has launched in San Francisco, offering an automated solution for household chores. The service aims to provide a futuristic cleaning experience using advanced robotic technology.",
+      "enterpriseAngle": "Enterprises in the service sector, particularly cleaning and hospitality, could explore integrating humanoid robots to automate tasks, improve efficiency, and potentially address labor shortages. Product development teams might focus on refining robot dexterity and AI for diverse, unstructured environments.",
+      "beginner": "Robots are starting to do everyday jobs like cleaning houses, showing how AI can be used in practical ways.",
+      "advanced": "Evaluate the ROI of deploying humanoid robots for routine operational tasks, considering initial investment, maintenance, and the potential for enhanced service delivery and scalability.",
+      "tags": [
+        "agents",
+        "product",
+        "enterprise",
+        "consumer"
+      ]
+    },
+    {
+      "id": "bc8f9eac1966",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "url": "https://openai.com/index/partnering-with-hacktron",
+      "publishedAt": "2026-11-06T08:00:00.000Z",
+      "fetchedAt": "2026-11-06T19:54:51.970Z",
+      "contentText": null,
+      "summary": "OpenAI is partnering with Hacktron, a security research firm, to identify vulnerabilities within its systems, particularly focusing on interactions with third-party services. This collaboration involves Hacktron's security researchers using their expertise and access to OpenAI's frontier models through Daybreak Red to conduct in-depth testing. OpenAI is also enhancing its security efforts by increasing bug bounty rewards and conducting internal security sprints.",
+      "enterpriseAngle": "This partnership highlights a growing trend for enterprises to leverage external security expertise and advanced AI tools for proactive vulnerability discovery, especially as AI agents create new interconnected service pathways. Enterprise security teams should consider similar collaborations and the integration of AI-driven tools for more comprehensive penetration testing and red teaming.",
+      "beginner": "OpenAI is working with a specialized company to find and fix security weaknesses in its computer systems, much like hiring an expert to check your house for hidden problems.",
+      "advanced": "Leverage AI agents for code review, penetration testing, and red teaming, and consider expanding access to frontier models for trusted security partners to enhance vulnerability discovery in complex, interconnected enterprise environments.",
+      "tags": [
+        "security",
+        "enterprise",
+        "partnership",
+        "product"
+      ]
+    },
+    {
+      "id": "cfd4354afa14",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "publishedAt": "2026-11-06T00:00:00.000Z",
+      "fetchedAt": "2026-11-06T19:54:51.970Z",
+      "contentText": null,
+      "summary": "OpenAI has introduced BioBasicsBench, a new benchmark designed to evaluate how well AI agents interpret raw experimental data in routine wet-lab science tasks. Developed with biotech company Ligo, the benchmark includes 100 tasks across five areas of wet-lab work, testing skills like biological knowledge, data interpretation, and error detection. In initial tests, GPT-6 Astra achieved a 66.7% score, an improvement over GPT-5.6 Sol's 43.8%, indicating progress but also areas for further development.",
+      "enterpriseAngle": "Enterprise product development teams can leverage BioBasicsBench to refine AI agents for scientific research, aiming to improve reliability in interpreting complex experimental data and reduce errors in lab analysis. This advancement could lead to more efficient R&D cycles and better decision-making in biotech and pharmaceutical sectors.",
+      "beginner": "AI is being taught to understand complex science experiments, helping scientists do their work faster and more accurately.",
+      "advanced": "Integrate BioBasicsBench into your AI agent development pipeline to rigorously test and improve model performance on raw experimental data interpretation, focusing on error detection and contextual reasoning for enhanced scientific automation.",
+      "tags": [
+        "benchmark",
+        "research",
+        "science",
+        "product"
+      ]
+    },
     {
       "id": "1eac7fe42e87",
       "source": "techcrunch-ai",
@@ -164,6 +351,27 @@
         "product",
         "enterprise",
         "coding"
+      ]
+    },
+    {
+      "id": "b58fee4edbbb",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Australian universities are creating AI-native graduates",
+      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "publishedAt": "2026-11-05T17:00:00.000Z",
+      "fetchedAt": "2026-11-06T19:54:51.970Z",
+      "contentText": null,
+      "summary": "Australian universities are partnering with OpenAI to integrate advanced AI tools into their curricula, aiming to create AI-native graduates. Universities like UNSW Sydney, University of Sydney, and La Trobe University are providing students and staff with access to tools like ChatGPT Edu and developing frameworks for AI use in learning and assessment. A survey revealed that 81% of Australian university students already use AI several times a week, and a majority believe AI skills are essential for their future careers.",
+      "enterpriseAngle": "Enterprise product development and security teams should anticipate a future workforce that is highly proficient in AI, necessitating new approaches to training, tool integration, and security protocols for AI-enabled workflows. Companies will need to adapt their hiring strategies and internal development programs to leverage these AI-native graduates effectively.",
+      "beginner": "Universities are teaching students how to use AI tools so they are ready for jobs that will increasingly involve artificial intelligence.",
+      "advanced": "Integrate AI literacy and practical application into your organization's talent acquisition and development strategies to capitalize on the emerging AI-native workforce.",
+      "tags": [
+        "enterprise",
+        "workforce",
+        "partnership",
+        "learning"
       ]
     },
     {

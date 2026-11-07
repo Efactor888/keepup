@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-06T19:56:40.165Z",
+  "updatedAt": "2026-11-07T00:49:05.139Z",
   "articles": [
+    {
+      "id": "118369de89f0",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "publishedAt": "2026-11-06T22:53:46.000Z",
+      "fetchedAt": "2026-11-07T00:48:29.328Z",
+      "contentText": null,
+      "summary": "OpenAI has reportedly raised $11 billion in a new funding round, valuing the AI lab at $1.25 trillion. This funding is part of a larger round that has not yet closed, with expectations it could reach $20 billion. This comes amidst a cautious AI market, with a competitor, Anthropic, also facing lower-than-expected valuations.",
+      "enterpriseAngle": "Enterprise product development teams should note the significant funding flowing into foundational AI models, indicating continued innovation and competition in the AI space. However, the market's jitters and potential regulatory challenges suggest a need for strategic planning regarding AI adoption and infrastructure.",
+      "beginner": "Big AI companies like OpenAI are still raising a lot of money, but the overall market for AI is becoming a bit uncertain.",
+      "advanced": "Monitor the closing figures of OpenAI's funding round and Anthropic's IPO to gauge investor sentiment and potential shifts in AI market valuations, informing future partnership and investment strategies.",
+      "tags": [
+        "funding",
+        "enterprise",
+        "product"
+      ]
+    },
     {
       "id": "29c568495a81",
       "source": "techcrunch-ai",
@@ -126,6 +146,48 @@
       ]
     },
     {
+      "id": "a394d9aad7a2",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Underdog shows off a 32MB speech model in new demo",
+      "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+      "publishedAt": "2026-11-06T13:02:16.000Z",
+      "fetchedAt": "2026-11-07T00:48:29.328Z",
+      "contentText": null,
+      "summary": "Underdog, a startup, has released a 32MB speech model called Woof, demonstrated through a browser-based game. This model is designed to run locally on devices without an internet connection, allowing users to interact with text-to-speech and music generation features. The company aims to create small, open-source AI models that prioritize user data privacy.",
+      "enterpriseAngle": "Enterprise product development teams can explore integrating small, local AI models like Woof for on-device features, reducing reliance on cloud infrastructure and enhancing data privacy for users. This approach could be beneficial for applications requiring offline functionality or sensitive data processing.",
+      "beginner": "Some AI models are being made small enough to run directly on your phone or computer without needing the internet, keeping your data private.",
+      "advanced": "Investigate the feasibility of integrating Underdog's 31-million-parameter Woof model or similar edge-compatible open models into enterprise applications to enable local AI experiences and strengthen data sovereignty.",
+      "tags": [
+        "model-release",
+        "product",
+        "enterprise",
+        "research"
+      ]
+    },
+    {
+      "id": "1f3694f5e3c9",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Physicl raises $10M to make the digital world real enough for robots",
+      "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+      "publishedAt": "2026-11-06T13:00:00.000Z",
+      "fetchedAt": "2026-11-07T00:48:29.328Z",
+      "contentText": null,
+      "summary": "Physicl, a new startup founded by Alex de Vigan, has secured $10 million in seed funding to enhance robot training through realistic simulations. The company repurposes technology previously used for e-commerce product renderings to create high-fidelity 3D environments and assets. This aims to address the challenges researchers face in training physical AI models for robots, particularly in handling complex real-world scenarios.",
+      "enterpriseAngle": "Enterprise product development teams building robotic solutions can leverage Physicl's platform to generate synthetic training data, reducing the cost and complexity of real-world data collection. This can accelerate the development and deployment of more capable and reliable robots for various industrial applications.",
+      "beginner": "Physicl helps robots learn by creating realistic digital practice worlds, making them better at tasks in the real world.",
+      "advanced": "Integrate Physicl's Studio for on-the-fly synthetic data generation to address edge cases and continuously refine physical AI models, optimizing training cycles and improving robot performance in diverse environments.",
+      "tags": [
+        "funding",
+        "product",
+        "research",
+        "agents"
+      ]
+    },
+    {
       "id": "93fc4c1ba090",
       "source": "mit-tr-ai",
       "sourceName": "MIT Technology Review",
@@ -165,6 +227,27 @@
         "enterprise",
         "partnership",
         "product"
+      ]
+    },
+    {
+      "id": "904574e3ce24",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "publishedAt": "2026-11-06T06:28:32.000Z",
+      "fetchedAt": "2026-11-07T00:48:29.328Z",
+      "contentText": null,
+      "summary": "Palo Alto Networks is reportedly in discussions to acquire Clutch Security, a startup specializing in securing AI agents' access to corporate systems, for $500 million in cash plus potential milestone payments. Clutch Security, valued at $85 million in early 2025, is approaching $10 million in annual recurring revenue. This potential acquisition reflects a trend of high valuations in the AI security market, driven by increasing AI-driven cyberattacks.",
+      "enterpriseAngle": "This acquisition highlights the growing importance for enterprises to secure AI agents, as these agents increasingly interact with sensitive company systems. Enterprise security teams should prioritize solutions that manage and protect AI agent access to mitigate emerging AI-driven cyber risks.",
+      "beginner": "Companies are buying smaller companies that help protect computer systems from new types of attacks that use artificial intelligence.",
+      "advanced": "Evaluate your current AI agent access management protocols and consider integrating specialized security solutions to address the evolving threat landscape posed by AI-driven cyberattacks.",
+      "tags": [
+        "security",
+        "enterprise",
+        "partnership",
+        "agents"
       ]
     },
     {

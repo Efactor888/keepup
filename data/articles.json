@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-11-07T00:49:05.139Z",
+  "updatedAt": "2026-11-07T17:59:04.041Z",
   "articles": [
+    {
+      "id": "c2107a5a7cf6",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "publishedAt": "2026-11-07T01:40:28.000Z",
+      "fetchedAt": "2026-11-07T17:58:54.466Z",
+      "contentText": null,
+      "summary": "Crusoe, a data center developer, has sold an unfinished project in Wyoming to Google after facing challenges with its cost and construction timeline. Google plans to invest $17 billion to develop the data center campus. Despite this setback, Crusoe continues to work with Google on another project in Texas and is developing large-scale data centers for other major AI companies like Oracle, OpenAI, Microsoft, and Meta.",
+      "enterpriseAngle": "This deal highlights the significant capital and logistical challenges involved in developing large-scale AI infrastructure, indicating that even well-funded independent developers can struggle to meet the demands of hyperscalers. Enterprise product development teams should consider the complexities of infrastructure build-out when planning for AI model deployment and scaling.",
+      "beginner": "Building the huge computer centers needed for advanced AI is very difficult and expensive, sometimes even big companies struggle to finish them on time.",
+      "advanced": "When evaluating AI infrastructure partners, thoroughly vet their project management capabilities, supply chain resilience, and power procurement strategies, as even established players can encounter significant delays and cost overruns on large-scale builds.",
+      "tags": [
+        "enterprise",
+        "infrastructure",
+        "product",
+        "funding"
+      ]
+    },
     {
       "id": "118369de89f0",
       "source": "techcrunch-ai",

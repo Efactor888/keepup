@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-11-07T17:59:04.041Z",
+  "updatedAt": "2026-11-08T00:20:48.069Z",
   "articles": [
+    {
+      "id": "d44fec61ccb7",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "publishedAt": "2026-11-07T22:07:22.000Z",
+      "fetchedAt": "2026-11-08T00:20:30.181Z",
+      "contentText": null,
+      "summary": "Recent midterm elections saw voters reject data center expansion in numerous local ballot measures and elect politicians who campaigned on restricting them. This trend, particularly in states like Texas, is creating new challenges for tech companies, including those backed by major donors like Elon Musk. In response, some companies, such as OpenAI, are beginning to adjust their policies regarding data center development, including increased transparency.",
+      "enterpriseAngle": "Enterprise product development and infrastructure teams should anticipate increased regulatory scrutiny and local opposition to data center projects, requiring more transparent and community-focused development strategies. This shift may necessitate re-evaluating site selection, public engagement, and compliance with evolving local policies.",
+      "beginner": "Local communities are increasingly pushing back against the construction of large data centers, which could make it harder for AI companies to build the infrastructure they need.",
+      "advanced": "Proactively engage with local communities and elected officials, adopting transparent compute campus development policies to mitigate political and regulatory roadblocks for future infrastructure expansion.",
+      "tags": [
+        "infrastructure",
+        "policy",
+        "enterprise",
+        "governance"
+      ]
+    },
+    {
+      "id": "2c93e9013ac1",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "publishedAt": "2026-11-07T21:17:08.000Z",
+      "fetchedAt": "2026-11-08T00:20:30.181Z",
+      "contentText": null,
+      "summary": "A U.S. intelligence memo reportedly claims that Alice Huang, an executive at Megaspeed, was recruited by China's Ministry of State Security to spy on Nvidia CEO Jensen Huang. The memo also suggested a romantic relationship between the two. Nvidia stated that Jensen Huang's interactions with Alice Huang were not unusual and that the company does not share classified information with customers.",
+      "enterpriseAngle": "This incident highlights the persistent risk of corporate espionage, particularly for leading technology companies, and underscores the importance of robust internal security protocols and vetting processes for employees and partners. Enterprise security teams must remain vigilant against sophisticated attempts to compromise sensitive information through human intelligence.",
+      "beginner": "Sometimes, foreign governments try to get secrets from big tech companies by recruiting people to spy on their leaders.",
+      "advanced": "Implement enhanced insider threat detection frameworks and conduct regular, comprehensive due diligence on key personnel and third-party partners to mitigate risks associated with state-sponsored industrial espionage.",
+      "tags": [
+        "security",
+        "enterprise",
+        "policy"
+      ]
+    },
     {
       "id": "c2107a5a7cf6",
       "source": "techcrunch-ai",

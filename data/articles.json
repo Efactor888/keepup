@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-11-08T18:17:14.809Z",
+  "updatedAt": "2026-11-09T00:41:26.106Z",
   "articles": [
+    {
+      "id": "45da7994669e",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "publishedAt": "2026-11-08T21:00:11.000Z",
+      "fetchedAt": "2026-11-09T00:41:16.543Z",
+      "contentText": null,
+      "summary": "Nvidia's board of directors has launched an independent investigation into CEO Jensen Huang's relationship with Alice Huang, a former chip executive who was reportedly recruited by China's Ministry of State Security to spy on him. Jensen Huang admitted to an affair with Alice Huang, apologizing to his family and the company. The board stated it has no reason to believe national security or company secrets were compromised and expressed confidence in Huang's leadership.",
+      "enterpriseAngle": "This incident highlights the critical importance of robust internal security protocols and employee awareness training, especially for executives, to mitigate risks from foreign intelligence targeting in high-stakes industries like AI and chip manufacturing. Enterprise security teams must anticipate and address sophisticated social engineering and espionage tactics.",
+      "beginner": "A top executive at a major AI chip company is being investigated for a personal relationship that might have been used by a foreign government to gain secrets.",
+      "advanced": "Implement comprehensive executive protection programs that include counter-intelligence briefings, digital hygiene training, and regular vulnerability assessments to protect key personnel from state-sponsored targeting and potential data exfiltration.",
+      "tags": [
+        "security",
+        "enterprise",
+        "policy",
+        "governance"
+      ]
+    },
     {
       "id": "d44fec61ccb7",
       "source": "techcrunch-ai",

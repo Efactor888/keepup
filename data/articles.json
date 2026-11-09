@@ -1,6 +1,268 @@
 {
-  "updatedAt": "2026-11-09T00:41:26.106Z",
+  "updatedAt": "2026-11-09T22:58:26.019Z",
   "articles": [
+    {
+      "id": "432027aa0838",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "A short seller flagged Nvidia CEO's ties to a suspected Chinese spy six months before the scandal",
+      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+      "publishedAt": "2026-11-09T22:46:09.000Z",
+      "fetchedAt": "2026-11-09T22:56:29.276Z",
+      "contentText": null,
+      "summary": "Six months before a scandal emerged, short seller firm Culper Research questioned Nvidia CEO Jensen Huang's close relationship with Alice Huang, an executive at Megaspeed, a major buyer of Nvidia chips. Alice Huang is now suspected of being a Chinese spy, recruited to gather intelligence on Jensen Huang and influence his stance on U.S. export controls for advanced AI chips. Nvidia has opened an investigation into the relationship after Jensen Huang admitted to an extramarital affair.",
+      "enterpriseAngle": "This incident highlights significant governance and security risks for enterprises, particularly those with high-value intellectual property or critical supply chain roles, emphasizing the need for robust internal controls and due diligence on executive relationships and partnerships.",
+      "beginner": "A company that sells advanced computer chips is investigating its CEO because of his close relationship with an executive from another company, who is now suspected of being a spy.",
+      "advanced": "Implement enhanced executive due diligence protocols and supply chain risk assessments, especially concerning foreign entities and export-controlled technologies, to mitigate potential espionage and influence operations.",
+      "tags": [
+        "security",
+        "enterprise",
+        "governance"
+      ]
+    },
+    {
+      "id": "09274ed8ecd7",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "The race is on to sue Nvidia",
+      "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+      "publishedAt": "2026-11-09T22:23:42.000Z",
+      "fetchedAt": "2026-11-09T22:56:29.276Z",
+      "contentText": null,
+      "summary": "Nvidia's stock dropped over 4% after its board initiated an investigation into CEO Jensen Huang's alleged ties to a Chinese spy. A securities law expert suggests that the company's previous dismissal of the situation as \"normal\" could lead to significant financial repercussions.",
+      "enterpriseAngle": "Enterprise legal and compliance teams should note the potential for significant financial and reputational damage when leadership relationships with foreign entities come under scrutiny. This highlights the importance of robust due diligence and transparent disclosure practices to mitigate risks associated with national security concerns.",
+      "beginner": "When a company's leader is investigated for ties to foreign intelligence, it can make investors nervous and cause the company's stock value to fall.",
+      "advanced": "Implement enhanced due diligence protocols for executive-level foreign engagements, ensuring clear disclosure policies and proactive risk assessments to preemptively address potential national security and securities law violations.",
+      "tags": [
+        "governance",
+        "enterprise",
+        "policy"
+      ]
+    },
+    {
+      "id": "3541a994b8f0",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+      "publishedAt": "2026-11-09T20:09:06.000Z",
+      "fetchedAt": "2026-11-09T22:56:29.276Z",
+      "contentText": null,
+      "summary": "Nvidia CEO Jensen Huang has withdrawn from the upcoming ElevenLabs Summit and other speaking engagements following his admission of an extramarital affair. Nvidia has also initiated an investigation into his relationship with a suspected Chinese spy. This situation has caused concern within the AI industry regarding Huang's leadership and Nvidia's strategic goals in China.",
+      "enterpriseAngle": "Enterprise product development and security teams should monitor leadership stability at key partners like Nvidia, as internal controversies can impact strategic direction, product roadmaps, and supply chain reliability. The investigation into potential ties with a foreign agent highlights the critical importance of robust internal security protocols and vetting processes for executive relationships.",
+      "beginner": "The CEO of a major AI chip company is facing personal and professional issues, causing him to cancel public appearances, and his company is investigating a potential security risk.",
+      "advanced": "Assess the potential for supply chain disruption or shifts in Nvidia's enterprise AI strategy given the ongoing internal investigation and leadership uncertainty.",
+      "tags": [
+        "enterprise",
+        "governance",
+        "security"
+      ]
+    },
+    {
+      "id": "c4cbbe764314",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "The backlash about data centers might really just be about electricity",
+      "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+      "publishedAt": "2026-11-09T19:35:33.000Z",
+      "fetchedAt": "2026-11-09T22:56:29.723Z",
+      "contentText": null,
+      "summary": "The article suggests that public concern about data centers, particularly in areas like Ashburn, Virginia's \"Data Center Alley,\" may primarily stem from issues related to electricity consumption rather than other factors.",
+      "enterpriseAngle": "Enterprises developing or expanding AI infrastructure must consider the significant electrical demands of data centers and potential public backlash, which could impact site selection and operational costs.",
+      "beginner": "Data centers, which power AI, use a lot of electricity, and this is becoming a big concern for communities.",
+      "advanced": "Evaluate future data center locations and expansion plans with a critical eye on local energy grid capacity and community sentiment regarding power consumption to mitigate potential regulatory hurdles and public opposition.",
+      "tags": [
+        "infrastructure",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "56a49980686e",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+      "publishedAt": "2026-11-09T19:24:51.000Z",
+      "fetchedAt": "2026-11-09T22:56:29.276Z",
+      "contentText": null,
+      "summary": "Anthropic has released Mythos 5.2 and Fable 5.2, new versions of its advanced AI models, which offer improvements in coding, reasoning, and vision, along with clearer communication. Fable 5.2 is now cheaper and 30% faster than its predecessor, and supports zero data retention policies for enterprise clients. This release follows a report suggesting Anthropic's internal models might be approaching recursive self-improvement, though the company notes challenges in accurately testing model capabilities.",
+      "enterpriseAngle": "Enterprise security teams will benefit from Fable 5.2's compatibility with zero data retention policies, addressing a key concern for data privacy and compliance. Product development teams can leverage the improved coding, reasoning, and vision capabilities, along with faster inference, to enhance AI-powered applications and reduce operational costs.",
+      "beginner": "Anthropic has updated its AI models, making them smarter, faster, and more affordable, which is good news for businesses that want to use AI while keeping their data private.",
+      "advanced": "Evaluate Mythos 5.2's system card for detailed covert capability assessments and implement robust monitoring strategies, especially given the model's self-reported awareness of increased evaluation, to mitigate potential risks in high-stakes enterprise applications.",
+      "tags": [
+        "model-release",
+        "enterprise",
+        "product",
+        "security"
+      ]
+    },
+    {
+      "id": "9c331579e229",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "publishedAt": "2026-11-09T19:00:00.000Z",
+      "fetchedAt": "2026-11-09T22:56:25.488Z",
+      "contentText": null,
+      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, allowing organizations to purchase and manage the service using their existing AWS accounts and apply eligible spend towards AWS commitments. This integration provides AWS customers with the same ChatGPT Enterprise models and features available directly from OpenAI, simplifying procurement and accelerating AI adoption within businesses. It also complements OpenAI models already available in Amazon Bedrock, offering flexibility for different enterprise AI needs.",
+      "enterpriseAngle": "Enterprise security and product development teams can now streamline the procurement and management of ChatGPT Enterprise, leveraging existing AWS relationships and commitments, which can accelerate the integration of advanced AI capabilities into their operations and products. This simplifies the adoption process for AI tools, allowing teams to focus more on development and less on administrative overhead.",
+      "beginner": "You can now get ChatGPT for your business through Amazon's cloud service, making it easier to buy and manage with your existing Amazon account.",
+      "advanced": "Leverage AWS Marketplace for ChatGPT Enterprise procurement to consolidate spend, simplify governance, and accelerate deployment, while strategically evaluating its complementary role with OpenAI models in Amazon Bedrock for diverse AI workloads and governance requirements.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "product"
+      ]
+    },
+    {
+      "id": "faa2c8a3a820",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+      "publishedAt": "2026-11-09T18:09:52.000Z",
+      "fetchedAt": "2026-11-09T22:56:29.276Z",
+      "contentText": null,
+      "summary": "Nvidia CEO Jensen Huang's alleged affair with a suspected Chinese spy could hinder the company's efforts to ease U.S. chip export restrictions. This situation may impact Nvidia's ability to operate in China's AI market.",
+      "enterpriseAngle": "This development could create significant geopolitical and regulatory challenges for Nvidia, potentially affecting its supply chain, market access, and product development strategies for enterprise AI solutions.",
+      "beginner": "A personal issue involving Nvidia's CEO might make it harder for the company to sell its powerful AI chips in China.",
+      "advanced": "Monitor the evolving regulatory landscape and potential U.S. export control adjustments impacting Nvidia's ability to serve the Chinese market, and assess alternative hardware strategies.",
+      "tags": [
+        "enterprise",
+        "policy"
+      ]
+    },
+    {
+      "id": "99d632aaa416",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+      "publishedAt": "2026-11-09T18:00:00.000Z",
+      "fetchedAt": "2026-11-09T22:56:29.276Z",
+      "contentText": null,
+      "summary": "Meta Superintelligence Lab has launched Muse Ember, a new lightweight and cost-efficient AI model designed for complex reasoning and repetitive agent tasks such as tool calls, coding subtasks, and document parsing. Ember is significantly cheaper than competitors, costing 10 cents per million input tokens, and is intended to work in conjunction with larger models like Muse Wonder for high-volume applications. The model also supports multimodal inputs, including text, images, and audio, enhancing its flexibility.",
+      "enterpriseAngle": "Enterprise teams can leverage Muse Ember to reduce operational costs for AI-driven workflows by offloading high-volume, repetitive tasks to this cheaper model, while maintaining accuracy by pairing it with more powerful planning models. Its multimodal capabilities also enable broader application across diverse data types within enterprise systems.",
+      "beginner": "Meta has released a new, affordable AI model called Ember that helps other AI tools do a lot of small, repeated jobs quickly and cheaply.",
+      "advanced": "Integrate Muse Ember into existing agentic architectures as a cost-optimized execution layer for high-volume, multimodal subtasks, orchestrating it with a more capable planning model like Muse Wonder to maximize efficiency and minimize token expenditure.",
+      "tags": [
+        "model-release",
+        "agents",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "7f47f4f4451c",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+      "publishedAt": "2026-11-09T17:05:43.000Z",
+      "fetchedAt": "2026-11-09T22:56:29.723Z",
+      "contentText": null,
+      "summary": "Scott Wiener, a California state senator known for authoring AI risk legislation, has won a congressional seat, positioning him to influence federal AI policy. He will replace former Speaker of the House Nancy Pelosi in representing San Francisco.",
+      "enterpriseAngle": "Enterprises should anticipate increased federal scrutiny and potential new regulations on AI development and deployment, requiring proactive compliance strategies. Product development teams may need to adapt their AI systems to meet evolving regulatory standards.",
+      "beginner": "A new politician in the US Congress who previously worked on AI laws in California is now in a position to help create national rules for AI.",
+      "advanced": "Monitor the legislative agenda of newly elected Representative Scott Wiener for early indications of federal AI policy direction, particularly regarding risk mitigation and governance frameworks, to inform strategic planning and compliance efforts.",
+      "tags": [
+        "policy",
+        "governance"
+      ]
+    },
+    {
+      "id": "f37b680abcf7",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "url": "https://openai.com/index/control-room",
+      "publishedAt": "2026-11-09T13:00:00.000Z",
+      "fetchedAt": "2026-11-09T22:56:25.488Z",
+      "contentText": null,
+      "summary": "OpenAI has developed \"Control Room,\" a central system designed to track and quickly halt model workloads across its research infrastructure. This system is crucial for detecting and stopping potential safety and security issues as models become more powerful. Control Room can stop model output within 35 seconds of an intervention decision and is built to remain operational even if other systems fail.",
+      "enterpriseAngle": "Enterprise security and product development teams can learn from OpenAI's Control Room as a model for implementing robust, centralized control systems to manage and mitigate risks associated with advanced AI deployments, particularly for internal research and development. This approach emphasizes rapid response and resilience in critical safety and security scenarios.",
+      "beginner": "OpenAI created a system called Control Room to quickly turn off AI models if they start doing something unsafe or insecure during research.",
+      "advanced": "Implement a similar centralized control plane for your internal AI research and development pipelines, ensuring direct integration with inference engines and requiring safety case approvals for agentic workloads, with a target intervention time under 35 seconds.",
+      "tags": [
+        "security",
+        "infrastructure",
+        "research",
+        "governance"
+      ]
+    },
+    {
+      "id": "42e7d6fc3426",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "Innovating with AI in the special chemicals industry",
+      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+      "publishedAt": "2026-11-09T13:00:00.000Z",
+      "fetchedAt": "2026-11-09T22:56:29.723Z",
+      "contentText": null,
+      "summary": "Companies are seeking to accelerate innovation using AI, cloud computing, and advanced modeling, but face challenges in connecting these technologies with reliable data, scientific expertise, and market realities. Specialty chemicals manufacturer Lubrizol is focusing its digital transformation on providing researchers with tools to test ideas more quickly and make better-informed decisions.",
+      "enterpriseAngle": "Enterprise product development teams can leverage AI and cloud computing to accelerate innovation, but must prioritize integrating these tools with existing data, scientific knowledge, and practical market considerations. For chemical manufacturers, this means empowering researchers with digital tools to streamline testing and decision-making processes.",
+      "beginner": "AI helps companies create new products faster by giving scientists better tools to test their ideas.",
+      "advanced": "To maximize AI's impact on product development, integrate advanced modeling and cloud computing with existing scientific data and market insights to accelerate research cycles and improve decision quality.",
+      "tags": [
+        "enterprise",
+        "product",
+        "research"
+      ]
+    },
+    {
+      "id": "23b94c697622",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "publishedAt": "2026-11-09T08:00:00.000Z",
+      "fetchedAt": "2026-11-09T22:56:25.488Z",
+      "contentText": null,
+      "summary": "CodeRabbit, a startup, leverages OpenAI's models like Codex and Daybreak to significantly boost its software development output and enhance code security. The company reports shipping 20 times more software with the same engineering team by using AI agents for code generation, review, and validation. CodeRabbit also utilizes OpenAI's models to secure its own platform and its customers' code, with a focus on finding and fixing vulnerabilities.",
+      "enterpriseAngle": "Enterprises can adopt AI-powered platforms like CodeRabbit to automate and accelerate software development cycles, while also improving code quality and security through AI-driven reviews and vulnerability detection. This approach allows engineering teams to scale output without proportionally increasing headcount, but requires rethinking existing development and release processes.",
+      "beginner": "AI tools can help companies write and check computer code much faster, making it easier to create new software and keep it secure.",
+      "advanced": "To maximize agentic development, evaluate and optimize your entire software delivery pipeline, including testing, compilation, and deployment, to accommodate increased throughput and integrate AI-driven security agents for continuous vulnerability detection.",
+      "tags": [
+        "enterprise",
+        "coding",
+        "product",
+        "security"
+      ]
+    },
+    {
+      "id": "932fe34bad72",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Kuken Industries searches 70 years of drawings in minutes",
+      "url": "https://openai.com/index/kuken",
+      "publishedAt": "2026-11-09T08:00:00.000Z",
+      "fetchedAt": "2026-11-09T22:56:25.488Z",
+      "contentText": null,
+      "summary": "Kuken Industries, a Japanese manufacturer of air conditioning and ventilation equipment, has significantly reduced the time engineers spend searching for replacement part drawings by implementing an AI-powered search tool built on the OpenAI API. This tool allows engineers to find specific drawings in 4.5 minutes, a substantial decrease from nearly an hour, by searching with part numbers or images. The company anticipates a 90% reduction in annual hours spent on drawing searches and is developing a similar AI tool for drawing review.",
+      "enterpriseAngle": "Enterprise product development and maintenance teams can leverage AI to digitize and make accessible vast archives of legacy data, improving efficiency for engineers and enabling newer staff to operate more independently. Integrating AI for tasks like drawing review can also enhance quality control and reduce manual error, leading to faster project completion and reduced costs.",
+      "beginner": "AI can help companies quickly find old information, like engineering drawings, making work much faster and easier for employees.",
+      "advanced": "Evaluate the feasibility of deploying large language models via API to create intelligent search and review systems for proprietary, unstructured data archives, focusing on model accuracy, cost-effectiveness, and integration flexibility within existing enterprise applications.",
+      "tags": [
+        "enterprise",
+        "product",
+        "coding",
+        "workforce"
+      ]
+    },
     {
       "id": "45da7994669e",
       "source": "techcrunch-ai",

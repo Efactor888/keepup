@@ -1,6 +1,69 @@
 {
-  "updatedAt": "2026-11-10T20:26:32.433Z",
+  "updatedAt": "2026-11-11T01:11:46.084Z",
   "articles": [
+    {
+      "id": "f28f90d2895a",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "publishedAt": "2026-11-12T00:00:00.000Z",
+      "fetchedAt": "2026-11-11T01:09:52.274Z",
+      "contentText": null,
+      "summary": "Australian law firm Gilbert + Tobin has integrated AI, specifically ChatGPT Enterprise and Codex, into its operations to enhance client services and employee experience. The firm's approach involved initial experimentation, followed by secure deployment and a focus on personal and organizational productivity. This strategy has led to an 87% active usage rate among enabled ChatGPT users, which is more than double their typical adoption rate for other tools.",
+      "enterpriseAngle": "Enterprises can learn from Gilbert + Tobin's phased AI adoption, starting with secure experimentation and leadership-driven engagement, to foster high usage rates and improve both client services and internal workflows. The firm's use of custom GPTs and agentic workflows demonstrates how AI can augment, rather than replace, human judgment in professional services.",
+      "beginner": "AI tools like ChatGPT can help businesses improve how they serve clients and make work more efficient for employees.",
+      "advanced": "Implement a phased AI adoption strategy, prioritizing secure experimentation, leadership buy-in, and tailored workflow demonstrations to achieve high user engagement and leverage AI for enhanced service delivery and operational efficiency.",
+      "tags": [
+        "enterprise",
+        "product",
+        "workforce",
+        "agents"
+      ]
+    },
+    {
+      "id": "571fb0494bf3",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+      "publishedAt": "2026-11-10T21:08:52.000Z",
+      "fetchedAt": "2026-11-11T01:09:55.392Z",
+      "contentText": null,
+      "summary": "OpenAI has acquired Odessia, an AI travel agent startup founded by Francis Davidson, who previously founded Sonder. Davidson will now work at OpenAI, focusing on the future of travel, though specific product plans have not been disclosed. Odessia, which had helped users plan millions of dollars in travel, has been shut down following the acquisition.",
+      "enterpriseAngle": "This acquisition suggests OpenAI is exploring specialized AI applications for industries like travel, potentially leading to more sophisticated AI agents for enterprise use cases. Enterprise product development teams might consider how to integrate similar AI agent capabilities into their offerings to enhance customer experiences.",
+      "beginner": "OpenAI, a major AI company, bought a small company that made an AI tool for planning trips, and the founder of that tool is now working for OpenAI to help them with AI for travel.",
+      "advanced": "Evaluate the potential for OpenAI to leverage Francis Davidson's experience in building and scaling travel-focused AI agents to develop more robust, industry-specific AI solutions, and consider how this might impact the competitive landscape for vertical AI applications.",
+      "tags": [
+        "enterprise",
+        "product",
+        "agents",
+        "partnership"
+      ]
+    },
+    {
+      "id": "c012fc7ecd62",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "publishedAt": "2026-11-10T20:52:13.000Z",
+      "fetchedAt": "2026-11-11T01:09:55.392Z",
+      "contentText": null,
+      "summary": "New York's RAISE Act, a significant AI safety law, will take effect on January 1, 2027, requiring large frontier AI developers like Anthropic and OpenAI to register with the state. These companies must publish safety frameworks, report critical safety incidents within 72 hours, and issue public model transparency reports. The newly formed Office of Digital Innovation, Governance, Integrity, and Trust (DIGIT) will oversee compliance, with penalties up to $3 million for violations.",
+      "enterpriseAngle": "Enterprise AI developers operating in New York, particularly those with over $500 million in annual revenue, must prepare to comply with new transparency and safety reporting mandates, impacting their product development and governance strategies. This also sets a precedent for other states, suggesting a growing need for robust internal AI safety frameworks and incident response plans.",
+      "beginner": "New York is creating new rules to make sure big AI companies are building safe and transparent AI systems.",
+      "advanced": "Implement a comprehensive AI governance framework that includes public safety framework documentation, a 72-hour critical incident reporting mechanism, and a transparent model reporting process to ensure compliance with the RAISE Act and similar emerging state regulations.",
+      "tags": [
+        "policy",
+        "governance",
+        "enterprise",
+        "security"
+      ]
+    },
     {
       "id": "e18f58ec7dc7",
       "source": "techcrunch-ai",
@@ -143,6 +206,89 @@
         "enterprise",
         "policy",
         "governance"
+      ]
+    },
+    {
+      "id": "196c0edf93f9",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+      "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+      "publishedAt": "2026-11-10T15:54:08.000Z",
+      "fetchedAt": "2026-11-11T01:09:55.392Z",
+      "contentText": null,
+      "summary": "Google has introduced two new Tensor Processing Units (TPUs), the 8tx and 8i Max, expanding its specialized AI hardware portfolio. The TPU 8tx, developed with AMD, is designed for confidential AI training and inference, integrating security directly into the hardware. The TPU 8i Max doubles memory and processing power by combining two existing 8i chips into a single package, enabling larger AI model workloads.",
+      "enterpriseAngle": "These new TPUs offer enterprises enhanced options for secure AI model development with confidential computing capabilities and increased capacity for handling complex AI workloads, potentially reducing reliance on third-party chip manufacturers. The confidential inference feature allows businesses to train models on sensitive proprietary data without data movement, addressing critical security and privacy concerns.",
+      "beginner": "Google is making its own special computer chips that help AI work better and more securely, especially for businesses.",
+      "advanced": "Leverage Google's TPU 8tx for confidential AI training and inference on sensitive datasets, ensuring data and model weight protection at the hardware layer, and consider the TPU 8i Max for scaling large language model inference and training requirements due to its doubled memory and processing capabilities.",
+      "tags": [
+        "hardware",
+        "enterprise",
+        "security",
+        "product"
+      ]
+    },
+    {
+      "id": "a92c103556a0",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Meta's AI agent Muse lands on Apple Watch and Android Wear OS",
+      "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+      "publishedAt": "2026-11-10T15:29:30.000Z",
+      "fetchedAt": "2026-11-11T01:09:55.392Z",
+      "contentText": null,
+      "summary": "Meta has launched its Muse AI agent on Apple Watch and Android Wear OS, allowing users to interact with the assistant via voice, text, or dictation directly from their smartwatches. This expansion follows the recent introduction of a dedicated iPad app and new features like \"Spaces\" for focused conversations and video chat capabilities with the AI avatar. Muse has quickly gained traction, surpassing 10 million U.S. downloads within its first 40 days on the App Store.",
+      "enterpriseAngle": "Enterprise product development teams can observe Meta's rapid iteration and multi-platform deployment strategy for Muse as a model for quickly expanding AI agent accessibility and functionality across diverse consumer devices. The focus on personalized experiences and task automation highlights growing user expectations for AI assistants that integrate deeply into daily workflows.",
+      "beginner": "Meta's AI assistant, Muse, is now available on smartwatches, letting you use AI for tasks like managing your schedule or booking reservations directly from your wrist.",
+      "advanced": "Evaluate the technical architecture and integration patterns Meta employed to rapidly deploy Muse across multiple device ecosystems (iPad, Apple Watch, Wear OS) and introduce features like real-time video chat and dynamic \"Spaces,\" considering implications for scalable AI agent development and cross-platform consistency.",
+      "tags": [
+        "agents",
+        "product",
+        "consumer",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "f9ddc69f8317",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+      "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+      "publishedAt": "2026-11-10T14:05:10.000Z",
+      "fetchedAt": "2026-11-11T01:09:55.392Z",
+      "contentText": null,
+      "summary": "Adobe is significantly enhancing its creative software like Photoshop, Premiere, and Firefly with new AI features, including advanced image and video editing tools. The company is also introducing a Model Context Protocol (MCP) to allow external AI chatbots to access and utilize Adobe's product functionalities. Additionally, Adobe is launching a new prototyping tool called Builder within Firefly, aiming to compete with design platforms like Figma.",
+      "enterpriseAngle": "Enterprise creative and product development teams will benefit from more integrated AI capabilities across Adobe's suite, streamlining workflows and enabling faster content creation and prototyping. The MCP could allow enterprises to integrate Adobe's powerful creative tools directly into their custom AI agents and internal chatbots, enhancing automation and personalized content generation.",
+      "beginner": "Adobe is adding many smart features to its design programs, making it easier for people to create and edit images and videos using artificial intelligence.",
+      "advanced": "Leverage Adobe's new MCP to integrate Creative Cloud functionalities directly into custom enterprise AI agents, exploring the exposed endpoints for automating specific design tasks and enhancing cross-platform creative workflows.",
+      "tags": [
+        "product",
+        "enterprise",
+        "agents",
+        "model-release"
+      ]
+    },
+    {
+      "id": "9871791e1b1f",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+      "publishedAt": "2026-11-10T14:01:39.000Z",
+      "fetchedAt": "2026-11-11T01:09:55.392Z",
+      "contentText": null,
+      "summary": "Anthropic is moving forward with its IPO, offering 825 million Class A shares at $70 to $78 each, aiming to raise $57.75 billion to $64.35 billion and potentially reach a $1.404 trillion valuation. The company also secured $26 billion in private stock sales to major tech firms like AMD, Broadcom, Google, Micron, Microsoft, Nvidia, and TSMC. Anthropic reported a run-rate revenue of $81 billion by the end of October, with a nine-month net loss of $104 billion.",
+      "enterpriseAngle": "Enterprises considering Anthropic's AI models should note its strong financial backing from key hardware and cloud providers, which could indicate robust infrastructure and continued development. However, the significant net loss and substantial compute commitments highlight the high costs associated with advanced AI development, which may impact future pricing or service stability.",
+      "beginner": "Anthropic, a company that makes AI, is going public on the stock market and is valued at over a trillion dollars, showing how much money is being invested in AI.",
+      "advanced": "Evaluate Anthropic's long-term financial stability given its $104 billion nine-month net loss against $81 billion run-rate revenue and $900.9 billion in compute commitments, especially considering the limited influence of Class A shareholders due to the founders' voting power and the Long-Term Benefit Trust.",
+      "tags": [
+        "enterprise",
+        "funding",
+        "product"
       ]
     },
     {
@@ -289,6 +435,27 @@
         "workforce",
         "enterprise",
         "product"
+      ]
+    },
+    {
+      "id": "2cb4f31b0883",
+      "source": "cursor",
+      "sourceName": "Cursor",
+      "tier": "realtime",
+      "title": "Nov 10, 2026 · product Cursor Projects is now multiplayer Aryaman Khandelwal 4m Aryaman Khandelwal · 4m",
+      "url": "https://cursor.com/blog/projects-multiplayer",
+      "publishedAt": "2026-11-10",
+      "fetchedAt": "2026-11-11T01:09:54.216Z",
+      "contentText": null,
+      "summary": "Cursor has launched a multiplayer feature for its \"Projects\" platform, allowing engineering teams to collaborate with multiple AI agents in a shared workspace. This new functionality enables unified context, shared task management, and agent-to-agent communication, streamlining large-scale development work. Teams can now invite colleagues to plan, build, and ship software alongside their AI agents.",
+      "enterpriseAngle": "Enterprise product development teams can leverage this multiplayer agent system to enhance collaboration, accelerate project delivery, and ensure consistent context across human and AI agent workflows, potentially reducing onboarding time and merge conflicts. This could significantly improve efficiency in complex, multi-stakeholder software projects.",
+      "beginner": "Cursor's new feature lets entire teams work together with AI assistants on coding projects, sharing information and tasks in one place.",
+      "advanced": "Implement Cursor's multiplayer Projects to establish a unified context system for your engineering teams, facilitating real-time agent-to-agent communication and shared task visibility to mitigate integration issues and accelerate large-scale software development.",
+      "tags": [
+        "product",
+        "enterprise",
+        "agents",
+        "coding"
       ]
     },
     {

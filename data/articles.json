@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T01:11:46.084Z",
+  "updatedAt": "2026-11-11T20:09:04.405Z",
   "articles": [
     {
       "id": "f28f90d2895a",
@@ -19,6 +19,232 @@
         "enterprise",
         "product",
         "workforce",
+        "agents"
+      ]
+    },
+    {
+      "id": "bdeaa23eb988",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "How backlash and red tape continue to slow data centers post-Blue Wave",
+      "url": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/",
+      "publishedAt": "2026-11-11T20:02:14.000Z",
+      "fetchedAt": "2026-11-11T20:05:53.680Z",
+      "contentText": null,
+      "summary": "The expansion of data centers is facing significant hurdles, including local opposition, permitting delays, and electricity shortages. Many announced data center projects may not be completed due to these challenges.",
+      "enterpriseAngle": "Enterprise product and infrastructure teams should anticipate potential delays and increased costs in deploying AI solutions due to the slowdown in data center development and the scramble for resources. This could impact the scalability and availability of AI-powered services.",
+      "beginner": "Building the large computer centers needed for AI is becoming difficult due to community pushback and a lack of power.",
+      "advanced": "Evaluate alternative deployment strategies, such as optimizing existing infrastructure or exploring edge computing solutions, to mitigate risks associated with data center development slowdowns.",
+      "tags": [
+        "infrastructure",
+        "enterprise"
+      ],
+      "dateChecked": true
+    },
+    {
+      "id": "850c0644106f",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+      "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+      "publishedAt": "2026-11-11T19:54:00.000Z",
+      "fetchedAt": "2026-11-11T20:05:53.680Z",
+      "contentText": null,
+      "summary": "CoreWeave is seeking upfront payments from customers, borrowing against specific contracts, and exploring shorter-term deals that may result in higher prices. This strategy is being employed to finance the company's growth in the AI sector.",
+      "enterpriseAngle": "Enterprises relying on CoreWeave for AI infrastructure may face increased upfront costs and potentially higher prices for shorter contract durations. This shift could impact budget planning and procurement strategies for AI initiatives.",
+      "beginner": "CoreWeave, a company providing computing power for AI, is asking customers to pay sooner or for shorter periods to help fund its expansion.",
+      "advanced": "Evaluate CoreWeave's revised payment terms and contract structures to optimize AI infrastructure procurement and manage potential cost increases for short-term engagements.",
+      "tags": [
+        "infrastructure",
+        "funding",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "6f3c74a04fea",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "With $720M round, Britain's Fractile gets a leg up in the race for AI chips",
+      "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+      "publishedAt": "2026-11-11T19:34:55.000Z",
+      "fetchedAt": "2026-11-11T20:05:53.680Z",
+      "contentText": null,
+      "summary": "Fractile, a British startup developing AI chips, has secured $720 million in Series C funding, with support from Britain's Sovereign AI Fund. This investment aims to bolster the UK's involvement in the hardware essential for its future economy. The company is developing purpose-built AI chips and a machine learning compiler to accelerate large language model execution.",
+      "enterpriseAngle": "Enterprise product development teams should note Fractile's full-stack approach, combining specialized hardware with a compiler, as it could offer significant performance gains for deploying demanding AI models and agentic AI applications. This development highlights the ongoing innovation in AI infrastructure to address the increasing compute demands of advanced AI.",
+      "beginner": "Companies are investing in new types of computer chips designed specifically to make AI run faster and more efficiently.",
+      "advanced": "Evaluate the potential of Fractile's DRAM-stacked hardware design and integrated ML compiler to mitigate memory-capacity tradeoffs, particularly for agentic AI workloads requiring extended task chains without speed degradation.",
+      "tags": [
+        "hardware",
+        "funding",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "94fcbf10f807",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+      "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+      "publishedAt": "2026-11-11T19:22:22.000Z",
+      "fetchedAt": "2026-11-11T20:05:53.680Z",
+      "contentText": null,
+      "summary": "Congress is preparing to subpoena Nvidia CEO Jensen Huang to address questions regarding his alleged relationship with Alice Huang, a Megaspeed executive and suspected Chinese spy. House Republicans Brian Mast, John Moolenaar, and Rick Crawford initially requested a closed-door briefing, with a deadline for Huang to respond by the end of the day. If Huang does not agree to the briefing, a subpoena is likely to be issued.",
+      "enterpriseAngle": "This situation could raise concerns for enterprises relying on Nvidia's technology regarding potential geopolitical risks and the stability of key leadership, potentially impacting future product roadmaps or supply chain confidence.",
+      "beginner": "The head of Nvidia, a big chip company, might have to talk to Congress about his connection to someone suspected of being a Chinese spy.",
+      "advanced": "Monitor the congressional inquiry into Nvidia's CEO for potential impacts on US-China tech policy, supply chain stability, and the company's market position, which could influence strategic hardware procurement and partnership decisions.",
+      "tags": [
+        "policy",
+        "enterprise",
+        "governance"
+      ]
+    },
+    {
+      "id": "cce714811b51",
+      "source": "google-ai",
+      "sourceName": "Google AI",
+      "tier": "realtime",
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "publishedAt": "2026-11-11T18:00:00.000Z",
+      "fetchedAt": "2026-11-11T20:05:51.605Z",
+      "contentText": null,
+      "summary": "Google has launched the Gemini Decisions API, powered by its new Gemini Decision 1 model, designed for fast, probabilistic choices across various data types like text, images, audio, video, and PDFs. This API can evaluate up to 1,000 yes/no, choice, and rubric-scoring questions in a single pass, providing confidence scores for each answer. It offers low latency and cost-effectiveness compared to traditional generative models, making it suitable for tasks like content grading, policy checks, and model routing.",
+      "enterpriseAngle": "Enterprise product development teams can leverage the Gemini Decisions API to build applications requiring rapid, calibrated decision-making, such as dynamic model routing, automated content moderation, or efficient policy enforcement across multimodal inputs. Its speed and cost-efficiency offer a compelling alternative to training custom classifiers or relying on slower generative AI calls for bounded choices.",
+      "beginner": "Google's new AI tool helps computers make quick, confident decisions from different types of information like text, pictures, and videos, instead of generating long answers.",
+      "advanced": "Integrate the Gemini Decisions API for low-latency, multimodal decision-making in agent routing, content grading, or policy enforcement, utilizing its probabilistic outputs and cost-efficiency for bounded choice scenarios.",
+      "tags": [
+        "model-release",
+        "enterprise",
+        "product",
+        "agents"
+      ]
+    },
+    {
+      "id": "7a8ca7de71bd",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+      "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+      "publishedAt": "2026-11-11T16:16:07.000Z",
+      "fetchedAt": "2026-11-11T20:05:53.680Z",
+      "contentText": null,
+      "summary": "Nvidia CEO Jensen Huang's recent 'honeypot scandal' has brought to light a broader issue of economic espionage and executive vulnerabilities within the semiconductor industry. According to Nate Singer of Heron Intelligence, state-sponsored actors, particularly from China, are actively targeting executives in semiconductor companies to steal trade secrets. Singer indicates that such incidents, often involving personal indiscretions, are more common than publicly known, with many going unreported due to the severe repercussions for those involved.",
+      "enterpriseAngle": "Enterprise security and product development teams in the semiconductor sector face heightened risks from state-sponsored economic espionage, often exploiting executive vulnerabilities. Companies must enhance due diligence processes for executive hires and acquisitions, and implement robust internal security measures to protect trade secrets from sophisticated infiltration tactics.",
+      "beginner": "Companies making computer chips are being targeted by foreign governments trying to steal their secrets, sometimes by taking advantage of executives' personal weaknesses.",
+      "advanced": "Implement advanced threat intelligence and counter-espionage protocols, including comprehensive executive vetting and continuous behavioral analysis, to identify and mitigate state-sponsored infiltration attempts that leverage personal vulnerabilities within high-value intellectual property sectors.",
+      "tags": [
+        "security",
+        "enterprise",
+        "policy",
+        "governance"
+      ]
+    },
+    {
+      "id": "2ed3a890d3d8",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "OpenAI's quarterly revenue reportedly crosses $10B for the first time",
+      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+      "publishedAt": "2026-11-11T16:14:44.000Z",
+      "fetchedAt": "2026-11-11T20:05:53.680Z",
+      "contentText": null,
+      "summary": "OpenAI's quarterly revenue has reportedly exceeded $10 billion for the first time, marking a significant increase from previous quarters. This growth is attributed to strong demand for its AI models and a greater focus on enterprise-focused products. Despite this, OpenAI still lags behind rival Anthropic in capturing the enterprise market.",
+      "enterpriseAngle": "Enterprise product development teams should note OpenAI's increased focus on enterprise-specific products and AI agents, indicating a maturing market for tailored AI solutions. Security teams should be aware of the competitive landscape and the implications of various AI models and partnerships on data protection and compliance.",
+      "beginner": "OpenAI, a company that makes AI, is making a lot more money now because more businesses are using its advanced AI tools.",
+      "advanced": "Evaluate OpenAI's new enterprise-focused products and AI agents for integration potential, considering their impact on existing workflows, data governance, and competitive positioning against Anthropic's offerings.",
+      "tags": [
+        "enterprise",
+        "product",
+        "funding",
+        "model-release"
+      ]
+    },
+    {
+      "id": "bad6ee94c356",
+      "source": "google-ai",
+      "sourceName": "Google AI",
+      "tier": "realtime",
+      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+      "publishedAt": "2026-11-11T16:00:00.000Z",
+      "fetchedAt": "2026-11-11T20:05:51.605Z",
+      "contentText": null,
+      "summary": "Google Labs has introduced Tabletop, a new experimental tool designed for real-time group collaboration. Users can input links, files, and ideas, then use prompts or templates to generate interactive tools like trip itineraries, polls, and expense splitters. Tabletop allows multiple users to work together simultaneously, similar to Google Docs, and is currently rolling out in the U.S. via a waitlist.",
+      "enterpriseAngle": "Enterprise teams could leverage Tabletop for project planning, brainstorming sessions, or coordinating team events, benefiting from its customizable and collaborative features to streamline group activities. The ability to generate custom interactive tools could enhance productivity for various internal organizational tasks.",
+      "beginner": "Tabletop is a new online tool from Google that helps groups plan and work together by creating shared, interactive spaces for different activities.",
+      "advanced": "Evaluate Tabletop's potential for internal team collaboration and project management, considering its integration capabilities with existing enterprise tools and its suitability for diverse use cases beyond consumer-oriented planning.",
+      "tags": [
+        "product",
+        "enterprise",
+        "consumer"
+      ]
+    },
+    {
+      "id": "14eef01dc0f4",
+      "source": "google-ai",
+      "sourceName": "Google AI",
+      "tier": "realtime",
+      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+      "publishedAt": "2026-11-11T09:00:00.000Z",
+      "fetchedAt": "2026-11-11T20:05:51.605Z",
+      "contentText": null,
+      "summary": "Google Arts & Culture has launched the first online retrospective of South African artist Dr. Esther Mahlangu, celebrating her 91st birthday. The exhibition features over 45 curated stories, virtual tours, and rare archival materials. Notably, AI was used to recreate undocumented memories from her early life, bridging gaps in her historical record before 1980.",
+      "enterpriseAngle": "This project showcases how AI, specifically generative video technology, can be applied in cultural heritage preservation to reconstruct missing historical data, offering a new approach for enterprises in archiving and presenting complex historical narratives.",
+      "beginner": "Google used AI to help tell the complete story of an artist by bringing her childhood memories to life through video, even when old records were missing.",
+      "advanced": "Leverage generative AI tools like Veo, guided by rigorous historical research and personal accounts, to reconstruct and visualize undocumented historical periods, enhancing digital archives and cultural preservation efforts.",
+      "tags": [
+        "product",
+        "research",
+        "learning"
+      ]
+    },
+    {
+      "id": "80b38ea7da37",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "publishedAt": "2026-11-11T08:00:00.000Z",
+      "fetchedAt": "2026-11-11T20:05:51.416Z",
+      "contentText": null,
+      "summary": "OpenAI has provided over 20,000 transitioning servicemembers and veterans with a free year of ChatGPT Plus to aid their career transitions. Veterans are using the AI tool for job searches, interview preparation, and exploring new career paths, with some even using it to pursue entrepreneurial endeavors like publishing books. OpenAI also offers training sessions and workshops through its Academy and community partners to help veterans learn how to effectively use AI.",
+      "enterpriseAngle": "Enterprises can leverage AI tools like ChatGPT to support workforce development programs, particularly for upskilling and reskilling initiatives for specific demographics such as veterans, enhancing their readiness for civilian roles. This also highlights the potential for AI to serve as a personalized career coach, improving employee transition and development within organizations.",
+      "beginner": "AI tools like ChatGPT can help people prepare for new jobs by assisting with resumes, interview practice, and exploring different career options.",
+      "advanced": "Integrate AI-powered career coaching and skill translation tools into existing talent acquisition and development pipelines to streamline the transition of specialized workforces, such as military veterans, into enterprise roles.",
+      "tags": [
+        "enterprise",
+        "workforce",
+        "product",
+        "learning"
+      ]
+    },
+    {
+      "id": "8c999d6885d2",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "publishedAt": "2026-11-11T00:00:00.000Z",
+      "fetchedAt": "2026-11-11T20:05:51.416Z",
+      "contentText": null,
+      "summary": "JioStar, a media and entertainment platform with over 500 million users, integrated an AI-powered conversational assistant into its JioHotstar service using the OpenAI API. This assistant allows users to discover content, including movies, shows, and cricket statistics, through natural language conversations in over 15 languages. The project was developed by a small team in approximately eight weeks, emphasizing a balance between accuracy, latency, and cost, especially given that over 60% of users prefer voice input.",
+      "enterpriseAngle": "Enterprises can leverage conversational AI to enhance content discovery and user experience at massive scale, but must prioritize robust evaluation systems, manage tradeoffs between accuracy, latency, and cost, and define clear guardrails for AI applications from the outset. The rapid development timeline highlights the potential for agile AI product launches with focused teams and external partnerships.",
+      "beginner": "AI can make finding what you want to watch much easier by letting you talk to your TV or streaming service naturally, like asking a friend for a recommendation.",
+      "advanced": "When deploying conversational AI at scale, prioritize a continuous evaluation framework with a validation layer, incorporating domain expert-seeded datasets and customer feedback loops to refine model performance and ensure relevance across diverse user queries and languages.",
+      "tags": [
+        "enterprise",
+        "product",
+        "model-release",
         "agents"
       ]
     },
@@ -417,6 +643,27 @@
       ]
     },
     {
+      "id": "4e3e5904c85a",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+      "url": "https://openai.com/index/singapore-airlines-travel-work",
+      "publishedAt": "2026-11-10T08:00:00.000Z",
+      "fetchedAt": "2026-11-11T20:05:51.416Z",
+      "contentText": null,
+      "summary": "Singapore Airlines has integrated OpenAI's API and models to enhance various aspects of its operations, including customer support, travel discovery, and internal software development. The airline reported a twofold increase in customer satisfaction for its Kris chatbot and a 10% reduction in average handling time for customer service representatives. Additionally, its Flight Recommender tool has seen nearly triple growth in monthly users, demonstrating improved efficiency and customer experience.",
+      "enterpriseAngle": "Enterprises can leverage AI to significantly boost customer satisfaction and operational efficiency, as demonstrated by Singapore Airlines' success with its AI-powered chatbot and customer service tools. Integrating AI into the software development lifecycle can also lead to productivity gains, streamlining processes from planning to testing.",
+      "beginner": "AI helps companies like Singapore Airlines make customer service better and find travel options more easily by understanding what people want in natural language.",
+      "advanced": "Implement LLM-powered conversational experiences for customer service, integrating orchestration layers with internal data and robust guardrails for input/output validation and PII handling, to achieve measurable improvements in CSAT and operational efficiency.",
+      "tags": [
+        "enterprise",
+        "product",
+        "partnership",
+        "model-release"
+      ]
+    },
+    {
       "id": "3588ceed4155",
       "source": "openai",
       "sourceName": "OpenAI",
@@ -435,6 +682,27 @@
         "workforce",
         "enterprise",
         "product"
+      ]
+    },
+    {
+      "id": "1ff74ee2cb10",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "url": "https://openai.com/index/cogent-security",
+      "publishedAt": "2026-11-10T00:00:00.000Z",
+      "fetchedAt": "2026-11-11T20:05:51.416Z",
+      "contentText": null,
+      "summary": "Cogent, a startup, has partnered with OpenAI to create \"Cyber Defense Factories\" for enterprises, aiming to automate the remediation of security vulnerabilities. These factories utilize OpenAI's GPT-6.1 Sol and GPT-5.6 models, combined with Cogent's enterprise context, to investigate and fix security risks autonomously. Cogent reports that customers using this solution have seen a 75% reduction in mean time to remediate critical vulnerabilities and a 5x increase in vulnerability triage throughput.",
+      "enterpriseAngle": "Enterprise security teams can leverage AI agents to automate vulnerability remediation, significantly reducing the time and effort required to address security risks. This approach allows for faster response to threats and frees up human resources for more strategic security initiatives.",
+      "beginner": "AI can now help companies automatically find and fix security problems, making their computer systems safer without needing constant human intervention.",
+      "advanced": "Implement AI-driven autonomous remediation agents, integrating them with an enterprise knowledge graph and policy enforcement engine, to achieve machine-speed vulnerability resolution and optimize resource allocation.",
+      "tags": [
+        "security",
+        "enterprise",
+        "product",
+        "partnership"
       ]
     },
     {

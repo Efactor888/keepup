@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T20:09:04.405Z",
+  "updatedAt": "2026-11-12T02:12:13.099Z",
   "articles": [
     {
       "id": "f28f90d2895a",
@@ -20,6 +20,106 @@
         "product",
         "workforce",
         "agents"
+      ]
+    },
+    {
+      "id": "efdd0bfa6110",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "publishedAt": "2026-11-11T23:50:00.000Z",
+      "fetchedAt": "2026-11-12T02:10:57.625Z",
+      "contentText": null,
+      "summary": "Nvidia CEO Jensen Huang has admitted to an extramarital affair with Alice Huang, an executive at Megaspeed, a company suspected of illegally sharing Nvidia chips with China. U.S. officials believe Alice Huang is a Chinese spy, raising national security concerns due to Nvidia's critical role in AI chip manufacturing. Additionally, reports indicate Jensen Huang had another affair with an Nvidia VP, and the company's board is reportedly preparing to oust him, causing Nvidia's stock to fall.",
+      "enterpriseAngle": "This situation highlights significant governance and security risks for enterprises, particularly those in sensitive technology sectors, as executive misconduct can lead to national security investigations, leadership instability, and reputational damage impacting stock value and strategic partnerships.",
+      "beginner": "The CEO of a major AI chip company is in trouble because of personal relationships that might be connected to national security issues and illegal chip sales to China.",
+      "advanced": "Enterprise leaders should immediately review executive conduct policies, succession plans, and supply chain due diligence, especially concerning foreign entities and critical technology, to mitigate national security and governance risks.",
+      "tags": [
+        "security",
+        "enterprise",
+        "governance",
+        "policy"
+      ]
+    },
+    {
+      "id": "b91248042740",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+      "publishedAt": "2026-11-11T23:28:45.000Z",
+      "fetchedAt": "2026-11-12T02:10:57.625Z",
+      "contentText": null,
+      "summary": "Nvidia's board is reportedly preparing to remove CEO Jensen Huang following a series of personal scandals, including alleged extramarital affairs, one of which was purportedly with a Chinese spy. This news led to an 8% drop in Nvidia's stock in after-hours trading and an 11% decline over five days. The company, which designs chips crucial for the AI industry, is now seeking potential successors for Huang, who has led the company for 33 years.",
+      "enterpriseAngle": "The potential ousting of a long-standing, influential CEO like Jensen Huang highlights significant governance risks for enterprises, particularly when key leadership is embroiled in personal scandals that impact stock value and company stability. Enterprise product development teams should monitor leadership changes at critical suppliers like Nvidia for potential shifts in strategy or product roadmaps.",
+      "beginner": "Nvidia, a major company making chips for AI, might replace its CEO because of personal scandals, causing its stock price to fall.",
+      "advanced": "CIOs and procurement leaders should assess the potential impact of Nvidia's leadership transition on their AI infrastructure roadmaps and supply chain stability, considering diversification strategies if long-term strategic shifts are anticipated.",
+      "tags": [
+        "enterprise",
+        "governance",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "d8ef3fe6591f",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+      "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+      "publishedAt": "2026-11-11T23:17:05.000Z",
+      "fetchedAt": "2026-11-12T02:10:57.625Z",
+      "contentText": null,
+      "summary": "Nvidia CEO Jensen Huang is reportedly under suspicion for a second extramarital affair, this time with Kimberly Powell, Nvidia's vice president of healthcare. This new allegation follows an ongoing investigation into Huang's admitted affair with a woman accused of being a Chinese spy. The Nvidia board is reportedly preparing to remove Huang from his position.",
+      "enterpriseAngle": "These allegations of personal misconduct and potential national security concerns surrounding Nvidia's CEO could significantly impact the company's leadership stability, investor confidence, and its ability to secure sensitive government contracts, particularly in AI and defense sectors.",
+      "beginner": "The leader of Nvidia, a big AI chip company, is facing serious personal and professional accusations that might lead to him being removed from his job.",
+      "advanced": "Enterprise governance teams should closely monitor the unfolding leadership crisis at Nvidia for its potential impact on supply chain stability and strategic partnerships, especially given the CEO's alleged involvement with a direct report and national security implications.",
+      "tags": [
+        "enterprise",
+        "governance",
+        "policy"
+      ]
+    },
+    {
+      "id": "ae5556d61c0b",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Why the data center you dread might never even be built",
+      "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+      "publishedAt": "2026-11-11T20:15:15.000Z",
+      "fetchedAt": "2026-11-12T02:10:57.625Z",
+      "contentText": null,
+      "summary": "The current boom in data center construction faces significant hurdles, including local opposition, permitting delays, and a shortage of electricity. Many announced data center projects may not proceed to completion due to these real-world obstacles.",
+      "enterpriseAngle": "Enterprise product and infrastructure teams should anticipate potential delays and increased costs for AI infrastructure, necessitating flexible planning and potentially exploring alternative cloud or hybrid solutions. The scarcity of resources like electricity could impact the scalability and location choices for future enterprise AI deployments.",
+      "beginner": "Building the massive computer centers needed for AI is proving much harder than expected due to various real-world problems.",
+      "advanced": "Evaluate the feasibility and timelines of planned AI infrastructure expansions, considering the escalating challenges in data center development and resource availability.",
+      "tags": [
+        "infrastructure",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "70b89fd3ef03",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Meta is losing its longtime head of infrastructure",
+      "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+      "publishedAt": "2026-11-11T20:12:01.000Z",
+      "fetchedAt": "2026-11-12T02:10:57.625Z",
+      "contentText": null,
+      "summary": "Santosh Janardhan, Meta's long-serving head of infrastructure and co-head of engineering, is stepping down from his role. He will be replaced by Dave Brown, who previously spent 19 years at Amazon focusing on compute, cloud, and AI. Janardhan will transition into an advisory role for Meta Compute before his departure next year.",
+      "enterpriseAngle": "This leadership change in Meta's infrastructure division, especially with a successor experienced in cloud and AI from Amazon, signals a continued strong focus on scaling compute and data center investments crucial for enterprise AI development and operations. Enterprise teams should note the emphasis on robust infrastructure as a competitive differentiator in the AI landscape.",
+      "beginner": "A very important person in charge of Meta's computer systems is leaving, and someone new with experience in cloud and AI from Amazon is taking over.",
+      "advanced": "Evaluate the implications of this leadership transition on Meta's long-term infrastructure roadmap and its potential impact on open-source contributions and cloud-native AI strategies, particularly given the successor's extensive background at Amazon.",
+      "tags": [
+        "infrastructure",
+        "enterprise",
+        "workforce"
       ]
     },
     {
@@ -184,6 +284,26 @@
         "product",
         "enterprise",
         "consumer"
+      ]
+    },
+    {
+      "id": "6619f09dbc0d",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Databricks' new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+      "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+      "publishedAt": "2026-11-11T15:00:00.000Z",
+      "fetchedAt": "2026-11-12T02:10:57.625Z",
+      "contentText": null,
+      "summary": "Databricks CEO Ali Ghodsi uses a new AI agent, Genie, to gain unfiltered insights into company operations. This agent helps him understand issues that employees might not directly report to him.",
+      "enterpriseAngle": "Enterprise leaders can leverage AI agents to gain more transparent and comprehensive internal feedback, potentially improving decision-making and operational awareness. This approach offers a new tool for internal communication and organizational oversight.",
+      "beginner": "AI agents can act like a company's internal truth-teller, helping leaders understand what's really happening without employees having to directly report problems.",
+      "advanced": "Implement AI agents with robust data aggregation and natural language processing capabilities to provide executive-level summaries of internal sentiment and operational friction points, ensuring anonymity and fostering candid feedback.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product"
       ]
     },
     {

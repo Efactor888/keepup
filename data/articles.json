@@ -1,6 +1,193 @@
 {
-  "updatedAt": "2026-11-12T02:12:13.099Z",
+  "updatedAt": "2026-11-12T20:45:16.496Z",
   "articles": [
+    {
+      "id": "92467d3f16d5",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Jensen Huang was having a third affair, Reuters reports",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+      "publishedAt": "2026-11-12T20:26:47.000Z",
+      "fetchedAt": "2026-11-12T20:43:44.547Z",
+      "contentText": null,
+      "summary": "Nvidia founder Jensen Huang has resigned as CEO and board member following reports of a third extramarital affair with an Nvidia employee, in addition to previously reported relationships. CFO Colette Kress has been appointed interim CEO. Huang is also scheduled to testify before Congress regarding national security implications related to one of his relationships.",
+      "enterpriseAngle": "This leadership change at Nvidia, a key player in AI hardware, could introduce instability and uncertainty for enterprises relying on their technology and roadmaps. Enterprise security teams may need to monitor potential impacts on supply chains and product development, especially given the national security concerns raised.",
+      "beginner": "The leader of a major AI chip company has stepped down due to personal conduct, which might affect the company's future direction.",
+      "advanced": "Evaluate the potential for disruption to Nvidia's product pipeline and strategic partnerships, and assess any downstream supply chain risks for AI infrastructure and development projects.",
+      "tags": [
+        "enterprise",
+        "governance",
+        "infrastructure",
+        "policy"
+      ]
+    },
+    {
+      "id": "372847c94994",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "url": "https://openai.com/index/amplitude",
+      "publishedAt": "2026-11-12T20:00:00.000Z",
+      "fetchedAt": "2026-11-12T20:43:42.008Z",
+      "contentText": null,
+      "summary": "Amplitude's proactive product agent, Wave, powered primarily by OpenAI models like GPT-6.1 Sol and GPT-Image-2.5 Flare, helps teams identify product improvements, implement changes with coding agents, and measure their impact. Wave can reduce the time to ship product improvements from approximately a month to 1-2 days. On Amplitude's own homepage, Wave personalized suggestion cards, leading to a 160% increase in card-driven sends.",
+      "enterpriseAngle": "Enterprise product development teams can leverage AI agents to significantly accelerate the product improvement lifecycle, from identifying opportunities to deploying changes and measuring impact. This approach allows for rapid iteration and personalized user experiences, potentially leading to higher engagement and efficiency.",
+      "beginner": "AI tools can help companies quickly figure out what changes to make to their products and then help make those changes happen much faster than before.",
+      "advanced": "Implement a multi-agent architecture, leveraging specialized models for distinct tasks (e.g., high-reasoning for investigations, smaller models for high-volume checks) to optimize for quality, latency, and inference cost in your product development workflow.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product",
+        "coding"
+      ]
+    },
+    {
+      "id": "875637b2c34d",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Google's latest Search upgrade promises better answers to your most complicated questions",
+      "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+      "publishedAt": "2026-11-12T19:27:45.000Z",
+      "fetchedAt": "2026-11-12T20:43:44.547Z",
+      "contentText": null,
+      "summary": "Google has released Gemini 4 Hydrogen, a new AI model designed to improve Google Search by better understanding complex questions, typos, and user intent. This model is faster than its predecessor and can handle multi-part queries, offering more helpful links and visual responses. Hydrogen is also available across Google's AI Studio, Gemini API, and other platforms.",
+      "enterpriseAngle": "Enterprise product development teams can leverage Gemini 4 Hydrogen through Google's AI Studio and API to build more responsive and intelligent applications, particularly for tasks requiring fast execution and nuanced understanding of user input. Its ability to work independently or in conjunction with more powerful models offers flexibility for various enterprise AI workflows.",
+      "beginner": "Google's new AI makes searching easier by understanding complicated questions and typos better, giving you more accurate and visual results.",
+      "advanced": "Integrate Gemini 4 Hydrogen via the Gemini API to enhance agentic workflows requiring rapid, multi-step task completion and improved intent recognition, optimizing for speed and cost-efficiency over raw computational power.",
+      "tags": [
+        "model-release",
+        "product",
+        "enterprise",
+        "agents"
+      ]
+    },
+    {
+      "id": "d3c21aad1252",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+      "publishedAt": "2026-11-12T19:11:00.000Z",
+      "fetchedAt": "2026-11-12T20:43:44.547Z",
+      "contentText": null,
+      "summary": "Nectar has launched a new AI agent called \"Creator Agent\" to automate influencer marketing tasks for brands. This agent helps with finding suitable creators, managing partnerships, and tracking campaign results, aiming to reduce the manual effort involved in these processes. The system can analyze over 300 million creator profiles, assess content for brand fit and safety, and personalize outreach.",
+      "enterpriseAngle": "Enterprise marketing and product development teams can leverage this AI agent to significantly streamline their influencer marketing strategies, from initial discovery and vetting to ongoing relationship management and performance tracking. This automation can free up resources, allowing teams to focus on higher-level strategic initiatives and creative campaign development.",
+      "beginner": "AI agents are like smart assistants that can handle many repetitive tasks for businesses, such as finding the right people to promote a product and talking to them.",
+      "advanced": "Integrate Nectar's Creator Agent via its Model Context Protocol (MCP) into existing AI assistant workflows (e.g., Claude, ChatGPT, Gemini) to enhance creator relationship management and campaign optimization through automated, context-aware communication and performance analytics.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "3903c89c61e5",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+      "publishedAt": "2026-11-12T18:39:23.000Z",
+      "fetchedAt": "2026-11-12T20:43:44.547Z",
+      "contentText": null,
+      "summary": "Jensen Huang's resignation from Nvidia has led to uncertainty regarding the company's future dedication to open-source AI initiatives. This includes concerns about the status of its Hugging Face acquisition, its development of open-weight models, and its stance on advocating against AI restrictions. The company is currently undergoing a leadership transition.",
+      "enterpriseAngle": "Enterprise product development teams relying on Nvidia's open-source contributions, such as those integrated with Hugging Face, should monitor the company's post-Huang strategy for potential shifts in support or resource allocation. This leadership change could influence the availability and development of foundational AI models and tools for enterprise use.",
+      "beginner": "Nvidia's leader stepping down makes people wonder if the company will continue to support free, public AI tools and models as much as before.",
+      "advanced": "Evaluate Nvidia's post-Jensen Huang leadership statements and actions regarding open-source AI investments, particularly concerning the Hugging Face integration and open-weight model releases, to inform strategic planning for AI infrastructure and model adoption.",
+      "tags": [
+        "enterprise",
+        "product",
+        "governance",
+        "model-release"
+      ]
+    },
+    {
+      "id": "ad614f81e42f",
+      "source": "google-ai",
+      "sourceName": "Google AI",
+      "tier": "realtime",
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "publishedAt": "2026-11-12T18:00:00.000Z",
+      "fetchedAt": "2026-11-12T20:43:42.391Z",
+      "contentText": null,
+      "summary": "Google Search has been upgraded with Gemini 4 Hydrogen, a new AI model that aims to provide more intuitive, visual, and precise answers globally. This update allows Google Search to better understand complex, multi-part questions, conduct simultaneous queries, and display structured information like tables and images. Users can now ask nuanced questions in natural language and receive more relevant and helpful responses.",
+      "enterpriseAngle": "Enterprise product development teams can leverage the enhanced natural language understanding and multi-part query capabilities of advanced AI models to build more sophisticated and user-friendly search functionalities within their own applications. This advancement in search intelligence could also influence how enterprises structure and present their internal knowledge bases for better discoverability.",
+      "beginner": "Google Search is now smarter, making it easier to find answers to complicated questions by understanding what you really mean and showing you more helpful pictures and tables.",
+      "advanced": "Leverage the improved intent understanding and query fan-out capabilities of the latest Gemini model to optimize content indexing and retrieval strategies, ensuring comprehensive and contextually rich results for complex enterprise search use cases.",
+      "tags": [
+        "model-release",
+        "product",
+        "enterprise",
+        "consumer"
+      ]
+    },
+    {
+      "id": "5c8a7e2ce9e4",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang's exit",
+      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+      "publishedAt": "2026-11-12T17:36:40.000Z",
+      "fetchedAt": "2026-11-12T20:43:44.547Z",
+      "contentText": null,
+      "summary": "Hugging Face CEO Clément Delangue expressed sadness over Nvidia CEO Jensen Huang's departure, but affirmed Hugging Face's commitment to open-source AI. Nvidia's planned acquisition of Hugging Face for $12.9 billion, announced in September, is still scheduled to close in the first half of 2027. Huang was a known advocate for open-source AI, and his exit raises questions about Nvidia's future approach to the open-source space.",
+      "enterpriseAngle": "Enterprise product development teams leveraging open-source AI models, particularly those distributed via Hugging Face, should monitor Nvidia's post-acquisition strategy and leadership changes for potential impacts on model accessibility, support, and long-term commitment to open standards. Security teams should note Huang's past advocacy for open models strengthening safety and cybersecurity, and assess how any shifts in Nvidia's stance might affect their AI supply chain.",
+      "beginner": "The leader of Hugging Face, a major platform for sharing AI models, is promising to keep supporting open-source AI even after the departure of Nvidia's CEO, who was a big supporter of open-source.",
+      "advanced": "Given Jensen Huang's departure and the ongoing DOJ inquiries into the Nvidia-Hugging Face acquisition, evaluate the potential for shifts in Nvidia's open-source AI strategy and consider diversifying model sources or contributing to alternative open-source initiatives to mitigate vendor lock-in risks.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "policy",
+        "model-release"
+      ]
+    },
+    {
+      "id": "322f998ba4d6",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+      "publishedAt": "2026-11-12T17:17:58.000Z",
+      "fetchedAt": "2026-11-12T20:43:44.547Z",
+      "contentText": null,
+      "summary": "United Airlines has announced restrictions on AI agents booking flights or managing reservations, citing cybersecurity concerns and potential violations of federal regulations. The airline warns that sharing account credentials with third-party AI assistants could expose sensitive information, lead to unintended purchases, or misuse MileagePlus miles. This action follows similar warnings from banks like Bank of America regarding password sharing with AI assistants.",
+      "enterpriseAngle": "Enterprise security teams must consider the risks associated with customers using third-party AI agents, particularly concerning credential sharing and data privacy. Product development teams should explore secure integration methods for AI assistants or implement robust authentication protocols to mitigate unauthorized access and maintain compliance.",
+      "beginner": "Sharing your account passwords with AI tools can be risky because those tools might expose your personal information or make changes to your account without your full awareness.",
+      "advanced": "Implement API-based integrations for trusted AI partners to avoid credential sharing, and leverage advanced behavioral analytics to differentiate between human and AI-driven interactions for critical transactions.",
+      "tags": [
+        "security",
+        "enterprise",
+        "policy",
+        "agents"
+      ]
+    },
+    {
+      "id": "0990939c7d6e",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "publishedAt": "2026-11-12T09:30:00.000Z",
+      "fetchedAt": "2026-11-12T20:43:42.008Z",
+      "contentText": null,
+      "summary": "Holiday Extras, a travel company, used OpenAI's Codex to rebuild its main app, leading to a 32.5% increase in open-to-book conversion and a 10% reduction in app error rates. The development time for a working app rebuild was significantly reduced from six months to two weeks. This initiative allowed the company to shift from annual major app releases to weekly updates, incorporating multiple new features.",
+      "enterpriseAngle": "Enterprises can leverage AI tools like Codex to dramatically accelerate software development cycles and empower non-technical experts to directly contribute to product improvements, leading to higher conversion rates and reduced operational errors. This approach also fosters a culture of rapid iteration and customer-driven development, enhancing overall business agility.",
+      "beginner": "AI tools can help companies build apps much faster and with fewer mistakes, making products better for customers.",
+      "advanced": "Implement AI-powered coding assistants and establish robust guardrails and reusable component packages to empower domain experts to directly translate business logic into functional software, accelerating feature delivery and improving product quality.",
+      "tags": [
+        "coding",
+        "enterprise",
+        "product"
+      ]
+    },
     {
       "id": "f28f90d2895a",
       "source": "openai",
@@ -20,6 +207,27 @@
         "product",
         "workforce",
         "agents"
+      ]
+    },
+    {
+      "id": "b06379671ede",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Supporting research on AI and children’s safety",
+      "url": "https://openai.com/index/children-first-declaration",
+      "publishedAt": "2026-11-12T00:00:00.000Z",
+      "fetchedAt": "2026-11-12T20:43:42.008Z",
+      "contentText": null,
+      "summary": "OpenAI has committed $2 million to support research on AI's impact on children, signing the Charter of Engagement for Safer AI for Children at the Paris Peace Forum. This initiative aims to develop tools for researchers to measure AI's risks and opportunities for children, informing safer products and policies. The research will operate independently, with all findings, including negative ones, being published.",
+      "enterpriseAngle": "Enterprise product development teams should consider integrating age-appropriate safeguards by default, parental tools, and regular risk assessments into AI products to align with emerging global standards for youth AI safety. This commitment signals a growing focus on ethical AI development that prioritizes vulnerable populations, influencing future regulatory landscapes and product design requirements.",
+      "beginner": "OpenAI is investing money to study how AI affects kids, hoping to make AI products safer and help create better rules for them.",
+      "advanced": "Actively participate in the Coalition for Children’s Rights and Protection in the Age of AI's scientific research network to contribute to and leverage shared measurement tools for developing age-appropriate AI safeguards and informing policy.",
+      "tags": [
+        "research",
+        "policy",
+        "governance",
+        "product"
       ]
     },
     {

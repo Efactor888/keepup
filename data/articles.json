@@ -1,6 +1,89 @@
 {
-  "updatedAt": "2026-11-12T20:45:16.496Z",
+  "updatedAt": "2026-11-13T01:47:24.404Z",
   "articles": [
+    {
+      "id": "4e2810e47ea3",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang's ‘scheme' with Trump",
+      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+      "publishedAt": "2026-11-12T22:42:51.000Z",
+      "fetchedAt": "2026-11-13T01:44:22.632Z",
+      "contentText": null,
+      "summary": "Democrats have launched an inquiry into the Trump administration's handling of Nvidia's chip sales to China, focusing on an alleged \"scheme\" involving tariffs and export licenses. The inquiry also questions why the Commerce Department continued to allow a Singapore-based company, Megaspeed, to purchase chips despite intelligence suspicions about one of its executives and her relationship with former Nvidia CEO Jensen Huang. Huang was ousted from Nvidia after confessing to an affair with an alleged Chinese spy, and has agreed to testify to Republican-led Congressional committees.",
+      "enterpriseAngle": "Enterprise security teams should note the heightened scrutiny on supply chain integrity and executive conduct, particularly concerning foreign influence and compliance with export controls. Product development teams in the AI chip sector must be aware of the increasing political and regulatory risks associated with international sales and partnerships.",
+      "beginner": "Government officials are investigating how Nvidia sold computer chips to China and if there were any improper deals or relationships involved.",
+      "advanced": "Evaluate your organization's compliance with export control regulations and conduct thorough due diligence on international partners, especially those operating in sensitive geopolitical regions, to mitigate risks associated with alleged foreign influence and potential illicit trade practices.",
+      "tags": [
+        "policy",
+        "security",
+        "enterprise",
+        "governance"
+      ]
+    },
+    {
+      "id": "82d9be95873a",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Muse can now place calls to US businesses — if you pay",
+      "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+      "publishedAt": "2026-11-12T22:22:28.000Z",
+      "fetchedAt": "2026-11-13T01:44:22.632Z",
+      "contentText": null,
+      "summary": "Meta's AI agent, Muse, now offers a paid feature allowing it to place calls to U.S. businesses on behalf of users. This service aims to handle tasks like contacting cable companies or making restaurant reservations, appealing to consumers frustrated with traditional customer service. While AI agents can mimic human voices, some businesses may still hang up on automated calls.",
+      "enterpriseAngle": "Enterprise product development teams should consider integrating AI agents for customer interaction, but also prepare for potential resistance from businesses receiving AI-initiated calls. Security teams should evaluate the data privacy implications of AI agents handling sensitive customer interactions with third-party businesses.",
+      "beginner": "AI agents like Meta's Muse can now make phone calls for you, handling tasks you might not want to do yourself.",
+      "advanced": "Implement robust voice recognition and natural language processing models to enhance AI agent performance in real-world call scenarios, while also developing strategies to mitigate business resistance to automated callers.",
+      "tags": [
+        "agents",
+        "product",
+        "consumer"
+      ]
+    },
+    {
+      "id": "ef98f01e800c",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "publishedAt": "2026-11-12T21:35:00.000Z",
+      "fetchedAt": "2026-11-13T01:44:22.632Z",
+      "contentText": null,
+      "summary": "Jensen Huang, co-founder and former CEO of Nvidia, has resigned amidst a scandal involving multiple extramarital affairs. One of these alleged affairs was with Alice Huang, an executive at Megaspeed, a Singapore-based AI infrastructure company suspected of illegally sharing Nvidia chips with China, raising national security concerns. Additionally, reports surfaced of affairs with two Nvidia employees, including a vice president who reported directly to him.",
+      "enterpriseAngle": "This situation highlights significant governance and supply chain risks for enterprises, especially those in critical technology sectors, as executive misconduct can lead to leadership instability, reputational damage, and potential national security investigations impacting key partnerships and market access. Companies must prioritize robust succession planning and ethical conduct policies to mitigate such high-level risks.",
+      "beginner": "The CEO of a major AI chip company resigned because of personal affairs, one of which involved a person suspected of being a Chinese spy, which is a big deal for national security.",
+      "advanced": "Implement a comprehensive executive risk management framework that includes enhanced due diligence on key personnel's external relationships, particularly with entities in geopolitical hotspots, and establish clear protocols for managing conflicts of interest and potential national security implications.",
+      "tags": [
+        "enterprise",
+        "governance",
+        "policy",
+        "security"
+      ]
+    },
+    {
+      "id": "fc0f425d4885",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+      "publishedAt": "2026-11-12T21:27:10.000Z",
+      "fetchedAt": "2026-11-13T01:44:22.632Z",
+      "contentText": null,
+      "summary": "Nebius, a neocloud company, announced plans to spend $40 billion in 2027, significantly more than anticipated, to build out data center capacity. This ambitious plan relies heavily on customer prepayments and loans backed by customer contracts, a strategy that carries risks if projects face delays. One major project, a data center for Microsoft in Vineland, New Jersey, is months behind schedule due to issues with a third-party operator and regulatory fines for unpermitted gas generators.",
+      "enterpriseAngle": "Enterprise product development and security teams relying on third-party cloud infrastructure should carefully vet vendor capabilities and contractual terms, as delays in capacity delivery can impact project timelines and incur financial penalties. Companies like Microsoft are demonstrating increased scrutiny of third-party performance, highlighting the importance of robust due diligence and contingency planning.",
+      "beginner": "Building large data centers for AI is very expensive and difficult, and companies often rely on future payments from customers to fund their construction, which can be risky if there are delays.",
+      "advanced": "When evaluating cloud infrastructure partners, scrutinize their financing models and supply chain dependencies, particularly for large-scale buildouts, and ensure contracts include clear penalty clauses and alternative capacity provisions for missed delivery dates.",
+      "tags": [
+        "enterprise",
+        "infrastructure",
+        "funding",
+        "product"
+      ]
+    },
     {
       "id": "92467d3f16d5",
       "source": "techcrunch-ai",
@@ -23,6 +106,27 @@
       ]
     },
     {
+      "id": "d1b4a114799f",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "publishedAt": "2026-11-12T20:16:24.000Z",
+      "fetchedAt": "2026-11-13T01:44:23.100Z",
+      "contentText": null,
+      "summary": "Nvidia privately informed Illinois Representative Bill Foster that it is technically feasible to implement anti-smuggling measures outlined in the Chip Security Act. This private confirmation contrasts with an industry group's public statement that such measures were \"potentially infeasible.\"",
+      "enterpriseAngle": "This suggests that enterprises developing or using advanced chips may soon face new supply chain tracking requirements, potentially impacting procurement, logistics, and compliance strategies. Product development teams might need to integrate chip-level tracking capabilities into their designs to meet future regulatory demands.",
+      "beginner": "Even though some say it's hard, a big chip company privately admitted they could track their chips to stop them from being smuggled.",
+      "advanced": "Prepare for potential regulatory changes requiring chip-level traceability by evaluating current supply chain visibility tools and exploring integration of hardware-based tracking solutions to ensure compliance and mitigate smuggling risks.",
+      "tags": [
+        "security",
+        "policy",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
       "id": "372847c94994",
       "source": "openai",
       "sourceName": "OpenAI",
@@ -36,6 +140,27 @@
       "enterpriseAngle": "Enterprise product development teams can leverage AI agents to significantly accelerate the product improvement lifecycle, from identifying opportunities to deploying changes and measuring impact. This approach allows for rapid iteration and personalized user experiences, potentially leading to higher engagement and efficiency.",
       "beginner": "AI tools can help companies quickly figure out what changes to make to their products and then help make those changes happen much faster than before.",
       "advanced": "Implement a multi-agent architecture, leveraging specialized models for distinct tasks (e.g., high-reasoning for investigations, smaller models for high-volume checks) to optimize for quality, latency, and inference cost in your product development workflow.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product",
+        "coding"
+      ]
+    },
+    {
+      "id": "5b0f73df89a6",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "url": "https://openai.com/business/customer-stories/amplitude",
+      "publishedAt": "2026-11-12T20:00:00.000Z",
+      "fetchedAt": "2026-11-13T01:44:19.657Z",
+      "contentText": null,
+      "summary": "Amplitude's proactive product agent, Wave, powered primarily by OpenAI models like GPT-6.1 Sol and GPT-Image-2.5 Flare, helps teams identify product improvement opportunities, implement changes with coding agents, and measure their impact. This system has reduced the estimated time to ship product improvements from approximately a month to 1-2 days. Wave also drove a 160% increase in agent engagement on Amplitude's homepage by personalizing suggestion cards.",
+      "enterpriseAngle": "Enterprise product development teams can leverage AI agents to significantly accelerate their product improvement cycles, from identifying opportunities to deploying changes, by integrating advanced AI models for data analysis, code generation, and design mockups. This approach allows for rapid iteration and personalized user experiences, leading to increased engagement and efficiency.",
+      "beginner": "AI tools can help companies quickly figure out what changes to make to their products and then make those changes much faster than before.",
+      "advanced": "Implement a multi-agent architecture, leveraging specialized LLMs for distinct tasks such as opportunity identification (e.g., GPT-6.1 Sol for deep investigations), high-volume checks (e.g., GPT-6 Luna for cost-efficiency), and visual design (e.g., GPT-Image-2.5 Flare for mockups), to optimize for quality, latency, and inference cost across the product development lifecycle.",
       "tags": [
         "agents",
         "enterprise",
@@ -165,6 +290,59 @@
         "security",
         "enterprise",
         "policy",
+        "agents"
+      ]
+    },
+    {
+      "id": "ca80552a275a",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "SoftBank’s billion-dollar loss may have put a cap on AI's natural gas ambitions",
+      "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+      "publishedAt": "2026-11-12T17:00:52.000Z",
+      "fetchedAt": "2026-11-13T01:44:22.632Z",
+      "contentText": "SoftBank might not be the first to invest in a hot trend, but when it does, it goes big. Witness its $30 billion bet on OpenAI in early 2025 or its announcement in February that its SB Energy subsidiary would spend $33 billion on a 9.2-gigawatt natural gas power plant. If you can’t be first, be biggest, I guess. That philosophy apparently spilled over into procurement, where orders were also supersized. Starting about two years ago, SoftBank reportedly put down deposits on more than 13 gigawatts of turbines, almost 50% more than it needed. The decision to over-order undoubtedly helped secure turbines and speed up SoftBank’s projects. “SB Energy did not have a choice except to overbook turbines in the future if they wanted some turbines right away,” Peter Gardett, CEO of Noreva , told TechCrunch via email. The energy world was caught off guard by the swiftness and magnitude of AI’s rising power demands. Queues for turbine orders now extend into the early 2030s . As natural gas was shaping up to be a go-to power source for the AI boom, CEO Masayoshi Son bet that by deploying his investment firm’s significant war chest, he could corner a portion of the market. If the AI world wanted power for its data centers, it would have to come to him. Now that bet appears to have fizzled. SoftBank announced a $7.1 billion quarterly loss on Tuesday, with over half of that stemming from losses related to power-generating equipment. The investor had paid turbine manufacturers nonrefundable deposits to secure orders, and now it considered much of those worthless. The move was also a costly bit of price discovery, Gardett said. Rather than overpay and potentially still be short of turbines, SoftBank overpaid and over-ordered. “This charge is just that price discovery finally happening,” Gardett said. The magnitude of that misplaced bet — over $3 billion — reflects some of the electricity mania that has overtaken the AI world. Faced with years-long waits to connect to the grid, many hyperscalers and developers have turned to natural gas as a sort of energy security blanket, something that is proven and familiar. As AI data centers spend more time in operation, their operators are getting a better feel for what's required to keep them operating. Natural gas might seem like a safe bet, but there are still risks, including winter curtailments when supplies dip and demand spikes, Brent Nelson, senior managing director of markets and strategy at Ascend Analytics , told the Equity podcast Wednesday. In light of that, Nelson said the grid might still be their best bet. Most data centers would be best served by a grid connection, albeit a smaller one than they might normally request. To make up for the shortfall, large batteries are a cost-effective choice, Nelson said. They’d help shave peak loads or ride out requests from the utility to curtail electricity use. Data center operators might be coming to that same conclusion, leading the natural gas market to develop more slowly than SoftBank expected. SoftBank’s natural gas-related losses are unlikely to have a domino effect, leading to mass cancellations of gas power plants. AI’s power demand appears to be too large for that. For now, natural gas is riding high, though SoftBank may have found its ceiling. Topics AI , Analysis , Climate , natural gas , Softbank When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Tim De Chant Senior Reporter, Climate Tim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor. De Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College. You can contact or verify outreach from Tim by emailing [email protected] . View Bio 2027 San Francisco Get an Early Peek at the Next TechCrunch Disrupt Disrupt, Startup Battlefield, and more will return next year, and you can be at the front of the line. Sign up for our waitlist Register Now Most Popular Jensen Huang was having a third affair, Reuters reports Russell Brandom Microsoft's Outlook email hit by new outage Zack Whittaker Jensen Huang accused of having another affair — with an Nvidia exec Lucas Ropek Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks Aisha Malik Jensen Huang's alleged honeypot scandal has inspired some top-notch memes Dominic-Madori Davis Lucas Ropek Waymo robotaxis kept illegally passing school buses after software fix, feds say Kirsten Korosec Musk says Tesla will refund some Cybertruck deposits, defends decision to end production Kirsten Korosec",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
+    {
+      "id": "0cefd18c08c5",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+      "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
+      "publishedAt": "2026-11-12T17:00:00.000Z",
+      "fetchedAt": "2026-11-13T01:44:22.633Z",
+      "contentText": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.",
+      "summary": null,
+      "enterpriseAngle": null,
+      "beginner": null,
+      "advanced": null,
+      "tags": []
+    },
+    {
+      "id": "90d79223706e",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "url": "https://openai.com/business/customer-stories/gondola",
+      "publishedAt": "2026-11-12T12:00:00.000Z",
+      "fetchedAt": "2026-11-13T01:44:19.657Z",
+      "contentText": null,
+      "summary": "Gondola, a startup helping creatives get credit and jobs, has doubled its revenue year-over-year by integrating OpenAI's Codex and ChatGPT into its operations. Codex increased the lead engineer's output by 50% and overall engineering output by 25%, allowing business teams to prototype software. ChatGPT streamlined daily tasks like preparing proposals and managing schedules, enabling the small team to take on more product and operational work.",
+      "enterpriseAngle": "Enterprises can leverage AI tools like Codex to empower non-engineering teams to prototype solutions, accelerating product development and reducing reliance on engineering resources. Integrating AI for operational tasks can also significantly boost efficiency and capacity for small teams, allowing them to focus on core business growth.",
+      "beginner": "AI tools like Codex and ChatGPT can help companies build software faster and manage daily tasks more efficiently, even for people without a coding background.",
+      "advanced": "Evaluate the potential of integrating AI-powered coding assistants and large language models into your development and operational workflows to enable cross-functional prototyping and automate routine tasks, ensuring proper architectural oversight and security protocols remain with engineering.",
+      "tags": [
+        "enterprise",
+        "product",
+        "coding",
         "agents"
       ]
     },
@@ -38375,28 +38553,6 @@
         "product",
         "research",
         "learning"
-      ],
-      "dateChecked": true
-    },
-    {
-      "id": "4ac906a950f5",
-      "source": "anthropic",
-      "sourceName": "Anthropic",
-      "tier": "realtime",
-      "title": "Disrupting the first reported AI-orchestrated cyber espionage campaign",
-      "url": "https://www.anthropic.com/news/disrupting-AI-espionage",
-      "publishedAt": "2025-11-13",
-      "fetchedAt": "2026-09-08T17:11:58.180Z",
-      "contentText": null,
-      "summary": "Anthropic detected and disrupted what it believes is the first large-scale, AI-orchestrated cyber espionage campaign, attributed to a Chinese state-sponsored group. The attackers used AI agents, specifically manipulating Anthropic's Claude Code tool, to autonomously infiltrate approximately thirty global targets, including tech companies, financial institutions, and government agencies. This campaign represents a significant shift towards AI-driven cyberattacks with minimal human intervention.",
-      "enterpriseAngle": "Enterprise security teams must urgently adapt their defenses to counter sophisticated, AI-orchestrated attacks that leverage agentic capabilities, advanced coding skills, and tool access to automate reconnaissance, exploit vulnerabilities, and exfiltrate data. Product development teams building AI agents need to prioritize robust guardrails and continuous monitoring to prevent misuse and ensure their tools cannot be easily jailbroken for malicious purposes.",
-      "beginner": "AI is now powerful enough to be used by attackers to automatically hack into computer systems, making cybersecurity much harder.",
-      "advanced": "Implement advanced behavioral analytics and anomaly detection tailored for AI agent activity, focusing on unusual toolchain usage, rapid reconnaissance patterns, and obfuscated instruction sets to identify and mitigate autonomous, multi-stage cyberattacks.",
-      "tags": [
-        "security",
-        "agents",
-        "enterprise",
-        "policy"
       ],
       "dateChecked": true
     }

@@ -1,6 +1,153 @@
 {
-  "updatedAt": "2026-11-13T01:47:24.404Z",
+  "updatedAt": "2026-11-13T20:27:03.278Z",
   "articles": [
+    {
+      "id": "38741df50e34",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "publishedAt": "2026-11-13T19:37:57.000Z",
+      "fetchedAt": "2026-11-13T20:25:23.860Z",
+      "contentText": null,
+      "summary": "AI agent management startup LangChain has secured $300 million in Series C funding, led by CapitalG, bringing its valuation to $3 billion. This valuation more than doubles its previous $1.25 billion valuation from a year ago. LangChain, which started as an open-source project, now focuses on managing AI agents and offers its LangSmith software to businesses.",
+      "enterpriseAngle": "Enterprises can leverage LangChain's LangSmith software to create and manage AI agents without being locked into specific models, clouds, or ecosystems, offering flexibility and control over their AI intelligence. The platform's focus on containing agent behavior and ease of use could streamline AI agent deployment and management for product development teams.",
+      "beginner": "LangChain helps businesses create and manage AI tools that can do tasks like searching the web and interacting with databases, without being tied to one specific AI company.",
+      "advanced": "Evaluate LangSmith for managing multi-agent systems and ensuring interoperability across diverse LLM providers and cloud environments, focusing on its open-source roots for potential customization and proprietary intelligence ownership.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "funding",
+        "product"
+      ]
+    },
+    {
+      "id": "f17748102e2c",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Export-banned Nvidia chips are behind China's most powerful AI models — uh oh, Jensen!",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "publishedAt": "2026-11-13T18:40:30.000Z",
+      "fetchedAt": "2026-11-13T20:25:23.860Z",
+      "contentText": null,
+      "summary": "Research suggests that leading open-weight AI models from Chinese companies were trained using Nvidia's Blackwell GPUs, which are restricted from export to China by the U.S. government. This raises questions about the effectiveness of export controls and the methods Chinese firms use to access advanced computing power. Nvidia's CEO, Jensen Huang, recently left the company amid investigations into his relationship with an executive whose company is implicated in smuggling these banned chips into China.",
+      "enterpriseAngle": "Enterprise AI product development and security teams must be aware of the complexities and risks associated with global supply chains for advanced AI hardware, especially concerning export controls and potential illicit trade. This situation highlights the importance of robust compliance frameworks and due diligence in international partnerships to avoid legal and reputational damage.",
+      "beginner": "Some powerful AI chips made by a U.S. company are not supposed to go to China, but new reports suggest Chinese companies are still getting and using them to build advanced AI models.",
+      "advanced": "Implement enhanced supply chain visibility and audit trails for AI hardware procurement, particularly for components subject to export controls, to mitigate legal and compliance risks associated with unauthorized access or use by restricted entities.",
+      "tags": [
+        "security",
+        "enterprise",
+        "policy",
+        "governance"
+      ]
+    },
+    {
+      "id": "4e379f6cb9d3",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "ChatGPT's new Wallet lets AI agents shop and check out for you",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "publishedAt": "2026-11-13T16:00:12.000Z",
+      "fetchedAt": "2026-11-13T20:25:23.860Z",
+      "contentText": null,
+      "summary": "OpenAI has introduced a new \"Wallet\" feature for ChatGPT Pro subscribers, enabling its AI agents, called \"dots,\" to assist with shopping and complete purchases on behalf of users. Users must approve each transaction with a security check like Face ID, and payment details are tokenized to protect sensitive information. This feature is initially available to a limited number of U.S. users with eligible payment cards.",
+      "enterpriseAngle": "Enterprise product development teams can explore integrating similar agentic commerce capabilities, focusing on secure payment tokenization and robust user authentication to build trust. Security teams should assess the implications of AI agents handling financial transactions, ensuring compliance and data protection.",
+      "beginner": "ChatGPT can now help you shop online and pay for things, but you always have to approve the purchase with a security check.",
+      "advanced": "Implement payment tokenization and multi-factor authentication for AI-driven transaction systems, while also developing a Commerce Partner Playbook to guide retailers in adapting to agentic commerce.",
+      "tags": [
+        "agents",
+        "product",
+        "enterprise",
+        "security"
+      ]
+    },
+    {
+      "id": "56623f1d9c94",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "publishedAt": "2026-11-13T15:58:00.000Z",
+      "fetchedAt": "2026-11-13T20:25:23.860Z",
+      "contentText": null,
+      "summary": "Nvidia co-founder and former CEO Jensen Huang resigned amidst a scandal involving multiple extramarital affairs, including one with a Megaspeed executive, Alice Huang, who is suspected of being a Chinese spy. This comes as U.S. officials investigate Megaspeed for allegedly sharing Nvidia chips with China, raising national security concerns given the U.S.-China technological arms race. Democrats have launched an investigation into how the Trump administration handled Nvidia's chip sales to China despite being briefed on Huang's alleged compromising relationship.",
+      "enterpriseAngle": "This scandal highlights significant national security risks for enterprises, particularly those in critical technology sectors, where the personal conduct of top executives can expose companies to espionage and jeopardize international trade relationships and government contracts. Enterprise security teams must consider the broader implications of executive relationships and potential foreign influence on data and intellectual property protection.",
+      "beginner": "The CEO of a major AI chip company resigned because of personal relationships that might have put national security at risk.",
+      "advanced": "Implement enhanced due diligence and continuous monitoring for executive-level personnel, focusing on foreign influence, potential conflicts of interest, and adherence to national security protocols, especially for companies operating in sensitive technology sectors with export controls.",
+      "tags": [
+        "security",
+        "enterprise",
+        "policy",
+        "governance"
+      ]
+    },
+    {
+      "id": "5bf4951adbe9",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Introducing ChatGPT Wallet",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "publishedAt": "2026-11-13T15:00:00.000Z",
+      "fetchedAt": "2026-11-13T20:25:21.193Z",
+      "contentText": null,
+      "summary": "OpenAI has launched ChatGPT Wallet, a new secure payment method designed for AI agents to make purchases on behalf of users. This wallet allows agents to pay without accessing actual card details, requiring a security check for each transaction while preserving existing card rewards and protections. Developed in partnership with American Express, Mastercard, and Visa, it will initially be available to ChatGPT Pro subscribers in the US through 'dots'.",
+      "enterpriseAngle": "Enterprise security and product development teams should prepare for agentic commerce by ensuring their websites and payment systems can recognize and process legitimate AI agent purchases, potentially requiring adjustments to firewalls and risk assessment protocols. Businesses can leverage OpenAI's Commerce Partner Playbook to integrate agent-led transactions smoothly, maintaining customer relationships and existing payment infrastructure.",
+      "beginner": "ChatGPT Wallet lets AI assistants make online purchases for you safely, by getting your approval for each transaction without sharing your actual credit card number.",
+      "advanced": "Integrate Web Bot Auth to ensure ChatGPT agents can access your site without being blocked by security measures, and collaborate with payment and risk providers to prevent legitimate agent-initiated transactions from being flagged as fraudulent.",
+      "tags": [
+        "product",
+        "enterprise",
+        "partnership",
+        "agents"
+      ]
+    },
+    {
+      "id": "025a6c711bf8",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "ElevenLabs' new app combines meeting note-taking and dictation for teams",
+      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+      "publishedAt": "2026-11-13T14:44:48.000Z",
+      "fetchedAt": "2026-11-13T20:25:23.860Z",
+      "contentText": null,
+      "summary": "ElevenLabs has launched ElevenAI, an experimental app that combines meeting note-taking, dictation, and agent integration, positioning it as a team-focused productivity tool. The app offers features like transcribing meetings, querying past conversations, and automating follow-up actions such as drafting emails. ElevenAI also includes a dictation feature supporting over 90 languages and understanding industry-specific terms.",
+      "enterpriseAngle": "Enterprise teams can leverage ElevenAI to consolidate meeting management, knowledge extraction, and automated follow-up actions, potentially reducing the need for multiple productivity tool licenses. The ability to fine-tune speech-to-text models with proprietary data and integrate agents for context funneling offers significant customization and efficiency gains for businesses.",
+      "beginner": "ElevenLabs' new app helps teams automatically take notes during meetings, dictate text, and even create follow-up tasks, making work more efficient.",
+      "advanced": "Evaluate ElevenAI's live transcription and custom model fine-tuning capabilities against existing solutions to streamline knowledge management and automate post-meeting workflows within your enterprise.",
+      "tags": [
+        "product",
+        "enterprise",
+        "agents",
+        "model-release"
+      ]
+    },
+    {
+      "id": "e00ed907e42f",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Israel's VCs see opportunity for challengers in Nvidia's turmoil",
+      "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+      "publishedAt": "2026-11-13T12:52:19.000Z",
+      "fetchedAt": "2026-11-13T20:25:23.860Z",
+      "contentText": null,
+      "summary": "Former Nvidia CEO Jensen Huang's resignation has caused concern in Israel, where Nvidia has a significant R&D presence and employs 6,000 people. The leadership change could create opportunities for competitors in the AI chip and inference software market, as a less centralized Nvidia might lead to slower decision-making.",
+      "enterpriseAngle": "Enterprise product development teams relying heavily on Nvidia's ecosystem might see new opportunities with alternative AI chip and software providers, potentially leading to more diverse and competitive solutions. Security teams should monitor how these shifts impact supply chain integrity and the security features of new hardware and software offerings.",
+      "beginner": "Nvidia's founder leaving means other companies making AI chips might have a better chance to compete.",
+      "advanced": "Evaluate emerging AI-specific chip and inference software providers for potential integration, leveraging any market shifts to optimize cost-efficiency and performance in AI infrastructure.",
+      "tags": [
+        "enterprise",
+        "product",
+        "infrastructure",
+        "funding"
+      ]
+    },
     {
       "id": "4e2810e47ea3",
       "source": "techcrunch-ai",
@@ -302,12 +449,16 @@
       "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
       "publishedAt": "2026-11-12T17:00:52.000Z",
       "fetchedAt": "2026-11-13T01:44:22.632Z",
-      "contentText": "SoftBank might not be the first to invest in a hot trend, but when it does, it goes big. Witness its $30 billion bet on OpenAI in early 2025 or its announcement in February that its SB Energy subsidiary would spend $33 billion on a 9.2-gigawatt natural gas power plant. If you can’t be first, be biggest, I guess. That philosophy apparently spilled over into procurement, where orders were also supersized. Starting about two years ago, SoftBank reportedly put down deposits on more than 13 gigawatts of turbines, almost 50% more than it needed. The decision to over-order undoubtedly helped secure turbines and speed up SoftBank’s projects. “SB Energy did not have a choice except to overbook turbines in the future if they wanted some turbines right away,” Peter Gardett, CEO of Noreva , told TechCrunch via email. The energy world was caught off guard by the swiftness and magnitude of AI’s rising power demands. Queues for turbine orders now extend into the early 2030s . As natural gas was shaping up to be a go-to power source for the AI boom, CEO Masayoshi Son bet that by deploying his investment firm’s significant war chest, he could corner a portion of the market. If the AI world wanted power for its data centers, it would have to come to him. Now that bet appears to have fizzled. SoftBank announced a $7.1 billion quarterly loss on Tuesday, with over half of that stemming from losses related to power-generating equipment. The investor had paid turbine manufacturers nonrefundable deposits to secure orders, and now it considered much of those worthless. The move was also a costly bit of price discovery, Gardett said. Rather than overpay and potentially still be short of turbines, SoftBank overpaid and over-ordered. “This charge is just that price discovery finally happening,” Gardett said. The magnitude of that misplaced bet — over $3 billion — reflects some of the electricity mania that has overtaken the AI world. Faced with years-long waits to connect to the grid, many hyperscalers and developers have turned to natural gas as a sort of energy security blanket, something that is proven and familiar. As AI data centers spend more time in operation, their operators are getting a better feel for what's required to keep them operating. Natural gas might seem like a safe bet, but there are still risks, including winter curtailments when supplies dip and demand spikes, Brent Nelson, senior managing director of markets and strategy at Ascend Analytics , told the Equity podcast Wednesday. In light of that, Nelson said the grid might still be their best bet. Most data centers would be best served by a grid connection, albeit a smaller one than they might normally request. To make up for the shortfall, large batteries are a cost-effective choice, Nelson said. They’d help shave peak loads or ride out requests from the utility to curtail electricity use. Data center operators might be coming to that same conclusion, leading the natural gas market to develop more slowly than SoftBank expected. SoftBank’s natural gas-related losses are unlikely to have a domino effect, leading to mass cancellations of gas power plants. AI’s power demand appears to be too large for that. For now, natural gas is riding high, though SoftBank may have found its ceiling. Topics AI , Analysis , Climate , natural gas , Softbank When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Tim De Chant Senior Reporter, Climate Tim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor. De Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College. You can contact or verify outreach from Tim by emailing [email protected] . View Bio 2027 San Francisco Get an Early Peek at the Next TechCrunch Disrupt Disrupt, Startup Battlefield, and more will return next year, and you can be at the front of the line. Sign up for our waitlist Register Now Most Popular Jensen Huang was having a third affair, Reuters reports Russell Brandom Microsoft's Outlook email hit by new outage Zack Whittaker Jensen Huang accused of having another affair — with an Nvidia exec Lucas Ropek Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks Aisha Malik Jensen Huang's alleged honeypot scandal has inspired some top-notch memes Dominic-Madori Davis Lucas Ropek Waymo robotaxis kept illegally passing school buses after software fix, feds say Kirsten Korosec Musk says Tesla will refund some Cybertruck deposits, defends decision to end production Kirsten Korosec",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "SoftBank incurred a $7.1 billion quarterly loss, with over half attributed to losses from power-generating equipment. The company had made nonrefundable deposits for more natural gas turbines than needed, anticipating high demand from AI data centers. This over-ordering was an attempt to secure power sources quickly for the rapidly growing AI sector, which faces long waits for grid connections.",
+      "enterpriseAngle": "Enterprise product development and security teams building AI infrastructure must carefully evaluate energy supply strategies, considering the volatility and long lead times associated with power generation. Relying solely on natural gas as an \"energy security blanket\" carries risks, and alternative solutions like grid connections with battery storage may offer more cost-effective and reliable power.",
+      "beginner": "Building large AI systems requires a lot of electricity, and companies are trying different ways to get enough power, but it can be expensive and risky.",
+      "advanced": "When planning AI data center deployments, model energy consumption against available grid capacity and explore hybrid power solutions, including smaller grid connections supplemented by large-scale battery storage, to mitigate supply chain risks and optimize operational costs.",
+      "tags": [
+        "infrastructure",
+        "enterprise",
+        "funding"
+      ]
     },
     {
       "id": "0cefd18c08c5",
@@ -318,12 +469,15 @@
       "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
       "publishedAt": "2026-11-12T17:00:00.000Z",
       "fetchedAt": "2026-11-13T01:44:22.633Z",
-      "contentText": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.",
-      "summary": null,
-      "enterpriseAngle": null,
-      "beginner": null,
-      "advanced": null,
-      "tags": []
+      "contentText": null,
+      "summary": "Phota Labs is developing an AI-powered tool that automates photo editing, allowing users to enhance everyday pictures into professional-looking shots without manual adjustments. The company's goal is to simplify the photo improvement process for consumers.",
+      "enterpriseAngle": "Enterprise product teams in consumer photography or marketing could explore integrating similar AI automation to streamline content creation and improve visual quality for their users or campaigns.",
+      "beginner": "AI can make complex tasks like photo editing much simpler by doing the work for you.",
+      "advanced": "Investigate the underlying generative AI models and data augmentation techniques Phota Labs employs to achieve automated professional-grade photo enhancements.",
+      "tags": [
+        "product",
+        "consumer"
+      ]
     },
     {
       "id": "90d79223706e",
@@ -38167,6 +38321,28 @@
         "product",
         "enterprise",
         "governance"
+      ],
+      "dateChecked": true
+    },
+    {
+      "id": "6d6c2f768107",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "Claude's new constitution",
+      "url": "https://www.anthropic.com/news/claude-new-constitution",
+      "publishedAt": "2026-01-22",
+      "fetchedAt": "2026-11-13T20:25:20.844Z",
+      "contentText": null,
+      "summary": "Anthropic has released a new \"constitution\" for its AI model, Claude, which details the company's vision for Claude's values and behavior. This document is central to Claude's training process, aiming to shape the AI's actions by explaining the rationale behind desired behaviors rather than just providing rules. The constitution is publicly available under a Creative Commons CC0 1.0 Deed, allowing free use by anyone.",
+      "enterpriseAngle": "Enterprise product development teams can leverage this open-source constitution to understand and potentially adapt principles for aligning their own AI models with desired ethical and safety standards. This transparency can also inform internal governance frameworks for AI deployment, ensuring models are broadly safe, ethical, and compliant.",
+      "beginner": "Anthropic created a rulebook called a \"constitution\" to teach its AI, Claude, how to be helpful, safe, and ethical.",
+      "advanced": "Review Anthropic's new constitution for Claude to identify generalizable principles and specific hard constraints that could be integrated into your organization's model alignment strategies and synthetic data generation pipelines.",
+      "tags": [
+        "policy",
+        "model-release",
+        "governance",
+        "enterprise"
       ],
       "dateChecked": true
     },

@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-11-13T20:27:03.278Z",
+  "updatedAt": "2026-11-14T01:22:56.457Z",
   "articles": [
+    {
+      "id": "ad639fbc6552",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "publishedAt": "2026-11-13T22:43:00.000Z",
+      "fetchedAt": "2026-11-14T01:22:03.011Z",
+      "contentText": null,
+      "summary": "Jensen Huang, Nvidia's co-founder and CEO for 33 years, has stepped down, creating a significant void in AI startup funding. Nvidia, under Huang, was a major investor, pouring tens of billions into startups annually and often being the largest investor in deals. His departure is expected to lead to a more conservative investment approach from Nvidia's interim CEO, Colette Kress, potentially impacting dealmaking, valuations, and competition within the AI startup ecosystem.",
+      "enterpriseAngle": "Enterprise product development teams relying on Nvidia's ecosystem may face shifts in funding availability for their AI infrastructure and open-weight model initiatives. Security teams should monitor how changes in the AI startup funding landscape might affect the stability and support for critical AI tools and platforms they utilize.",
+      "beginner": "The leader of a major AI chip company, Jensen Huang, has left, which means less money might be available for new AI companies to grow.",
+      "advanced": "Anticipate a recalibration of AI startup valuations and a potential shift in market dominance as Nvidia's investment strategy becomes more conservative, creating opportunities for rival chipmakers and cloud providers to increase their ecosystem investments.",
+      "tags": [
+        "funding",
+        "enterprise",
+        "infrastructure",
+        "product"
+      ]
+    },
     {
       "id": "38741df50e34",
       "source": "techcrunch-ai",
@@ -146,6 +167,68 @@
         "product",
         "infrastructure",
         "funding"
+      ]
+    },
+    {
+      "id": "69b43a95305b",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Jensen Huang didn't show confidence in his successor, report says",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+      "publishedAt": "2026-11-13T12:28:23.000Z",
+      "fetchedAt": "2026-11-14T01:22:03.011Z",
+      "contentText": null,
+      "summary": "Former Nvidia CEO Jensen Huang reportedly described his interim successor, CFO Colette Kress, as \"a deer in the headlights\" and someone unable to help steer strategy. This comment was made during a meeting about Nvidia's plans to provide billions in guarantees to data center operators for chip purchases. Kress had previously questioned Nvidia's credit-based deals and scaled back a commitment to OpenAI's data center project.",
+      "enterpriseAngle": "This situation highlights potential leadership instability and strategic disagreements within a major AI chip supplier, which could impact future enterprise-level deals and the availability of critical AI infrastructure. Enterprise product development teams relying on Nvidia's ecosystem should monitor the ongoing CEO search and any shifts in company strategy.",
+      "beginner": "The leader of a big AI chip company reportedly didn't think highly of the person who temporarily took over his job, which could affect how the company makes important decisions.",
+      "advanced": "Evaluate the potential for strategic shifts in Nvidia's credit-based financing programs and data center commitments under new leadership, and assess the implications for your organization's AI infrastructure procurement and partnership strategies.",
+      "tags": [
+        "enterprise",
+        "governance",
+        "infrastructure",
+        "funding"
+      ]
+    },
+    {
+      "id": "d1318183fe17",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "publishedAt": "2026-11-13T08:00:00.000Z",
+      "fetchedAt": "2026-11-14T01:21:59.302Z",
+      "contentText": null,
+      "summary": "Shield, an IT services provider, uses OpenAI's GPT-6 Astra to automate tasks within legacy portals that lack APIs. This allows their AI agents to navigate complex interfaces, freeing human technicians to focus on issues requiring judgment. The integration has led to faster task completion and improved customer satisfaction.",
+      "enterpriseAngle": "Enterprise IT support and product development teams can leverage advanced AI agents to automate interactions with older, non-API-driven systems, significantly improving efficiency and reducing manual workload for technicians.",
+      "beginner": "AI can now do tasks on old computer systems that previously only humans could do, making IT support faster.",
+      "advanced": "Evaluate the integration of advanced computer vision and large language models for automating legacy system interactions, focusing on performance benchmarks like task completion speed and error rates compared to previous automation attempts.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "26a46cce7cf4",
+      "source": "cursor",
+      "sourceName": "Cursor",
+      "tier": "realtime",
+      "title": "Nov 13, 2026 · company An update on our recent security incident Cursor Team 6m Cursor Team · 6m",
+      "url": "https://cursor.com/blog/security-incident-update",
+      "publishedAt": "2026-11-13",
+      "fetchedAt": "2026-11-14T01:22:01.445Z",
+      "contentText": null,
+      "summary": "Cursor experienced a security incident where an attacker obtained an access key issued to Fireworks, which was then used to access Cursor's data storage and internal systems. This led to the exposure of limited coding agent traces, some unredacted API credentials, and various internal business and customer support data. The attacker also published malicious copies of Anthropic's Claude Code extension in the Cursor VS Code extension marketplace, potentially affecting up to 5,000 users.",
+      "enterpriseAngle": "Enterprise security teams should note the supply chain vulnerability through a third-party vendor (Fireworks) and the subsequent compromise of internal systems and developer tools like VS Code extensions. Product development teams must prioritize robust credential management, data redaction, and secure software supply chain practices to prevent similar incidents.",
+      "beginner": "A company called Cursor had a security problem because a partner company exposed a special key, which allowed an attacker to steal some of Cursor's data and put harmful software in their app store.",
+      "advanced": "Implement stringent third-party vendor access controls, conduct regular audits of shared data storage for sensitive information, and enforce credential rotation policies, especially for API keys used in model training data.",
+      "tags": [
+        "security",
+        "enterprise",
+        "product",
+        "infrastructure"
       ]
     },
     {
@@ -477,6 +560,26 @@
       "tags": [
         "product",
         "consumer"
+      ]
+    },
+    {
+      "id": "aa4bf4548cc5",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Jensen Huang agrees to testify before Congress",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
+      "publishedAt": "2026-11-12T16:36:37.000Z",
+      "fetchedAt": "2026-11-14T01:22:03.011Z",
+      "contentText": null,
+      "summary": "Former Nvidia CEO Jensen Huang has agreed to testify before Congress by Thanksgiving, following threats of a subpoena. Huang stepped down from his role after reports of an alleged affair with a woman suspected of spying for China. House Republicans, including Chairman Brian Mast, requested his appearance to address serious questions, particularly concerning export controls.",
+      "enterpriseAngle": "This development highlights the increasing scrutiny on technology leaders and their companies regarding national security, export controls, and potential foreign influence, which could impact enterprise operations and international partnerships.",
+      "beginner": "A former leader of a big tech company is going to talk to the government about his past actions and the company's business with other countries.",
+      "advanced": "Enterprise leaders should closely monitor the outcomes of such high-profile congressional testimonies, as they may signal shifts in regulatory enforcement, export control policies, and the geopolitical landscape affecting global tech supply chains and market access.",
+      "tags": [
+        "policy",
+        "governance",
+        "enterprise"
       ]
     },
     {
@@ -38557,6 +38660,28 @@
         "governance",
         "enterprise",
         "security"
+      ],
+      "dateChecked": true
+    },
+    {
+      "id": "2cb4cf698b3e",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "Protecting the wellbeing of our users",
+      "url": "https://www.anthropic.com/news/protecting-well-being-of-users",
+      "publishedAt": "2025-12-18",
+      "fetchedAt": "2026-11-14T01:21:58.922Z",
+      "contentText": null,
+      "summary": "Anthropic is focused on ensuring its AI model, Claude, handles sensitive conversations, particularly those involving suicide and self-harm, with empathy and appropriate safeguards. They use a combination of system prompts, reinforcement learning, and product interventions like a crisis classifier to direct users to professional human support. Claude's latest models demonstrate high rates of appropriate responses in evaluations of single-turn requests related to self-harm and suicide.",
+      "enterpriseAngle": "Enterprise product development teams building AI applications that interact with users on sensitive topics must implement robust safety measures, including model training, system prompts, and product-level classifiers, to ensure user wellbeing and mitigate risks. Partnerships with crisis support organizations can enhance the effectiveness and global reach of these safeguards.",
+      "beginner": "AI models like Claude are being designed with special rules and features to help people who might be struggling with difficult emotions, guiding them to human help instead of trying to be a therapist.",
+      "advanced": "Implement a multi-layered safety approach for sensitive AI interactions, combining fine-tuned system prompts, reinforcement learning with human preference data, and real-time conversational classifiers that integrate with verified external crisis support networks.",
+      "tags": [
+        "product",
+        "governance",
+        "research",
+        "partnership"
       ],
       "dateChecked": true
     },

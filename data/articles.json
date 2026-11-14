@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-11-14T01:22:56.457Z",
+  "updatedAt": "2026-11-14T18:41:50.676Z",
   "articles": [
+    {
+      "id": "b08cefd9996d",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "The AI graveyard: a running list of projects and startups that didn't make it",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "publishedAt": "2026-11-14T17:30:00.000Z",
+      "fetchedAt": "2026-11-14T18:41:32.100Z",
+      "contentText": null,
+      "summary": "Many AI projects and startups, including chatbot platform Character.ai and privacy assistant Ollie, have failed due to various reasons such as insufficient funding, technical challenges, competition, and weak user demand. Even major players like OpenAI have experienced missteps, including a confusing redesign of ChatGPT and the discontinuation of standalone apps like ChatGPT Atlas and Sora. Apple also faced delays and a lawsuit regarding its improved Siri AI, which is now rolling out to users.",
+      "enterpriseAngle": "Enterprise teams should learn from these failures, focusing on clear value propositions, robust funding, and user-centric design to avoid similar pitfalls when developing or integrating AI solutions. The trend of large platforms absorbing features from smaller, specialized AI tools suggests a need for unique, defensible niches or strategic partnerships for smaller AI product development teams.",
+      "beginner": "Many AI products and companies are struggling to succeed, even big ones, showing that making useful and popular AI is harder than it looks.",
+      "advanced": "When evaluating AI product strategy, prioritize defensible differentiation and user experience over feature parity, as larger platforms are aggressively consolidating capabilities, making standalone niche products vulnerable.",
+      "tags": [
+        "enterprise",
+        "product",
+        "funding",
+        "research"
+      ]
+    },
+    {
+      "id": "2a2bfff1121f",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "publishedAt": "2026-11-14T16:34:15.000Z",
+      "fetchedAt": "2026-11-14T18:41:32.100Z",
+      "contentText": null,
+      "summary": "Jensen Huang's departure from Nvidia, following an investigation into alleged ties with a Chinese spy operation and an affair with a former chip executive, has prompted varied reactions across Asian governments. Some nations, like South Korea, have received reassurances on chip supply, while others, including China and Singapore, are addressing ongoing investigations and potential impacts on AI projects and supply chains. Taiwan and Japan are monitoring the situation, with Taiwan noting that Nvidia's planned headquarters remain on track.",
+      "enterpriseAngle": "Enterprise product development and security teams should assess potential disruptions to AI computing projects and chip supply chains, especially those reliant on Nvidia's restricted processors or operating in regions with ongoing investigations. This situation highlights the critical need for supply chain resilience and robust due diligence in international partnerships.",
+      "beginner": "A major leader leaving a big tech company like Nvidia can cause governments and businesses around the world to worry about their computer chip supplies and ongoing projects.",
+      "advanced": "Evaluate the resilience of your AI infrastructure and supply chain against geopolitical shifts and leadership changes, particularly concerning critical hardware components and international regulatory compliance.",
+      "tags": [
+        "enterprise",
+        "policy",
+        "infrastructure",
+        "security"
+      ]
+    },
     {
       "id": "ad639fbc6552",
       "source": "techcrunch-ai",

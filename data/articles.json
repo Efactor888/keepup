@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-11-14T18:41:50.676Z",
+  "updatedAt": "2026-11-15T00:56:24.150Z",
   "articles": [
+    {
+      "id": "cdf34d438f12",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Where was Nvidia's security team?",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "publishedAt": "2026-11-15T00:08:07.000Z",
+      "fetchedAt": "2026-11-15T00:56:05.777Z",
+      "contentText": null,
+      "summary": "Nvidia's security chief departed in August, preceding CEO Jensen Huang's resignation due to relationships, including one with an executive at a company suspected of funneling chips to China. A former intelligence officer suggests this type of information leak, common in everyday conversations, is often missed by corporate security teams.",
+      "enterpriseAngle": "Enterprise security teams need to recognize that significant data leaks can originate from seemingly innocuous everyday conversations and develop strategies to monitor and mitigate such risks, especially concerning executive relationships and sensitive product flows. This incident highlights the importance of robust internal security protocols that extend beyond technical vulnerabilities to include human elements and executive oversight.",
+      "beginner": "Even casual conversations can sometimes lead to big security problems for companies, especially when important people are involved.",
+      "advanced": "Implement advanced social engineering detection and insider threat programs that specifically address executive-level communications and relationships, integrating intelligence-gathering techniques to identify subtle information egress vectors.",
+      "tags": [
+        "security",
+        "enterprise",
+        "governance"
+      ]
+    },
+    {
+      "id": "9a736294c460",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "publishedAt": "2026-11-14T21:41:22.000Z",
+      "fetchedAt": "2026-11-15T00:56:05.777Z",
+      "contentText": null,
+      "summary": "A petition with over 115,000 signatures, including those from Elon Musk and other tech executives, is calling for Nvidia to reinstate its recently ousted CEO, Jensen Huang. Huang resigned after admitting to an affair with a chip executive suspected of being a Chinese spy. The petition claims Huang was removed without due process and demands an independent investigation.",
+      "enterpriseAngle": "The departure of a key leader like Jensen Huang from a major AI hardware provider like Nvidia can create significant uncertainty for enterprise product development and infrastructure planning, potentially impacting future AI capabilities and supply chains. The scandal also highlights the importance of robust security protocols and vetting processes within leadership to mitigate risks related to national security and corporate integrity.",
+      "beginner": "Nvidia's former CEO, Jensen Huang, resigned due to a scandal, and many important people in tech want him back, arguing he deserves a fair investigation.",
+      "advanced": "Monitor Nvidia's leadership transition and any potential shifts in their product roadmap or strategic partnerships, as this could influence future hardware availability and AI development trajectories.",
+      "tags": [
+        "enterprise",
+        "policy",
+        "governance",
+        "security"
+      ]
+    },
     {
       "id": "b08cefd9996d",
       "source": "techcrunch-ai",

@@ -1,6 +1,110 @@
 {
-  "updatedAt": "2026-11-15T19:18:47.387Z",
+  "updatedAt": "2026-11-16T00:54:42.551Z",
   "articles": [
+    {
+      "id": "fc91828979fb",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "publishedAt": "2026-11-15T23:30:00.000Z",
+      "fetchedAt": "2026-11-16T00:53:57.419Z",
+      "contentText": null,
+      "summary": "Indian startup Bharat Semi has secured $24 million in seed funding to develop AI-enabled image sensors for global markets, targeting initial commercial production in 2027. These programmable sensors aim to integrate image capture, processing, and AI on a single chip, potentially reducing system costs by 70% compared to traditional setups. The company has secured design wins with General Atomics and Kaynes Semicon, and plans to expand its engineering team.",
+      "enterpriseAngle": "Enterprise product development teams can anticipate specialized, cost-effective AI-enabled image sensors that integrate processing directly into the chip, enabling more efficient and intelligent systems for applications like industrial automation, surveillance, and aerospace. This on-chip AI processing could significantly reduce hardware complexity and costs for new product designs.",
+      "beginner": "A new Indian company called Bharat Semi is raising money to make smart camera chips that can process images and use AI all in one place, making devices cheaper and smarter.",
+      "advanced": "Evaluate Bharat Semi's programmable image sensors for edge AI applications in industrial automation and aerospace, considering their potential to consolidate image capture, ISP, and AI processing on a single chip to achieve substantial system cost reductions and enhance real-time decision-making capabilities.",
+      "tags": [
+        "funding",
+        "product",
+        "hardware",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "87d7014c15ee",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "A step toward defining the Standard Model on a lattice",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "publishedAt": "2026-11-15T22:00:01.000Z",
+      "fetchedAt": "2026-11-16T00:53:55.207Z",
+      "contentText": null,
+      "summary": "Physicist Nathaniel Craig, a visiting scientist at OpenAI, collaborated with GPT-6 Astra to propose a candidate lattice definition of the Standard Model. This research aims to address a foundational problem in particle physics: providing a nonperturbative definition of the Standard Model, which is crucial for understanding phenomena like the proton's mass. The Standard Model is a chiral theory, meaning it treats left-handed and right-handed particles differently, which makes it challenging to define on a lattice.",
+      "enterpriseAngle": "This research, while theoretical, highlights the potential of advanced AI models like GPT-6 Astra to accelerate complex scientific discovery and problem-solving, suggesting future applications in enterprise R&D for tackling intractable challenges.",
+      "beginner": "Scientists are using AI to help define the fundamental rules of how particles in the universe interact, especially for things that are hard to calculate with current methods.",
+      "advanced": "Explore the methodologies employed in leveraging large language models for theoretical physics, specifically focusing on how GPT-6 Astra assisted in developing a detailed proof for a candidate lattice definition of the Standard Model.",
+      "tags": [
+        "research",
+        "science",
+        "model-release"
+      ]
+    },
+    {
+      "id": "4b0fc5b701ff",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Our new blog for science",
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "publishedAt": "2026-11-15T22:00:00.000Z",
+      "fetchedAt": "2026-11-16T00:53:55.207Z",
+      "contentText": null,
+      "summary": "OpenAI has launched a new science blog to share discoveries and methods from AI research, aiming to accelerate scientific advancement. The blog will feature new scientific results, practical guidance on using AI models for scientific tasks, and perspectives from researchers. Recent examples include an internal system producing a proof for the Navier-Stokes problem and AI agents analyzing biological data to identify potential mechanisms.",
+      "enterpriseAngle": "Enterprises can leverage these advancements by integrating AI models into their R&D workflows for scientific computing, data analysis, and hypothesis generation, potentially accelerating product development and innovation. The blog's focus on methods and practical guidance can help enterprise teams adapt AI tools for their specific research needs.",
+      "beginner": "AI is being used to help scientists make new discoveries and solve complex problems faster, from understanding fluid motion to finding new medicines.",
+      "advanced": "Explore the practical guidance and methodologies shared on OpenAI's science blog to identify adaptable AI approaches for accelerating internal R&D, particularly in areas like scientific computing, data analysis, and experimental design.",
+      "tags": [
+        "research",
+        "science",
+        "product",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "2cb612de9116",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "publishedAt": "2026-11-15T21:56:35.000Z",
+      "fetchedAt": "2026-11-16T00:53:57.419Z",
+      "contentText": null,
+      "summary": "Jensen Huang resigned as CEO of Nvidia following an investigation into his affairs, including one with an executive at an Nvidia customer with alleged ties to Chinese intelligence. This development has raised questions about Nvidia's leadership and its impact on the broader AI economy, given Huang's central role and the company's significance in the industry. The situation also brings to light concerns about national security, particularly regarding Huang's advocacy for loosening chip export restrictions to China.",
+      "enterpriseAngle": "Enterprise security teams should note the potential national security implications of executive relationships, especially when they involve foreign entities and critical technology. Product development teams at Nvidia and its partners may face uncertainty due to the sudden leadership change, potentially impacting strategic direction and investment in the AI ecosystem.",
+      "beginner": "The leader of Nvidia, a major AI chip company, resigned due to personal conduct issues that also raised national security concerns about chip exports.",
+      "advanced": "Assess the potential for supply chain disruption and shifts in Nvidia's strategic direction regarding international partnerships and export policies, particularly concerning the Chinese market, and re-evaluate your organization's reliance on Nvidia's ecosystem.",
+      "tags": [
+        "enterprise",
+        "policy",
+        "governance",
+        "security"
+      ]
+    },
+    {
+      "id": "1a811a22b701",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+      "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+      "publishedAt": "2026-11-15T20:20:57.000Z",
+      "fetchedAt": "2026-11-16T00:53:57.419Z",
+      "contentText": null,
+      "summary": "Saturday Night Live featured a sketch where a CIA agent attempted to teach prominent tech executives, including fictionalized versions of Peter Thiel, Sam Altman, Elon Musk, Mark Zuckerberg, Dario Amodei, and Jensen Huang, about the risks of being targeted by spies. The sketch used Jensen Huang's recent ouster from Nvidia, reportedly due to an affair with a suspected Chinese spy, as a comedic premise. The agent highlighted the executives' vulnerability despite their power, while the fictional Thiel questioned technology's failures, leading to jokes about recent tech outages.",
+      "enterpriseAngle": "The sketch, while comedic, touches on the real-world implications of high-profile executives' personal conduct and potential vulnerabilities, which can have significant security and reputational consequences for their companies. It also humorously points to the increasing reliance on technology and the impact of service outages on daily operations.",
+      "beginner": "Even powerful tech leaders can be vulnerable to personal security risks, which can sometimes affect their companies.",
+      "advanced": "Enterprise security teams should consider comprehensive executive protection programs that extend beyond traditional corporate perimeters to address personal vulnerabilities, especially given the geopolitical landscape and the high-value targets these individuals represent.",
+      "tags": [
+        "security",
+        "enterprise",
+        "policy",
+        "consumer"
+      ]
+    },
     {
       "id": "cdf34d438f12",
       "source": "techcrunch-ai",

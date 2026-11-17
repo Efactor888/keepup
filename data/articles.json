@@ -1,6 +1,238 @@
 {
-  "updatedAt": "2026-11-16T22:51:44.539Z",
+  "updatedAt": "2026-11-17T21:41:27.768Z",
   "articles": [
+    {
+      "id": "f378d4ace0f3",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Google joins the tech outage trend by announcing it's not having one",
+      "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
+      "publishedAt": "2026-11-17T21:34:50.000Z",
+      "fetchedAt": "2026-11-17T21:38:43.498Z",
+      "contentText": null,
+      "summary": "Google proactively announced that its Gmail service was operating normally, addressing circulating social media rumors of an outage. This action followed a trend of recent tech disruptions, including issues at Apple and Microsoft. A U.S. intelligence official stated that these incidents are not due to coordinated cyberattacks but rather widespread system patching, potentially influenced by AI's ability to identify vulnerabilities.",
+      "enterpriseAngle": "Enterprise security and product development teams should note that increased system patching, driven by AI's ability to uncover vulnerabilities, can lead to unexpected service disruptions. This highlights the importance of robust testing and incident response plans to manage the risks associated with rapid system upgrades.",
+      "beginner": "Even though many tech services have had problems lately, Google confirmed its email service was working fine, showing how important it is for companies to communicate clearly during times of uncertainty.",
+      "advanced": "Implement advanced observability and AIOps solutions to proactively detect and differentiate between legitimate service disruptions and false alarms, especially as widespread patching efforts introduce new points of failure.",
+      "tags": [
+        "enterprise",
+        "security",
+        "product",
+        "infrastructure"
+      ],
+      "dateChecked": true
+    },
+    {
+      "id": "776157cf22e3",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Model ML raises $250M to automate investment banking grunt work",
+      "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+      "publishedAt": "2026-11-17T19:32:11.000Z",
+      "fetchedAt": "2026-11-17T21:38:43.498Z",
+      "contentText": null,
+      "summary": "Model ML has secured $250 million in funding to develop AI agents that automate routine tasks in investment banking. These agents are designed to comprehend the context of financial deals and automatically update models and presentations based on new information.",
+      "enterpriseAngle": "Enterprise financial institutions can leverage Model ML's agents to streamline labor-intensive tasks, potentially increasing efficiency and reducing the manual effort required for financial modeling and presentation updates. This could free up human capital for more strategic analysis and client-facing activities.",
+      "beginner": "AI is being used to automate repetitive tasks in industries like finance, helping people work more efficiently.",
+      "advanced": "Evaluate Model ML's agent capabilities for integration into existing financial workflows to automate model updates and presentation generation, focusing on data accuracy, contextual understanding, and compliance with financial regulations.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "funding",
+        "product"
+      ]
+    },
+    {
+      "id": "3aa0c6065ac0",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+      "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+      "publishedAt": "2026-11-17T19:02:20.000Z",
+      "fetchedAt": "2026-11-17T21:38:43.498Z",
+      "contentText": null,
+      "summary": "Google is expanding free access to Gemini Tasks, a feature that transforms the Gemini chatbot into a proactive personal assistant. This tool can perform secretarial functions such as booking appointments, making purchases via Google Pay, and securely signing into websites on behalf of the user. Initially launched as Gemini Spark and later Task Mode for paid subscribers, it is now available to hundreds of millions of users of the Gemini 4 Hydrogen model.",
+      "enterpriseAngle": "Enterprise product development teams can observe Gemini Tasks as an example of integrating agentic capabilities into existing AI platforms, enabling users to delegate complex, multi-step tasks. Security teams should note the feature's ability to securely sign into websites, highlighting the need for robust identity and access management controls when deploying similar agentic functionalities.",
+      "beginner": "Gemini Tasks lets Google's AI assistant do things for you, like making calls or buying things online, instead of just answering questions.",
+      "advanced": "Evaluate the potential for integrating similar agentic functionalities into enterprise applications, focusing on secure credential management and auditable task execution logs to maintain compliance and control.",
+      "tags": [
+        "product",
+        "agents",
+        "enterprise",
+        "model-release"
+      ]
+    },
+    {
+      "id": "3a4b135687e3",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+      "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+      "publishedAt": "2026-11-17T18:48:23.000Z",
+      "fetchedAt": "2026-11-17T21:38:43.498Z",
+      "contentText": null,
+      "summary": "Google is extending the retention period for temporary Gemini chats, even those with chat history off, from 72 hours to approximately two months. This change, rolling out globally, is intended to enhance safety and security as AI systems advance. Google states these temporary conversations will not be used for AI model training.",
+      "enterpriseAngle": "Enterprise security and product development teams should note that AI providers are increasing data retention for safety, which impacts data governance and compliance, even for 'off-the-record' conversations. This also highlights a trend towards more granular control over chat history and AI training data.",
+      "beginner": "Google will now keep your Gemini conversations for about two months, even if you turn off chat history, to help make the AI safer.",
+      "advanced": "Evaluate your organization's data retention policies against evolving AI vendor practices, particularly regarding temporary chat data and the new, separate controls for chat history and AI model training, to ensure compliance and mitigate potential data exposure risks.",
+      "tags": [
+        "security",
+        "product",
+        "policy",
+        "governance"
+      ]
+    },
+    {
+      "id": "027b06d66aa2",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "As decision model use skyrockets, is customization the next frontier?",
+      "url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
+      "publishedAt": "2026-11-17T18:10:00.000Z",
+      "fetchedAt": "2026-11-17T21:38:43.498Z",
+      "contentText": null,
+      "summary": "Decision models, a new type of AI that quickly chooses between options without generating text, are seeing rapid adoption, with over a quarter of Vercel's AI model router requests going to them in October. Companies like TypeSafe with its Jev models and Microsoft with Microsoft-Decision-1.1 are leading the market, while startups like Sqwish are also entering the space. These models prioritize speed and cost-efficiency for production environments over the detailed reasoning of larger, more expensive frontier models.",
+      "enterpriseAngle": "Enterprise product development teams can leverage decision models for applications requiring fast, cost-effective choices, such as automated customer support routing or real-time fraud detection, while security teams should consider how these models' confidence levels can be integrated into risk assessment. The ability to customize models with proprietary data, as offered by Sqwish, presents an opportunity for enterprises to fine-tune AI performance for specific internal use cases and gain a competitive edge.",
+      "beginner": "Decision models are like a super-fast AI assistant that picks the best choice from a list, which is useful for quick decisions in computer systems.",
+      "advanced": "To optimize decision model deployment, prioritize models offering robust post-training customization capabilities with enterprise data, as benchmarks alone may not reflect real-world performance, and integrate confidence scores into downstream processes for enhanced operational reliability.",
+      "tags": [
+        "model-release",
+        "enterprise",
+        "product",
+        "research"
+      ]
+    },
+    {
+      "id": "48c463046560",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+      "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+      "publishedAt": "2026-11-17T18:04:16.000Z",
+      "fetchedAt": "2026-11-17T21:38:43.498Z",
+      "contentText": null,
+      "summary": "Pedestal AI has secured $4.7 million in seed funding to develop AI agents aimed at improving the efficiency and reliability of supply chains. The company's technology helps reduce friction in shipping processes, such as decreasing missed deliveries for a furniture company by 20% through automated customer communication. Pedestal AI plans to use the funding to expand its product, engineering, and marketing teams, as well as support additional deployments.",
+      "enterpriseAngle": "Enterprise product development teams can leverage agentic AI to automate and optimize complex logistical operations, leading to significant cost savings and improved customer satisfaction. Security teams should consider the data privacy implications of collecting extensive supply chain data and ensure robust protection for sensitive information across disparate legacy systems.",
+      "beginner": "Pedestal AI uses smart computer programs called AI agents to make delivery supply chains work better and faster.",
+      "advanced": "To optimize supply chain efficiency, integrate reinforcement learning systems with high-volume, measurable outcomes to fine-tune agentic AI deployments and address data fragmentation across legacy systems.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "funding",
+        "product"
+      ]
+    },
+    {
+      "id": "549a77347d5e",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "publishedAt": "2026-11-17T17:45:00.000Z",
+      "fetchedAt": "2026-11-17T21:38:39.804Z",
+      "contentText": null,
+      "summary": "OpenAI has released GPT-6.2 Astra and Sol, two new models designed for professional and everyday work, respectively. GPT-6.2 Astra is a frontier model for complex tasks, showing improved performance on professional benchmarks like Agents' Last Exam and Terminal-Bench-Science 0.1, while GPT-6.2 Sol is an efficient model for daily tasks, demonstrating enhanced capabilities in agentic workflows and everyday evaluations like LifeVal. Both models offer better results with fewer output tokens and reduced costs compared to previous versions and competing models.",
+      "enterpriseAngle": "Enterprise product development teams can leverage GPT-6.2 Astra for high-stakes professional applications requiring precise outputs and complex workflow automation, while GPT-6.2 Sol offers a cost-effective solution for integrating AI into routine business operations and internal tools. The improved efficiency and lower token costs make these models more viable for scalable enterprise deployments.",
+      "beginner": "OpenAI has launched two new AI models, one for difficult professional tasks and another for common daily activities, both designed to work better and more affordably.",
+      "advanced": "Evaluate GPT-6.2 Astra and Sol's performance on your specific long-horizon professional workflows and agentic tasks, focusing on the reported cost efficiencies and token reductions to optimize your API usage and development budgets.",
+      "tags": [
+        "model-release",
+        "enterprise",
+        "product",
+        "benchmark"
+      ]
+    },
+    {
+      "id": "cb1d8f8bc84f",
+      "source": "google-ai",
+      "sourceName": "Google AI",
+      "tier": "realtime",
+      "title": "Put Gemini to work for you",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "publishedAt": "2026-11-17T17:00:00.000Z",
+      "fetchedAt": "2026-11-17T21:38:40.046Z",
+      "contentText": null,
+      "summary": "Google's Gemini AI can now handle complex personal tasks like scheduling appointments, managing bills, and shopping. It integrates with existing Google services such as Calendar, Gmail, and Google Pay to automate these chores. Gemini operates within secure, isolated environments to protect user data while performing these actions.",
+      "enterpriseAngle": "Enterprise product development teams can observe how Google is integrating AI with personal data and services to create autonomous agents, offering insights into potential features for enterprise-grade AI assistants that manage workflows and data securely. Security teams should note the emphasis on isolated environments and user control over data access, which are critical considerations for enterprise AI deployments.",
+      "beginner": "Gemini is an AI that can help you with daily tasks like booking appointments or paying bills by connecting to your other Google apps.",
+      "advanced": "Investigate the Agent Payments Protocol (AP2) and Universal Commerce Protocol (UCP) for secure, tokenized transactions and streamlined e-commerce integration in your own AI agent development.",
+      "tags": [
+        "product",
+        "agents",
+        "enterprise",
+        "security"
+      ]
+    },
+    {
+      "id": "590cb0b9c5dd",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "fetchedAt": "2026-11-17T21:38:39.804Z",
+      "contentText": null,
+      "summary": "OpenAI is collaborating with NATO and allied governments to enhance cyber defenses using AI. Through its Daybreak platform, OpenAI provides advanced AI models to identify software vulnerabilities, investigate suspicious activities, and develop fixes. This initiative aims to strengthen cyber resilience and expertise across multinational teams and national cyber agencies.",
+      "enterpriseAngle": "Enterprise security teams can leverage advanced AI models to accelerate vulnerability discovery, detect emerging threats, and enhance their operational advantage in protecting critical digital infrastructure. Product development teams can integrate AI tools to identify and fix software vulnerabilities more quickly, improving the security posture of their offerings.",
+      "beginner": "AI is being used to help organizations like NATO find and fix cybersecurity weaknesses faster, making digital systems safer.",
+      "advanced": "Integrate AI agents with human oversight into your cyber operations to accelerate vulnerability analysis and threat detection, ensuring continuous human validation of AI-identified issues and proposed fixes.",
+      "tags": [
+        "security",
+        "enterprise",
+        "partnership",
+        "product"
+      ]
+    },
+    {
+      "id": "58da9c66b145",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Introducing OpenAI for Chile",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "fetchedAt": "2026-11-17T21:38:39.804Z",
+      "contentText": null,
+      "summary": "OpenAI has partnered with the Government of Chile, specifically the Ministry of Science, Technology, Knowledge and Innovation, to promote responsible AI adoption within public administration. This collaboration aims to enhance civil servants' AI skills and support local startups in developing AI applications. The initiative aligns with Chile's National AI Policy and is supported by the U.S. Department of Commerce's American SI Exports Program.",
+      "enterpriseAngle": "Enterprise product development teams can learn from this partnership's focus on responsible AI adoption, skills development, and ecosystem support, which are crucial for successful AI integration in any large organization. Security teams should note the emphasis on safeguards for privacy and information security when implementing AI tools in public sector or enterprise environments.",
+      "beginner": "OpenAI is working with Chile to help its government and businesses use AI responsibly to improve public services and create new technologies.",
+      "advanced": "Leverage the \"OpenAI for Countries\" framework as a model for public-private partnerships to drive national AI strategies, focusing on structured skill development, startup incubation, and robust governance for privacy and security.",
+      "tags": [
+        "partnership",
+        "enterprise",
+        "policy",
+        "workforce"
+      ]
+    },
+    {
+      "id": "0604bc2b50fc",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Astra for Law leads in legal intelligence",
+      "url": "https://openai.com/index/astra-law-6-2",
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "fetchedAt": "2026-11-17T21:38:39.804Z",
+      "contentText": null,
+      "summary": "OpenAI has released an updated version of Astra for Law, a specialized model configuration of GPT-6.2 Astra, which demonstrates state-of-the-art performance in legal intelligence benchmarks. This updated model excels in tasks like brief writing and legal research, significantly reducing hallucinations compared to previous versions and competing models. ChatGPT Enterprise customers can now request access to Astra for Law through the Trusted Access Program, including via API.",
+      "enterpriseAngle": "Enterprise legal teams can leverage Astra for Law to enhance efficiency in legal research and brief writing, benefiting from its improved accuracy and reduced hallucination rates, which are critical for maintaining credibility and managing costs. The model's lower output token usage also offers potential cost savings for businesses paying by usage.",
+      "beginner": "Astra for Law is a new AI tool from OpenAI designed to help lawyers with tasks like legal research and writing, making it faster and more accurate than other AI models.",
+      "advanced": "Integrate Astra for Law via API into existing legal tech stacks to automate and optimize complex legal assignments, focusing on its superior performance in hallucination reduction and output token efficiency for critical legal drafting and research workflows.",
+      "tags": [
+        "model-release",
+        "enterprise",
+        "product",
+        "benchmark"
+      ]
+    },
     {
       "id": "51273f0e0cc7",
       "source": "techcrunch-ai",
@@ -272,6 +504,27 @@
       ]
     },
     {
+      "id": "f054a54f8228",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "How Revolut raises ambition without lowering the bar",
+      "url": "https://openai.com/business/customer-stories/revolut",
+      "publishedAt": "2026-11-16T09:30:00.000Z",
+      "fetchedAt": "2026-11-17T21:38:39.804Z",
+      "contentText": null,
+      "summary": "Revolut, a global financial technology company, is leveraging OpenAI's models, including ChatGPT and Codex, to enhance its operational efficiency and tackle complex problems, from software engineering to financial crime. By using AI agents, Revolut has significantly reduced coding time by 30-60% and improved its capacity to monitor transactions and identify suspicious activity without proportionally increasing human resources. This allows their teams to focus more on strategic problem-solving and system design rather than routine implementation tasks.",
+      "enterpriseAngle": "Enterprises can utilize AI tools like OpenAI's models to automate routine coding and investigation workflows, freeing up skilled personnel to focus on higher-value tasks such as system design, complex problem-solving, and strategic decision-making. This approach can lead to increased efficiency, faster product development, and enhanced security measures without a linear increase in headcount.",
+      "beginner": "AI helps companies like Revolut do more work faster by handling repetitive tasks, letting their human experts focus on bigger, more important challenges.",
+      "advanced": "Implement AI-powered coding assistants and intelligent agents within your development and security operations to offload implementation and initial screening tasks, enabling engineers to dedicate more time to architectural design, strategic problem-solving, and rigorous code review, thereby accelerating development cycles and strengthening security posture.",
+      "tags": [
+        "enterprise",
+        "product",
+        "coding",
+        "security"
+      ]
+    },
+    {
       "id": "91e58e2ea930",
       "source": "openai",
       "sourceName": "OpenAI",
@@ -332,6 +585,27 @@
         "enterprise",
         "product",
         "research"
+      ]
+    },
+    {
+      "id": "cfcc7acb02e9",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "More ways to move care forward with ChatGPT for Healthcare",
+      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "publishedAt": "2026-11-16T06:00:00.000Z",
+      "fetchedAt": "2026-11-17T21:38:39.804Z",
+      "contentText": null,
+      "summary": "OpenAI has introduced new features for ChatGPT for Healthcare, including computer-use agents that can automate multi-step tasks across healthcare software. The platform also offers improved clinical search capabilities with better medical evidence citation and over 20 new plugins from various healthcare companies. These updates aim to streamline workflows, enhance decision-making, and integrate existing healthcare tools into a single platform.",
+      "enterpriseAngle": "Enterprise healthcare organizations can leverage these advancements to automate administrative tasks, improve clinical decision-making with evidence-based insights, and integrate disparate systems, potentially leading to increased efficiency and better patient care. The focus on secure deployments with access controls and audit logs, along with HIPAA compliance, addresses critical enterprise security and regulatory concerns.",
+      "beginner": "ChatGPT for Healthcare is getting smarter, helping medical teams use their existing software and find reliable health information more easily.",
+      "advanced": "Implement computer-use agents with granular access controls and audit logs for specific clinical and administrative workflows, ensuring HIPAA compliance through eligible BAA services and extending protections to connected systems.",
+      "tags": [
+        "product",
+        "agents",
+        "enterprise",
+        "partnership"
       ]
     },
     {
@@ -39351,28 +39625,6 @@
         "partnership",
         "enterprise",
         "workforce",
-        "learning"
-      ],
-      "dateChecked": true
-    },
-    {
-      "id": "f862cdc60e6e",
-      "source": "xai",
-      "sourceName": "xAI (Grok)",
-      "tier": "realtime",
-      "title": "Grok 4.1 Grok 4.1 is now available to all users on grok.com, 𝕏, and the iOS and Android apps. It is rolling out immediately in Auto mode and can be selected explicitly as “Grok 4.1” in the model pick",
-      "url": "https://x.ai/news/grok-4-1",
-      "publishedAt": "2025-11-17",
-      "fetchedAt": "2026-07-03T07:01:18.417Z",
-      "contentText": null,
-      "summary": "xAI has released Grok 4.1, an updated version of its AI model, now available to all users across grok.com, X, and mobile apps. This new iteration shows significant improvements in creative, emotional, and collaborative interactions, retaining its predecessor's intelligence while being more perceptive to nuanced intent and coherent in personality. Grok 4.1 was developed using large-scale reinforcement learning infrastructure and new methods employing frontier agentic reasoning models to optimize non-verifiable reward signals.",
-      "enterpriseAngle": "Enterprise product development teams can leverage advanced reinforcement learning and agentic reasoning models to refine AI system personality, emotional intelligence, and creative capabilities, enhancing user experience and engagement. Security teams should note the continuous, silent rollout methodology for updates, which could be adapted for rapid, low-disruption deployments of security patches or feature enhancements in enterprise AI applications.",
-      "beginner": "Grok 4.1 is a new, smarter version of the Grok AI that is better at understanding feelings and being creative, making it more enjoyable to talk to.",
-      "advanced": "To enhance model alignment and user preference, consider implementing frontier agentic reasoning models as reward mechanisms for autonomous evaluation and iteration on non-verifiable reward signals.",
-      "tags": [
-        "model-release",
-        "product",
-        "research",
         "learning"
       ],
       "dateChecked": true

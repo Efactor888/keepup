@@ -1,6 +1,234 @@
 {
-  "updatedAt": "2026-11-18T21:19:40.061Z",
+  "updatedAt": "2026-11-19T21:20:46.891Z",
   "articles": [
+    {
+      "id": "2fc737ddb995",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "publishedAt": "2026-11-19T20:18:49.000Z",
+      "fetchedAt": "2026-11-19T21:18:19.987Z",
+      "contentText": null,
+      "summary": "Nvidia co-founder and former CEO Jensen Huang resigned amid a scandal involving extramarital affairs, including one with an executive from a Singapore-based company, Megaspeed, suspected of being a Chinese spy. U.S. officials are investigating whether this relationship compromised national security, given Nvidia's role in AI chip manufacturing and U.S. restrictions on sales to China. Nvidia has since reported strong earnings and stated it will not reinstate Huang, also announcing an end to H200 chip sales in China.",
+      "enterpriseAngle": "This situation highlights significant enterprise risks related to executive conduct, national security, and supply chain integrity, particularly for companies operating in geopolitically sensitive sectors like advanced AI hardware. Enterprise security teams must consider the potential for insider threats and foreign intelligence exploitation through personal relationships, while product development teams face evolving regulatory landscapes impacting market access.",
+      "beginner": "The former head of a major AI chip company resigned due to personal conduct issues that are now being investigated for potential national security implications involving China.",
+      "advanced": "Organizations should review their executive conduct policies, enhance due diligence for high-level personnel, and reinforce supply chain security protocols, especially when dealing with partners in sensitive geopolitical contexts, to mitigate risks of espionage and regulatory non-compliance.",
+      "tags": [
+        "enterprise",
+        "security",
+        "policy",
+        "governance"
+      ]
+    },
+    {
+      "id": "e22812a5ccc9",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Anthropic's IPO could deliver $156 billion to charity",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+      "publishedAt": "2026-11-19T19:10:45.000Z",
+      "fetchedAt": "2026-11-19T21:18:19.987Z",
+      "contentText": null,
+      "summary": "Anthropic's recent IPO is projected to generate $156 billion for charitable causes through various initiatives. This includes an $80 billion endowment from the company's Public Benefit Fund (PBF), which holds 5% of shares, and an additional $76 billion from employee pledges matched by the company. The PBF will focus on AI's benefit to humanity, with initial commitments including $200 million for AI's impact on workers.",
+      "enterpriseAngle": "Enterprises developing AI should note Anthropic's significant commitment to philanthropy and AI safety research, which may influence future regulatory landscapes and public perception of AI development. This also highlights a trend where AI companies are integrating social impact and ethical considerations into their core business models.",
+      "beginner": "Anthropic, an AI company, is setting aside a huge amount of money from its stock market debut to give to charities, especially those focused on making AI helpful and safe for everyone.",
+      "advanced": "Evaluate the long-term implications of Anthropic's PBF structure and employee matching programs on talent acquisition and retention, particularly for individuals motivated by effective altruism and AI safety, and consider how similar philanthropic models could be integrated into your own enterprise's ESG strategy.",
+      "tags": [
+        "enterprise",
+        "funding",
+        "governance",
+        "research"
+      ]
+    },
+    {
+      "id": "6d6821f501bb",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Google gives Gemini the ability to use your Mac for you",
+      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "publishedAt": "2026-11-19T18:09:11.000Z",
+      "fetchedAt": "2026-11-19T21:18:19.987Z",
+      "contentText": null,
+      "summary": "Google has introduced a new \"computer use\" feature to its Gemini desktop application on macOS, enabling the AI to perform tasks directly on the user's computer, including navigating native Mac apps and browsing websites. This allows Gemini to complete multi-step tasks across local files, applications, and the web, with users able to monitor and approve actions in real-time. The feature is currently available in English in the U.S. for users with a Google AI Plus, Pro, or Ultra subscription.",
+      "enterpriseAngle": "Enterprise product development teams can leverage this agentic capability to automate complex workflows that span across various desktop applications and web services, potentially streamlining internal operations and improving employee productivity. Security teams will need to establish robust governance and access controls for AI agents that can directly interact with local systems and sensitive data.",
+      "beginner": "Google's Gemini AI can now use your Mac computer to do tasks for you, like filling out forms or organizing files, by controlling apps and websites.",
+      "advanced": "Implement granular access policies and audit trails for AI agents with computer use capabilities to mitigate risks associated with automated actions on enterprise endpoints and sensitive data.",
+      "tags": [
+        "product",
+        "agents",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "b00f82b6db94",
+      "source": "google-ai",
+      "sourceName": "Google AI",
+      "tier": "realtime",
+      "title": "Introducing Tool Retrieval in the Gemini API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "publishedAt": "2026-11-19T18:00:00.000Z",
+      "fetchedAt": "2026-11-19T21:18:18.269Z",
+      "contentText": null,
+      "summary": "Google has introduced Tool Retrieval in the Gemini API, a new feature designed to help AI agents manage extensive libraries of software tools more efficiently. Instead of loading all tool details at once, agents can now retrieve specific tool parameter schemas only when needed for a task. This approach aims to reduce input token counts, decrease latency, and improve the accuracy of tool selection, especially as agents scale to interact with dozens or hundreds of tools.",
+      "enterpriseAngle": "Enterprise product development teams can leverage Tool Retrieval to build more scalable and cost-effective AI agents by optimizing token usage and reducing latency when integrating with numerous internal and external tools. This feature simplifies the management of complex agent architectures, allowing for more responsive and accurate AI applications.",
+      "beginner": "AI agents can now find and use the right software tools more quickly and cheaply by only loading the specific tool information they need, rather than everything at once.",
+      "advanced": "Implement Tool Retrieval in the Gemini API by adding a `tool_search` tool and setting `defer_loading: true` on less frequently used tools to optimize token consumption and reduce latency for large tool libraries, ensuring prefix caching remains effective.",
+      "tags": [
+        "product",
+        "enterprise",
+        "agents",
+        "coding"
+      ]
+    },
+    {
+      "id": "d9d2fba47fd3",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+      "publishedAt": "2026-11-19T17:38:40.000Z",
+      "fetchedAt": "2026-11-19T21:18:19.987Z",
+      "contentText": null,
+      "summary": "Meta's AI agent, Muse, has reportedly been mixing up conversations and potentially exposing private data. Employees have observed Muse surfacing irrelevant messages, such as childcare requests, career advice, product orders, and bank account balances that were not their own.",
+      "enterpriseAngle": "Enterprise security teams must prioritize robust data isolation and privacy controls when deploying AI agents to prevent cross-user data leakage and ensure compliance with data protection regulations. Product development teams should implement rigorous testing and validation processes to identify and mitigate such data exposure risks before agent deployment.",
+      "beginner": "AI agents can sometimes accidentally show private information to the wrong people, which is a big problem for privacy.",
+      "advanced": "Implement stringent multi-tenant data isolation architectures and conduct adversarial testing focused on data leakage vectors to secure AI agent deployments.",
+      "tags": [
+        "security",
+        "product",
+        "agents"
+      ]
+    },
+    {
+      "id": "2adef6bfeca0",
+      "source": "google-ai",
+      "sourceName": "Google AI",
+      "tier": "realtime",
+      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+      "publishedAt": "2026-11-19T17:00:00.000Z",
+      "fetchedAt": "2026-11-19T21:18:18.269Z",
+      "contentText": null,
+      "summary": "Walter Isaacson, a biographer and historian, discussed with Kent Walker how historical figures like Leonardo da Vinci, Benjamin Franklin, and Ada Lovelace offer insights into creativity in the AI era. Their conversation highlighted the importance of curiosity and human judgment, especially when information is readily accessible, and emphasized that major breakthroughs have historically been collaborative efforts.",
+      "enterpriseAngle": "Enterprises should foster environments that encourage curiosity and collaborative problem-solving among their teams, recognizing that human judgment remains critical even with advanced AI tools. This approach can help drive innovation and ensure that AI serves as an augmentation rather than a replacement for human ingenuity.",
+      "beginner": "Even with powerful AI, human curiosity and working together are still the most important ingredients for new ideas.",
+      "advanced": "Implement cross-functional AI initiatives that prioritize human-led inquiry and collaborative ideation to leverage AI's capabilities while preserving the essential role of human judgment and creativity.",
+      "tags": [
+        "research",
+        "workforce",
+        "learning"
+      ]
+    },
+    {
+      "id": "2f744659d905",
+      "source": "deepmind",
+      "sourceName": "Google DeepMind",
+      "tier": "realtime",
+      "title": "Genie 4 is now available on the Gemini API.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/",
+      "publishedAt": "2026-11-19T17:00:00.000Z",
+      "fetchedAt": "2026-11-19T21:18:18.387Z",
+      "contentText": null,
+      "summary": "Google DeepMind has made Genie 4 available to developers via the Gemini API and Google AI Studio. This allows developers to generate continuous 720p worlds at 24fps with synchronized audio, starting from text prompts or reference images. Users can interact with these generated environments in real-time, changing elements like weather and objects.",
+      "enterpriseAngle": "Enterprise product development teams can leverage Genie 4 for rapid prototyping of interactive experiences, visualizing spatial designs, and training robotics or AI agents in consistent, coherent virtual environments.",
+      "beginner": "Genie 4 lets people create virtual worlds and stories just by typing or showing pictures, then interact with them in real-time.",
+      "advanced": "Integrate Genie 4 via the Gemini API to accelerate synthetic data generation for AI agent training or to rapidly iterate on spatial computing concepts with dynamic, consistent world states.",
+      "tags": [
+        "model-release",
+        "product",
+        "enterprise",
+        "agents"
+      ]
+    },
+    {
+      "id": "88ae40f03632",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Former Alibaba exec's Everful raises $48.5M to connect retailers with Chinese factories",
+      "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+      "publishedAt": "2026-11-19T17:00:00.000Z",
+      "fetchedAt": "2026-11-19T21:18:19.987Z",
+      "contentText": null,
+      "summary": "Everful, a startup co-founded by a former Alibaba executive, has secured $48.5 million in Series A funding to expand its platform that connects small retailers with Chinese factories. The company aims to simplify the sourcing process from order to delivery, leveraging AI to manage tasks like trend tracking, supplier identification, and logistics. Everful is on track to achieve $100 million in annualized revenue by the end of the year, shipping over 5 million items monthly to customers in more than 60 countries.",
+      "enterpriseAngle": "Enterprise product development and supply chain teams can leverage platforms like Everful to streamline global sourcing, reduce reliance on intermediaries, and automate complex logistics, particularly for smaller businesses without dedicated sourcing departments. The integration of AI agents for trend tracking and supplier coordination offers a model for enhancing efficiency in B2B procurement.",
+      "beginner": "Everful helps small businesses buy products directly from factories in China, using AI to make the whole process easier and faster.",
+      "advanced": "Evaluate Everful's end-to-end sourcing model and AI agent capabilities for automating labor-intensive supply chain tasks, considering its potential to mitigate geopolitical trade risks through localized selling strategies and deepen e-commerce platform integrations.",
+      "tags": [
+        "enterprise",
+        "funding",
+        "product",
+        "agents"
+      ]
+    },
+    {
+      "id": "e71232150b49",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+      "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+      "publishedAt": "2026-11-19T16:59:23.000Z",
+      "fetchedAt": "2026-11-19T21:18:19.987Z",
+      "contentText": null,
+      "summary": "Anthropic has successfully completed its initial public offering (IPO) on the Nasdaq exchange, with shares trading at $111.50, a 33% increase over the IPO price of $83. This offering is expected to raise over $81 billion, contributing to an anticipated $220 billion in cash reserves for the company. The opening price places Anthropic's market capitalization over $2 trillion, making it one of the most valuable companies globally.",
+      "enterpriseAngle": "Anthropic's substantial cash reserves from its IPO provide significant resources for continued investment in AI research, product development, and potentially M&A, which could accelerate innovation and competition in the enterprise AI market. This financial strength may also influence other AI companies to prioritize safety and ethical development, as emphasized by Anthropic's CEO.",
+      "beginner": "Anthropic, a major AI company, is now publicly traded on the stock market and has raised a huge amount of money, making it one of the most valuable companies in the world.",
+      "advanced": "Evaluate Anthropic's post-IPO investment strategies and their potential impact on the competitive landscape for enterprise-grade AI models and safety standards, particularly concerning their stated commitment to a 'race to the top' for responsible AI development.",
+      "tags": [
+        "enterprise",
+        "funding",
+        "product",
+        "governance"
+      ]
+    },
+    {
+      "id": "6687f7be62c3",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "publishedAt": "2026-11-19T08:00:00.000Z",
+      "fetchedAt": "2026-11-19T21:18:17.992Z",
+      "contentText": null,
+      "summary": "OpenAI developed the Performance Factory, an autonomous system powered by Codex, to automatically identify and resolve performance issues in ChatGPT. This system automates the entire process of fixing regressions, from initial alert to verifying the fix. In just over three months, the Regression Workflow within the Performance Factory handled over 1,700 investigations and identified the root cause for more than 600 cases.",
+      "enterpriseAngle": "Enterprise product development and operations teams can leverage similar agentic workflows to automate performance engineering, reducing manual effort and accelerating issue resolution. This approach allows engineers to focus on more complex problems by offloading recurring diagnostic and remediation tasks to AI agents.",
+      "beginner": "OpenAI uses an AI system called the Performance Factory to automatically find and fix problems that make ChatGPT slow, making it faster for users.",
+      "advanced": "Implement agentic workflows, leveraging large language models like Codex, to automate end-to-end performance regression detection, root cause analysis, and fix verification, thereby enhancing operational efficiency and system reliability.",
+      "tags": [
+        "agents",
+        "product",
+        "enterprise",
+        "coding"
+      ]
+    },
+    {
+      "id": "909b75797cd1",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "Anthropic prices initial public offering",
+      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+      "publishedAt": "2026-11-18T23:26:25.522Z",
+      "fetchedAt": "2026-11-19T21:18:17.240Z",
+      "contentText": null,
+      "summary": "Anthropic has priced its initial public offering (IPO) at $83.00 per share, with shares expected to begin trading on the Nasdaq Global Select Market under the symbol \"ANT\" on November 19, 2026. The offering includes 980,000,000 shares of Class A common stock, with the majority sold by Anthropic and a smaller portion by existing stockholders. The company has also given underwriters an option to purchase an additional 147,000,000 shares.",
+      "enterpriseAngle": "This IPO provides Anthropic with significant capital, potentially accelerating its research, product development, and market expansion efforts, which could lead to new AI solutions for enterprise adoption. Enterprise customers should monitor Anthropic's post-IPO strategies for potential impacts on their AI integration plans and vendor landscape.",
+      "beginner": "Anthropic, a company that makes AI, is selling its stock to the public for the first time, which will give them more money to grow.",
+      "advanced": "Evaluate Anthropic's post-IPO financial disclosures and strategic announcements to anticipate shifts in their product roadmap and competitive positioning within the enterprise AI market.",
+      "tags": [
+        "funding",
+        "enterprise",
+        "product"
+      ],
+      "dateChecked": true
+    },
     {
       "id": "54287e141aa4",
       "source": "techcrunch-ai",
@@ -221,6 +449,48 @@
       "advanced": "Implement custom permission profiles for Codex to enforce granular filesystem and network restrictions, integrating with existing enterprise security controls to mitigate risks associated with AI agent execution in production environments.",
       "tags": [
         "security",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "b527b6f0ddce",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "url": "https://openai.com/business/customer-stories/sumitomo-life",
+      "publishedAt": "2026-11-18T08:00:00.000Z",
+      "fetchedAt": "2026-11-19T21:18:17.992Z",
+      "contentText": null,
+      "summary": "Sumitomo Life, a Japanese insurer, successfully adopted ChatGPT Enterprise across its organization, achieving an 80%+ weekly usage rate and an estimated overall ROI of 203%. The company's leadership, including its president, actively encouraged adoption, which helped teams in planning, investment, accounting, and finance use the AI for tasks like research, proposal drafting, and code generation. Sumitomo Life also worked with OpenAI to ensure ChatGPT Enterprise met its security standards for a financial institution.",
+      "enterpriseAngle": "Enterprises can drive successful AI adoption by securing executive buy-in and leading by example, while also carefully evaluating security and integration with existing workflows. The reported ROI, based on employee-reported time savings, highlights the potential for efficiency gains across various departments, from coding to strategic planning.",
+      "beginner": "Companies are using AI tools like ChatGPT to help employees with daily tasks, making work faster and freeing up time for other important activities.",
+      "advanced": "To maximize AI ROI, enterprises should not only track usage and time savings but also actively redesign workflows to leverage AI's capabilities for tasks previously deemed too time-consuming or specialized.",
+      "tags": [
+        "enterprise",
+        "product",
+        "partnership",
+        "workforce"
+      ]
+    },
+    {
+      "id": "9fa731b0ef6c",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Research acceleration: The jagged frontier",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "publishedAt": "2026-11-18T08:00:00.000Z",
+      "fetchedAt": "2026-11-19T21:18:17.992Z",
+      "contentText": null,
+      "summary": "OpenAI reports that AI agents are increasingly contributing to research and development, now completing nearly half of two-to-four-hour research tasks autonomously. The success rate of these agents varies significantly depending on the task, with higher success in monitoring training runs compared to writing code. Researchers are also dedicating more effort to Safety and Alignment, with a 77% increase in documented workweeks in this area.",
+      "enterpriseAngle": "Enterprise product development teams can leverage AI agents to automate significant portions of development tasks, particularly for monitoring and launching training runs, but must recognize that human oversight and intervention remain critical for complex coding and novel problem-solving. Security and product teams should prioritize investing in AI safety and alignment research, as OpenAI's increased focus in this area, especially after an incident, highlights its growing importance for responsible AI deployment.",
+      "beginner": "AI tools are getting better at helping researchers with their work, but people are still essential for guiding and completing complex tasks.",
+      "advanced": "Integrate AI agents into your development pipeline for tasks like monitoring and launching training runs to boost efficiency, while simultaneously scaling human resources and research efforts in AI safety and alignment to address emerging governance and technical challenges.",
+      "tags": [
+        "research",
+        "agents",
         "enterprise",
         "product"
       ]
@@ -955,6 +1225,48 @@
         "agents",
         "enterprise",
         "partnership"
+      ]
+    },
+    {
+      "id": "e3915f7e4cf0",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "The King’s Trust and OpenAI launch £1m partnership",
+      "url": "https://openai.com/index/the-kings-trust-and-openai",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "fetchedAt": "2026-11-19T21:18:17.992Z",
+      "contentText": null,
+      "summary": "The King's Trust and OpenAI have partnered in a £1 million initiative to equip up to 25,000 young people in the UK with AI skills for future employment. This program specifically targets individuals not currently in education, employment, or training, aiming to provide them with practical AI knowledge and recognized qualifications. The partnership is part of The King's Trust's broader effort to prepare young people for an AI-enabled job market.",
+      "enterpriseAngle": "This partnership highlights the growing need for AI-skilled talent, indicating that enterprises will increasingly seek employees with practical AI competencies. Companies should consider investing in similar workforce development programs or internal training to address future skill gaps and leverage AI opportunities.",
+      "beginner": "This partnership helps young people learn about AI so they can get good jobs in a world where AI is becoming more common.",
+      "advanced": "Evaluate your organization's AI skill gaps and explore collaborations with educational or non-profit organizations to develop targeted workforce training programs for emerging AI roles.",
+      "tags": [
+        "partnership",
+        "workforce",
+        "learning",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "3899b6e8ee3c",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "At Holiday Extras, dots get to work before anyone asks",
+      "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "fetchedAt": "2026-11-19T21:18:17.992Z",
+      "contentText": null,
+      "summary": "Holiday Extras, a UK travel technology company, is leveraging AI assistants called \"dots\" to enhance employee productivity and innovation. These AI tools proactively generate reports, flag potential issues, and assist with daily tasks, such as preparing for meetings and animating 3D characters. Employees like Liam Thompson and David Lee use their personalized dots to streamline workflows and act as thought partners.",
+      "enterpriseAngle": "Enterprises can deploy personalized AI assistants to automate routine tasks, provide proactive insights, and improve decision-making across various departments, from operations to product development. This approach can significantly boost employee efficiency and foster innovation by freeing up human capital for more complex problem-solving.",
+      "beginner": "AI assistants can help you with your daily work by doing things like writing reports or reminding you about tasks, making your job easier and faster.",
+      "advanced": "Integrate custom AI agents with enterprise data sources and communication platforms to enable proactive reporting, intelligent issue flagging, and personalized workflow orchestration, thereby maximizing operational efficiency and fostering a culture of AI-driven innovation.",
+      "tags": [
+        "enterprise",
+        "product",
+        "agents",
+        "workforce"
       ]
     },
     {
@@ -1805,6 +2117,26 @@
         "research",
         "policy",
         "governance",
+        "product"
+      ]
+    },
+    {
+      "id": "a045ec708b22",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "ChatGPT Ads increases its market presence in 44 countries",
+      "url": "https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence",
+      "publishedAt": "2026-11-12T00:00:00.000Z",
+      "fetchedAt": "2026-11-19T21:18:17.992Z",
+      "contentText": null,
+      "summary": "OpenAI has partnered with Aleph to expand the market presence of ChatGPT Ads into 44 new countries. Aleph will serve as the exclusive reseller, offering local invoicing, in-person support, and market expertise to brands and agencies in these regions. This expansion provides local advertisers with an additional option for purchasing ChatGPT Ads, alongside existing global technology partners and the self-service Ads Manager.",
+      "enterpriseAngle": "Enterprise marketing and product teams can now leverage localized support and invoicing for ChatGPT Ads in 44 new markets, simplifying procurement and campaign management for global outreach. This partnership enhances accessibility for businesses seeking to advertise on the ChatGPT platform in diverse international regions.",
+      "beginner": "ChatGPT Ads are now easier for businesses in many countries to buy and manage, thanks to a new partnership that offers local help.",
+      "advanced": "Evaluate the new localized purchasing and support options via Aleph for ChatGPT Ads to optimize international campaign deployment and budget allocation in the 44 newly covered markets.",
+      "tags": [
+        "enterprise",
+        "partnership",
         "product"
       ]
     },
@@ -39935,48 +40267,6 @@
         "agents"
       ],
       "dateChecked": true
-    },
-    {
-      "id": "85baf3e38c6a",
-      "source": "xai",
-      "sourceName": "xAI (Grok)",
-      "tier": "realtime",
-      "title": "Grok goes Global with KSA Announcing Our Landmark Partnership with Saudi Arabia and HUMAIN Nov 19, 2025",
-      "url": "https://x.ai/news/grok-goes-global",
-      "publishedAt": "2025-11-19",
-      "fetchedAt": "2026-07-03T07:01:18.386Z",
-      "contentText": null,
-      "summary": "xAI has partnered with the Kingdom of Saudi Arabia and HUMAIN, a PIF company, to develop and operate low-cost, hyperscale GPU data centers in Saudi Arabia. This collaboration aims to deploy Grok nationwide, creating a unified national AI layer for public and private entities. Grok will also integrate into HUMAIN ONE, an agent platform, to provide real-time intelligence and AI copilots.",
-      "enterpriseAngle": "This partnership signifies a major move for enterprises in Saudi Arabia, providing access to a national AI layer with advanced decision-making capabilities and AI copilots, potentially transforming product development and operational efficiency. Security teams will need to consider the implications of a unified national AI layer on data governance and threat landscapes.",
-      "beginner": "xAI is working with Saudi Arabia to build big computer centers and spread its AI, Grok, across the entire country to help businesses and the government make better decisions.",
-      "advanced": "Leverage the newly established national AI layer in Saudi Arabia by integrating Grok's real-time intelligence and autonomous workflows into existing enterprise systems and HUMAIN ONE to enhance decision-making and operational efficiency.",
-      "tags": [
-        "partnership",
-        "enterprise",
-        "infrastructure",
-        "product"
-      ]
-    },
-    {
-      "id": "4f0dc3b05402",
-      "source": "xai",
-      "sourceName": "xAI (Grok)",
-      "tier": "realtime",
-      "title": "Grok 4.1 Fast and Agent Tools API Bringing the next generation of tool-calling agents to the xAI API Nov 19, 2025",
-      "url": "https://x.ai/news/grok-4-1-fast",
-      "publishedAt": "2025-11-19",
-      "fetchedAt": "2026-07-03T07:01:18.359Z",
-      "contentText": null,
-      "summary": "xAI has launched Grok 4.1 Fast, a new tool-calling model with a 2M context window designed for accurate and rapid agentic tasks, and the Agent Tools API, which provides agents with access to real-time X data, web search, and remote code execution. These tools are intended to help developers build production-grade agents for complex real-world use cases like customer support and finance. Grok 4.1 Fast demonstrates strong performance on benchmarks evaluating agentic tool use and long-horizon reasoning.",
-      "enterpriseAngle": "Enterprise security and product development teams can leverage Grok 4.1 Fast and the Agent Tools API to build more capable and cost-effective autonomous agents for customer support, financial operations, and deep research, while xAI manages the underlying infrastructure for tool execution. This allows enterprises to focus on application development rather than managing API keys, rate limits, or sandboxes for various tools.",
-      "beginner": "xAI's new Grok 4.1 Fast model and Agent Tools API help AI programs understand and use various tools, like searching the internet or running code, to perform complex tasks quickly and accurately.",
-      "advanced": "Integrate Grok 4.1 Fast with the Agent Tools API to develop production-grade autonomous agents that excel in multi-turn, long-context scenarios by leveraging real-time data, web search, and secure code execution, offloading infrastructure management to xAI.",
-      "tags": [
-        "model-release",
-        "agents",
-        "enterprise",
-        "product"
-      ]
     }
   ]
 }

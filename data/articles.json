@@ -1,6 +1,235 @@
 {
-  "updatedAt": "2026-11-19T21:20:46.891Z",
+  "updatedAt": "2026-11-20T21:01:44.696Z",
   "articles": [
+    {
+      "id": "59fa562eab8a",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Daniel Ek backs AI researcher's fusion power startup. Here's what they're building.",
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "publishedAt": "2026-11-20T19:53:41.000Z",
+      "fetchedAt": "2026-11-20T20:59:14.840Z",
+      "contentText": null,
+      "summary": "Spotify founder Daniel Ek is investing in Europa Fusion, a new U.K.-based fusion power startup. The company's founder, Nantas Nardelli, an AI researcher, plans to use a simulation- and data-heavy approach to fusion power, differing from the hardware-focused methods of other startups. Europa Fusion will pursue a pulsed-power approach, aiming to create a carbon-free energy source.",
+      "enterpriseAngle": "Enterprises developing AI models may benefit from advancements in fusion power, as it could provide a sustainable and nearly limitless energy source, addressing concerns about AI's increasing energy consumption. This shift towards simulation-heavy research could also influence how other complex engineering challenges are tackled within enterprise R&D.",
+      "beginner": "A new company backed by Spotify's founder is trying to create clean, powerful energy using a method called fusion, which could help power future technologies like AI without harming the environment.",
+      "advanced": "Evaluate the potential for AI-driven simulation and data analysis in complex engineering projects, considering how Nardelli's approach to fusion power could be replicated or adapted for other resource-intensive R&D initiatives.",
+      "tags": [
+        "funding",
+        "research",
+        "science",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "321bf9e3c390",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "publishedAt": "2026-11-20T19:32:08.000Z",
+      "fetchedAt": "2026-11-20T20:59:14.840Z",
+      "contentText": null,
+      "summary": "Mathematician Levent Alpöge, an Anthropic employee, claims to have found a Lean-compilable solution to the 167-year-old Riemann Hypothesis, a major problem in mathematics concerning prime numbers. He used Anthropic's Claude AI model during his discovery process. Simultaneously, another mathematician, Alessandro Masullo, also released a human-generated proof for the General Riemann Hypothesis.",
+      "enterpriseAngle": "While the core discovery is mathematical, the use of AI, specifically Anthropic's Claude, in Alpöge's process highlights AI's potential as a powerful tool for complex problem-solving and research acceleration within enterprise R&D departments. This also underscores the need for enterprises to consider how AI-assisted discoveries will be validated and explained.",
+      "beginner": "AI is becoming so advanced that it can help humans solve incredibly difficult math problems that have puzzled experts for centuries.",
+      "advanced": "Evaluate the potential of integrating advanced AI models like Claude into your research workflows to accelerate complex problem-solving, while also planning for the human validation and interpretability of AI-assisted findings.",
+      "tags": [
+        "research",
+        "science",
+        "enterprise",
+        "product"
+      ]
+    },
+    {
+      "id": "2fdd7a0916ab",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "The most misunderstood graph in AI just got a major update",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "publishedAt": "2026-11-20T18:15:15.000Z",
+      "fetchedAt": "2026-11-20T20:59:15.016Z",
+      "contentText": null,
+      "summary": "A new report from the AI evaluation nonprofit METR indicates that certain AI capabilities are still improving exponentially. However, the report also suggests that AI models are not as proficient at tasks requiring judgment compared to their performance in coding.",
+      "enterpriseAngle": "Enterprise product development teams should note that while AI excels in coding tasks, integrating AI for complex decision-making requiring human-like judgment may still present significant challenges. Security teams should consider that AI's strength in coding could be leveraged for automated vulnerability detection or code generation, but its limitations in judgment might impact sophisticated threat analysis.",
+      "beginner": "AI is getting much better at some things very quickly, especially coding, but it still struggles with tasks that need human-like judgment.",
+      "advanced": "Leverage AI's exponential improvement in coding for automated development and testing workflows, but design human-in-the-loop systems for critical judgment-based tasks to mitigate current AI limitations.",
+      "tags": [
+        "research",
+        "benchmark",
+        "coding",
+        "product"
+      ]
+    },
+    {
+      "id": "e43240c9ae66",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Chips can survive the space environment — can their financing?",
+      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+      "publishedAt": "2026-11-20T17:40:01.000Z",
+      "fetchedAt": "2026-11-20T20:59:14.840Z",
+      "contentText": null,
+      "summary": "The concept of building data centers in space faces significant financial hurdles, primarily due to the inability to use orbiting chips as collateral for debt financing. Lenders are hesitant to finance chips that cannot be repossessed, potentially making space-based compute more expensive than terrestrial options. SpaceX, despite its terrestrial data center successes, is encountering resistance from lenders regarding its orbital data center ambitions.",
+      "enterpriseAngle": "Enterprise teams exploring space-based data solutions will face higher financing costs for hardware, as traditional debt collateral models are unfeasible for orbital assets. This could favor companies like Google that are developing proprietary chips for space, reducing reliance on external financing for hardware.",
+      "beginner": "Putting data centers in space is very expensive, partly because banks can't take back computer chips orbiting Earth if a company can't pay its loans.",
+      "advanced": "Evaluate alternative financing structures for space-based compute infrastructure, such as equity-based funding or specialized insurance products, to mitigate the collateralization challenge and reduce capital expenditure.",
+      "tags": [
+        "infrastructure",
+        "funding",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "f0e77c900b9f",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+      "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+      "publishedAt": "2026-11-20T14:55:44.000Z",
+      "fetchedAt": "2026-11-20T20:59:14.840Z",
+      "contentText": null,
+      "summary": "Nvidia recently released its earnings report, showing continued growth despite the ongoing situation with its former CEO, Jensen Huang. Concurrently, the company announced it would cease selling its H200 chips in China. The article also mentions Nvidia dismissed unspecified calls.",
+      "enterpriseAngle": "Enterprises relying on Nvidia's H200 chips in China will need to find alternative hardware solutions, potentially impacting their AI development and deployment strategies. The leadership change at Nvidia could introduce uncertainty in long-term product roadmaps and partnerships.",
+      "beginner": "Nvidia, a big chip company, is doing well financially even after its CEO left, but it's also stopping sales of a key chip in China.",
+      "advanced": "Evaluate the impact of Nvidia's H200 chip sales halt in China on your supply chain and regional AI infrastructure plans, and explore alternative GPU providers or cloud solutions to mitigate potential disruptions.",
+      "tags": [
+        "enterprise",
+        "product",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "912ce9389b49",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Six AI-powered gadgets that could make your home office smarter",
+      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+      "publishedAt": "2026-11-20T14:00:00.000Z",
+      "fetchedAt": "2026-11-20T20:59:14.840Z",
+      "contentText": null,
+      "summary": "Several new AI-powered gadgets are emerging to enhance home office productivity. These include smart pens and recording devices that transcribe and summarize meetings, webcams that track movement, and keypads with AI shortcuts. Additionally, there are AI-enabled e-readers for note cleanup and smart desks that promote healthier work habits.",
+      "enterpriseAngle": "Enterprise product development teams can integrate similar AI features into their own offerings, focusing on enhancing productivity tools, improving meeting efficiency, and promoting employee well-being through smart office solutions. Security teams should consider the data privacy implications of these devices, especially those handling sensitive meeting audio and personal activity data.",
+      "beginner": "New AI gadgets can help you work smarter by automating tasks like note-taking, summarizing information, and even reminding you to take breaks.",
+      "advanced": "Evaluate the integration potential of AI-powered transcription and summarization tools with existing enterprise collaboration platforms, prioritizing solutions with robust data privacy and customizable AI models for domain-specific accuracy.",
+      "tags": [
+        "product",
+        "consumer",
+        "hardware",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "9afed0143cc7",
+      "source": "anthropic",
+      "sourceName": "Anthropic",
+      "tier": "realtime",
+      "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
+      "url": "https://www.anthropic.com/news/ipo-close",
+      "publishedAt": "2026-11-20T12:41:01.161Z",
+      "fetchedAt": "2026-11-20T20:59:10.980Z",
+      "contentText": null,
+      "summary": "Anthropic has completed its initial public offering (IPO), including the full exercise of underwriters' options to purchase additional shares. The company also closed a concurrent private placement, selling shares to several major technology companies. The combined gross proceeds from the IPO and private placement totaled approximately $119.5 billion.",
+      "enterpriseAngle": "This significant capital infusion provides Anthropic with substantial resources for continued AI research and development, potentially accelerating the creation of new enterprise-grade AI models and services. The strategic investments from major tech firms like Google, Microsoft, and NVIDIA also signal strong industry confidence and potential future collaborations that could influence enterprise AI roadmaps.",
+      "beginner": "Anthropic, an AI company, has raised a lot of money by selling shares to the public and to big tech companies, which will help them build more AI tools.",
+      "advanced": "Leverage Anthropic's increased capital and strategic partnerships to anticipate advancements in foundational models and consider integrating their future offerings into your enterprise AI architecture, particularly given the involvement of key hardware and cloud providers.",
+      "tags": [
+        "funding",
+        "enterprise",
+        "partnership"
+      ],
+      "dateChecked": true
+    },
+    {
+      "id": "3ea993db7e3c",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Combatting adversarial distillation",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "publishedAt": "2026-11-20T10:00:00.000Z",
+      "fetchedAt": "2026-11-20T20:59:11.706Z",
+      "contentText": null,
+      "summary": "OpenAI is addressing \"adversarial distillation,\" a process where malicious actors could reproduce advanced AI model capabilities without inheriting the original safety safeguards. This technique involves training a new model using outputs from a frontier model, potentially enabling the new model to perform harmful tasks that the original model would have refused. OpenAI has implemented new defenses in its GPT-6.2 Astra and Sol models, significantly reducing the success rate of attacks aimed at extracting protected reasoning traces.",
+      "enterpriseAngle": "Enterprise security teams must be aware of the risks posed by adversarial distillation, as it could lead to the proliferation of AI models capable of cyberattacks or other harmful activities without the built-in ethical and safety controls of their source. Product development teams should consider robust safeguards to protect their models' internal reasoning and capabilities from unauthorized extraction and misuse.",
+      "beginner": "Advanced AI models have built-in safety features, but a technique called 'adversarial distillation' could allow bad actors to copy these models' abilities without their safety limits, making them dangerous.",
+      "advanced": "Implement multi-layered defenses, including adversarial testing, model training, classifiers, API-level protections, and active investigation into coordinated extraction attempts, with a particular focus on preventing the leakage of protected reasoning traces to mitigate adversarial distillation risks.",
+      "tags": [
+        "security",
+        "model-release",
+        "enterprise",
+        "research"
+      ]
+    },
+    {
+      "id": "2ed09bbf2a0c",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "publishedAt": "2026-11-20T00:56:01.000Z",
+      "fetchedAt": "2026-11-20T20:59:14.840Z",
+      "contentText": null,
+      "summary": "Apple is reportedly developing an AI agent capable of performing various computer tasks, including browsing the web, using applications, and coding, similar to how a human operates a computer. This initiative is part of a broader trend in the tech industry where major companies are creating their own AI agents. Concurrently, Apple is implementing stricter controls in macOS to limit the access third-party AI agents can have to its systems.",
+      "enterpriseAngle": "Enterprise product development teams should note Apple's move towards integrated AI agents and the increased security controls for third-party agents, which could influence future application design and data access strategies on macOS. Security teams will need to consider how these new native AI capabilities and tightened third-party access policies impact their endpoint security frameworks and compliance requirements.",
+      "beginner": "Apple is creating its own smart computer program that can do many things on your Mac, like using apps and writing code, while also making it harder for other companies' smart programs to take full control of your computer.",
+      "advanced": "Evaluate the implications of Apple's native AI agent development and enhanced third-party agent access restrictions on your enterprise's macOS application ecosystem, particularly concerning data privacy, security posture, and integration strategies for custom AI solutions.",
+      "tags": [
+        "agents",
+        "product",
+        "enterprise",
+        "security"
+      ]
+    },
+    {
+      "id": "d15c45643214",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "publishedAt": "2026-11-20T00:00:00.000Z",
+      "fetchedAt": "2026-11-20T20:59:11.706Z",
+      "contentText": null,
+      "summary": "Hebbia, a financial research startup, has observed significant improvements in financial research tasks by utilizing OpenAI's GPT-6 Astra. In their tests, GPT-6 Astra demonstrated a 13.6 percentage-point lead in citing required source types and achieved 99.5% relevance for cited excerpts. The model also excelled in presentation quality, meeting 97.9% of applicable requirements and leading by 14.4 percentage points over alternatives.",
+      "enterpriseAngle": "Enterprise product development teams can leverage advanced AI models like GPT-6 Astra to build tools that automate complex, detail-oriented tasks such as financial research and presentation generation, ensuring high accuracy and adherence to specific formatting guidelines. This can significantly reduce manual effort and improve the efficiency of professional services.",
+      "beginner": "New AI models are getting much better at understanding complex instructions and creating professional-looking documents, which can save a lot of time for people doing detailed research.",
+      "advanced": "Integrate GPT-6 Astra or similar advanced models into existing enterprise workflows to automate the generation of highly accurate, traceable research summaries and client-ready presentations, focusing on custom template adherence and source verification to maximize efficiency and trust.",
+      "tags": [
+        "model-release",
+        "enterprise",
+        "product",
+        "benchmark"
+      ]
+    },
+    {
+      "id": "f4784c304003",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "url": "https://openai.com/index/introducing-medchembench",
+      "publishedAt": "2026-11-20T00:00:00.000Z",
+      "fetchedAt": "2026-11-20T20:59:11.706Z",
+      "contentText": null,
+      "summary": "OpenAI has introduced MedChemBench, a new benchmark designed to evaluate how well AI models can perform reasoning tasks in medicinal chemistry. This benchmark assesses an AI's ability to interpret molecular structures, analyze experimental results, and make decisions about which compounds to test next in drug discovery. The latest model, GPT-6.2 Astra, achieved the highest score on MedChemBench, outperforming previous GPT models.",
+      "enterpriseAngle": "For enterprise product development teams in pharmaceuticals, this benchmark offers a standardized way to evaluate AI models for drug discovery, potentially accelerating the identification of promising drug candidates and optimizing research workflows. The ability of AI to reason about molecular tradeoffs could lead to more efficient and targeted drug development.",
+      "beginner": "AI models are being tested to see if they can help scientists find new medicines by understanding how different chemicals work.",
+      "advanced": "Leverage MedChemBench to rigorously evaluate large language models (LLMs) for their capacity to perform complex medicinal chemistry reasoning, focusing on their ability to handle competing molecular properties and accurately reconstruct spatial structures, to inform AI integration into drug discovery pipelines.",
+      "tags": [
+        "research",
+        "benchmark",
+        "science",
+        "product"
+      ]
+    },
     {
       "id": "2fc737ddb995",
       "source": "techcrunch-ai",
@@ -206,6 +435,65 @@
         "product",
         "enterprise",
         "coding"
+      ]
+    },
+    {
+      "id": "e29ac258c013",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Explore the Codex Security Plugin",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "publishedAt": "2026-11-19T00:00:00.000Z",
+      "fetchedAt": "2026-11-20T20:59:11.706Z",
+      "contentText": null,
+      "summary": "OpenAI has released a product demo for its Codex Security Plugin, showcasing its workflow from initial setup to reviewing results. The demo illustrates how users can get started with the plugin and interpret the outcomes it provides.",
+      "enterpriseAngle": "Enterprise security teams can leverage the Codex Security Plugin to streamline their vulnerability detection and code review processes, potentially reducing manual effort and improving the speed of identifying security flaws.",
+      "beginner": "The Codex Security Plugin helps find security problems in computer code.",
+      "advanced": "Integrate the Codex Security Plugin into your CI/CD pipeline to automate security vulnerability scanning and enhance developer feedback loops.",
+      "tags": [
+        "security",
+        "product",
+        "coding"
+      ]
+    },
+    {
+      "id": "cb99e2baa62e",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "See PR scans in action",
+      "url": "https://openai.com/business/learn/pr-scans-demo",
+      "publishedAt": "2026-11-19T00:00:00.000Z",
+      "fetchedAt": "2026-11-20T20:59:11.706Z",
+      "contentText": null,
+      "summary": "OpenAI has released a product demo showcasing \"PR scans,\" a tool designed to integrate into a pull request workflow. The demo illustrates how a presenter reviews the results generated by these scans.",
+      "enterpriseAngle": "Enterprise development teams can leverage PR scans to enhance code review processes, potentially improving code quality and security by automating checks within their existing pull request workflows.",
+      "beginner": "PR scans help developers check their code automatically before it's added to a project.",
+      "advanced": "Integrate PR scans into your CI/CD pipeline to automate code quality and security checks, ensuring early detection of issues within pull request workflows.",
+      "tags": [
+        "product",
+        "coding",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "a2fb00344062",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Get started with Daybreak Blue",
+      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "publishedAt": "2026-11-19T00:00:00.000Z",
+      "fetchedAt": "2026-11-20T20:59:11.706Z",
+      "contentText": null,
+      "summary": "OpenAI has released a product demo for \"Daybreak Blue,\" showcasing the onboarding process and initial setup experience for new users.",
+      "enterpriseAngle": "Enterprise teams can use this demo to understand the initial setup and integration process for Daybreak Blue, aiding in planning deployments and user training.",
+      "beginner": "Daybreak Blue is a new product from OpenAI, and there's a video showing how to start using it.",
+      "advanced": "Review the Daybreak Blue onboarding walkthrough to identify potential integration points and user experience considerations for enterprise adoption.",
+      "tags": [
+        "product",
+        "enterprise"
       ]
     },
     {

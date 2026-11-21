@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-11-21T02:05:08.719Z",
+  "updatedAt": "2026-11-21T20:00:32.563Z",
   "articles": [
+    {
+      "id": "6ccebafcdf30",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "publishedAt": "2026-11-21T17:00:00.000Z",
+      "fetchedAt": "2026-11-21T20:00:13.994Z",
+      "contentText": null,
+      "summary": "A new wave of AI agents can be accessed directly through text messages, eliminating the need for separate apps. These agents are designed to remember context, connect with existing services, and complete various tasks on behalf of the user, such as scheduling, organizing, researching, and sending communications. Several companies, including Ask Proxy, Caddy, Comma, Fambot, Folk, and Haven, are developing these text-based AI assistants for personal, family, and work-related uses.",
+      "enterpriseAngle": "Enterprise security and product development teams should consider the implications of AI agents operating within messaging platforms, particularly regarding data privacy and the potential for these agents to access and process sensitive company information. Integrating these agents into enterprise workflows could enhance productivity, but careful evaluation of data handling and access controls is crucial.",
+      "beginner": "AI agents are becoming so smart that you can text them like a friend to help you with daily tasks, without needing to download new apps.",
+      "advanced": "Evaluate the security posture and data governance capabilities of text-based AI agents before integrating them into enterprise environments, focusing on their ability to maintain data isolation and comply with organizational data privacy policies.",
+      "tags": [
+        "agents",
+        "product",
+        "enterprise",
+        "consumer"
+      ]
+    },
+    {
+      "id": "dffab27fe8d5",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "publishedAt": "2026-11-21T16:00:00.000Z",
+      "fetchedAt": "2026-11-21T20:00:13.994Z",
+      "contentText": null,
+      "summary": "Shortical, a microdrama startup, is increasingly using AI-generated content to produce its short, melodramatic series, citing significantly lower production costs and higher profit potential compared to live-action content. The company recently premiered an AI-generated series starring Israeli actor Aki Avni, who licensed his face to create a digital avatar for the project. Shortical is now actively seeking to license other individuals' likenesses for its AI content, a trend already established in China's microdrama industry.",
+      "enterpriseAngle": "This shift highlights a growing trend where enterprises in content creation are leveraging AI to reduce production overhead and scale content output, potentially disrupting traditional employment models for creative professionals. Companies must consider the ethical and compensation implications of licensing digital likenesses, as well as the potential for audience and creator distrust of AI-generated content.",
+      "beginner": "AI is making it cheaper and faster to create videos, which means more shows can be made without needing real actors on set.",
+      "advanced": "Evaluate the ROI of AI-driven content generation workflows, including the costs of likeness licensing and the potential impact on brand perception and audience engagement, while also developing clear contractual frameworks for digital persona usage.",
+      "tags": [
+        "product",
+        "enterprise",
+        "workforce",
+        "consumer"
+      ]
+    },
     {
       "id": "59fa562eab8a",
       "source": "techcrunch-ai",

@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-11-21T20:00:32.563Z",
+  "updatedAt": "2026-11-22T01:07:15.309Z",
   "articles": [
+    {
+      "id": "f3487ac9886e",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "publishedAt": "2026-11-21T21:37:10.000Z",
+      "fetchedAt": "2026-11-22T01:06:51.763Z",
+      "contentText": null,
+      "summary": "Signal has implemented new restrictions on taking screenshots within its secure messaging app on Android and iOS devices. This action is a direct response to the perceived \"existential threat\" posed by operating systems integrating agentic AI, which Signal believes can undermine its privacy guarantees by scanning and accessing user data on screens. While users can disable this setting, Signal acknowledges it's an incomplete solution against potential AI agent access.",
+      "enterpriseAngle": "Enterprise security teams should be aware that OS-level AI agents could potentially access sensitive data displayed in applications, even those designed for high privacy. Product development teams building secure applications need to consider how to protect data from these new forms of AI-driven surveillance.",
+      "beginner": "AI agents built into computer operating systems might be able to see what's on your screen, which could make private apps less secure.",
+      "advanced": "Evaluate the potential for OS-level AI agents to bypass existing data protection mechanisms in your applications and explore alternative methods for safeguarding sensitive information from screen-scraping AI.",
+      "tags": [
+        "security",
+        "product",
+        "policy"
+      ]
+    },
+    {
+      "id": "a1abc1ba2744",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "A tale of two Nvidias",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "publishedAt": "2026-11-21T21:07:42.000Z",
+      "fetchedAt": "2026-11-22T01:06:51.763Z",
+      "contentText": null,
+      "summary": "Nvidia reported strong earnings and revenue, with current executives asserting control and dismissing calls for former CEO Jensen Huang's return. Simultaneously, high-profile tech figures like Elon Musk are advocating for Huang's reinstatement, despite Nvidia's public stance against it. The company also announced it would stop selling H200 chips in China, aligning with stricter US export controls that aim to prevent remote access to chips by Chinese companies through third countries.",
+      "enterpriseAngle": "Enterprise product development teams relying on Nvidia's cutting-edge AI chips should monitor the evolving US-China export policies, as restrictions on chip sales and remote access could impact their supply chains and access to advanced hardware. The internal leadership drama at Nvidia, while currently dismissed by the company, could introduce future instability or strategic shifts that affect long-term partnerships and product roadmaps.",
+      "beginner": "Nvidia is doing well financially, but there's a public debate about whether its former CEO should come back, and the company is also facing new rules about selling its powerful chips to China.",
+      "advanced": "Monitor the ongoing US export control enforcement, particularly regarding remote access loopholes, as Nvidia's compliance and any potential leadership changes could significantly alter the availability and strategic direction of high-performance AI hardware for enterprise deployments.",
+      "tags": [
+        "enterprise",
+        "policy",
+        "product",
+        "infrastructure"
+      ]
+    },
     {
       "id": "6ccebafcdf30",
       "source": "techcrunch-ai",

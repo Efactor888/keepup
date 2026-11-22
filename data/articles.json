@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-11-22T01:07:15.309Z",
+  "updatedAt": "2026-11-22T20:15:39.233Z",
   "articles": [
+    {
+      "id": "bed82431ae1f",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "publishedAt": "2026-11-22T18:08:43.000Z",
+      "fetchedAt": "2026-11-22T20:15:20.595Z",
+      "contentText": null,
+      "summary": "Journalist Paris Marx's new book, \"Hyperscale,\" explores the significant impact of data centers and generative AI, highlighting how these facilities have become a focal point of political and community backlash. Marx argues that the rapid expansion of data centers is environmentally unsustainable and directly affects local communities through increased power bills, water consumption, and noise pollution. The book details the challenges of accessing these highly secure facilities and reveals the utilitarian, loud, and warm interior of a server room.",
+      "enterpriseAngle": "Enterprise product development and infrastructure teams must consider the growing public and political scrutiny of data center expansion, particularly regarding environmental impact and resource consumption. Companies should prepare for increased community resistance and potential regulatory challenges related to energy and water usage, which could impact future buildouts and operational costs.",
+      "beginner": "Data centers, which power AI and other digital services, are facing public criticism due to their high energy and water use, affecting local communities.",
+      "advanced": "To mitigate escalating community and regulatory pressures, enterprise infrastructure strategists should prioritize transparent reporting of resource consumption and invest in sustainable data center designs and locations, exploring alternative cooling and energy solutions to reduce environmental footprints and operational risks.",
+      "tags": [
+        "infrastructure",
+        "policy",
+        "enterprise",
+        "research"
+      ]
+    },
+    {
+      "id": "de5cd1a6d51d",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "publishedAt": "2026-11-22T00:00:00.000Z",
+      "fetchedAt": "2026-11-22T20:15:18.404Z",
+      "contentText": null,
+      "summary": "OpenAI's Chief Scientist argues that perplexity, a measure of how well a model predicts the next token, is a key metric for tracking AI progress and should be a shared industry standard for safety. Lower perplexity values correlate with the emergence of new, transformative AI capabilities, such as fluent conversation, reasoning, and breakthroughs in cybersecurity and mathematics. OpenAI is sharing its internal perplexity measurements to foster a common scientific basis for AI safety.",
+      "enterpriseAngle": "Enterprise product development teams can use perplexity as a foundational metric to benchmark the core intelligence of AI models, informing decisions on when new capabilities might emerge and guiding the development of more advanced applications. Security teams should note that models reaching lower perplexity thresholds have demonstrated transformative capabilities in cybersecurity, implying both new defensive tools and potential new attack vectors.",
+      "beginner": "AI models are getting smarter by getting better at predicting what comes next, and we can measure this improvement with something called 'perplexity'.",
+      "advanced": "Leverage perplexity as a cross-industry benchmark for evaluating foundational model intelligence, and anticipate emergent capabilities in cybersecurity and mathematics as models approach the 0.68-0.7 log-perplexity range.",
+      "tags": [
+        "research",
+        "benchmark",
+        "governance",
+        "security"
+      ]
+    },
     {
       "id": "f3487ac9886e",
       "source": "techcrunch-ai",

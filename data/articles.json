@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-11-22T20:15:39.233Z",
+  "updatedAt": "2026-11-23T01:29:44.228Z",
   "articles": [
+    {
+      "id": "914bb147d0bf",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "publishedAt": "2026-11-23T01:25:53.000Z",
+      "fetchedAt": "2026-11-23T01:29:25.628Z",
+      "contentText": null,
+      "summary": "Notable Capital, GIC, and Baillie Gifford made significant investments in Anthropic, the creator of the Claude AI model, prior to its IPO. Notable Capital invested early based on developer preference for Claude, while GIC and Baillie Gifford increased their stakes as Anthropic demonstrated consistent execution and enterprise adoption. Anthropic's IPO raised $81.3 billion, reaching a valuation of approximately $1.5 trillion.",
+      "enterpriseAngle": "The increasing enterprise adoption of Anthropic's models, driven by continuous improvements and new offerings like Claude Code, indicates a growing market for advanced AI solutions in business. This trend suggests that enterprise product development teams should consider integrating or building upon such models to enhance their offerings and meet evolving customer demands.",
+      "beginner": "Large investment firms bet big on Anthropic because its AI model, Claude, was becoming very popular with software developers and businesses.",
+      "advanced": "Evaluate the adoption rates and developer sentiment for foundational models like Claude to inform strategic investments in AI infrastructure and application development, particularly for mission-critical enterprise solutions.",
+      "tags": [
+        "enterprise",
+        "funding",
+        "product"
+      ],
+      "dateChecked": true
+    },
+    {
+      "id": "05744626c0d6",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "publishedAt": "2026-11-22T21:14:07.000Z",
+      "fetchedAt": "2026-11-23T01:29:25.628Z",
+      "contentText": null,
+      "summary": "OpenAI's chief scientist, Jakub Pachocki, proposes using 'perplexity' as a standardized measurement to limit AI development. Perplexity measures how well a model predicts the next token, with lower scores indicating better predictions. This proposal comes amidst calls from other AI leaders, including Anthropic CEO Dario Amodei, to establish common safety standards and limits on AI progress due to potential catastrophic risks.",
+      "enterpriseAngle": "Enterprise product development teams could use perplexity as a benchmark to assess model capabilities and align with potential industry-wide development limits, ensuring responsible AI deployment. Security teams might leverage models with lower perplexity for enhanced capabilities in areas like cybersecurity, while also needing to understand the implications of such advanced models.",
+      "beginner": "AI companies are looking for ways to measure how fast and powerful AI is becoming, and one idea is to use something called 'perplexity' to help decide when to slow down development for safety.",
+      "advanced": "Integrate perplexity metrics into your model evaluation pipeline to benchmark against industry standards and inform strategic decisions regarding model release and resource allocation, especially as regulatory discussions around AI development pacing evolve.",
+      "tags": [
+        "governance",
+        "research",
+        "policy",
+        "benchmark"
+      ]
+    },
     {
       "id": "bed82431ae1f",
       "source": "techcrunch-ai",

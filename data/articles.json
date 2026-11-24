@@ -1,6 +1,234 @@
 {
-  "updatedAt": "2026-11-23T01:29:44.228Z",
+  "updatedAt": "2026-11-24T00:43:10.824Z",
   "articles": [
+    {
+      "id": "43b498f2b7e3",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "publishedAt": "2026-11-23T22:05:50.000Z",
+      "fetchedAt": "2026-11-24T00:41:31.280Z",
+      "contentText": null,
+      "summary": "Anthropic has launched Claude Ship, a new suite of AI agents designed to automate code reviews, fixes, and approvals for routine code changes. This offering aims to streamline the development process by allowing AI agents to not only identify and address code issues but also to automatically approve changes based on predefined team policies. The system includes Code Review (generally available), PR Steward (beta) for issue resolution, and Claude Approvals (beta) for policy-based automatic approvals.",
+      "enterpriseAngle": "For enterprise development teams, Claude Ship offers a significant opportunity to accelerate software delivery by automating much of the code review and approval workflow, especially as AI-generated code increases. This can free up human developers to focus on more complex tasks, while still maintaining control over approval policies and escalation to human oversight.",
+      "beginner": "Anthropic's new tool, Claude Ship, uses AI to help developers check, fix, and even approve code changes automatically, making software development faster.",
+      "advanced": "Implement Claude Ship's beta features, PR Steward and Claude Approvals, in observe-only mode or with strict spending limits on a single repository to evaluate its policy-driven automated approval capabilities and integration with existing CI/CD pipelines before broader deployment.",
+      "tags": [
+        "product",
+        "enterprise",
+        "coding",
+        "agents"
+      ]
+    },
+    {
+      "id": "388f4aa5f277",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "publishedAt": "2026-11-23T22:02:05.000Z",
+      "fetchedAt": "2026-11-24T00:41:31.280Z",
+      "contentText": null,
+      "summary": "Supertake, an AI investing startup, has secured $20 million in seed funding to develop a service that allows users to convert their market predictions into investment portfolios using AI models and trading agents. The company aims to democratize investing by enabling individuals to invest based on their insights without directly picking stocks. Supertake integrates with brokerages like Coinbase and Robinhood, utilizing proprietary software to direct and limit AI actions while implementing guardrails for user trust.",
+      "enterpriseAngle": "Enterprise product development teams in financial services can learn from Supertake's approach to integrating frontier AI and agents, particularly in designing user-friendly interfaces for complex financial operations and implementing robust security and control mechanisms for AI-driven investment tools. Security teams should note the emphasis on explicit user consent for fund movements, drift limits, allow/deny lists, and real-time monitoring as crucial safeguards for AI-managed financial assets.",
+      "beginner": "Supertake lets you tell an AI your ideas about the market, and the AI then creates and manages a stock portfolio based on those ideas, similar to a modern robo-advisor.",
+      "advanced": "Evaluate the implementation of agentic guardrails, such as explicit consent for fund movements, drift limits, and asset allow/deny lists, as a blueprint for developing secure and compliant AI-driven financial products.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "funding",
+        "product"
+      ]
+    },
+    {
+      "id": "b7175444dd03",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+      "publishedAt": "2026-11-23T21:47:41.000Z",
+      "fetchedAt": "2026-11-24T00:41:31.280Z",
+      "contentText": null,
+      "summary": "Jensen Huang has been reinstated as CEO and president of Nvidia despite being involved in three affairs, including one with an alleged Chinese spy that led to congressional national security investigations. Several tech CEOs, including Elon Musk and Sam Altman, celebrated his return, with Musk stating, \"The mistake has been corrected.\" However, outside the tech industry, some elected officials remain skeptical about the national security implications of his reinstatement.",
+      "enterpriseAngle": "The reinstatement of a key leader like Jensen Huang, despite national security concerns, highlights the tension between corporate performance and geopolitical risks that enterprise product development and security teams must navigate. Companies relying on Nvidia's technology may face increased scrutiny regarding supply chain integrity and potential security vulnerabilities.",
+      "beginner": "Nvidia's CEO, Jensen Huang, is back in charge even after controversies, showing how important he is to the tech world.",
+      "advanced": "Given the ongoing national security investigations, enterprise security teams should reassess their risk posture related to Nvidia's supply chain and consider diversifying hardware dependencies to mitigate potential geopolitical disruptions or compliance challenges.",
+      "tags": [
+        "enterprise",
+        "policy",
+        "governance",
+        "security"
+      ]
+    },
+    {
+      "id": "7bdc82557174",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+      "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+      "publishedAt": "2026-11-23T21:25:42.000Z",
+      "fetchedAt": "2026-11-24T00:41:31.280Z",
+      "contentText": null,
+      "summary": "Megaspeed, a Singapore-based cloud and AI infrastructure provider, is expected to be added to the U.S. Commerce Department's Entity List, which would restrict U.S. companies from doing business with it without a special license. This action is reportedly aimed at preventing Megaspeed from acquiring U.S.-made semiconductors. The company is currently under criminal investigation by U.S. and Singaporean authorities for allegedly smuggling Nvidia chips to China, an accusation Megaspeed denies.",
+      "enterpriseAngle": "Enterprise security and product development teams should be aware of the increasing scrutiny and potential blacklisting of companies involved in alleged export control violations, as this can impact supply chains and partnerships, particularly for AI infrastructure and semiconductor procurement. Compliance with U.S. export restrictions is critical to avoid legal repercussions and maintain business continuity.",
+      "beginner": "A company called Megaspeed might be blocked from buying computer chips from U.S. companies because it's being investigated for sending chips to China illegally.",
+      "advanced": "Monitor the Commerce Department's Entity List for updates on Megaspeed and similar entities to ensure compliance with export control regulations and assess potential supply chain risks related to AI infrastructure and semiconductor sourcing.",
+      "tags": [
+        "policy",
+        "enterprise",
+        "security",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "1d0c151fefed",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "publishedAt": "2026-11-23T21:20:00.000Z",
+      "fetchedAt": "2026-11-24T00:41:29.474Z",
+      "contentText": null,
+      "summary": "OpenAI and Cisco have introduced Shirudo, an open-source runtime designed to help protect Linux systems from exploits while permanent patches are being developed and deployed. Shirudo uses eBPF technology to create temporary safeguards, called shields, that can block malicious activity without requiring system restarts. This allows security teams to maintain service availability while addressing vulnerabilities.",
+      "enterpriseAngle": "Enterprise security teams can leverage Shirudo to deploy immediate, temporary protections against zero-day exploits and other vulnerabilities, significantly reducing the window of exposure while full patches are prepared and rolled out. This enhances operational resilience by allowing critical systems to remain online and functional during security remediation efforts.",
+      "beginner": "Shirudo is like a temporary force field for computer systems that stops bad attacks without having to turn off the computer to fix it.",
+      "advanced": "Integrate Shirudo's eBPF-based live protection capabilities into your incident response workflows to rapidly deploy targeted shields against emerging threats, minimizing downtime and maintaining service continuity during vulnerability patching cycles.",
+      "tags": [
+        "security",
+        "enterprise",
+        "product",
+        "model-release"
+      ]
+    },
+    {
+      "id": "1457613dc9f1",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company's HQ",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+      "publishedAt": "2026-11-23T20:38:53.000Z",
+      "fetchedAt": "2026-11-24T00:41:31.280Z",
+      "contentText": null,
+      "summary": "Nvidia CEO Jensen Huang returned to the company's headquarters to a hero's welcome from hundreds of employees, despite having stepped down earlier this month due to multiple scandals, including an alleged affair with a Chinese spy and two affairs with Nvidia employees. His reinstatement followed significant pushback from the tech community, an open letter signed by over 200,000 people, and an intervention by President Donald Trump. Huang briefly addressed the crowd, thanking them for a second chance and promising to be a better CEO.",
+      "enterpriseAngle": "The return of a controversial but highly influential leader like Jensen Huang highlights the complex interplay between executive leadership, employee sentiment, and external political pressure in major tech companies, which can significantly impact corporate stability and public perception. For enterprise product development teams, leadership changes and internal dynamics can influence strategic direction and resource allocation, especially in a company as central to AI infrastructure as Nvidia.",
+      "beginner": "Nvidia's CEO, Jensen Huang, returned to his job after a lot of support from employees and other important people, even though he had been involved in some scandals.",
+      "advanced": "Enterprise leaders should analyze the factors contributing to such a strong employee and industry-wide advocacy for a CEO's return, particularly the perceived indispensability of key figures in high-growth sectors like AI, and consider the implications for succession planning and crisis management strategies.",
+      "tags": [
+        "enterprise",
+        "policy",
+        "workforce",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "588f7b0a1e0d",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Google Search's AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "publishedAt": "2026-11-23T19:14:46.000Z",
+      "fetchedAt": "2026-11-24T00:41:31.280Z",
+      "contentText": null,
+      "summary": "Google is expanding its Personal Intelligence in Search's AI Mode to integrate with Google Drive, Google Wallet, and the Gemini app. This feature aims to provide more personalized and context-aware answers by accessing information from users' connected Google apps. Users have the option to enable or disable these integrations, allowing AI Mode to assist with financial goals, analyze documents for project insights, and share context between Gemini and Search.",
+      "enterpriseAngle": "For enterprise product development teams, this highlights the growing user expectation for highly personalized AI experiences that leverage existing data ecosystems, while also emphasizing the critical need for transparent user controls over data access. Security teams must consider the implications of AI models accessing sensitive user data, even with opt-in features, ensuring robust data governance and privacy safeguards are in place.",
+      "beginner": "Google's AI in Search can now look at your personal files and financial information from Drive and Wallet, but only if you choose to let it.",
+      "advanced": "Implement granular, user-controlled data access permissions for AI features, providing clear visibility into what data is being used and for what purpose, to build trust and ensure compliance.",
+      "tags": [
+        "product",
+        "enterprise",
+        "consumer",
+        "governance"
+      ]
+    },
+    {
+      "id": "53b97270c186",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "publishedAt": "2026-11-23T17:36:08.000Z",
+      "fetchedAt": "2026-11-24T00:41:31.484Z",
+      "contentText": null,
+      "summary": "Anthropic, an AI company, recently identified the potential for AI to become conscious or sentient as a risk factor for investors before its public offering. This highlights ongoing discussions and differing perspectives within the AI community regarding the nature of advanced AI systems.",
+      "enterpriseAngle": "Enterprise AI product development teams should consider the ethical and philosophical implications of advanced AI capabilities, including potential sentience, as these discussions can influence public perception, regulatory scrutiny, and investor confidence.",
+      "beginner": "Some AI companies are starting to think about whether advanced AI could ever become conscious, which is a big philosophical question.",
+      "advanced": "Integrate ethical AI frameworks into your product lifecycle, proactively addressing potential societal impacts and engaging with philosophical debates around AI consciousness to inform responsible development and risk mitigation strategies.",
+      "tags": [
+        "governance",
+        "product",
+        "research"
+      ]
+    },
+    {
+      "id": "39c2da17cef6",
+      "source": "google-ai",
+      "sourceName": "Google AI",
+      "tier": "realtime",
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "publishedAt": "2026-11-23T17:00:00.000Z",
+      "fetchedAt": "2026-11-24T00:41:29.795Z",
+      "contentText": null,
+      "summary": "Google Search is introducing a new feature called Personal Intelligence, allowing users to connect their Google Wallet, Drive, and Gemini apps for more tailored search results. This opt-in feature uses personal data like spending habits, documents, and chat history to provide customized answers, such as financial insights or project organization. Users retain full control over their data connections and can manage preferences at any time.",
+      "enterpriseAngle": "Enterprise users can leverage this personalized search to streamline project management by connecting Google Drive, enabling AI to provide context-aware responses based on internal documents and ongoing work. This could enhance productivity by reducing the need to re-enter context for recurring tasks or research.",
+      "beginner": "Google Search can now give you more personalized answers by looking at information from your other Google apps, but only if you choose to let it.",
+      "advanced": "Evaluate the implications of integrating personal data from Google Wallet and Drive into AI-powered search for data governance and privacy compliance within enterprise environments, particularly concerning sensitive financial or proprietary document information.",
+      "tags": [
+        "product",
+        "enterprise",
+        "consumer",
+        "governance"
+      ]
+    },
+    {
+      "id": "f8a4e02f4212",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Connected intelligence for in-house legal",
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "publishedAt": "2026-11-23T08:00:00.000Z",
+      "fetchedAt": "2026-11-24T00:41:29.474Z",
+      "contentText": null,
+      "summary": "OpenAI's Stacey Wang and Craig Bruney, along with Mary O'Carroll from LECG and Richard Segal from Cooley, discussed how artificial intelligence can benefit in-house legal departments. The discussion focused on using AI to link business context, create repeatable workflows, and enhance interactions with external legal counsel.",
+      "enterpriseAngle": "Enterprise legal teams can leverage AI to streamline operations, improve collaboration with external partners, and gain deeper insights by connecting legal work with broader business objectives.",
+      "beginner": "AI can help company lawyers work smarter by connecting different pieces of information and automating routine tasks.",
+      "advanced": "Legal operations professionals should investigate AI-powered platforms to integrate business context into legal workflows and optimize outside counsel engagement.",
+      "tags": [
+        "enterprise",
+        "product",
+        "workforce"
+      ]
+    },
+    {
+      "id": "680b35173b97",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "publishedAt": "2026-11-23T08:00:00.000Z",
+      "fetchedAt": "2026-11-24T00:41:29.474Z",
+      "contentText": null,
+      "summary": "Richpanel, a startup, uses OpenAI's GPT-6 models (Astra, Sol, and Luna) to automate customer support, aiming to achieve a 50% automation rate within 30 days for its clients. The company focuses on equipping AI agents with the necessary tools and procedures to execute solutions, not just answer queries. Richpanel has successfully deployed its AI support solutions approximately 300 times, reporting increased customer satisfaction compared to human agents.",
+      "enterpriseAngle": "Enterprises can leverage AI platforms like Richpanel, powered by advanced language models, to significantly automate customer support operations, reduce costs, and improve customer satisfaction. The ability to define and automate complex procedures for AI agents, including tool integration, is crucial for effective enterprise-level deployment.",
+      "beginner": "AI is being used by companies like Richpanel to create smart customer service agents that can not only answer questions but also solve problems, making customer support faster and more efficient.",
+      "advanced": "To optimize AI agent deployment, prioritize the development of an AI manager (like Richpanel's Boss AI) to automate agent setup, tool integration, and procedure definition, balancing model intelligence with cost-efficiency for various agent roles.",
+      "tags": [
+        "enterprise",
+        "product",
+        "agents"
+      ]
+    },
     {
       "id": "914bb147d0bf",
       "source": "techcrunch-ai",
@@ -40860,28 +41088,6 @@
         "partnership",
         "product",
         "workforce"
-      ],
-      "dateChecked": true
-    },
-    {
-      "id": "3c1a80a7da08",
-      "source": "anthropic",
-      "sourceName": "Anthropic",
-      "tier": "realtime",
-      "title": "Introducing Claude Opus 4.5",
-      "url": "https://www.anthropic.com/news/claude-opus-4-5",
-      "publishedAt": "2025-11-24",
-      "fetchedAt": "2026-07-22T15:09:30.927Z",
-      "contentText": null,
-      "summary": "Anthropic has released Claude Opus 4.5, a new AI model that they claim is the best in the world for coding, agents, and computer use, and also significantly improves everyday tasks like research and working with documents. The model is now available on their apps, API, and major cloud platforms, with a new pricing structure designed to make it more accessible. Early testers and customers report that Opus 4.5 handles complex tasks, ambiguity, and multi-system bugs with greater efficiency and less human intervention.",
-      "enterpriseAngle": "Enterprise product development and security teams can leverage Claude Opus 4.5 for enhanced coding, agentic workflows, and complex problem-solving, potentially leading to faster development cycles and more robust applications. The improved efficiency and lower cost per token could also optimize resource allocation for AI-powered solutions.",
-      "beginner": "Anthropic's new AI model, Claude Opus 4.5, is designed to be very good at helping with coding, automating tasks, and general computer use, making it easier and more affordable for many people to use advanced AI.",
-      "advanced": "Integrate Claude Opus 4.5 into your development pipelines and agentic systems, specifically evaluating its performance on long-horizon coding tasks, multi-step reasoning, and complex enterprise benchmarks to capitalize on its reported efficiency gains and improved frontier task planning capabilities.",
-      "tags": [
-        "model-release",
-        "enterprise",
-        "coding",
-        "agents"
       ],
       "dateChecked": true
     }

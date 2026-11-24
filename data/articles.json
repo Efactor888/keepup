@@ -1,6 +1,273 @@
 {
-  "updatedAt": "2026-11-24T00:43:10.824Z",
+  "updatedAt": "2026-11-24T22:59:51.242Z",
   "articles": [
+    {
+      "id": "bc426bbbebd7",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+      "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+      "publishedAt": "2026-11-24T22:27:52.000Z",
+      "fetchedAt": "2026-11-24T22:57:57.064Z",
+      "contentText": null,
+      "summary": "Nvidia CEO Jensen Huang, recently reinstated after a brief resignation, told employees that the company does not need a succession plan due to its unique, flat organizational structure. Huang, who has about 60 direct reports, believes a succession plan would create unnecessary hierarchy, despite recent investor concerns following his resignation over personal conduct.",
+      "enterpriseAngle": "For enterprise product development and security teams, Nvidia's flat structure under a single, powerful CEO implies rapid decision-making but also significant key-person risk, which could impact long-term strategic stability and product roadmaps if leadership changes abruptly. This structure may also influence how security policies are disseminated and enforced, relying heavily on top-down directives.",
+      "beginner": "Nvidia's CEO believes his company doesn't need a backup plan for leadership because it's designed to be very flat, with him at the top, which is different from most big companies.",
+      "advanced": "Evaluate the resilience of your organization's critical dependencies on key personnel, particularly in flat structures, and implement robust knowledge transfer and cross-training protocols to mitigate single points of failure.",
+      "tags": [
+        "enterprise",
+        "governance"
+      ]
+    },
+    {
+      "id": "72fd424c711a",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "In all-hands meeting, Jensen Huang thanks White House and says he's in therapy",
+      "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+      "publishedAt": "2026-11-24T21:48:27.000Z",
+      "fetchedAt": "2026-11-24T22:57:57.064Z",
+      "contentText": null,
+      "summary": "Nvidia CEO Jensen Huang, recently reinstated, addressed staff in an all-hands meeting, expressing remorse for past actions and acknowledging he hurt employees. He admitted to violating Nvidia's code of conduct but emphasized that mitigating circumstances would be considered. Huang also thanked the White House for intelligence that helped the board assess national security risks related to his return.",
+      "enterpriseAngle": "This situation highlights the complex interplay between executive conduct, corporate governance, and national security implications, underscoring the need for robust ethical frameworks and transparent communication within enterprises, especially those with significant geopolitical influence. Enterprise leaders must navigate personal accountability while ensuring business continuity and stakeholder confidence.",
+      "beginner": "Even powerful leaders like Jensen Huang face personal challenges that can impact their company, and he is now working to regain trust and lead Nvidia forward.",
+      "advanced": "Prepare for increased scrutiny on executive conduct and corporate governance, particularly in companies with critical national security ties, and review internal codes of conduct for clarity on enforcement and mitigating circumstances.",
+      "tags": [
+        "enterprise",
+        "governance",
+        "policy"
+      ]
+    },
+    {
+      "id": "71615ee1ebfd",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Even the best AI agents struggle with everyday life",
+      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "publishedAt": "2026-11-24T21:33:29.000Z",
+      "fetchedAt": "2026-11-24T22:57:57.064Z",
+      "contentText": null,
+      "summary": "A recent benchmark indicates that even highly advanced AI models, designed as personal assistants, face difficulties in consistently and safely performing common daily tasks without creating new issues. This suggests a gap between current AI capabilities and the demands of real-world, routine activities.",
+      "enterpriseAngle": "Enterprise product development teams should focus on robust error handling and safety protocols when integrating AI agents into user-facing applications, recognizing their current limitations in complex, real-world scenarios. Security teams must also consider the potential for AI agents to inadvertently introduce new vulnerabilities or operational risks if not carefully constrained and monitored.",
+      "beginner": "Even the smartest AI helpers still find it hard to do simple daily tasks perfectly and safely.",
+      "advanced": "When deploying AI agents, prioritize comprehensive testing against diverse, real-world task simulations and implement strict guardrails to mitigate unintended consequences and ensure reliable, safe operation.",
+      "tags": [
+        "agents",
+        "benchmark",
+        "product",
+        "security"
+      ]
+    },
+    {
+      "id": "b1e5839c1dc5",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+      "publishedAt": "2026-11-24T21:32:38.000Z",
+      "fetchedAt": "2026-11-24T22:57:57.064Z",
+      "contentText": null,
+      "summary": "Walmart is partnering with Meta to allow customers to shop Black Friday deals through Muse, Meta's AI agent. This collaboration enables shoppers to use Muse to find products, compare prices, and make purchases directly from Walmart's online store without manual browsing. Walmart has implemented privacy features, such as not sharing shopping history with Muse and allowing users to set spending limits.",
+      "enterpriseAngle": "This partnership demonstrates a growing trend for retailers to integrate with third-party AI agents, offering new channels for customer engagement and sales, while requiring robust backend systems like Walmart's Agent Gateway for secure and efficient external AI integration. Enterprise product teams should consider developing similar API gateways to enable broader AI ecosystem participation.",
+      "beginner": "You can now use an AI assistant called Muse to help you shop for deals at Walmart, making it easier to find and buy things.",
+      "advanced": "Leverage Walmart's Agent Gateway as a blueprint for developing secure, scalable API integrations that allow external AI agents to interact directly with your e-commerce platform, ensuring data privacy and user control.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "product",
+        "agents"
+      ]
+    },
+    {
+      "id": "4d83f53e63e2",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+      "publishedAt": "2026-11-24T21:19:52.000Z",
+      "fetchedAt": "2026-11-24T22:57:57.064Z",
+      "contentText": null,
+      "summary": "Maple, an AI startup, has raised $5.3 million to develop AI products that prioritize user data privacy. The company's approach involves using Trusted Execution Environments (TEEs) and end-to-end encryption, ensuring that Maple itself cannot access user data, even when it's being processed. This allows users to audit the open-source code and verify how their data is handled, aiming to build trust without requiring users to compromise privacy for convenience.",
+      "enterpriseAngle": "Enterprise security and product development teams can learn from Maple's model of zero data retention and verifiable privacy controls, which could set a new standard for secure AI agent deployment. Adopting similar TEE and encryption strategies can mitigate data leakage risks and enhance trust when integrating AI into sensitive workflows.",
+      "beginner": "Maple is building AI tools that promise to keep your personal information private, even from the company that made the tools.",
+      "advanced": "Evaluate the feasibility of implementing Trusted Execution Environments (TEEs) and client-side encryption with auditable open-source components to enhance data privacy and compliance for AI agents within your enterprise architecture.",
+      "tags": [
+        "security",
+        "enterprise",
+        "funding",
+        "product"
+      ]
+    },
+    {
+      "id": "84fb3fd4bc17",
+      "source": "deepmind",
+      "sourceName": "Google DeepMind",
+      "tier": "realtime",
+      "title": "We’re launching Humanity’s First Exam and a Kaggle hackathon to test LLM reliability.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/humanitys-first-exam/",
+      "publishedAt": "2026-11-24T19:30:00.000Z",
+      "fetchedAt": "2026-11-24T22:57:55.390Z",
+      "contentText": null,
+      "summary": "Google DeepMind has launched \"Humanity's First Exam\" (HFE), a new benchmark on Kaggle designed to evaluate the reliability of large language models (LLMs) in answering everyday questions. Unlike existing benchmarks that focus on complex tasks, HFE assesses a model's consistency in solving straightforward text and image prompts, including slight variations. A Kaggle competition is also underway, inviting the community to contribute new questions that challenge current LLMs.",
+      "enterpriseAngle": "Enterprise teams developing or deploying LLM-powered applications can use HFE to assess the practical reliability of models for common user interactions, ensuring consistent and accurate responses in real-world scenarios. This focus on consistency is crucial for building trustworthy AI products and services.",
+      "beginner": "Google DeepMind created a new test called \"Humanity's First Exam\" to see how consistently AI models can answer simple, everyday questions, rather than just hard ones.",
+      "advanced": "Integrate HFE into your model evaluation pipeline to specifically benchmark consistency and robustness against minor prompt variations, informing model selection for applications requiring high reliability in common use cases.",
+      "tags": [
+        "benchmark",
+        "research",
+        "product",
+        "model-release"
+      ]
+    },
+    {
+      "id": "9824edc2f485",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "publishedAt": "2026-11-24T18:30:42.000Z",
+      "fetchedAt": "2026-11-24T22:57:57.064Z",
+      "contentText": null,
+      "summary": "Anthropic's stock has fallen below its initial public offering (IPO) price of $83, trading as low as $76 a share, a nearly 12% drop from Monday's close. This decline, occurring less than a week after its Nasdaq debut at $111.50, is seen as a negative signal for the AI industry. The performance of Anthropic's shares is being closely watched as a potential indicator of how public markets value the AI sector.",
+      "enterpriseAngle": "The poor trading performance of Anthropic's shares could lead to downward pressure on private startup valuations and weaken the IPO prospects for other AI companies, impacting future funding and growth strategies for enterprise AI ventures. Enterprise product development teams might face increased scrutiny on ROI for AI investments if market sentiment sours.",
+      "beginner": "When a company's stock drops below its initial offering price shortly after going public, it can signal that investors are less confident in its future value, which might affect other similar companies.",
+      "advanced": "Monitor the sustained public market performance of foundational AI companies like Anthropic as a bellwether for broader investor appetite, which could influence future fundraising rounds and strategic M&A opportunities in the AI ecosystem.",
+      "tags": [
+        "enterprise",
+        "funding"
+      ]
+    },
+    {
+      "id": "e2544bc1aeb2",
+      "source": "google-ai",
+      "sourceName": "Google AI",
+      "tier": "realtime",
+      "title": "How Gemini is changing the game for Golden State's organization and fans.",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+      "publishedAt": "2026-11-24T16:00:00.000Z",
+      "fetchedAt": "2026-11-24T22:57:55.288Z",
+      "contentText": null,
+      "summary": "Google Gemini has become the Official AI Assistant Partner and Official Generative AI & Enterprise LLM Partner for the Golden State Warriors, the WNBA Champion Valkyries, and Chase Center. This partnership aims to enhance fan experiences through interactive game-day features and improve internal operations with custom AI agents.",
+      "enterpriseAngle": "Enterprises can leverage large language models like Gemini to create custom AI agents, streamlining both customer-facing interactions and internal business operations for increased efficiency.",
+      "beginner": "AI assistants are being used by sports teams to make games more fun for fans and help staff work better.",
+      "advanced": "Explore the development of custom AI agents using enterprise LLMs to optimize specific business and operational workflows, focusing on integration with existing digital and physical infrastructure.",
+      "tags": [
+        "enterprise",
+        "partnership",
+        "product",
+        "agents"
+      ]
+    },
+    {
+      "id": "7765d9882542",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "Raising the stakes for enterprise networks with AI modernization",
+      "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+      "publishedAt": "2026-11-24T15:15:16.000Z",
+      "fetchedAt": "2026-11-24T22:57:57.199Z",
+      "contentText": null,
+      "summary": "The rapid deployment of artificial intelligence, particularly agentic AI, is placing significant strain on enterprise networks. AI agents are estimated to generate 450% more network traffic compared to human workers performing the same tasks.",
+      "enterpriseAngle": "Enterprise IT and network teams must prepare for a substantial increase in network traffic and demand due to the widespread adoption of AI, especially agentic AI, which will necessitate significant infrastructure upgrades and optimization. Product development teams should consider network impact when designing and deploying AI-powered solutions.",
+      "beginner": "AI, especially advanced forms like 'agentic AI,' uses a lot of internet data, much more than people do, which can slow down company networks.",
+      "advanced": "Evaluate current network infrastructure capacity and bandwidth against projected agentic AI workloads, prioritizing upgrades and traffic management solutions to prevent performance bottlenecks and ensure operational continuity.",
+      "tags": [
+        "enterprise",
+        "infrastructure",
+        "agents"
+      ]
+    },
+    {
+      "id": "3c6728c1bfd1",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "publishedAt": "2026-11-24T13:00:00.000Z",
+      "fetchedAt": "2026-11-24T22:57:54.955Z",
+      "contentText": null,
+      "summary": "OpenAI's GPT-6 models can design new protein shapes and their chemical building blocks using only reasoning and code, without relying on specialized biology models. In laboratory tests, proteins designed by GPT-6.2 showed evidence of binding to target molecules. The models leverage knowledge from mathematics, physics, chemistry, and biology to reason about protein structures and interactions.",
+      "enterpriseAngle": "This development could significantly streamline drug discovery and material science by enabling enterprise product development teams to rapidly prototype and test novel protein designs with general-purpose AI models, reducing the need for specialized biological expertise and tools. It also suggests a future where AI models can adapt to new design constraints by simply changing prompts, accelerating innovation cycles.",
+      "beginner": "New AI models can now design proteins, which are essential for life, by themselves, making it easier to create new medicines or materials.",
+      "advanced": "Leverage general-purpose LLMs with intrinsic protein design capabilities to accelerate novel therapeutic and industrial enzyme development, integrating their reasoning and code generation for rapid iteration on structural and sequence constraints, and validating designs through targeted wet-lab experiments.",
+      "tags": [
+        "model-release",
+        "research",
+        "science",
+        "product"
+      ]
+    },
+    {
+      "id": "f3aa9260f109",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Searching for distant planets with Astra",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "publishedAt": "2026-11-24T11:00:00.000Z",
+      "fetchedAt": "2026-11-24T22:57:54.955Z",
+      "contentText": null,
+      "summary": "Two amateur astronomers, Kevin Bond and Ethan Byrd, independently used OpenAI's AI tools, Codex and Astra, to analyze public telescope data for signs of exoplanets. Their AI-powered searches identified several potential exoplanets, which have now been submitted to professional astronomers for further validation. This effort demonstrates how AI can assist citizen scientists in contributing to astronomical discoveries.",
+      "enterpriseAngle": "Enterprises can leverage AI tools like Codex and Astra to empower non-expert users to analyze large datasets, potentially accelerating research and development in various fields by making complex data analysis more accessible. This also highlights the potential for AI to augment human capabilities in scientific discovery and data-intensive tasks.",
+      "beginner": "AI can help everyday people look through vast amounts of space data to find new planets, making it easier for anyone to contribute to science.",
+      "advanced": "Consider integrating advanced AI agents for multi-stage data analysis pipelines, where one agent identifies initial candidates and another performs detailed validation, to enhance efficiency and accuracy in large-scale data exploration.",
+      "tags": [
+        "research",
+        "science",
+        "product",
+        "coding"
+      ]
+    },
+    {
+      "id": "ec442b764e04",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "How Intentful uses dots to make more time for growth",
+      "url": "https://openai.com/business/customer-stories/intentful-dots",
+      "publishedAt": "2026-11-24T00:00:00.000Z",
+      "fetchedAt": "2026-11-24T22:57:54.955Z",
+      "contentText": null,
+      "summary": "Intentful, a small marketing agency, uses an AI assistant named Aria (a \"dot\") to streamline operations and free up time for strategic work. Aria helps the CEO, Marina Petrova, with tasks like researching hundreds of websites for proposals, drafting pricing models, and managing communications across various platforms. This allows Intentful to create custom proposals in hours instead of days and stay on top of client needs.",
+      "enterpriseAngle": "Enterprises can leverage AI assistants to automate time-consuming tasks like research, proposal generation, and communication management, significantly boosting efficiency for strategic teams. Integrating AI with existing tools and data sources can empower employees to offload routine work while maintaining oversight and control.",
+      "beginner": "AI assistants can help small businesses and individuals by automating repetitive tasks, allowing them to focus on more important strategic work.",
+      "advanced": "Implement AI agents with controlled access to internal data and tools (e.g., CRM, sales data, document templates) to automate complex workflows like proposal generation and proactive issue identification, ensuring human oversight for critical decisions.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product",
+        "workforce"
+      ]
+    },
+    {
+      "id": "7a6462e387eb",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "url": "https://openai.com/business/customer-stories/ifood",
+      "publishedAt": "2026-11-24T00:00:00.000Z",
+      "fetchedAt": "2026-11-24T22:57:55.057Z",
+      "contentText": null,
+      "summary": "iFood, a Latin American technology company, developed a Remote Agents Platform to automate engineering tasks across its 15,000 code repositories. This platform uses an API to launch coding agents in isolated sandboxes, powered by OpenAI's GPT-5.6 Luna model. The system has successfully doubled the number of vulnerabilities fixed through iFood's internal security platform.",
+      "enterpriseAngle": "Enterprise security and product development teams can leverage AI-powered coding agents to automate repetitive tasks like vulnerability patching and code validation, significantly improving efficiency and consistency across large codebases. The platform's API-driven approach and use of isolated sandboxes offer a scalable and secure way to integrate AI into existing development workflows.",
+      "beginner": "AI can help companies like iFood automate repetitive coding tasks, making it easier to manage many different software projects at once.",
+      "advanced": "Implement an API-driven agentic platform with isolated sandboxes and structured outputs to scale automated code tasks, focusing on models that balance intelligence, efficiency, and execution speed for sustainable cost management.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product",
+        "security"
+      ]
+    },
     {
       "id": "43b498f2b7e3",
       "source": "techcrunch-ai",

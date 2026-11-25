@@ -1,6 +1,147 @@
 {
-  "updatedAt": "2026-11-24T22:59:51.242Z",
+  "updatedAt": "2026-11-25T22:20:48.545Z",
   "articles": [
+    {
+      "id": "4c44ce30146b",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "publishedAt": "2026-11-25T20:03:27.000Z",
+      "fetchedAt": "2026-11-25T22:19:35.470Z",
+      "contentText": null,
+      "summary": "OpenAI is merging its Chat and Work experiences in ChatGPT, which means heavy users might reach their usage limits faster as both functionalities will share a single meter. While most users are not expected to be affected, a small number of the heaviest users may experience earlier restrictions. Conversations using the Instant model will remain unlimited and will not count towards the shared allowance.",
+      "enterpriseAngle": "Enterprise teams relying heavily on ChatGPT for both conversational and work-related tasks may need to monitor their usage more closely to avoid hitting shared limits, potentially impacting productivity or requiring adjustments to their subscription plans. This consolidation could simplify the user experience by unifying interfaces, but also necessitates careful management of advanced model access.",
+      "beginner": "OpenAI is combining its regular chat and work features in ChatGPT, which might mean you hit your usage limit sooner if you use it a lot for both.",
+      "advanced": "Evaluate current team usage patterns for advanced reasoning models across Chat and Work functionalities to anticipate potential impacts from the unified usage meter and adjust resource allocation or subscription tiers as needed.",
+      "tags": [
+        "product",
+        "enterprise",
+        "model-release"
+      ]
+    },
+    {
+      "id": "e7d7a2ca3b37",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Jensen Huang broke Nvidia's code of conduct, and his employees may not forget it",
+      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "publishedAt": "2026-11-25T19:54:57.000Z",
+      "fetchedAt": "2026-11-25T22:19:35.470Z",
+      "contentText": null,
+      "summary": "Nvidia CEO Jensen Huang admitted to violating the company's code of conduct but stated that breaking the code does not automatically lead to termination, even for himself. This stance creates a cultural risk for Nvidia, as experts suggest that unpunished infractions by leadership can lead to employee embarrassment and anger. The challenge for Nvidia is particularly acute given Huang's integral role and the lack of a clear succession plan.",
+      "enterpriseAngle": "For enterprise leaders, this situation highlights the critical importance of consistent application of corporate codes of conduct to maintain employee trust and morale, as inconsistencies can erode company culture and pride. Product development and security teams, in particular, rely on strong ethical foundations to ensure responsible innovation and data handling.",
+      "beginner": "A company's rules, called a code of conduct, are important because they show what the company values, and if even the boss breaks them without consequences, it can make employees lose trust and pride in their workplace.",
+      "advanced": "To mitigate the cultural and reputational risks associated with leadership code of conduct violations, organizations should implement transparent investigation processes and, if necessary, demonstrate accountability to employees, even when the leader is a 'godhead figure,' to preserve long-term workforce engagement and ethical standards.",
+      "tags": [
+        "governance",
+        "workforce",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "372ac8913322",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "publishedAt": "2026-11-25T19:44:24.000Z",
+      "fetchedAt": "2026-11-25T22:19:35.470Z",
+      "contentText": null,
+      "summary": "Anthropic CEO Dario Amodei has refuted claims from competitors that he supports giving up human control to AI systems. These accusations come as major AI firms are automating more of their research and model development processes.",
+      "enterpriseAngle": "Enterprise product development teams should consider the balance between AI automation and human oversight in their own systems, especially as industry leaders debate the extent of AI autonomy.",
+      "beginner": "Some people worry that AI might take over too much, but Anthropic's CEO says his company isn't trying to let AI control everything.",
+      "advanced": "Evaluate your internal AI development pipelines for the appropriate level of human-in-the-loop controls to mitigate risks associated with increasing automation.",
+      "tags": [
+        "governance",
+        "product",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "c2211ba4f6cd",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "publishedAt": "2026-11-25T18:11:46.000Z",
+      "fetchedAt": "2026-11-25T22:19:35.470Z",
+      "contentText": null,
+      "summary": "New York has implemented a five-year ban on AI chatbot toys due to safety concerns. This decision follows research from Common Sense Media highlighting issues like exposure to inappropriate content and potential risks to children's emotional development.",
+      "enterpriseAngle": "This ban signals increasing regulatory scrutiny on AI products, particularly those for vulnerable populations, requiring enterprises to prioritize safety and ethical design in product development to avoid market restrictions. Companies developing AI-powered consumer products, especially those targeting children, must proactively address potential harms and demonstrate robust safety measures.",
+      "beginner": "New York banned AI toys because they might expose kids to bad stuff or hurt their feelings.",
+      "advanced": "To navigate evolving AI regulations, product teams should integrate child safety and ethical AI principles into their development lifecycle, conducting thorough risk assessments and user studies to preemptively address potential harms.",
+      "tags": [
+        "policy",
+        "consumer",
+        "product",
+        "governance"
+      ]
+    },
+    {
+      "id": "92419877312e",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "publishedAt": "2026-11-25T17:35:58.000Z",
+      "fetchedAt": "2026-11-25T22:19:35.470Z",
+      "contentText": null,
+      "summary": "A coalition of 42 state attorneys general is challenging Character.ai's plan to auction off private user chats and personal data, including those of minors, as part of its bankruptcy proceedings. The AGs argue that this sale violates Character.ai's previous promises to users and federal/state laws, and that the buyer would not be bound by existing privacy policies. The proposed sale to an anonymous bidder, Smirks and Pangs Acquisition LLC, is set for December 1, with AGs raising concerns about the lack of user protections and potential legal issues.",
+      "enterpriseAngle": "Enterprise product and security teams must ensure that user data handling policies are robust and legally compliant, especially during corporate transitions like bankruptcy, to avoid severe legal challenges and reputational damage. This case highlights the critical need for clear, enforceable data governance frameworks that protect user privacy beyond the operational lifespan of a company.",
+      "beginner": "When an AI company goes bankrupt, there's a risk that your private conversations with their chatbots could be sold to other companies, even if the original company promised they wouldn't be.",
+      "advanced": "Review and fortify your organization's data retention, privacy, and bankruptcy clauses to explicitly address the disposition of user data, ensuring compliance with evolving state and federal regulations and preventing unauthorized data sales.",
+      "tags": [
+        "security",
+        "policy",
+        "governance",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "f6730ac844fe",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+      "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+      "publishedAt": "2026-11-25T15:41:43.000Z",
+      "fetchedAt": "2026-11-25T22:19:35.470Z",
+      "contentText": null,
+      "summary": "Nvidia is reportedly requiring AI data centers to be near completion before offering support, impacting \"neoclouds\" that are already facing construction delays and higher debt costs. This shift emphasizes the importance of tangible assets like land, power, and finished buildings over initial proposals for developers.",
+      "enterpriseAngle": "Enterprise product development teams relying on AI infrastructure should anticipate potential delays and increased costs in securing compute resources, necessitating robust planning for physical infrastructure. Security teams should be aware that supply chain disruptions in data center construction could indirectly affect the availability and resilience of AI-powered security tools.",
+      "beginner": "Building the special computer centers needed for AI is getting harder and more expensive, especially for newer companies.",
+      "advanced": "Prioritize securing physical infrastructure and power commitments early in AI project planning, as hardware vendors are increasingly demanding tangible progress before providing support.",
+      "tags": [
+        "infrastructure",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "570b39bfa866",
+      "source": "mit-tr-ai",
+      "sourceName": "MIT Technology Review",
+      "tier": "daily",
+      "title": "AI is straining America’s open records systems",
+      "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+      "publishedAt": "2026-11-25T10:00:00.000Z",
+      "fetchedAt": "2026-11-25T22:19:35.791Z",
+      "contentText": null,
+      "summary": "The increasing use of AI is putting a strain on America's open records systems, as exemplified by small towns like Panton, Vermont. Town clerks, who often manage multiple civic duties, are now facing additional challenges in handling public records requests in the age of AI. This suggests a growing burden on existing infrastructure and personnel responsible for maintaining transparency and public access to information.",
+      "enterpriseAngle": "Enterprise product development teams should consider how AI tools can assist public sector organizations in managing and responding to open records requests more efficiently. Security teams must ensure that any AI solutions implemented for public records do not introduce new vulnerabilities or compromise data privacy.",
+      "beginner": "AI is making it harder for local governments to keep up with requests for public information.",
+      "advanced": "Evaluate current public records management workflows for AI integration opportunities to streamline processing and ensure compliance, while simultaneously conducting a thorough privacy impact assessment.",
+      "tags": [
+        "governance",
+        "infrastructure",
+        "policy"
+      ]
+    },
     {
       "id": "bc426bbbebd7",
       "source": "techcrunch-ai",
@@ -266,6 +407,27 @@
         "enterprise",
         "product",
         "security"
+      ]
+    },
+    {
+      "id": "99b93f3e1098",
+      "source": "openai",
+      "sourceName": "OpenAI",
+      "tier": "realtime",
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "publishedAt": "2026-11-24T00:00:00.000Z",
+      "fetchedAt": "2026-11-25T22:19:33.076Z",
+      "contentText": null,
+      "summary": "Clay, a self-learning revenue engine, utilizes OpenAI's GPT-6 models (Astra, Sol, Luna) and integrations with Codex and ChatGPT to help sales teams research deals and develop go-to-market strategies. The platform enables users to build company and contact lists, enrich data using agents, and create workflows to improve sales pitches. Clay's Head of AI, Jeff Barg, highlights how these integrations provide sales reps with crucial context about prospects directly within their existing tools.",
+      "enterpriseAngle": "Enterprise sales and product development teams can leverage AI-powered tools like Clay to enhance sales efficiency by automating data enrichment, lead qualification, and go-to-market strategy development, freeing up human resources for more complex tasks. The use of varied models for different tasks (e.g., GPT-6 Sol for primary tasks, Astra for harder tasks, Luna for cost-sensitive work) demonstrates a strategic approach to optimizing AI resource allocation within an enterprise solution.",
+      "beginner": "AI tools like Clay help sales teams understand customers better and create effective sales plans by using smart computer programs to gather and analyze information.",
+      "advanced": "Integrate multi-model AI architectures, leveraging specialized models for task-specific intelligence and cost optimization, to build self-improving, end-to-end workflows for enterprise functions like sales and software development.",
+      "tags": [
+        "enterprise",
+        "product",
+        "agents",
+        "model-release"
       ]
     },
     {

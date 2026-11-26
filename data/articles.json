@@ -1,6 +1,68 @@
 {
-  "updatedAt": "2026-11-25T22:20:48.545Z",
+  "updatedAt": "2026-11-26T22:13:40.651Z",
   "articles": [
+    {
+      "id": "c881f1e71110",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "publishedAt": "2026-11-26T20:03:54.000Z",
+      "fetchedAt": "2026-11-26T22:12:47.334Z",
+      "contentText": null,
+      "summary": "Nvidia has temporarily halted server shipments to Malaysia, Singapore, Thailand, and Indonesia, instructing manufacturing partners like Dell and Super Micro to pause deliveries. This decision stems from Nvidia's assessment of whether its regional partners comply with U.S. export requirements. The pause is reportedly linked to Chinese companies remotely accessing Nvidia chips from data centers in these countries, a loophole recently closed by the U.S. Commerce Department.",
+      "enterpriseAngle": "Enterprise product development and infrastructure teams relying on Nvidia chips in Southeast Asia may face supply chain disruptions and delays in their AI initiatives. Companies operating data centers in these regions need to ensure strict compliance with evolving U.S. export controls to avoid service interruptions.",
+      "beginner": "Nvidia stopped sending powerful computer chips to some countries in Southeast Asia because of new rules about who can use them, especially to prevent China from accessing them indirectly.",
+      "advanced": "Assess your supply chain resilience and compliance frameworks for AI hardware procurement in Southeast Asia, particularly concerning U.S. export controls and the potential for secondary sanctions or disruptions due to indirect access by restricted entities.",
+      "tags": [
+        "infrastructure",
+        "policy",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "ec74e9ba2187",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Grand Theft Auto VI proves why efficiency isn't a virtue",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "publishedAt": "2026-11-26T16:00:00.000Z",
+      "fetchedAt": "2026-11-26T22:12:47.334Z",
+      "contentText": null,
+      "summary": "Grand Theft Auto VI (GTA VI) launched to record-breaking success, becoming the highest-rated game of all time on Metacritic and generating $3.79 billion on release day. This achievement is notable because the game was developed over 13 years by approximately 5,000 people without the use of generative AI. The release coincided with Anthropic's record-setting IPO, highlighting a contrast between the AI industry's focus on efficiency and Rockstar Games' labor-intensive, iterative development process.",
+      "enterpriseAngle": "Enterprise product development teams, particularly in creative industries, should consider that while AI promises efficiency, the deliberate, iterative, and human-centric approach demonstrated by GTA VI can lead to unparalleled product quality and market impact. This suggests a need to balance AI-driven efficiency with the value of human creativity and the \"inefficiencies\" that foster innovation and artistic depth.",
+      "beginner": "Even though AI is good at making things quickly, some of the best products, like the new Grand Theft Auto game, are still made slowly and carefully by many people.",
+      "advanced": "When integrating AI into creative workflows, assess whether the pursuit of efficiency compromises the unique, human-driven iterative processes that can lead to breakthrough products and sustained market engagement, as exemplified by GTA VI's success.",
+      "tags": [
+        "product",
+        "enterprise",
+        "research",
+        "consumer"
+      ]
+    },
+    {
+      "id": "f27e0de9d097",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man' risks",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "publishedAt": "2026-11-25T22:44:32.000Z",
+      "fetchedAt": "2026-11-26T22:12:47.334Z",
+      "contentText": null,
+      "summary": "S&P Global Ratings is considering downgrading Nvidia's credit rating due to concerns about the company's management and governance practices, specifically citing \"weak executive oversight and lack of succession planning\" and \"key man risk\" related to CEO Jensen Huang. This review follows Huang's ouster and reinstatement, despite Nvidia's strong financial performance. A downgrade from AA to AA- could increase Nvidia's borrowing costs and potentially impact the financing of AI infrastructure projects it backstops.",
+      "enterpriseAngle": "A potential credit downgrade for Nvidia could raise its borrowing costs, which in turn might increase the cost of debt for neoclouds and other infrastructure companies that rely on Nvidia's credit backing, impacting enterprise AI infrastructure development. Enterprise product development teams relying on Nvidia's ecosystem may face higher costs for essential hardware and services.",
+      "beginner": "A credit rating agency is worried about Nvidia's leadership and how much the company depends on its CEO, which could make it more expensive for Nvidia to borrow money.",
+      "advanced": "Monitor Nvidia's credit rating review as a downgrade could elevate financing costs for AI infrastructure projects, potentially impacting the terms and availability of capital for critical enterprise AI deployments and partnerships.",
+      "tags": [
+        "enterprise",
+        "governance",
+        "infrastructure",
+        "funding"
+      ]
+    },
     {
       "id": "4c44ce30146b",
       "source": "techcrunch-ai",
@@ -123,6 +185,46 @@
       ]
     },
     {
+      "id": "28175a595e60",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "publishedAt": "2026-11-25T14:10:18.000Z",
+      "fetchedAt": "2026-11-26T22:12:47.334Z",
+      "contentText": null,
+      "summary": "Amazon and Meta are reportedly in discussions to allow Meta's AI agent, Muse, to connect directly with Amazon's online store. This marks a potential reversal from two months prior, when Muse users encountered errors trying to purchase items on Amazon. Key negotiation points include how search results and advertising would be handled, as Amazon is concerned about the impact on its advertising business and direct customer relationships.",
+      "enterpriseAngle": "Enterprise product development teams should consider the strategic implications of integrating AI agents into existing platforms, particularly regarding control over user experience, advertising revenue, and direct customer engagement. Security teams should also note the potential for new attack surfaces or data privacy concerns when third-party agents access sensitive e-commerce functionalities.",
+      "beginner": "Companies like Amazon are carefully considering how new AI tools from other companies might affect their business, especially how they show products and make money from ads.",
+      "advanced": "Evaluate the long-term strategic value of third-party AI agent integrations against potential revenue cannibalization and brand dilution, focusing on granular control over search algorithms and advertising placements to maintain competitive advantage.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "product",
+        "partnership"
+      ]
+    },
+    {
+      "id": "9edbb62c9bcf",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+      "publishedAt": "2026-11-25T13:00:00.000Z",
+      "fetchedAt": "2026-11-26T22:12:47.334Z",
+      "contentText": null,
+      "summary": "Investigators are scrutinizing Nvidia's knowledge regarding the final destination of certain chips. A key area of inquiry is whether CEO Jensen Huang's relationship with a Megaspeed executive influenced Nvidia's trust in Megaspeed's assurances about chip distribution.",
+      "enterpriseAngle": "This situation highlights the critical importance of robust supply chain oversight and due diligence, especially when dealing with sensitive technologies and high-stakes partnerships, to prevent potential misuse or regulatory issues.",
+      "beginner": "Companies like Nvidia need to know where their products go, and personal relationships can sometimes make that complicated.",
+      "advanced": "Implement enhanced supply chain transparency protocols and conduct independent audits of partner distribution channels to mitigate risks associated with executive relationships and ensure compliance.",
+      "tags": [
+        "enterprise",
+        "governance"
+      ]
+    },
+    {
       "id": "570b39bfa866",
       "source": "mit-tr-ai",
       "sourceName": "MIT Technology Review",
@@ -140,6 +242,26 @@
         "governance",
         "infrastructure",
         "policy"
+      ]
+    },
+    {
+      "id": "d6a3974a1a3c",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Yale's Sonnenfeld: Nvidia is a ‘detriment' to US industrial might — not a champion",
+      "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "publishedAt": "2026-11-25T00:12:02.000Z",
+      "fetchedAt": "2026-11-26T22:12:47.334Z",
+      "contentText": null,
+      "summary": "Yale's Jeffrey Sonnenfeld suggests that Jensen Huang's return as Nvidia's CEO and board member, despite market approval, could lead to significant personal liability for directors due to increasing lawsuits. Sonnenfeld also questions whether Nvidia, by supplying advanced chips, is inadvertently aiding U.S. adversaries.",
+      "enterpriseAngle": "Enterprise product development and supply chain teams should consider the geopolitical implications of their hardware suppliers, especially concerning advanced technologies that could face export restrictions or contribute to national security concerns. This situation highlights potential risks for companies relying on a single dominant chip provider.",
+      "beginner": "A university expert is concerned that Nvidia, a major chip maker, might be unintentionally helping countries that are not allies of the U.S. by selling them advanced technology.",
+      "advanced": "Evaluate the geopolitical risk profile of your critical technology suppliers, particularly those with significant market share in dual-use technologies, and diversify supply chains where feasible to mitigate potential regulatory or national security-driven disruptions.",
+      "tags": [
+        "policy",
+        "enterprise",
+        "hardware"
       ]
     },
     {

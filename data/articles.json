@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T22:13:40.651Z",
+  "updatedAt": "2026-11-27T21:53:28.025Z",
   "articles": [
     {
       "id": "c881f1e71110",
@@ -404,6 +404,47 @@
       "tags": [
         "enterprise",
         "funding"
+      ]
+    },
+    {
+      "id": "ef2ea07a8f96",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+      "publishedAt": "2026-11-24T18:02:59.000Z",
+      "fetchedAt": "2026-11-27T21:53:09.549Z",
+      "contentText": null,
+      "summary": "The U.K. government's cybersecurity unit, NCSC, reports a significant increase in AI-driven cyberattacks. These attacks leverage autonomous hacking tools to quickly identify and exploit simple, long-standing security weaknesses in systems and networks. While the vulnerabilities themselves are not new, the speed of exploitation has dramatically increased due to these AI tools.",
+      "enterpriseAngle": "Enterprise security teams must prioritize addressing foundational cybersecurity weaknesses and technical debt, as AI tools are making it much faster for attackers to find and exploit these long-ignored vulnerabilities. Product development teams should ensure robust API security and secure coding practices to prevent easy exploitation by autonomous agents.",
+      "beginner": "AI tools are making it easier and faster for hackers to find simple security flaws that companies have neglected for a long time.",
+      "advanced": "Implement automated vulnerability scanning and penetration testing with AI-driven tools to proactively identify and remediate unmitigated weaknesses and technical debt, focusing on internet-facing systems and API endpoints, before malicious actors exploit them at scale.",
+      "tags": [
+        "security",
+        "enterprise",
+        "policy"
+      ]
+    },
+    {
+      "id": "03938f50d224",
+      "source": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "tier": "daily",
+      "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+      "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+      "publishedAt": "2026-11-24T17:00:00.000Z",
+      "fetchedAt": "2026-11-27T21:53:09.549Z",
+      "contentText": null,
+      "summary": "Meta has integrated its AI assistant, Muse, directly into Instagram's direct messages, allowing users to interact with the AI without leaving the app. This integration enables users to get context on posts, catch up on conversations, and perform actions like adding items to itineraries or finding deals. Muse can also organize saved Instagram content into custom folders and transform content like recipe videos into grocery lists.",
+      "enterpriseAngle": "For enterprise product development teams, this highlights the increasing trend of embedding AI assistants directly into existing platforms to enhance user experience and engagement. Security teams should note the emphasis on user control over data shared with Muse, which is crucial for maintaining user trust and compliance.",
+      "beginner": "AI assistants are becoming a common feature in apps you already use, making it easier to get help with tasks like organizing information or finding details about things you see online.",
+      "advanced": "Leverage in-app AI integration strategies to reduce friction for users and enhance data accessibility for AI agents, while prioritizing robust user controls and transparent data handling to mitigate privacy concerns and build trust.",
+      "tags": [
+        "product",
+        "agents",
+        "enterprise",
+        "consumer"
       ]
     },
     {
